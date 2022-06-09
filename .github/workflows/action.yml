@@ -19,6 +19,10 @@ jobs:
         chmod -R 777 .
         pwd >> here
 
+    - name: update feeds
+      run: |
+          python ./feed.py>>./log/log
+
     # error starting here
     - name: install dependencies
       uses: s-weigand/setup-conda@v1
