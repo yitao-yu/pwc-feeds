@@ -1,3 +1,10 @@
+All credits to [the original author](https://github.com/ml-feeds/pwc-feeds)
+
+The original rss service is not available in my region.
+
+I simply addapt the code and created a similar service utilizing the github action. 
+
+---
 # pwc-feeds
 **pwc-feeds** uses Python 3.9 to serve RSS feeds for Papers With Code. 
 As a disclaimer, it has no affiliation with Papers With Code.
