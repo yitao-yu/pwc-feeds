@@ -14,11 +14,11 @@ jobs:
       with:
         python-version: "3.9"
 
-    - name: where am i
-      run:
-        dir >> here 
-        cd ..
-        dir >> here
+    # - name: where am i
+    #   run:
+    #     dir >> here 
+    #     cd ..
+    #     dir >> here
     
     # error starting here
     - name: install dependency
