@@ -31,11 +31,12 @@ jobs:
       run: |
           python ./feed.py>>./log/log
 
-    - name: Commit files # commit the output folder
+    - name: Commit files
       run: |
         git config --local user.email "test@github.com"
         git config --local user.name "GitHub Action test"
-        git add ./output
+        git add ./log/log
+        git add ./rss
         git commit -m "Add changes"
 
     - name: Push changes # push the output folder to your repo
