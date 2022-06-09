@@ -4,7 +4,7 @@ The original rss feed is not available in my region. I simply addapt the code an
 
 This version doesn't support the deployment described in the original repo. 
 
-This is **NOT** an official rss feed.
+This is **NOT** an official *paperswithcode* rss feed.
 
 [trending](https://yitao-yu.github.io/pwc-feeds/rss/trending.xml) | [latest](https://yitao-yu.github.io/pwc-feeds/rss/latest.xml) | [greatest](https://yitao-yu.github.io/pwc-feeds/rss/greatest.xml) 
 
