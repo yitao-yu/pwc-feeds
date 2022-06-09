@@ -20,6 +20,6 @@ jobs:
           python -m pip install --upgrade pip
           conda env update --file ./req/environment.yml --name base
 
-    - name: update feeds
-          python feed.py>>./log/log
+    # - name: update feeds
+    #       python feed.py>>./log/log
 
