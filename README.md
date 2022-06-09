@@ -1,8 +1,12 @@
 All credits to [the original author](https://github.com/ml-feeds/pwc-feeds)
 
-The original rss service is not available in my region.
+The original rss feed is not available in my region(maybe because he use google's serverless service :P).
 
 I simply addapt the code and created a similar service utilizing the github action. 
+
+this is NOT an official rss feed.
+
+[trending](https://yitao-yu.github.io/pwc-feeds/rss/trending.xml)|[latest](https://yitao-yu.github.io/pwc-feeds/rss/latest.xml)  | [greatest](https://yitao-yu.github.io/pwc-feeds/rss/greatest.xml) 
 
 ---
 # pwc-feeds
