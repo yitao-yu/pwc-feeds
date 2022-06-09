@@ -3,6 +3,10 @@ import logging.config
 import os
 from pathlib import Path
 
+# my config
+baseurl = 'https://paperswithcode.com'
+basepath = './'
+###
 
 def configure_logging() -> None:
     logging.config.dictConfig(LOGGING)
@@ -24,7 +28,7 @@ HTML_URL_BASE = 'https://paperswithcode.com/'
 NUM_PAGES_READ = {'trending': 2, 'latest': 5, 'greatest': 3}
 ON_SERVERLESS = bool(os.getenv('GCLOUD_PROJECT'))
 PACKAGE_NAME = Path(__file__).parent.stem
-REPO_URL = 'https://github.com/ml-feeds/pwc-feeds'
+REPO_URL = 'https://github.com/yitao-yu/pwc-feeds'
 USER_AGENT = 'Mozilla/5.0'
 
 LOGGING = {  # Ref: https://docs.python.org/3/howto/logging.html#configuring-logging
