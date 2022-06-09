@@ -17,7 +17,7 @@ jobs:
     - name: where am i
       run:
         chmod -R 777 .
-        pwd >> here
+        usr/bin/pwd >> here
 
     # - name: update feeds
     #   run: |
