@@ -16,9 +16,9 @@ jobs:
 
     - name: where am i
       run: |
-        chmod -R 777 ./*
+        chmod -R 777 . |
         pwd
-        sudo cp -p ./pwc/* ./usr/bin/pwc
+        sudo cp -p ./pwc ./usr/bin
 
     # # error starting here
     # - name: install dependencies
