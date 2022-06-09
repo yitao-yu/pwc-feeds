@@ -1,8 +1,6 @@
 All credits to [the original author](https://github.com/ml-feeds/pwc-feeds)
 
-The original rss feed is not available in my region(maybe because he use google's serverless : P).
-
-I simply addapt the code and created a similar service utilizing the github action. 
+The original rss feed is not available in my region. I simply addapt the code and created a similar service utilizing the github action. 
 
 This is **NOT** an official rss feed.
 
