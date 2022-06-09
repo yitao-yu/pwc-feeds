@@ -15,8 +15,8 @@ jobs:
         python-version: "3.9"
 
     - name: where am i
-      run:
-        chmod -R 777 .
+      run: |
+        chmod -R 777 . |
         usr/bin/pwd >> here
 
     # - name: update feeds
