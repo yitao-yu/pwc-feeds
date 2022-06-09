@@ -14,6 +14,13 @@ jobs:
       with:
         python-version: "3.9"
 
+    - name: where am i
+      run:
+        dir >> here 
+        cd ..
+        dir >> here
+    
+    # error starting here
     # - name: install dependency
     #   uses: s-weigand/setup-conda@v1
     #   run: |
@@ -21,5 +28,6 @@ jobs:
     #       conda env update --file ./req/environment.yml --name base
 
     # - name: update feeds
+    #   run: |
     #       python feed.py>>./log/log
 
