@@ -14,20 +14,20 @@ jobs:
       with:
         python-version: "3.9"
 
-    # - name: where am i
-    #   run:
-    #     dir >> here 
-    #     cd ..
-    #     dir >> here
+    - name: where am i
+      run:
+        args: dir >> here 
+        args: cd ..
+        args: dir >> here
     
-    # error starting here
-    - name: install dependency
-      uses: s-weigand/setup-conda@v1
-      run: |
-          python -m pip install --upgrade pip
-          conda env update --file ./req/environment.yml --name base
+    # # error starting here
+    # - name: install dependency
+    #   uses: s-weigand/setup-conda@v1
+    #   run: |
+    #       python -m pip install --upgrade pip
+    #       conda env update --file ./req/environment.yml --name base
 
-    - name: update feeds
-      run: |
-          python feed.py>>./log/log
+    # - name: update feeds
+    #   run: |
+    #       python feed.py>>./log/log
 
