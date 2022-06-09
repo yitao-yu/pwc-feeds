@@ -4,7 +4,7 @@ The original rss feed is not available in my region(maybe because he use google'
 
 I simply addapt the code and created a similar service utilizing the github action. 
 
-This is *NOT* an official rss feed.
+This is **NOT** an official rss feed.
 
 [trending](https://yitao-yu.github.io/pwc-feeds/rss/trending.xml) | [latest](https://yitao-yu.github.io/pwc-feeds/rss/latest.xml) | [greatest](https://yitao-yu.github.io/pwc-feeds/rss/greatest.xml) 
 
