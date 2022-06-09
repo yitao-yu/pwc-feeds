@@ -6,7 +6,7 @@ on:
 
 jobs:
   my-job:
-    name: update_rss_feeds
+    name: update rss_
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -31,3 +31,15 @@ jobs:
       run: |
           python ./feed.py>>./log/log
 
+    - name: Commit files # commit the output folder
+      run: |
+        git config --local user.email "test@github.com"
+        git config --local user.name "GitHub Action test"
+        git add ./output
+        git commit -m "Add changes"
+
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
