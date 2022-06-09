@@ -16,9 +16,9 @@ jobs:
 
     - name: where am i
       run:
-        args: dir >> here 
-        args: cd ..
-        args: dir >> here
+        /usr/bin/dir >> here 
+        /usr/bin/cd ..
+        /usr/bin/dir >> here
     
     # # error starting here
     # - name: install dependency
