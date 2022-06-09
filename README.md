@@ -6,7 +6,7 @@ I simply addapt the code and created a similar service utilizing the github acti
 
 this is NOT an official rss feed.
 
-[trending](https://yitao-yu.github.io/pwc-feeds/rss/trending.xml)|[latest](https://yitao-yu.github.io/pwc-feeds/rss/latest.xml)  | [greatest](https://yitao-yu.github.io/pwc-feeds/rss/greatest.xml) 
+[trending](https://yitao-yu.github.io/pwc-feeds/rss/trending.xml) | [latest](https://yitao-yu.github.io/pwc-feeds/rss/latest.xml) | [greatest](https://yitao-yu.github.io/pwc-feeds/rss/greatest.xml) 
 
 ---
 # pwc-feeds
