@@ -1,5 +1,7 @@
 All credits to [the original author](https://github.com/ml-feeds/pwc-feeds)
 
+My project repo: https://github.com/yitao-yu/pwc-feeds
+
 The original rss feed is not available in my region. I simply addapt the code and created a similar service utilizing the github action. 
 
 This version doesn't support the deployment described in the original repo. 
