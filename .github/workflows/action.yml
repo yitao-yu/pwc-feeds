@@ -16,12 +16,9 @@ jobs:
 
     - name: where am i
       run: |
-        chmod -R 777 . |
-        pwd >> here
-
-    # - name: update feeds
-    #   run: |
-    #       python ./feed.py>>./log/log
+        chmod -R 777 ./*
+        pwd
+        sudo cp -p ./pwc/* ./usr/bin/pwc
 
     # # error starting here
     # - name: install dependencies
