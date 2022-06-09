@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
@@ -19,4 +20,21 @@ sqlite
 tzdata
 urllib3==1.26.9
 wincertstore
+=======
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+docopt==0.6.2
+feedgen==0.9.0
+humanize @ file:///tmp/build/80754af9/humanize_1625744396225/work
+idna==3.3
+lxml==4.9.0
+more-itertools==8.13.0
+pipreqs==0.4.11
+python-dateutil==2.8.2
+requests==2.27.1
+six==1.16.0
+urllib3==1.26.9
+wincertstore==0.2
+>>>>>>> Stashed changes
 yarg==0.1.9
