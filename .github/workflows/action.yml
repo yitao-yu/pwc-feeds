@@ -34,7 +34,7 @@ jobs:
     - name: Commit files
       run: |
         git config --local user.email "test@github.com"
-        git config --local user.name "GitHub Action test"
+        git config --local user.name "my_commit_bot"
         git add ./log/log
         git add ./rss
         git commit -m "Add changes"
