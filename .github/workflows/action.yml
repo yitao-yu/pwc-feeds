@@ -35,7 +35,7 @@ jobs:
     # https://github.community/t/possible-to-commit-files-after-workflow-runs/17824
     - name: Commit files
       run: |
-        git config --local user.email "example@github.com"
+        git config --local user.email "taobot@github.com"
         git config --local user.name "my_commit_bot"
         git add ./log/log
         git add ./rss
