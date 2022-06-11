@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jun 2022 21:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jun 2022 09:13:13 +0000</lastBuildDate>
     <item>
       <title>Zero-Shot Text-to-Image Generation</title>
       <link>https://paperswithcode.com/paper/zero-shot-text-to-image-generation</link>
       <description><![CDATA[Text-to-image generation has traditionally focused on finding better modeling assumptions for training on a fixed dataset.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-to-image-generation</guid>
+    </item>
+    <item>
+      <title>BigVGAN: A Universal Neural Vocoder with Large-Scale Training</title>
+      <link>https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</link>
+      <description><![CDATA[Despite recent progress in generative adversarial network(GAN)-based vocoders, where the model generates raw waveform conditioned on mel spectrogram, it is still challenging to synthesize high-fidelity audio for numerous speakers across varied recording environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</guid>
     </item>
     <item>
       <title>Vectorized and performance-portable Quicksort</title>
@@ -21,22 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</guid>
     </item>
     <item>
+      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
+      <link>https://paperswithcode.com/paper/beyond-the-imitation-game-quantifying-and</link>
+      <description><![CDATA[BIG-bench focuses on tasks that are believed to be beyond the capabilities of current language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-the-imitation-game-quantifying-and</guid>
+    </item>
+    <item>
       <title>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation</title>
       <link>https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</link>
       <description><![CDATA[In this paper we present Mask DINO, a unified object detection and segmentation framework.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</guid>
-    </item>
-    <item>
-      <title>A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation</title>
-      <link>https://paperswithcode.com/paper/a-lightweight-instrument-agnostic-model-for</link>
-      <description><![CDATA[Despite its simplicity, benchmark results show our system's note estimation to be substantially better than a comparable baseline, and its frame-level accuracy to be only marginally below those of specialized state-of-the-art AMT systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-lightweight-instrument-agnostic-model-for</guid>
-    </item>
-    <item>
-      <title>EfficientFormer: Vision Transformers at MobileNet Speed</title>
-      <link>https://paperswithcode.com/paper/efficientformer-vision-transformers-at</link>
-      <description><![CDATA[Our work proves that properly designed transformers can reach extremely low latency on mobile devices while maintaining high performance]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientformer-vision-transformers-at</guid>
     </item>
     <item>
       <title>Diffusion-LM Improves Controllable Text Generation</title>
@@ -51,34 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/separable-self-attention-for-mobile-vision</guid>
     </item>
     <item>
-      <title>OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/opencalib-a-multi-sensor-calibration-toolbox</link>
-      <description><![CDATA[To this end, we present OpenCalib, a calibration toolbox that contains a rich set of various sensor calibration methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/opencalib-a-multi-sensor-calibration-toolbox</guid>
-    </item>
-    <item>
-      <title>Masked Unsupervised Self-training for Zero-shot Image Classification</title>
-      <link>https://paperswithcode.com/paper/masked-unsupervised-self-training-for-zero</link>
-      <description><![CDATA[We demonstrate the efficacy of MUST on 8 downstream tasks across a variety of domains, where it improves upon CLIP by a large margin and narrows the performance gap between unsupervised and supervised classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-unsupervised-self-training-for-zero</guid>
-    </item>
-    <item>
-      <title>DoWhy: Addressing Challenges in Expressing and Validating Causal Assumptions</title>
-      <link>https://paperswithcode.com/paper/dowhy-addressing-challenges-in-expressing-and</link>
-      <description><![CDATA[Estimation of causal effects involves crucial assumptions about the data-generating process, such as directionality of effect, presence of instrumental variables or mediators, and whether all relevant confounders are observed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dowhy-addressing-challenges-in-expressing-and</guid>
-    </item>
-    <item>
-      <title>BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation</title>
-      <link>https://paperswithcode.com/paper/bevfusion-multi-task-multi-sensor-fusion-with</link>
-      <description><![CDATA[Multi-sensor fusion is essential for an accurate and reliable autonomous driving system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bevfusion-multi-task-multi-sensor-fusion-with</guid>
-    </item>
-    <item>
-      <title>Can CNNs Be More Robust Than Transformers?</title>
-      <link>https://paperswithcode.com/paper/can-cnns-be-more-robust-than-transformers</link>
-      <description><![CDATA[The recent success of Vision Transformers is shaking the long dominance of Convolutional Neural Networks (CNNs) in image recognition for a decade.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-cnns-be-more-robust-than-transformers</guid>
+      <title>Demystifying MMD GANs</title>
+      <link>https://paperswithcode.com/paper/demystifying-mmd-gans</link>
+      <description><![CDATA[We investigate the training and performance of generative adversarial networks using the Maximum Mean Discrepancy (MMD) as critic, termed MMD GANs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-mmd-gans</guid>
     </item>
     <item>
       <title>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding</title>
@@ -87,16 +63,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models</guid>
     </item>
     <item>
-      <title>FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance</title>
-      <link>https://paperswithcode.com/paper/finrl-a-deep-reinforcement-learning-library</link>
-      <description><![CDATA[In this paper, we introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/finrl-a-deep-reinforcement-learning-library</guid>
+      <title>BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation</title>
+      <link>https://paperswithcode.com/paper/bevfusion-multi-task-multi-sensor-fusion-with</link>
+      <description><![CDATA[Multi-sensor fusion is essential for an accurate and reliable autonomous driving system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bevfusion-multi-task-multi-sensor-fusion-with</guid>
     </item>
     <item>
-      <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
-      <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
-      <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
+      <title>A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation</title>
+      <link>https://paperswithcode.com/paper/a-lightweight-instrument-agnostic-model-for</link>
+      <description><![CDATA[Despite its simplicity, benchmark results show our system's note estimation to be substantially better than a comparable baseline, and its frame-level accuracy to be only marginally below those of specialized state-of-the-art AMT systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-lightweight-instrument-agnostic-model-for</guid>
+    </item>
+    <item>
+      <title>Towards Layer-wise Image Vectorization</title>
+      <link>https://paperswithcode.com/paper/towards-layer-wise-image-vectorization-1</link>
+      <description><![CDATA[Image rasterization is a mature technique in computer graphics, while image vectorization, the reverse path of rasterization, remains a major challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-layer-wise-image-vectorization-1</guid>
+    </item>
+    <item>
+      <title>PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies</title>
+      <link>https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</link>
+      <description><![CDATA[In this work, we revisit the classical PointNet++ through a systematic study of model training and scaling strategies, and offer two major contributions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</guid>
+    </item>
+    <item>
+      <title>Neural Prompt Search</title>
+      <link>https://paperswithcode.com/paper/neural-prompt-search</link>
+      <description><![CDATA[The size of vision models has grown exponentially over the last few years, especially after the emergence of Vision Transformer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-prompt-search</guid>
+    </item>
+    <item>
+      <title>Masked Unsupervised Self-training for Zero-shot Image Classification</title>
+      <link>https://paperswithcode.com/paper/masked-unsupervised-self-training-for-zero</link>
+      <description><![CDATA[We demonstrate the efficacy of MUST on 8 downstream tasks across a variety of domains, where it improves upon CLIP by a large margin and narrows the performance gap between unsupervised and supervised classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-unsupervised-self-training-for-zero</guid>
+    </item>
+    <item>
+      <title>OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/opencalib-a-multi-sensor-calibration-toolbox</link>
+      <description><![CDATA[To this end, we present OpenCalib, a calibration toolbox that contains a rich set of various sensor calibration methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/opencalib-a-multi-sensor-calibration-toolbox</guid>
     </item>
     <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
@@ -105,28 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
-      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
-      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+      <title>VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/videoinr-learning-video-implicit-neural-1</link>
+      <description><![CDATA[The learned implicit neural representation can be decoded to videos of arbitrary spatial resolution and frame rate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videoinr-learning-video-implicit-neural-1</guid>
     </item>
     <item>
-      <title>Zero and R2D2: A Large-scale Chinese Cross-modal Benchmark and A Vision-Language Framework</title>
-      <link>https://paperswithcode.com/paper/zero-and-r2d2-a-large-scale-chinese-cross</link>
-      <description><![CDATA[Vision-language pre-training (VLP) on large-scale datasets has shown premier performance on various downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-and-r2d2-a-large-scale-chinese-cross</guid>
+      <title>FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance</title>
+      <link>https://paperswithcode.com/paper/finrl-a-deep-reinforcement-learning-library</link>
+      <description><![CDATA[In this paper, we introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/finrl-a-deep-reinforcement-learning-library</guid>
     </item>
     <item>
-      <title>There is no data like more data -- current status of machine learning datasets in remote sensing</title>
-      <link>https://paperswithcode.com/paper/there-is-no-data-like-more-data-current</link>
-      <description><![CDATA[Annotated datasets have become one of the most crucial preconditions for the development and evaluation of machine learning-based methods designed for the automated interpretation of remote sensing data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/there-is-no-data-like-more-data-current</guid>
-    </item>
-    <item>
-      <title>Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning</title>
-      <link>https://paperswithcode.com/paper/scaling-vision-transformers-to-gigapixel-1</link>
-      <description><![CDATA[Vision Transformers (ViTs) and their multi-scale and hierarchical variations have been successful at capturing image representations but their use has been generally studied for low-resolution images (e. g. - 256x256, 384384).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-vision-transformers-to-gigapixel-1</guid>
+      <title>EfficientFormer: Vision Transformers at MobileNet Speed</title>
+      <link>https://paperswithcode.com/paper/efficientformer-vision-transformers-at</link>
+      <description><![CDATA[Our work proves that properly designed transformers can reach extremely low latency on mobile devices while maintaining high performance]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientformer-vision-transformers-at</guid>
     </item>
   </channel>
 </rss>
