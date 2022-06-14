@@ -36,9 +36,9 @@ jobs:
       run: |
         git config --local user.email "test@github.com"
         git config --local user.name "my_commit_bot"
-        git add ./log/log
-        git add ./rss
-        git commit -m "Add changes"
+        git add ./log/log -f
+        git add ./rss -f
+        git commit -m "update rss feed"
 
     - name: Push changes # push the output folder to your repo
       uses: ad-m/github-push-action@master
