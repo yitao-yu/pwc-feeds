@@ -31,10 +31,11 @@ jobs:
     - name: update feeds
       run: |
           python ./feed.py>>./log/log
-
+    
+    # https://github.community/t/possible-to-commit-files-after-workflow-runs/17824
     - name: Commit files
       run: |
-        git config --local user.email "test@github.com"
+        git config --local user.email "taobot@github.com"
         git config --local user.name "my_commit_bot"
         git add ./log/log -f
         git add ./rss -f
