@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jun 2022 21:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 09:14:35 +0000</lastBuildDate>
     <item>
       <title>Zero-Shot Text-to-Image Generation</title>
       <link>https://paperswithcode.com/paper/zero-shot-text-to-image-generation</link>
@@ -33,12 +33,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-mmd-gans</guid>
     </item>
     <item>
-      <title>BigVGAN: A Universal Neural Vocoder with Large-Scale Training</title>
-      <link>https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</link>
-      <description><![CDATA[Despite recent progress in generative adversarial network(GAN)-based vocoders, where the model generates raw waveform conditioned on mel spectrogram, it is still challenging to synthesize high-fidelity audio for numerous speakers across varied recording environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</guid>
-    </item>
-    <item>
       <title>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding</title>
       <link>https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models</link>
       <description><![CDATA[We present Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.]]></description>
@@ -49,6 +43,30 @@
       <link>https://paperswithcode.com/paper/meta-optimal-transport</link>
       <description><![CDATA[We study the use of amortized optimization to predict optimal transport (OT) maps from the input measures, which we call Meta OT.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/meta-optimal-transport</guid>
+    </item>
+    <item>
+      <title>BigVGAN: A Universal Neural Vocoder with Large-Scale Training</title>
+      <link>https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</link>
+      <description><![CDATA[Despite recent progress in generative adversarial network(GAN)-based vocoders, where the model generates raw waveform conditioned on mel spectrogram, it is still challenging to synthesize high-fidelity audio for numerous speakers across varied recording environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</guid>
+    </item>
+    <item>
+      <title>A Normalized Gaussian Wasserstein Distance for Tiny Object Detection</title>
+      <link>https://paperswithcode.com/paper/a-normalized-gaussian-wasserstein-distance</link>
+      <description><![CDATA[Our key observation is that Intersection over Union (IoU) based metrics such as IoU itself and its extensions are very sensitive to the location deviation of the tiny objects, and drastically deteriorate the detection performance when used in anchor-based detectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-normalized-gaussian-wasserstein-distance</guid>
+    </item>
+    <item>
+      <title>Xplique: A Deep Learning Explainability Toolbox</title>
+      <link>https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</link>
+      <description><![CDATA[Today's most advanced machine-learning models are hardly scrutable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</guid>
+    </item>
+    <item>
+      <title>PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images</title>
+      <link>https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</link>
+      <description><![CDATA[More specifically, we extend the 3D position embedding (3D PE) in PETR for temporal modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</guid>
     </item>
     <item>
       <title>Towards Layer-wise Image Vectorization</title>
@@ -63,16 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hrvit-multi-scale-high-resolution-vision</guid>
     </item>
     <item>
-      <title>A Normalized Gaussian Wasserstein Distance for Tiny Object Detection</title>
-      <link>https://paperswithcode.com/paper/a-normalized-gaussian-wasserstein-distance</link>
-      <description><![CDATA[To alleviate this, we propose a new evaluation metric using Wasserstein distance for tiny object detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-normalized-gaussian-wasserstein-distance</guid>
-    </item>
-    <item>
-      <title>Xplique: A Deep Learning Explainability Toolbox</title>
-      <link>https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</link>
-      <description><![CDATA[Today's most advanced machine-learning models are hardly scrutable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</guid>
+      <title>Counterfactual Inference for Text Classification Debiasing</title>
+      <link>https://paperswithcode.com/paper/counterfactual-inference-for-text</link>
+      <description><![CDATA[In inference, given a factual input document, Corsair imagines its two counterfactual counterparts to distill and mitigate the two biases captured by the poisonous model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactual-inference-for-text</guid>
     </item>
     <item>
       <title>A Lightweight Instrument-Agnostic Model for Polyphonic Note Transcription and Multipitch Estimation</title>
@@ -87,28 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</guid>
     </item>
     <item>
-      <title>RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning</title>
-      <link>https://paperswithcode.com/paper/relvit-concept-guided-vision-transformer-for-1</link>
-      <description><![CDATA[This task remains challenging for current deep learning algorithms since it requires addressing three key technical problems jointly: 1) identifying object entities and their properties, 2) inferring semantic relations between pairs of entities, and 3) generalizing to novel object-relation combinations, i. e., systematic generalization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relvit-concept-guided-vision-transformer-for-1</guid>
-    </item>
-    <item>
-      <title>Counterfactual Inference for Text Classification Debiasing</title>
-      <link>https://paperswithcode.com/paper/counterfactual-inference-for-text</link>
-      <description><![CDATA[In inference, given a factual input document, Corsair imagines its two counterfactual counterparts to distill and mitigate the two biases captured by the poisonous model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactual-inference-for-text</guid>
-    </item>
-    <item>
-      <title>PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images</title>
-      <link>https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</link>
-      <description><![CDATA[More specifically, we extend the 3D position embedding (3D PE) in PETR for temporal modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</guid>
-    </item>
-    <item>
       <title>VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution</title>
       <link>https://paperswithcode.com/paper/videoinr-learning-video-implicit-neural-1</link>
       <description><![CDATA[The learned implicit neural representation can be decoded to videos of arbitrary spatial resolution and frame rate.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoinr-learning-video-implicit-neural-1</guid>
+    </item>
+    <item>
+      <title>OmniXAI: A Library for Explainable AI</title>
+      <link>https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</link>
+      <description><![CDATA[We introduce OmniXAI (short for Omni eXplainable AI), an open-source Python library of eXplainable AI (XAI), which offers omni-way explainable AI capabilities and various interpretable machine learning techniques to address the pain points of understanding and interpreting the decisions made by machine learning (ML) in practice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</guid>
     </item>
     <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>Neural Prompt Search</title>
-      <link>https://paperswithcode.com/paper/neural-prompt-search</link>
-      <description><![CDATA[The size of vision models has grown exponentially over the last few years, especially after the emergence of Vision Transformer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-prompt-search</guid>
+      <title>RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning</title>
+      <link>https://paperswithcode.com/paper/relvit-concept-guided-vision-transformer-for-1</link>
+      <description><![CDATA[This task remains challenging for current deep learning algorithms since it requires addressing three key technical problems jointly: 1) identifying object entities and their properties, 2) inferring semantic relations between pairs of entities, and 3) generalizing to novel object-relation combinations, i. e., systematic generalization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/relvit-concept-guided-vision-transformer-for-1</guid>
     </item>
     <item>
-      <title>OmniXAI: A Library for Explainable AI</title>
-      <link>https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</link>
-      <description><![CDATA[We introduce OmniXAI (short for Omni eXplainable AI), an open-source Python library of eXplainable AI (XAI), which offers omni-way explainable AI capabilities and various interpretable machine learning techniques to address the pain points of understanding and interpreting the decisions made by machine learning (ML) in practice.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</guid>
+      <title>Featurized Query R-CNN</title>
+      <link>https://paperswithcode.com/paper/featurized-query-r-cnn</link>
+      <description><![CDATA[The query mechanism introduced in the DETR method is changing the paradigm of object detection and recently there are many query-based methods have obtained strong object detection performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/featurized-query-r-cnn</guid>
     </item>
   </channel>
 </rss>
