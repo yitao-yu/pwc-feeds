@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jun 2022 21:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jun 2022 09:13:12 +0000</lastBuildDate>
     <item>
       <title>Zero-Shot Text-to-Image Generation</title>
       <link>https://paperswithcode.com/paper/zero-shot-text-to-image-generation</link>
@@ -21,10 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cogview2-faster-and-better-text-to-image</guid>
     </item>
     <item>
+      <title>Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing</title>
+      <link>https://paperswithcode.com/paper/spatially-adaptive-multilayer-selection-for-1</link>
+      <description><![CDATA[We propose a new method to invert and edit such complex images in the latent space of GANs, such as StyleGAN2.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spatially-adaptive-multilayer-selection-for-1</guid>
+    </item>
+    <item>
       <title>Implicit Sample Extension for Unsupervised Person Re-Identification</title>
       <link>https://paperswithcode.com/paper/implicit-sample-extension-for-unsupervised</link>
       <description><![CDATA[Specifically, we generate support samples from actual samples and their neighbouring clusters in the embedding space through a progressive linear interpolation (PLI) strategy.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/implicit-sample-extension-for-unsupervised</guid>
+    </item>
+    <item>
+      <title>Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt</title>
+      <link>https://paperswithcode.com/paper/prioritized-training-on-points-that-are-1</link>
+      <description><![CDATA[But most computation and time is wasted on redundant and noisy points that are already learnt or not learnable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prioritized-training-on-points-that-are-1</guid>
+    </item>
+    <item>
+      <title>BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers</title>
+      <link>https://paperswithcode.com/paper/bevformer-learning-bird-s-eye-view</link>
+      <description><![CDATA[In a nutshell, BEVFormer exploits both spatial and temporal information by interacting with spatial and temporal space through predefined grid-shaped BEV queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-learning-bird-s-eye-view</guid>
     </item>
     <item>
       <title>Variable Bitrate Neural Fields</title>
@@ -39,22 +57,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models</guid>
     </item>
     <item>
-      <title>BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers</title>
-      <link>https://paperswithcode.com/paper/bevformer-learning-bird-s-eye-view</link>
-      <description><![CDATA[In a nutshell, BEVFormer exploits both spatial and temporal information by interacting with spatial and temporal space through predefined grid-shaped BEV queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-learning-bird-s-eye-view</guid>
-    </item>
-    <item>
-      <title>Xplique: A Deep Learning Explainability Toolbox</title>
-      <link>https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</link>
-      <description><![CDATA[Today's most advanced machine-learning models are hardly scrutable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</guid>
-    </item>
-    <item>
       <title>Scaling Up Models and Data with $\texttt{t5x}$ and $\texttt{seqio}$</title>
       <link>https://paperswithcode.com/paper/scaling-up-models-and-data-with-texttt-t5x</link>
       <description><![CDATA[Recent neural network-based language models have benefited greatly from scaling up the size of training datasets and the number of parameters in the models themselves.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-up-models-and-data-with-texttt-t5x</guid>
+    </item>
+    <item>
+      <title>Online Segmentation of LiDAR Sequences: Dataset and Algorithm</title>
+      <link>https://paperswithcode.com/paper/online-segmentation-of-lidar-sequences</link>
+      <description><![CDATA[Helix4D operates on acquisition slices that correspond to a fraction of a full rotation of the sensor, significantly reducing the total latency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/online-segmentation-of-lidar-sequences</guid>
     </item>
     <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
@@ -63,28 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>OmniXAI: A Library for Explainable AI</title>
-      <link>https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</link>
-      <description><![CDATA[We introduce OmniXAI (short for Omni eXplainable AI), an open-source Python library of eXplainable AI (XAI), which offers omni-way explainable AI capabilities and various interpretable machine learning techniques to address the pain points of understanding and interpreting the decisions made by machine learning (ML) in practice.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</guid>
+      <title>Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline</title>
+      <link>https://paperswithcode.com/paper/trajectory-guided-control-prediction-for-end</link>
+      <description><![CDATA[The two branches are connected so that the control branch receives corresponding guidance from the trajectory branch at each time step.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/trajectory-guided-control-prediction-for-end</guid>
     </item>
     <item>
-      <title>PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images</title>
-      <link>https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</link>
-      <description><![CDATA[More specifically, we extend the 3D position embedding (3D PE) in PETR for temporal modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</guid>
+      <title>Heterogeneous Information Network based Default Analysis on Banking Micro and Small Enterprise Users</title>
+      <link>https://paperswithcode.com/paper/heterogeneous-information-network-based-1</link>
+      <description><![CDATA[Risk assessment is a substantial problem for financial institutions that has been extensively studied both for its methodological richness and its various practical applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/heterogeneous-information-network-based-1</guid>
     </item>
     <item>
-      <title>FedHPO-B: A Benchmark Suite for Federated Hyperparameter Optimization</title>
-      <link>https://paperswithcode.com/paper/fedhpo-b-a-benchmark-suite-for-federated</link>
-      <description><![CDATA[Due to this uniqueness, existing HPO benchmarks no longer satisfy the need to compare HPO methods in the FL setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fedhpo-b-a-benchmark-suite-for-federated</guid>
-    </item>
-    <item>
-      <title>Meta Optimal Transport</title>
-      <link>https://paperswithcode.com/paper/meta-optimal-transport</link>
-      <description><![CDATA[We study the use of amortized optimization to predict optimal transport (OT) maps from the input measures, which we call Meta OT.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-optimal-transport</guid>
+      <title>Xplique: A Deep Learning Explainability Toolbox</title>
+      <link>https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</link>
+      <description><![CDATA[Today's most advanced machine-learning models are hardly scrutable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/xplique-a-deep-learning-explainability</guid>
     </item>
     <item>
       <title>PaddleRec</title>
@@ -93,16 +99,16 @@
       <guid isPermaLink="true">https://github.com/PaddlePaddle/PaddleRec</guid>
     </item>
     <item>
-      <title>Demystifying MMD GANs</title>
-      <link>https://paperswithcode.com/paper/demystifying-mmd-gans</link>
-      <description><![CDATA[We investigate the training and performance of generative adversarial networks using the Maximum Mean Discrepancy (MMD) as critic, termed MMD GANs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-mmd-gans</guid>
+      <title>General-purpose, long-context autoregressive modeling with Perceiver AR</title>
+      <link>https://paperswithcode.com/paper/general-purpose-long-context-autoregressive</link>
+      <description><![CDATA[Real-world data is high-dimensional: a book, image, or musical performance can easily contain hundreds of thousands of elements even after compression.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/general-purpose-long-context-autoregressive</guid>
     </item>
     <item>
-      <title>Counterfactual Inference for Text Classification Debiasing</title>
-      <link>https://paperswithcode.com/paper/counterfactual-inference-for-text</link>
-      <description><![CDATA[In inference, given a factual input document, Corsair imagines its two counterfactual counterparts to distill and mitigate the two biases captured by the poisonous model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactual-inference-for-text</guid>
+      <title>OmniXAI: A Library for Explainable AI</title>
+      <link>https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</link>
+      <description><![CDATA[We introduce OmniXAI (short for Omni eXplainable AI), an open-source Python library of eXplainable AI (XAI), which offers omni-way explainable AI capabilities and various interpretable machine learning techniques to address the pain points of understanding and interpreting the decisions made by machine learning (ML) in practice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</guid>
     </item>
     <item>
       <title>VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution</title>
@@ -111,22 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoinr-learning-video-implicit-neural-1</guid>
     </item>
     <item>
-      <title>BigVGAN: A Universal Neural Vocoder with Large-Scale Training</title>
-      <link>https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</link>
-      <description><![CDATA[Despite recent progress in generative adversarial network(GAN)-based vocoders, where the model generates raw waveform conditioned on mel spectrogram, it is still challenging to synthesize high-fidelity audio for numerous speakers across varied recording environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</guid>
+      <title>PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images</title>
+      <link>https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</link>
+      <description><![CDATA[More specifically, we extend the 3D position embedding (3D PE) in PETR for temporal modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/petrv2-a-unified-framework-for-3d-perception</guid>
     </item>
     <item>
-      <title>Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions</title>
-      <link>https://paperswithcode.com/paper/receding-moving-object-segmentation-in-3d</link>
-      <description><![CDATA[A key challenge for autonomous vehicles is to navigate in unseen dynamic environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/receding-moving-object-segmentation-in-3d</guid>
-    </item>
-    <item>
-      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
-      <link>https://paperswithcode.com/paper/beyond-the-imitation-game-quantifying-and</link>
-      <description><![CDATA[BIG-bench focuses on tasks that are believed to be beyond the capabilities of current language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-the-imitation-game-quantifying-and</guid>
+      <title>PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies</title>
+      <link>https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</link>
+      <description><![CDATA[In this work, we revisit the classical PointNet++ through a systematic study of model training and scaling strategies, and offer two major contributions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</guid>
     </item>
   </channel>
 </rss>
