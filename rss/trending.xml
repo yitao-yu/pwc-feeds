@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jun 2022 09:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jun 2022 21:07:05 +0000</lastBuildDate>
     <item>
       <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
       <link>https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</link>
       <description><![CDATA[Autonomous agents have made great strides in specialist domains like Atari games and Go.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</guid>
-    </item>
-    <item>
-      <title>CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers</title>
-      <link>https://paperswithcode.com/paper/cogview2-faster-and-better-text-to-image</link>
-      <description><![CDATA[The development of the transformer-based text-to-image models are impeded by its slow generation and complexity for high-resolution images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cogview2-faster-and-better-text-to-image</guid>
     </item>
     <item>
       <title>Multiplying Matrices Without Multiplying</title>
@@ -27,16 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multiplying-matrices-without-multiplying</guid>
     </item>
     <item>
+      <title>Pythae: Unifying Generative Autoencoders in Python -- A Benchmarking Use Case</title>
+      <link>https://paperswithcode.com/paper/pythae-unifying-generative-autoencoders-in</link>
+      <description><![CDATA[In recent years, deep generative models have attracted increasing interest due to their capacity to model complex distributions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pythae-unifying-generative-autoencoders-in</guid>
+    </item>
+    <item>
       <title>Zero-Shot Text-to-Image Generation</title>
       <link>https://paperswithcode.com/paper/zero-shot-text-to-image-generation</link>
       <description><![CDATA[Text-to-image generation has traditionally focused on finding better modeling assumptions for training on a fixed dataset.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-to-image-generation</guid>
     </item>
     <item>
-      <title>Pythae: Unifying Generative Autoencoders in Python -- A Benchmarking Use Case</title>
-      <link>https://paperswithcode.com/paper/pythae-unifying-generative-autoencoders-in</link>
-      <description><![CDATA[In recent years, deep generative models have attracted increasing interest due to their capacity to model complex distributions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pythae-unifying-generative-autoencoders-in</guid>
+      <title>CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers</title>
+      <link>https://paperswithcode.com/paper/cogview2-faster-and-better-text-to-image</link>
+      <description><![CDATA[The development of the transformer-based text-to-image models are impeded by its slow generation and complexity for high-resolution images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogview2-faster-and-better-text-to-image</guid>
     </item>
     <item>
       <title>Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing</title>
@@ -45,28 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/spatially-adaptive-multilayer-selection-for-1</guid>
     </item>
     <item>
-      <title>Implicit Sample Extension for Unsupervised Person Re-Identification</title>
-      <link>https://paperswithcode.com/paper/implicit-sample-extension-for-unsupervised</link>
-      <description><![CDATA[Specifically, we generate support samples from actual samples and their neighbouring clusters in the embedding space through a progressive linear interpolation (PLI) strategy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/implicit-sample-extension-for-unsupervised</guid>
-    </item>
-    <item>
       <title>Degradation-Aware Unfolding Half-Shuffle Transformer for Spectral Compressive Imaging</title>
       <link>https://paperswithcode.com/paper/degradation-aware-unfolding-half-shuffle</link>
       <description><![CDATA[In coded aperture snapshot spectral compressive imaging (CASSI) systems, hyperspectral image (HSI) reconstruction methods are employed to recover the spatial-spectral signal from a compressed measurement.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/degradation-aware-unfolding-half-shuffle</guid>
     </item>
     <item>
-      <title>Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt</title>
-      <link>https://paperswithcode.com/paper/prioritized-training-on-points-that-are-1</link>
-      <description><![CDATA[But most computation and time is wasted on redundant and noisy points that are already learnt or not learnable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prioritized-training-on-points-that-are-1</guid>
-    </item>
-    <item>
-      <title>General-purpose, long-context autoregressive modeling with Perceiver AR</title>
-      <link>https://paperswithcode.com/paper/general-purpose-long-context-autoregressive</link>
-      <description><![CDATA[Real-world data is high-dimensional: a book, image, or musical performance can easily contain hundreds of thousands of elements even after compression.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/general-purpose-long-context-autoregressive</guid>
+      <title>Bridge-Tower: Building Bridges Between Encoders in Vision-Language Representation Learning</title>
+      <link>https://paperswithcode.com/paper/bridge-tower-building-bridges-between</link>
+      <description><![CDATA[Current VL models either use lightweight uni-modal encoders and learn to extract, align and fuse both modalities simultaneously in a cross-modal encoder, or feed the last-layer uni-modal features directly into the top cross-modal encoder, ignoring the semantic information at the different levels in the deep uni-modal encoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bridge-tower-building-bridges-between</guid>
     </item>
     <item>
       <title>Improving GAN Equilibrium by Raising Spatial Awareness</title>
@@ -75,40 +63,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-gan-equilibrium-by-raising-spatial</guid>
     </item>
     <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+      <title>Implicit Sample Extension for Unsupervised Person Re-Identification</title>
+      <link>https://paperswithcode.com/paper/implicit-sample-extension-for-unsupervised</link>
+      <description><![CDATA[Specifically, we generate support samples from actual samples and their neighbouring clusters in the embedding space through a progressive linear interpolation (PLI) strategy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/implicit-sample-extension-for-unsupervised</guid>
     </item>
     <item>
-      <title>Variable Bitrate Neural Fields</title>
-      <link>https://paperswithcode.com/paper/variable-bitrate-neural-fields</link>
-      <description><![CDATA[Neural approximations of scalar and vector fields, such as signed distance functions and radiance fields, have emerged as accurate, high-quality representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/variable-bitrate-neural-fields</guid>
+      <title>General-purpose, long-context autoregressive modeling with Perceiver AR</title>
+      <link>https://paperswithcode.com/paper/general-purpose-long-context-autoregressive</link>
+      <description><![CDATA[Real-world data is high-dimensional: a book, image, or musical performance can easily contain hundreds of thousands of elements even after compression.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/general-purpose-long-context-autoregressive</guid>
     </item>
     <item>
-      <title>PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies</title>
-      <link>https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</link>
-      <description><![CDATA[In this work, we revisit the classical PointNet++ through a systematic study of model training and scaling strategies, and offer two major contributions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</guid>
+      <title>OmniXAI: A Library for Explainable AI</title>
+      <link>https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</link>
+      <description><![CDATA[We introduce OmniXAI (short for Omni eXplainable AI), an open-source Python library of eXplainable AI (XAI), which offers omni-way explainable AI capabilities and various interpretable machine learning techniques to address the pain points of understanding and interpreting the decisions made by machine learning (ML) in practice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnixai-a-library-for-explainable-ai</guid>
     </item>
     <item>
-      <title>The Shapley Value in Machine Learning</title>
-      <link>https://paperswithcode.com/paper/the-shapley-value-in-machine-learning</link>
-      <description><![CDATA[Over the last few years, the Shapley value, a solution concept from cooperative game theory, has found numerous applications in machine learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-shapley-value-in-machine-learning</guid>
+      <title>Prioritized Training on Points that are Learnable, Worth Learning, and Not Yet Learnt</title>
+      <link>https://paperswithcode.com/paper/prioritized-training-on-points-that-are-1</link>
+      <description><![CDATA[But most computation and time is wasted on redundant and noisy points that are already learnt or not learnable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prioritized-training-on-points-that-are-1</guid>
     </item>
     <item>
-      <title>Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning</title>
-      <link>https://paperswithcode.com/paper/scaling-vision-transformers-to-gigapixel-1</link>
-      <description><![CDATA[Vision Transformers (ViTs) and their multi-scale and hierarchical variations have been successful at capturing image representations but their use has been generally studied for low-resolution images (e. g. - 256x256, 384384).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-vision-transformers-to-gigapixel-1</guid>
-    </item>
-    <item>
-      <title>PaddleRec</title>
-      <link>https://github.com/PaddlePaddle/PaddleRec</link>
-      <description><![CDATA[Recommendation AlgorithmLRWide&DeepDSSMTDMMINDWord2VecBert4RecDeepWalkSSRAITMDSINSIGNIPRECGRU4RecYoutube_dnnNCFGNNFMFFMDeepFMDCNDINDIENDLRMMMOEPLEESMMESCMM, MAMLxDeepFMDeepFEFMNFMAFMRALMDMRGateNetNAMLDIFMDeep CrossingPNNBSTAutoIntFGCNNFLENFibinetListWiseDeepRecENSFMTiSASAutoFIScriteo movielens]]></description>
-      <guid isPermaLink="true">https://github.com/PaddlePaddle/PaddleRec</guid>
+      <title>HaGRID -- HAnd Gesture Recognition Image Dataset</title>
+      <link>https://paperswithcode.com/paper/hagrid-hand-gesture-recognition-image-dataset</link>
+      <description><![CDATA[In this paper, we introduce an enormous dataset HaGRID (HAnd Gesture Recognition Image Dataset) for hand gesture recognition (HGR) systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hagrid-hand-gesture-recognition-image-dataset</guid>
     </item>
     <item>
       <title>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding</title>
@@ -117,16 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/photorealistic-text-to-image-diffusion-models</guid>
     </item>
     <item>
+      <title>PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies</title>
+      <link>https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</link>
+      <description><![CDATA[In this work, we revisit the classical PointNet++ through a systematic study of model training and scaling strategies, and offer two major contributions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pointnext-revisiting-pointnet-with-improved</guid>
+    </item>
+    <item>
       <title>BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers</title>
       <link>https://paperswithcode.com/paper/bevformer-learning-bird-s-eye-view</link>
       <description><![CDATA[In a nutshell, BEVFormer exploits both spatial and temporal information by interacting with spatial and temporal space through predefined grid-shaped BEV queries.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-learning-bird-s-eye-view</guid>
     </item>
     <item>
-      <title>Combining Label Propagation and Simple Models Out-performs Graph Neural Networks</title>
-      <link>https://paperswithcode.com/paper/combining-label-propagation-and-simple-models-1</link>
-      <description><![CDATA[Graph Neural Networks (GNNs) are the predominant technique for learning over graphs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/combining-label-propagation-and-simple-models-1</guid>
+      <title>Powershap: A Power-full Shapley Feature Selection Method</title>
+      <link>https://paperswithcode.com/paper/powershap-a-power-full-shapley-feature</link>
+      <description><![CDATA[Benchmarks and simulations show that powershap outperforms other filter methods with predictive performances on par with wrapper methods while being significantly faster, often even reaching half or a third of the execution time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/powershap-a-power-full-shapley-feature</guid>
+    </item>
+    <item>
+      <title>Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning</title>
+      <link>https://paperswithcode.com/paper/scaling-vision-transformers-to-gigapixel-1</link>
+      <description><![CDATA[Vision Transformers (ViTs) and their multi-scale and hierarchical variations have been successful at capturing image representations but their use has been generally studied for low-resolution images (e. g. - 256x256, 384384).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-vision-transformers-to-gigapixel-1</guid>
+    </item>
+    <item>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
   </channel>
 </rss>
