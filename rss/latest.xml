@@ -7,72 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Jul 2022 09:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 21:07:15 +0000</lastBuildDate>
     <item>
-      <title>Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding</title>
-      <link>https://paperswithcode.com/paper/understanding-performance-of-long-document</link>
-      <description><![CDATA[We carry out a comprehensive evaluation of 13 recent models for ranking of long documents using two popular collections (MS MARCO documents and Robust04).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/understanding-performance-of-long-document</guid>
-    </item>
-    <item>
-      <title>Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations</title>
-      <link>https://paperswithcode.com/paper/aug-nerf-training-stronger-neural-radiance-1</link>
-      <description><![CDATA[Inspired by that, we propose Augmented NeRF (Aug-NeRF), which for the first time brings the power of robust data augmentations into regularizing the NeRF training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aug-nerf-training-stronger-neural-radiance-1</guid>
-    </item>
-    <item>
-      <title>CPrune: Compiler-Informed Model Pruning for Efficient Target-Aware DNN Execution</title>
-      <link>https://paperswithcode.com/paper/cprune-compiler-informed-model-pruning-for</link>
-      <description><![CDATA[We propose CPrune, a compiler-informed model pruning for efficient target-aware DNN execution to support an application with a required target accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cprune-compiler-informed-model-pruning-for</guid>
-    </item>
-    <item>
-      <title>Transferring Textual Knowledge for Visual Recognition</title>
-      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
-      <description><![CDATA[In this study, we focus on transferring knowledge for vision classification tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
-    </item>
-    <item>
-      <title>Removing Batch Normalization Boosts Adversarial Training</title>
-      <link>https://paperswithcode.com/paper/removing-batch-normalization-boosts</link>
-      <description><![CDATA[In addition, NoFrost achieves a $23. 56\%$ adversarial robustness against PGD attack, which improves the $13. 57\%$ robustness in BN-based AT.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/removing-batch-normalization-boosts</guid>
-    </item>
-    <item>
-      <title>Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</title>
-      <link>https://paperswithcode.com/paper/partial-and-asymmetric-contrastive-learning</link>
-      <description><![CDATA[However, in real-world applications, it is common for the training sets to have long-tailed distributions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/partial-and-asymmetric-contrastive-learning</guid>
-    </item>
-    <item>
-      <title>Back to MLP: A Simple Baseline for Human Motion Prediction</title>
-      <link>https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</link>
-      <description><![CDATA[This paper tackles the problem of human motion prediction, consisting in forecasting future body poses from historically observed sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</guid>
-    </item>
-    <item>
-      <title>Variational Neural Networks</title>
-      <link>https://paperswithcode.com/paper/variational-neural-networks</link>
-      <description><![CDATA[Bayesian Neural Networks (BNNs) provide a tool to estimate the uncertainty of a neural network by considering a distribution over weights and sampling different models for each input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-neural-networks</guid>
-    </item>
-    <item>
-      <title>TANet: Transformer-based Asymmetric Network for RGB-D Salient Object Detection</title>
-      <link>https://paperswithcode.com/paper/tanet-transformer-based-asymmetric-network</link>
-      <description><![CDATA[We employ the powerful feature extraction capability of Transformer (PVTv2) to extract global semantic information from RGB data and design a lightweight CNN backbone (LWDepthNet) to extract spatial structure information from depth data without pre-training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tanet-transformer-based-asymmetric-network</guid>
-    </item>
-    <item>
-      <title>Harmonizer: Learning to Perform White-Box Image and Video Harmonization</title>
-      <link>https://paperswithcode.com/paper/harmonizer-learning-to-perform-white-box</link>
-      <description><![CDATA[Unlike prior methods that are based on black-box autoencoders, Harmonizer contains a neural network for filter argument prediction and several white-box filters (based on the predicted arguments) for image harmonization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/harmonizer-learning-to-perform-white-box</guid>
-    </item>
-    <item>
-      <title>Disentangling Random and Cyclic Effects in Time-Lapse Sequences</title>
-      <link>https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</link>
-      <description><![CDATA[We introduce the problem of disentangling time-lapse sequences in a way that allows separate, after-the-fact control of overall trends, cyclic effects, and random effects in the images, and describe a technique based on data-driven generative models that achieves this goal.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</guid>
+      <title>Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks</title>
+      <link>https://paperswithcode.com/paper/dynamic-spatial-sparsification-for-efficient</link>
+      <description><![CDATA[We extend our method to hierarchical models including CNNs and hierarchical vision Transformers as well as more complex dense prediction tasks that require structured feature maps by formulating a more generic dynamic spatial sparsification framework with progressive sparsification and asymmetric computation for different spatial locations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-spatial-sparsification-for-efficient</guid>
     </item>
     <item>
       <title>Vietnamese Capitalization and Punctuation Recovery Models</title>
@@ -81,64 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vietnamese-capitalization-and-punctuation</guid>
     </item>
     <item>
-      <title>Detection of ADHD based on Eye Movements during Natural Viewing</title>
-      <link>https://paperswithcode.com/paper/detection-of-adhd-based-on-eye-movements</link>
-      <description><![CDATA[Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder that is highly prevalent and requires clinical specialists to diagnose.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detection-of-adhd-based-on-eye-movements</guid>
-    </item>
-    <item>
-      <title>Learning Optimal Transport Between two Empirical Distributions with Normalizing Flows</title>
-      <link>https://paperswithcode.com/paper/learning-optimal-transport-between-two</link>
-      <description><![CDATA[Each of these functions is associated to one sub-flow of the network, whose output provides intermediate steps of the transport between the original and target measures.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-optimal-transport-between-two</guid>
-    </item>
-    <item>
-      <title>Egocentric Video-Language Pretraining @ EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge 2022</title>
-      <link>https://paperswithcode.com/paper/egocentric-video-language-pretraining-epic</link>
-      <description><![CDATA[In this report, we propose a video-language pretraining (VLP) based solution \cite{kevin2022egovlp} for the EPIC-KITCHENS-100 Multi-Instance Retrieval (MIR) challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/egocentric-video-language-pretraining-epic</guid>
-    </item>
-    <item>
-      <title>A New Index for Clustering Evaluation Based on Density Estimation</title>
-      <link>https://paperswithcode.com/paper/a-new-index-for-clustering-evaluation-based</link>
-      <description><![CDATA[An experiment is conducted to test the performance of the new index, and compared with three popular internal clustering evaluation indices -- Calinski-Harabasz index, Silhouette coefficient, and Davies-Bouldin index, on a set of 145 datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-new-index-for-clustering-evaluation-based</guid>
-    </item>
-    <item>
-      <title>Open-world Semantic Segmentation for LIDAR Point Clouds</title>
-      <link>https://paperswithcode.com/paper/open-world-semantic-segmentation-for-lidar</link>
-      <description><![CDATA[Current methods for LIDAR semantic segmentation are not robust enough for real-world applications, e. g., autonomous driving, since it is closed-set and static.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/open-world-semantic-segmentation-for-lidar</guid>
-    </item>
-    <item>
-      <title>Invariant and Transportable Representations for Anti-Causal Domain Shifts</title>
-      <link>https://paperswithcode.com/paper/invariant-and-transportable-representations</link>
-      <description><![CDATA[In this paper, we study representation learning under a particular notion of domain shift that both respects causal invariance and that naturally handles the "anti-causal" structure.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/invariant-and-transportable-representations</guid>
-    </item>
-    <item>
-      <title>Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks</title>
-      <link>https://paperswithcode.com/paper/dynamic-spatial-sparsification-for-efficient</link>
-      <description><![CDATA[We extend our method to hierarchical models including CNNs and hierarchical vision Transformers as well as more complex dense prediction tasks that require structured feature maps by formulating a more generic dynamic spatial sparsification framework with progressive sparsification and asymmetric computation for different spatial locations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-spatial-sparsification-for-efficient</guid>
-    </item>
-    <item>
-      <title>Comparing Feature Importance and Rule Extraction for Interpretability on Text Data</title>
-      <link>https://paperswithcode.com/paper/comparing-feature-importance-and-rule</link>
-      <description><![CDATA[Complex machine learning algorithms are used more and more often in critical tasks involving text data, leading to the development of interpretability methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/comparing-feature-importance-and-rule</guid>
-    </item>
-    <item>
-      <title>Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/solving-the-traveling-salesperson-problem</link>
-      <description><![CDATA[In this work, we generalize this concept of heterogeneous attentions to the TSPPC.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/solving-the-traveling-salesperson-problem</guid>
-    </item>
-    <item>
-      <title>Deep Contrastive One-Class Time Series Anomaly Detection</title>
-      <link>https://paperswithcode.com/paper/deep-contrastive-one-class-time-series</link>
-      <description><![CDATA[The accumulation of time series data and the absence of labels make time-series Anomaly Detection (AD) a self-supervised deep learning task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-contrastive-one-class-time-series</guid>
+      <title>Back to MLP: A Simple Baseline for Human Motion Prediction</title>
+      <link>https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</link>
+      <description><![CDATA[This paper tackles the problem of human motion prediction, consisting in forecasting future body poses from historically observed sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</guid>
     </item>
     <item>
       <title>Task Discrepancy Maximization for Fine-grained Few-Shot Classification</title>
@@ -147,64 +33,136 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/task-discrepancy-maximization-for-fine-1</guid>
     </item>
     <item>
+      <title>Approximate Vanishing Ideal Computations at Scale</title>
+      <link>https://paperswithcode.com/paper/approximate-vanishing-ideal-computations-at</link>
+      <description><![CDATA[The approximate vanishing ideal of a set of points $X = \{\mathbf{x}_1, \ldots, \mathbf{x}_m\}\subseteq [0, 1]^n$ is the set of polynomials that approximately evaluate to $0$ over all points $\mathbf{x} \in X$ and admits an efficient representation by a finite set of polynomials called generators.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/approximate-vanishing-ideal-computations-at</guid>
+    </item>
+    <item>
+      <title>Invariant and Transportable Representations for Anti-Causal Domain Shifts</title>
+      <link>https://paperswithcode.com/paper/invariant-and-transportable-representations</link>
+      <description><![CDATA[In this paper, we study representation learning under a particular notion of domain shift that both respects causal invariance and that naturally handles the "anti-causal" structure.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/invariant-and-transportable-representations</guid>
+    </item>
+    <item>
+      <title>Harmonizer: Learning to Perform White-Box Image and Video Harmonization</title>
+      <link>https://paperswithcode.com/paper/harmonizer-learning-to-perform-white-box</link>
+      <description><![CDATA[Unlike prior methods that are based on black-box autoencoders, Harmonizer contains a neural network for filter argument prediction and several white-box filters (based on the predicted arguments) for image harmonization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/harmonizer-learning-to-perform-white-box</guid>
+    </item>
+    <item>
+      <title>Transferring Textual Knowledge for Visual Recognition</title>
+      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
+      <description><![CDATA[In this study, we focus on transferring knowledge for vision classification tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
+    </item>
+    <item>
+      <title>Comparing Feature Importance and Rule Extraction for Interpretability on Text Data</title>
+      <link>https://paperswithcode.com/paper/comparing-feature-importance-and-rule</link>
+      <description><![CDATA[Complex machine learning algorithms are used more and more often in critical tasks involving text data, leading to the development of interpretability methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/comparing-feature-importance-and-rule</guid>
+    </item>
+    <item>
+      <title>Open-world Semantic Segmentation for LIDAR Point Clouds</title>
+      <link>https://paperswithcode.com/paper/open-world-semantic-segmentation-for-lidar</link>
+      <description><![CDATA[Current methods for LIDAR semantic segmentation are not robust enough for real-world applications, e. g., autonomous driving, since it is closed-set and static.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-world-semantic-segmentation-for-lidar</guid>
+    </item>
+    <item>
+      <title>Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/solving-the-traveling-salesperson-problem</link>
+      <description><![CDATA[In this work, we generalize this concept of heterogeneous attentions to the TSPPC.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/solving-the-traveling-salesperson-problem</guid>
+    </item>
+    <item>
+      <title>Large-scale Robustness Analysis of Video Action Recognition Models</title>
+      <link>https://paperswithcode.com/paper/large-scale-robustness-analysis-of-video</link>
+      <description><![CDATA[The study reveals some interesting findings, 1) transformer based models are consistently more robust against most of the perturbations when compared with CNN based models, 2) Pretraining helps Transformer based models to be more robust to different perturbations than CNN based models, and 3) All of the studied models are robust to temporal perturbation on the Kinetics dataset, but not on SSv2; this suggests temporal information is much more important for action label prediction on SSv2 datasets than on the Kinetics dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-scale-robustness-analysis-of-video</guid>
+    </item>
+    <item>
+      <title>A New Index for Clustering Evaluation Based on Density Estimation</title>
+      <link>https://paperswithcode.com/paper/a-new-index-for-clustering-evaluation-based</link>
+      <description><![CDATA[An experiment is conducted to test the performance of the new index, and compared with three popular internal clustering evaluation indices -- Calinski-Harabasz index, Silhouette coefficient, and Davies-Bouldin index, on a set of 145 datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-new-index-for-clustering-evaluation-based</guid>
+    </item>
+    <item>
+      <title>Learning Optimal Transport Between two Empirical Distributions with Normalizing Flows</title>
+      <link>https://paperswithcode.com/paper/learning-optimal-transport-between-two</link>
+      <description><![CDATA[Each of these functions is associated to one sub-flow of the network, whose output provides intermediate steps of the transport between the original and target measures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-optimal-transport-between-two</guid>
+    </item>
+    <item>
+      <title>Variational Neural Networks</title>
+      <link>https://paperswithcode.com/paper/variational-neural-networks</link>
+      <description><![CDATA[Bayesian Neural Networks (BNNs) provide a tool to estimate the uncertainty of a neural network by considering a distribution over weights and sampling different models for each input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-neural-networks</guid>
+    </item>
+    <item>
+      <title>Deep Contrastive One-Class Time Series Anomaly Detection</title>
+      <link>https://paperswithcode.com/paper/deep-contrastive-one-class-time-series</link>
+      <description><![CDATA[The accumulation of time series data and the absence of labels make time-series Anomaly Detection (AD) a self-supervised deep learning task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-contrastive-one-class-time-series</guid>
+    </item>
+    <item>
+      <title>Detection of ADHD based on Eye Movements during Natural Viewing</title>
+      <link>https://paperswithcode.com/paper/detection-of-adhd-based-on-eye-movements</link>
+      <description><![CDATA[Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder that is highly prevalent and requires clinical specialists to diagnose.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detection-of-adhd-based-on-eye-movements</guid>
+    </item>
+    <item>
+      <title>Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition</title>
+      <link>https://paperswithcode.com/paper/partial-and-asymmetric-contrastive-learning</link>
+      <description><![CDATA[However, in real-world applications, it is common for the training sets to have long-tailed distributions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/partial-and-asymmetric-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>Understanding Performance of Long-Document Ranking Models through Comprehensive Evaluation and Leaderboarding</title>
+      <link>https://paperswithcode.com/paper/understanding-performance-of-long-document</link>
+      <description><![CDATA[We carry out a comprehensive evaluation of 13 recent models for ranking of long documents using two popular collections (MS MARCO documents and Robust04).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/understanding-performance-of-long-document</guid>
+    </item>
+    <item>
+      <title>TANet: Transformer-based Asymmetric Network for RGB-D Salient Object Detection</title>
+      <link>https://paperswithcode.com/paper/tanet-transformer-based-asymmetric-network</link>
+      <description><![CDATA[We employ the powerful feature extraction capability of Transformer (PVTv2) to extract global semantic information from RGB data and design a lightweight CNN backbone (LWDepthNet) to extract spatial structure information from depth data without pre-training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tanet-transformer-based-asymmetric-network</guid>
+    </item>
+    <item>
+      <title>CPrune: Compiler-Informed Model Pruning for Efficient Target-Aware DNN Execution</title>
+      <link>https://paperswithcode.com/paper/cprune-compiler-informed-model-pruning-for</link>
+      <description><![CDATA[We propose CPrune, a compiler-informed model pruning for efficient target-aware DNN execution to support an application with a required target accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cprune-compiler-informed-model-pruning-for</guid>
+    </item>
+    <item>
+      <title>Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations</title>
+      <link>https://paperswithcode.com/paper/aug-nerf-training-stronger-neural-radiance-1</link>
+      <description><![CDATA[Inspired by that, we propose Augmented NeRF (Aug-NeRF), which for the first time brings the power of robust data augmentations into regularizing the NeRF training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aug-nerf-training-stronger-neural-radiance-1</guid>
+    </item>
+    <item>
       <title>DeepPyramid: Enabling Pyramid View and Deformable Pyramid Reception for Semantic Segmentation in Cataract Surgery Videos</title>
       <link>https://paperswithcode.com/paper/deeppyramid-enabling-pyramid-view-and</link>
       <description><![CDATA[Semantic segmentation in cataract surgery has a wide range of applications contributing to surgical outcome enhancement and clinical risk reduction.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deeppyramid-enabling-pyramid-view-and</guid>
     </item>
     <item>
-      <title>Variational Deep Image Restoration</title>
-      <link>https://paperswithcode.com/paper/variational-deep-image-restoration</link>
-      <description><![CDATA[This paper presents a new variational inference framework for image restoration and a convolutional neural network (CNN) structure that can solve the restoration problems described by the proposed framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-deep-image-restoration</guid>
+      <title>Disentangling Random and Cyclic Effects in Time-Lapse Sequences</title>
+      <link>https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</link>
+      <description><![CDATA[We introduce the problem of disentangling time-lapse sequences in a way that allows separate, after-the-fact control of overall trends, cyclic effects, and random effects in the images, and describe a technique based on data-driven generative models that achieves this goal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</guid>
     </item>
     <item>
-      <title>An Empirical Survey on Long Document Summarization: Datasets, Models and Metrics</title>
-      <link>https://paperswithcode.com/paper/an-empirical-survey-on-long-document</link>
-      <description><![CDATA[The empirical analysis includes a study on the intrinsic characteristics of benchmark datasets, a multi-dimensional analysis of summarization models, and a review of the summarization evaluation metrics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-survey-on-long-document</guid>
+      <title>Removing Batch Normalization Boosts Adversarial Training</title>
+      <link>https://paperswithcode.com/paper/removing-batch-normalization-boosts</link>
+      <description><![CDATA[In addition, NoFrost achieves a $23. 56\%$ adversarial robustness against PGD attack, which improves the $13. 57\%$ robustness in BN-based AT.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/removing-batch-normalization-boosts</guid>
     </item>
     <item>
-      <title>Counterfactually Measuring and Eliminating Social Bias in Vision-Language Pre-training Models</title>
-      <link>https://paperswithcode.com/paper/counterfactually-measuring-and-eliminating</link>
-      <description><![CDATA[Vision-Language Pre-training (VLP) models have achieved state-of-the-art performance in numerous cross-modal tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactually-measuring-and-eliminating</guid>
-    </item>
-    <item>
-      <title>Can Language Understand Depth?</title>
-      <link>https://paperswithcode.com/paper/can-language-understand-depth</link>
-      <description><![CDATA[To our best knowledge, we are the first to conduct zero-shot adaptation from the semantic language knowledge to quantified downstream tasks and perform zero-shot monocular depth estimation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-understand-depth</guid>
-    </item>
-    <item>
-      <title>DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</link>
-      <description><![CDATA[We sampled, modified, and recorded 2, 541 dialogues from the open-domain dialogue dataset DailyDialog which are adequately long to represent context of each dialogue.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</guid>
-    </item>
-    <item>
-      <title>Learning Noise with Generative Adversarial Networks: Explorations with Classical Random Process Models</title>
-      <link>https://paperswithcode.com/paper/learning-noise-with-generative-adversarial</link>
-      <description><![CDATA[Random noise arising from physical processes is an inherent characteristic of measurements and a limiting factor for most signal processing tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-noise-with-generative-adversarial</guid>
-    </item>
-    <item>
-      <title>Sub-cluster-aware Network for Few-shot Skin Disease Classification</title>
-      <link>https://paperswithcode.com/paper/sub-cluster-aware-network-for-few-shot-skin</link>
-      <description><![CDATA[Specifically, SCAN follows a dual-branch framework, where the first branch is to learn class-wise features to distinguish different skin diseases, and the second one aims to learn features which can effectively partition each class into several groups so as to preserve the sub-clustered structure within each class.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sub-cluster-aware-network-for-few-shot-skin</guid>
-    </item>
-    <item>
-      <title>An Empirical Evaluation of $k$-Means Coresets</title>
-      <link>https://paperswithcode.com/paper/an-empirical-evaluation-of-k-means-coresets</link>
-      <description><![CDATA[Using this benchmark and real-world data sets, we conduct an exhaustive evaluation of the most commonly used coreset algorithms from theory and practice.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-evaluation-of-k-means-coresets</guid>
-    </item>
-    <item>
-      <title>PrUE: Distilling Knowledge from Sparse Teacher Networks</title>
-      <link>https://paperswithcode.com/paper/prue-distilling-knowledge-from-sparse-teacher</link>
-      <description><![CDATA[Besides, our method allows researchers to distill knowledge from deeper networks to improve students further.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prue-distilling-knowledge-from-sparse-teacher</guid>
+      <title>Egocentric Video-Language Pretraining @ EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge 2022</title>
+      <link>https://paperswithcode.com/paper/egocentric-video-language-pretraining-epic</link>
+      <description><![CDATA[In this report, we propose a video-language pretraining (VLP) based solution \cite{kevin2022egovlp} for the EPIC-KITCHENS-100 Multi-Instance Retrieval (MIR) challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/egocentric-video-language-pretraining-epic</guid>
     </item>
     <item>
       <title>Divert More Attention to Vision-Language Tracking</title>
@@ -213,16 +171,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/divert-more-attention-to-vision-language</guid>
     </item>
     <item>
-      <title>Saliency-Regularized Deep Multi-Task Learning</title>
-      <link>https://paperswithcode.com/paper/saliency-regularized-deep-multi-task-learning</link>
-      <description><![CDATA[Specifically, we propose to model the task relation as the similarity between task input gradients, with a theoretical analysis of their equivalency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/saliency-regularized-deep-multi-task-learning</guid>
+      <title>Sub-cluster-aware Network for Few-shot Skin Disease Classification</title>
+      <link>https://paperswithcode.com/paper/sub-cluster-aware-network-for-few-shot-skin</link>
+      <description><![CDATA[Specifically, SCAN follows a dual-branch framework, where the first branch is to learn class-wise features to distinguish different skin diseases, and the second one aims to learn features which can effectively partition each class into several groups so as to preserve the sub-clustered structure within each class.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sub-cluster-aware-network-for-few-shot-skin</guid>
     </item>
     <item>
       <title>You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers</title>
       <link>https://paperswithcode.com/paper/you-only-need-one-detector-unified-object</link>
       <description><![CDATA[In this article, we further find out that by using a vision transformer together with cross/inter modality transfer learning, a unified detector can achieve better performances when using different modalities as inputs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/you-only-need-one-detector-unified-object</guid>
+    </item>
+    <item>
+      <title>Learning Noise with Generative Adversarial Networks: Explorations with Classical Random Process Models</title>
+      <link>https://paperswithcode.com/paper/learning-noise-with-generative-adversarial</link>
+      <description><![CDATA[Random noise arising from physical processes is an inherent characteristic of measurements and a limiting factor for most signal processing tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-noise-with-generative-adversarial</guid>
+    </item>
+    <item>
+      <title>Saliency-Regularized Deep Multi-Task Learning</title>
+      <link>https://paperswithcode.com/paper/saliency-regularized-deep-multi-task-learning</link>
+      <description><![CDATA[Specifically, we propose to model the task relation as the similarity between task input gradients, with a theoretical analysis of their equivalency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/saliency-regularized-deep-multi-task-learning</guid>
     </item>
     <item>
       <title>Exploiting Context Information for Generic Event Boundary Captioning</title>
@@ -243,16 +213,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/generating-repetitions-with-appropriate</guid>
     </item>
     <item>
+      <title>PrUE: Distilling Knowledge from Sparse Teacher Networks</title>
+      <link>https://paperswithcode.com/paper/prue-distilling-knowledge-from-sparse-teacher</link>
+      <description><![CDATA[Besides, our method allows researchers to distill knowledge from deeper networks to improve students further.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prue-distilling-knowledge-from-sparse-teacher</guid>
+    </item>
+    <item>
+      <title>An Empirical Evaluation of $k$-Means Coresets</title>
+      <link>https://paperswithcode.com/paper/an-empirical-evaluation-of-k-means-coresets</link>
+      <description><![CDATA[Using this benchmark and real-world data sets, we conduct an exhaustive evaluation of the most commonly used coreset algorithms from theory and practice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-evaluation-of-k-means-coresets</guid>
+    </item>
+    <item>
+      <title>An Empirical Survey on Long Document Summarization: Datasets, Models and Metrics</title>
+      <link>https://paperswithcode.com/paper/an-empirical-survey-on-long-document</link>
+      <description><![CDATA[The empirical analysis includes a study on the intrinsic characteristics of benchmark datasets, a multi-dimensional analysis of summarization models, and a review of the summarization evaluation metrics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-survey-on-long-document</guid>
+    </item>
+    <item>
+      <title>Variational Deep Image Restoration</title>
+      <link>https://paperswithcode.com/paper/variational-deep-image-restoration</link>
+      <description><![CDATA[This paper presents a new variational inference framework for image restoration and a convolutional neural network (CNN) structure that can solve the restoration problems described by the proposed framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-deep-image-restoration</guid>
+    </item>
+    <item>
+      <title>Counterfactually Measuring and Eliminating Social Bias in Vision-Language Pre-training Models</title>
+      <link>https://paperswithcode.com/paper/counterfactually-measuring-and-eliminating</link>
+      <description><![CDATA[Vision-Language Pre-training (VLP) models have achieved state-of-the-art performance in numerous cross-modal tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactually-measuring-and-eliminating</guid>
+    </item>
+    <item>
+      <title>Can Language Understand Depth?</title>
+      <link>https://paperswithcode.com/paper/can-language-understand-depth</link>
+      <description><![CDATA[To our best knowledge, we are the first to conduct zero-shot adaptation from the semantic language knowledge to quantified downstream tasks and perform zero-shot monocular depth estimation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-understand-depth</guid>
+    </item>
+    <item>
       <title>NP-Match: When Neural Processes meet Semi-Supervised Learning</title>
       <link>https://paperswithcode.com/paper/np-match-when-neural-processes-meet-semi</link>
       <description><![CDATA[Semi-supervised learning (SSL) has been widely explored in recent years, and it is an effective way of leveraging unlabeled data to reduce the reliance on labeled data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/np-match-when-neural-processes-meet-semi</guid>
     </item>
     <item>
-      <title>Less Is More: A Comparison of Active Learning Strategies for 3D Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/less-is-more-a-comparison-of-active-learning</link>
-      <description><![CDATA[Since labeling medical image data is a costly and labor-intensive process, active learning has gained much popularity in the medical image segmentation domain in recent years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/less-is-more-a-comparison-of-active-learning</guid>
+      <title>DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</link>
+      <description><![CDATA[We sampled, modified, and recorded 2, 541 dialogues from the open-domain dialogue dataset DailyDialog which are adequately long to represent context of each dialogue.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</guid>
+    </item>
+    <item>
+      <title>Boundary-Guided Camouflaged Object Detection</title>
+      <link>https://paperswithcode.com/paper/boundary-guided-camouflaged-object-detection</link>
+      <description><![CDATA[Camouflaged object detection (COD), segmenting objects that are elegantly blended into their surroundings, is a valuable yet challenging task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/boundary-guided-camouflaged-object-detection</guid>
     </item>
     <item>
       <title>Hardware architecture for high throughput event visual data filtering with matrix of IIR filters algorithm</title>
@@ -267,28 +279,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cova-exploiting-compressed-domain-analysis-to</guid>
     </item>
     <item>
-      <title>Learning fast and agile quadrupedal locomotion over complex terrain</title>
-      <link>https://paperswithcode.com/paper/learning-fast-and-agile-quadrupedal</link>
-      <description><![CDATA[In this paper, we propose a robust controller that achieves natural and stably fast locomotion on a real blind quadruped robot.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-fast-and-agile-quadrupedal</guid>
+      <title>Abstraction and Refinement: Towards Scalable and Exact Verification of Neural Networks</title>
+      <link>https://paperswithcode.com/paper/abstraction-and-refinement-towards-scalable</link>
+      <description><![CDATA[Our approach is orthogonal to and can be integrated with many existing verification techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/abstraction-and-refinement-towards-scalable</guid>
     </item>
     <item>
-      <title>A Multi-Task BERT Model for Schema-Guided Dialogue State Tracking</title>
-      <link>https://paperswithcode.com/paper/a-multi-task-bert-model-for-schema-guided</link>
-      <description><![CDATA[Task-oriented dialogue systems often employ a Dialogue State Tracker (DST) to successfully complete conversations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-task-bert-model-for-schema-guided</guid>
-    </item>
-    <item>
-      <title>Noise and Edge Based Dual Branch Image Manipulation Detection</title>
-      <link>https://paperswithcode.com/paper/noise-and-edge-based-dual-branch-image</link>
-      <description><![CDATA[In this paper, the noise image extracted by the improved constrained convolution is used as the input of the model instead of the original image to obtain more subtle traces of manipulation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/noise-and-edge-based-dual-branch-image</guid>
-    </item>
-    <item>
-      <title>Boundary-Guided Camouflaged Object Detection</title>
-      <link>https://paperswithcode.com/paper/boundary-guided-camouflaged-object-detection</link>
-      <description><![CDATA[Camouflaged object detection (COD), segmenting objects that are elegantly blended into their surroundings, is a valuable yet challenging task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/boundary-guided-camouflaged-object-detection</guid>
+      <title>Sequence-aware multimodal page classification of Brazilian legal documents</title>
+      <link>https://paperswithcode.com/paper/sequence-aware-multimodal-page-classification</link>
+      <description><![CDATA[The Brazilian Supreme Court receives tens of thousands of cases each semester.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sequence-aware-multimodal-page-classification</guid>
     </item>
     <item>
       <title>Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift</title>
@@ -297,16 +297,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/test-time-adaptation-with-calibration-of</guid>
     </item>
     <item>
-      <title>Towards Robust Video Object Segmentation with Adaptive Object Calibration</title>
-      <link>https://paperswithcode.com/paper/towards-robust-video-object-segmentation-with</link>
-      <description><![CDATA[We consolidate this conditional mask calibration process in a progressive manner, where the object representations and proto-masks evolve to be discriminative iteratively.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-video-object-segmentation-with</guid>
+      <title>FL-Defender: Combating Targeted Attacks in Federated Learning</title>
+      <link>https://paperswithcode.com/paper/fl-defender-combating-targeted-attacks-in</link>
+      <description><![CDATA[This makes it possible i) to train more accurate models due to learning from rich joint training data, and ii) to improve privacy by not sharing the workers' local private data with others.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fl-defender-combating-targeted-attacks-in</guid>
     </item>
     <item>
-      <title>Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification</title>
-      <link>https://paperswithcode.com/paper/learning-cross-image-object-semantic-relation</link>
-      <description><![CDATA[Few-shot fine-grained learning aims to classify a query image into one of a set of support categories with fine-grained differences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-cross-image-object-semantic-relation</guid>
+      <title>SKIPP'D: a SKy Images and Photovoltaic Power Generation Dataset for Short-term Solar Forecasting</title>
+      <link>https://paperswithcode.com/paper/skipp-d-a-sky-images-and-photovoltaic-power</link>
+      <description><![CDATA[The dataset contains three years (2017-2019) of quality-controlled down-sampled sky images and PV power generation data that is ready-to-use for short-term solar forecasting using deep learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skipp-d-a-sky-images-and-photovoltaic-power</guid>
     </item>
   </channel>
 </rss>

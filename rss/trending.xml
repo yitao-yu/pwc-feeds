@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Jul 2022 09:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 21:07:11 +0000</lastBuildDate>
     <item>
       <title>Pen and Paper Exercises in Machine Learning</title>
       <link>https://paperswithcode.com/paper/pen-and-paper-exercises-in-machine-learning</link>
       <description><![CDATA[This is a collection of (mostly) pen-and-paper exercises in machine learning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/pen-and-paper-exercises-in-machine-learning</guid>
+    </item>
+    <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
     </item>
     <item>
       <title>LViT: Language meets Vision Transformer in Medical Image Segmentation</title>
@@ -21,40 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lvit-language-meets-vision-transformer-in</guid>
     </item>
     <item>
-      <title>Multi-Graph Fusion Networks for Urban Region Embedding</title>
-      <link>https://paperswithcode.com/paper/multi-graph-fusion-networks-for-urban-region</link>
-      <description><![CDATA[Human mobility data contains rich but abundant information, which yields to the comprehensive region embeddings for cross domain tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-graph-fusion-networks-for-urban-region</guid>
-    </item>
-    <item>
-      <title>Forecasting Future World Events with Neural Networks</title>
-      <link>https://paperswithcode.com/paper/forecasting-future-world-events-with-neural</link>
-      <description><![CDATA[We test language models on our forecasting task and find that performance is far below a human expert baseline.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/forecasting-future-world-events-with-neural</guid>
-    </item>
-    <item>
-      <title>Denoised MDPs: Learning World Models Better Than the World Itself</title>
-      <link>https://paperswithcode.com/paper/denoised-mdps-learning-world-models-better</link>
-      <description><![CDATA[The ability to separate signal from noise, and reason with clean abstractions, is critical to intelligence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/denoised-mdps-learning-world-models-better</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
-    </item>
-    <item>
       <title>BoT-SORT: Robust Associations Multi-Pedestrian Tracking</title>
       <link>https://paperswithcode.com/paper/bot-sort-robust-associations-multi-pedestrian</link>
       <description><![CDATA[The goal of multi-object tracking (MOT) is detecting and tracking all the objects in a scene, while keeping a unique identifier for each object.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/bot-sort-robust-associations-multi-pedestrian</guid>
     </item>
     <item>
-      <title>ProGen2: Exploring the Boundaries of Protein Language Models</title>
-      <link>https://paperswithcode.com/paper/progen2-exploring-the-boundaries-of-protein</link>
-      <description><![CDATA[Attention-based models trained on protein sequences have demonstrated incredible success at classification and generation tasks relevant for artificial intelligence-driven protein design.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/progen2-exploring-the-boundaries-of-protein</guid>
+      <title>Text2Human: Text-Driven Controllable Human Image Generation</title>
+      <link>https://paperswithcode.com/paper/text2human-text-driven-controllable-human</link>
+      <description><![CDATA[In this work, we present a text-driven controllable framework, Text2Human, for a high-quality and diverse human generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2human-text-driven-controllable-human</guid>
+    </item>
+    <item>
+      <title>Forecasting Future World Events with Neural Networks</title>
+      <link>https://paperswithcode.com/paper/forecasting-future-world-events-with-neural</link>
+      <description><![CDATA[We test language models on our forecasting task and find that performance is far below a human expert baseline.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/forecasting-future-world-events-with-neural</guid>
     </item>
     <item>
       <title>BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation</title>
@@ -69,22 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/temporal-shift-module-for-efficient-video</guid>
     </item>
     <item>
-      <title>HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction</title>
-      <link>https://paperswithcode.com/paper/hivt-hierarchical-vector-transformer-for</link>
-      <description><![CDATA[To tackle this challenge, we propose Hierarchical Vector Transformer (HiVT) for fast and accurate multi-agent motion prediction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hivt-hierarchical-vector-transformer-for</guid>
-    </item>
-    <item>
-      <title>Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity</title>
-      <link>https://paperswithcode.com/paper/accelerating-sparse-dnn-models-without</link>
-      <description><![CDATA[Network pruning can reduce the high computation cost of deep neural network (DNN) models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/accelerating-sparse-dnn-models-without</guid>
-    </item>
-    <item>
-      <title>SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation</title>
-      <link>https://paperswithcode.com/paper/squant-on-the-fly-data-free-quantization-via-1</link>
-      <description><![CDATA[This paper proposes an on-the-fly DFQ framework with sub-second quantization time, called SQuant, which can quantize networks on inference-only devices with low computation and memory requirements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/squant-on-the-fly-data-free-quantization-via-1</guid>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
       <title>EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications</title>
@@ -93,10 +69,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/edgenext-efficiently-amalgamated-cnn</guid>
     </item>
     <item>
+      <title>Accelerating Sparse DNN Models without Hardware-Support via Tile-Wise Sparsity</title>
+      <link>https://paperswithcode.com/paper/accelerating-sparse-dnn-models-without</link>
+      <description><![CDATA[Network pruning can reduce the high computation cost of deep neural network (DNN) models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/accelerating-sparse-dnn-models-without</guid>
+    </item>
+    <item>
+      <title>Denoised MDPs: Learning World Models Better Than the World Itself</title>
+      <link>https://paperswithcode.com/paper/denoised-mdps-learning-world-models-better</link>
+      <description><![CDATA[The ability to separate signal from noise, and reason with clean abstractions, is critical to intelligence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/denoised-mdps-learning-world-models-better</guid>
+    </item>
+    <item>
       <title>PolarFormer: Multi-camera 3D Object Detection with Polar Transformers</title>
       <link>https://paperswithcode.com/paper/polarformer-multi-camera-3d-object-detection</link>
       <description><![CDATA[3D object detection in autonomous driving aims to reason "what" and "where" the objects of interest present in a 3D world.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/polarformer-multi-camera-3d-object-detection</guid>
+    </item>
+    <item>
+      <title>SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation</title>
+      <link>https://paperswithcode.com/paper/squant-on-the-fly-data-free-quantization-via-1</link>
+      <description><![CDATA[This paper proposes an on-the-fly DFQ framework with sub-second quantization time, called SQuant, which can quantize networks on inference-only devices with low computation and memory requirements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/squant-on-the-fly-data-free-quantization-via-1</guid>
+    </item>
+    <item>
+      <title>HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction</title>
+      <link>https://paperswithcode.com/paper/hivt-hierarchical-vector-transformer-for</link>
+      <description><![CDATA[To tackle this challenge, we propose Hierarchical Vector Transformer (HiVT) for fast and accurate multi-agent motion prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hivt-hierarchical-vector-transformer-for</guid>
     </item>
     <item>
       <title>Zero-Shot Text-to-Image Generation</title>
@@ -105,28 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-to-image-generation</guid>
     </item>
     <item>
-      <title>EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation</title>
-      <link>https://paperswithcode.com/paper/epro-pnp-generalized-end-to-end-probabilistic</link>
-      <description><![CDATA[The 2D-3D coordinates and corresponding weights are treated as intermediate variables learned by minimizing the KL divergence between the predicted and target pose distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/epro-pnp-generalized-end-to-end-probabilistic</guid>
+      <title>Avocodo: Generative Adversarial Network for Artifact-free Vocoder</title>
+      <link>https://paperswithcode.com/paper/avocodo-generative-adversarial-network-for</link>
+      <description><![CDATA[Therefore, in this paper, we investigate the relationship between these artifacts and GAN-based neural vocoders and propose a GAN-based neural vocoder, called Avocodo, that allows the synthesis of high-fidelity speech with reduced artifacts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/avocodo-generative-adversarial-network-for</guid>
     </item>
     <item>
-      <title>A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning</title>
-      <link>https://paperswithcode.com/paper/a-sentinel-2-multi-year-multi-country</link>
-      <description><![CDATA[In this work we introduce Sen4AgriNet, a Sentinel-2 based time series multi country benchmark dataset, tailored for agricultural monitoring applications with Machine and Deep Learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-sentinel-2-multi-year-multi-country</guid>
+      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
+      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
+      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
     </item>
     <item>
-      <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
-      <link>https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</link>
-      <description><![CDATA[Autonomous agents have made great strides in specialist domains like Atari games and Go.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</guid>
+      <title>VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations</title>
+      <link>https://paperswithcode.com/paper/vl-checklist-evaluating-pre-trained-vision</link>
+      <description><![CDATA[Inspired by the CheckList for testing natural language processing, we introduce VL-CheckList, a novel framework to understand the capabilities of VLP models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vl-checklist-evaluating-pre-trained-vision</guid>
     </item>
     <item>
-      <title>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</title>
-      <link>https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</link>
-      <description><![CDATA[We also extend FlashAttention to block-sparse attention, yielding an approximate attention algorithm that is faster than any existing approximate attention method.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</guid>
+      <title>Diffusion-LM Improves Controllable Text Generation</title>
+      <link>https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text</link>
+      <description><![CDATA[Controlling the behavior of language models (LMs) without re-training is a major open problem in natural language generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-lm-improves-controllable-text</guid>
     </item>
   </channel>
 </rss>
