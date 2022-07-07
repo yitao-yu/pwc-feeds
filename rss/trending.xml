@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Jul 2022 09:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2022 21:07:09 +0000</lastBuildDate>
+    <item>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+    </item>
     <item>
       <title>Pen and Paper Exercises in Machine Learning</title>
       <link>https://paperswithcode.com/paper/pen-and-paper-exercises-in-machine-learning</link>
@@ -21,28 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
     </item>
     <item>
-      <title>DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</link>
-      <description><![CDATA[We sampled, modified, and recorded 2, 541 dialogues from the open-domain dialogue dataset DailyDialog which are adequately long to represent context of each dialogue.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</guid>
-    </item>
-    <item>
       <title>Efficient Spatial-Temporal Information Fusion for LiDAR-Based 3D Moving Object Segmentation</title>
       <link>https://paperswithcode.com/paper/efficient-spatial-temporal-information-fusion</link>
       <description><![CDATA[We also use a point refinement module via 3D sparse convolution to fuse the information from both LiDAR range image and point cloud representations and reduce the artifacts on the borders of the objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-spatial-temporal-information-fusion</guid>
-    </item>
-    <item>
-      <title>Back to MLP: A Simple Baseline for Human Motion Prediction</title>
-      <link>https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</link>
-      <description><![CDATA[This paper tackles the problem of human motion prediction, consisting in forecasting future body poses from historically observed sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</guid>
-    </item>
-    <item>
-      <title>LViT: Language meets Vision Transformer in Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/lvit-language-meets-vision-transformer-in</link>
-      <description><![CDATA[In our model, medical text annotation is introduced to compensate for the quality deficiency in image data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lvit-language-meets-vision-transformer-in</guid>
     </item>
     <item>
       <title>AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture</title>
@@ -51,10 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/avatarcap-animatable-avatar-conditioned</guid>
     </item>
     <item>
-      <title>Disentangling Random and Cyclic Effects in Time-Lapse Sequences</title>
-      <link>https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</link>
-      <description><![CDATA[We introduce the problem of disentangling time-lapse sequences in a way that allows separate, after-the-fact control of overall trends, cyclic effects, and random effects in the images, and describe a technique based on data-driven generative models that achieves this goal.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</guid>
+      <title>CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/coderl-mastering-code-generation-through</link>
+      <description><![CDATA[To address the limitations, we propose "CodeRL", a new framework for program synthesis tasks through pretrained LMs and deep reinforcement learning (RL).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/coderl-mastering-code-generation-through</guid>
+    </item>
+    <item>
+      <title>DailyTalk: Spoken Dialogue Dataset for Conversational Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</link>
+      <description><![CDATA[We sampled, modified, and recorded 2, 541 dialogues from the open-domain dialogue dataset DailyDialog which are adequately long to represent context of each dialogue.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dailytalk-spoken-dialogue-dataset-for</guid>
     </item>
     <item>
       <title>Text2Human: Text-Driven Controllable Human Image Generation</title>
@@ -63,58 +57,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2human-text-driven-controllable-human</guid>
     </item>
     <item>
+      <title>Back to MLP: A Simple Baseline for Human Motion Prediction</title>
+      <link>https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</link>
+      <description><![CDATA[This paper tackles the problem of human motion prediction, consisting in forecasting future body poses from historically observed sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/back-to-mlp-a-simple-baseline-for-human</guid>
+    </item>
+    <item>
+      <title>Disentangling Random and Cyclic Effects in Time-Lapse Sequences</title>
+      <link>https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</link>
+      <description><![CDATA[We introduce the problem of disentangling time-lapse sequences in a way that allows separate, after-the-fact control of overall trends, cyclic effects, and random effects in the images, and describe a technique based on data-driven generative models that achieves this goal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-random-and-cyclic-effects-in</guid>
+    </item>
+    <item>
       <title>BoT-SORT: Robust Associations Multi-Pedestrian Tracking</title>
       <link>https://paperswithcode.com/paper/bot-sort-robust-associations-multi-pedestrian</link>
       <description><![CDATA[The goal of multi-object tracking (MOT) is detecting and tracking all the objects in a scene, while keeping a unique identifier for each object.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/bot-sort-robust-associations-multi-pedestrian</guid>
-    </item>
-    <item>
-      <title>NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates</title>
-      <link>https://paperswithcode.com/paper/nu-wave-2-a-general-neural-audio-upsampling</link>
-      <description><![CDATA[Conventionally, audio super-resolution models fixed the initial and the target sampling rates, which necessitate the model to be trained for each pair of sampling rates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nu-wave-2-a-general-neural-audio-upsampling</guid>
-    </item>
-    <item>
-      <title>Forecasting Future World Events with Neural Networks</title>
-      <link>https://paperswithcode.com/paper/forecasting-future-world-events-with-neural</link>
-      <description><![CDATA[We test language models on our forecasting task and find that performance is far below a human expert baseline.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/forecasting-future-world-events-with-neural</guid>
-    </item>
-    <item>
-      <title>LaserMix for Semi-Supervised LiDAR Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</link>
-      <description><![CDATA[Densely annotating LiDAR point clouds is costly, which restrains the scalability of fully-supervised learning methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
-    </item>
-    <item>
-      <title>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</title>
-      <link>https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</link>
-      <description><![CDATA[We also extend FlashAttention to block-sparse attention, yielding an approximate attention algorithm that is faster than any existing approximate attention method.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</guid>
-    </item>
-    <item>
-      <title>BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation</title>
-      <link>https://paperswithcode.com/paper/blip-bootstrapping-language-image-pre</link>
-      <description><![CDATA[Furthermore, performance improvement has been largely achieved by scaling up the dataset with noisy image-text pairs collected from the web, which is a suboptimal source of supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-bootstrapping-language-image-pre</guid>
-    </item>
-    <item>
-      <title>PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes</title>
-      <link>https://paperswithcode.com/paper/photoscene-photorealistic-material-and-1</link>
-      <description><![CDATA[Most indoor 3D scene reconstruction methods focus on recovering 3D geometry and scene layout.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/photoscene-photorealistic-material-and-1</guid>
-    </item>
-    <item>
-      <title>TSM: Temporal Shift Module for Efficient Video Understanding</title>
-      <link>https://paperswithcode.com/paper/temporal-shift-module-for-efficient-video</link>
-      <description><![CDATA[The explosive growth in video streaming gives rise to challenges on performing video understanding at high accuracy and low computation cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/temporal-shift-module-for-efficient-video</guid>
     </item>
     <item>
       <title>Towards a General Purpose CNN for Long Range Dependencies in $N$D</title>
@@ -123,10 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-general-purpose-cnn-for-long-range</guid>
     </item>
     <item>
-      <title>CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/coderl-mastering-code-generation-through</link>
-      <description><![CDATA[To address the limitations, we propose "CodeRL", a new framework for program synthesis tasks through pretrained LMs and deep reinforcement learning (RL).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/coderl-mastering-code-generation-through</guid>
+      <title>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</title>
+      <link>https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</link>
+      <description><![CDATA[We also extend FlashAttention to block-sparse attention, yielding an approximate attention algorithm that is faster than any existing approximate attention method.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</guid>
+    </item>
+    <item>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+    </item>
+    <item>
+      <title>MLGO: a Machine Learning Guided Compiler Optimizations Framework</title>
+      <link>https://paperswithcode.com/paper/mlgo-a-machine-learning-guided-compiler</link>
+      <description><![CDATA[Leveraging machine-learning (ML) techniques for compiler optimizations has been widely studied and explored in academia.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mlgo-a-machine-learning-guided-compiler</guid>
+    </item>
+    <item>
+      <title>NU-Wave 2: A General Neural Audio Upsampling Model for Various Sampling Rates</title>
+      <link>https://paperswithcode.com/paper/nu-wave-2-a-general-neural-audio-upsampling</link>
+      <description><![CDATA[Conventionally, audio super-resolution models fixed the initial and the target sampling rates, which necessitate the model to be trained for each pair of sampling rates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nu-wave-2-a-general-neural-audio-upsampling</guid>
+    </item>
+    <item>
+      <title>EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications</title>
+      <link>https://paperswithcode.com/paper/edgenext-efficiently-amalgamated-cnn</link>
+      <description><![CDATA[Our EdgeNeXt model with 1. 3M parameters achieves 71. 2\% top-1 accuracy on ImageNet-1K, outperforming MobileViT with an absolute gain of 2. 2\% with 28\% reduction in FLOPs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/edgenext-efficiently-amalgamated-cnn</guid>
+    </item>
+    <item>
+      <title>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</link>
+      <description><![CDATA[This article addresses the problem of distilling knowledge from a large teacher model to a slim student network for LiDAR semantic segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</guid>
+    </item>
+    <item>
+      <title>LaMDA: Language Models for Dialog Applications</title>
+      <link>https://paperswithcode.com/paper/lamda-language-models-for-dialog-applications</link>
+      <description><![CDATA[We demonstrate that fine-tuning with annotated data and enabling the model to consult external knowledge sources can lead to significant improvements towards the two key challenges of safety and factual grounding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lamda-language-models-for-dialog-applications</guid>
+    </item>
+    <item>
+      <title>LaserMix for Semi-Supervised LiDAR Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</link>
+      <description><![CDATA[Densely annotating LiDAR point clouds is costly, which restrains the scalability of fully-supervised learning methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</guid>
     </item>
   </channel>
 </rss>
