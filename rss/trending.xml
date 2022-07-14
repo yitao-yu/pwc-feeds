@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Jul 2022 21:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2022 09:17:03 +0000</lastBuildDate>
     <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
       <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
@@ -21,22 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</guid>
     </item>
     <item>
-      <title>More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity</title>
-      <link>https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</link>
-      <description><![CDATA[Built on this recipe, we propose Sparse Large Kernel Network (SLaK), a pure CNN architecture equipped with 51x51 kernels that can perform on par with or better than state-of-the-art hierarchical Transformers and modern ConvNet architectures like ConvNeXt and RepLKNet, on ImageNet classification as well as typical downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</guid>
-    </item>
-    <item>
       <title>The Web Is Your Oyster -- Knowledge-Intensive NLP against a Very Large Web Corpus</title>
       <link>https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</link>
       <description><![CDATA[In order to address increasing demands of real-world applications, the research for knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly open-domain environment: web-scale knowledge, lack of structure, inconsistent quality and noise.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
-    </item>
-    <item>
-      <title>Visual Prompt Tuning</title>
-      <link>https://paperswithcode.com/paper/visual-prompt-tuning</link>
-      <description><![CDATA[The current modus operandi in adapting pre-trained models involves updating all the backbone parameters, ie, full fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-prompt-tuning</guid>
     </item>
     <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
@@ -45,10 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>EfficientFormer: Vision Transformers at MobileNet Speed</title>
-      <link>https://paperswithcode.com/paper/efficientformer-vision-transformers-at</link>
-      <description><![CDATA[Our work proves that properly designed transformers can reach extremely low latency on mobile devices while maintaining high performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientformer-vision-transformers-at</guid>
+      <title>More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity</title>
+      <link>https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</link>
+      <description><![CDATA[Built on this recipe, we propose Sparse Large Kernel Network (SLaK), a pure CNN architecture equipped with 51x51 kernels that can perform on par with or better than state-of-the-art hierarchical Transformers and modern ConvNet architectures like ConvNeXt and RepLKNet, on ImageNet classification as well as typical downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</guid>
+    </item>
+    <item>
+      <title>Visual Prompt Tuning</title>
+      <link>https://paperswithcode.com/paper/visual-prompt-tuning</link>
+      <description><![CDATA[The current modus operandi in adapting pre-trained models involves updating all the backbone parameters, ie, full fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-prompt-tuning</guid>
     </item>
     <item>
       <title>Hybrid Spectrogram and Waveform Source Separation</title>
@@ -57,52 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</guid>
     </item>
     <item>
-      <title>Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection</title>
-      <link>https://paperswithcode.com/paper/bridging-the-gap-between-object-and-image</link>
-      <description><![CDATA[Two popular forms of weak-supervision used in open-vocabulary detection (OVD) include pretrained CLIP model and image-level supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bridging-the-gap-between-object-and-image</guid>
-    </item>
-    <item>
-      <title>Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network</title>
-      <link>https://paperswithcode.com/paper/beyond-outlier-detection-outlier</link>
-      <description><![CDATA[We obtain an optimal attention-guided embedding space with expanded high-level information and rich semantics, and thus outlying behaviors of the queried outlier can be better unfolded.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-outlier-detection-outlier</guid>
-    </item>
-    <item>
-      <title>DCT-Net: Domain-Calibrated Translation for Portrait Stylization</title>
-      <link>https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</link>
-      <description><![CDATA[This paper introduces DCT-Net, a novel image translation architecture for few-shot portrait stylization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</guid>
-    </item>
-    <item>
       <title>Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis</title>
       <link>https://paperswithcode.com/paper/fast-vid2vid-spatial-temporal-compression-for</link>
       <description><![CDATA[In this paper, we present a spatial-temporal compression framework, \textbf{Fast-Vid2Vid}, which focuses on data aspects of generative models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-vid2vid-spatial-temporal-compression-for</guid>
     </item>
     <item>
-      <title>ByT5 model for massively multilingual grapheme-to-phoneme conversion</title>
-      <link>https://paperswithcode.com/paper/byt5-model-for-massively-multilingual</link>
-      <description><![CDATA[In this study, we tackle massively multilingual grapheme-to-phoneme conversion through implementing G2P models based on ByT5.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/byt5-model-for-massively-multilingual</guid>
-    </item>
-    <item>
-      <title>Fully Convolutional Line Parsing</title>
-      <link>https://paperswithcode.com/paper/fully-convolutional-line-parsing</link>
-      <description><![CDATA[We conduct extensive experiments and show that our method achieves a significantly better trade-off between efficiency and accuracy, resulting in a real-time line detector at up to 73 FPS on a single GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fully-convolutional-line-parsing</guid>
-    </item>
-    <item>
-      <title>EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining</title>
-      <link>https://paperswithcode.com/paper/efficientderain-learning-pixel-wise-dilation</link>
-      <description><![CDATA[To fill this gap, in this paper, we regard the single-image deraining as a general image-enhancing problem and originally propose a model-free deraining method, i. e., EfficientDeRain, which is able to process a rainy image within 10~ms (i. e., around 6~ms on average), over 80 times faster than the state-of-the-art method (i. e., RCDNet), while achieving similar de-rain effects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientderain-learning-pixel-wise-dilation</guid>
-    </item>
-    <item>
-      <title>Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis</title>
-      <link>https://paperswithcode.com/paper/generalizable-neural-performer-learning</link>
-      <description><![CDATA[Specifically, we compress the light fields for novel view human rendering as conditional implicit neural radiance fields from both geometry and appearance aspects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-neural-performer-learning</guid>
+      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
+      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
+      <description><![CDATA[The Transformer architecture has improved the performance of deep learning models in domains such as Computer Vision and Natural Language Processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
     </item>
     <item>
       <title>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation</title>
@@ -111,22 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</guid>
     </item>
     <item>
-      <title>Pen and Paper Exercises in Machine Learning</title>
-      <link>https://paperswithcode.com/paper/pen-and-paper-exercises-in-machine-learning</link>
-      <description><![CDATA[This is a collection of (mostly) pen-and-paper exercises in machine learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pen-and-paper-exercises-in-machine-learning</guid>
+      <title>Betty: An Automatic Differentiation Library for Multilevel Optimization</title>
+      <link>https://paperswithcode.com/paper/betty-an-automatic-differentiation-library</link>
+      <description><![CDATA[Multilevel optimization has been widely adopted as a mathematical foundation for a myriad of machine learning problems, such as hyperparameter optimization, meta-learning, and reinforcement learning, to name a few.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/betty-an-automatic-differentiation-library</guid>
     </item>
     <item>
-      <title>SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation</title>
-      <link>https://paperswithcode.com/paper/squant-on-the-fly-data-free-quantization-via-1</link>
-      <description><![CDATA[This paper proposes an on-the-fly DFQ framework with sub-second quantization time, called SQuant, which can quantize networks on inference-only devices with low computation and memory requirements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/squant-on-the-fly-data-free-quantization-via-1</guid>
+      <title>EfficientFormer: Vision Transformers at MobileNet Speed</title>
+      <link>https://paperswithcode.com/paper/efficientformer-vision-transformers-at</link>
+      <description><![CDATA[Our work proves that properly designed transformers can reach extremely low latency on mobile devices while maintaining high performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientformer-vision-transformers-at</guid>
     </item>
     <item>
-      <title>RegionCLIP: Region-based Language-Image Pretraining</title>
-      <link>https://paperswithcode.com/paper/regionclip-region-based-language-image</link>
-      <description><![CDATA[However, we show that directly applying such models to recognize image regions for object detection leads to poor performance due to a domain shift: CLIP was trained to match an image as a whole to a text description, without capturing the fine-grained alignment between image regions and text spans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/regionclip-region-based-language-image</guid>
+      <title>SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos</title>
+      <link>https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</link>
+      <description><![CDATA[When analyzing human motion videos, the output jitters from existing pose estimators are highly-unbalanced.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</guid>
+    </item>
+    <item>
+      <title>Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network</title>
+      <link>https://paperswithcode.com/paper/beyond-outlier-detection-outlier</link>
+      <description><![CDATA[We obtain an optimal attention-guided embedding space with expanded high-level information and rich semantics, and thus outlying behaviors of the queried outlier can be better unfolded.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-outlier-detection-outlier</guid>
+    </item>
+    <item>
+      <title>Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis</title>
+      <link>https://paperswithcode.com/paper/generalizable-neural-performer-learning</link>
+      <description><![CDATA[Specifically, we compress the light fields for novel view human rendering as conditional implicit neural radiance fields from both geometry and appearance aspects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-neural-performer-learning</guid>
+    </item>
+    <item>
+      <title>DCT-Net: Domain-Calibrated Translation for Portrait Stylization</title>
+      <link>https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</link>
+      <description><![CDATA[This paper introduces DCT-Net, a novel image translation architecture for few-shot portrait stylization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</guid>
+    </item>
+    <item>
+      <title>Bridging the Gap between Object and Image-level Representations for Open-Vocabulary Detection</title>
+      <link>https://paperswithcode.com/paper/bridging-the-gap-between-object-and-image</link>
+      <description><![CDATA[Two popular forms of weak-supervision used in open-vocabulary detection (OVD) include pretrained CLIP model and image-level supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bridging-the-gap-between-object-and-image</guid>
+    </item>
+    <item>
+      <title>Accelerated Quality-Diversity for Robotics through Massive Parallelism</title>
+      <link>https://paperswithcode.com/paper/accelerated-quality-diversity-for-robotics</link>
+      <description><![CDATA[With recent advances in simulators that run on accelerators, thousands of evaluations can now be performed in parallel on single GPU/TPU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/accelerated-quality-diversity-for-robotics</guid>
+    </item>
+    <item>
+      <title>BERTopic: Neural topic modeling with a class-based TF-IDF procedure</title>
+      <link>https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</link>
+      <description><![CDATA[BERTopic generates coherent topics and remains competitive across a variety of benchmarks involving classical models and those that follow the more recent clustering approach of topic modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</guid>
+    </item>
+    <item>
+      <title>HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction</title>
+      <link>https://paperswithcode.com/paper/hivt-hierarchical-vector-transformer-for</link>
+      <description><![CDATA[To tackle this challenge, we propose Hierarchical Vector Transformer (HiVT) for fast and accurate multi-agent motion prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hivt-hierarchical-vector-transformer-for</guid>
     </item>
   </channel>
 </rss>
