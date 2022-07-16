@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Jul 2022 21:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 09:14:11 +0000</lastBuildDate>
+    <item>
+      <title>Towards Grand Unification of Object Tracking</title>
+      <link>https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</link>
+      <description><![CDATA[We present a unified method, termed Unicorn, that can simultaneously solve four tracking problems (SOT, MOT, VOS, MOTS) with a single network using the same model parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</guid>
+    </item>
     <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
       <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
@@ -33,22 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
     </item>
     <item>
-      <title>Towards Metrical Reconstruction of Human Faces</title>
-      <link>https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</link>
-      <description><![CDATA[To this end, we take advantage of a face recognition network pretrained on a large-scale 2D image dataset, which provides distinct features for different faces and is robust to expression, illumination, and camera changes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</guid>
-    </item>
-    <item>
       <title>Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras</title>
       <link>https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</link>
       <description><![CDATA[This paper demonstrates a visual SLAM system that utilizes point and line cloud for robust camera localization, simultaneously, with an embedded piece-wise planar reconstruction (PPR) module which in all provides a structural map.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</guid>
     </item>
     <item>
-      <title>More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity</title>
-      <link>https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</link>
-      <description><![CDATA[Built on this recipe, we propose Sparse Large Kernel Network (SLaK), a pure CNN architecture equipped with 51x51 kernels that can perform on par with or better than state-of-the-art hierarchical Transformers and modern ConvNet architectures like ConvNeXt and RepLKNet, on ImageNet classification as well as typical downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</guid>
+      <title>Towards Metrical Reconstruction of Human Faces</title>
+      <link>https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</link>
+      <description><![CDATA[To this end, we take advantage of a face recognition network pretrained on a large-scale 2D image dataset, which provides distinct features for different faces and is robust to expression, illumination, and camera changes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</guid>
     </item>
     <item>
       <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
@@ -57,16 +57,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
     </item>
     <item>
+      <title>Bootstrapped Masked Autoencoders for Vision BERT Pretraining</title>
+      <link>https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</link>
+      <description><![CDATA[The first design is motivated by the observation that using a pretrained MAE to extract the features as the BERT prediction target for masked tokens can achieve better pretraining performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</guid>
+    </item>
+    <item>
       <title>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation</title>
       <link>https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</link>
       <description><![CDATA[In this paper we present Mask DINO, a unified object detection and segmentation framework.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</guid>
     </item>
     <item>
-      <title>Visual Prompt Tuning</title>
-      <link>https://paperswithcode.com/paper/visual-prompt-tuning</link>
-      <description><![CDATA[The current modus operandi in adapting pre-trained models involves updating all the backbone parameters, ie, full fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-prompt-tuning</guid>
+      <title>More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity</title>
+      <link>https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</link>
+      <description><![CDATA[Built on this recipe, we propose Sparse Large Kernel Network (SLaK), a pure CNN architecture equipped with 51x51 kernels that can perform on par with or better than state-of-the-art hierarchical Transformers and modern ConvNet architectures like ConvNeXt and RepLKNet, on ImageNet classification as well as typical downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-convnets-in-the-2020s-scaling-up-kernels</guid>
     </item>
     <item>
       <title>Accelerated Quality-Diversity for Robotics through Massive Parallelism</title>
@@ -75,16 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/accelerated-quality-diversity-for-robotics</guid>
     </item>
     <item>
-      <title>Hybrid Spectrogram and Waveform Source Separation</title>
-      <link>https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</link>
-      <description><![CDATA[Source separation models either work on the spectrogram or waveform domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</guid>
-    </item>
-    <item>
-      <title>BERTopic: Neural topic modeling with a class-based TF-IDF procedure</title>
-      <link>https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</link>
-      <description><![CDATA[BERTopic generates coherent topics and remains competitive across a variety of benchmarks involving classical models and those that follow the more recent clustering approach of topic modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</guid>
+      <title>Visual Prompt Tuning</title>
+      <link>https://paperswithcode.com/paper/visual-prompt-tuning</link>
+      <description><![CDATA[The current modus operandi in adapting pre-trained models involves updating all the backbone parameters, ie, full fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-prompt-tuning</guid>
     </item>
     <item>
       <title>Betty: An Automatic Differentiation Library for Multilevel Optimization</title>
@@ -93,40 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/betty-an-automatic-differentiation-library</guid>
     </item>
     <item>
-      <title>SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos</title>
-      <link>https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</link>
-      <description><![CDATA[When analyzing human motion videos, the output jitters from existing pose estimators are highly-unbalanced.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</guid>
+      <title>BERTopic: Neural topic modeling with a class-based TF-IDF procedure</title>
+      <link>https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</link>
+      <description><![CDATA[BERTopic generates coherent topics and remains competitive across a variety of benchmarks involving classical models and those that follow the more recent clustering approach of topic modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</guid>
     </item>
     <item>
-      <title>Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis</title>
-      <link>https://paperswithcode.com/paper/fast-vid2vid-spatial-temporal-compression-for</link>
-      <description><![CDATA[In this paper, we present a spatial-temporal compression framework, \textbf{Fast-Vid2Vid}, which focuses on data aspects of generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-vid2vid-spatial-temporal-compression-for</guid>
+      <title>ObjectBox: From Centers to Boxes for Anchor-Free Object Detection</title>
+      <link>https://paperswithcode.com/paper/objectbox-from-centers-to-boxes-for-anchor</link>
+      <description><![CDATA[We present ObjectBox, a novel single-stage anchor-free and highly generalizable object detection approach.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/objectbox-from-centers-to-boxes-for-anchor</guid>
     </item>
     <item>
-      <title>EfficientFormer: Vision Transformers at MobileNet Speed</title>
-      <link>https://paperswithcode.com/paper/efficientformer-vision-transformers-at</link>
-      <description><![CDATA[Our work proves that properly designed transformers can reach extremely low latency on mobile devices while maintaining high performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientformer-vision-transformers-at</guid>
+      <title>Hybrid Spectrogram and Waveform Source Separation</title>
+      <link>https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</link>
+      <description><![CDATA[Source separation models either work on the spectrogram or waveform domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</guid>
     </item>
     <item>
-      <title>DCT-Net: Domain-Calibrated Translation for Portrait Stylization</title>
-      <link>https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</link>
-      <description><![CDATA[This paper introduces DCT-Net, a novel image translation architecture for few-shot portrait stylization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</guid>
-    </item>
-    <item>
-      <title>Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network</title>
-      <link>https://paperswithcode.com/paper/beyond-outlier-detection-outlier</link>
-      <description><![CDATA[We obtain an optimal attention-guided embedding space with expanded high-level information and rich semantics, and thus outlying behaviors of the queried outlier can be better unfolded.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-outlier-detection-outlier</guid>
+      <title>Learning Implicit Templates for Point-Based Clothed Human Modeling</title>
+      <link>https://paperswithcode.com/paper/learning-implicit-templates-for-point-based</link>
+      <description><![CDATA[We present FITE, a First-Implicit-Then-Explicit framework for modeling human avatars in clothing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-implicit-templates-for-point-based</guid>
     </item>
     <item>
       <title>Generalizable Neural Performer: Learning Robust Radiance Fields for Human Novel View Synthesis</title>
       <link>https://paperswithcode.com/paper/generalizable-neural-performer-learning</link>
       <description><![CDATA[Specifically, we compress the light fields for novel view human rendering as conditional implicit neural radiance fields from both geometry and appearance aspects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-neural-performer-learning</guid>
+    </item>
+    <item>
+      <title>SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos</title>
+      <link>https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</link>
+      <description><![CDATA[When analyzing human motion videos, the output jitters from existing pose estimators are highly-unbalanced.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</guid>
     </item>
   </channel>
 </rss>
