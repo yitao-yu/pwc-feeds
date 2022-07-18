@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Jul 2022 21:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 09:15:08 +0000</lastBuildDate>
     <item>
       <title>Towards Grand Unification of Object Tracking</title>
       <link>https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</guid>
     </item>
     <item>
-      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
-      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
-      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
-    </item>
-    <item>
       <title>XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model</title>
       <link>https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</link>
       <description><![CDATA[We present XMem, a video object segmentation architecture for long videos with unified feature memory stores inspired by the Atkinson-Shiffrin memory model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</guid>
+    </item>
+    <item>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
@@ -37,18 +37,6 @@
       <link>https://paperswithcode.com/paper/masked-autoencoders-that-listen</link>
       <description><![CDATA[Following the Transformer encoder-decoder design in MAE, our Audio-MAE first encodes audio spectrogram patches with a high masking ratio, feeding only the non-masked tokens through encoder layers.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/masked-autoencoders-that-listen</guid>
-    </item>
-    <item>
-      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
-      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
-      <description><![CDATA[The Transformer architecture has improved the performance of deep learning models in domains such as Computer Vision and Natural Language Processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
-    </item>
-    <item>
-      <title>The Web Is Your Oyster -- Knowledge-Intensive NLP against a Very Large Web Corpus</title>
-      <link>https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</link>
-      <description><![CDATA[In order to address increasing demands of real-world applications, the research for knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly open-domain environment: web-scale knowledge, lack of structure, inconsistent quality and noise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
     </item>
     <item>
       <title>Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras</title>
@@ -69,10 +57,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/objectbox-from-centers-to-boxes-for-anchor</guid>
     </item>
     <item>
-      <title>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation</title>
-      <link>https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</link>
-      <description><![CDATA[In this paper we present Mask DINO, a unified object detection and segmentation framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</guid>
+      <title>The Web Is Your Oyster -- Knowledge-Intensive NLP against a Very Large Web Corpus</title>
+      <link>https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</link>
+      <description><![CDATA[In order to address increasing demands of real-world applications, the research for knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly open-domain environment: web-scale knowledge, lack of structure, inconsistent quality and noise.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
+    </item>
+    <item>
+      <title>Topologically-Aware Deformation Fields for Single-View 3D Reconstruction</title>
+      <link>https://paperswithcode.com/paper/topologically-aware-deformation-fields-for</link>
+      <description><![CDATA[The 3D shapes are generated implicitly as deformations to a category-specific signed distance field and are learned in an unsupervised manner solely from unaligned image collections and their poses without any 3D supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/topologically-aware-deformation-fields-for</guid>
     </item>
     <item>
       <title>Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution</title>
@@ -81,34 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</guid>
     </item>
     <item>
-      <title>Towards Metrical Reconstruction of Human Faces</title>
-      <link>https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</link>
-      <description><![CDATA[To this end, we take advantage of a face recognition network pretrained on a large-scale 2D image dataset, which provides distinct features for different faces and is robust to expression, illumination, and camera changes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</guid>
+      <title>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation</title>
+      <link>https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</link>
+      <description><![CDATA[In this paper we present Mask DINO, a unified object detection and segmentation framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</guid>
+    </item>
+    <item>
+      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
+      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
+      <description><![CDATA[The Transformer architecture has improved the performance of deep learning models in domains such as Computer Vision and Natural Language Processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
     </item>
     <item>
       <title>Bootstrapped Masked Autoencoders for Vision BERT Pretraining</title>
       <link>https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</link>
       <description><![CDATA[The first design is motivated by the observation that using a pretrained MAE to extract the features as the BERT prediction target for masked tokens can achieve better pretraining performance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</guid>
-    </item>
-    <item>
-      <title>Betty: An Automatic Differentiation Library for Multilevel Optimization</title>
-      <link>https://paperswithcode.com/paper/betty-an-automatic-differentiation-library</link>
-      <description><![CDATA[Multilevel optimization has been widely adopted as a mathematical foundation for a myriad of machine learning problems, such as hyperparameter optimization, meta-learning, and reinforcement learning, to name a few.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/betty-an-automatic-differentiation-library</guid>
-    </item>
-    <item>
-      <title>BERTopic: Neural topic modeling with a class-based TF-IDF procedure</title>
-      <link>https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</link>
-      <description><![CDATA[BERTopic generates coherent topics and remains competitive across a variety of benchmarks involving classical models and those that follow the more recent clustering approach of topic modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class</guid>
-    </item>
-    <item>
-      <title>Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes</title>
-      <link>https://paperswithcode.com/paper/volatility-based-kernels-and-moving-average</link>
-      <description><![CDATA[A broad class of stochastic volatility models are defined by systems of stochastic differential equations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/volatility-based-kernels-and-moving-average</guid>
     </item>
     <item>
       <title>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation</title>
@@ -127,6 +109,24 @@
       <link>https://paperswithcode.com/paper/generalized-state-dependent-exploration-for</link>
       <description><![CDATA[We evaluate gSDE both in simulation, on PyBullet continuous control tasks, and directly on three different real robots: a tendon-driven elastic robot, a quadruped and an RC car.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-state-dependent-exploration-for</guid>
+    </item>
+    <item>
+      <title>Towards Metrical Reconstruction of Human Faces</title>
+      <link>https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</link>
+      <description><![CDATA[To this end, we take advantage of a face recognition network pretrained on a large-scale 2D image dataset, which provides distinct features for different faces and is robust to expression, illumination, and camera changes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-metrical-reconstruction-of-human</guid>
+    </item>
+    <item>
+      <title>Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes</title>
+      <link>https://paperswithcode.com/paper/volatility-based-kernels-and-moving-average</link>
+      <description><![CDATA[A broad class of stochastic volatility models are defined by systems of stochastic differential equations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/volatility-based-kernels-and-moving-average</guid>
+    </item>
+    <item>
+      <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
+      <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
+      <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
     </item>
   </channel>
 </rss>
