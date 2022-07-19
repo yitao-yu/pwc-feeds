@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Jul 2022 09:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jul 2022 21:07:49 +0000</lastBuildDate>
     <item>
       <title>Towards Grand Unification of Object Tracking</title>
       <link>https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</link>
@@ -33,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>Masked Autoencoders that Listen</title>
-      <link>https://paperswithcode.com/paper/masked-autoencoders-that-listen</link>
-      <description><![CDATA[Following the Transformer encoder-decoder design in MAE, our Audio-MAE first encodes audio spectrogram patches with a high masking ratio, feeding only the non-masked tokens through encoder layers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-autoencoders-that-listen</guid>
+      <title>Tracking Objects as Pixel-wise Distributions</title>
+      <link>https://paperswithcode.com/paper/tracking-objects-as-pixel-wise-distributions</link>
+      <description><![CDATA[During inference, a pixel-wise association procedure is proposed to recover object connections through frames based on the pixel-wise prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tracking-objects-as-pixel-wise-distributions</guid>
     </item>
     <item>
       <title>Language Modelling with Pixels</title>
@@ -45,10 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-modelling-with-pixels</guid>
     </item>
     <item>
-      <title>Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras</title>
-      <link>https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</link>
-      <description><![CDATA[This paper demonstrates a visual SLAM system that utilizes point and line cloud for robust camera localization, simultaneously, with an embedded piece-wise planar reconstruction (PPR) module which in all provides a structural map.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</guid>
+      <title>Masked Autoencoders that Listen</title>
+      <link>https://paperswithcode.com/paper/masked-autoencoders-that-listen</link>
+      <description><![CDATA[Following the Transformer encoder-decoder design in MAE, our Audio-MAE first encodes audio spectrogram patches with a high masking ratio, feeding only the non-masked tokens through encoder layers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-autoencoders-that-listen</guid>
+    </item>
+    <item>
+      <title>Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations</title>
+      <link>https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</link>
+      <description><![CDATA[Transferable adversarial attacks optimize adversaries from a pretrained surrogate model and known label space to fool the unknown black-box models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</guid>
+    </item>
+    <item>
+      <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
+      <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
+      <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
     </item>
     <item>
       <title>ObjectBox: From Centers to Boxes for Anchor-Free Object Detection</title>
@@ -57,16 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/objectbox-from-centers-to-boxes-for-anchor</guid>
     </item>
     <item>
-      <title>Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</link>
-      <description><![CDATA[We hereby hope to foster broad-spectrum applications of ML to satellite imagery, and possibly develop from free public low-resolution Sentinel2 imagery the same power of analysis allowed by costly private high-resolution imagery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</guid>
-    </item>
-    <item>
-      <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
-      <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
-      <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
+      <title>Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras</title>
+      <link>https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</link>
+      <description><![CDATA[This paper demonstrates a visual SLAM system that utilizes point and line cloud for robust camera localization, simultaneously, with an embedded piece-wise planar reconstruction (PPR) module which in all provides a structural map.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</guid>
     </item>
     <item>
       <title>Registration based Few-Shot Anomaly Detection</title>
@@ -81,40 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/metafed-federated-learning-among-federations</guid>
     </item>
     <item>
-      <title>The Web Is Your Oyster -- Knowledge-Intensive NLP against a Very Large Web Corpus</title>
-      <link>https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</link>
-      <description><![CDATA[In order to address increasing demands of real-world applications, the research for knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly open-domain environment: web-scale knowledge, lack of structure, inconsistent quality and noise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
-    </item>
-    <item>
-      <title>Topologically-Aware Deformation Fields for Single-View 3D Reconstruction</title>
-      <link>https://paperswithcode.com/paper/topologically-aware-deformation-fields-for</link>
-      <description><![CDATA[The 3D shapes are generated implicitly as deformations to a category-specific signed distance field and are learned in an unsupervised manner solely from unaligned image collections and their poses without any 3D supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/topologically-aware-deformation-fields-for</guid>
-    </item>
-    <item>
-      <title>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</link>
-      <description><![CDATA[This article addresses the problem of distilling knowledge from a large teacher model to a slim student network for LiDAR semantic segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</guid>
-    </item>
-    <item>
-      <title>Bootstrapped Masked Autoencoders for Vision BERT Pretraining</title>
-      <link>https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</link>
-      <description><![CDATA[The first design is motivated by the observation that using a pretrained MAE to extract the features as the BERT prediction target for masked tokens can achieve better pretraining performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</guid>
-    </item>
-    <item>
-      <title>Smooth Exploration for Robotic Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/generalized-state-dependent-exploration-for</link>
-      <description><![CDATA[We evaluate gSDE both in simulation, on PyBullet continuous control tasks, and directly on three different real robots: a tendon-driven elastic robot, a quadruped and an RC car.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-state-dependent-exploration-for</guid>
-    </item>
-    <item>
-      <title>NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling</title>
-      <link>https://paperswithcode.com/paper/nerf-sr-high-quality-neural-radiance-fields</link>
-      <description><![CDATA[We present NeRF-SR, a solution for high-resolution (HR) novel view synthesis with mostly low-resolution (LR) inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-sr-high-quality-neural-radiance-fields</guid>
+      <title>Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</link>
+      <description><![CDATA[We hereby hope to foster broad-spectrum applications of ML to satellite imagery, and possibly develop from free public low-resolution Sentinel2 imagery the same power of analysis allowed by costly private high-resolution imagery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</guid>
     </item>
     <item>
       <title>Out-of-Distribution Detection with Deep Nearest Neighbors</title>
@@ -123,10 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/out-of-distribution-detection-with-deep</guid>
     </item>
     <item>
-      <title>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation</title>
-      <link>https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</link>
-      <description><![CDATA[In this paper we present Mask DINO, a unified object detection and segmentation framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mask-dino-towards-a-unified-transformer-based-1</guid>
+      <title>The Web Is Your Oyster -- Knowledge-Intensive NLP against a Very Large Web Corpus</title>
+      <link>https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</link>
+      <description><![CDATA[In order to address increasing demands of real-world applications, the research for knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly open-domain environment: web-scale knowledge, lack of structure, inconsistent quality and noise.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
+    </item>
+    <item>
+      <title>NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling</title>
+      <link>https://paperswithcode.com/paper/nerf-sr-high-quality-neural-radiance-fields</link>
+      <description><![CDATA[We present NeRF-SR, a solution for high-resolution (HR) novel view synthesis with mostly low-resolution (LR) inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-sr-high-quality-neural-radiance-fields</guid>
+    </item>
+    <item>
+      <title>Gender Classification and Bias Mitigation in Facial Images</title>
+      <link>https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</link>
+      <description><![CDATA[We worked to increase classification accuracy and mitigate algorithmic biases on our baseline model trained on the augmented benchmark database.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</guid>
+    </item>
+    <item>
+      <title>Bootstrapped Masked Autoencoders for Vision BERT Pretraining</title>
+      <link>https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</link>
+      <description><![CDATA[The first design is motivated by the observation that using a pretrained MAE to extract the features as the BERT prediction target for masked tokens can achieve better pretraining performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</guid>
+    </item>
+    <item>
+      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
+      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
+      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
     </item>
   </channel>
 </rss>
