@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Jul 2022 09:15:08 +0000</lastBuildDate>
-    <item>
-      <title>Towards Grand Unification of Object Tracking</title>
-      <link>https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</link>
-      <description><![CDATA[We present a unified method, termed Unicorn, that can simultaneously solve four tracking problems (SOT, MOT, VOS, MOTS) with a single network using the same model parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</guid>
-    </item>
+    <lastBuildDate>Wed, 20 Jul 2022 21:07:06 +0000</lastBuildDate>
     <item>
       <title>XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model</title>
       <link>https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</link>
       <description><![CDATA[We present XMem, a video object segmentation architecture for long videos with unified feature memory stores inspired by the Atkinson-Shiffrin memory model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</guid>
+    </item>
+    <item>
+      <title>Towards Grand Unification of Object Tracking</title>
+      <link>https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</link>
+      <description><![CDATA[We present a unified method, termed Unicorn, that can simultaneously solve four tracking problems (SOT, MOT, VOS, MOTS) with a single network using the same model parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-grand-unification-of-object-tracking</guid>
     </item>
     <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
@@ -39,28 +39,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tracking-objects-as-pixel-wise-distributions</guid>
     </item>
     <item>
-      <title>Language Modelling with Pixels</title>
-      <link>https://paperswithcode.com/paper/language-modelling-with-pixels</link>
-      <description><![CDATA[Language models are defined over a finite set of inputs, which creates a vocabulary bottleneck when we attempt to scale the number of supported languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-modelling-with-pixels</guid>
-    </item>
-    <item>
-      <title>Masked Autoencoders that Listen</title>
-      <link>https://paperswithcode.com/paper/masked-autoencoders-that-listen</link>
-      <description><![CDATA[Following the Transformer encoder-decoder design in MAE, our Audio-MAE first encodes audio spectrogram patches with a high masking ratio, feeding only the non-masked tokens through encoder layers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-autoencoders-that-listen</guid>
-    </item>
-    <item>
       <title>Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations</title>
       <link>https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</link>
       <description><![CDATA[Transferable adversarial attacks optimize adversaries from a pretrained surrogate model and known label space to fool the unknown black-box models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</guid>
     </item>
     <item>
+      <title>Language Modelling with Pixels</title>
+      <link>https://paperswithcode.com/paper/language-modelling-with-pixels</link>
+      <description><![CDATA[Language models are defined over a finite set of inputs, which creates a vocabulary bottleneck when we attempt to scale the number of supported languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-modelling-with-pixels</guid>
+    </item>
+    <item>
       <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
       <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
       <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
+    </item>
+    <item>
+      <title>HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/hiformer-hierarchical-multi-scale</link>
+      <description><![CDATA[In this paper, we propose HiFormer, a novel method that efficiently bridges a CNN and a transformer for medical image segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hiformer-hierarchical-multi-scale</guid>
+    </item>
+    <item>
+      <title>Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</link>
+      <description><![CDATA[We hereby hope to foster broad-spectrum applications of ML to satellite imagery, and possibly develop from free public low-resolution Sentinel2 imagery the same power of analysis allowed by costly private high-resolution imagery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</guid>
+    </item>
+    <item>
+      <title>TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/tokenmix-rethinking-image-mixing-for-data</link>
+      <description><![CDATA[In this paper, we propose a novel data augmentation technique TokenMix to improve the performance of vision transformers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tokenmix-rethinking-image-mixing-for-data</guid>
+    </item>
+    <item>
+      <title>Out-of-Distribution Detection with Deep Nearest Neighbors</title>
+      <link>https://paperswithcode.com/paper/out-of-distribution-detection-with-deep</link>
+      <description><![CDATA[In this paper, we explore the efficacy of non-parametric nearest-neighbor distance for OOD detection, which has been largely overlooked in the literature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/out-of-distribution-detection-with-deep</guid>
     </item>
     <item>
       <title>ObjectBox: From Centers to Boxes for Anchor-Free Object Detection</title>
@@ -75,40 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</guid>
     </item>
     <item>
-      <title>Registration based Few-Shot Anomaly Detection</title>
-      <link>https://paperswithcode.com/paper/registration-based-few-shot-anomaly-detection</link>
-      <description><![CDATA[Inspired by how humans detect anomalies, i. e., comparing an image in question to normal images, we here leverage registration, an image alignment task that is inherently generalizable across categories, as the proxy task, to train a category-agnostic anomaly detection model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/registration-based-few-shot-anomaly-detection</guid>
-    </item>
-    <item>
       <title>MetaFed: Federated Learning among Federations with Cyclic Knowledge Distillation for Personalized Healthcare</title>
       <link>https://paperswithcode.com/paper/metafed-federated-learning-among-federations</link>
       <description><![CDATA[Federated learning has attracted increasing attention to building models without accessing the raw user data, especially in healthcare.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/metafed-federated-learning-among-federations</guid>
     </item>
     <item>
-      <title>Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</link>
-      <description><![CDATA[We hereby hope to foster broad-spectrum applications of ML to satellite imagery, and possibly develop from free public low-resolution Sentinel2 imagery the same power of analysis allowed by costly private high-resolution imagery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</guid>
-    </item>
-    <item>
-      <title>Out-of-Distribution Detection with Deep Nearest Neighbors</title>
-      <link>https://paperswithcode.com/paper/out-of-distribution-detection-with-deep</link>
-      <description><![CDATA[In this paper, we explore the efficacy of non-parametric nearest-neighbor distance for OOD detection, which has been largely overlooked in the literature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/out-of-distribution-detection-with-deep</guid>
-    </item>
-    <item>
-      <title>The Web Is Your Oyster -- Knowledge-Intensive NLP against a Very Large Web Corpus</title>
-      <link>https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</link>
-      <description><![CDATA[In order to address increasing demands of real-world applications, the research for knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly open-domain environment: web-scale knowledge, lack of structure, inconsistent quality and noise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-web-is-your-oyster-knowledge-intensive</guid>
-    </item>
-    <item>
-      <title>NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling</title>
-      <link>https://paperswithcode.com/paper/nerf-sr-high-quality-neural-radiance-fields</link>
-      <description><![CDATA[We present NeRF-SR, a solution for high-resolution (HR) novel view synthesis with mostly low-resolution (LR) inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-sr-high-quality-neural-radiance-fields</guid>
+      <title>Masked Autoencoders that Listen</title>
+      <link>https://paperswithcode.com/paper/masked-autoencoders-that-listen</link>
+      <description><![CDATA[Following the Transformer encoder-decoder design in MAE, our Audio-MAE first encodes audio spectrogram patches with a high masking ratio, feeding only the non-masked tokens through encoder layers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-autoencoders-that-listen</guid>
     </item>
     <item>
       <title>Gender Classification and Bias Mitigation in Facial Images</title>
@@ -117,16 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</guid>
     </item>
     <item>
-      <title>Bootstrapped Masked Autoencoders for Vision BERT Pretraining</title>
-      <link>https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</link>
-      <description><![CDATA[The first design is motivated by the observation that using a pretrained MAE to extract the features as the BERT prediction target for masked tokens can achieve better pretraining performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapped-masked-autoencoders-for-vision</guid>
+      <title>Fast ABC-Boost: A Unified Framework for Selecting the Base Class in Multi-Class Classification</title>
+      <link>https://paperswithcode.com/paper/fast-abc-boost-a-unified-framework-for</link>
+      <description><![CDATA[Our framework has parameters $(s, g, w)$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-abc-boost-a-unified-framework-for</guid>
     </item>
     <item>
-      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
-      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
-      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
+      <title>Registration based Few-Shot Anomaly Detection</title>
+      <link>https://paperswithcode.com/paper/registration-based-few-shot-anomaly-detection</link>
+      <description><![CDATA[Inspired by how humans detect anomalies, i. e., comparing an image in question to normal images, we here leverage registration, an image alignment task that is inherently generalizable across categories, as the proxy task, to train a category-agnostic anomaly detection model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/registration-based-few-shot-anomaly-detection</guid>
+    </item>
+    <item>
+      <title>You Should Look at All Objects</title>
+      <link>https://paperswithcode.com/paper/you-should-look-at-all-objects</link>
+      <description><![CDATA[Feature pyramid network (FPN) is one of the key components for object detectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/you-should-look-at-all-objects</guid>
     </item>
   </channel>
 </rss>
