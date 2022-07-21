@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Jul 2022 09:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 21:08:59 +0000</lastBuildDate>
     <item>
       <title>XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model</title>
       <link>https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</link>
@@ -27,6 +27,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
+      <title>3D Clothed Human Reconstruction in the Wild</title>
+      <link>https://paperswithcode.com/paper/3d-clothed-human-reconstruction-in-the-wild</link>
+      <description><![CDATA[Although much progress has been made in 3D clothed human reconstruction, most of the existing methods fail to produce robust results from in-the-wild images, which contain diverse human poses and appearances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-clothed-human-reconstruction-in-the-wild</guid>
+    </item>
+    <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
       <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
       <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
@@ -39,28 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tracking-objects-as-pixel-wise-distributions</guid>
     </item>
     <item>
-      <title>Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations</title>
-      <link>https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</link>
-      <description><![CDATA[Transferable adversarial attacks optimize adversaries from a pretrained surrogate model and known label space to fool the unknown black-box models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</guid>
-    </item>
-    <item>
-      <title>Language Modelling with Pixels</title>
-      <link>https://paperswithcode.com/paper/language-modelling-with-pixels</link>
-      <description><![CDATA[Language models are defined over a finite set of inputs, which creates a vocabulary bottleneck when we attempt to scale the number of supported languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-modelling-with-pixels</guid>
-    </item>
-    <item>
       <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
       <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
       <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
-    </item>
-    <item>
-      <title>HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/hiformer-hierarchical-multi-scale</link>
-      <description><![CDATA[In this paper, we propose HiFormer, a novel method that efficiently bridges a CNN and a transformer for medical image segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hiformer-hierarchical-multi-scale</guid>
     </item>
     <item>
       <title>Open High-Resolution Satellite Imagery: The WorldStrat Dataset -- With Application to Super-Resolution</title>
@@ -69,10 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/open-high-resolution-satellite-imagery-the</guid>
     </item>
     <item>
-      <title>TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/tokenmix-rethinking-image-mixing-for-data</link>
-      <description><![CDATA[In this paper, we propose a novel data augmentation technique TokenMix to improve the performance of vision transformers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tokenmix-rethinking-image-mixing-for-data</guid>
+      <title>POET: Training Neural Networks on Tiny Devices with Integrated Rematerialization and Paging</title>
+      <link>https://paperswithcode.com/paper/poet-training-neural-networks-on-tiny-devices</link>
+      <description><![CDATA[We demonstrate that it is possible to fine-tune both ResNet-18 and BERT within the memory constraints of a Cortex-M class embedded device while outperforming current edge training methods in energy efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/poet-training-neural-networks-on-tiny-devices</guid>
     </item>
     <item>
       <title>Out-of-Distribution Detection with Deep Nearest Neighbors</title>
@@ -81,28 +69,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/out-of-distribution-detection-with-deep</guid>
     </item>
     <item>
-      <title>ObjectBox: From Centers to Boxes for Anchor-Free Object Detection</title>
-      <link>https://paperswithcode.com/paper/objectbox-from-centers-to-boxes-for-anchor</link>
-      <description><![CDATA[We present ObjectBox, a novel single-stage anchor-free and highly generalizable object detection approach.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/objectbox-from-centers-to-boxes-for-anchor</guid>
+      <title>Improved Vector Quantized Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/improved-vector-quantized-diffusion-models</link>
+      <description><![CDATA[When trained on ImageNet, we dramatically improve the FID score from 11. 89 to 4. 83, demonstrating the superiority of our proposed techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-vector-quantized-diffusion-models</guid>
     </item>
     <item>
-      <title>Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras</title>
-      <link>https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</link>
-      <description><![CDATA[This paper demonstrates a visual SLAM system that utilizes point and line cloud for robust camera localization, simultaneously, with an embedded piece-wise planar reconstruction (PPR) module which in all provides a structural map.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/structure-plp-slam-efficient-sparse-mapping</guid>
+      <title>Language Modelling with Pixels</title>
+      <link>https://paperswithcode.com/paper/language-modelling-with-pixels</link>
+      <description><![CDATA[Language models are defined over a finite set of inputs, which creates a vocabulary bottleneck when we attempt to scale the number of supported languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-modelling-with-pixels</guid>
     </item>
     <item>
-      <title>MetaFed: Federated Learning among Federations with Cyclic Knowledge Distillation for Personalized Healthcare</title>
-      <link>https://paperswithcode.com/paper/metafed-federated-learning-among-federations</link>
-      <description><![CDATA[Federated learning has attracted increasing attention to building models without accessing the raw user data, especially in healthcare.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metafed-federated-learning-among-federations</guid>
+      <title>Rethinking IoU-based Optimization for Single-stage 3D Object Detection</title>
+      <link>https://paperswithcode.com/paper/rethinking-iou-based-optimization-for-single</link>
+      <description><![CDATA[Since Intersection-over-Union (IoU) based optimization maintains the consistency of the final IoU prediction metric and losses, it has been widely used in both regression and classification branches of single-stage 2D object detectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-iou-based-optimization-for-single</guid>
     </item>
     <item>
-      <title>Masked Autoencoders that Listen</title>
-      <link>https://paperswithcode.com/paper/masked-autoencoders-that-listen</link>
-      <description><![CDATA[Following the Transformer encoder-decoder design in MAE, our Audio-MAE first encodes audio spectrogram patches with a high masking ratio, feeding only the non-masked tokens through encoder layers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-autoencoders-that-listen</guid>
+      <title>Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations</title>
+      <link>https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</link>
+      <description><![CDATA[Transferable adversarial attacks optimize adversaries from a pretrained surrogate model and known label space to fool the unknown black-box models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-pixel-restoration-as-a-pretext</guid>
+    </item>
+    <item>
+      <title>HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/hiformer-hierarchical-multi-scale</link>
+      <description><![CDATA[In this paper, we propose HiFormer, a novel method that efficiently bridges a CNN and a transformer for medical image segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hiformer-hierarchical-multi-scale</guid>
+    </item>
+    <item>
+      <title>Why do tree-based models still outperform deep learning on tabular data?</title>
+      <link>https://paperswithcode.com/paper/why-do-tree-based-models-still-outperform</link>
+      <description><![CDATA[While deep learning has enabled tremendous progress on text and image datasets, its superiority on tabular data is not clear.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-do-tree-based-models-still-outperform</guid>
     </item>
     <item>
       <title>Gender Classification and Bias Mitigation in Facial Images</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</guid>
     </item>
     <item>
-      <title>Fast ABC-Boost: A Unified Framework for Selecting the Base Class in Multi-Class Classification</title>
-      <link>https://paperswithcode.com/paper/fast-abc-boost-a-unified-framework-for</link>
-      <description><![CDATA[Our framework has parameters $(s, g, w)$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-abc-boost-a-unified-framework-for</guid>
+      <title>TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/tokenmix-rethinking-image-mixing-for-data</link>
+      <description><![CDATA[In this paper, we propose a novel data augmentation technique TokenMix to improve the performance of vision transformers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tokenmix-rethinking-image-mixing-for-data</guid>
     </item>
     <item>
-      <title>Registration based Few-Shot Anomaly Detection</title>
-      <link>https://paperswithcode.com/paper/registration-based-few-shot-anomaly-detection</link>
-      <description><![CDATA[Inspired by how humans detect anomalies, i. e., comparing an image in question to normal images, we here leverage registration, an image alignment task that is inherently generalizable across categories, as the proxy task, to train a category-agnostic anomaly detection model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/registration-based-few-shot-anomaly-detection</guid>
+      <title>StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/studiogan-a-taxonomy-and-benchmark-of-gans</link>
+      <description><![CDATA[Generative Adversarial Network (GAN) is one of the state-of-the-art generative models for realistic image synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/studiogan-a-taxonomy-and-benchmark-of-gans</guid>
     </item>
     <item>
-      <title>You Should Look at All Objects</title>
-      <link>https://paperswithcode.com/paper/you-should-look-at-all-objects</link>
-      <description><![CDATA[Feature pyramid network (FPN) is one of the key components for object detectors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/you-should-look-at-all-objects</guid>
+      <title>Prompting Visual-Language Models for Efficient Video Understanding</title>
+      <link>https://paperswithcode.com/paper/prompting-visual-language-models-for</link>
+      <description><![CDATA[Image-based visual-language (I-VL) pre-training has shown great success for learning joint visual-textual representations from large-scale web data, revealing remarkable ability for zero-shot generalisation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompting-visual-language-models-for</guid>
     </item>
   </channel>
 </rss>
