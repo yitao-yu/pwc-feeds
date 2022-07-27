@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Jul 2022 21:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jul 2022 09:14:41 +0000</lastBuildDate>
     <item>
       <title>Multiface: A Dataset for Neural Face Rendering</title>
       <link>https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</link>
@@ -21,10 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
     </item>
     <item>
+      <title>CelebV-HQ: A Large-Scale Video Facial Attributes Dataset</title>
+      <link>https://paperswithcode.com/paper/celebv-hq-a-large-scale-video-facial</link>
+      <description><![CDATA[Large-scale datasets have played indispensable roles in the recent success of face generation/editing and significantly facilitated the advances of emerging research fields.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/celebv-hq-a-large-scale-video-facial</guid>
+    </item>
+    <item>
       <title>DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection</title>
       <link>https://paperswithcode.com/paper/deviant-depth-equivariant-network-for</link>
       <description><![CDATA[As a result, DEVIANT is equivariant to the depth translations in the projective manifold whereas vanilla networks are not.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deviant-depth-equivariant-network-for</guid>
+    </item>
+    <item>
+      <title>When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition</title>
+      <link>https://paperswithcode.com/paper/when-counting-meets-hmer-counting-aware</link>
+      <description><![CDATA[Recently, most handwritten mathematical expression recognition (HMER) methods adopt the encoder-decoder networks, which directly predict the markup sequences from formula images with the attention mechanism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/when-counting-meets-hmer-counting-aware</guid>
     </item>
     <item>
       <title>In Defense of Online Models for Video Instance Segmentation</title>
@@ -39,28 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/omni3d-a-large-benchmark-and-model-for-3d</guid>
     </item>
     <item>
-      <title>Generative Multiplane Images: Making a 2D GAN 3D-Aware</title>
-      <link>https://paperswithcode.com/paper/generative-multiplane-images-making-a-2d-gan</link>
-      <description><![CDATA[What is really needed to make an existing 2D GAN 3D-aware?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-multiplane-images-making-a-2d-gan</guid>
-    </item>
-    <item>
-      <title>XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model</title>
-      <link>https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</link>
-      <description><![CDATA[We present XMem, a video object segmentation architecture for long videos with unified feature memory stores inspired by the Atkinson-Shiffrin memory model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</guid>
-    </item>
-    <item>
-      <title>AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields</title>
-      <link>https://paperswithcode.com/paper/adanerf-adaptive-sampling-for-real-time</link>
-      <description><![CDATA[However, rendering images with this new paradigm is slow due to the fact that an accurate quadrature of the volume rendering equation requires a large number of samples for each ray.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adanerf-adaptive-sampling-for-real-time</guid>
-    </item>
-    <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
       <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
       <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+    </item>
+    <item>
+      <title>Generative Multiplane Images: Making a 2D GAN 3D-Aware</title>
+      <link>https://paperswithcode.com/paper/generative-multiplane-images-making-a-2d-gan</link>
+      <description><![CDATA[What is really needed to make an existing 2D GAN 3D-aware?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-multiplane-images-making-a-2d-gan</guid>
     </item>
     <item>
       <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title>
@@ -69,16 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/repaint-inpainting-using-denoising-diffusion</guid>
     </item>
     <item>
-      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
-      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
-      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
-    </item>
-    <item>
-      <title>SpA-Former: Transformer image shadow detection and removal via spatial attention</title>
-      <link>https://paperswithcode.com/paper/spa-former-transformer-image-shadow-detection</link>
-      <description><![CDATA[In this paper, we propose an end-to-end SpA-Former to recover a shadow-free image from a single shaded image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/spa-former-transformer-image-shadow-detection</guid>
+      <title>AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/adanerf-adaptive-sampling-for-real-time</link>
+      <description><![CDATA[However, rendering images with this new paradigm is slow due to the fact that an accurate quadrature of the volume rendering equation requires a large number of samples for each ray.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adanerf-adaptive-sampling-for-real-time</guid>
     </item>
     <item>
       <title>OCR-free Document Understanding Transformer</title>
@@ -87,10 +81,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
     </item>
     <item>
-      <title>Demystifying MMD GANs</title>
-      <link>https://paperswithcode.com/paper/demystifying-mmd-gans</link>
-      <description><![CDATA[We investigate the training and performance of generative adversarial networks using the Maximum Mean Discrepancy (MMD) as critic, termed MMD GANs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-mmd-gans</guid>
+      <title>An Improved One millisecond Mobile Backbone</title>
+      <link>https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</link>
+      <description><![CDATA[Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</guid>
+    </item>
+    <item>
+      <title>XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model</title>
+      <link>https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</link>
+      <description><![CDATA[We present XMem, a video object segmentation architecture for long videos with unified feature memory stores inspired by the Atkinson-Shiffrin memory model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/xmem-long-term-video-object-segmentation-with</guid>
+    </item>
+    <item>
+      <title>SpA-Former: Transformer image shadow detection and removal via spatial attention</title>
+      <link>https://paperswithcode.com/paper/spa-former-transformer-image-shadow-detection</link>
+      <description><![CDATA[In this paper, we propose an end-to-end SpA-Former to recover a shadow-free image from a single shaded image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spa-former-transformer-image-shadow-detection</guid>
+    </item>
+    <item>
+      <title>Neural-Sim: Learning to Generate Training Data with NeRF</title>
+      <link>https://paperswithcode.com/paper/neural-sim-learning-to-generate-training-data</link>
+      <description><![CDATA[However, existing approaches either require human experts to manually tune each scene property or use automatic methods that provide little to no control; this requires rendering large amounts of random data variations, which is slow and is often suboptimal for the target domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-sim-learning-to-generate-training-data</guid>
     </item>
     <item>
       <title>Panoptic Scene Graph Generation</title>
@@ -99,34 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/panoptic-scene-graph-generation</guid>
     </item>
     <item>
-      <title>3D Clothed Human Reconstruction in the Wild</title>
-      <link>https://paperswithcode.com/paper/3d-clothed-human-reconstruction-in-the-wild</link>
-      <description><![CDATA[Although much progress has been made in 3D clothed human reconstruction, most of the existing methods fail to produce robust results from in-the-wild images, which contain diverse human poses and appearances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-clothed-human-reconstruction-in-the-wild</guid>
-    </item>
-    <item>
       <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
       <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
       <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics</title>
-      <link>https://paperswithcode.com/paper/towards-scale-aware-robust-and-generalizable</link>
-      <description><![CDATA[Unsupervised monocular depth and ego-motion estimation has drawn extensive research attention in recent years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-scale-aware-robust-and-generalizable</guid>
+      <title>Demystifying MMD GANs</title>
+      <link>https://paperswithcode.com/paper/demystifying-mmd-gans</link>
+      <description><![CDATA[We investigate the training and performance of generative adversarial networks using the Maximum Mean Discrepancy (MMD) as critic, termed MMD GANs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-mmd-gans</guid>
     </item>
     <item>
-      <title>Improved Vector Quantized Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/improved-vector-quantized-diffusion-models</link>
-      <description><![CDATA[When trained on ImageNet, we dramatically improve the FID score from 11. 89 to 4. 83, demonstrating the superiority of our proposed techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-vector-quantized-diffusion-models</guid>
-    </item>
-    <item>
-      <title>Optimizing Image Compression via Joint Learning with Denoising</title>
-      <link>https://paperswithcode.com/paper/optimizing-image-compression-via-joint</link>
-      <description><![CDATA[The key is to transform the original noisy images to noise-free bits by eliminating the undesired noise during compression, where the bits are later decompressed as clean images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/optimizing-image-compression-via-joint</guid>
+      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
+      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
+      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
     </item>
   </channel>
 </rss>
