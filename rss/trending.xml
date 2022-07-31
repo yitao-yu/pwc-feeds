@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Jul 2022 09:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2022 21:07:09 +0000</lastBuildDate>
     <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
@@ -19,12 +19,6 @@
       <link>https://paperswithcode.com/paper/rewriting-geometric-rules-of-a-gan</link>
       <description><![CDATA[Our method allows a user to create a model that synthesizes endless objects with defined geometric changes, enabling the creation of a new generative model without the burden of curating a large-scale dataset.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/rewriting-geometric-rules-of-a-gan</guid>
-    </item>
-    <item>
-      <title>An Improved One millisecond Mobile Backbone</title>
-      <link>https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</link>
-      <description><![CDATA[Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</guid>
     </item>
     <item>
       <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
@@ -39,6 +33,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/monocular-3d-object-detection-with-depth-from</guid>
     </item>
     <item>
+      <title>An Improved One millisecond Mobile Backbone</title>
+      <link>https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</link>
+      <description><![CDATA[Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</guid>
+    </item>
+    <item>
       <title>AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing</title>
       <link>https://paperswithcode.com/paper/avatarposer-articulated-full-body-pose</link>
       <description><![CDATA[In this paper, we present AvatarPoser, the first learning-based method that predicts full-body poses in world coordinates using only motion input from the user's head and hands.]]></description>
@@ -51,52 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
-      <title>OCR-free Document Understanding Transformer</title>
-      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
-      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
-    </item>
-    <item>
-      <title>CelebV-HQ: A Large-Scale Video Facial Attributes Dataset</title>
-      <link>https://paperswithcode.com/paper/celebv-hq-a-large-scale-video-facial</link>
-      <description><![CDATA[Large-scale datasets have played indispensable roles in the recent success of face generation/editing and significantly facilitated the advances of emerging research fields.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/celebv-hq-a-large-scale-video-facial</guid>
-    </item>
-    <item>
-      <title>Multiface: A Dataset for Neural Face Rendering</title>
-      <link>https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</link>
-      <description><![CDATA[Along with the release of the dataset, we conduct ablation studies on the influence of different model architectures toward the model's interpolation capacity of novel viewpoint and expressions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</guid>
-    </item>
-    <item>
       <title>Theseus: A Library for Differentiable Nonlinear Optimization</title>
       <link>https://paperswithcode.com/paper/theseus-a-library-for-differentiable</link>
       <description><![CDATA[We present Theseus, an efficient application-agnostic open source library for differentiable nonlinear least squares (DNLS) optimization built on PyTorch, providing a common framework for end-to-end structured learning in robotics and vision.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/theseus-a-library-for-differentiable</guid>
-    </item>
-    <item>
-      <title>HierarchicalForecast: A Reference Framework for Hierarchical Forecasting in Python</title>
-      <link>https://paperswithcode.com/paper/hierarchicalforecast-a-python-benchmarking</link>
-      <description><![CDATA[Large collections of time series data are commonly organized into cross-sectional structures with different levels of aggregation; examples include product and geographical groupings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchicalforecast-a-python-benchmarking</guid>
-    </item>
-    <item>
-      <title>DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection</title>
-      <link>https://paperswithcode.com/paper/deviant-depth-equivariant-network-for</link>
-      <description><![CDATA[As a result, DEVIANT is equivariant to the depth translations in the projective manifold whereas vanilla networks are not.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deviant-depth-equivariant-network-for</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
-    </item>
-    <item>
-      <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title>
-      <link>https://paperswithcode.com/paper/repaint-inpainting-using-denoising-diffusion</link>
-      <description><![CDATA[In this work, we propose RePaint: A Denoising Diffusion Probabilistic Model (DDPM) based inpainting approach that is applicable to even extreme masks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/repaint-inpainting-using-denoising-diffusion</guid>
     </item>
     <item>
       <title>OpenXAI: Towards a Transparent Evaluation of Model Explanations</title>
@@ -105,16 +63,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openxai-towards-a-transparent-evaluation-of</guid>
     </item>
     <item>
-      <title>When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition</title>
-      <link>https://paperswithcode.com/paper/when-counting-meets-hmer-counting-aware</link>
-      <description><![CDATA[Recently, most handwritten mathematical expression recognition (HMER) methods adopt the encoder-decoder networks, which directly predict the markup sequences from formula images with the attention mechanism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/when-counting-meets-hmer-counting-aware</guid>
+      <title>Multiface: A Dataset for Neural Face Rendering</title>
+      <link>https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</link>
+      <description><![CDATA[Along with the release of the dataset, we conduct ablation studies on the influence of different model architectures toward the model's interpolation capacity of novel viewpoint and expressions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</guid>
     </item>
     <item>
-      <title>NeuriCam: Video Super-Resolution and Colorization Using Key Frames</title>
-      <link>https://paperswithcode.com/paper/neuricam-video-super-resolution-and</link>
-      <description><![CDATA[Our idea is to design a dual-mode camera system where the first mode is low power (1. 1~mW) but only outputs gray-scale, low resolution and noisy video and the second mode consumes much higher power (100~mW) but outputs color and higher resolution images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neuricam-video-super-resolution-and</guid>
+      <title>fastai: A Layered API for Deep Learning</title>
+      <link>https://paperswithcode.com/paper/fastai-a-layered-api-for-deep-learning</link>
+      <description><![CDATA[These abstractions can be expressed concisely and clearly by leveraging the dynamism of the underlying Python language and the flexibility of the PyTorch library.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastai-a-layered-api-for-deep-learning</guid>
+    </item>
+    <item>
+      <title>GAUDI: A Neural Architect for Immersive 3D Scene Generation</title>
+      <link>https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</link>
+      <description><![CDATA[We introduce GAUDI, a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</guid>
+    </item>
+    <item>
+      <title>OCR-free Document Understanding Transformer</title>
+      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
+      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
+    </item>
+    <item>
+      <title>HierarchicalForecast: A Reference Framework for Hierarchical Forecasting in Python</title>
+      <link>https://paperswithcode.com/paper/hierarchicalforecast-a-python-benchmarking</link>
+      <description><![CDATA[Large collections of time series data are commonly organized into cross-sectional structures with different levels of aggregation; examples include product and geographical groupings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchicalforecast-a-python-benchmarking</guid>
+    </item>
+    <item>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+    </item>
+    <item>
+      <title>EasyNLP</title>
+      <link>https://github.com/alibaba/EasyNLP</link>
+      <description><![CDATA[EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit]]></description>
+      <guid isPermaLink="true">https://github.com/alibaba/EasyNLP</guid>
+    </item>
+    <item>
+      <title>Multimodal Image Synthesis and Editing: A Survey</title>
+      <link>https://paperswithcode.com/paper/multimodal-image-synthesis-and-editing-a</link>
+      <description><![CDATA[As information exists in various modalities in real world, effective interaction and fusion among multimodal information plays a key role for the creation and perception of multimodal data in computer vision and deep learning research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-image-synthesis-and-editing-a</guid>
     </item>
     <item>
       <title>Masked Siamese Networks for Label-Efficient Learning</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/masked-siamese-networks-for-label-efficient</guid>
     </item>
     <item>
-      <title>GAUDI: A Neural Architect for Immersive 3D Scene Generation</title>
-      <link>https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</link>
-      <description><![CDATA[We introduce GAUDI, a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</guid>
+      <title>NeuriCam: Video Super-Resolution and Colorization Using Key Frames</title>
+      <link>https://paperswithcode.com/paper/neuricam-video-super-resolution-and</link>
+      <description><![CDATA[Our idea is to design a dual-mode camera system where the first mode is low power (1. 1~mW) but only outputs gray-scale, low resolution and noisy video and the second mode consumes much higher power (100~mW) but outputs color and higher resolution images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuricam-video-super-resolution-and</guid>
+    </item>
+    <item>
+      <title>Practical tradeoffs between memory, compute, and performance in learned optimizers</title>
+      <link>https://paperswithcode.com/paper/practical-tradeoffs-between-memory-compute</link>
+      <description><![CDATA[We further leverage our analysis to construct a learned optimizer that is both faster and more memory efficient than previous work.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/practical-tradeoffs-between-memory-compute</guid>
     </item>
   </channel>
 </rss>
