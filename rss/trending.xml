@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Aug 2022 21:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2022 09:14:35 +0000</lastBuildDate>
     <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
@@ -15,22 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
     </item>
     <item>
+      <title>Neural Density-Distance Fields</title>
+      <link>https://paperswithcode.com/paper/neural-density-distance-fields</link>
+      <description><![CDATA[However, it is difficult to achieve high localization performance by only density fields-based methods such as Neural Radiance Field (NeRF) since they do not provide density gradient in most empty regions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-density-distance-fields</guid>
+    </item>
+    <item>
       <title>Rewriting Geometric Rules of a GAN</title>
       <link>https://paperswithcode.com/paper/rewriting-geometric-rules-of-a-gan</link>
       <description><![CDATA[Our method allows a user to create a model that synthesizes endless objects with defined geometric changes, enabling the creation of a new generative model without the burden of curating a large-scale dataset.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/rewriting-geometric-rules-of-a-gan</guid>
-    </item>
-    <item>
-      <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
-      <link>https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</link>
-      <description><![CDATA[Autonomous agents have made great strides in specialist domains like Atari games and Go.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</guid>
-    </item>
-    <item>
-      <title>Monocular 3D Object Detection with Depth from Motion</title>
-      <link>https://paperswithcode.com/paper/monocular-3d-object-detection-with-depth-from</link>
-      <description><![CDATA[Perceiving 3D objects from monocular inputs is crucial for robotic systems, given its economy compared to multi-sensor settings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monocular-3d-object-detection-with-depth-from</guid>
     </item>
     <item>
       <title>GAUDI: A Neural Architect for Immersive 3D Scene Generation</title>
@@ -51,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fastai-a-layered-api-for-deep-learning</guid>
     </item>
     <item>
-      <title>An Improved One millisecond Mobile Backbone</title>
-      <link>https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</link>
-      <description><![CDATA[Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</guid>
+      <title>Theseus: A Library for Differentiable Nonlinear Optimization</title>
+      <link>https://paperswithcode.com/paper/theseus-a-library-for-differentiable</link>
+      <description><![CDATA[We present Theseus, an efficient application-agnostic open source library for differentiable nonlinear least squares (DNLS) optimization built on PyTorch, providing a common framework for end-to-end structured learning in robotics and vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/theseus-a-library-for-differentiable</guid>
     </item>
     <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
@@ -63,16 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
-      <title>OpenXAI: Towards a Transparent Evaluation of Model Explanations</title>
-      <link>https://paperswithcode.com/paper/openxai-towards-a-transparent-evaluation-of</link>
-      <description><![CDATA[OpenXAI comprises of the following key components: (i) a flexible synthetic data generator and a collection of diverse real-world datasets, pre-trained models, and state-of-the-art feature attribution methods, (ii) open-source implementations of twenty-two quantitative metrics for evaluating faithfulness, stability (robustness), and fairness of explanation methods, and (iii) the first ever public XAI leaderboards to benchmark explanations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openxai-towards-a-transparent-evaluation-of</guid>
-    </item>
-    <item>
-      <title>Theseus: A Library for Differentiable Nonlinear Optimization</title>
-      <link>https://paperswithcode.com/paper/theseus-a-library-for-differentiable</link>
-      <description><![CDATA[We present Theseus, an efficient application-agnostic open source library for differentiable nonlinear least squares (DNLS) optimization built on PyTorch, providing a common framework for end-to-end structured learning in robotics and vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/theseus-a-library-for-differentiable</guid>
+      <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
+      <link>https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</link>
+      <description><![CDATA[Autonomous agents have made great strides in specialist domains like Atari games and Go.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</guid>
     </item>
     <item>
       <title>Highly Accurate Dichotomous Image Segmentation</title>
@@ -81,28 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/highly-accurate-dichotomous-image</guid>
     </item>
     <item>
+      <title>An Improved One millisecond Mobile Backbone</title>
+      <link>https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</link>
+      <description><![CDATA[Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</guid>
+    </item>
+    <item>
+      <title>Deep Deformable 3D Caricatures with Learned Shape Control</title>
+      <link>https://paperswithcode.com/paper/deep-deformable-3d-caricatures-with-learned</link>
+      <description><![CDATA[To achieve the goal, we propose an MLP-based framework for building a deformable surface model, which takes a latent code and produces a 3D surface.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-deformable-3d-caricatures-with-learned</guid>
+    </item>
+    <item>
       <title>OCR-free Document Understanding Transformer</title>
       <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
       <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
-    </item>
-    <item>
-      <title>Multiface: A Dataset for Neural Face Rendering</title>
-      <link>https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</link>
-      <description><![CDATA[Along with the release of the dataset, we conduct ablation studies on the influence of different model architectures toward the model's interpolation capacity of novel viewpoint and expressions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</guid>
-    </item>
-    <item>
-      <title>EasyNLP</title>
-      <link>https://github.com/alibaba/EasyNLP</link>
-      <description><![CDATA[EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit]]></description>
-      <guid isPermaLink="true">https://github.com/alibaba/EasyNLP</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
       <title>Multimodal Image Synthesis and Editing: A Survey</title>
@@ -111,22 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-image-synthesis-and-editing-a</guid>
     </item>
     <item>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+    </item>
+    <item>
+      <title>Monocular 3D Object Detection with Depth from Motion</title>
+      <link>https://paperswithcode.com/paper/monocular-3d-object-detection-with-depth-from</link>
+      <description><![CDATA[Perceiving 3D objects from monocular inputs is crucial for robotic systems, given its economy compared to multi-sensor settings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/monocular-3d-object-detection-with-depth-from</guid>
+    </item>
+    <item>
       <title>Real-World Image Super-Resolution by Exclusionary Dual-Learning</title>
       <link>https://paperswithcode.com/paper/real-world-image-super-resolution-by</link>
       <description><![CDATA[Real-world image super-resolution is a practical image restoration problem that aims to obtain high-quality images from in-the-wild input, has recently received considerable attention with regard to its tremendous application potentials.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/real-world-image-super-resolution-by</guid>
     </item>
     <item>
-      <title>NeuriCam: Video Super-Resolution and Colorization Using Key Frames</title>
-      <link>https://paperswithcode.com/paper/neuricam-video-super-resolution-and</link>
-      <description><![CDATA[Our idea is to design a dual-mode camera system where the first mode is low power (1. 1~mW) but only outputs gray-scale, low resolution and noisy video and the second mode consumes much higher power (100~mW) but outputs color and higher resolution images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neuricam-video-super-resolution-and</guid>
+      <title>REALY: Rethinking the Evaluation of 3D Face Reconstruction</title>
+      <link>https://paperswithcode.com/paper/realy-rethinking-the-evaluation-of-3d-face</link>
+      <description><![CDATA[The evaluation of 3D face reconstruction results typically relies on a rigid shape alignment between the estimated 3D model and the ground-truth scan.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/realy-rethinking-the-evaluation-of-3d-face</guid>
     </item>
     <item>
       <title>CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning</title>
       <link>https://paperswithcode.com/paper/coderl-mastering-code-generation-through</link>
       <description><![CDATA[To address the limitations, we propose "CodeRL", a new framework for program synthesis tasks through pretrained LMs and deep reinforcement learning (RL).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/coderl-mastering-code-generation-through</guid>
+    </item>
+    <item>
+      <title>Multiface: A Dataset for Neural Face Rendering</title>
+      <link>https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</link>
+      <description><![CDATA[Along with the release of the dataset, we conduct ablation studies on the influence of different model architectures toward the model's interpolation capacity of novel viewpoint and expressions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering</guid>
     </item>
   </channel>
 </rss>
