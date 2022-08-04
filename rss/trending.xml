@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Aug 2022 21:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2022 09:14:13 +0000</lastBuildDate>
     <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
       <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
+    </item>
+    <item>
+      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
+      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
     </item>
     <item>
       <title>Neural Density-Distance Fields</title>
@@ -39,6 +45,42 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/avatarposer-articulated-full-body-pose</guid>
     </item>
     <item>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+    </item>
+    <item>
+      <title>Highly Accurate Dichotomous Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/highly-accurate-dichotomous-image</link>
+      <description><![CDATA[We present a systematic study on a new task called dichotomous image segmentation (DIS) , which aims to segment highly accurate objects from natural images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/highly-accurate-dichotomous-image</guid>
+    </item>
+    <item>
+      <title>OCR-free Document Understanding Transformer</title>
+      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
+      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
+    </item>
+    <item>
+      <title>Theseus: A Library for Differentiable Nonlinear Optimization</title>
+      <link>https://paperswithcode.com/paper/theseus-a-library-for-differentiable</link>
+      <description><![CDATA[We present Theseus, an efficient application-agnostic open source library for differentiable nonlinear least squares (DNLS) optimization built on PyTorch, providing a common framework for end-to-end structured learning in robotics and vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/theseus-a-library-for-differentiable</guid>
+    </item>
+    <item>
+      <title>DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/dof-nerf-depth-of-field-meets-neural-radiance</link>
+      <description><![CDATA[To mitigate this issue, we introduce DoF-NeRF, a novel neural rendering approach that can deal with shallow DoF inputs and can simulate DoF effect.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dof-nerf-depth-of-field-meets-neural-radiance</guid>
+    </item>
+    <item>
+      <title>Towards Real-World Blind Face Restoration with Generative Facial Prior</title>
+      <link>https://paperswithcode.com/paper/towards-real-world-blind-face-restoration</link>
+      <description><![CDATA[Blind face restoration usually relies on facial priors, such as facial geometry prior or reference prior, to restore realistic and faithful details.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-real-world-blind-face-restoration</guid>
+    </item>
+    <item>
       <title>DETRs with Hybrid Matching</title>
       <link>https://paperswithcode.com/paper/detrs-with-hybrid-matching</link>
       <description><![CDATA[This end-to-end signature is important for the versatility of DETR, and it has been generalized to a wide range of visual problems, including instance/semantic segmentation, human pose estimation, and point cloud/multi-view-images based detection, etc.]]></description>
@@ -51,28 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fastai-a-layered-api-for-deep-learning</guid>
     </item>
     <item>
-      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
-      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
-      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
-    </item>
-    <item>
-      <title>Theseus: A Library for Differentiable Nonlinear Optimization</title>
-      <link>https://paperswithcode.com/paper/theseus-a-library-for-differentiable</link>
-      <description><![CDATA[We present Theseus, an efficient application-agnostic open source library for differentiable nonlinear least squares (DNLS) optimization built on PyTorch, providing a common framework for end-to-end structured learning in robotics and vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/theseus-a-library-for-differentiable</guid>
-    </item>
-    <item>
-      <title>OCR-free Document Understanding Transformer</title>
-      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
-      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
-    </item>
-    <item>
-      <title>Highly Accurate Dichotomous Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/highly-accurate-dichotomous-image</link>
-      <description><![CDATA[We present a systematic study on a new task called dichotomous image segmentation (DIS) , which aims to segment highly accurate objects from natural images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/highly-accurate-dichotomous-image</guid>
+      <title>Text2LIVE: Text-Driven Layered Image and Video Editing</title>
+      <link>https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</link>
+      <description><![CDATA[Given an input image or video and a target text prompt, our goal is to edit the appearance of existing objects (e. g., object's texture) or augment the scene with visual effects (e. g., smoke, fire) in a semantically meaningful manner.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</guid>
     </item>
     <item>
       <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
@@ -81,52 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</guid>
     </item>
     <item>
-      <title>Accurate Polygonal Mapping of Buildings in Satellite Imagery</title>
-      <link>https://paperswithcode.com/paper/accurate-polygonal-mapping-of-buildings-in</link>
-      <description><![CDATA[We addressed such an issue by exploiting the hierarchical supervision (of bottom-level vertices, mid-level line segments and the high-level regional masks) and proposed a novel interaction mechanism of feature embedding sourced from different levels of supervision signals to obtain reversible building masks for polygonal mapping of buildings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/accurate-polygonal-mapping-of-buildings-in</guid>
+      <title>REALY: Rethinking the Evaluation of 3D Face Reconstruction</title>
+      <link>https://paperswithcode.com/paper/realy-rethinking-the-evaluation-of-3d-face</link>
+      <description><![CDATA[The evaluation of 3D face reconstruction results typically relies on a rigid shape alignment between the estimated 3D model and the ground-truth scan.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/realy-rethinking-the-evaluation-of-3d-face</guid>
     </item>
     <item>
-      <title>StyleLight: HDR Panorama Generation for Lighting Estimation and Editing</title>
-      <link>https://paperswithcode.com/paper/stylelight-hdr-panorama-generation-for</link>
-      <description><![CDATA[To tackle this problem, we propose a coupled dual-StyleGAN panorama synthesis network (StyleLight) that integrates LDR and HDR panorama synthesis into a unified framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stylelight-hdr-panorama-generation-for</guid>
+      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
+      <link>https://paperswithcode.com/paper/ferret-a-framework-for-benchmarking</link>
+      <description><![CDATA[Many interpretability tools allow practitioners and researchers to explain Natural Language Processing systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-a-framework-for-benchmarking</guid>
     </item>
     <item>
-      <title>Towards Real-World Blind Face Restoration with Generative Facial Prior</title>
-      <link>https://paperswithcode.com/paper/towards-real-world-blind-face-restoration</link>
-      <description><![CDATA[Blind face restoration usually relies on facial priors, such as facial geometry prior or reference prior, to restore realistic and faithful details.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-real-world-blind-face-restoration</guid>
+      <title>DCT-Net: Domain-Calibrated Translation for Portrait Stylization</title>
+      <link>https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</link>
+      <description><![CDATA[This paper introduces DCT-Net, a novel image translation architecture for few-shot portrait stylization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dct-net-domain-calibrated-translation-for</guid>
     </item>
     <item>
-      <title>Multimodal Image Synthesis and Editing: A Survey</title>
-      <link>https://paperswithcode.com/paper/multimodal-image-synthesis-and-editing-a</link>
-      <description><![CDATA[As information exists in various modalities in real world, effective interaction and fusion among multimodal information plays a key role for the creation and perception of multimodal data in computer vision and deep learning research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-image-synthesis-and-editing-a</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
-    </item>
-    <item>
-      <title>Deep Deformable 3D Caricatures with Learned Shape Control</title>
-      <link>https://paperswithcode.com/paper/deep-deformable-3d-caricatures-with-learned</link>
-      <description><![CDATA[To achieve the goal, we propose an MLP-based framework for building a deformable surface model, which takes a latent code and produces a 3D surface.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-deformable-3d-caricatures-with-learned</guid>
-    </item>
-    <item>
-      <title>An Improved One millisecond Mobile Backbone</title>
-      <link>https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</link>
-      <description><![CDATA[Furthermore, we show that our model generalizes to multiple tasks - image classification, object detection, and semantic segmentation with significant improvements in latency and accuracy as compared to existing efficient architectures when deployed on a mobile device.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-improved-one-millisecond-mobile-backbone</guid>
-    </item>
-    <item>
-      <title>DoF-NeRF: Depth-of-Field Meets Neural Radiance Fields</title>
-      <link>https://paperswithcode.com/paper/dof-nerf-depth-of-field-meets-neural-radiance</link>
-      <description><![CDATA[To mitigate this issue, we introduce DoF-NeRF, a novel neural rendering approach that can deal with shallow DoF inputs and can simulate DoF effect.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dof-nerf-depth-of-field-meets-neural-radiance</guid>
+      <title>Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition</title>
+      <link>https://paperswithcode.com/paper/toward-understanding-wordart-corner-guided</link>
+      <description><![CDATA[Thirdly, we utilize Transformer to learn the global feature on image-level and model the global relationship of the corner points, with the assistance of a corner-query cross-attention mechanism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/toward-understanding-wordart-corner-guided</guid>
     </item>
   </channel>
 </rss>
