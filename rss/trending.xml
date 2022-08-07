@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Aug 2022 09:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Aug 2022 21:07:22 +0000</lastBuildDate>
     <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
       <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
+    </item>
+    <item>
+      <title>GAUDI: A Neural Architect for Immersive 3D Scene Generation</title>
+      <link>https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</link>
+      <description><![CDATA[We introduce GAUDI, a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</guid>
     </item>
     <item>
       <title>MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training</title>
@@ -21,10 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/minvis-a-minimal-video-instance-segmentation</guid>
     </item>
     <item>
-      <title>GAUDI: A Neural Architect for Immersive 3D Scene Generation</title>
-      <link>https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</link>
-      <description><![CDATA[We introduce GAUDI, a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</guid>
+      <title>Hybrid Spectrogram and Waveform Source Separation</title>
+      <link>https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</link>
+      <description><![CDATA[Source separation models either work on the spectrogram or waveform domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</guid>
     </item>
     <item>
       <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
@@ -39,28 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/expanding-language-image-pretrained-models</guid>
     </item>
     <item>
-      <title>MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures</title>
-      <link>https://paperswithcode.com/paper/mobilenerf-exploiting-the-polygon</link>
-      <description><![CDATA[Neural Radiance Fields (NeRFs) have demonstrated amazing ability to synthesize images of 3D scenes from novel views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mobilenerf-exploiting-the-polygon</guid>
-    </item>
-    <item>
-      <title>Hybrid Spectrogram and Waveform Source Separation</title>
-      <link>https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</link>
-      <description><![CDATA[Source separation models either work on the spectrogram or waveform domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-spectrogram-and-waveform-source</guid>
-    </item>
-    <item>
       <title>A Conversational Paradigm for Program Synthesis</title>
       <link>https://paperswithcode.com/paper/a-conversational-paradigm-for-program</link>
       <description><![CDATA[We train a family of large language models, called CodeGen, on natural language and programming language data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-conversational-paradigm-for-program</guid>
     </item>
     <item>
-      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
-      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
-      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+      <title>MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures</title>
+      <link>https://paperswithcode.com/paper/mobilenerf-exploiting-the-polygon</link>
+      <description><![CDATA[Neural Radiance Fields (NeRFs) have demonstrated amazing ability to synthesize images of 3D scenes from novel views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mobilenerf-exploiting-the-polygon</guid>
     </item>
     <item>
       <title>NAFSSR: Stereo Image Super-Resolution Using NAFNet</title>
@@ -69,10 +63,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/nafssr-stereo-image-super-resolution-using</guid>
     </item>
     <item>
-      <title>Text2LIVE: Text-Driven Layered Image and Video Editing</title>
-      <link>https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</link>
-      <description><![CDATA[Given an input image or video and a target text prompt, our goal is to edit the appearance of existing objects (e. g., object's texture) or augment the scene with visual effects (e. g., smoke, fire) in a semantically meaningful manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</guid>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+    </item>
+    <item>
+      <title>In Defense of Online Models for Video Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/in-defense-of-online-models-for-video</link>
+      <description><![CDATA[In recent years, video instance segmentation (VIS) has been largely advanced by offline models, while online models gradually attracted less attention possibly due to their inferior performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/in-defense-of-online-models-for-video</guid>
+    </item>
+    <item>
+      <title>Multi-Scale 2D Temporal Adjacent Networks for Moment Localization with Natural Language</title>
+      <link>https://paperswithcode.com/paper/multi-scale-2d-temporal-adjacent-networks-for</link>
+      <description><![CDATA[It is a challenging problem because a target moment may take place in the context of other temporal moments in the untrimmed video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-2d-temporal-adjacent-networks-for</guid>
     </item>
     <item>
       <title>Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer</title>
@@ -87,10 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mth-ids-a-multi-tiered-hybrid-intrusion</guid>
     </item>
     <item>
-      <title>AdaCat: Adaptive Categorical Discretization for Autoregressive Models</title>
-      <link>https://paperswithcode.com/paper/adacat-adaptive-categorical-discretization</link>
-      <description><![CDATA[Autoregressive generative models can estimate complex continuous data distributions, like trajectory rollouts in an RL environment, image intensities, and audio.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adacat-adaptive-categorical-discretization</guid>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+    </item>
+    <item>
+      <title>Text2LIVE: Text-Driven Layered Image and Video Editing</title>
+      <link>https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</link>
+      <description><![CDATA[Given an input image or video and a target text prompt, our goal is to edit the appearance of existing objects (e. g., object's texture) or augment the scene with visual effects (e. g., smoke, fire) in a semantically meaningful manner.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</guid>
     </item>
     <item>
       <title>OCR-free Document Understanding Transformer</title>
@@ -99,28 +111,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
     </item>
     <item>
-      <title>Transformers as Meta-Learners for Implicit Neural Representations</title>
-      <link>https://paperswithcode.com/paper/transformers-as-meta-learners-for-implicit</link>
-      <description><![CDATA[Motivated by a generalized formulation of gradient-based meta-learning, we propose a formulation that uses Transformers as hypernetworks for INRs, where it can directly build the whole set of INR weights with Transformers specialized as set-to-set mapping.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-as-meta-learners-for-implicit</guid>
+      <title>AdaCat: Adaptive Categorical Discretization for Autoregressive Models</title>
+      <link>https://paperswithcode.com/paper/adacat-adaptive-categorical-discretization</link>
+      <description><![CDATA[Autoregressive generative models can estimate complex continuous data distributions, like trajectory rollouts in an RL environment, image intensities, and audio.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adacat-adaptive-categorical-discretization</guid>
     </item>
     <item>
-      <title>In Defense of Online Models for Video Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/in-defense-of-online-models-for-video</link>
-      <description><![CDATA[In recent years, video instance segmentation (VIS) has been largely advanced by offline models, while online models gradually attracted less attention possibly due to their inferior performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/in-defense-of-online-models-for-video</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
-    </item>
-    <item>
-      <title>YOLO-FaceV2: A Scale and Occlusion Aware Face Detector</title>
-      <link>https://paperswithcode.com/paper/yolo-facev2-a-scale-and-occlusion-aware-face</link>
-      <description><![CDATA[In this paper, we propose a real-time face detector based on the one-stage detector YOLOv5, named YOLO-FaceV2.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-facev2-a-scale-and-occlusion-aware-face</guid>
+      <title>Pretraining is All You Need for Image-to-Image Translation</title>
+      <link>https://paperswithcode.com/paper/pretraining-is-all-you-need-for-image-to</link>
+      <description><![CDATA[We propose to use pretraining to boost general image-to-image translation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pretraining-is-all-you-need-for-image-to</guid>
     </item>
     <item>
       <title>AvatarGen: a 3D Generative Model for Animatable Human Avatars</title>
