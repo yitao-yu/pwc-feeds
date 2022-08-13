@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Aug 2022 21:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2022 09:14:02 +0000</lastBuildDate>
     <item>
       <title>3D Vision with Transformers: A Survey</title>
       <link>https://paperswithcode.com/paper/3d-vision-with-transformers-a-survey</link>
@@ -15,10 +15,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-vision-with-transformers-a-survey</guid>
     </item>
     <item>
+      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
+      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
+      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+    </item>
+    <item>
       <title>Deep Patch Visual Odometry</title>
       <link>https://paperswithcode.com/paper/deep-patch-visual-odometry</link>
       <description><![CDATA[We propose Deep Patch Visual Odometry (DPVO), a new deep learning system for monocular Visual Odometry (VO).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-patch-visual-odometry</guid>
+    </item>
+    <item>
+      <title>Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios</title>
+      <link>https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</link>
+      <description><![CDATA[Then, Next Hybrid Strategy (NHS) is designed to stack NCB and NTB in an efficient hybrid paradigm, which boosts performance in various downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</guid>
     </item>
     <item>
       <title>Reconstructing 3D Human Pose by Watching Humans in the Mirror</title>
@@ -33,22 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
     </item>
     <item>
-      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
-      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
-      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
-    </item>
-    <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
       <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
       <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
-      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
-      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
-      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
+      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
+      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
     </item>
     <item>
       <title>MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures</title>
@@ -63,52 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
     <item>
-      <title>Pretraining is All You Need for Image-to-Image Translation</title>
-      <link>https://paperswithcode.com/paper/pretraining-is-all-you-need-for-image-to</link>
-      <description><![CDATA[We propose to use pretraining to boost general image-to-image translation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pretraining-is-all-you-need-for-image-to</guid>
-    </item>
-    <item>
       <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
       <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
       <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
     </item>
     <item>
-      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
-      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
-      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
-    </item>
-    <item>
-      <title>Multi-Scale 2D Temporal Adjacent Networks for Moment Localization with Natural Language</title>
-      <link>https://paperswithcode.com/paper/multi-scale-2d-temporal-adjacent-networks-for</link>
-      <description><![CDATA[It is a challenging problem because a target moment may take place in the context of other temporal moments in the untrimmed video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-2d-temporal-adjacent-networks-for</guid>
-    </item>
-    <item>
-      <title>FRA-RIR: Fast Random Approximation of the Image-source Method</title>
-      <link>https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</link>
-      <description><![CDATA[The training of modern speech processing systems often requires a large amount of simulated room impulse response (RIR) data in order to allow the systems to generalize well in real-world, reverberant environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</guid>
-    </item>
-    <item>
-      <title>Expanding Language-Image Pretrained Models for General Video Recognition</title>
-      <link>https://paperswithcode.com/paper/expanding-language-image-pretrained-models</link>
-      <description><![CDATA[Extensive experiments demonstrate that our approach is effective and can be generalized to different video recognition scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/expanding-language-image-pretrained-models</guid>
-    </item>
-    <item>
-      <title>Package for Fast ABC-Boost</title>
-      <link>https://paperswithcode.com/paper/package-for-fast-abc-boost</link>
-      <description><![CDATA[Although the gain formula in Li (2010) was derived for logistic regression loss, it is a generic formula for loss functions with second-derivatives.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/package-for-fast-abc-boost</guid>
-    </item>
-    <item>
-      <title>GAUDI: A Neural Architect for Immersive 3D Scene Generation</title>
-      <link>https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</link>
-      <description><![CDATA[We introduce GAUDI, a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaudi-a-neural-architect-for-immersive-3d</guid>
+      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
+      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
+      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
     </item>
     <item>
       <title>Deepchecks: A Library for Testing and Validating Machine Learning Models and Data</title>
@@ -117,16 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepchecks-a-library-for-testing-and</guid>
     </item>
     <item>
+      <title>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</link>
+      <description><![CDATA[This article addresses the problem of distilling knowledge from a large teacher model to a slim student network for LiDAR semantic segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</guid>
+    </item>
+    <item>
+      <title>FRA-RIR: Fast Random Approximation of the Image-source Method</title>
+      <link>https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</link>
+      <description><![CDATA[The training of modern speech processing systems often requires a large amount of simulated room impulse response (RIR) data in order to allow the systems to generalize well in real-world, reverberant environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</guid>
+    </item>
+    <item>
+      <title>GPT-NeoX-20B: An Open-Source Autoregressive Language Model</title>
+      <link>https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</link>
+      <description><![CDATA[We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</guid>
+    </item>
+    <item>
       <title>Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN</title>
       <link>https://paperswithcode.com/paper/architecture-agnostic-masked-image-modeling</link>
       <description><![CDATA[We observe that MIM essentially teaches the model to learn better middle-level interactions among patches and extract more generalized features.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/architecture-agnostic-masked-image-modeling</guid>
     </item>
     <item>
-      <title>Artificial Intelligence and Machine Learning for Quantum Technologies</title>
-      <link>https://paperswithcode.com/paper/artificial-intelligence-and-machine-learning-3</link>
-      <description><![CDATA[In recent years, the dramatic progress in machine learning has begun to impact many areas of science and technology significantly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/artificial-intelligence-and-machine-learning-3</guid>
+      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
+      <link>https://paperswithcode.com/paper/ferret-a-framework-for-benchmarking</link>
+      <description><![CDATA[Many interpretability tools allow practitioners and researchers to explain Natural Language Processing systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-a-framework-for-benchmarking</guid>
+    </item>
+    <item>
+      <title>Patching open-vocabulary models by interpolating weights</title>
+      <link>https://paperswithcode.com/paper/patching-open-vocabulary-models-by</link>
+      <description><![CDATA[We study model patching, where the goal is to improve accuracy on specific tasks without degrading accuracy on tasks where performance is already adequate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/patching-open-vocabulary-models-by</guid>
+    </item>
+    <item>
+      <title>towhee</title>
+      <link>https://github.com/towhee-io/towhee</link>
+      <description><![CDATA[Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.]]></description>
+      <guid isPermaLink="true">https://github.com/towhee-io/towhee</guid>
     </item>
   </channel>
 </rss>
