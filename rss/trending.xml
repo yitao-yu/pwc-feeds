@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Aug 2022 21:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 09:14:35 +0000</lastBuildDate>
+    <item>
+      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
+      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
+      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+    </item>
     <item>
       <title>3D Vision with Transformers: A Survey</title>
       <link>https://paperswithcode.com/paper/3d-vision-with-transformers-a-survey</link>
@@ -15,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-vision-with-transformers-a-survey</guid>
     </item>
     <item>
-      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
-      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
-      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+      <title>KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints</title>
+      <link>https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</link>
+      <description><![CDATA[In this work, we investigate common issues with existing spatial encodings and propose a simple yet highly effective approach to modeling high-fidelity volumetric humans from sparse views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</guid>
     </item>
     <item>
       <title>Deep Patch Visual Odometry</title>
@@ -31,6 +37,12 @@
       <link>https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</link>
       <description><![CDATA[Then, Next Hybrid Strategy (NHS) is designed to stack NCB and NTB in an efficient hybrid paradigm, which boosts performance in various downstream tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</guid>
+    </item>
+    <item>
+      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
+      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
+      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
     </item>
     <item>
       <title>Reconstructing 3D Human Pose by Watching Humans in the Mirror</title>
@@ -51,70 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
-      <title>Collaborative Neural Rendering using Anime Character Sheets</title>
-      <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
-      <description><![CDATA[Drawing images of characters at desired poses is an essential but laborious task in anime production.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
-    </item>
-    <item>
       <title>MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures</title>
       <link>https://paperswithcode.com/paper/mobilenerf-exploiting-the-polygon</link>
       <description><![CDATA[Neural Radiance Fields (NeRFs) have demonstrated amazing ability to synthesize images of 3D scenes from novel views.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mobilenerf-exploiting-the-polygon</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
-    </item>
-    <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
-    </item>
-    <item>
-      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
-      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
-      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
-    </item>
-    <item>
-      <title>Deepchecks: A Library for Testing and Validating Machine Learning Models and Data</title>
-      <link>https://paperswithcode.com/paper/deepchecks-a-library-for-testing-and</link>
-      <description><![CDATA[This paper presents Deepchecks, a Python library for comprehensively validating machine learning models and data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepchecks-a-library-for-testing-and</guid>
-    </item>
-    <item>
-      <title>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</link>
-      <description><![CDATA[This article addresses the problem of distilling knowledge from a large teacher model to a slim student network for LiDAR semantic segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</guid>
-    </item>
-    <item>
-      <title>FRA-RIR: Fast Random Approximation of the Image-source Method</title>
-      <link>https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</link>
-      <description><![CDATA[The training of modern speech processing systems often requires a large amount of simulated room impulse response (RIR) data in order to allow the systems to generalize well in real-world, reverberant environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</guid>
-    </item>
-    <item>
-      <title>GPT-NeoX-20B: An Open-Source Autoregressive Language Model</title>
-      <link>https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</link>
-      <description><![CDATA[We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</guid>
-    </item>
-    <item>
-      <title>Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN</title>
-      <link>https://paperswithcode.com/paper/architecture-agnostic-masked-image-modeling</link>
-      <description><![CDATA[We observe that MIM essentially teaches the model to learn better middle-level interactions among patches and extract more generalized features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/architecture-agnostic-masked-image-modeling</guid>
-    </item>
-    <item>
-      <title>ferret: a Framework for Benchmarking Explainers on Transformers</title>
-      <link>https://paperswithcode.com/paper/ferret-a-framework-for-benchmarking</link>
-      <description><![CDATA[Many interpretability tools allow practitioners and researchers to explain Natural Language Processing systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-a-framework-for-benchmarking</guid>
     </item>
     <item>
       <title>Patching open-vocabulary models by interpolating weights</title>
@@ -123,10 +75,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/patching-open-vocabulary-models-by</guid>
     </item>
     <item>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+    </item>
+    <item>
+      <title>DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction</title>
+      <link>https://paperswithcode.com/paper/dl-traff-survey-and-benchmark-of-deep</link>
+      <description><![CDATA[Nowadays, with the rapid development of IoT (Internet of Things) and CPS (Cyber-Physical Systems) technologies, big spatiotemporal data are being generated from mobile phones, car navigation systems, and traffic sensors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dl-traff-survey-and-benchmark-of-deep</guid>
+    </item>
+    <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
+      <title>Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</link>
+      <description><![CDATA[This article addresses the problem of distilling knowledge from a large teacher model to a slim student network for LiDAR semantic segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-to-voxel-knowledge-distillation-for-1</guid>
+    </item>
+    <item>
+      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
+      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
+      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
+    </item>
+    <item>
+      <title>GPT-NeoX-20B: An Open-Source Autoregressive Language Model</title>
+      <link>https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</link>
+      <description><![CDATA[We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</guid>
+    </item>
+    <item>
+      <title>Patch Similarity Aware Data-Free Quantization for Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/patch-similarity-aware-data-free-quantization</link>
+      <description><![CDATA[Vision transformers have recently gained great success on various computer vision tasks; nevertheless, their high model complexity makes it challenging to deploy on resource-constrained devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/patch-similarity-aware-data-free-quantization</guid>
+    </item>
+    <item>
       <title>towhee</title>
       <link>https://github.com/towhee-io/towhee</link>
       <description><![CDATA[Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.]]></description>
       <guid isPermaLink="true">https://github.com/towhee-io/towhee</guid>
+    </item>
+    <item>
+      <title>FRA-RIR: Fast Random Approximation of the Image-source Method</title>
+      <link>https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</link>
+      <description><![CDATA[The training of modern speech processing systems often requires a large amount of simulated room impulse response (RIR) data in order to allow the systems to generalize well in real-world, reverberant environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fra-rir-fast-random-approximation-of-the</guid>
     </item>
   </channel>
 </rss>
