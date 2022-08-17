@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Aug 2022 09:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Aug 2022 21:07:36 +0000</lastBuildDate>
     <item>
       <title>Flow-Guided Transformer for Video Inpainting</title>
       <link>https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</link>
       <description><![CDATA[Especially in spatial transformer, we design a dual perspective spatial MHSA, which integrates the global tokens to the window-based attention.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</guid>
-    </item>
-    <item>
-      <title>Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios</title>
-      <link>https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</link>
-      <description><![CDATA[Then, Next Hybrid Strategy (NHS) is designed to stack NCB and NTB in an efficient hybrid paradigm, which boosts performance in various downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</guid>
     </item>
     <item>
       <title>OCR-free Document Understanding Transformer</title>
@@ -27,22 +21,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
     </item>
     <item>
-      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
-      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
-      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
-    </item>
-    <item>
       <title>Collaborative Neural Rendering using Anime Character Sheets</title>
       <link>https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</link>
       <description><![CDATA[Drawing images of characters with desired poses is an essential but laborious task in anime production.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-neural-rendering-using-anime</guid>
     </item>
     <item>
+      <title>LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale</title>
+      <link>https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</link>
+      <description><![CDATA[We develop a procedure for Int8 matrix multiplication for feed-forward and attention projection layers in transformers, which cut the memory needed for inference by half while retaining full precision performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</guid>
+    </item>
+    <item>
       <title>KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints</title>
       <link>https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</link>
       <description><![CDATA[In this work, we investigate common issues with existing spatial encodings and propose a simple yet highly effective approach to modeling high-fidelity volumetric humans from sparse views.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</guid>
+    </item>
+    <item>
+      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
+      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
+      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+    </item>
+    <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
     </item>
     <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
@@ -57,10 +63,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-patch-visual-odometry</guid>
     </item>
     <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+      <title>StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3</title>
+      <link>https://paperswithcode.com/paper/stylefacev-face-video-generation-via</link>
+      <description><![CDATA[Notably, StyleFaceV is capable of generating realistic $1024\times1024$ face videos even without high-resolution training videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stylefacev-face-video-generation-via</guid>
+    </item>
+    <item>
+      <title>Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios</title>
+      <link>https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</link>
+      <description><![CDATA[Then, Next Hybrid Strategy (NHS) is designed to stack NCB and NTB in an efficient hybrid paradigm, which boosts performance in various downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</guid>
+    </item>
+    <item>
+      <title>Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision</title>
+      <link>https://paperswithcode.com/paper/learning-to-count-anything-reference-less</link>
+      <description><![CDATA[While there are class-agnostic counting methods that can generalise to unseen classes, these methods require reference images to define the type of object to be counted, as well as instance annotations during training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-count-anything-reference-less</guid>
+    </item>
+    <item>
+      <title>Mining Legal Arguments in Court Decisions</title>
+      <link>https://paperswithcode.com/paper/mining-legal-arguments-in-court-decisions</link>
+      <description><![CDATA[Identifying, classifying, and analyzing arguments in legal discourse has been a prominent area of research since the inception of the argument mining field.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mining-legal-arguments-in-court-decisions</guid>
+    </item>
+    <item>
+      <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
+      <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
+      <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
+    </item>
+    <item>
+      <title>TotalSegmentator: robust segmentation of 104 anatomical structures in CT images</title>
+      <link>https://paperswithcode.com/paper/totalsegmentator-robust-segmentation-of-104</link>
+      <description><![CDATA[Finally, we train a segmentation algorithm on this new dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/totalsegmentator-robust-segmentation-of-104</guid>
+    </item>
+    <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
     </item>
     <item>
       <title>3D Vision with Transformers: A Survey</title>
@@ -75,58 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dl-traff-survey-and-benchmark-of-deep</guid>
     </item>
     <item>
-      <title>Mining Legal Arguments in Court Decisions</title>
-      <link>https://paperswithcode.com/paper/mining-legal-arguments-in-court-decisions</link>
-      <description><![CDATA[Identifying, classifying, and analyzing arguments in legal discourse has been a prominent area of research since the inception of the argument mining field.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mining-legal-arguments-in-court-decisions</guid>
-    </item>
-    <item>
-      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
-      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
-      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
-    </item>
-    <item>
-      <title>Patch Similarity Aware Data-Free Quantization for Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/patch-similarity-aware-data-free-quantization</link>
-      <description><![CDATA[Vision transformers have recently gained great success on various computer vision tasks; nevertheless, their high model complexity makes it challenging to deploy on resource-constrained devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/patch-similarity-aware-data-free-quantization</guid>
-    </item>
-    <item>
-      <title>Pre-training Tasks for User Intent Detection and Embedding Retrieval in E-commerce Search</title>
-      <link>https://paperswithcode.com/paper/pre-training-tasks-for-user-intent-detection</link>
-      <description><![CDATA[Pretrain-Finetune paradigm recently becomes prevalent in many NLP tasks: question answering, text classification, sequence labeling and so on.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pre-training-tasks-for-user-intent-detection</guid>
-    </item>
-    <item>
-      <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
-      <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
-      <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
-    </item>
-    <item>
-      <title>Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/learning-to-count-anything-reference-less</link>
-      <description><![CDATA[While there are class-agnostic counting methods that can generalise to unseen classes, these methods require reference images to define the type of object to be counted, as well as instance annotations during training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-count-anything-reference-less</guid>
-    </item>
-    <item>
-      <title>Speech Enhancement and Dereverberation with Diffusion-based Generative Models</title>
-      <link>https://paperswithcode.com/paper/speech-enhancement-and-dereverberation-with</link>
-      <description><![CDATA[Furthermore, we show that the proposed method achieves remarkable state-of-the-art performance in single-channel speech dereverberation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/speech-enhancement-and-dereverberation-with</guid>
-    </item>
-    <item>
       <title>Disentangling Object Motion and Occlusion for Unsupervised Multi-frame Monocular Depth</title>
       <link>https://paperswithcode.com/paper/disentangling-object-motion-and-occlusion-for</link>
       <description><![CDATA[Conventional self-supervised monocular depth prediction methods are based on a static environment assumption, which leads to accuracy degradation in dynamic scenes due to the mismatch and occlusion problems introduced by object motions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-object-motion-and-occlusion-for</guid>
     </item>
     <item>
-      <title>Perturbed and Strict Mean Teachers for Semi-supervised Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/perturbed-and-strict-mean-teachers-for-semi</link>
-      <description><![CDATA[The accurate prediction by this model allows us to use a challenging combination of network, input data and feature perturbations to improve the consistency learning generalisation, where the feature perturbations consist of a new adversarial perturbation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/perturbed-and-strict-mean-teachers-for-semi</guid>
+      <title>Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk</title>
+      <link>https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</link>
+      <description><![CDATA[However, the humor aspect of natural language is relatively under-investigated, especially in the age of pre-trained language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</guid>
     </item>
   </channel>
 </rss>
