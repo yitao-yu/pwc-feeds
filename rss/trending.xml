@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Aug 2022 21:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Aug 2022 09:14:19 +0000</lastBuildDate>
     <item>
       <title>OCR-free Document Understanding Transformer</title>
       <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
@@ -15,16 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
     </item>
     <item>
-      <title>Flow-Guided Transformer for Video Inpainting</title>
-      <link>https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</link>
-      <description><![CDATA[Especially in spatial transformer, we design a dual perspective spatial MHSA, which integrates the global tokens to the window-based attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</guid>
-    </item>
-    <item>
-      <title>StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3</title>
-      <link>https://paperswithcode.com/paper/stylefacev-face-video-generation-via</link>
-      <description><![CDATA[Notably, StyleFaceV is capable of generating realistic $1024\times1024$ face videos even without high-resolution training videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stylefacev-face-video-generation-via</guid>
+      <title>PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds</title>
+      <link>https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</link>
+      <description><![CDATA[The key of PAConv is to construct the convolution kernel by dynamically assembling basic weight matrices stored in Weight Bank, where the coefficients of these weight matrices are self-adaptively learned from point positions through ScoreNet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</guid>
     </item>
     <item>
       <title>LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale</title>
@@ -33,10 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</guid>
     </item>
     <item>
-      <title>Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/learning-to-count-anything-reference-less</link>
-      <description><![CDATA[While there are class-agnostic counting methods that can generalise to unseen classes, these methods require reference images to define the type of object to be counted, as well as instance annotations during training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-count-anything-reference-less</guid>
+      <title>Flow-Guided Transformer for Video Inpainting</title>
+      <link>https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</link>
+      <description><![CDATA[Especially in spatial transformer, we design a dual perspective spatial MHSA, which integrates the global tokens to the window-based attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</guid>
     </item>
     <item>
       <title>Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing</title>
@@ -45,16 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/paint2pix-interactive-painting-based</guid>
     </item>
     <item>
-      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
-      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
-      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+      <title>StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3</title>
+      <link>https://paperswithcode.com/paper/stylefacev-face-video-generation-via</link>
+      <description><![CDATA[Notably, StyleFaceV is capable of generating realistic $1024\times1024$ face videos even without high-resolution training videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stylefacev-face-video-generation-via</guid>
     </item>
     <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+      <title>Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision</title>
+      <link>https://paperswithcode.com/paper/learning-to-count-anything-reference-less</link>
+      <description><![CDATA[While there are class-agnostic counting methods that can generalise to unseen classes, these methods require reference images to define the type of object to be counted, as well as instance annotations during training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-count-anything-reference-less</guid>
     </item>
     <item>
       <title>TotalSegmentator: robust segmentation of 104 anatomical structures in CT images</title>
@@ -63,10 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/totalsegmentator-robust-segmentation-of-104</guid>
     </item>
     <item>
-      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
-      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
-      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
       <title>Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk</title>
@@ -75,10 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</guid>
     </item>
     <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
       <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
       <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
       <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+    </item>
+    <item>
+      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
+      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
+      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
     </item>
     <item>
       <title>Collaborative Neural Rendering using Anime Character Sheets</title>
@@ -93,34 +99,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/next-vit-next-generation-vision-transformer</guid>
     </item>
     <item>
-      <title>KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints</title>
-      <link>https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</link>
-      <description><![CDATA[In this work, we investigate common issues with existing spatial encodings and propose a simple yet highly effective approach to modeling high-fidelity volumetric humans from sparse views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</guid>
-    </item>
-    <item>
-      <title>Deep Patch Visual Odometry</title>
-      <link>https://paperswithcode.com/paper/deep-patch-visual-odometry</link>
-      <description><![CDATA[We propose Deep Patch Visual Odometry (DPVO), a new deep learning system for monocular Visual Odometry (VO).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-patch-visual-odometry</guid>
-    </item>
-    <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
       <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
     </item>
     <item>
-      <title>USB: A Unified Semi-supervised Learning Benchmark</title>
-      <link>https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</link>
-      <description><![CDATA[Semi-supervised learning (SSL) improves model generalization by leveraging massive unlabeled data to augment limited labeled samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</guid>
+      <title>Musika! Fast Infinite Waveform Music Generation</title>
+      <link>https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</link>
+      <description><![CDATA[We release the source code and pretrained autoencoder weights at github. com/marcoppasini/musika, such that a GAN can be trained on a new music domain with a single GPU in a matter of hours.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</guid>
     </item>
     <item>
-      <title>Neural Density-Distance Fields</title>
-      <link>https://paperswithcode.com/paper/neural-density-distance-fields</link>
-      <description><![CDATA[However, it is difficult to achieve high localization performance by only density fields-based methods such as Neural Radiance Field (NeRF) since they do not provide density gradient in most empty regions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-density-distance-fields</guid>
+      <title>FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning</title>
+      <link>https://paperswithcode.com/paper/feddm-iterative-distribution-matching-for</link>
+      <description><![CDATA[Federated learning~(FL) has recently attracted increasing attention from academia and industry, with the ultimate goal of achieving collaborative training under privacy and communication constraints.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/feddm-iterative-distribution-matching-for</guid>
+    </item>
+    <item>
+      <title>Delving into Effective Gradient Matching for Dataset Condensation</title>
+      <link>https://paperswithcode.com/paper/delving-into-effective-gradient-matching-for</link>
+      <description><![CDATA[In this work, we delve into the gradient matching method from a comprehensive perspective and answer the critical questions of what, how, and where to match.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/delving-into-effective-gradient-matching-for</guid>
     </item>
     <item>
       <title>DeepNet: Scaling Transformers to 1,000 Layers</title>
