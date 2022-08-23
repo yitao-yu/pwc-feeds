@@ -7,42 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Aug 2022 09:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2022 21:07:48 +0000</lastBuildDate>
     <item>
-      <title>LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale</title>
-      <link>https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</link>
-      <description><![CDATA[We develop a procedure for Int8 matrix multiplication for feed-forward and attention projection layers in transformers, which cut the memory needed for inference by half while retaining full precision performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</guid>
-    </item>
-    <item>
-      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
-      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
-      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
-    </item>
-    <item>
-      <title>Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk</title>
-      <link>https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</link>
-      <description><![CDATA[However, the humor aspect of natural language is relatively under-investigated, especially in the age of pre-trained language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</guid>
-    </item>
-    <item>
-      <title>PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds</title>
-      <link>https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</link>
-      <description><![CDATA[The key of PAConv is to construct the convolution kernel by dynamically assembling basic weight matrices stored in Weight Bank, where the coefficients of these weight matrices are self-adaptively learned from point positions through ScoreNet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</guid>
-    </item>
-    <item>
-      <title>A Library for Representing Python Programs as Graphs for Machine Learning</title>
-      <link>https://paperswithcode.com/paper/a-library-for-representing-python-programs-as</link>
-      <description><![CDATA[Graph representations of programs are commonly a central element of machine learning for code research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-library-for-representing-python-programs-as</guid>
-    </item>
-    <item>
-      <title>Musika! Fast Infinite Waveform Music Generation</title>
-      <link>https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</link>
-      <description><![CDATA[We release the source code and pretrained autoencoder weights at github. com/marcoppasini/musika, such that a GAN can be trained on a new music domain with a single GPU in a matter of hours.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</guid>
+      <title>Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise</title>
+      <link>https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</link>
+      <description><![CDATA[We observe that the generative behavior of diffusion models is not strongly dependent on the choice of image degradation, and in fact an entire family of generative models can be constructed by varying this choice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</guid>
     </item>
     <item>
       <title>NeuMan: Neural Human Radiance Field from a Single Video</title>
@@ -51,64 +21,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neuman-neural-human-radiance-field-from-a</guid>
     </item>
     <item>
-      <title>Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise</title>
-      <link>https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</link>
-      <description><![CDATA[We observe that the generative behavior of diffusion models is not strongly dependent on the choice of image degradation, and in fact an entire family of generative models can be constructed by varying this choice.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</guid>
+      <title>PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds</title>
+      <link>https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</link>
+      <description><![CDATA[The key of PAConv is to construct the convolution kernel by dynamically assembling basic weight matrices stored in Weight Bank, where the coefficients of these weight matrices are self-adaptively learned from point positions through ScoreNet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</guid>
     </item>
     <item>
-      <title>OCR-free Document Understanding Transformer</title>
-      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
-      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
+      <title>LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale</title>
+      <link>https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</link>
+      <description><![CDATA[We develop a procedure for Int8 matrix multiplication for feed-forward and attention projection layers in transformers, which cut the memory needed for inference by half while retaining full precision performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</guid>
     </item>
     <item>
-      <title>Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing</title>
-      <link>https://paperswithcode.com/paper/paint2pix-interactive-painting-based</link>
-      <description><![CDATA[In particular, we propose a novel approach paint2pix, which learns to predict (and adapt) "what a user wants to draw" from rudimentary brushstroke inputs, by learning a mapping from the manifold of incomplete human paintings to their realistic renderings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paint2pix-interactive-painting-based</guid>
+      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
+      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
     </item>
     <item>
-      <title>StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3</title>
-      <link>https://paperswithcode.com/paper/stylefacev-face-video-generation-via</link>
-      <description><![CDATA[Notably, StyleFaceV is capable of generating realistic $1024\times1024$ face videos even without high-resolution training videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stylefacev-face-video-generation-via</guid>
+      <title>Can Language Models Make Fun? A Case Study in Chinese Comical Crosstalk</title>
+      <link>https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</link>
+      <description><![CDATA[However, the humor aspect of natural language is relatively under-investigated, especially in the age of pre-trained language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-make-fun-a-case-study-in</guid>
     </item>
     <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+      <title>Musika! Fast Infinite Waveform Music Generation</title>
+      <link>https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</link>
+      <description><![CDATA[We release the source code and pretrained autoencoder weights at github. com/marcoppasini/musika, such that a GAN can be trained on a new music domain with a single GPU in a matter of hours.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</guid>
     </item>
     <item>
-      <title>Flow-Guided Transformer for Video Inpainting</title>
-      <link>https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</link>
-      <description><![CDATA[Especially in spatial transformer, we design a dual perspective spatial MHSA, which integrates the global tokens to the window-based attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flow-guided-transformer-for-video-inpainting</guid>
+      <title>LMOT: Efficient Light-Weight Detection and Tracking in Crowds</title>
+      <link>https://paperswithcode.com/paper/lmot-efficient-light-weight-detection-and</link>
+      <description><![CDATA[This paper introduces a novel real-time model, LMOT, i. e., Light-weight Multi-Object Tracker, that performs joint pedestrian detection and tracking.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lmot-efficient-light-weight-detection-and</guid>
     </item>
     <item>
-      <title>Delving into Effective Gradient Matching for Dataset Condensation</title>
-      <link>https://paperswithcode.com/paper/delving-into-effective-gradient-matching-for</link>
-      <description><![CDATA[In this work, we delve into the gradient matching method from a comprehensive perspective and answer the critical questions of what, how, and where to match.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/delving-into-effective-gradient-matching-for</guid>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
     </item>
     <item>
-      <title>FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning</title>
-      <link>https://paperswithcode.com/paper/feddm-iterative-distribution-matching-for</link>
-      <description><![CDATA[Federated learning~(FL) has recently attracted increasing attention from academia and industry, with the ultimate goal of achieving collaborative training under privacy and communication constraints.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/feddm-iterative-distribution-matching-for</guid>
-    </item>
-    <item>
-      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
-      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
-      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
-    </item>
-    <item>
-      <title>Improving Diffusion Model Efficiency Through Patching</title>
-      <link>https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</link>
-      <description><![CDATA[Diffusion models are a powerful class of generative models that iteratively denoise samples to produce data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</guid>
+      <title>Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention</title>
+      <link>https://paperswithcode.com/paper/nystromformer-a-nystrom-based-algorithm-for</link>
+      <description><![CDATA[The scalability of Nystr\"{o}mformer enables application to longer sequences with thousands of tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nystromformer-a-nystrom-based-algorithm-for</guid>
     </item>
     <item>
       <title>Interactive Multi-Class Tiny-Object Detection</title>
@@ -117,16 +75,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/interactive-multi-class-tiny-object-detection</guid>
     </item>
     <item>
-      <title>HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions</title>
-      <link>https://paperswithcode.com/paper/hornet-efficient-high-order-spatial</link>
-      <description><![CDATA[In this paper, we show that the key ingredients behind the vision Transformers, namely input-adaptive, long-range and high-order spatial interactions, can also be efficiently implemented with a convolution-based framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hornet-efficient-high-order-spatial</guid>
+      <title>Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing</title>
+      <link>https://paperswithcode.com/paper/paint2pix-interactive-painting-based</link>
+      <description><![CDATA[In particular, we propose a novel approach paint2pix, which learns to predict (and adapt) "what a user wants to draw" from rudimentary brushstroke inputs, by learning a mapping from the manifold of incomplete human paintings to their realistic renderings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paint2pix-interactive-painting-based</guid>
+    </item>
+    <item>
+      <title>Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning</title>
+      <link>https://paperswithcode.com/paper/crafting-monocular-cues-and-velocity-guidance</link>
+      <description><![CDATA[In contrast, multi-frame depth estimation methods improve the depth accuracy thanks to the success of Multi-View Stereo (MVS), which directly makes use of geometric constraints.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/crafting-monocular-cues-and-velocity-guidance</guid>
+    </item>
+    <item>
+      <title>Improving Diffusion Model Efficiency Through Patching</title>
+      <link>https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</link>
+      <description><![CDATA[Diffusion models are a powerful class of generative models that iteratively denoise samples to produce data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</guid>
+    </item>
+    <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
+    </item>
+    <item>
+      <title>A Library for Representing Python Programs as Graphs for Machine Learning</title>
+      <link>https://paperswithcode.com/paper/a-library-for-representing-python-programs-as</link>
+      <description><![CDATA[Graph representations of programs are commonly a central element of machine learning for code research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-library-for-representing-python-programs-as</guid>
     </item>
     <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
       <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
+    </item>
+    <item>
+      <title>Evaluating Large Language Models Trained on Code</title>
+      <link>https://paperswithcode.com/paper/evaluating-large-language-models-trained-on</link>
+      <description><![CDATA[We introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-trained-on</guid>
+    </item>
+    <item>
+      <title>KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints</title>
+      <link>https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</link>
+      <description><![CDATA[In this work, we investigate common issues with existing spatial encodings and propose a simple yet highly effective approach to modeling high-fidelity volumetric humans from sparse views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/keypointnerf-generalizing-image-based</guid>
     </item>
   </channel>
 </rss>
