@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Aug 2022 09:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2022 21:07:24 +0000</lastBuildDate>
     <item>
       <title>Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise</title>
       <link>https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</link>
@@ -33,6 +33,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neuman-neural-human-radiance-field-from-a</guid>
     </item>
     <item>
+      <title>YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception</title>
+      <link>https://paperswithcode.com/paper/yolopv2-better-faster-stronger-for-panoptic</link>
+      <description><![CDATA[Over the last decade, multi-tasking learning approaches have achieved promising results in solving panoptic driving perception problems, providing both high-precision and high-efficiency performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolopv2-better-faster-stronger-for-panoptic</guid>
+    </item>
+    <item>
       <title>PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds</title>
       <link>https://paperswithcode.com/paper/paconv-position-adaptive-convolution-with</link>
       <description><![CDATA[The key of PAConv is to construct the convolution kernel by dynamically assembling basic weight matrices stored in Weight Bank, where the coefficients of these weight matrices are self-adaptively learned from point positions through ScoreNet.]]></description>
@@ -45,22 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-enable-zero-shot-prediction</guid>
     </item>
     <item>
+      <title>Audio-Visual Segmentation</title>
+      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
+      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
+    </item>
+    <item>
       <title>Musika! Fast Infinite Waveform Music Generation</title>
       <link>https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</link>
       <description><![CDATA[We release the source code and pretrained autoencoder weights at github. com/marcoppasini/musika, such that a GAN can be trained on a new music domain with a single GPU in a matter of hours.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</guid>
-    </item>
-    <item>
-      <title>Interactive Multi-Class Tiny-Object Detection</title>
-      <link>https://paperswithcode.com/paper/interactive-multi-class-tiny-object-detection</link>
-      <description><![CDATA[We perform experiments on the Tiny-DOTA and LCell datasets using both two-stage and one-stage object detection architectures to verify the efficacy of our approach.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/interactive-multi-class-tiny-object-detection</guid>
-    </item>
-    <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
     </item>
     <item>
       <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
@@ -69,10 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
       <title>A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning</title>
       <link>https://paperswithcode.com/paper/a-walk-in-the-park-learning-to-walk-in-20</link>
       <description><![CDATA[Deep reinforcement learning is a promising approach to learning policies in uncontrolled environments that do not require domain knowledge.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-walk-in-the-park-learning-to-walk-in-20</guid>
+    </item>
+    <item>
+      <title>Thin-Plate Spline Motion Model for Image Animation</title>
+      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
+      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
+    </item>
+    <item>
+      <title>Evaluating Large Language Models Trained on Code</title>
+      <link>https://paperswithcode.com/paper/evaluating-large-language-models-trained-on</link>
+      <description><![CDATA[We introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-trained-on</guid>
     </item>
     <item>
       <title>YOLOV: Making Still Image Object Detectors Great at Video Object Detection</title>
@@ -87,22 +105,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
     </item>
     <item>
-      <title>LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale</title>
-      <link>https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</link>
-      <description><![CDATA[We develop a procedure for Int8 matrix multiplication for feed-forward and attention projection layers in transformers, which cut the memory needed for inference by half while retaining full precision performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</guid>
+      <title>Gender Classification and Bias Mitigation in Facial Images</title>
+      <link>https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</link>
+      <description><![CDATA[We worked to increase classification accuracy and mitigate algorithmic biases on our baseline model trained on the augmented benchmark database.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</guid>
     </item>
     <item>
-      <title>Evaluating Large Language Models Trained on Code</title>
-      <link>https://paperswithcode.com/paper/evaluating-large-language-models-trained-on</link>
-      <description><![CDATA[We introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-trained-on</guid>
-    </item>
-    <item>
-      <title>Audio-Visual Segmentation</title>
-      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
-      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
+      <title>Interactive Multi-Class Tiny-Object Detection</title>
+      <link>https://paperswithcode.com/paper/interactive-multi-class-tiny-object-detection</link>
+      <description><![CDATA[We perform experiments on the Tiny-DOTA and LCell datasets using both two-stage and one-stage object detection architectures to verify the efficacy of our approach.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interactive-multi-class-tiny-object-detection</guid>
     </item>
     <item>
       <title>Improving Diffusion Model Efficiency Through Patching</title>
@@ -115,18 +127,6 @@
       <link>https://paperswithcode.com/paper/nystromformer-a-nystrom-based-algorithm-for</link>
       <description><![CDATA[The scalability of Nystr\"{o}mformer enables application to longer sequences with thousands of tokens.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nystromformer-a-nystrom-based-algorithm-for</guid>
-    </item>
-    <item>
-      <title>Gender Classification and Bias Mitigation in Facial Images</title>
-      <link>https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</link>
-      <description><![CDATA[We worked to increase classification accuracy and mitigate algorithmic biases on our baseline model trained on the augmented benchmark database.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</guid>
-    </item>
-    <item>
-      <title>Thin-Plate Spline Motion Model for Image Animation</title>
-      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
-      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
     </item>
   </channel>
 </rss>
