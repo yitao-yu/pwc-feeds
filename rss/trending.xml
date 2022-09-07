@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Sep 2022 21:07:58 +0000</lastBuildDate>
-    <item>
-      <title>Transformers are Sample Efficient World Models</title>
-      <link>https://paperswithcode.com/paper/transformers-are-sample-efficient-world</link>
-      <description><![CDATA[Deep reinforcement learning agents are notoriously sample inefficient, which considerably limits their application to real-world problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-are-sample-efficient-world</guid>
-    </item>
+    <lastBuildDate>Wed, 07 Sep 2022 09:16:20 +0000</lastBuildDate>
     <item>
       <title>YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6</title>
       <link>https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</link>
@@ -21,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</guid>
     </item>
     <item>
-      <title>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</title>
-      <link>https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</link>
-      <description><![CDATA[Then Adan adopts NME to estimate the first- and second-order moments of the gradient in adaptive gradient algorithms for convergence acceleration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</guid>
+      <title>Transformers are Sample Efficient World Models</title>
+      <link>https://paperswithcode.com/paper/transformers-are-sample-efficient-world</link>
+      <description><![CDATA[Deep reinforcement learning agents are notoriously sample inefficient, which considerably limits their application to real-world problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-are-sample-efficient-world</guid>
     </item>
     <item>
       <title>FedBN: Federated Learning on Non-IID Features via Local Batch Normalization</title>
@@ -33,10 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fedbn-federated-learning-on-non-iid-features-1</guid>
     </item>
     <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+      <title>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</title>
+      <link>https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</link>
+      <description><![CDATA[Then Adan adopts NME to estimate the first- and second-order moments of the gradient in adaptive gradient algorithms for convergence acceleration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</guid>
+    </item>
+    <item>
+      <title>ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</link>
+      <description><![CDATA[Through the preliminary study on diffusion model parameterization, we find that previous gradient-based TTS models require hundreds or thousands of iterations to guarantee high sample quality, which poses a challenge for accelerating sampling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</guid>
     </item>
     <item>
       <title>LibMTL: A Python Library for Multi-Task Learning</title>
@@ -45,28 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/libmtl-a-python-library-for-multi-task</guid>
     </item>
     <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
       <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
       <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
       <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
-    </item>
-    <item>
-      <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
-      <link>https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</link>
-      <description><![CDATA[These values are superior to results achieved by other competing architectures that use Mix transformers or CNN-based encoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
-    </item>
-    <item>
-      <title>Multi-instrument Music Synthesis with Spectrogram Diffusion</title>
-      <link>https://paperswithcode.com/paper/multi-instrument-music-synthesis-with</link>
-      <description><![CDATA[An ideal music synthesizer should be both interactive and expressive, generating high-fidelity audio in realtime for arbitrary combinations of instruments and notes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-instrument-music-synthesis-with</guid>
-    </item>
-    <item>
-      <title>PyTorch Image Quality: Metrics for Image Quality Assessment</title>
-      <link>https://paperswithcode.com/paper/pytorch-image-quality-metrics-for-image</link>
-      <description><![CDATA[Image Quality Assessment (IQA) metrics are widely used to quantitatively estimate the extent of image degradation following some forming, restoring, transforming, or enhancing algorithms.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pytorch-image-quality-metrics-for-image</guid>
     </item>
     <item>
       <title>Audio-Visual Segmentation</title>
@@ -75,40 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
     </item>
     <item>
-      <title>MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction</title>
-      <link>https://paperswithcode.com/paper/maptr-structured-modeling-and-learning-for</link>
-      <description><![CDATA[We adopt a hierarchical query embedding scheme to flexibly encode structured map information and perform hierarchical bipartite matching for map element learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/maptr-structured-modeling-and-learning-for</guid>
+      <title>Multi-instrument Music Synthesis with Spectrogram Diffusion</title>
+      <link>https://paperswithcode.com/paper/multi-instrument-music-synthesis-with</link>
+      <description><![CDATA[An ideal music synthesizer should be both interactive and expressive, generating high-fidelity audio in realtime for arbitrary combinations of instruments and notes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-instrument-music-synthesis-with</guid>
     </item>
     <item>
-      <title>Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces</title>
-      <link>https://paperswithcode.com/paper/dual-space-nerf-learning-animatable-avatars</link>
-      <description><![CDATA[Previous methods alleviate the inconsistency of lighting by learning a per-frame embedding, but this operation does not generalize to unseen poses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dual-space-nerf-learning-animatable-avatars</guid>
-    </item>
-    <item>
-      <title>YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception</title>
-      <link>https://paperswithcode.com/paper/yolopv2-better-faster-stronger-for-panoptic</link>
-      <description><![CDATA[Over the last decade, multi-tasking learning approaches have achieved promising results in solving panoptic driving perception problems, providing both high-precision and high-efficiency performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolopv2-better-faster-stronger-for-panoptic</guid>
-    </item>
-    <item>
-      <title>FILM: Frame Interpolation for Large Motion</title>
-      <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
-      <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
-    </item>
-    <item>
-      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
-      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
-      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
-    </item>
-    <item>
-      <title>ETSformer: Exponential Smoothing Transformers for Time-series Forecasting</title>
-      <link>https://paperswithcode.com/paper/etsformer-exponential-smoothing-transformers</link>
-      <description><![CDATA[Transformers have been actively studied for time-series forecasting in recent years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/etsformer-exponential-smoothing-transformers</guid>
+      <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
+      <link>https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</link>
+      <description><![CDATA[These values are superior to results achieved by other competing architectures that use Mix transformers or CNN-based encoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
     </item>
     <item>
       <title>Improving Diffusion Model Efficiency Through Patching</title>
@@ -117,16 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</guid>
     </item>
     <item>
-      <title>Reconstructing 3D Human Pose by Watching Humans in the Mirror</title>
-      <link>https://paperswithcode.com/paper/reconstructing-3d-human-pose-by-watching</link>
-      <description><![CDATA[In this paper, we introduce the new task of reconstructing 3D human pose from a single image in which we can see the person and the person's image through a mirror.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reconstructing-3d-human-pose-by-watching</guid>
+      <title>PyTorch Image Quality: Metrics for Image Quality Assessment</title>
+      <link>https://paperswithcode.com/paper/pytorch-image-quality-metrics-for-image</link>
+      <description><![CDATA[Image Quality Assessment (IQA) metrics are widely used to quantitatively estimate the extent of image degradation following some forming, restoring, transforming, or enhancing algorithms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pytorch-image-quality-metrics-for-image</guid>
+    </item>
+    <item>
+      <title>YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</title>
+      <link>https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</link>
+      <description><![CDATA[YOLOv7 surpasses all known object detectors in both speed and accuracy in the range from 5 FPS to 160 FPS and has the highest accuracy 56. 8% AP among all known real-time object detectors with 30 FPS or higher on GPU V100.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new</guid>
     </item>
     <item>
       <title>Generalized Word Shift Graphs: A Method for Visualizing and Explaining Pairwise Comparisons Between Texts</title>
       <link>https://paperswithcode.com/paper/generalized-word-shift-graphs-a-method-for</link>
       <description><![CDATA[A common task in computational text analyses is to quantify how two corpora differ according to a measurement like word frequency, sentiment, or information content.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-word-shift-graphs-a-method-for</guid>
+    </item>
+    <item>
+      <title>FOLIO: Natural Language Reasoning with First-Order Logic</title>
+      <link>https://paperswithcode.com/paper/folio-natural-language-reasoning-with-first</link>
+      <description><![CDATA[We present FOLIO, a human-annotated, open-domain, and logically complex and diverse dataset for reasoning in natural language (NL), equipped with first order logic (FOL) annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/folio-natural-language-reasoning-with-first</guid>
+    </item>
+    <item>
+      <title>ETSformer: Exponential Smoothing Transformers for Time-series Forecasting</title>
+      <link>https://paperswithcode.com/paper/etsformer-exponential-smoothing-transformers</link>
+      <description><![CDATA[Transformers have been actively studied for time-series forecasting in recent years.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/etsformer-exponential-smoothing-transformers</guid>
+    </item>
+    <item>
+      <title>Reconstructing 3D Human Pose by Watching Humans in the Mirror</title>
+      <link>https://paperswithcode.com/paper/reconstructing-3d-human-pose-by-watching</link>
+      <description><![CDATA[In this paper, we introduce the new task of reconstructing 3D human pose from a single image in which we can see the person and the person's image through a mirror.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reconstructing-3d-human-pose-by-watching</guid>
+    </item>
+    <item>
+      <title>FILM: Frame Interpolation for Large Motion</title>
+      <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
+      <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
+    </item>
+    <item>
+      <title>Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise</title>
+      <link>https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</link>
+      <description><![CDATA[We observe that the generative behavior of diffusion models is not strongly dependent on the choice of image degradation, and in fact an entire family of generative models can be constructed by varying this choice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cold-diffusion-inverting-arbitrary-image</guid>
     </item>
   </channel>
 </rss>
