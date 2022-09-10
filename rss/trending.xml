@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Sep 2022 21:08:13 +0000</lastBuildDate>
-    <item>
-      <title>CLIP-Mesh: Generating textured meshes from text using pretrained image-text models</title>
-      <link>https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</link>
-      <description><![CDATA[We present a technique for zero-shot generation of a 3D model using only a target text prompt.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</guid>
-    </item>
+    <lastBuildDate>Sat, 10 Sep 2022 09:15:46 +0000</lastBuildDate>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
       <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
       <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>CLIP-Mesh: Generating textured meshes from text using pretrained image-text models</title>
+      <link>https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</link>
+      <description><![CDATA[We present a technique for zero-shot generation of a 3D model using only a target text prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</guid>
     </item>
     <item>
       <title>YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6</title>
@@ -45,10 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</guid>
     </item>
     <item>
+      <title>Behavior Trees in Robotics and AI: An Introduction</title>
+      <link>https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</link>
+      <description><![CDATA[A Behavior Tree (BT) is a way to structure the switching between different tasks in an autonomous agent, such as a robot or a virtual entity in a computer game.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</guid>
+    </item>
+    <item>
       <title>Transformers are Sample Efficient World Models</title>
       <link>https://paperswithcode.com/paper/transformers-are-sample-efficient-world</link>
       <description><![CDATA[Deep reinforcement learning agents are notoriously sample inefficient, which considerably limits their application to real-world problems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-are-sample-efficient-world</guid>
+    </item>
+    <item>
+      <title>Text-Free Learning of a Natural Language Interface for Pretrained Face Generators</title>
+      <link>https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</link>
+      <description><![CDATA[We propose Fast text2StyleGAN, a natural language interface that adapts pre-trained GANs for text-guided human face synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</guid>
     </item>
     <item>
       <title>LibMTL: A Python Library for Multi-Task Learning</title>
@@ -63,16 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
     </item>
     <item>
-      <title>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</title>
-      <link>https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</link>
-      <description><![CDATA[Then Adan adopts NME to estimate the first- and second-order moments of the gradient in adaptive gradient algorithms for convergence acceleration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</guid>
-    </item>
-    <item>
-      <title>Behavior Trees in Robotics and AI: An Introduction</title>
-      <link>https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</link>
-      <description><![CDATA[A Behavior Tree (BT) is a way to structure the switching between different tasks in an autonomous agent, such as a robot or a virtual entity in a computer game.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</guid>
+      <title>Large-Scale Intelligent Microservices</title>
+      <link>https://paperswithcode.com/paper/large-scale-intelligent-microservices</link>
+      <description><![CDATA[Deploying Machine Learning (ML) algorithms within databases is a challenge due to the varied computational footprints of modern ML algorithms and the myriad of database technologies each with its own restrictive syntax.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-scale-intelligent-microservices</guid>
     </item>
     <item>
       <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
@@ -81,16 +87,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
     </item>
     <item>
+      <title>Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models</title>
+      <link>https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</link>
+      <description><![CDATA[Then Adan adopts NME to estimate the first- and second-order moments of the gradient in adaptive gradient algorithms for convergence acceleration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adan-adaptive-nesterov-momentum-algorithm-for</guid>
+    </item>
+    <item>
       <title>Feature Selection Methods for Uplift Modeling and Heterogeneous Treatment Effect</title>
       <link>https://paperswithcode.com/paper/feature-selection-methods-for-uplift-modeling</link>
       <description><![CDATA[Uplift modeling is a causal learning technique that estimates subgroup-level treatment effects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/feature-selection-methods-for-uplift-modeling</guid>
     </item>
     <item>
-      <title>Attention Is All You Need</title>
-      <link>https://paperswithcode.com/paper/attention-is-all-you-need</link>
-      <description><![CDATA[The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attention-is-all-you-need</guid>
+      <title>YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone</title>
+      <link>https://paperswithcode.com/paper/yourtts-towards-zero-shot-multi-speaker-tts</link>
+      <description><![CDATA[YourTTS brings the power of a multilingual approach to the task of zero-shot multi-speaker TTS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yourtts-towards-zero-shot-multi-speaker-tts</guid>
     </item>
     <item>
       <title>FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning</title>
@@ -105,28 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/federated-learning-via-decentralized-dataset</guid>
     </item>
     <item>
-      <title>Audio-Visual Segmentation</title>
-      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
-      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
-    </item>
-    <item>
-      <title>Selective Annotation Makes Language Models Better Few-Shot Learners</title>
-      <link>https://paperswithcode.com/paper/selective-annotation-makes-language-models</link>
-      <description><![CDATA[Departing from recent in-context learning methods, we formulate an annotation-efficient, two-step framework: selective annotation that chooses a pool of examples to annotate from unlabeled data in advance, followed by prompt retrieval that retrieves task examples from the annotated pool at test time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/selective-annotation-makes-language-models</guid>
+      <title>Attention Is All You Need</title>
+      <link>https://paperswithcode.com/paper/attention-is-all-you-need</link>
+      <description><![CDATA[The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attention-is-all-you-need</guid>
     </item>
     <item>
       <title>FocusNet: Classifying Better by Focusing on Confusing Classes</title>
       <link>https://paperswithcode.com/paper/clonalnet-classifying-better-by-focusing-on</link>
       <description><![CDATA[We also introduce a novel focus-picking loss function to improve classification accuracy by encouraging FocusNet to focus on the most confusing classes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/clonalnet-classifying-better-by-focusing-on</guid>
-    </item>
-    <item>
-      <title>Improving Diffusion Model Efficiency Through Patching</title>
-      <link>https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</link>
-      <description><![CDATA[Diffusion models are a powerful class of generative models that iteratively denoise samples to produce data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-model-efficiency-through</guid>
     </item>
   </channel>
 </rss>
