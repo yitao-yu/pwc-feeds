@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Sep 2022 09:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 21:08:38 +0000</lastBuildDate>
+    <item>
+      <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
+      <description><![CDATA[Diffusion models are a class of deep generative models that have shown impressive results on various tasks with dense theoretical founding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</guid>
+    </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
       <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
       <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>TEACH: Temporal Action Composition for 3D Humans</title>
+      <link>https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</link>
+      <description><![CDATA[In particular, our goal is to enable the synthesis of a series of actions, which we refer to as temporal action composition.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</guid>
     </item>
     <item>
       <title>CLIP-Mesh: Generating textured meshes from text using pretrained image-text models</title>
@@ -21,64 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</guid>
     </item>
     <item>
-      <title>Large-Scale Intelligent Microservices</title>
-      <link>https://paperswithcode.com/paper/large-scale-intelligent-microservices</link>
-      <description><![CDATA[Deploying Machine Learning (ML) algorithms within databases is a challenge due to the varied computational footprints of modern ML algorithms and the myriad of database technologies each with its own restrictive syntax.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-scale-intelligent-microservices</guid>
-    </item>
-    <item>
-      <title>A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification</title>
-      <link>https://paperswithcode.com/paper/a-gentle-introduction-to-conformal-prediction</link>
-      <description><![CDATA[Conformal prediction is a user-friendly paradigm for creating statistically rigorous uncertainty sets/intervals for the predictions of such models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-gentle-introduction-to-conformal-prediction</guid>
-    </item>
-    <item>
-      <title>Behavior Trees in Robotics and AI: An Introduction</title>
-      <link>https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</link>
-      <description><![CDATA[A Behavior Tree (BT) is a way to structure the switching between different tasks in an autonomous agent, such as a robot or a virtual entity in a computer game.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</guid>
-    </item>
-    <item>
       <title>Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories</title>
       <link>https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</link>
       <description><![CDATA[In this paper, we revisit Sand and Teller's "particle video" approach, and study pixel tracking as a long-range motion estimation problem, where every pixel is described with a trajectory that locates it in multiple future frames.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</guid>
-    </item>
-    <item>
-      <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
-      <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
-      <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
-    </item>
-    <item>
-      <title>ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</link>
-      <description><![CDATA[Through the preliminary study on diffusion model parameterization, we find that previous gradient-based TTS models require hundreds or thousands of iterations to guarantee high sample quality, which poses a challenge for accelerating sampling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</guid>
-    </item>
-    <item>
-      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
-      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
-      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
-    </item>
-    <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
-    </item>
-    <item>
-      <title>DiffTaichi: Differentiable Programming for Physical Simulation</title>
-      <link>https://paperswithcode.com/paper/difftaichi-differentiable-programming-for</link>
-      <description><![CDATA[We present DiffTaichi, a new differentiable programming language tailored for building high-performance differentiable physical simulators.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/difftaichi-differentiable-programming-for</guid>
-    </item>
-    <item>
-      <title>YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone</title>
-      <link>https://paperswithcode.com/paper/yourtts-towards-zero-shot-multi-speaker-tts</link>
-      <description><![CDATA[YourTTS brings the power of a multilingual approach to the task of zero-shot multi-speaker TTS.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yourtts-towards-zero-shot-multi-speaker-tts</guid>
     </item>
     <item>
       <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
@@ -87,10 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
     </item>
     <item>
-      <title>Text-Free Learning of a Natural Language Interface for Pretrained Face Generators</title>
-      <link>https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</link>
-      <description><![CDATA[We propose Fast text2StyleGAN, a natural language interface that adapts pre-trained GANs for text-guided human face synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</guid>
+      <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
+      <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
+      <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
+    </item>
+    <item>
+      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
+      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
+    </item>
+    <item>
+      <title>ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</link>
+      <description><![CDATA[Through the preliminary study on diffusion model parameterization, we find that previous gradient-based TTS models require hundreds or thousands of iterations to guarantee high sample quality, which poses a challenge for accelerating sampling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</guid>
+    </item>
+    <item>
+      <title>Large-Scale Intelligent Microservices</title>
+      <link>https://paperswithcode.com/paper/large-scale-intelligent-microservices</link>
+      <description><![CDATA[Deploying Machine Learning (ML) algorithms within databases is a challenge due to the varied computational footprints of modern ML algorithms and the myriad of database technologies each with its own restrictive syntax.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-scale-intelligent-microservices</guid>
     </item>
     <item>
       <title>DI-engine</title>
@@ -99,10 +75,16 @@
       <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
     <item>
-      <title>YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6</title>
-      <link>https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</link>
-      <description><![CDATA[We develop an all-in-one computer vision toolbox named EasyCV to facilitate the use of various SOTA computer vision methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</guid>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
+      <title>Thin-Plate Spline Motion Model for Image Animation</title>
+      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
+      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
     </item>
     <item>
       <title>Surface Representation for Point Clouds</title>
@@ -111,10 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/surface-representation-for-point-clouds</guid>
     </item>
     <item>
-      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
-      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
-      <description><![CDATA[The Transformer architecture has improved the performance of deep learning models in domains such as Computer Vision and Natural Language Processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
+      <title>A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification</title>
+      <link>https://paperswithcode.com/paper/a-gentle-introduction-to-conformal-prediction</link>
+      <description><![CDATA[Conformal prediction is a user-friendly paradigm for creating statistically rigorous uncertainty sets/intervals for the predictions of such models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-gentle-introduction-to-conformal-prediction</guid>
+    </item>
+    <item>
+      <title>Text-Free Learning of a Natural Language Interface for Pretrained Face Generators</title>
+      <link>https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</link>
+      <description><![CDATA[We propose Fast text2StyleGAN, a natural language interface that adapts pre-trained GANs for text-guided human face synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</guid>
     </item>
     <item>
       <title>LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling</title>
@@ -123,10 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lord-local-4d-implicit-representation-for</guid>
     </item>
     <item>
-      <title>Monotonic Differentiable Sorting Networks</title>
-      <link>https://paperswithcode.com/paper/monotonic-differentiable-sorting-networks-1</link>
-      <description><![CDATA[We introduce a family of sigmoid functions and prove that they produce differentiable sorting networks that are monotonic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monotonic-differentiable-sorting-networks-1</guid>
+      <title>Behavior Trees in Robotics and AI: An Introduction</title>
+      <link>https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</link>
+      <description><![CDATA[A Behavior Tree (BT) is a way to structure the switching between different tasks in an autonomous agent, such as a robot or a virtual entity in a computer game.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</guid>
+    </item>
+    <item>
+      <title>Latent Image Animator: Learning to animate image via latent space navigation</title>
+      <link>https://paperswithcode.com/paper/latent-image-animator-learning-to-animate</link>
+      <description><![CDATA[Deviating from such models, we here introduce Latent Image Animator (LIA), a self-supervised auto-encoder that evades need for structure representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-image-animator-learning-to-animate</guid>
+    </item>
+    <item>
+      <title>YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6</title>
+      <link>https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</link>
+      <description><![CDATA[We develop an all-in-one computer vision toolbox named EasyCV to facilitate the use of various SOTA computer vision methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</guid>
     </item>
   </channel>
 </rss>
