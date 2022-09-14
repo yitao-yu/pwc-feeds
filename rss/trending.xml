@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Sep 2022 09:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2022 21:07:15 +0000</lastBuildDate>
     <item>
       <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
       <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
@@ -15,10 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</guid>
     </item>
     <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+      <title>CenterFormer: Center-based Transformer for 3D Object Detection</title>
+      <link>https://paperswithcode.com/paper/centerformer-center-based-transformer-for-3d</link>
+      <description><![CDATA[It then uses the feature of the center candidate as the query embedding in the transformer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/centerformer-center-based-transformer-for-3d</guid>
+    </item>
+    <item>
+      <title>StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation</title>
+      <link>https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</link>
+      <description><![CDATA[Hence, we first propose the task of story continuation, where the generated visual story is conditioned on a source image, allowing for better generalization to narratives with new characters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</guid>
     </item>
     <item>
       <title>TEACH: Temporal Action Composition for 3D Humans</title>
@@ -27,10 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</guid>
     </item>
     <item>
-      <title>CLIP-Mesh: Generating textured meshes from text using pretrained image-text models</title>
-      <link>https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</link>
-      <description><![CDATA[We present a technique for zero-shot generation of a 3D model using only a target text prompt.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</guid>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
+      <link>https://paperswithcode.com/paper/genloco-generalized-locomotion-controllers</link>
+      <description><![CDATA[In this work, we introduce a framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/genloco-generalized-locomotion-controllers</guid>
     </item>
     <item>
       <title>Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories</title>
@@ -39,52 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</guid>
     </item>
     <item>
-      <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
-      <link>https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</link>
-      <description><![CDATA[These values are superior to results achieved by other competing architectures that use Mix transformers or CNN-based encoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
-    </item>
-    <item>
-      <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
-      <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
-      <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
-    </item>
-    <item>
-      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
-      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
-      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
-    </item>
-    <item>
-      <title>ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</link>
-      <description><![CDATA[Through the preliminary study on diffusion model parameterization, we find that previous gradient-based TTS models require hundreds or thousands of iterations to guarantee high sample quality, which poses a challenge for accelerating sampling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</guid>
-    </item>
-    <item>
-      <title>Large-Scale Intelligent Microservices</title>
-      <link>https://paperswithcode.com/paper/large-scale-intelligent-microservices</link>
-      <description><![CDATA[Deploying Machine Learning (ML) algorithms within databases is a challenge due to the varied computational footprints of modern ML algorithms and the myriad of database technologies each with its own restrictive syntax.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-scale-intelligent-microservices</guid>
-    </item>
-    <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
-    </item>
-    <item>
-      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
-      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
-    </item>
-    <item>
       <title>Thin-Plate Spline Motion Model for Image Animation</title>
       <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
       <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
+    </item>
+    <item>
+      <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
+      <link>https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</link>
+      <description><![CDATA[These values are superior to results achieved by other competing architectures that use Mix transformers or CNN-based encoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
     </item>
     <item>
       <title>Surface Representation for Point Clouds</title>
@@ -93,40 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/surface-representation-for-point-clouds</guid>
     </item>
     <item>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>Parameter-Free Style Projection for Arbitrary Style Transfer</title>
+      <link>https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</link>
+      <description><![CDATA[This paper further presents a real-time feed-forward model to leverage Style Projection for arbitrary image style transfer, which includes a regularization term for matching the semantics between input contents and stylized outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</guid>
+    </item>
+    <item>
+      <title>CLIP-Mesh: Generating textured meshes from text using pretrained image-text models</title>
+      <link>https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</link>
+      <description><![CDATA[We present a technique for zero-shot generation of a 3D model using only a target text prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-mesh-without-3d-supervision-using</guid>
+    </item>
+    <item>
+      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
+      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
+    </item>
+    <item>
+      <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
+      <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
+      <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
+    </item>
+    <item>
+      <title>Neural Architectures for Named Entity Recognition</title>
+      <link>https://paperswithcode.com/paper/neural-architectures-for-named-entity</link>
+      <description><![CDATA[State-of-the-art named entity recognition systems rely heavily on hand-crafted features and domain-specific knowledge in order to learn effectively from the small, supervised training corpora that are available.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-architectures-for-named-entity</guid>
+    </item>
+    <item>
+      <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
+      <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
+    </item>
+    <item>
+      <title>ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</link>
+      <description><![CDATA[Through the preliminary study on diffusion model parameterization, we find that previous gradient-based TTS models require hundreds or thousands of iterations to guarantee high sample quality, which poses a challenge for accelerating sampling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prodiff-progressive-fast-diffusion-model-for</guid>
+    </item>
+    <item>
+      <title>General Place Recognition Survey: Towards the Real-world Autonomy Age</title>
+      <link>https://paperswithcode.com/paper/general-place-recognition-survey-towards-the</link>
+      <description><![CDATA[A summary of this work and our datasets and evaluation API is publicly available to the robotics community at: https://github. com/MetaSLAM/GPRS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/general-place-recognition-survey-towards-the</guid>
+    </item>
+    <item>
       <title>A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification</title>
       <link>https://paperswithcode.com/paper/a-gentle-introduction-to-conformal-prediction</link>
       <description><![CDATA[Conformal prediction is a user-friendly paradigm for creating statistically rigorous uncertainty sets/intervals for the predictions of such models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-gentle-introduction-to-conformal-prediction</guid>
-    </item>
-    <item>
-      <title>Text-Free Learning of a Natural Language Interface for Pretrained Face Generators</title>
-      <link>https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</link>
-      <description><![CDATA[We propose Fast text2StyleGAN, a natural language interface that adapts pre-trained GANs for text-guided human face synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-free-learning-of-a-natural-language</guid>
-    </item>
-    <item>
-      <title>LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling</title>
-      <link>https://paperswithcode.com/paper/lord-local-4d-implicit-representation-for</link>
-      <description><![CDATA[Recent progress in 4D implicit representation focuses on globally controlling the shape and motion with low dimensional latent vectors, which is prone to missing surface details and accumulating tracking error.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lord-local-4d-implicit-representation-for</guid>
-    </item>
-    <item>
-      <title>Behavior Trees in Robotics and AI: An Introduction</title>
-      <link>https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</link>
-      <description><![CDATA[A Behavior Tree (BT) is a way to structure the switching between different tasks in an autonomous agent, such as a robot or a virtual entity in a computer game.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an</guid>
-    </item>
-    <item>
-      <title>Latent Image Animator: Learning to animate image via latent space navigation</title>
-      <link>https://paperswithcode.com/paper/latent-image-animator-learning-to-animate</link>
-      <description><![CDATA[Deviating from such models, we here introduce Latent Image Animator (LIA), a self-supervised auto-encoder that evades need for structure representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-image-animator-learning-to-animate</guid>
-    </item>
-    <item>
-      <title>YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6</title>
-      <link>https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</link>
-      <description><![CDATA[We develop an all-in-one computer vision toolbox named EasyCV to facilitate the use of various SOTA computer vision methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolox-pai-an-improved-yolox-version-by-pai</guid>
     </item>
   </channel>
 </rss>
