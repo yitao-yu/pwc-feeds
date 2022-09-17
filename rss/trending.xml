@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Sep 2022 09:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Sep 2022 21:08:03 +0000</lastBuildDate>
     <item>
       <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
       <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
@@ -19,6 +19,18 @@
       <link>https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</link>
       <description><![CDATA[Hence, we first propose the task of story continuation, where the generated visual story is conditioned on a source image, allowing for better generalization to narratives with new characters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</guid>
+    </item>
+    <item>
+      <title>Parameter-Free Style Projection for Arbitrary Style Transfer</title>
+      <link>https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</link>
+      <description><![CDATA[This paper further presents a real-time feed-forward model to leverage Style Projection for arbitrary image style transfer, which includes a regularization term for matching the semantics between input contents and stylized outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</guid>
+    </item>
+    <item>
+      <title>Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models</title>
+      <link>https://paperswithcode.com/paper/generative-visual-prompt-unifying</link>
+      <description><![CDATA[We demonstrate how PromptGen can control several generative models (e. g., StyleGAN2, StyleNeRF, diffusion autoencoder, and NVAE) using various off-the-shelf models: (1) with the CLIP model, PromptGen can sample images guided by text, (2) with image classifiers, PromptGen can de-bias generative models across a set of attributes, and (3) with inverse graphics models, PromptGen can sample images of the same identity in different poses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-visual-prompt-unifying</guid>
     </item>
     <item>
       <title>CenterFormer: Center-based Transformer for 3D Object Detection</title>
@@ -33,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/git-re-basin-merging-models-modulo</guid>
     </item>
     <item>
-      <title>Parameter-Free Style Projection for Arbitrary Style Transfer</title>
-      <link>https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</link>
-      <description><![CDATA[This paper further presents a real-time feed-forward model to leverage Style Projection for arbitrary image style transfer, which includes a regularization term for matching the semantics between input contents and stylized outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</guid>
+      <title>Thin-Plate Spline Motion Model for Image Animation</title>
+      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
+      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
     </item>
     <item>
       <title>TEACH: Temporal Action Composition for 3D Humans</title>
@@ -45,16 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</guid>
     </item>
     <item>
-      <title>Thin-Plate Spline Motion Model for Image Animation</title>
-      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
-      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+      <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
+      <link>https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</link>
+      <description><![CDATA[These values are superior to results achieved by other competing architectures that use Mix transformers or CNN-based encoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
     </item>
     <item>
       <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
@@ -69,16 +75,16 @@
       <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
     <item>
-      <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
-      <link>https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</link>
-      <description><![CDATA[These values are superior to results achieved by other competing architectures that use Mix transformers or CNN-based encoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/esfpnet-efficient-deep-learning-architecture</guid>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>Surface Representation for Point Clouds</title>
-      <link>https://paperswithcode.com/paper/surface-representation-for-point-clouds</link>
-      <description><![CDATA[Based on a simple baseline of PointNet++ (SSG version), Umbrella RepSurf surpasses the previous state-of-the-art by a large margin for classification, segmentation and detection on various benchmarks in terms of performance and efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/surface-representation-for-point-clouds</guid>
+      <title>Robust deep learning based protein sequence design using ProteinMPNN</title>
+      <link>https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</link>
+      <description><![CDATA[While deep learning has revolutionized protein structure prediction, almost all experimentally characterized de novo protein designs have been generated using physically based approaches such as Rosetta.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</guid>
     </item>
     <item>
       <title>Zero-Shot Text-Guided Object Generation with Dream Fields</title>
@@ -87,28 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</guid>
     </item>
     <item>
-      <title>Neural Architectures for Named Entity Recognition</title>
-      <link>https://paperswithcode.com/paper/neural-architectures-for-named-entity</link>
-      <description><![CDATA[State-of-the-art named entity recognition systems rely heavily on hand-crafted features and domain-specific knowledge in order to learn effectively from the small, supervised training corpora that are available.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-architectures-for-named-entity</guid>
-    </item>
-    <item>
-      <title>Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories</title>
-      <link>https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</link>
-      <description><![CDATA[In this paper, we revisit Sand and Teller's "particle video" approach, and study pixel tracking as a long-range motion estimation problem, where every pixel is described with a trajectory that locates it in multiple future frames.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</guid>
-    </item>
-    <item>
-      <title>GLIPv2: Unifying Localization and Vision-Language Understanding</title>
-      <link>https://paperswithcode.com/paper/glipv2-unifying-localization-and-vision</link>
-      <description><![CDATA[We present GLIPv2, a grounded VL understanding model, that serves both localization tasks (e. g., object detection, instance segmentation) and Vision-Language (VL) understanding tasks (e. g., VQA, image captioning).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glipv2-unifying-localization-and-vision</guid>
-    </item>
-    <item>
-      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
-      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
-      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
+      <title>Audio-Visual Segmentation</title>
+      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
+      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
     </item>
     <item>
       <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
@@ -117,16 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
     </item>
     <item>
+      <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
+      <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
+      <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
+    </item>
+    <item>
+      <title>Neural Architectures for Named Entity Recognition</title>
+      <link>https://paperswithcode.com/paper/neural-architectures-for-named-entity</link>
+      <description><![CDATA[State-of-the-art named entity recognition systems rely heavily on hand-crafted features and domain-specific knowledge in order to learn effectively from the small, supervised training corpora that are available.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-architectures-for-named-entity</guid>
+    </item>
+    <item>
       <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
       <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
       <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
     </item>
     <item>
-      <title>OpenMixup: Open Mixup Toolbox and Benchmark for Visual Representation Learning</title>
-      <link>https://paperswithcode.com/paper/openmixup-open-mixup-toolbox-and-benchmark</link>
-      <description><![CDATA[With the remarkable progress of deep neural networks in computer vision, data mixing augmentation techniques are widely studied to alleviate problems of degraded generalization when the amount of training data is limited.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openmixup-open-mixup-toolbox-and-benchmark</guid>
+      <title>Surface Representation for Point Clouds</title>
+      <link>https://paperswithcode.com/paper/surface-representation-for-point-clouds</link>
+      <description><![CDATA[Based on a simple baseline of PointNet++ (SSG version), Umbrella RepSurf surpasses the previous state-of-the-art by a large margin for classification, segmentation and detection on various benchmarks in terms of performance and efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/surface-representation-for-point-clouds</guid>
     </item>
   </channel>
 </rss>
