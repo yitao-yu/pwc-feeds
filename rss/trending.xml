@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Sep 2022 09:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Sep 2022 21:09:17 +0000</lastBuildDate>
     <item>
       <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
       <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
@@ -21,22 +21,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</guid>
     </item>
     <item>
-      <title>Parameter-Free Style Projection for Arbitrary Style Transfer</title>
-      <link>https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</link>
-      <description><![CDATA[This paper further presents a real-time feed-forward model to leverage Style Projection for arbitrary image style transfer, which includes a regularization term for matching the semantics between input contents and stylized outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</guid>
-    </item>
-    <item>
       <title>CenterFormer: Center-based Transformer for 3D Object Detection</title>
       <link>https://paperswithcode.com/paper/centerformer-center-based-transformer-for-3d</link>
       <description><![CDATA[It then uses the feature of the center candidate as the query embedding in the transformer.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/centerformer-center-based-transformer-for-3d</guid>
     </item>
     <item>
+      <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
+      <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
+      <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
+    </item>
+    <item>
       <title>Git Re-Basin: Merging Models modulo Permutation Symmetries</title>
       <link>https://paperswithcode.com/paper/git-re-basin-merging-models-modulo</link>
       <description><![CDATA[Experimentally, we demonstrate the single basin phenomenon across a variety of model architectures and datasets, including the first (to our knowledge) demonstration of zero-barrier linear mode connectivity between independently trained ResNet models on CIFAR-10 and CIFAR-100.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/git-re-basin-merging-models-modulo</guid>
+    </item>
+    <item>
+      <title>Parameter-Free Style Projection for Arbitrary Style Transfer</title>
+      <link>https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</link>
+      <description><![CDATA[This paper further presents a real-time feed-forward model to leverage Style Projection for arbitrary image style transfer, which includes a regularization term for matching the semantics between input contents and stylized outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-free-style-projection-for-arbitrary</guid>
+    </item>
+    <item>
+      <title>Robust deep learning based protein sequence design using ProteinMPNN</title>
+      <link>https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</link>
+      <description><![CDATA[While deep learning has revolutionized protein structure prediction, almost all experimentally characterized de novo protein designs have been generated using physically based approaches such as Rosetta.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</guid>
     </item>
     <item>
       <title>ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video</title>
@@ -51,28 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/generative-visual-prompt-unifying</guid>
     </item>
     <item>
-      <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
-      <link>https://paperswithcode.com/paper/genloco-generalized-locomotion-controllers</link>
-      <description><![CDATA[In this work, we introduce a framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/genloco-generalized-locomotion-controllers</guid>
+      <title>Audio-Visual Segmentation</title>
+      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
+      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
     </item>
     <item>
-      <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
-      <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
-      <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
-    </item>
-    <item>
-      <title>Robust deep learning based protein sequence design using ProteinMPNN</title>
-      <link>https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</link>
-      <description><![CDATA[While deep learning has revolutionized protein structure prediction, almost all experimentally characterized de novo protein designs have been generated using physically based approaches such as Rosetta.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</guid>
-    </item>
-    <item>
-      <title>TEACH: Temporal Action Composition for 3D Humans</title>
-      <link>https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</link>
-      <description><![CDATA[In particular, our goal is to enable the synthesis of a series of actions, which we refer to as temporal action composition.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</guid>
+      <title>Label Sleuth: From Unlabeled Text to a Classifier in a Few Hours</title>
+      <link>https://paperswithcode.com/paper/label-sleuth-from-unlabeled-text-to-a</link>
+      <description><![CDATA[Text classification can be useful in many real-world scenarios, saving a lot of time for end users.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/label-sleuth-from-unlabeled-text-to-a</guid>
     </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
@@ -81,22 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>Thin-Plate Spline Motion Model for Image Animation</title>
-      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
-      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
-    </item>
-    <item>
-      <title>Audio-Visual Segmentation</title>
-      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
-      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
-    </item>
-    <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+      <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
+      <link>https://paperswithcode.com/paper/genloco-generalized-locomotion-controllers</link>
+      <description><![CDATA[In this work, we introduce a framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/genloco-generalized-locomotion-controllers</guid>
     </item>
     <item>
       <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
@@ -111,22 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
     </item>
     <item>
+      <title>How Well Do Sparse Imagenet Models Transfer?</title>
+      <link>https://paperswithcode.com/paper/how-well-do-sparse-imagenet-models-transfer</link>
+      <description><![CDATA[Transfer learning is a classic paradigm by which models pretrained on large "upstream" datasets are adapted to yield good results on "downstream" specialized datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-well-do-sparse-imagenet-models-transfer</guid>
+    </item>
+    <item>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>Thin-Plate Spline Motion Model for Image Animation</title>
+      <link>https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</link>
+      <description><![CDATA[Firstly, we propose thin-plate spline motion estimation to produce a more flexible optical flow, which warps the feature maps of the source image to the feature domain of the driving image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thin-plate-spline-motion-model-for-image</guid>
+    </item>
+    <item>
       <title>Zero-Shot Text-Guided Object Generation with Dream Fields</title>
       <link>https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</link>
       <description><![CDATA[Our method, Dream Fields, can generate the geometry and color of a wide range of objects without 3D supervision.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</guid>
     </item>
     <item>
-      <title>GLIPv2: Unifying Localization and Vision-Language Understanding</title>
-      <link>https://paperswithcode.com/paper/glipv2-unifying-localization-and-vision</link>
-      <description><![CDATA[We present GLIPv2, a grounded VL understanding model, that serves both localization tasks (e. g., object detection, instance segmentation) and Vision-Language (VL) understanding tasks (e. g., VQA, image captioning).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glipv2-unifying-localization-and-vision</guid>
-    </item>
-    <item>
-      <title>Surface Representation for Point Clouds</title>
-      <link>https://paperswithcode.com/paper/surface-representation-for-point-clouds</link>
-      <description><![CDATA[Based on a simple baseline of PointNet++ (SSG version), Umbrella RepSurf surpasses the previous state-of-the-art by a large margin for classification, segmentation and detection on various benchmarks in terms of performance and efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/surface-representation-for-point-clouds</guid>
+      <title>USB: A Unified Semi-supervised Learning Benchmark</title>
+      <link>https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</link>
+      <description><![CDATA[Semi-supervised learning (SSL) improves model generalization by leveraging massive unlabeled data to augment limited labeled samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</guid>
     </item>
   </channel>
 </rss>
