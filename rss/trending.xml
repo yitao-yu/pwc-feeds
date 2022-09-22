@@ -7,7 +7,19 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Sep 2022 21:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2022 09:19:51 +0000</lastBuildDate>
+    <item>
+      <title>Plenoxels: Radiance Fields without Neural Networks</title>
+      <link>https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</link>
+      <description><![CDATA[We introduce Plenoxels (plenoptic voxels), a system for photorealistic view synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</guid>
+    </item>
+    <item>
+      <title>Text2Light: Zero-Shot Text-Driven HDR Panorama Generation</title>
+      <link>https://paperswithcode.com/paper/text2light-zero-shot-text-driven-hdr-panorama</link>
+      <description><![CDATA[To achieve super-resolution inverse tone mapping, we derive a continuous representation of 360-degree imaging from the LDR panorama as a set of structured latent codes anchored to the sphere.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2light-zero-shot-text-driven-hdr-panorama</guid>
+    </item>
     <item>
       <title>LAVIS: A Library for Language-Vision Intelligence</title>
       <link>https://paperswithcode.com/paper/lavis-a-library-for-language-vision</link>
@@ -39,24 +51,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/label-sleuth-from-unlabeled-text-to-a</guid>
     </item>
     <item>
-      <title>StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation</title>
-      <link>https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</link>
-      <description><![CDATA[Hence, we first propose the task of story continuation, where the generated visual story is conditioned on a source image, allowing for better generalization to narratives with new characters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</guid>
-    </item>
-    <item>
-      <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
-      <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
-      <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
-    </item>
-    <item>
-      <title>USB: A Unified Semi-supervised Learning Benchmark</title>
-      <link>https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</link>
-      <description><![CDATA[Semi-supervised learning (SSL) improves model generalization by leveraging massive unlabeled data to augment limited labeled samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</guid>
-    </item>
-    <item>
       <title>HUMAP: Hierarchical Uniform Manifold Approximation and Projection</title>
       <link>https://paperswithcode.com/paper/humap-hierarchical-uniform-manifold</link>
       <description><![CDATA[Dimensionality reduction (DR) techniques help analysts to understand patterns in high-dimensional spaces.]]></description>
@@ -69,34 +63,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-approximate-nearest-neighbor-search-with</guid>
     </item>
     <item>
-      <title>Neural Architectures for Named Entity Recognition</title>
-      <link>https://paperswithcode.com/paper/neural-architectures-for-named-entity</link>
-      <description><![CDATA[State-of-the-art named entity recognition systems rely heavily on hand-crafted features and domain-specific knowledge in order to learn effectively from the small, supervised training corpora that are available.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-architectures-for-named-entity</guid>
-    </item>
-    <item>
       <title>How Well Do Sparse Imagenet Models Transfer?</title>
       <link>https://paperswithcode.com/paper/how-well-do-sparse-imagenet-models-transfer</link>
       <description><![CDATA[Transfer learning is a classic paradigm by which models pretrained on large "upstream" datasets are adapted to yield good results on "downstream" specialized datasets.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/how-well-do-sparse-imagenet-models-transfer</guid>
     </item>
     <item>
-      <title>D&amp;D: Learning Human Dynamics from Dynamic Camera</title>
-      <link>https://paperswithcode.com/paper/d-d-learning-human-dynamics-from-dynamic</link>
-      <description><![CDATA[In this work, we present D&D (Learning Human Dynamics from Dynamic Camera), which leverages the laws of physics to reconstruct 3D human motion from the in-the-wild videos with a moving camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/d-d-learning-human-dynamics-from-dynamic</guid>
+      <title>Neural Architectures for Named Entity Recognition</title>
+      <link>https://paperswithcode.com/paper/neural-architectures-for-named-entity</link>
+      <description><![CDATA[State-of-the-art named entity recognition systems rely heavily on hand-crafted features and domain-specific knowledge in order to learn effectively from the small, supervised training corpora that are available.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-architectures-for-named-entity</guid>
     </item>
     <item>
-      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
-      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
-      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
-    </item>
-    <item>
-      <title>Robust deep learning based protein sequence design using ProteinMPNN</title>
-      <link>https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</link>
-      <description><![CDATA[While deep learning has revolutionized protein structure prediction, almost all experimentally characterized de novo protein designs have been generated using physically based approaches such as Rosetta.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</guid>
+      <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
+      <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
+      <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
     </item>
     <item>
       <title>Image Segmentation Using Text and Image Prompts</title>
@@ -105,10 +87,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-based-multi-modal-image-segmentation</guid>
     </item>
     <item>
-      <title>Audio-Visual Segmentation</title>
-      <link>https://paperswithcode.com/paper/audio-visual-segmentation</link>
-      <description><![CDATA[To deal with the AVS problem, we propose a novel method that uses a temporal pixel-wise audio-visual interaction module to inject audio semantics as guidance for the visual segmentation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-segmentation</guid>
+      <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</link>
+      <description><![CDATA[Yet, it is unclear how such freedom can be exercised to generate images of specific unique concepts, modify their appearance, or compose them in new roles and novel scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-one-word-personalizing-text</guid>
+    </item>
+    <item>
+      <title>USB: A Unified Semi-supervised Learning Benchmark</title>
+      <link>https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</link>
+      <description><![CDATA[Semi-supervised learning (SSL) improves model generalization by leveraging massive unlabeled data to augment limited labeled samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</guid>
+    </item>
+    <item>
+      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
+      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
+      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
+    </item>
+    <item>
+      <title>StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation</title>
+      <link>https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</link>
+      <description><![CDATA[Hence, we first propose the task of story continuation, where the generated visual story is conditioned on a source image, allowing for better generalization to narratives with new characters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/storydall-e-adapting-pretrained-text-to-image</guid>
     </item>
     <item>
       <title>Gender Classification and Bias Mitigation in Facial Images</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gender-classification-and-bias-mitigation-in</guid>
     </item>
     <item>
+      <title>Robust deep learning based protein sequence design using ProteinMPNN</title>
+      <link>https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</link>
+      <description><![CDATA[While deep learning has revolutionized protein structure prediction, almost all experimentally characterized de novo protein designs have been generated using physically based approaches such as Rosetta.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-deep-learning-based-protein-sequence</guid>
+    </item>
+    <item>
       <title>Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models</title>
       <link>https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</link>
       <description><![CDATA[In RDMs, a set of nearest neighbors is retrieved from an external database during training for each training instance, and the diffusion model is conditioned on these informative samples.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-guided-synthesis-of-artistic-images-with</guid>
-    </item>
-    <item>
-      <title>Ivy: Templated Deep Learning for Inter-Framework Portability</title>
-      <link>https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</link>
-      <description><![CDATA[We introduce Ivy, a templated Deep Learning (DL) framework which abstracts existing DL frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivy-templated-deep-learning-for-inter</guid>
     </item>
   </channel>
 </rss>
