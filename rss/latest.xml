@@ -7,25 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Sep 2022 09:19:54 +0000</lastBuildDate>
-    <item>
-      <title>SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning</title>
-      <link>https://paperswithcode.com/paper/solar-sinkhorn-label-refinery-for-imbalanced</link>
-      <description><![CDATA[Partial-label learning (PLL) is a peculiar weakly-supervised learning task where the training samples are generally associated with a set of candidate labels instead of single ground truth.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/solar-sinkhorn-label-refinery-for-imbalanced</guid>
-    </item>
-    <item>
-      <title>Rethinking the compositionality of point clouds through regularization in the hyperbolic space</title>
-      <link>https://paperswithcode.com/paper/rethinking-the-compositionality-of-point</link>
-      <description><![CDATA[In this paper, we propose to embed the features of a point cloud classifier into the hyperbolic space and explicitly regularize the space to account for the part-whole hierarchy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-the-compositionality-of-point</guid>
-    </item>
-    <item>
-      <title>Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</title>
-      <link>https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</link>
-      <description><![CDATA[Over the past few years, the rapid development of deep learning technologies for computer vision has greatly promoted the performance of medical image segmentation (MedISeg).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</guid>
-    </item>
+    <lastBuildDate>Thu, 22 Sep 2022 21:08:44 +0000</lastBuildDate>
     <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
       <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
@@ -33,76 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
     </item>
     <item>
-      <title>SDA-$x$Net: Selective Depth Attention Networks for Adaptive Multi-scale Feature Representation</title>
-      <link>https://paperswithcode.com/paper/sda-x-net-selective-depth-attention-networks</link>
-      <description><![CDATA[To tackle this issue, we first introduce a new attention dimension, i. e., depth, in addition to existing attention dimensions such as channel, spatial, and branch, and present a novel selective depth attention network to symmetrically handle multi-scale objects in various vision tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sda-x-net-selective-depth-attention-networks</guid>
+      <title>LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation</title>
+      <link>https://paperswithcode.com/paper/latentgaze-cross-domain-gaze-estimation</link>
+      <description><![CDATA[Although recent gaze estimation methods lay great emphasis on attentively extracting gaze-relevant features from facial or eye images, how to define features that include gaze-relevant components has been ambiguous.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latentgaze-cross-domain-gaze-estimation</guid>
     </item>
     <item>
-      <title>Revisiting Discrete Soft Actor-Critic</title>
-      <link>https://paperswithcode.com/paper/revisiting-discrete-soft-actor-critic</link>
-      <description><![CDATA[We study the adaption of soft actor-critic (SAC)from continuous action space to discrete action space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-discrete-soft-actor-critic</guid>
-    </item>
-    <item>
-      <title>LCRL: Certified Policy Synthesis via Logically-Constrained Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/lcrl-certified-policy-synthesis-via-logically</link>
-      <description><![CDATA[LCRL is a software tool that implements model-free Reinforcement Learning (RL) algorithms over unknown Markov Decision Processes (MDPs), synthesising policies that satisfy a given linear temporal specification with maximal probability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lcrl-certified-policy-synthesis-via-logically</guid>
-    </item>
-    <item>
-      <title>Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms</title>
-      <link>https://paperswithcode.com/paper/benchmarking-and-analyzing-3d-human-pose-and</link>
-      <description><![CDATA[Experiments with 10 backbones, ranging from CNNs to transformers, show the knowledge learnt from a proximity task is readily transferable to human mesh recovery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-and-analyzing-3d-human-pose-and</guid>
-    </item>
-    <item>
-      <title>Uncertainty-aware Label Distribution Learning for Facial Expression Recognition</title>
-      <link>https://paperswithcode.com/paper/uncertainty-aware-label-distribution-learning</link>
-      <description><![CDATA[In this paper, we propose a new uncertainty-aware label distribution learning method to improve the robustness of deep models against uncertainty and ambiguity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uncertainty-aware-label-distribution-learning</guid>
-    </item>
-    <item>
-      <title>Variational Inference for Infinitely Deep Neural Networks</title>
-      <link>https://paperswithcode.com/paper/variational-inference-for-infinitely-deep</link>
-      <description><![CDATA[We introduce the unbounded depth neural network (UDN), an infinitely deep probabilistic model that adapts its complexity to the training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-inference-for-infinitely-deep</guid>
-    </item>
-    <item>
-      <title>Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees</title>
-      <link>https://paperswithcode.com/paper/summarization-programs-interpretable</link>
-      <description><![CDATA[We demonstrate that SP-Search effectively represents the generative process behind human summaries using modules that are typically faithful to their intended behavior.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/summarization-programs-interpretable</guid>
-    </item>
-    <item>
-      <title>HiFuse: Hierarchical Multi-Scale Feature Fusion Network for Medical Image Classification</title>
-      <link>https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</link>
-      <description><![CDATA[A parallel hierarchy of local and global feature blocks is designed to efficiently extract local features and global representations at various semantic scales, with the flexibility to model at different scales and linear computational complexity relevant to image size.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</guid>
-    </item>
-    <item>
-      <title>Tree Methods for Hierarchical Classification in Parallel</title>
-      <link>https://paperswithcode.com/paper/tree-methods-for-hierarchical-classification</link>
-      <description><![CDATA[We propose methods that enable efficient hierarchical classification in parallel.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-methods-for-hierarchical-classification</guid>
-    </item>
-    <item>
-      <title>Extreme Multi-Domain, Multi-Task Learning With Unified Text-to-Text Transfer Transformers</title>
-      <link>https://paperswithcode.com/paper/extreme-multi-domain-multi-task-learning-with</link>
-      <description><![CDATA[However, while there have been several attempts to train transformers on different domains, there is usually a clear relationship between these domains, e. g.,, code summarization, where the natural language summary describes the code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/extreme-multi-domain-multi-task-learning-with</guid>
-    </item>
-    <item>
-      <title>HAZE-Net: High-Frequency Attentive Super-Resolved Gaze Estimation in Low-Resolution Face Images</title>
-      <link>https://paperswithcode.com/paper/haze-net-high-frequency-attentive-super</link>
-      <description><![CDATA[Although gaze estimation methods have been developed with deep learning techniques, there has been no such approach as aim to attain accurate performance in low-resolution face images with a pixel width of 50 pixels or less.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/haze-net-high-frequency-attentive-super</guid>
-    </item>
-    <item>
-      <title>Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos</title>
-      <link>https://paperswithcode.com/paper/exploring-modulated-detection-transformer-as</link>
-      <description><![CDATA[We show that it is possible to use a multi-modal model to tackle a task that it was not designed for.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-modulated-detection-transformer-as</guid>
+      <title>Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces</title>
+      <link>https://paperswithcode.com/paper/efficient-distribution-similarity</link>
+      <description><![CDATA[This small set of principal vectors is provided to the server so that the server can directly identify distribution similarities among the clients to form clusters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-distribution-similarity</guid>
     </item>
     <item>
       <title>Transition to Adulthood for Young People with Intellectual or Developmental Disabilities: Emotion Detection and Topic Modeling</title>
@@ -123,10 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/clustering-without-knowing-how-to-application</guid>
     </item>
     <item>
-      <title>Improved Marginal Unbiased Score Expansion (MUSE) via Implicit Differentiation</title>
-      <link>https://paperswithcode.com/paper/improved-marginal-unbiased-score-expansion</link>
-      <description><![CDATA[We apply the technique of implicit differentiation to boost performance, reduce numerical error, and remove required user-tuning in the Marginal Unbiased Score Expansion (MUSE) algorithm for hierarchical Bayesian inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-marginal-unbiased-score-expansion</guid>
+      <title>Extreme Multi-Domain, Multi-Task Learning With Unified Text-to-Text Transfer Transformers</title>
+      <link>https://paperswithcode.com/paper/extreme-multi-domain-multi-task-learning-with</link>
+      <description><![CDATA[However, while there have been several attempts to train transformers on different domains, there is usually a clear relationship between these domains, e. g.,, code summarization, where the natural language summary describes the code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/extreme-multi-domain-multi-task-learning-with</guid>
+    </item>
+    <item>
+      <title>HAZE-Net: High-Frequency Attentive Super-Resolved Gaze Estimation in Low-Resolution Face Images</title>
+      <link>https://paperswithcode.com/paper/haze-net-high-frequency-attentive-super</link>
+      <description><![CDATA[Although gaze estimation methods have been developed with deep learning techniques, there has been no such approach as aim to attain accurate performance in low-resolution face images with a pixel width of 50 pixels or less.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/haze-net-high-frequency-attentive-super</guid>
     </item>
     <item>
       <title>Learning Hierarchical Metrical Structure Beyond Measures</title>
@@ -141,16 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/bevstereo-enhancing-depth-estimation-in-multi</guid>
     </item>
     <item>
-      <title>LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation</title>
-      <link>https://paperswithcode.com/paper/latentgaze-cross-domain-gaze-estimation</link>
-      <description><![CDATA[Although recent gaze estimation methods lay great emphasis on attentively extracting gaze-relevant features from facial or eye images, how to define features that include gaze-relevant components has been ambiguous.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latentgaze-cross-domain-gaze-estimation</guid>
+      <title>FV2ES: A Fully End2End Multimodal System for Fast Yet Effective Video Emotion Recognition Inference</title>
+      <link>https://paperswithcode.com/paper/fv2es-a-fully-end2end-multimodal-system-for</link>
+      <description><![CDATA[In the latest social networks, more and more people prefer to express their emotions in videos through text, speech, and rich facial expressions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fv2es-a-fully-end2end-multimodal-system-for</guid>
     </item>
     <item>
-      <title>Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces</title>
-      <link>https://paperswithcode.com/paper/efficient-distribution-similarity</link>
-      <description><![CDATA[This small set of principal vectors is provided to the server so that the server can directly identify distribution similarities among the clients to form clusters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-distribution-similarity</guid>
+      <title>Variational Inference for Infinitely Deep Neural Networks</title>
+      <link>https://paperswithcode.com/paper/variational-inference-for-infinitely-deep</link>
+      <description><![CDATA[We introduce the unbounded depth neural network (UDN), an infinitely deep probabilistic model that adapts its complexity to the training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-inference-for-infinitely-deep</guid>
+    </item>
+    <item>
+      <title>HiFuse: Hierarchical Multi-Scale Feature Fusion Network for Medical Image Classification</title>
+      <link>https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</link>
+      <description><![CDATA[A parallel hierarchy of local and global feature blocks is designed to efficiently extract local features and global representations at various semantic scales, with the flexibility to model at different scales and linear computational complexity relevant to image size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</guid>
     </item>
     <item>
       <title>FedFOR: Stateless Heterogeneous Federated Learning with First-Order Regularization</title>
@@ -159,16 +93,88 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fedfor-stateless-heterogeneous-federated</guid>
     </item>
     <item>
-      <title>FV2ES: A Fully End2End Multimodal System for Fast Yet Effective Video Emotion Recognition Inference</title>
-      <link>https://paperswithcode.com/paper/fv2es-a-fully-end2end-multimodal-system-for</link>
-      <description><![CDATA[In the latest social networks, more and more people prefer to express their emotions in videos through text, speech, and rich facial expressions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fv2es-a-fully-end2end-multimodal-system-for</guid>
+      <title>Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</title>
+      <link>https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</link>
+      <description><![CDATA[Over the past few years, the rapid development of deep learning technologies for computer vision has greatly promoted the performance of medical image segmentation (MedISeg).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</guid>
+    </item>
+    <item>
+      <title>Improved Marginal Unbiased Score Expansion (MUSE) via Implicit Differentiation</title>
+      <link>https://paperswithcode.com/paper/improved-marginal-unbiased-score-expansion</link>
+      <description><![CDATA[We apply the technique of implicit differentiation to boost performance, reduce numerical error, and remove required user-tuning in the Marginal Unbiased Score Expansion (MUSE) algorithm for hierarchical Bayesian inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-marginal-unbiased-score-expansion</guid>
+    </item>
+    <item>
+      <title>Tree Methods for Hierarchical Classification in Parallel</title>
+      <link>https://paperswithcode.com/paper/tree-methods-for-hierarchical-classification</link>
+      <description><![CDATA[We propose methods that enable efficient hierarchical classification in parallel.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-methods-for-hierarchical-classification</guid>
+    </item>
+    <item>
+      <title>Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees</title>
+      <link>https://paperswithcode.com/paper/summarization-programs-interpretable</link>
+      <description><![CDATA[We demonstrate that SP-Search effectively represents the generative process behind human summaries using modules that are typically faithful to their intended behavior.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/summarization-programs-interpretable</guid>
     </item>
     <item>
       <title>Social-Inverse: Inverse Decision-making of Social Contagion Management with Task Migrations</title>
       <link>https://paperswithcode.com/paper/social-inverse-inverse-decision-making-of</link>
       <description><![CDATA[Considering two decision-making tasks $A$ and $B$, each of which wishes to compute an effective \textit{decision} $Y$ for a given \textit{query} $X$, {can we solve task $B$ by using query-decision pairs $(X, Y)$ of $A$ without knowing the latent decision-making model?}]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/social-inverse-inverse-decision-making-of</guid>
+    </item>
+    <item>
+      <title>Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos</title>
+      <link>https://paperswithcode.com/paper/exploring-modulated-detection-transformer-as</link>
+      <description><![CDATA[We show that it is possible to use a multi-modal model to tackle a task that it was not designed for.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-modulated-detection-transformer-as</guid>
+    </item>
+    <item>
+      <title>SDA-$x$Net: Selective Depth Attention Networks for Adaptive Multi-scale Feature Representation</title>
+      <link>https://paperswithcode.com/paper/sda-x-net-selective-depth-attention-networks</link>
+      <description><![CDATA[To tackle this issue, we first introduce a new attention dimension, i. e., depth, in addition to existing attention dimensions such as channel, spatial, and branch, and present a novel selective depth attention network to symmetrically handle multi-scale objects in various vision tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sda-x-net-selective-depth-attention-networks</guid>
+    </item>
+    <item>
+      <title>Uncertainty-aware Label Distribution Learning for Facial Expression Recognition</title>
+      <link>https://paperswithcode.com/paper/uncertainty-aware-label-distribution-learning</link>
+      <description><![CDATA[In this paper, we propose a new uncertainty-aware label distribution learning method to improve the robustness of deep models against uncertainty and ambiguity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uncertainty-aware-label-distribution-learning</guid>
+    </item>
+    <item>
+      <title>Rethinking the compositionality of point clouds through regularization in the hyperbolic space</title>
+      <link>https://paperswithcode.com/paper/rethinking-the-compositionality-of-point</link>
+      <description><![CDATA[In this paper, we propose to embed the features of a point cloud classifier into the hyperbolic space and explicitly regularize the space to account for the part-whole hierarchy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-the-compositionality-of-point</guid>
+    </item>
+    <item>
+      <title>LCRL: Certified Policy Synthesis via Logically-Constrained Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/lcrl-certified-policy-synthesis-via-logically</link>
+      <description><![CDATA[LCRL is a software tool that implements model-free Reinforcement Learning (RL) algorithms over unknown Markov Decision Processes (MDPs), synthesising policies that satisfy a given linear temporal specification with maximal probability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lcrl-certified-policy-synthesis-via-logically</guid>
+    </item>
+    <item>
+      <title>Estimation of circular statistics in the presence of measurement bias</title>
+      <link>https://paperswithcode.com/paper/estimation-of-circular-statistics-in-the</link>
+      <description><![CDATA[The objective of this paper is to present a method to estimate circular statistics and their statistical significance even in this circumstance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/estimation-of-circular-statistics-in-the</guid>
+    </item>
+    <item>
+      <title>Revisiting Discrete Soft Actor-Critic</title>
+      <link>https://paperswithcode.com/paper/revisiting-discrete-soft-actor-critic</link>
+      <description><![CDATA[We study the adaption of soft actor-critic (SAC)from continuous action space to discrete action space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-discrete-soft-actor-critic</guid>
+    </item>
+    <item>
+      <title>SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning</title>
+      <link>https://paperswithcode.com/paper/solar-sinkhorn-label-refinery-for-imbalanced</link>
+      <description><![CDATA[Partial-label learning (PLL) is a peculiar weakly-supervised learning task where the training samples are generally associated with a set of candidate labels instead of single ground truth.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/solar-sinkhorn-label-refinery-for-imbalanced</guid>
+    </item>
+    <item>
+      <title>Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms</title>
+      <link>https://paperswithcode.com/paper/benchmarking-and-analyzing-3d-human-pose-and</link>
+      <description><![CDATA[Experiments with 10 backbones, ranging from CNNs to transformers, show the knowledge learnt from a proximity task is readily transferable to human mesh recovery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-and-analyzing-3d-human-pose-and</guid>
     </item>
     <item>
       <title>Feature embedding in click-through rate prediction</title>
@@ -189,34 +195,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-vicious-attacks-on-graph-neural</guid>
     </item>
     <item>
-      <title>MARIO: Modular and Extensible Architecture for Computing Visual Statistics in RoboCup SPL</title>
-      <link>https://paperswithcode.com/paper/mario-modular-and-extensible-architecture-for</link>
-      <description><![CDATA[This technical report describes a modular and extensible architecture for computing visual statistics in RoboCup SPL (MARIO), presented during the SPL Open Research Challenge at RoboCup 2022, held in Bangkok (Thailand).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mario-modular-and-extensible-architecture-for</guid>
-    </item>
-    <item>
-      <title>Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings</title>
-      <link>https://paperswithcode.com/paper/non-linguistic-supervision-for-contrastive</link>
-      <description><![CDATA[This indicates that Transformer models are able to generalize better by doing a similar task (i. e., clustering) with unpaired examples from different modalities in a multi-task fashion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/non-linguistic-supervision-for-contrastive</guid>
-    </item>
-    <item>
-      <title>Deep-Steiner: Learning to Solve the Euclidean Steiner Tree Problem</title>
-      <link>https://paperswithcode.com/paper/deep-steiner-learning-to-solve-the-euclidean</link>
-      <description><![CDATA[The Euclidean Steiner tree problem seeks the min-cost network to connect a collection of target locations, and it underlies many applications of wireless networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-steiner-learning-to-solve-the-euclidean</guid>
-    </item>
-    <item>
-      <title>Dynamic Relevance Graph Network for Knowledge-Aware Question Answering</title>
-      <link>https://paperswithcode.com/paper/dynamic-relevance-graph-network-for-knowledge-1</link>
-      <description><![CDATA[DRGN operates on a given KG subgraph based on the question and answers entities and uses the relevance scores between the nodes to establish new edges dynamically for learning node representations in the graph network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-relevance-graph-network-for-knowledge-1</guid>
+      <title>Learning-Based Radiomic Prediction of Type 2 Diabetes Mellitus Using Image-Derived Phenotypes</title>
+      <link>https://paperswithcode.com/paper/learning-based-radiomic-prediction-of-type-2</link>
+      <description><![CDATA[Early diagnosis of Type 2 Diabetes Mellitus (T2DM) is crucial to enable timely therapeutic interventions and lifestyle modifications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-based-radiomic-prediction-of-type-2</guid>
     </item>
     <item>
       <title>Closing the Gender Wage Gap: Adversarial Fairness in Job Recommendation</title>
       <link>https://paperswithcode.com/paper/closing-the-gender-wage-gap-adversarial</link>
       <description><![CDATA[We conclude that adversarial debiasing of word representations can increase real-world fairness of systems and thus may be part of the solution for creating fairness-aware recommendation systems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/closing-the-gender-wage-gap-adversarial</guid>
+    </item>
+    <item>
+      <title>Setting the rhythm scene: deep learning-based drum loop generation from arbitrary language cues</title>
+      <link>https://paperswithcode.com/paper/setting-the-rhythm-scene-deep-learning-based</link>
+      <description><![CDATA[Generative artificial intelligence models can be a valuable aid to music composition and live performance, both to aid the professional musician and to help democratize the music creation process for hobbyists.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/setting-the-rhythm-scene-deep-learning-based</guid>
     </item>
     <item>
       <title>A Framework for Benchmarking Clustering Algorithms</title>
@@ -231,40 +225,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vitag-online-wifi-fine-time-measurements</guid>
     </item>
     <item>
-      <title>An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability</title>
-      <link>https://paperswithcode.com/paper/an-information-theoretic-and-contrastive</link>
-      <description><![CDATA[In this paper we propose a novel end-to-end deep learning-based approach to identify the vulnerability-relevant code statements of a specific function.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-information-theoretic-and-contrastive</guid>
-    </item>
-    <item>
-      <title>Target-Guided Open-Domain Conversation Planning</title>
-      <link>https://paperswithcode.com/paper/target-guided-open-domain-conversation-1</link>
-      <description><![CDATA[Prior studies addressing target-oriented conversational tasks lack a crucial notion that has been intensively studied in the context of goal-oriented artificial intelligence agents, namely, planning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/target-guided-open-domain-conversation-1</guid>
-    </item>
-    <item>
-      <title>Extremely Simple Activation Shaping for Out-of-Distribution Detection</title>
-      <link>https://paperswithcode.com/paper/extremely-simple-activation-shaping-for-out</link>
-      <description><![CDATA[The separation between training and deployment of machine learning models implies that not all scenarios encountered in deployment can be anticipated during training, and therefore relying solely on advancements in training has its limits.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/extremely-simple-activation-shaping-for-out</guid>
-    </item>
-    <item>
-      <title>Dynamic Graph Message Passing Networks for Visual Recognition</title>
-      <link>https://paperswithcode.com/paper/dynamic-graph-message-passing-networks-for</link>
-      <description><![CDATA[A fully-connected graph, such as the self-attention operation in Transformers, is beneficial for such modelling, however, its computational overhead is prohibitive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-graph-message-passing-networks-for</guid>
-    </item>
-    <item>
-      <title>Unsupervised Early Exit in DNNs with Multiple Exits</title>
-      <link>https://paperswithcode.com/paper/unsupervised-early-exit-in-dnns-with-multiple</link>
-      <description><![CDATA[Hence one is faced with the problem of selecting the optimal exit in an unsupervised setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-early-exit-in-dnns-with-multiple</guid>
-    </item>
-    <item>
-      <title>A Joint Imitation-Reinforcement Learning Framework for Reduced Baseline Regret</title>
-      <link>https://paperswithcode.com/paper/a-joint-imitation-reinforcement-learning</link>
-      <description><![CDATA[The learning process in JIRL assumes the availability of a baseline policy and is designed with two objectives in mind \textbf{(a)} leveraging the baseline's online demonstrations to minimize the regret w. r. t the baseline policy during training, and \textbf{(b)} eventually surpassing the baseline performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-joint-imitation-reinforcement-learning</guid>
+      <title>Revisiting Image Pyramid Structure for High Resolution Salient Object Detection</title>
+      <link>https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</link>
+      <description><![CDATA[Salient object detection (SOD) has been in the spotlight recently, yet has been studied less for high-resolution (HR) images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</guid>
     </item>
     <item>
       <title>A Data-Centric AI Paradigm Based on Application-Driven Fine-grained Dataset Design</title>
@@ -273,28 +237,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-data-centric-ai-paradigm-based-on</guid>
     </item>
     <item>
-      <title>Automatic Label Sequence Generation for Prompting Sequence-to-sequence Models</title>
-      <link>https://paperswithcode.com/paper/automatic-label-sequence-generation-for</link>
-      <description><![CDATA[Prompting, which casts downstream applications as language modeling tasks, has shown to be sample efficient compared to standard fine-tuning with pre-trained models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-label-sequence-generation-for</guid>
+      <title>Dynamic Graph Message Passing Networks for Visual Recognition</title>
+      <link>https://paperswithcode.com/paper/dynamic-graph-message-passing-networks-for</link>
+      <description><![CDATA[A fully-connected graph, such as the self-attention operation in Transformers, is beneficial for such modelling, however, its computational overhead is prohibitive.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-graph-message-passing-networks-for</guid>
     </item>
     <item>
-      <title>Setting the rhythm scene: deep learning-based drum loop generation from arbitrary language cues</title>
-      <link>https://paperswithcode.com/paper/setting-the-rhythm-scene-deep-learning-based</link>
-      <description><![CDATA[Generative artificial intelligence models can be a valuable aid to music composition and live performance, both to aid the professional musician and to help democratize the music creation process for hobbyists.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/setting-the-rhythm-scene-deep-learning-based</guid>
+      <title>Improving Replay-Based Continual Semantic Segmentation with Smart Data Selection</title>
+      <link>https://paperswithcode.com/paper/improving-replay-based-continual-semantic</link>
+      <description><![CDATA[Continual learning for Semantic Segmentation (CSS) is a rapidly emerging field, in which the capabilities of the segmentation model are incrementally improved by learning new classes or new domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-replay-based-continual-semantic</guid>
     </item>
     <item>
-      <title>Text2Light: Zero-Shot Text-Driven HDR Panorama Generation</title>
-      <link>https://paperswithcode.com/paper/text2light-zero-shot-text-driven-hdr-panorama</link>
-      <description><![CDATA[To achieve super-resolution inverse tone mapping, we derive a continuous representation of 360-degree imaging from the LDR panorama as a set of structured latent codes anchored to the sphere.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2light-zero-shot-text-driven-hdr-panorama</guid>
+      <title>View-Disentangled Transformer for Brain Lesion Detection</title>
+      <link>https://paperswithcode.com/paper/view-disentangled-transformer-for-brain</link>
+      <description><![CDATA[Deep neural networks (DNNs) have been widely adopted in brain lesion detection and segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/view-disentangled-transformer-for-brain</guid>
     </item>
     <item>
-      <title>Revisiting Image Pyramid Structure for High Resolution Salient Object Detection</title>
-      <link>https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</link>
-      <description><![CDATA[Salient object detection (SOD) has been in the spotlight recently, yet has been studied less for high-resolution (HR) images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</guid>
+      <title>Interpretable Edge Enhancement and Suppression Learning for 3D Point Cloud Segmentation</title>
+      <link>https://paperswithcode.com/paper/interpretable-edge-enhancement-and</link>
+      <description><![CDATA[Second, we experimentally observe and verify the edge enhancement and suppression behavior.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interpretable-edge-enhancement-and</guid>
+    </item>
+    <item>
+      <title>Deep-Steiner: Learning to Solve the Euclidean Steiner Tree Problem</title>
+      <link>https://paperswithcode.com/paper/deep-steiner-learning-to-solve-the-euclidean</link>
+      <description><![CDATA[The Euclidean Steiner tree problem seeks the min-cost network to connect a collection of target locations, and it underlies many applications of wireless networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-steiner-learning-to-solve-the-euclidean</guid>
+    </item>
+    <item>
+      <title>Dynamic Relevance Graph Network for Knowledge-Aware Question Answering</title>
+      <link>https://paperswithcode.com/paper/dynamic-relevance-graph-network-for-knowledge-1</link>
+      <description><![CDATA[DRGN operates on a given KG subgraph based on the question and answers entities and uses the relevance scores between the nodes to establish new edges dynamically for learning node representations in the graph network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-relevance-graph-network-for-knowledge-1</guid>
+    </item>
+    <item>
+      <title>MARIO: Modular and Extensible Architecture for Computing Visual Statistics in RoboCup SPL</title>
+      <link>https://paperswithcode.com/paper/mario-modular-and-extensible-architecture-for</link>
+      <description><![CDATA[This technical report describes a modular and extensible architecture for computing visual statistics in RoboCup SPL (MARIO), presented during the SPL Open Research Challenge at RoboCup 2022, held in Bangkok (Thailand).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mario-modular-and-extensible-architecture-for</guid>
     </item>
     <item>
       <title>An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots</title>
@@ -303,10 +285,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/an-outlier-exposure-approach-to-improve</guid>
     </item>
     <item>
+      <title>CoV-TI-Net: Transferred Initialization with Modified End Layer for COVID-19 Diagnosis</title>
+      <link>https://paperswithcode.com/paper/cov-ti-net-transferred-initialization-with</link>
+      <description><![CDATA[In this research, the PyTorch pre-trained models (VGG19\_bn and WideResNet -101) are applied in the MNIST dataset for the first time as initialization and with modified fully connected layers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cov-ti-net-transferred-initialization-with</guid>
+    </item>
+    <item>
+      <title>A Joint Imitation-Reinforcement Learning Framework for Reduced Baseline Regret</title>
+      <link>https://paperswithcode.com/paper/a-joint-imitation-reinforcement-learning</link>
+      <description><![CDATA[The learning process in JIRL assumes the availability of a baseline policy and is designed with two objectives in mind \textbf{(a)} leveraging the baseline's online demonstrations to minimize the regret w. r. t the baseline policy during training, and \textbf{(b)} eventually surpassing the baseline performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-joint-imitation-reinforcement-learning</guid>
+    </item>
+    <item>
       <title>Review of data types and model dimensionality for cardiac DTI SMS-related artefact removal</title>
       <link>https://paperswithcode.com/paper/review-of-data-types-and-model-dimensionality</link>
       <description><![CDATA[As diffusion tensor imaging (DTI) gains popularity in cardiac imaging due to its unique ability to non-invasively assess the cardiac microstructure, deep learning-based Artificial Intelligence is becoming a crucial tool in mitigating some of its drawbacks, such as the long scan times.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/review-of-data-types-and-model-dimensionality</guid>
+    </item>
+    <item>
+      <title>Cross-modal Learning for Image-Guided Point Cloud Shape Completion</title>
+      <link>https://paperswithcode.com/paper/cross-modal-learning-for-image-guided-point</link>
+      <description><![CDATA[In this paper we explore the recent topic of point cloud completion, guided by an auxiliary image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-learning-for-image-guided-point</guid>
     </item>
   </channel>
 </rss>
