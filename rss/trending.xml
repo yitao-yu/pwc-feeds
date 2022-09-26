@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Sep 2022 21:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2022 09:21:26 +0000</lastBuildDate>
     <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
       <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
     </item>
     <item>
-      <title>Plenoxels: Radiance Fields without Neural Networks</title>
-      <link>https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</link>
-      <description><![CDATA[We introduce Plenoxels (plenoptic voxels), a system for photorealistic view synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</guid>
-    </item>
-    <item>
       <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
       <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
       <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+    </item>
+    <item>
+      <title>Plenoxels: Radiance Fields without Neural Networks</title>
+      <link>https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</link>
+      <description><![CDATA[We introduce Plenoxels (plenoptic voxels), a system for photorealistic view synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</guid>
     </item>
     <item>
       <title>LAVIS: A Library for Language-Vision Intelligence</title>
@@ -57,22 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/segnext-rethinking-convolutional-attention</guid>
     </item>
     <item>
-      <title>From data to functa: Your data point is a function and you can treat it like one</title>
-      <link>https://paperswithcode.com/paper/from-data-to-functa-your-data-point-is-a</link>
-      <description><![CDATA[A powerful continuous alternative is then to represent these measurements using an implicit neural representation, a neural function trained to output the appropriate measurement value for any input spatial location.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-data-to-functa-your-data-point-is-a</guid>
-    </item>
-    <item>
-      <title>Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</title>
-      <link>https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</link>
-      <description><![CDATA[Over the past few years, the rapid development of deep learning technologies for computer vision has greatly promoted the performance of medical image segmentation (MedISeg).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</guid>
-    </item>
-    <item>
-      <title>USB: A Unified Semi-supervised Learning Benchmark</title>
-      <link>https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</link>
-      <description><![CDATA[Semi-supervised learning (SSL) improves model generalization by leveraging massive unlabeled data to augment limited labeled samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</guid>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
       <title>towhee</title>
@@ -81,16 +69,10 @@
       <guid isPermaLink="true">https://github.com/towhee-io/towhee</guid>
     </item>
     <item>
-      <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
-      <description><![CDATA[Diffusion models are a class of deep generative models that have shown impressive results on various tasks with a solid theoretical foundation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</guid>
-    </item>
-    <item>
-      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
-      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+      <title>USB: A Unified Semi-supervised Learning Benchmark</title>
+      <link>https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</link>
+      <description><![CDATA[Semi-supervised learning (SSL) improves model generalization by leveraging massive unlabeled data to augment limited labeled samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/usb-a-unified-semi-supervised-learning</guid>
     </item>
     <item>
       <title>IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective</title>
@@ -99,16 +81,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/iot-data-analytics-in-dynamic-environments</guid>
     </item>
     <item>
-      <title>Efficient Few-Shot Learning Without Prompts</title>
-      <link>https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</link>
-      <description><![CDATA[This simple framework requires no prompts or verbalizers, and achieves high accuracy with orders of magnitude less parameters than existing techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</guid>
+      <title>Deep Learning for Medical Image Segmentation: Tricks, Challenges and Future Directions</title>
+      <link>https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</link>
+      <description><![CDATA[Over the past few years, the rapid development of deep learning technologies for computer vision has greatly promoted the performance of medical image segmentation (MedISeg).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-for-medical-image-segmentation-1</guid>
     </item>
     <item>
-      <title>HiFuse: Hierarchical Multi-Scale Feature Fusion Network for Medical Image Classification</title>
-      <link>https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</link>
-      <description><![CDATA[A parallel hierarchy of local and global feature blocks is designed to efficiently extract local features and global representations at various semantic scales, with the flexibility to model at different scales and linear computational complexity relevant to image size.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</guid>
+      <title>From data to functa: Your data point is a function and you can treat it like one</title>
+      <link>https://paperswithcode.com/paper/from-data-to-functa-your-data-point-is-a</link>
+      <description><![CDATA[A powerful continuous alternative is then to represent these measurements using an implicit neural representation, a neural function trained to output the appropriate measurement value for any input spatial location.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/from-data-to-functa-your-data-point-is-a</guid>
+    </item>
+    <item>
+      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
+      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+    </item>
+    <item>
+      <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
+      <description><![CDATA[Diffusion models are a class of deep generative models that have shown impressive results on various tasks with a solid theoretical foundation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</guid>
     </item>
     <item>
       <title>Neural Architectures for Named Entity Recognition</title>
@@ -117,10 +111,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-architectures-for-named-entity</guid>
     </item>
     <item>
-      <title>ADBench: Anomaly Detection Benchmark</title>
-      <link>https://paperswithcode.com/paper/adbench-anomaly-detection-benchmark</link>
-      <description><![CDATA[Given a long list of anomaly detection algorithms developed in the last few decades, how do they perform with regard to (i) varying levels of supervision, (ii) different types of anomalies, and (iii) noisy and corrupted data?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adbench-anomaly-detection-benchmark</guid>
+      <title>HiFuse: Hierarchical Multi-Scale Feature Fusion Network for Medical Image Classification</title>
+      <link>https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</link>
+      <description><![CDATA[A parallel hierarchy of local and global feature blocks is designed to efficiently extract local features and global representations at various semantic scales, with the flexibility to model at different scales and linear computational complexity relevant to image size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hifuse-hierarchical-multi-scale-feature</guid>
+    </item>
+    <item>
+      <title>Efficient Few-Shot Learning Without Prompts</title>
+      <link>https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</link>
+      <description><![CDATA[This simple framework requires no prompts or verbalizers, and achieves high accuracy with orders of magnitude less parameters than existing techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</guid>
     </item>
     <item>
       <title>DI-engine</title>
