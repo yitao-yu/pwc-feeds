@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Sep 2022 21:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 09:20:32 +0000</lastBuildDate>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
       <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
       <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>Human Motion Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
+      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
+    </item>
+    <item>
+      <title>Efficient Few-Shot Learning Without Prompts</title>
+      <link>https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</link>
+      <description><![CDATA[This simple framework requires no prompts or verbalizers, and achieves high accuracy with orders of magnitude less parameters than existing techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</guid>
     </item>
     <item>
       <title>Learning to Learn with Generative Models of Neural Network Checkpoints</title>
@@ -27,10 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
     </item>
     <item>
-      <title>Efficient Few-Shot Learning Without Prompts</title>
-      <link>https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</link>
-      <description><![CDATA[This simple framework requires no prompts or verbalizers, and achieves high accuracy with orders of magnitude less parameters than existing techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</guid>
+      <title>KILT: a Benchmark for Knowledge Intensive Language Tasks</title>
+      <link>https://paperswithcode.com/paper/kilt-a-benchmark-for-knowledge-intensive</link>
+      <description><![CDATA[We test both task-specific and general baselines, evaluating downstream performance in addition to the ability of the models to provide provenance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kilt-a-benchmark-for-knowledge-intensive</guid>
     </item>
     <item>
       <title>LAVIS: A Library for Language-Vision Intelligence</title>
@@ -39,34 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lavis-a-library-for-language-vision</guid>
     </item>
     <item>
-      <title>Zero-Shot Text-Guided Object Generation with Dream Fields</title>
-      <link>https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</link>
-      <description><![CDATA[Our method, Dream Fields, can generate the geometry and color of a wide range of objects without 3D supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</guid>
-    </item>
-    <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
-    </item>
-    <item>
       <title>TVLT: Textless Vision-Language Transformer</title>
       <link>https://paperswithcode.com/paper/tvlt-textless-vision-language-transformer</link>
       <description><![CDATA[In this work, we present the Textless Vision-Language Transformer (TVLT), where homogeneous transformer blocks take raw visual and audio inputs for vision-and-language representation learning with minimal modality-specific design, and do not use text-specific modules such as tokenization or automatic speech recognition (ASR).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/tvlt-textless-vision-language-transformer</guid>
-    </item>
-    <item>
-      <title>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection</title>
-      <link>https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</link>
-      <description><![CDATA[Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</guid>
-    </item>
-    <item>
-      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
-      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
     </item>
     <item>
       <title>towhee</title>
@@ -75,10 +63,22 @@
       <guid isPermaLink="true">https://github.com/towhee-io/towhee</guid>
     </item>
     <item>
+      <title>Zero-Shot Text-Guided Object Generation with Dream Fields</title>
+      <link>https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</link>
+      <description><![CDATA[Our method, Dream Fields, can generate the geometry and color of a wide range of objects without 3D supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-guided-object-generation-with</guid>
+    </item>
+    <item>
       <title>Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks</title>
       <link>https://paperswithcode.com/paper/obj2seq-formatting-objects-as-sequences-with</link>
       <description><![CDATA[Obj2Seq is able to flexibly determine input categories to satisfy customized requirements, and be easily extended to different visual tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/obj2seq-formatting-objects-as-sequences-with</guid>
+    </item>
+    <item>
+      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
+      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
     </item>
     <item>
       <title>Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning</title>
@@ -87,10 +87,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/analog-bits-generating-discrete-data-using</guid>
     </item>
     <item>
+      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
+      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
+      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+    </item>
+    <item>
       <title>NP-Match: When Neural Processes meet Semi-Supervised Learning</title>
       <link>https://paperswithcode.com/paper/np-match-when-neural-processes-meet-semi</link>
       <description><![CDATA[Semi-supervised learning (SSL) has been widely explored in recent years, and it is an effective way of leveraging unlabeled data to reduce the reliance on labeled data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/np-match-when-neural-processes-meet-semi</guid>
+    </item>
+    <item>
+      <title>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection</title>
+      <link>https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</link>
+      <description><![CDATA[Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</guid>
     </item>
     <item>
       <title>Poisson Flow Generative Models</title>
@@ -105,28 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/segnext-rethinking-convolutional-attention</guid>
     </item>
     <item>
-      <title>Plenoxels: Radiance Fields without Neural Networks</title>
-      <link>https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</link>
-      <description><![CDATA[We introduce Plenoxels (plenoptic voxels), a system for photorealistic view synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/plenoxels-radiance-fields-without-neural</guid>
-    </item>
-    <item>
-      <title>Transformers in Time Series: A Survey</title>
-      <link>https://paperswithcode.com/paper/transformers-in-time-series-a-survey</link>
-      <description><![CDATA[To the best of our knowledge, this paper is the first work to comprehensively and systematically summarize the recent advances of Transformers for modeling time series data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-in-time-series-a-survey</guid>
-    </item>
-    <item>
-      <title>CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection</title>
-      <link>https://paperswithcode.com/paper/crossdtr-cross-view-and-depth-guided</link>
-      <description><![CDATA[To achieve accurate 3D object detection at a low cost for autonomous driving, many multi-camera methods have been proposed and solved the occlusion problem of monocular approaches.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/crossdtr-cross-view-and-depth-guided</guid>
-    </item>
-    <item>
-      <title>Diffusion Models: A Comprehensive Survey of Methods and Applications</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</link>
-      <description><![CDATA[Diffusion models are a class of deep generative models that have shown impressive results on various tasks with a solid theoretical foundation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-a-comprehensive-survey-of</guid>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
   </channel>
 </rss>
