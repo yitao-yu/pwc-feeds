@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 21:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 09:22:11 +0000</lastBuildDate>
     <item>
       <title>Human Motion Diffusion Model</title>
       <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
       <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
+    </item>
+    <item>
+      <title>TabDDPM: Modelling Tabular Data with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</link>
+      <description><![CDATA[Denoising diffusion probabilistic models are currently becoming the leading paradigm of generative modeling for many important data modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</guid>
     </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
@@ -27,12 +33,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
     </item>
     <item>
-      <title>Efficient Few-Shot Learning Without Prompts</title>
-      <link>https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</link>
-      <description><![CDATA[This simple framework requires no prompts or verbalizers, and achieves high accuracy with orders of magnitude less parameters than existing techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</guid>
-    </item>
-    <item>
       <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
       <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
       <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
@@ -45,34 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/offline-reinforcement-learning-with-implicit</guid>
     </item>
     <item>
+      <title>Efficient Few-Shot Learning Without Prompts</title>
+      <link>https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</link>
+      <description><![CDATA[This simple framework requires no prompts or verbalizers, and achieves high accuracy with orders of magnitude less parameters than existing techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-few-shot-learning-without-prompts</guid>
+    </item>
+    <item>
       <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
       <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
       <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
-    </item>
-    <item>
-      <title>LAVIS: A Library for Language-Vision Intelligence</title>
-      <link>https://paperswithcode.com/paper/lavis-a-library-for-language-vision</link>
-      <description><![CDATA[We introduce LAVIS, an open-source deep learning library for LAnguage-VISion research and applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lavis-a-library-for-language-vision</guid>
-    </item>
-    <item>
-      <title>EditEval: An Instruction-Based Benchmark for Text Improvements</title>
-      <link>https://paperswithcode.com/paper/editeval-an-instruction-based-benchmark-for</link>
-      <description><![CDATA[Evaluation of text generation to date has primarily focused on content created sequentially, rather than improvements on a piece of text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/editeval-an-instruction-based-benchmark-for</guid>
-    </item>
-    <item>
-      <title>Learning to Learn with Generative Models of Neural Network Checkpoints</title>
-      <link>https://paperswithcode.com/paper/learning-to-learn-with-generative-models-of</link>
-      <description><![CDATA[We explore a data-driven approach for learning to optimize neural networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-learn-with-generative-models-of</guid>
-    </item>
-    <item>
-      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
-      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
     </item>
     <item>
       <title>Dilated Neighborhood Attention Transformer</title>
@@ -81,16 +63,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dilated-neighborhood-attention-transformer</guid>
     </item>
     <item>
-      <title>towhee</title>
-      <link>https://github.com/towhee-io/towhee</link>
-      <description><![CDATA[Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.]]></description>
-      <guid isPermaLink="true">https://github.com/towhee-io/towhee</guid>
-    </item>
-    <item>
       <title>SoundStream: An End-to-End Neural Audio Codec</title>
       <link>https://paperswithcode.com/paper/soundstream-an-end-to-end-neural-audio-codec</link>
       <description><![CDATA[We present SoundStream, a novel neural audio codec that can efficiently compress speech, music and general audio at bitrates normally targeted by speech-tailored codecs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/soundstream-an-end-to-end-neural-audio-codec</guid>
+    </item>
+    <item>
+      <title>LAVIS: A Library for Language-Vision Intelligence</title>
+      <link>https://paperswithcode.com/paper/lavis-a-library-for-language-vision</link>
+      <description><![CDATA[We introduce LAVIS, an open-source deep learning library for LAnguage-VISion research and applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lavis-a-library-for-language-vision</guid>
+    </item>
+    <item>
+      <title>Protein structure generation via folding diffusion</title>
+      <link>https://paperswithcode.com/paper/protein-structure-generation-via-folding</link>
+      <description><![CDATA[The ability to computationally generate novel yet physically foldable protein structures could lead to new biological discoveries and new treatments targeting yet incurable diseases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/protein-structure-generation-via-folding</guid>
+    </item>
+    <item>
+      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
+      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
+      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
+    </item>
+    <item>
+      <title>rl</title>
+      <link>https://github.com/facebookresearch/rl</link>
+      <description><![CDATA[A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.]]></description>
+      <guid isPermaLink="true">https://github.com/facebookresearch/rl</guid>
     </item>
     <item>
       <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
@@ -99,10 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
     </item>
     <item>
-      <title>NP-Match: When Neural Processes meet Semi-Supervised Learning</title>
-      <link>https://paperswithcode.com/paper/np-match-when-neural-processes-meet-semi</link>
-      <description><![CDATA[Semi-supervised learning (SSL) has been widely explored in recent years, and it is an effective way of leveraging unlabeled data to reduce the reliance on labeled data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/np-match-when-neural-processes-meet-semi</guid>
+      <title>towhee</title>
+      <link>https://github.com/towhee-io/towhee</link>
+      <description><![CDATA[Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.]]></description>
+      <guid isPermaLink="true">https://github.com/towhee-io/towhee</guid>
     </item>
     <item>
       <title>Mega: Moving Average Equipped Gated Attention</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mega-moving-average-equipped-gated-attention</guid>
     </item>
     <item>
-      <title>TVLT: Textless Vision-Language Transformer</title>
-      <link>https://paperswithcode.com/paper/tvlt-textless-vision-language-transformer</link>
-      <description><![CDATA[In this work, we present the Textless Vision-Language Transformer (TVLT), where homogeneous transformer blocks take raw visual and audio inputs for vision-and-language representation learning with minimal modality-specific design, and do not use text-specific modules such as tokenization or automatic speech recognition (ASR).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tvlt-textless-vision-language-transformer</guid>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+    </item>
+    <item>
+      <title>EditEval: An Instruction-Based Benchmark for Text Improvements</title>
+      <link>https://paperswithcode.com/paper/editeval-an-instruction-based-benchmark-for</link>
+      <description><![CDATA[Evaluation of text generation to date has primarily focused on content created sequentially, rather than improvements on a piece of text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/editeval-an-instruction-based-benchmark-for</guid>
     </item>
     <item>
       <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title>
       <link>https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</link>
       <description><![CDATA[Under such a perspective, we propose pseudo numerical methods for diffusion models (PNDMs).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</guid>
-    </item>
-    <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
     </item>
   </channel>
 </rss>
