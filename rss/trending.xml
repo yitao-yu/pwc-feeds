@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Oct 2022 09:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 21:08:42 +0000</lastBuildDate>
+    <item>
+      <title>Ask Me Anything: A simple strategy for prompting language models</title>
+      <link>https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for</link>
+      <description><![CDATA[Prompting is a brittle process wherein small modifications to the prompt can cause large variations in the model predictions, and therefore significant effort is dedicated towards designing a painstakingly "perfect prompt" for a task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for</guid>
+    </item>
     <item>
       <title>DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking</title>
       <link>https://paperswithcode.com/paper/diffdock-diffusion-steps-twists-and-turns-for</link>
@@ -21,46 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
     </item>
     <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+      <title>clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP</title>
+      <link>https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</link>
+      <description><![CDATA[We introduce a new method to efficiently create text-to-image models from a pre-trained CLIP and StyleGAN.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</guid>
     </item>
     <item>
-      <title>Protein structure generation via folding diffusion</title>
-      <link>https://paperswithcode.com/paper/protein-structure-generation-via-folding</link>
-      <description><![CDATA[The ability to computationally generate novel yet physically foldable protein structures could lead to new biological discoveries and new treatments targeting yet incurable diseases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/protein-structure-generation-via-folding</guid>
-    </item>
-    <item>
-      <title>Offline Reinforcement Learning with Implicit Q-Learning</title>
-      <link>https://paperswithcode.com/paper/offline-reinforcement-learning-with-implicit</link>
-      <description><![CDATA[The main insight in our work is that, instead of evaluating unseen actions from the latest policy, we can approximate the policy improvement step implicitly by treating the state value function as a random variable, with randomness determined by the action (while still integrating over the dynamics to avoid excessive optimism), and then taking a state conditional upper expectile of this random variable to estimate the value of the best actions in that state.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/offline-reinforcement-learning-with-implicit</guid>
-    </item>
-    <item>
-      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
-      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
-      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
-    </item>
-    <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
-    </item>
-    <item>
-      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
-      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
-      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
-    </item>
-    <item>
-      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
-      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
-      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
+      <title>VICRegL: Self-Supervised Learning of Local Visual Features</title>
+      <link>https://paperswithcode.com/paper/vicregl-self-supervised-learning-of-local</link>
+      <description><![CDATA[Most recent self-supervised methods for learning image representations focus on either producing a global feature with invariance properties, or producing a set of local features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vicregl-self-supervised-learning-of-local</guid>
     </item>
     <item>
       <title>Human Motion Diffusion Model</title>
@@ -69,28 +45,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
     </item>
     <item>
-      <title>TabDDPM: Modelling Tabular Data with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</link>
-      <description><![CDATA[Denoising diffusion probabilistic models are currently becoming the leading paradigm of generative modeling for many important data modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</guid>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model</title>
-      <link>https://paperswithcode.com/paper/speechclip-integrating-speech-with-pre</link>
-      <description><![CDATA[Data-driven speech processing models usually perform well with a large amount of text supervision, but collecting transcribed speech data is costly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/speechclip-integrating-speech-with-pre</guid>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
     </item>
     <item>
-      <title>Dilated Neighborhood Attention Transformer</title>
-      <link>https://paperswithcode.com/paper/dilated-neighborhood-attention-transformer</link>
-      <description><![CDATA[These models typically employ localized attention mechanisms, such as the sliding-window Neighborhood Attention (NA) or Swin Transformer's Shifted Window Self Attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dilated-neighborhood-attention-transformer</guid>
+      <title>Protein structure generation via folding diffusion</title>
+      <link>https://paperswithcode.com/paper/protein-structure-generation-via-folding</link>
+      <description><![CDATA[The ability to computationally generate novel yet physically foldable protein structures could lead to new biological discoveries and new treatments targeting yet incurable diseases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/protein-structure-generation-via-folding</guid>
     </item>
     <item>
-      <title>rl</title>
-      <link>https://github.com/facebookresearch/rl</link>
-      <description><![CDATA[A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.]]></description>
-      <guid isPermaLink="true">https://github.com/facebookresearch/rl</guid>
+      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
+      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
+      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
+      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
+      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
+    </item>
+    <item>
+      <title>Offline Reinforcement Learning with Implicit Q-Learning</title>
+      <link>https://paperswithcode.com/paper/offline-reinforcement-learning-with-implicit</link>
+      <description><![CDATA[The main insight in our work is that, instead of evaluating unseen actions from the latest policy, we can approximate the policy improvement step implicitly by treating the state value function as a random variable, with randomness determined by the action (while still integrating over the dynamics to avoid excessive optimism), and then taking a state conditional upper expectile of this random variable to estimate the value of the best actions in that state.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/offline-reinforcement-learning-with-implicit</guid>
+    </item>
+    <item>
+      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
+      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
+      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
     </item>
     <item>
       <title>LAVIS: A Library for Language-Vision Intelligence</title>
@@ -99,16 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lavis-a-library-for-language-vision</guid>
     </item>
     <item>
-      <title>SoundStream: An End-to-End Neural Audio Codec</title>
-      <link>https://paperswithcode.com/paper/soundstream-an-end-to-end-neural-audio-codec</link>
-      <description><![CDATA[We present SoundStream, a novel neural audio codec that can efficiently compress speech, music and general audio at bitrates normally targeted by speech-tailored codecs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/soundstream-an-end-to-end-neural-audio-codec</guid>
+      <title>rl</title>
+      <link>https://github.com/facebookresearch/rl</link>
+      <description><![CDATA[A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.]]></description>
+      <guid isPermaLink="true">https://github.com/facebookresearch/rl</guid>
     </item>
     <item>
-      <title>VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training</title>
-      <link>https://paperswithcode.com/paper/vip-towards-universal-visual-reward-and</link>
-      <description><![CDATA[Given the inherent cost and scarcity of in-domain, task-specific robot data, learning from large, diverse, offline human videos has emerged as a promising path towards acquiring a generally useful visual representation for control; however, how these human videos can be used for general-purpose reward learning remains an open question.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vip-towards-universal-visual-reward-and</guid>
+      <title>TabDDPM: Modelling Tabular Data with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</link>
+      <description><![CDATA[Denoising diffusion probabilistic models are currently becoming the leading paradigm of generative modeling for many important data modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</guid>
     </item>
     <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
@@ -117,16 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
     </item>
     <item>
-      <title>Mintaka: A Complex, Natural, and Multilingual Dataset for End-to-End Question Answering</title>
-      <link>https://paperswithcode.com/paper/mintaka-a-complex-natural-and-multilingual</link>
-      <description><![CDATA[We introduce Mintaka, a complex, natural, and multilingual dataset designed for experimenting with end-to-end question-answering models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mintaka-a-complex-natural-and-multilingual</guid>
+      <title>SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model</title>
+      <link>https://paperswithcode.com/paper/speechclip-integrating-speech-with-pre</link>
+      <description><![CDATA[Data-driven speech processing models usually perform well with a large amount of text supervision, but collecting transcribed speech data is costly.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/speechclip-integrating-speech-with-pre</guid>
     </item>
     <item>
-      <title>IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis</title>
-      <link>https://paperswithcode.com/paper/intrinsicnerf-learning-intrinsic-neural</link>
-      <description><![CDATA[Given that intrinsic decomposition is a fundamentally ambiguous and under-constrained inverse problem, we propose a novel distance-aware point sampling and adaptive reflectance iterative clustering optimization method that enables IntrinsicNeRF with traditional intrinsic decomposition constraints to be trained in an unsupervised manner, resulting in temporally consistent intrinsic decomposition results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/intrinsicnerf-learning-intrinsic-neural</guid>
+      <title>Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection</title>
+      <link>https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</link>
+      <description><![CDATA[While recent camera-only 3D detection methods leverage multiple timesteps, the limited history they use significantly hampers the extent to which temporal fusion can improve object perception.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</guid>
+    </item>
+    <item>
+      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
+      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
     </item>
   </channel>
 </rss>
