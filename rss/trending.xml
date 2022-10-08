@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Oct 2022 09:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Oct 2022 21:08:23 +0000</lastBuildDate>
     <item>
       <title>Ask Me Anything: A simple strategy for prompting language models</title>
       <link>https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for</link>
@@ -27,6 +27,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
     </item>
     <item>
+      <title>Human Motion Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
+      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
+    </item>
+    <item>
       <title>clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP</title>
       <link>https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</link>
       <description><![CDATA[We introduce a new method to efficiently create text-to-image models from a pre-trained CLIP and StyleGAN.]]></description>
@@ -39,16 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vicregl-self-supervised-learning-of-local</guid>
     </item>
     <item>
-      <title>Human Motion Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
-      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
-    </item>
-    <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
       <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
       <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
+      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
+      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
     </item>
     <item>
       <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
@@ -63,10 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/protein-structure-generation-via-folding</guid>
     </item>
     <item>
-      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
-      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
-      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
+      <title>Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising</title>
+      <link>https://paperswithcode.com/paper/shape-light-material-decomposition-from</link>
+      <description><![CDATA[Unfortunately, Monte Carlo integration provides estimates with significant noise, even at large sample counts, which makes gradient-based inverse rendering very challenging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shape-light-material-decomposition-from</guid>
+    </item>
+    <item>
+      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
+      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
+      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
     </item>
     <item>
       <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
@@ -81,10 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/offline-reinforcement-learning-with-implicit</guid>
     </item>
     <item>
-      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
-      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
-      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
+      <title>TabDDPM: Modelling Tabular Data with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</link>
+      <description><![CDATA[Denoising diffusion probabilistic models are currently becoming the leading paradigm of generative modeling for many important data modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</guid>
+    </item>
+    <item>
+      <title>Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection</title>
+      <link>https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</link>
+      <description><![CDATA[While recent camera-only 3D detection methods leverage multiple timesteps, the limited history they use significantly hampers the extent to which temporal fusion can improve object perception.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</guid>
     </item>
     <item>
       <title>LAVIS: A Library for Language-Vision Intelligence</title>
@@ -93,34 +111,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lavis-a-library-for-language-vision</guid>
     </item>
     <item>
-      <title>rl</title>
-      <link>https://github.com/facebookresearch/rl</link>
-      <description><![CDATA[A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.]]></description>
-      <guid isPermaLink="true">https://github.com/facebookresearch/rl</guid>
-    </item>
-    <item>
-      <title>TabDDPM: Modelling Tabular Data with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</link>
-      <description><![CDATA[Denoising diffusion probabilistic models are currently becoming the leading paradigm of generative modeling for many important data modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tabddpm-modelling-tabular-data-with-diffusion</guid>
+      <title>Content-Based Search for Deep Generative Models</title>
+      <link>https://paperswithcode.com/paper/content-based-search-for-deep-generative</link>
+      <description><![CDATA[The growing proliferation of pretrained generative models has made it infeasible for a user to be fully cognizant of every model in existence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/content-based-search-for-deep-generative</guid>
     </item>
     <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
       <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
       <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
-    </item>
-    <item>
-      <title>SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model</title>
-      <link>https://paperswithcode.com/paper/speechclip-integrating-speech-with-pre</link>
-      <description><![CDATA[Data-driven speech processing models usually perform well with a large amount of text supervision, but collecting transcribed speech data is costly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/speechclip-integrating-speech-with-pre</guid>
-    </item>
-    <item>
-      <title>Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection</title>
-      <link>https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</link>
-      <description><![CDATA[While recent camera-only 3D detection methods leverage multiple timesteps, the limited history they use significantly hampers the extent to which temporal fusion can improve object perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</guid>
     </item>
     <item>
       <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
