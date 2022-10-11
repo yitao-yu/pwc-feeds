@@ -7,7 +7,25 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Oct 2022 21:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2022 21:10:53 +0000</lastBuildDate>
+    <item>
+      <title>Human Motion Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
+      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
+    </item>
+    <item>
+      <title>NerfAcc: A General NeRF Acceleration Toolbox</title>
+      <link>https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</link>
+      <description><![CDATA[We propose NerfAcc, a toolbox for efficient volumetric rendering of radiance fields.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</guid>
+    </item>
+    <item>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+    </item>
     <item>
       <title>Ask Me Anything: A simple strategy for prompting language models</title>
       <link>https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for</link>
@@ -21,52 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/content-based-search-for-deep-generative</guid>
     </item>
     <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
-    </item>
-    <item>
-      <title>Human Motion Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
-      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
-    </item>
-    <item>
-      <title>DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking</title>
-      <link>https://paperswithcode.com/paper/diffdock-diffusion-steps-twists-and-turns-for</link>
-      <description><![CDATA[Predicting the binding structure of a small molecule ligand to a protein -- a task known as molecular docking -- is critical to drug design.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffdock-diffusion-steps-twists-and-turns-for</guid>
-    </item>
-    <item>
-      <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
-      <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
-      <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
-    </item>
-    <item>
-      <title>An Efficient Person Clustering Algorithm for Open Checkout-free Groceries</title>
-      <link>https://paperswithcode.com/paper/an-efficient-person-clustering-algorithm-for</link>
-      <description><![CDATA[Then, to ensure that the method adapts to the dynamic and unseen person flow, we propose Graph Convolutional Network (GCN) with a simple Nearest Neighbor (NN) strategy to accurately cluster the instances of CSG.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-efficient-person-clustering-algorithm-for</guid>
-    </item>
-    <item>
-      <title>VICRegL: Self-Supervised Learning of Local Visual Features</title>
-      <link>https://paperswithcode.com/paper/vicregl-self-supervised-learning-of-local</link>
-      <description><![CDATA[Most recent self-supervised methods for learning image representations focus on either producing a global feature with invariance properties, or producing a set of local features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vicregl-self-supervised-learning-of-local</guid>
-    </item>
-    <item>
-      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
-      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
-      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
-    </item>
-    <item>
-      <title>clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP</title>
-      <link>https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</link>
-      <description><![CDATA[We introduce a new method to efficiently create text-to-image models from a pre-trained CLIP and StyleGAN.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</guid>
+      <title>DigiFace-1M: 1 Million Digital Face Images for Face Recognition</title>
+      <link>https://paperswithcode.com/paper/digiface-1m-1-million-digital-face-images-for</link>
+      <description><![CDATA[Such models are trained on large-scale datasets that contain millions of real human face images collected from the internet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/digiface-1m-1-million-digital-face-images-for</guid>
     </item>
     <item>
       <title>Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising</title>
@@ -75,10 +51,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/shape-light-material-decomposition-from</guid>
     </item>
     <item>
+      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
+      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+    </item>
+    <item>
+      <title>An Efficient Person Clustering Algorithm for Open Checkout-free Groceries</title>
+      <link>https://paperswithcode.com/paper/an-efficient-person-clustering-algorithm-for</link>
+      <description><![CDATA[Then, to ensure that the method adapts to the dynamic and unseen person flow, we propose Graph Convolutional Network (GCN) with a simple Nearest Neighbor (NN) strategy to accurately cluster the instances of CSG.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-efficient-person-clustering-algorithm-for</guid>
+    </item>
+    <item>
+      <title>clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP</title>
+      <link>https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</link>
+      <description><![CDATA[We introduce a new method to efficiently create text-to-image models from a pre-trained CLIP and StyleGAN.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clip2latent-text-driven-sampling-of-a-pre</guid>
+    </item>
+    <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
       <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
       <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
+      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
+      <description><![CDATA[To address this issue, we proposed a semi-supervised segmentation network based on contrastive learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection</title>
+      <link>https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</link>
+      <description><![CDATA[Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</guid>
+    </item>
+    <item>
+      <title>Improved Training of Wasserstein GANs</title>
+      <link>https://paperswithcode.com/paper/improved-training-of-wasserstein-gans</link>
+      <description><![CDATA[Generative Adversarial Networks (GANs) are powerful generative models, but suffer from training instability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-training-of-wasserstein-gans</guid>
+    </item>
+    <item>
+      <title>Wasserstein GAN</title>
+      <link>https://paperswithcode.com/paper/wasserstein-gan</link>
+      <description><![CDATA[We introduce a new algorithm named WGAN, an alternative to traditional GAN training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wasserstein-gan</guid>
+    </item>
+    <item>
+      <title>Generating Multi-Categorical Samples with Generative Adversarial Networks</title>
+      <link>https://paperswithcode.com/paper/generating-multi-categorical-samples-with</link>
+      <description><![CDATA[We propose a method to train generative adversarial networks on mutivariate feature vectors representing multiple categorical values.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-multi-categorical-samples-with</guid>
     </item>
     <item>
       <title>TEACH: Temporal Action Composition for 3D Humans</title>
@@ -87,10 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/teach-temporal-action-composition-for-3d</guid>
     </item>
     <item>
-      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
-      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+      <title>Automatic Chain of Thought Prompting in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/automatic-chain-of-thought-prompting-in-large</link>
+      <description><![CDATA[Providing these steps for prompting demonstrations is called chain-of-thought (CoT) prompting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-chain-of-thought-prompting-in-large</guid>
     </item>
     <item>
       <title>Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection</title>
@@ -99,34 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</guid>
     </item>
     <item>
-      <title>Capturing and Animation of Body and Clothing from Monocular Video</title>
-      <link>https://paperswithcode.com/paper/capturing-and-animation-of-body-and-clothing</link>
-      <description><![CDATA[Building on this insight, we propose SCARF (Segmented Clothed Avatar Radiance Field), a hybrid model combining a mesh-based body with a neural radiance field.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/capturing-and-animation-of-body-and-clothing</guid>
-    </item>
-    <item>
-      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
-      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
-      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
-    </item>
-    <item>
-      <title>VIMA: General Robot Manipulation with Multimodal Prompts</title>
-      <link>https://paperswithcode.com/paper/vima-general-robot-manipulation-with</link>
-      <description><![CDATA[This work shows that we can express a wide spectrum of robot manipulation tasks with multimodal prompts, interleaving textual and visual tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vima-general-robot-manipulation-with</guid>
-    </item>
-    <item>
-      <title>Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild</title>
-      <link>https://paperswithcode.com/paper/gradio-hassle-free-sharing-and-testing-of-ml</link>
-      <description><![CDATA[Their feedback identified that Gradio should support a variety of interfaces and frameworks, allow for easy sharing of the interface, allow for input manipulation and interactive inference by the domain expert, as well as allow embedding the interface in iPython notebooks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gradio-hassle-free-sharing-and-testing-of-ml</guid>
-    </item>
-    <item>
-      <title>Wasserstein GAN</title>
-      <link>https://paperswithcode.com/paper/wasserstein-gan</link>
-      <description><![CDATA[We introduce a new algorithm named WGAN, an alternative to traditional GAN training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wasserstein-gan</guid>
+      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
+      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
+      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
     </item>
   </channel>
 </rss>
