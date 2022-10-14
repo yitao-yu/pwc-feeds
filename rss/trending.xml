@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Oct 2022 21:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2022 09:22:28 +0000</lastBuildDate>
     <item>
       <title>NerfAcc: A General NeRF Acceleration Toolbox</title>
       <link>https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</link>
@@ -21,16 +21,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
     </item>
     <item>
+      <title>Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization</title>
+      <link>https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</link>
+      <description><![CDATA[Vizier is the de-facto blackbox and hyperparameter optimization service across Google, having optimized some of Google's largest products and research efforts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</guid>
+    </item>
+    <item>
+      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
+      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
+      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
+    </item>
+    <item>
       <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
       <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
       <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
     </item>
     <item>
-      <title>Content-Based Search for Deep Generative Models</title>
-      <link>https://paperswithcode.com/paper/content-based-search-for-deep-generative</link>
-      <description><![CDATA[The growing proliferation of pretrained generative models has made it infeasible for a user to be fully cognizant of every model in existence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/content-based-search-for-deep-generative</guid>
+      <title>Phenaki: Variable Length Video Generation From Open Domain Textual Description</title>
+      <link>https://paperswithcode.com/paper/phenaki-variable-length-video-generation-from</link>
+      <description><![CDATA[To the best of our knowledge, this is the first time a paper studies generating videos from time variable prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/phenaki-variable-length-video-generation-from</guid>
+    </item>
+    <item>
+      <title>Point Transformer V2: Grouped Vector Attention and Partition-based Pooling</title>
+      <link>https://paperswithcode.com/paper/point-transformer-v2-grouped-vector-attention</link>
+      <description><![CDATA[In this work, we analyze the limitations of the Point Transformer and propose our powerful and efficient Point Transformer V2 model with novel designs that overcome the limitations of previous work.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-transformer-v2-grouped-vector-attention</guid>
+    </item>
+    <item>
+      <title>Map-free Visual Relocalization: Metric Pose Relative to a Single Image</title>
+      <link>https://paperswithcode.com/paper/map-free-visual-relocalization-metric-pose</link>
+      <description><![CDATA[Can we relocalize in a scene represented by a single reference image?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-free-visual-relocalization-metric-pose</guid>
+    </item>
+    <item>
+      <title>Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design</title>
+      <link>https://paperswithcode.com/paper/equivariant-3d-conditional-diffusion-models</link>
+      <description><![CDATA[Additionally, the model automatically determines the number of atoms in the linker and its attachment points to the input fragments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/equivariant-3d-conditional-diffusion-models</guid>
     </item>
     <item>
       <title>DigiFace-1M: 1 Million Digital Face Images for Face Recognition</title>
@@ -39,34 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/digiface-1m-1-million-digital-face-images-for</guid>
     </item>
     <item>
-      <title>Ask Me Anything: A simple strategy for prompting language models</title>
-      <link>https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for</link>
-      <description><![CDATA[Prompting is a brittle process wherein small modifications to the prompt can cause large variations in the model predictions, and therefore significant effort is dedicated towards designing a painstakingly "perfect prompt" for a task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for</guid>
-    </item>
-    <item>
       <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
       <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
       <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
-    </item>
-    <item>
-      <title>Advancing Model Pruning via Bi-level Optimization</title>
-      <link>https://paperswithcode.com/paper/advancing-model-pruning-via-bi-level</link>
-      <description><![CDATA[To reduce the computation overhead, various efficient 'one-shot' pruning methods have been developed, but these schemes are usually unable to find winning tickets as good as IMP.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/advancing-model-pruning-via-bi-level</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
-      <title>An Efficient Person Clustering Algorithm for Open Checkout-free Groceries</title>
-      <link>https://paperswithcode.com/paper/an-efficient-person-clustering-algorithm-for</link>
-      <description><![CDATA[Then, to ensure that the method adapts to the dynamic and unseen person flow, we propose Graph Convolutional Network (GCN) with a simple Nearest Neighbor (NN) strategy to accurately cluster the instances of CSG.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-efficient-person-clustering-algorithm-for</guid>
     </item>
     <item>
       <title>MaxViT: Multi-Axis Vision Transformer</title>
@@ -75,58 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/maxvit-multi-axis-vision-transformer</guid>
     </item>
     <item>
+      <title>Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance</title>
+      <link>https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</link>
+      <description><![CDATA[The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (e. g., Gaussian) latent space of GANs, VAEs, and normalizing flows.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</guid>
+    </item>
+    <item>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory</title>
+      <link>https://paperswithcode.com/paper/clip-fields-weakly-supervised-semantic-fields</link>
+      <description><![CDATA[We propose CLIP-Fields, an implicit scene model that can be trained with no direct human supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clip-fields-weakly-supervised-semantic-fields</guid>
+    </item>
+    <item>
+      <title>Advancing Model Pruning via Bi-level Optimization</title>
+      <link>https://paperswithcode.com/paper/advancing-model-pruning-via-bi-level</link>
+      <description><![CDATA[To reduce the computation overhead, various efficient 'one-shot' pruning methods have been developed, but these schemes are usually unable to find winning tickets as good as IMP.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/advancing-model-pruning-via-bi-level</guid>
+    </item>
+    <item>
       <title>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection</title>
       <link>https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</link>
       <description><![CDATA[Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</guid>
     </item>
     <item>
-      <title>Generating Multi-Categorical Samples with Generative Adversarial Networks</title>
-      <link>https://paperswithcode.com/paper/generating-multi-categorical-samples-with</link>
-      <description><![CDATA[We propose a method to train generative adversarial networks on mutivariate feature vectors representing multiple categorical values.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-multi-categorical-samples-with</guid>
+      <title>Content-Based Search for Deep Generative Models</title>
+      <link>https://paperswithcode.com/paper/content-based-search-for-deep-generative</link>
+      <description><![CDATA[The growing proliferation of pretrained generative models has made it infeasible for a user to be fully cognizant of every model in existence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/content-based-search-for-deep-generative</guid>
     </item>
     <item>
-      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
-      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
-      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
+      <title>A Kernel-Based View of Language Model Fine-Tuning</title>
+      <link>https://paperswithcode.com/paper/a-kernel-based-view-of-language-model-fine</link>
+      <description><![CDATA[It has become standard to solve NLP tasks by fine-tuning pre-trained language models (LMs), especially in low-data settings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-kernel-based-view-of-language-model-fine</guid>
     </item>
     <item>
-      <title>Wasserstein GAN</title>
-      <link>https://paperswithcode.com/paper/wasserstein-gan</link>
-      <description><![CDATA[We introduce a new algorithm named WGAN, an alternative to traditional GAN training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wasserstein-gan</guid>
-    </item>
-    <item>
-      <title>Improved Training of Wasserstein GANs</title>
-      <link>https://paperswithcode.com/paper/improved-training-of-wasserstein-gans</link>
-      <description><![CDATA[Generative Adversarial Networks (GANs) are powerful generative models, but suffer from training instability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-training-of-wasserstein-gans</guid>
-    </item>
-    <item>
-      <title>Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection</title>
-      <link>https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</link>
-      <description><![CDATA[While recent camera-only 3D detection methods leverage multiple timesteps, the limited history they use significantly hampers the extent to which temporal fusion can improve object perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/time-will-tell-new-outlooks-and-a-baseline</guid>
-    </item>
-    <item>
-      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
-      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
-    </item>
-    <item>
-      <title>Automated Side Channel Analysis of Media Software with Manifold Learning</title>
-      <link>https://paperswithcode.com/paper/automated-side-channel-analysis-of-media</link>
-      <description><![CDATA[Recent advances in representation learning and perceptual learning inspired us to consider the reconstruction of media inputs from side channel traces as a cross-modality manifold learning task that can be addressed in a unified manner with an autoencoder framework trained to learn the mapping between media inputs and side channel observations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automated-side-channel-analysis-of-media</guid>
-    </item>
-    <item>
-      <title>DeepNet: Scaling Transformers to 1,000 Layers</title>
-      <link>https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</link>
-      <description><![CDATA[In this paper, we propose a simple yet effective method to stabilize extremely deep Transformers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</guid>
+      <title>Markup-to-Image Diffusion Models with Scheduled Sampling</title>
+      <link>https://paperswithcode.com/paper/markup-to-image-diffusion-models-with</link>
+      <description><![CDATA[These experiments each verify the effectiveness of the diffusion process and the use of scheduled sampling to fix generation issues.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/markup-to-image-diffusion-models-with</guid>
     </item>
   </channel>
 </rss>
