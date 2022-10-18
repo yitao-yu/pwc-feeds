@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Oct 2022 09:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2022 21:09:15 +0000</lastBuildDate>
     <item>
-      <title>Teacher Forcing Recovers Reward Functions for Text Generation</title>
-      <link>https://paperswithcode.com/paper/teacher-forcing-recovers-reward-functions-for</link>
-      <description><![CDATA[We additionally propose a simple modification to stabilize the RL training on non-parallel datasets with our induced reward function.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/teacher-forcing-recovers-reward-functions-for</guid>
+      <title>Principled Pruning of Bayesian Neural Networks through Variational Free Energy Minimization</title>
+      <link>https://paperswithcode.com/paper/principled-pruning-of-bayesian-neural</link>
+      <description><![CDATA[Bayesian model reduction provides an efficient approach for comparing the performance of all nested sub-models of a model, without re-evaluating any of these sub-models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/principled-pruning-of-bayesian-neural</guid>
     </item>
     <item>
       <title>Unifying Graph Contrastive Learning with Flexible Contextual Scopes</title>
@@ -21,154 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-graph-contrastive-learning-with</guid>
     </item>
     <item>
-      <title>Principled Pruning of Bayesian Neural Networks through Variational Free Energy Minimization</title>
-      <link>https://paperswithcode.com/paper/principled-pruning-of-bayesian-neural</link>
-      <description><![CDATA[Bayesian model reduction provides an efficient approach for comparing the performance of all nested sub-models of a model, without re-evaluating any of these sub-models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/principled-pruning-of-bayesian-neural</guid>
-    </item>
-    <item>
-      <title>Towards Relation Extraction From Speech</title>
-      <link>https://paperswithcode.com/paper/towards-relation-extraction-from-speech</link>
-      <description><![CDATA[We explore speech relation extraction via two approaches: the pipeline approach conducting text-based extraction with a pretrained ASR module, and the end2end approach via a new proposed encoder-decoder model, or what we called SpeechRE.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-relation-extraction-from-speech</guid>
-    </item>
-    <item>
-      <title>Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization</title>
-      <link>https://paperswithcode.com/paper/learning-instructions-with-unlabeled-data-for</link>
-      <description><![CDATA[Recently, instruction tuning (IT), which fine-tunes a pre-trained language model on a massive collection of tasks described via human-craft instructions, has been shown effective in instruction learning for unseen tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-instructions-with-unlabeled-data-for</guid>
-    </item>
-    <item>
-      <title>Inferring Versatile Behavior from Demonstrations by Matching Geometric Descriptors</title>
-      <link>https://paperswithcode.com/paper/inferring-versatile-behavior-from</link>
-      <description><![CDATA[We find that the geometric descriptors greatly help in generalizing to new task configurations and that combining them with our distribution-matching objective is crucial for representing and reproducing versatile behavior.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inferring-versatile-behavior-from</guid>
-    </item>
-    <item>
-      <title>MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion</title>
-      <link>https://paperswithcode.com/paper/mose-modality-split-and-ensemble-for</link>
-      <description><![CDATA[Based on these embeddings, in the inference phase, we first make modality-split predictions and then exploit various ensemble methods to combine the predictions with different weights, which models the modality importance dynamically.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mose-modality-split-and-ensemble-for</guid>
-    </item>
-    <item>
-      <title>Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning</title>
-      <link>https://paperswithcode.com/paper/thinking-two-moves-ahead-anticipating-other</link>
-      <description><![CDATA[Federated learning is particularly susceptible to model poisoning and backdoor attacks because individual users have direct control over the training data and model updates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thinking-two-moves-ahead-anticipating-other</guid>
-    </item>
-    <item>
-      <title>Prompting GPT-3 To Be Reliable</title>
-      <link>https://paperswithcode.com/paper/prompting-gpt-3-to-be-reliable</link>
-      <description><![CDATA[Large language models (LLMs) show impressive abilities via few-shot prompting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompting-gpt-3-to-be-reliable</guid>
-    </item>
-    <item>
-      <title>On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/on-uncertainty-in-deep-state-space-models-for</link>
-      <description><![CDATA[We show that RSSMs use a suboptimal inference scheme and that models trained using this inference overestimate the aleatoric uncertainty of the ground truth system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-uncertainty-in-deep-state-space-models-for</guid>
-    </item>
-    <item>
-      <title>How do we get there? Evaluating transformer neural networks as cognitive models for English past tense inflection</title>
-      <link>https://paperswithcode.com/paper/how-do-we-get-there-evaluating-transformer-1</link>
-      <description><![CDATA[The different behaviors on the regulars and irregulars suggest that the models have some degree of symbolic learning on the regularity of the verbs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-do-we-get-there-evaluating-transformer-1</guid>
-    </item>
-    <item>
-      <title>Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive Learning Framework for OOD Intent Discovery</title>
-      <link>https://paperswithcode.com/paper/watch-the-neighbors-a-unified-k-nearest</link>
-      <description><![CDATA[For OOD clustering stage, we propose a KCC method to form compact clusters by mining true hard negative samples, which bridges the gap between clustering and representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/watch-the-neighbors-a-unified-k-nearest</guid>
-    </item>
-    <item>
-      <title>Joint Multilingual Knowledge Graph Completion and Alignment</title>
-      <link>https://paperswithcode.com/paper/joint-multilingual-knowledge-graph-completion</link>
-      <description><![CDATA[The proposed model combines two components that jointly accomplish KG completion and alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/joint-multilingual-knowledge-graph-completion</guid>
-    </item>
-    <item>
-      <title>KPI-EDGAR: A Novel Dataset and Accompanying Metric for Relation Extraction from Financial Documents</title>
-      <link>https://paperswithcode.com/paper/kpi-edgar-a-novel-dataset-and-accompanying</link>
-      <description><![CDATA[We introduce KPI-EDGAR, a novel dataset for Joint Named Entity Recognition and Relation Extraction building on financial reports uploaded to the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system, where the main objective is to extract Key Performance Indicators (KPIs) from financial documents and link them to their numerical values and other attributes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kpi-edgar-a-novel-dataset-and-accompanying</guid>
-    </item>
-    <item>
-      <title>Systematic Evaluation of Predictive Fairness</title>
-      <link>https://paperswithcode.com/paper/systematic-evaluation-of-predictive-fairness</link>
-      <description><![CDATA[Mitigating bias in training on biased datasets is an important open problem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/systematic-evaluation-of-predictive-fairness</guid>
-    </item>
-    <item>
-      <title>PARTIME: Scalable and Parallel Processing Over Time with Deep Neural Networks</title>
-      <link>https://paperswithcode.com/paper/partime-scalable-and-parallel-processing-over</link>
-      <description><![CDATA[nature of the streamed data with samples that are smoothly evolving over time for efficient gradient computations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/partime-scalable-and-parallel-processing-over</guid>
-    </item>
-    <item>
-      <title>Statistical, Robustness, and Computational Guarantees for Sliced Wasserstein Distances</title>
-      <link>https://paperswithcode.com/paper/statistical-robustness-and-computational</link>
-      <description><![CDATA[The goal of this work is to quantify this scalability from three key aspects: (i) empirical convergence rates; (ii) robustness to data contamination; and (iii) efficient computational methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/statistical-robustness-and-computational</guid>
-    </item>
-    <item>
-      <title>Towards Robust k-Nearest-Neighbor Machine Translation</title>
-      <link>https://paperswithcode.com/paper/towards-robust-k-nearest-neighbor-machine</link>
-      <description><![CDATA[Meanwhile we inject two types of perturbations into the retrieved pairs for robust training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-k-nearest-neighbor-machine</guid>
-    </item>
-    <item>
-      <title>DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</link>
-      <description><![CDATA[Recently, diffusion models have emerged as a new paradigm for generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</guid>
-    </item>
-    <item>
-      <title>HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks</title>
-      <link>https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</link>
-      <description><![CDATA[We apply this parameterization to the state-of-art domain adaptation methods and show that it has almost the same expressiveness as the full parameter space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</guid>
-    </item>
-    <item>
-      <title>Scaling &amp; Shifting Your Features: A New Baseline for Efficient Model Tuning</title>
-      <link>https://paperswithcode.com/paper/scaling-shifting-your-features-a-new-baseline</link>
-      <description><![CDATA[With the proposed SSF, our model obtains 2. 46% (90. 72% vs. 88. 54%) and 11. 48% (73. 10% vs. 65. 57%) performance improvement on FGVC and VTAB-1k in terms of Top-1 accuracy compared to the full fine-tuning but only fine-tuning about 0. 3M parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-shifting-your-features-a-new-baseline</guid>
-    </item>
-    <item>
-      <title>A Generative User Simulator with GPT-based Architecture and Goal State Tracking for Reinforced Multi-Domain Dialog Systems</title>
-      <link>https://paperswithcode.com/paper/a-generative-user-simulator-with-gpt-based</link>
-      <description><![CDATA[Second, an important ingredient in a US is that the user goal can be effectively incorporated and tracked; but how to flexibly integrate goal state tracking and develop an end-to-end trainable US for multi-domains has remained to be a challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-generative-user-simulator-with-gpt-based</guid>
-    </item>
-    <item>
-      <title>Flipped Classroom: Effective Teaching for Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/flipped-classroom-effective-teaching-for-time</link>
-      <description><![CDATA[Although scheduled sampling seems to be a convincing alternative to FR and TF, we found that, even if parametrized carefully, scheduled sampling may lead to premature termination of the training when applied for time series forecasting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flipped-classroom-effective-teaching-for-time</guid>
-    </item>
-    <item>
-      <title>Unsupervised Object-Centric Learning with Bi-Level Optimized Query Slot Attention</title>
-      <link>https://paperswithcode.com/paper/unsupervised-object-centric-learning-with-bi</link>
-      <description><![CDATA[We hope our effort could provide a single home for the design and learning of slot-based models and pave the way for more challenging tasks in object-centric learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-object-centric-learning-with-bi</guid>
-    </item>
-    <item>
-      <title>What Makes Convolutional Models Great on Long Sequence Modeling?</title>
-      <link>https://paperswithcode.com/paper/what-makes-convolutional-models-great-on-long</link>
-      <description><![CDATA[We focus on the structure of the convolution kernel and identify two critical but intuitive principles enjoyed by S4 that are sufficient to make up an effective global convolutional model: 1) The parameterization of the convolutional kernel needs to be efficient in the sense that the number of parameters should scale sub-linearly with sequence length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-makes-convolutional-models-great-on-long</guid>
-    </item>
-    <item>
-      <title>Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training</title>
-      <link>https://paperswithcode.com/paper/plug-and-play-vqa-zero-shot-vqa-by-conjoining</link>
-      <description><![CDATA[Visual question answering (VQA) is a hallmark of vision and language reasoning and a challenging task under the zero-shot setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/plug-and-play-vqa-zero-shot-vqa-by-conjoining</guid>
-    </item>
-    <item>
-      <title>Sparse Kronecker Product Decomposition: A General Framework of Signal Region Detection in Image Regression</title>
-      <link>https://paperswithcode.com/paper/sparse-kronecker-product-decomposition-a</link>
-      <description><![CDATA[This paper aims to present the first Frequentist framework on signal region detection in high-resolution and high-order image regression problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-kronecker-product-decomposition-a</guid>
+      <title>Teacher Forcing Recovers Reward Functions for Text Generation</title>
+      <link>https://paperswithcode.com/paper/teacher-forcing-recovers-reward-functions-for</link>
+      <description><![CDATA[We additionally propose a simple modification to stabilize the RL training on non-parallel datasets with our induced reward function.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/teacher-forcing-recovers-reward-functions-for</guid>
     </item>
     <item>
       <title>A Unified Positive-Unlabeled Learning Framework for Document-Level Relation Extraction with Different Levels of Labeling</title>
@@ -177,82 +33,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-unified-positive-unlabeled-learning</guid>
     </item>
     <item>
-      <title>GeoThermalCloud: Machine Learning for Geothermal Resource Exploration</title>
-      <link>https://paperswithcode.com/paper/geothermalcloud-machine-learning-for</link>
-      <description><![CDATA[Crucial geothermal signatures often overlooked in traditional PFA are extracted using the GeoThermalCloud and analyzed by the subject matter experts to provide ML-enhanced PFA, which is informative for efficient exploration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/geothermalcloud-machine-learning-for</guid>
-    </item>
-    <item>
-      <title>Runner-Up Solution to Google Universal Image Embedding Competition 2022</title>
-      <link>https://paperswithcode.com/paper/runner-up-solution-to-google-universal-image</link>
-      <description><![CDATA[Image representations are a critical building block of computer vision applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/runner-up-solution-to-google-universal-image</guid>
-    </item>
-    <item>
       <title>Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention</title>
       <link>https://paperswithcode.com/paper/attention-attention-everywhere-monocular</link>
       <description><![CDATA[Typically, a skip connection module is used to fuse the encoder and decoder features, which comprises of feature map concatenation followed by a convolution operation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/attention-attention-everywhere-monocular</guid>
     </item>
     <item>
-      <title>Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels</title>
-      <link>https://paperswithcode.com/paper/bootstrapping-the-relationship-between-images</link>
-      <description><![CDATA[Many state-of-the-art noisy-label learning methods rely on learning mechanisms that estimate the samples' clean labels during training and discard their original noisy labels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapping-the-relationship-between-images</guid>
+      <title>KPI-EDGAR: A Novel Dataset and Accompanying Metric for Relation Extraction from Financial Documents</title>
+      <link>https://paperswithcode.com/paper/kpi-edgar-a-novel-dataset-and-accompanying</link>
+      <description><![CDATA[We introduce KPI-EDGAR, a novel dataset for Joint Named Entity Recognition and Relation Extraction building on financial reports uploaded to the Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system, where the main objective is to extract Key Performance Indicators (KPIs) from financial documents and link them to their numerical values and other attributes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kpi-edgar-a-novel-dataset-and-accompanying</guid>
     </item>
     <item>
-      <title>EISeg: An Efficient Interactive Segmentation Annotation Tool based on PaddlePaddle</title>
-      <link>https://paperswithcode.com/paper/eiseg-an-efficient-interactive-segmentation</link>
-      <description><![CDATA[In recent years, the rapid development of deep learning has brought great advancements to image and video segmentation methods based on neural networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eiseg-an-efficient-interactive-segmentation</guid>
+      <title>DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</link>
+      <description><![CDATA[Recently, diffusion models have emerged as a new paradigm for generative models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</guid>
     </item>
     <item>
-      <title>TIVE: A Toolbox for Identifying Video Instance Segmentation Errors</title>
-      <link>https://paperswithcode.com/paper/tive-a-toolbox-for-identifying-video-instance</link>
-      <description><![CDATA[More importantly, as the fundamental model abilities demanded by the task, spatial segmentation and temporal association are still understudied in both evaluation and interaction mechanisms.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tive-a-toolbox-for-identifying-video-instance</guid>
-    </item>
-    <item>
-      <title>Distilling Object Detectors With Global Knowledge</title>
-      <link>https://paperswithcode.com/paper/distilling-object-detectors-with-global</link>
-      <description><![CDATA[Then, a robust distilling module (RDM) is applied to construct the global knowledge based on the prototypes and filtrate noisy global and local knowledge by measuring the discrepancy of the representations in two feature spaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distilling-object-detectors-with-global</guid>
-    </item>
-    <item>
-      <title>An Open-source Benchmark of Deep Learning Models for Audio-visual Apparent and Self-reported Personality Recognition</title>
-      <link>https://paperswithcode.com/paper/an-open-source-benchmark-of-deep-learning</link>
-      <description><![CDATA[Personality is crucial for understanding human internal and external states.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-open-source-benchmark-of-deep-learning</guid>
-    </item>
-    <item>
-      <title>ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints</title>
-      <link>https://paperswithcode.com/paper/artfacepoints-high-resolution-facial-landmark</link>
-      <description><![CDATA[Facial landmark detection plays an important role for the similarity analysis in artworks to compare portraits of the same or similar artists.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/artfacepoints-high-resolution-facial-landmark</guid>
-    </item>
-    <item>
-      <title>Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation</title>
-      <link>https://paperswithcode.com/paper/supervised-prototypical-contrastive-learning</link>
-      <description><![CDATA[Capturing emotions within a conversation plays an essential role in modern dialogue systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/supervised-prototypical-contrastive-learning</guid>
-    </item>
-    <item>
-      <title>Effective and Efficient Query-aware Snippet Extraction for Web Search</title>
-      <link>https://paperswithcode.com/paper/effective-and-efficient-query-aware-snippet</link>
-      <description><![CDATA[In this paper, we propose an effective query-aware webpage snippet extraction method named DeepQSE, aiming to select a few sentences which can best summarize the webpage content in the context of input query.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-and-efficient-query-aware-snippet</guid>
-    </item>
-    <item>
-      <title>A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities</title>
-      <link>https://paperswithcode.com/paper/a-i-robustness-a-human-centered-perspective</link>
-      <description><![CDATA[Despite the impressive performance of Artificial Intelligence (AI) systems, their robustness remains elusive and constitutes a key issue that impedes large-scale adoption.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-i-robustness-a-human-centered-perspective</guid>
-    </item>
-    <item>
-      <title>On the Impact of Temporal Concept Drift on Model Explanations</title>
-      <link>https://paperswithcode.com/paper/on-the-impact-of-temporal-concept-drift-on</link>
-      <description><![CDATA[Explanation faithfulness of model predictions in natural language processing is typically evaluated on held-out data from the same temporal distribution as the training data (i. e. synchronous settings).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-impact-of-temporal-concept-drift-on</guid>
+      <title>MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion</title>
+      <link>https://paperswithcode.com/paper/mose-modality-split-and-ensemble-for</link>
+      <description><![CDATA[Based on these embeddings, in the inference phase, we first make modality-split predictions and then exploit various ensemble methods to combine the predictions with different weights, which models the modality importance dynamically.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mose-modality-split-and-ensemble-for</guid>
     </item>
     <item>
       <title>Reducing Collision Checking for Sampling-Based Motion Planning Using Graph Neural Networks</title>
@@ -273,40 +75,238 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/msds-a-large-scale-chinese-signature-and</guid>
     </item>
     <item>
+      <title>Sparse Kronecker Product Decomposition: A General Framework of Signal Region Detection in Image Regression</title>
+      <link>https://paperswithcode.com/paper/sparse-kronecker-product-decomposition-a</link>
+      <description><![CDATA[This paper aims to present the first Frequentist framework on signal region detection in high-resolution and high-order image regression problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-kronecker-product-decomposition-a</guid>
+    </item>
+    <item>
+      <title>GeoThermalCloud: Machine Learning for Geothermal Resource Exploration</title>
+      <link>https://paperswithcode.com/paper/geothermalcloud-machine-learning-for</link>
+      <description><![CDATA[Crucial geothermal signatures often overlooked in traditional PFA are extracted using the GeoThermalCloud and analyzed by the subject matter experts to provide ML-enhanced PFA, which is informative for efficient exploration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/geothermalcloud-machine-learning-for</guid>
+    </item>
+    <item>
+      <title>Prompting GPT-3 To Be Reliable</title>
+      <link>https://paperswithcode.com/paper/prompting-gpt-3-to-be-reliable</link>
+      <description><![CDATA[Large language models (LLMs) show impressive abilities via few-shot prompting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompting-gpt-3-to-be-reliable</guid>
+    </item>
+    <item>
+      <title>Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization</title>
+      <link>https://paperswithcode.com/paper/learning-instructions-with-unlabeled-data-for</link>
+      <description><![CDATA[Recently, instruction tuning (IT), which fine-tunes a pre-trained language model on a massive collection of tasks described via human-craft instructions, has been shown effective in instruction learning for unseen tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-instructions-with-unlabeled-data-for</guid>
+    </item>
+    <item>
+      <title>Joint Multilingual Knowledge Graph Completion and Alignment</title>
+      <link>https://paperswithcode.com/paper/joint-multilingual-knowledge-graph-completion</link>
+      <description><![CDATA[The proposed model combines two components that jointly accomplish KG completion and alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/joint-multilingual-knowledge-graph-completion</guid>
+    </item>
+    <item>
+      <title>Towards Relation Extraction From Speech</title>
+      <link>https://paperswithcode.com/paper/towards-relation-extraction-from-speech</link>
+      <description><![CDATA[We explore speech relation extraction via two approaches: the pipeline approach conducting text-based extraction with a pretrained ASR module, and the end2end approach via a new proposed encoder-decoder model, or what we called SpeechRE.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-relation-extraction-from-speech</guid>
+    </item>
+    <item>
+      <title>Towards Robust k-Nearest-Neighbor Machine Translation</title>
+      <link>https://paperswithcode.com/paper/towards-robust-k-nearest-neighbor-machine</link>
+      <description><![CDATA[Meanwhile we inject two types of perturbations into the retrieved pairs for robust training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-k-nearest-neighbor-machine</guid>
+    </item>
+    <item>
+      <title>Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive Learning Framework for OOD Intent Discovery</title>
+      <link>https://paperswithcode.com/paper/watch-the-neighbors-a-unified-k-nearest</link>
+      <description><![CDATA[For OOD clustering stage, we propose a KCC method to form compact clusters by mining true hard negative samples, which bridges the gap between clustering and representation learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/watch-the-neighbors-a-unified-k-nearest</guid>
+    </item>
+    <item>
+      <title>Systematic Evaluation of Predictive Fairness</title>
+      <link>https://paperswithcode.com/paper/systematic-evaluation-of-predictive-fairness</link>
+      <description><![CDATA[Mitigating bias in training on biased datasets is an important open problem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/systematic-evaluation-of-predictive-fairness</guid>
+    </item>
+    <item>
+      <title>PARTIME: Scalable and Parallel Processing Over Time with Deep Neural Networks</title>
+      <link>https://paperswithcode.com/paper/partime-scalable-and-parallel-processing-over</link>
+      <description><![CDATA[nature of the streamed data with samples that are smoothly evolving over time for efficient gradient computations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/partime-scalable-and-parallel-processing-over</guid>
+    </item>
+    <item>
+      <title>Statistical, Robustness, and Computational Guarantees for Sliced Wasserstein Distances</title>
+      <link>https://paperswithcode.com/paper/statistical-robustness-and-computational</link>
+      <description><![CDATA[The goal of this work is to quantify this scalability from three key aspects: (i) empirical convergence rates; (ii) robustness to data contamination; and (iii) efficient computational methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/statistical-robustness-and-computational</guid>
+    </item>
+    <item>
+      <title>Inferring Versatile Behavior from Demonstrations by Matching Geometric Descriptors</title>
+      <link>https://paperswithcode.com/paper/inferring-versatile-behavior-from</link>
+      <description><![CDATA[We find that the geometric descriptors greatly help in generalizing to new task configurations and that combining them with our distribution-matching objective is crucial for representing and reproducing versatile behavior.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inferring-versatile-behavior-from</guid>
+    </item>
+    <item>
+      <title>On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/on-uncertainty-in-deep-state-space-models-for</link>
+      <description><![CDATA[We show that RSSMs use a suboptimal inference scheme and that models trained using this inference overestimate the aleatoric uncertainty of the ground truth system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-uncertainty-in-deep-state-space-models-for</guid>
+    </item>
+    <item>
+      <title>Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training</title>
+      <link>https://paperswithcode.com/paper/plug-and-play-vqa-zero-shot-vqa-by-conjoining</link>
+      <description><![CDATA[Visual question answering (VQA) is a hallmark of vision and language reasoning and a challenging task under the zero-shot setting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/plug-and-play-vqa-zero-shot-vqa-by-conjoining</guid>
+    </item>
+    <item>
+      <title>Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels</title>
+      <link>https://paperswithcode.com/paper/bootstrapping-the-relationship-between-images</link>
+      <description><![CDATA[Many state-of-the-art noisy-label learning methods rely on learning mechanisms that estimate the samples' clean labels during training and discard their original noisy labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bootstrapping-the-relationship-between-images</guid>
+    </item>
+    <item>
+      <title>EISeg: An Efficient Interactive Segmentation Annotation Tool based on PaddlePaddle</title>
+      <link>https://paperswithcode.com/paper/eiseg-an-efficient-interactive-segmentation</link>
+      <description><![CDATA[In recent years, the rapid development of deep learning has brought great advancements to image and video segmentation methods based on neural networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eiseg-an-efficient-interactive-segmentation</guid>
+    </item>
+    <item>
       <title>Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing</title>
       <link>https://paperswithcode.com/paper/neural-contact-fields-tracking-extrinsic</link>
       <description><![CDATA[In experiments, we find that Neural Contact Fields are able to localize multiple contact patches without making any assumptions about the geometry of the contact, and capture contact/no-contact transitions for known categories of objects with unseen shapes in unseen environment configurations.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-contact-fields-tracking-extrinsic</guid>
     </item>
     <item>
-      <title>Character-Centric Story Visualization via Visual Planning and Token Alignment</title>
-      <link>https://paperswithcode.com/paper/character-centric-story-visualization-via</link>
-      <description><![CDATA[This task requires machines to 1) understand long text inputs and 2) produce a globally consistent image sequence that illustrates the contents of the story.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/character-centric-story-visualization-via</guid>
+      <title>TIVE: A Toolbox for Identifying Video Instance Segmentation Errors</title>
+      <link>https://paperswithcode.com/paper/tive-a-toolbox-for-identifying-video-instance</link>
+      <description><![CDATA[More importantly, as the fundamental model abilities demanded by the task, spatial segmentation and temporal association are still understudied in both evaluation and interaction mechanisms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tive-a-toolbox-for-identifying-video-instance</guid>
     </item>
     <item>
-      <title>Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/learning-self-regularized-adversarial-views</link>
-      <description><![CDATA[Despite the success, its development and application on self-supervised vision transformers have been hindered by several barriers, including the high search cost, the lack of supervision, and the unsuitable search space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-self-regularized-adversarial-views</guid>
+      <title>Runner-Up Solution to Google Universal Image Embedding Competition 2022</title>
+      <link>https://paperswithcode.com/paper/runner-up-solution-to-google-universal-image</link>
+      <description><![CDATA[Image representations are a critical building block of computer vision applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/runner-up-solution-to-google-universal-image</guid>
     </item>
     <item>
-      <title>ResAttUNet: Detecting Marine Debris using an Attention activated Residual UNet</title>
-      <link>https://paperswithcode.com/paper/resattunet-detecting-marine-debris-using-an</link>
-      <description><![CDATA[Currently, a significant amount of research has been done in field of Remote Sensing with the use of deep learning techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/resattunet-detecting-marine-debris-using-an</guid>
+      <title>Distilling Object Detectors With Global Knowledge</title>
+      <link>https://paperswithcode.com/paper/distilling-object-detectors-with-global</link>
+      <description><![CDATA[Then, a robust distilling module (RDM) is applied to construct the global knowledge based on the prototypes and filtrate noisy global and local knowledge by measuring the discrepancy of the representations in two feature spaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distilling-object-detectors-with-global</guid>
     </item>
     <item>
-      <title>On the User Behavior Leakage from Recommender Exposure</title>
-      <link>https://paperswithcode.com/paper/on-the-user-behavior-leakage-from-recommender</link>
-      <description><![CDATA[Given the fact that system exposure data could be widely accessed from a relatively larger scope, we believe that the user past behavior privacy has a high risk of leakage in recommender systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-user-behavior-leakage-from-recommender</guid>
+      <title>An Open-source Benchmark of Deep Learning Models for Audio-visual Apparent and Self-reported Personality Recognition</title>
+      <link>https://paperswithcode.com/paper/an-open-source-benchmark-of-deep-learning</link>
+      <description><![CDATA[Personality is crucial for understanding human internal and external states.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-open-source-benchmark-of-deep-learning</guid>
+    </item>
+    <item>
+      <title>ArtFacePoints: High-resolution Facial Landmark Detection in Paintings and Prints</title>
+      <link>https://paperswithcode.com/paper/artfacepoints-high-resolution-facial-landmark</link>
+      <description><![CDATA[Facial landmark detection plays an important role for the similarity analysis in artworks to compare portraits of the same or similar artists.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/artfacepoints-high-resolution-facial-landmark</guid>
+    </item>
+    <item>
+      <title>HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks</title>
+      <link>https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</link>
+      <description><![CDATA[We apply this parameterization to the state-of-art domain adaptation methods and show that it has almost the same expressiveness as the full parameter space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</guid>
+    </item>
+    <item>
+      <title>Supervised Prototypical Contrastive Learning for Emotion Recognition in Conversation</title>
+      <link>https://paperswithcode.com/paper/supervised-prototypical-contrastive-learning</link>
+      <description><![CDATA[Capturing emotions within a conversation plays an essential role in modern dialogue systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/supervised-prototypical-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>Effective and Efficient Query-aware Snippet Extraction for Web Search</title>
+      <link>https://paperswithcode.com/paper/effective-and-efficient-query-aware-snippet</link>
+      <description><![CDATA[In this paper, we propose an effective query-aware webpage snippet extraction method named DeepQSE, aiming to select a few sentences which can best summarize the webpage content in the context of input query.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-and-efficient-query-aware-snippet</guid>
+    </item>
+    <item>
+      <title>A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities</title>
+      <link>https://paperswithcode.com/paper/a-i-robustness-a-human-centered-perspective</link>
+      <description><![CDATA[Despite the impressive performance of Artificial Intelligence (AI) systems, their robustness remains elusive and constitutes a key issue that impedes large-scale adoption.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-i-robustness-a-human-centered-perspective</guid>
+    </item>
+    <item>
+      <title>Unsupervised Object-Centric Learning with Bi-Level Optimized Query Slot Attention</title>
+      <link>https://paperswithcode.com/paper/unsupervised-object-centric-learning-with-bi</link>
+      <description><![CDATA[We hope our effort could provide a single home for the design and learning of slot-based models and pave the way for more challenging tasks in object-centric learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-object-centric-learning-with-bi</guid>
+    </item>
+    <item>
+      <title>What Makes Convolutional Models Great on Long Sequence Modeling?</title>
+      <link>https://paperswithcode.com/paper/what-makes-convolutional-models-great-on-long</link>
+      <description><![CDATA[We focus on the structure of the convolution kernel and identify two critical but intuitive principles enjoyed by S4 that are sufficient to make up an effective global convolutional model: 1) The parameterization of the convolutional kernel needs to be efficient in the sense that the number of parameters should scale sub-linearly with sequence length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-makes-convolutional-models-great-on-long</guid>
+    </item>
+    <item>
+      <title>Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning</title>
+      <link>https://paperswithcode.com/paper/thinking-two-moves-ahead-anticipating-other</link>
+      <description><![CDATA[Federated learning is particularly susceptible to model poisoning and backdoor attacks because individual users have direct control over the training data and model updates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thinking-two-moves-ahead-anticipating-other</guid>
+    </item>
+    <item>
+      <title>Flipped Classroom: Effective Teaching for Time Series Forecasting</title>
+      <link>https://paperswithcode.com/paper/flipped-classroom-effective-teaching-for-time</link>
+      <description><![CDATA[Although scheduled sampling seems to be a convincing alternative to FR and TF, we found that, even if parametrized carefully, scheduled sampling may lead to premature termination of the training when applied for time series forecasting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flipped-classroom-effective-teaching-for-time</guid>
+    </item>
+    <item>
+      <title>On the Impact of Temporal Concept Drift on Model Explanations</title>
+      <link>https://paperswithcode.com/paper/on-the-impact-of-temporal-concept-drift-on</link>
+      <description><![CDATA[Explanation faithfulness of model predictions in natural language processing is typically evaluated on held-out data from the same temporal distribution as the training data (i. e. synchronous settings).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-impact-of-temporal-concept-drift-on</guid>
+    </item>
+    <item>
+      <title>How do we get there? Evaluating transformer neural networks as cognitive models for English past tense inflection</title>
+      <link>https://paperswithcode.com/paper/how-do-we-get-there-evaluating-transformer-1</link>
+      <description><![CDATA[The different behaviors on the regulars and irregulars suggest that the models have some degree of symbolic learning on the regularity of the verbs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-do-we-get-there-evaluating-transformer-1</guid>
+    </item>
+    <item>
+      <title>A Generative User Simulator with GPT-based Architecture and Goal State Tracking for Reinforced Multi-Domain Dialog Systems</title>
+      <link>https://paperswithcode.com/paper/a-generative-user-simulator-with-gpt-based</link>
+      <description><![CDATA[Second, an important ingredient in a US is that the user goal can be effectively incorporated and tracked; but how to flexibly integrate goal state tracking and develop an end-to-end trainable US for multi-domains has remained to be a challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-generative-user-simulator-with-gpt-based</guid>
+    </item>
+    <item>
+      <title>Scaling &amp; Shifting Your Features: A New Baseline for Efficient Model Tuning</title>
+      <link>https://paperswithcode.com/paper/scaling-shifting-your-features-a-new-baseline</link>
+      <description><![CDATA[With the proposed SSF, our model obtains 2. 46% (90. 72% vs. 88. 54%) and 11. 48% (73. 10% vs. 65. 57%) performance improvement on FGVC and VTAB-1k in terms of Top-1 accuracy compared to the full fine-tuning but only fine-tuning about 0. 3M parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-shifting-your-features-a-new-baseline</guid>
+    </item>
+    <item>
+      <title>Explainable Causal Analysis of Mental Health on Social Media Data</title>
+      <link>https://paperswithcode.com/paper/explainable-causal-analysis-of-mental-health</link>
+      <description><![CDATA[In this task, we fine tune the classifiers and find explanations for multi-class causal categorization of mental illness on social media with LIME and Integrated Gradient (IG) methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/explainable-causal-analysis-of-mental-health</guid>
     </item>
     <item>
       <title>Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective</title>
       <link>https://paperswithcode.com/paper/zero-shot-learners-for-natural-language</link>
       <description><![CDATA[We propose a new paradigm for zero-shot learners that is format agnostic, i. e., it is compatible with any format and applicable to a list of language tasks, such as text classification, commonsense reasoning, coreference resolution, and sentiment analysis.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-learners-for-natural-language</guid>
+    </item>
+    <item>
+      <title>Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning</title>
+      <link>https://paperswithcode.com/paper/navigating-memory-construction-by-global</link>
+      <description><![CDATA[To provide an approximate solution to this problem in the online continual learning setting, we further propose the Global Pseudo-task Simulation (GPS), which mimics future catastrophic forgetting of the current task by permutation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/navigating-memory-construction-by-global</guid>
+    </item>
+    <item>
+      <title>Efficient Cross-Modal Video Retrieval with Meta-Optimized Frames</title>
+      <link>https://paperswithcode.com/paper/efficient-cross-modal-video-retrieval-with</link>
+      <description><![CDATA[In turn, the frame-level optimization is through gradient descent using the meta loss of video retrieval model computed on the whole video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-cross-modal-video-retrieval-with</guid>
+    </item>
+    <item>
+      <title>Investigating the Robustness of Natural Language Generation from Logical Forms via Counterfactual Samples</title>
+      <link>https://paperswithcode.com/paper/investigating-the-robustness-of-natural</link>
+      <description><![CDATA[To verify this hypothesis, we manually construct a set of counterfactual samples, which modify the original logical forms to generate counterfactual logical forms with rarely co-occurred table headers and logical operators.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/investigating-the-robustness-of-natural</guid>
     </item>
   </channel>
 </rss>
