@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Oct 2022 21:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2022 09:26:16 +0000</lastBuildDate>
     <item>
-      <title>Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization</title>
-      <link>https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</link>
-      <description><![CDATA[Vizier is the de-facto blackbox and hyperparameter optimization service across Google, having optimized some of Google's largest products and research efforts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</guid>
+      <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title>
+      <link>https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</link>
+      <description><![CDATA[Editing is challenging for these generative models, since an innate property of an editing technique is to preserve most of the original image, while in the text-based models, even a small modification of the text prompt often leads to a completely different outcome.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</guid>
     </item>
     <item>
       <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
@@ -21,22 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d</guid>
     </item>
     <item>
+      <title>Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization</title>
+      <link>https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</link>
+      <description><![CDATA[Vizier is the de-facto blackbox and hyperparameter optimization service across Google, having optimized some of Google's largest products and research efforts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</guid>
+    </item>
+    <item>
       <title>NerfAcc: A General NeRF Acceleration Toolbox</title>
       <link>https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</link>
       <description><![CDATA[We propose NerfAcc, a toolbox for efficient volumetric rendering of radiance fields.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</guid>
-    </item>
-    <item>
-      <title>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection</title>
-      <link>https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</link>
-      <description><![CDATA[Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</guid>
-    </item>
-    <item>
-      <title>Human Motion Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
-      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
     </item>
     <item>
       <title>PDEBENCH: An Extensive Benchmark for Scientific Machine Learning</title>
@@ -45,16 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</guid>
     </item>
     <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+      <title>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection</title>
+      <link>https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</link>
+      <description><![CDATA[Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-detr-with-improved-denoising-anchor-1</guid>
     </item>
     <item>
-      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
-      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
-      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
+      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
+      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
+      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
+    </item>
+    <item>
+      <title>Human Motion Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
+      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
+    </item>
+    <item>
+      <title>DreamFusion: Text-to-3D using 2D Diffusion</title>
+      <link>https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</link>
+      <description><![CDATA[Using this loss in a DeepDream-like procedure, we optimize a randomly-initialized 3D model (a Neural Radiance Field, or NeRF) via gradient descent such that its 2D renderings from random angles achieve a low loss.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</guid>
     </item>
     <item>
       <title>Exploring Long-Sequence Masked Autoencoders</title>
@@ -69,40 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/phenaki-variable-length-video-generation-from</guid>
     </item>
     <item>
-      <title>Personalizing Text-to-Image Generation via Aesthetic Gradients</title>
-      <link>https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</link>
-      <description><![CDATA[This work proposes aesthetic gradients, a method to personalize a CLIP-conditioned diffusion model by guiding the generative process towards custom aesthetics defined by the user from a set of images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
       <title>Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance</title>
       <link>https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</link>
       <description><![CDATA[The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (e. g., Gaussian) latent space of GANs, VAEs, and normalizing flows.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</guid>
     </item>
     <item>
-      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
-      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+      <title>Personalizing Text-to-Image Generation via Aesthetic Gradients</title>
+      <link>https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</link>
+      <description><![CDATA[This work proposes aesthetic gradients, a method to personalize a CLIP-conditioned diffusion model by guiding the generative process towards custom aesthetics defined by the user from a set of images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</guid>
     </item>
     <item>
-      <title>Map-free Visual Relocalization: Metric Pose Relative to a Single Image</title>
-      <link>https://paperswithcode.com/paper/map-free-visual-relocalization-metric-pose</link>
-      <description><![CDATA[Can we relocalize in a scene represented by a single reference image?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/map-free-visual-relocalization-metric-pose</guid>
-    </item>
-    <item>
-      <title>MotionBERT: Unified Pretraining for Human Motion Analysis</title>
-      <link>https://paperswithcode.com/paper/motionbert-unified-pretraining-for-human</link>
-      <description><![CDATA[We present MotionBERT, a unified pretraining framework, to tackle different sub-tasks of human motion analysis including 3D pose estimation, skeleton-based action recognition, and mesh recovery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/motionbert-unified-pretraining-for-human</guid>
+      <title>MTEB: Massive Text Embedding Benchmark</title>
+      <link>https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</link>
+      <description><![CDATA[MTEB spans 8 embedding tasks covering a total of 56 datasets and 112 languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</guid>
     </item>
     <item>
       <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
@@ -111,22 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
     </item>
     <item>
-      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
-      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
-      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
+      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
+      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
+      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
     </item>
     <item>
-      <title>Point Transformer V2: Grouped Vector Attention and Partition-based Pooling</title>
-      <link>https://paperswithcode.com/paper/point-transformer-v2-grouped-vector-attention</link>
-      <description><![CDATA[In this work, we analyze the limitations of the Point Transformer and propose our powerful and efficient Point Transformer V2 model with novel designs that overcome the limitations of previous work.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-transformer-v2-grouped-vector-attention</guid>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design</title>
-      <link>https://paperswithcode.com/paper/equivariant-3d-conditional-diffusion-models</link>
-      <description><![CDATA[Additionally, the model automatically determines the number of atoms in the linker and its attachment points to the input fragments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/equivariant-3d-conditional-diffusion-models</guid>
+      <title>Is synthetic data from generative models ready for image recognition?</title>
+      <link>https://paperswithcode.com/paper/is-synthetic-data-from-generative-models</link>
+      <description><![CDATA[Recent text-to-image generation models have shown promising results in generating high-fidelity photo-realistic images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/is-synthetic-data-from-generative-models</guid>
+    </item>
+    <item>
+      <title>TransFusion: Transcribing Speech with Multinomial Diffusion</title>
+      <link>https://paperswithcode.com/paper/transfusion-transcribing-speech-with</link>
+      <description><![CDATA[In this work we aim to see whether the benefits of diffusion models can also be realized for speech recognition.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transfusion-transcribing-speech-with</guid>
+    </item>
+    <item>
+      <title>3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation</title>
+      <link>https://paperswithcode.com/paper/explicitly-controllable-3d-aware-portrait</link>
+      <description><![CDATA[In contrast to the traditional avatar creation pipeline which is a costly process, contemporary generative approaches directly learn the data distribution from photographs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/explicitly-controllable-3d-aware-portrait</guid>
     </item>
   </channel>
 </rss>
