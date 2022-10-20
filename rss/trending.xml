@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Oct 2022 21:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 09:24:44 +0000</lastBuildDate>
     <item>
       <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title>
       <link>https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</link>
       <description><![CDATA[Editing is challenging for these generative models, since an innate property of an editing technique is to preserve most of the original image, while in the text-based models, even a small modification of the text prompt often leads to a completely different outcome.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</guid>
+    </item>
+    <item>
+      <title>Token Merging: Your ViT But Faster</title>
+      <link>https://paperswithcode.com/paper/token-merging-your-vit-but-faster</link>
+      <description><![CDATA[Off-the-shelf, ToMe can 2x the throughput of state-of-the-art ViT-L @ 512 and ViT-H @ 518 models on images and 2. 2x the throughput of ViT-L on video with only a 0. 2-0. 3% accuracy drop in each case.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-your-vit-but-faster</guid>
+    </item>
+    <item>
+      <title>Parametric and Multivariate Uncertainty Calibration for Regression and Object Detection</title>
+      <link>https://paperswithcode.com/paper/parametric-and-multivariate-uncertainty</link>
+      <description><![CDATA[Our experiments show that common detection models overestimate the spatial uncertainty in comparison to the observed error.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parametric-and-multivariate-uncertainty</guid>
     </item>
     <item>
       <title>Automatic Differentiation of Programs with Discrete Randomness</title>
@@ -21,16 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-differentiation-of-programs-with</guid>
     </item>
     <item>
-      <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
-      <link>https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d</link>
-      <description><![CDATA[To advance 3D DDMs and make them useful for digital artists, we require (i) high generation quality, (ii) flexibility for manipulation and applications such as conditional synthesis and shape interpolation, and (iii) the ability to output smooth surfaces or meshes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d</guid>
-    </item>
-    <item>
-      <title>MTEB: Massive Text Embedding Benchmark</title>
-      <link>https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</link>
-      <description><![CDATA[MTEB spans 8 embedding tasks covering a total of 56 datasets and 112 languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</guid>
+      <title>HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks</title>
+      <link>https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</link>
+      <description><![CDATA[We apply this parameterization to the state-of-art domain adaptation methods and show that it has almost the same expressiveness as the full parameter space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</guid>
     </item>
     <item>
       <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
@@ -39,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
     </item>
     <item>
-      <title>HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks</title>
-      <link>https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</link>
-      <description><![CDATA[We apply this parameterization to the state-of-art domain adaptation methods and show that it has almost the same expressiveness as the full parameter space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</guid>
+      <title>Deep Bidirectional Language-Knowledge Graph Pretraining</title>
+      <link>https://paperswithcode.com/paper/deep-bidirectional-language-knowledge-graph</link>
+      <description><![CDATA[Pretraining a language model (LM) on text has been shown to help various downstream NLP tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-bidirectional-language-knowledge-graph</guid>
     </item>
     <item>
       <title>AdaptivePose++: A Powerful Single-Stage Network for Multi-Person Pose Regression</title>
@@ -51,10 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adaptivepose-a-powerful-single-stage-network</guid>
     </item>
     <item>
-      <title>PDEBENCH: An Extensive Benchmark for Scientific Machine Learning</title>
-      <link>https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</link>
-      <description><![CDATA[With those metrics we identify tasks which are challenging for recent ML methods and propose these tasks as future challenges for the community.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</guid>
+      <title>MTEB: Massive Text Embedding Benchmark</title>
+      <link>https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</link>
+      <description><![CDATA[MTEB spans 8 embedding tasks covering a total of 56 datasets and 112 languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</guid>
     </item>
     <item>
       <title>DreamFusion: Text-to-3D using 2D Diffusion</title>
@@ -63,10 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</guid>
     </item>
     <item>
+      <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
+      <link>https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d</link>
+      <description><![CDATA[To advance 3D DDMs and make them useful for digital artists, we require (i) high generation quality, (ii) flexibility for manipulation and applications such as conditional synthesis and shape interpolation, and (iii) the ability to output smooth surfaces or meshes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d</guid>
+    </item>
+    <item>
       <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
       <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
       <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
+    </item>
+    <item>
+      <title>Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance</title>
+      <link>https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</link>
+      <description><![CDATA[The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (e. g., Gaussian) latent space of GANs, VAEs, and normalizing flows.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</guid>
+    </item>
+    <item>
+      <title>PDEBENCH: An Extensive Benchmark for Scientific Machine Learning</title>
+      <link>https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</link>
+      <description><![CDATA[With those metrics we identify tasks which are challenging for recent ML methods and propose these tasks as future challenges for the community.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</guid>
     </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
@@ -75,22 +99,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>Human Motion Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
-      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
-    </item>
-    <item>
       <title>NerfAcc: A General NeRF Acceleration Toolbox</title>
       <link>https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</link>
       <description><![CDATA[We propose NerfAcc, a toolbox for efficient volumetric rendering of radiance fields.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</guid>
     </item>
     <item>
-      <title>Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance</title>
-      <link>https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</link>
-      <description><![CDATA[The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (e. g., Gaussian) latent space of GANs, VAEs, and normalizing flows.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</guid>
+      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
+      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+    </item>
+    <item>
+      <title>Human Motion Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
+      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
     </item>
     <item>
       <title>Skill-Based Reinforcement Learning with Intrinsic Reward Matching</title>
@@ -103,30 +127,6 @@
       <link>https://paperswithcode.com/paper/motiondiffuse-text-driven-human-motion</link>
       <description><![CDATA[Instead of a deterministic language-motion mapping, MotionDiffuse generates motions through a series of denoising steps in which variations are injected.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/motiondiffuse-text-driven-human-motion</guid>
-    </item>
-    <item>
-      <title>Is synthetic data from generative models ready for image recognition?</title>
-      <link>https://paperswithcode.com/paper/is-synthetic-data-from-generative-models</link>
-      <description><![CDATA[Recent text-to-image generation models have shown promising results in generating high-fidelity photo-realistic images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-synthetic-data-from-generative-models</guid>
-    </item>
-    <item>
-      <title>3DFaceShop: Explicitly Controllable 3D-Aware Portrait Generation</title>
-      <link>https://paperswithcode.com/paper/explicitly-controllable-3d-aware-portrait</link>
-      <description><![CDATA[In contrast to the traditional avatar creation pipeline which is a costly process, contemporary generative approaches directly learn the data distribution from photographs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/explicitly-controllable-3d-aware-portrait</guid>
-    </item>
-    <item>
-      <title>DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</link>
-      <description><![CDATA[Recently, diffusion models have emerged as a new paradigm for generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</guid>
-    </item>
-    <item>
-      <title>Token Merging: Your ViT But Faster</title>
-      <link>https://paperswithcode.com/paper/token-merging-your-vit-but-faster</link>
-      <description><![CDATA[Off-the-shelf, ToMe can 2x the throughput of state-of-the-art ViT-L @ 512 and ViT-H @ 518 models on images and 2. 2x the throughput of ViT-L on video with only a 0. 2-0. 3% accuracy drop in each case.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-your-vit-but-faster</guid>
     </item>
   </channel>
 </rss>
