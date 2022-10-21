@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Oct 2022 09:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2022 21:09:31 +0000</lastBuildDate>
     <item>
       <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title>
       <link>https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</link>
@@ -27,16 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/parametric-and-multivariate-uncertainty</guid>
     </item>
     <item>
-      <title>Automatic Differentiation of Programs with Discrete Randomness</title>
-      <link>https://paperswithcode.com/paper/automatic-differentiation-of-programs-with</link>
-      <description><![CDATA[Automatic differentiation (AD), a technique for constructing new programs which compute the derivative of an original program, has become ubiquitous throughout scientific computing and deep learning due to the improved performance afforded by gradient-based optimization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-differentiation-of-programs-with</guid>
-    </item>
-    <item>
-      <title>HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks</title>
-      <link>https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</link>
-      <description><![CDATA[We apply this parameterization to the state-of-art domain adaptation methods and show that it has almost the same expressiveness as the full parameter space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</guid>
+      <title>Learning to Discover and Detect Objects</title>
+      <link>https://paperswithcode.com/paper/learning-to-discover-and-detect-objects</link>
+      <description><![CDATA[To this end, we propose a two-stage object detection network Region-based NCDL (RNCDL), that uses a region proposal network to localize object candidates and is trained to classify each candidate, either as one of the known classes, seen in the source dataset, or one of the extended set of novel classes, with a long-tail distribution constraint on the class assignments, reflecting the natural frequency of classes in the real world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-discover-and-detect-objects</guid>
     </item>
     <item>
       <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
@@ -45,10 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
     </item>
     <item>
-      <title>Deep Bidirectional Language-Knowledge Graph Pretraining</title>
-      <link>https://paperswithcode.com/paper/deep-bidirectional-language-knowledge-graph</link>
-      <description><![CDATA[Pretraining a language model (LM) on text has been shown to help various downstream NLP tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-bidirectional-language-knowledge-graph</guid>
+      <title>TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation</title>
+      <link>https://paperswithcode.com/paper/toist-task-oriented-instance-segmentation</link>
+      <description><![CDATA[As such, we study the challenging problem of task oriented detection, which aims to find objects that best afford an action indicated by verbs like sit comfortably on.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/toist-task-oriented-instance-segmentation</guid>
+    </item>
+    <item>
+      <title>DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact</title>
+      <link>https://paperswithcode.com/paper/diffcloth-differentiable-cloth-simulation</link>
+      <description><![CDATA[This work presents a differentiable cloth simulator whose additional gradient information facilitates cloth-related applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffcloth-differentiable-cloth-simulation</guid>
+    </item>
+    <item>
+      <title>Automatic Differentiation of Programs with Discrete Randomness</title>
+      <link>https://paperswithcode.com/paper/automatic-differentiation-of-programs-with</link>
+      <description><![CDATA[Automatic differentiation (AD), a technique for constructing new programs which compute the derivative of an original program, has become ubiquitous throughout scientific computing and deep learning due to the improved performance afforded by gradient-based optimization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-differentiation-of-programs-with</guid>
+    </item>
+    <item>
+      <title>DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</link>
+      <description><![CDATA[Recently, diffusion models have emerged as a new paradigm for generative models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</guid>
     </item>
     <item>
       <title>AdaptivePose++: A Powerful Single-Stage Network for Multi-Person Pose Regression</title>
@@ -57,16 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adaptivepose-a-powerful-single-stage-network</guid>
     </item>
     <item>
-      <title>MTEB: Massive Text Embedding Benchmark</title>
-      <link>https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</link>
-      <description><![CDATA[MTEB spans 8 embedding tasks covering a total of 56 datasets and 112 languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</guid>
-    </item>
-    <item>
       <title>DreamFusion: Text-to-3D using 2D Diffusion</title>
       <link>https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</link>
       <description><![CDATA[Using this loss in a DeepDream-like procedure, we optimize a randomly-initialized 3D model (a Neural Radiance Field, or NeRF) via gradient descent such that its 2D renderings from random angles achieve a low loss.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</guid>
+    </item>
+    <item>
+      <title>HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks</title>
+      <link>https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</link>
+      <description><![CDATA[We apply this parameterization to the state-of-art domain adaptation methods and show that it has almost the same expressiveness as the full parameter space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperdomainnet-universal-domain-adaptation</guid>
+    </item>
+    <item>
+      <title>Deep Bidirectional Language-Knowledge Graph Pretraining</title>
+      <link>https://paperswithcode.com/paper/deep-bidirectional-language-knowledge-graph</link>
+      <description><![CDATA[Pretraining a language model (LM) on text has been shown to help various downstream NLP tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-bidirectional-language-knowledge-graph</guid>
     </item>
     <item>
       <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
@@ -75,22 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lion-latent-point-diffusion-models-for-3d</guid>
     </item>
     <item>
-      <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
-      <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
-      <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
-    </item>
-    <item>
       <title>Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance</title>
       <link>https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</link>
       <description><![CDATA[The commonly-adopted formulation of the latent code of diffusion models is a sequence of gradually denoised samples, as opposed to the simpler (e. g., Gaussian) latent space of GANs, VAEs, and normalizing flows.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-diffusion-models-latent-space-with</guid>
     </item>
     <item>
-      <title>PDEBENCH: An Extensive Benchmark for Scientific Machine Learning</title>
-      <link>https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</link>
-      <description><![CDATA[With those metrics we identify tasks which are challenging for recent ML methods and propose these tasks as future challenges for the community.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pdebench-an-extensive-benchmark-for</guid>
+      <title>FedML: A Research Library and Benchmark for Federated Machine Learning</title>
+      <link>https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</link>
+      <description><![CDATA[Federated learning (FL) is a rapidly growing research field in machine learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fedml-a-research-library-and-benchmark-for</guid>
     </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
@@ -99,10 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>NerfAcc: A General NeRF Acceleration Toolbox</title>
-      <link>https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</link>
-      <description><![CDATA[We propose NerfAcc, a toolbox for efficient volumetric rendering of radiance fields.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerfacc-a-general-nerf-acceleration-toolbox</guid>
+      <title>MTEB: Massive Text Embedding Benchmark</title>
+      <link>https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</link>
+      <description><![CDATA[MTEB spans 8 embedding tasks covering a total of 56 datasets and 112 languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mteb-massive-text-embedding-benchmark</guid>
     </item>
     <item>
       <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
@@ -111,22 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
     </item>
     <item>
-      <title>Human Motion Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/human-motion-diffusion-model</link>
-      <description><![CDATA[In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-model</guid>
-    </item>
-    <item>
-      <title>Skill-Based Reinforcement Learning with Intrinsic Reward Matching</title>
-      <link>https://paperswithcode.com/paper/skill-based-reinforcement-learning-with</link>
-      <description><![CDATA[However, often the most concise yet complete description of a task is the reward function itself, and skill learning methods learn an $\textit{intrinsic}$ reward function via the discriminator that corresponds to the skill policy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/skill-based-reinforcement-learning-with</guid>
-    </item>
-    <item>
-      <title>MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/motiondiffuse-text-driven-human-motion</link>
-      <description><![CDATA[Instead of a deterministic language-motion mapping, MotionDiffuse generates motions through a series of denoising steps in which variations are injected.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/motiondiffuse-text-driven-human-motion</guid>
+      <title>Poisson Flow Generative Models</title>
+      <link>https://paperswithcode.com/paper/poisson-flow-generative-models</link>
+      <description><![CDATA[We interpret the data points as electrical charges on the $z=0$ hyperplane in a space augmented with an additional dimension $z$, generating a high-dimensional electric field (the gradient of the solution to Poisson equation).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/poisson-flow-generative-models</guid>
     </item>
   </channel>
 </rss>
