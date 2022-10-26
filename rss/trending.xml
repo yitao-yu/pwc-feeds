@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 09:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 21:08:33 +0000</lastBuildDate>
+    <item>
+      <title>High Fidelity Neural Audio Compression</title>
+      <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
+      <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
+    </item>
     <item>
       <title>TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second</title>
       <link>https://paperswithcode.com/paper/meta-learning-a-real-time-tabular-automl</link>
       <description><![CDATA[We present TabPFN, a trained Transformer that can do supervised classification for small tabular datasets in less than a second, needs no hyperparameter tuning and is competitive with state-of-the-art classification methods.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/meta-learning-a-real-time-tabular-automl</guid>
+    </item>
+    <item>
+      <title>MetaFormer Baselines for Vision</title>
+      <link>https://paperswithcode.com/paper/metaformer-baselines-for-vision</link>
+      <description><![CDATA[By simply applying depthwise separable convolutions as token mixer in the bottom stages and vanilla self-attention in the top stages, the resulting model CAFormer sets a new record on ImageNet-1K: it achieves an accuracy of 85. 5% at 224x224 resolution, under normal supervised training without external data or distillation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/metaformer-baselines-for-vision</guid>
     </item>
     <item>
       <title>Musika! Fast Infinite Waveform Music Generation</title>
@@ -21,16 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</guid>
     </item>
     <item>
-      <title>Personalizing Text-to-Image Generation via Aesthetic Gradients</title>
-      <link>https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</link>
-      <description><![CDATA[This work proposes aesthetic gradients, a method to personalize a CLIP-conditioned diffusion model by guiding the generative process towards custom aesthetics defined by the user from a set of images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</guid>
-    </item>
-    <item>
       <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
       <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
       <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
+    </item>
+    <item>
+      <title>Personalizing Text-to-Image Generation via Aesthetic Gradients</title>
+      <link>https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</link>
+      <description><![CDATA[This work proposes aesthetic gradients, a method to personalize a CLIP-conditioned diffusion model by guiding the generative process towards custom aesthetics defined by the user from a set of images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</guid>
     </item>
     <item>
       <title>Poisson Flow Generative Models</title>
@@ -39,10 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/poisson-flow-generative-models</guid>
     </item>
     <item>
-      <title>Token Merging: Your ViT But Faster</title>
-      <link>https://paperswithcode.com/paper/token-merging-your-vit-but-faster</link>
-      <description><![CDATA[Off-the-shelf, ToMe can 2x the throughput of state-of-the-art ViT-L @ 512 and ViT-H @ 518 models on images and 2. 2x the throughput of ViT-L on video with only a 0. 2-0. 3% accuracy drop in each case.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-your-vit-but-faster</guid>
+      <title>Evaluating Long-Term Memory in 3D Mazes</title>
+      <link>https://paperswithcode.com/paper/evaluating-long-term-memory-in-3d-mazes</link>
+      <description><![CDATA[However, most benchmark tasks in reinforcement learning do not test long-term memory in agents, slowing down progress in this important research direction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-long-term-memory-in-3d-mazes</guid>
+    </item>
+    <item>
+      <title>Scaling Instruction-Finetuned Language Models</title>
+      <link>https://paperswithcode.com/paper/scaling-instruction-finetuned-language-models</link>
+      <description><![CDATA[We find that instruction finetuning with the above aspects dramatically improves performance on a variety of model classes (PaLM, T5, U-PaLM), prompting setups (zero-shot, few-shot, CoT), and evaluation benchmarks (MMLU, BBH, TyDiQA, MGSM, open-ended generation).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-instruction-finetuned-language-models</guid>
+    </item>
+    <item>
+      <title>DeepNet: Scaling Transformers to 1,000 Layers</title>
+      <link>https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</link>
+      <description><![CDATA[In this paper, we propose a simple yet effective method to stabilize extremely deep Transformers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</guid>
     </item>
     <item>
       <title>Finding Dataset Shortcuts with Grammar Induction</title>
@@ -57,40 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</guid>
     </item>
     <item>
-      <title>MetaFormer Baselines for Vision</title>
-      <link>https://paperswithcode.com/paper/metaformer-baselines-for-vision</link>
-      <description><![CDATA[By simply applying depthwise separable convolutions as token mixer in the bottom stages and vanilla self-attention in the top stages, the resulting model CAFormer sets a new record on ImageNet-1K: it achieves an accuracy of 85. 5% at 224x224 resolution, under normal supervised training without external data or distillation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metaformer-baselines-for-vision</guid>
-    </item>
-    <item>
       <title>DreamFusion: Text-to-3D using 2D Diffusion</title>
       <link>https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</link>
       <description><![CDATA[Using this loss in a DeepDream-like procedure, we optimize a randomly-initialized 3D model (a Neural Radiance Field, or NeRF) via gradient descent such that its 2D renderings from random angles achieve a low loss.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamfusion-text-to-3d-using-2d-diffusion</guid>
-    </item>
-    <item>
-      <title>Gaussian-Bernoulli RBMs Without Tears</title>
-      <link>https://paperswithcode.com/paper/gaussian-bernoulli-rbms-without-tears</link>
-      <description><![CDATA[We revisit the challenging problem of training Gaussian-Bernoulli restricted Boltzmann machines (GRBMs), introducing two innovations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussian-bernoulli-rbms-without-tears</guid>
-    </item>
-    <item>
-      <title>Scaling Instruction-Finetuned Language Models</title>
-      <link>https://paperswithcode.com/paper/scaling-instruction-finetuned-language-models</link>
-      <description><![CDATA[We find that instruction finetuning with the above aspects dramatically improves performance on a variety of model classes (PaLM, T5, U-PaLM), prompting setups (zero-shot, few-shot, CoT), and evaluation benchmarks (MMLU, BBH, TyDiQA, MGSM, open-ended generation).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-instruction-finetuned-language-models</guid>
-    </item>
-    <item>
-      <title>DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</link>
-      <description><![CDATA[Recently, diffusion models have emerged as a new paradigm for generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuseq-sequence-to-sequence-text-generation</guid>
-    </item>
-    <item>
-      <title>DeepNet: Scaling Transformers to 1,000 Layers</title>
-      <link>https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</link>
-      <description><![CDATA[In this paper, we propose a simple yet effective method to stabilize extremely deep Transformers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</guid>
     </item>
     <item>
       <title>G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection</title>
@@ -99,22 +93,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/g-rep-gaussian-representation-for-arbitrary</guid>
     </item>
     <item>
+      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
+      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
+      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
+    </item>
+    <item>
       <title>Traditional and Heavy-Tailed Self Regularization in Neural Network Models</title>
       <link>https://paperswithcode.com/paper/traditional-and-heavy-tailed-self</link>
       <description><![CDATA[Random Matrix Theory (RMT) is applied to analyze the weight matrices of Deep Neural Networks (DNNs), including both production quality, pre-trained models such as AlexNet and Inception, and smaller models trained from scratch, such as LeNet5 and a miniature-AlexNet.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/traditional-and-heavy-tailed-self</guid>
     </item>
     <item>
-      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
-      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
-      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
+      <title>Token Merging: Your ViT But Faster</title>
+      <link>https://paperswithcode.com/paper/token-merging-your-vit-but-faster</link>
+      <description><![CDATA[Off-the-shelf, ToMe can 2x the throughput of state-of-the-art ViT-L @ 512 and ViT-H @ 518 models on images and 2. 2x the throughput of ViT-L on video with only a 0. 2-0. 3% accuracy drop in each case.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-your-vit-but-faster</guid>
     </item>
     <item>
-      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
-      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
-      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
+      <title>Monocular Dynamic View Synthesis: A Reality Check</title>
+      <link>https://paperswithcode.com/paper/monocular-dynamic-view-synthesis-a-reality</link>
+      <description><![CDATA[We study the recent progress on dynamic view synthesis (DVS) from monocular video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/monocular-dynamic-view-synthesis-a-reality</guid>
     </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
@@ -123,10 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>Learning to Discover and Detect Objects</title>
-      <link>https://paperswithcode.com/paper/learning-to-discover-and-detect-objects</link>
-      <description><![CDATA[To this end, we propose a two-stage object detection network Region-based NCDL (RNCDL), that uses a region proposal network to localize object candidates and is trained to classify each candidate, either as one of the known classes, seen in the source dataset, or one of the extended set of novel classes, with a long-tail distribution constraint on the class assignments, reflecting the natural frequency of classes in the real world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-discover-and-detect-objects</guid>
+      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
+      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
+      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
     </item>
   </channel>
 </rss>
