@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Oct 2022 09:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2022 21:08:17 +0000</lastBuildDate>
     <item>
       <title>High Fidelity Neural Audio Compression</title>
       <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
       <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
+    </item>
+    <item>
+      <title>DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models</title>
+      <link>https://paperswithcode.com/paper/diffusiondb-a-large-scale-prompt-gallery</link>
+      <description><![CDATA[We analyze prompts in the dataset and discuss key properties of these prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondb-a-large-scale-prompt-gallery</guid>
     </item>
     <item>
       <title>TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second</title>
@@ -27,22 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/metaformer-baselines-for-vision</guid>
     </item>
     <item>
+      <title>S3E: A Large-scale Multimodal Dataset for Collaborative SLAM</title>
+      <link>https://paperswithcode.com/paper/s3e-a-large-scale-multimodal-dataset-for</link>
+      <description><![CDATA[With the advanced request to employ a team of robots to perform a task collaboratively, the research community has become increasingly interested in collaborative simultaneous localization and mapping.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s3e-a-large-scale-multimodal-dataset-for</guid>
+    </item>
+    <item>
       <title>Musika! Fast Infinite Waveform Music Generation</title>
       <link>https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</link>
       <description><![CDATA[We release the source code and pretrained autoencoder weights at github. com/marcoppasini/musika, such that a GAN can be trained on a new music domain with a single GPU in a matter of hours.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/musika-fast-infinite-waveform-music</guid>
-    </item>
-    <item>
-      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
-      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
-      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
-    </item>
-    <item>
-      <title>Personalizing Text-to-Image Generation via Aesthetic Gradients</title>
-      <link>https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</link>
-      <description><![CDATA[This work proposes aesthetic gradients, a method to personalize a CLIP-conditioned diffusion model by guiding the generative process towards custom aesthetics defined by the user from a set of images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</guid>
     </item>
     <item>
       <title>Poisson Flow Generative Models</title>
@@ -51,16 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/poisson-flow-generative-models</guid>
     </item>
     <item>
-      <title>Evaluating Long-Term Memory in 3D Mazes</title>
-      <link>https://paperswithcode.com/paper/evaluating-long-term-memory-in-3d-mazes</link>
-      <description><![CDATA[However, most benchmark tasks in reinforcement learning do not test long-term memory in agents, slowing down progress in this important research direction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-long-term-memory-in-3d-mazes</guid>
+      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
+      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
+      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
     </item>
     <item>
-      <title>Scaling Instruction-Finetuned Language Models</title>
-      <link>https://paperswithcode.com/paper/scaling-instruction-finetuned-language-models</link>
-      <description><![CDATA[We find that instruction finetuning with the above aspects dramatically improves performance on a variety of model classes (PaLM, T5, U-PaLM), prompting setups (zero-shot, few-shot, CoT), and evaluation benchmarks (MMLU, BBH, TyDiQA, MGSM, open-ended generation).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-instruction-finetuned-language-models</guid>
+      <title>Structure-based Drug Design with Equivariant Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/structure-based-drug-design-with-equivariant</link>
+      <description><![CDATA[In this paper, we formulate SBDD as a 3D-conditional generation problem and present DiffSBDD, an E(3)-equivariant 3D-conditional diffusion model that generates novel ligands conditioned on protein pockets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/structure-based-drug-design-with-equivariant</guid>
+    </item>
+    <item>
+      <title>On the Versatile Uses of Partial Distance Correlation in Deep Learning</title>
+      <link>https://paperswithcode.com/paper/on-the-versatile-uses-of-partial-distance</link>
+      <description><![CDATA[Comparing the functional behavior of neural network models, whether it is a single network over time or two (or more networks) during or post-training, is an essential step in understanding what they are learning (and what they are not), and for identifying strategies for regularization or efficiency improvements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-versatile-uses-of-partial-distance</guid>
     </item>
     <item>
       <title>DeepNet: Scaling Transformers to 1,000 Layers</title>
@@ -69,16 +75,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepnet-scaling-transformers-to-1000-layers</guid>
     </item>
     <item>
-      <title>Finding Dataset Shortcuts with Grammar Induction</title>
-      <link>https://paperswithcode.com/paper/finding-dataset-shortcuts-with-grammar</link>
-      <description><![CDATA[Many NLP datasets have been found to contain shortcuts: simple decision rules that achieve surprisingly high accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/finding-dataset-shortcuts-with-grammar</guid>
+      <title>Contrastive Search Is What You Need For Neural Text Generation</title>
+      <link>https://paperswithcode.com/paper/contrastive-search-is-what-you-need-for</link>
+      <description><![CDATA[Based on our findings, we further assess the contrastive search decoding method using off-the-shelf LMs on four generation tasks across 16 languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/contrastive-search-is-what-you-need-for</guid>
+    </item>
+    <item>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>Personalizing Text-to-Image Generation via Aesthetic Gradients</title>
+      <link>https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</link>
+      <description><![CDATA[This work proposes aesthetic gradients, a method to personalize a CLIP-conditioned diffusion model by guiding the generative process towards custom aesthetics defined by the user from a set of images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/personalizing-text-to-image-generation-via</guid>
     </item>
     <item>
       <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title>
       <link>https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</link>
       <description><![CDATA[Editing is challenging for these generative models, since an innate property of an editing technique is to preserve most of the original image, while in the text-based models, even a small modification of the text prompt often leads to a completely different outcome.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</guid>
+    </item>
+    <item>
+      <title>Evaluating Long-Term Memory in 3D Mazes</title>
+      <link>https://paperswithcode.com/paper/evaluating-long-term-memory-in-3d-mazes</link>
+      <description><![CDATA[However, most benchmark tasks in reinforcement learning do not test long-term memory in agents, slowing down progress in this important research direction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-long-term-memory-in-3d-mazes</guid>
+    </item>
+    <item>
+      <title>Token Merging: Your ViT But Faster</title>
+      <link>https://paperswithcode.com/paper/token-merging-your-vit-but-faster</link>
+      <description><![CDATA[Off-the-shelf, ToMe can 2x the throughput of state-of-the-art ViT-L @ 512 and ViT-H @ 518 models on images and 2. 2x the throughput of ViT-L on video with only a 0. 2-0. 3% accuracy drop in each case.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-your-vit-but-faster</guid>
+    </item>
+    <item>
+      <title>torchode: A Parallel ODE Solver for PyTorch</title>
+      <link>https://paperswithcode.com/paper/torchode-a-parallel-ode-solver-for-pytorch</link>
+      <description><![CDATA[We introduce an ODE solver for the PyTorch ecosystem that can solve multiple ODEs in parallel independently from each other while achieving significant performance gains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchode-a-parallel-ode-solver-for-pytorch</guid>
     </item>
     <item>
       <title>DreamFusion: Text-to-3D using 2D Diffusion</title>
@@ -91,42 +127,6 @@
       <link>https://paperswithcode.com/paper/g-rep-gaussian-representation-for-arbitrary</link>
       <description><![CDATA[Then, three optional Gaussian metrics are explored to optimize the regression loss of the detector because of their excellent parameter optimization mechanisms.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/g-rep-gaussian-representation-for-arbitrary</guid>
-    </item>
-    <item>
-      <title>Deep Neural Networks to Detect Weeds from Crops in Agricultural Environments in Real-Time: A Review</title>
-      <link>https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</link>
-      <description><![CDATA[Machine vision has wide applications in agriculture, including the detection of weeds and pests in crops.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-neural-networks-to-detect-weeds-from</guid>
-    </item>
-    <item>
-      <title>Traditional and Heavy-Tailed Self Regularization in Neural Network Models</title>
-      <link>https://paperswithcode.com/paper/traditional-and-heavy-tailed-self</link>
-      <description><![CDATA[Random Matrix Theory (RMT) is applied to analyze the weight matrices of Deep Neural Networks (DNNs), including both production quality, pre-trained models such as AlexNet and Inception, and smaller models trained from scratch, such as LeNet5 and a miniature-AlexNet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/traditional-and-heavy-tailed-self</guid>
-    </item>
-    <item>
-      <title>Token Merging: Your ViT But Faster</title>
-      <link>https://paperswithcode.com/paper/token-merging-your-vit-but-faster</link>
-      <description><![CDATA[Off-the-shelf, ToMe can 2x the throughput of state-of-the-art ViT-L @ 512 and ViT-H @ 518 models on images and 2. 2x the throughput of ViT-L on video with only a 0. 2-0. 3% accuracy drop in each case.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-your-vit-but-faster</guid>
-    </item>
-    <item>
-      <title>Monocular Dynamic View Synthesis: A Reality Check</title>
-      <link>https://paperswithcode.com/paper/monocular-dynamic-view-synthesis-a-reality</link>
-      <description><![CDATA[We study the recent progress on dynamic view synthesis (DVS) from monocular video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monocular-dynamic-view-synthesis-a-reality</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
-      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
-      <link>https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</link>
-      <description><![CDATA[As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
     </item>
   </channel>
 </rss>
