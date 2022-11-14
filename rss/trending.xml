@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Nov 2022 21:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2022 09:16:15 +0000</lastBuildDate>
     <item>
       <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
       <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
@@ -33,6 +33,18 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</guid>
     </item>
     <item>
+      <title>Dungeons and Data: A Large-Scale NetHack Dataset</title>
+      <link>https://paperswithcode.com/paper/dungeons-and-data-a-large-scale-nethack</link>
+      <description><![CDATA[Recent breakthroughs in the development of agents to solve challenging sequential decision making problems such as Go, StarCraft, or DOTA, have relied on both simulated environments and large-scale datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dungeons-and-data-a-large-scale-nethack</guid>
+    </item>
+    <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+    </item>
+    <item>
       <title>PhaseAug: A Differentiable Augmentation for Speech Synthesis to Simulate One-to-Many Mapping</title>
       <link>https://paperswithcode.com/paper/phaseaug-a-differentiable-augmentation-for</link>
       <description><![CDATA[Previous generative adversarial network (GAN)-based neural vocoders are trained to reconstruct the exact ground truth waveform from the paired mel-spectrogram and do not consider the one-to-many relationship of speech synthesis.]]></description>
@@ -51,16 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
-      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
-      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
-      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
-    </item>
-    <item>
       <title>StyleNAT: Giving Each Head a New Perspective</title>
       <link>https://paperswithcode.com/paper/stylenat-giving-each-head-a-new-perspective</link>
       <description><![CDATA[Image generation has been a long sought-after but challenging task, and performing the generation task in an efficient manner is similarly difficult.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/stylenat-giving-each-head-a-new-perspective</guid>
+    </item>
+    <item>
+      <title>TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization</title>
+      <link>https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</link>
+      <description><![CDATA[Given thousands of equally accurate machine learning (ML) models, how can users choose among them?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</guid>
     </item>
     <item>
       <title>Focal Modulation Networks</title>
@@ -75,10 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/oneflow-redesign-the-distributed-deep</guid>
     </item>
     <item>
-      <title>Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese</title>
-      <link>https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</link>
-      <description><![CDATA[The tremendous success of CLIP (Radford et al., 2021) has promoted the research and application of contrastive learning for vision-language pretraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</guid>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
       <title>MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation</title>
@@ -93,10 +105,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
     </item>
     <item>
-      <title>TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization</title>
-      <link>https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</link>
-      <description><![CDATA[Given thousands of equally accurate machine learning (ML) models, how can users choose among them?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</guid>
+      <title>Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese</title>
+      <link>https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</link>
+      <description><![CDATA[The tremendous success of CLIP (Radford et al., 2021) has promoted the research and application of contrastive learning for vision-language pretraining.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</guid>
+    </item>
+    <item>
+      <title>tsai</title>
+      <link>https://github.com/timeseriesAI/tsai</link>
+      <description><![CDATA[Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai]]></description>
+      <guid isPermaLink="true">https://github.com/timeseriesAI/tsai</guid>
     </item>
     <item>
       <title>Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective</title>
@@ -105,28 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-learners-for-natural-language</guid>
     </item>
     <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
-      <title>Example-Based Named Entity Recognition</title>
-      <link>https://paperswithcode.com/paper/example-based-named-entity-recognition</link>
-      <description><![CDATA[We present a novel approach to named entity recognition (NER) in the presence of scarce data that we call example-based NER.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/example-based-named-entity-recognition</guid>
-    </item>
-    <item>
-      <title>Demystify Transformers &amp; Convolutions in Modern Image Deep Networks</title>
-      <link>https://paperswithcode.com/paper/demystify-transformers-convolutions-in-modern</link>
-      <description><![CDATA[Although the novel feature transformation designs are often claimed as the source of gain, some backbones may benefit from advanced engineering techniques, which makes it hard to identify the real gain from the key feature transformation operators.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demystify-transformers-convolutions-in-modern</guid>
-    </item>
-    <item>
-      <title>A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal</title>
-      <link>https://paperswithcode.com/paper/a-survey-of-deep-face-restoration-denoise</link>
-      <description><![CDATA[Second, we discuss the challenges of face restoration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-deep-face-restoration-denoise</guid>
+      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
+      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
+      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
     </item>
   </channel>
 </rss>
