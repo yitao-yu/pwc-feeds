@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Nov 2022 21:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 09:15:09 +0000</lastBuildDate>
+    <item>
+      <title>OneFormer: One Transformer to Rule Universal Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/oneformer-one-transformer-to-rule-universal</link>
+      <description><![CDATA[However, such panoptic architectures do not truly unify image segmentation because they need to be trained individually on the semantic, instance, or panoptic segmentation to achieve the best performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/oneformer-one-transformer-to-rule-universal</guid>
+    </item>
     <item>
       <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
       <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
@@ -19,12 +25,6 @@
       <link>https://paperswithcode.com/paper/unifying-flow-stereo-and-depth-estimation</link>
       <description><![CDATA[We present a unified formulation and model for three motion and 3D perception tasks: optical flow, rectified stereo matching and unrectified stereo depth estimation from posed images.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-flow-stereo-and-depth-estimation</guid>
-    </item>
-    <item>
-      <title>TAP-Vid: A Benchmark for Tracking Any Point in a Video</title>
-      <link>https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</link>
-      <description><![CDATA[Generic motion understanding from video involves not only tracking objects, but also perceiving how their surfaces deform and move.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</guid>
     </item>
     <item>
       <title>InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions</title>
@@ -45,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
     </item>
     <item>
-      <title>PhaseAug: A Differentiable Augmentation for Speech Synthesis to Simulate One-to-Many Mapping</title>
-      <link>https://paperswithcode.com/paper/phaseaug-a-differentiable-augmentation-for</link>
-      <description><![CDATA[Previous generative adversarial network (GAN)-based neural vocoders are trained to reconstruct the exact ground truth waveform from the paired mel-spectrogram and do not consider the one-to-many relationship of speech synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/phaseaug-a-differentiable-augmentation-for</guid>
+      <title>MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation</title>
+      <link>https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</link>
+      <description><![CDATA[First, it is the largest multi-modal conversation dataset by the number of dialogues by 8x.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</guid>
     </item>
     <item>
       <title>Real-Time Target Sound Extraction</title>
@@ -57,16 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-target-sound-extraction</guid>
     </item>
     <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>StyleNAT: Giving Each Head a New Perspective</title>
-      <link>https://paperswithcode.com/paper/stylenat-giving-each-head-a-new-perspective</link>
-      <description><![CDATA[Image generation has been a long sought-after but challenging task, and performing the generation task in an efficient manner is similarly difficult.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stylenat-giving-each-head-a-new-perspective</guid>
+      <title>PhaseAug: A Differentiable Augmentation for Speech Synthesis to Simulate One-to-Many Mapping</title>
+      <link>https://paperswithcode.com/paper/phaseaug-a-differentiable-augmentation-for</link>
+      <description><![CDATA[Previous generative adversarial network (GAN)-based neural vocoders are trained to reconstruct the exact ground truth waveform from the paired mel-spectrogram and do not consider the one-to-many relationship of speech synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/phaseaug-a-differentiable-augmentation-for</guid>
     </item>
     <item>
       <title>TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization</title>
@@ -75,16 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</guid>
     </item>
     <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
+      <title>TAP-Vid: A Benchmark for Tracking Any Point in a Video</title>
+      <link>https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</link>
+      <description><![CDATA[Generic motion understanding from video involves not only tracking objects, but also perceiving how their surfaces deform and move.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</guid>
+    </item>
+    <item>
       <title>Focal Modulation Networks</title>
       <link>https://paperswithcode.com/paper/focal-modulation-networks</link>
       <description><![CDATA[For semantic segmentation with UPerNet, FocalNet base at single-scale outperforms Swin by 2. 4, and beats Swin at multi-scale (50. 5 v. s.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/focal-modulation-networks</guid>
     </item>
     <item>
-      <title>OneFlow: Redesign the Distributed Deep Learning Framework from Scratch</title>
-      <link>https://paperswithcode.com/paper/oneflow-redesign-the-distributed-deep</link>
-      <description><![CDATA[Aiming at a simple, neat redesign of distributed deep learning frameworks for various parallelism paradigms, we present OneFlow, a novel distributed training framework based on an SBP (split, broadcast and partial-value) abstraction and the actor model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oneflow-redesign-the-distributed-deep</guid>
+      <title>StyleNAT: Giving Each Head a New Perspective</title>
+      <link>https://paperswithcode.com/paper/stylenat-giving-each-head-a-new-perspective</link>
+      <description><![CDATA[Image generation has been a long sought-after but challenging task, and performing the generation task in an efficient manner is similarly difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stylenat-giving-each-head-a-new-perspective</guid>
     </item>
     <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
@@ -93,16 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation</title>
-      <link>https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</link>
-      <description><![CDATA[First, it is the largest multi-modal conversation dataset by the number of dialogues by 8x.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</guid>
-    </item>
-    <item>
-      <title>High Fidelity Neural Audio Compression</title>
-      <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
-      <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
+      <title>DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models</title>
+      <link>https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</link>
+      <description><![CDATA[The commonly-used fast sampler for guided sampling is DDIM, a first-order diffusion ODE solver that generally needs 100 to 250 steps for high-quality samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</guid>
     </item>
     <item>
       <title>Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</guid>
     </item>
     <item>
+      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
+      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
+      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
+    </item>
+    <item>
       <title>tsai</title>
       <link>https://github.com/timeseriesAI/tsai</link>
       <description><![CDATA[Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai]]></description>
       <guid isPermaLink="true">https://github.com/timeseriesAI/tsai</guid>
     </item>
     <item>
-      <title>Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective</title>
-      <link>https://paperswithcode.com/paper/zero-shot-learners-for-natural-language</link>
-      <description><![CDATA[We propose a new paradigm for zero-shot learners that is format agnostic, i. e., it is compatible with any format and applicable to a list of language tasks, such as text classification, commonsense reasoning, coreference resolution, and sentiment analysis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-learners-for-natural-language</guid>
-    </item>
-    <item>
-      <title>Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera</title>
-      <link>https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</link>
-      <description><![CDATA[We propose Neural-DynamicReconstruction (NDR), a template-free method to recover high-fidelity geometry and motions of a dynamic scene from a monocular RGB-D camera.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-surface-reconstruction-of-dynamic</guid>
+      <title>High Fidelity Neural Audio Compression</title>
+      <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
+      <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
     </item>
   </channel>
 </rss>
