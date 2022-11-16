@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Nov 2022 09:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2022 21:07:29 +0000</lastBuildDate>
+    <item>
+      <title>Galactica: A Large Language Model for Science</title>
+      <link>https://paperswithcode.com/paper/galactica-a-large-language-model-for-science</link>
+      <description><![CDATA[And despite not being trained on a general corpus, Galactica outperforms BLOOM and OPT-175B on BIG-bench.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/galactica-a-large-language-model-for-science</guid>
+    </item>
     <item>
       <title>OneFormer: One Transformer to Rule Universal Image Segmentation</title>
       <link>https://paperswithcode.com/paper/oneformer-one-transformer-to-rule-universal</link>
@@ -39,22 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-flow-stereo-and-depth-estimation</guid>
     </item>
     <item>
-      <title>Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding</title>
-      <link>https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</link>
-      <description><![CDATA[In this work, we present MinD-Vis: Sparse Masked Brain Modeling with Double-Conditioned Latent Diffusion Model for Human Vision Decoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</guid>
+      <title>InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions</title>
+      <link>https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</link>
+      <description><![CDATA[Compared to the great progress of large-scale vision transformers (ViTs) in recent years, large-scale models based on convolutional neural networks (CNNs) are still in an early state.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</guid>
     </item>
     <item>
       <title>Dungeons and Data: A Large-Scale NetHack Dataset</title>
       <link>https://paperswithcode.com/paper/dungeons-and-data-a-large-scale-nethack</link>
       <description><![CDATA[Recent breakthroughs in the development of agents to solve challenging sequential decision making problems such as Go, StarCraft, or DOTA, have relied on both simulated environments and large-scale datasets.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dungeons-and-data-a-large-scale-nethack</guid>
-    </item>
-    <item>
-      <title>InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions</title>
-      <link>https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</link>
-      <description><![CDATA[Compared to the great progress of large-scale vision transformers (ViTs) in recent years, large-scale models based on convolutional neural networks (CNNs) are still in an early state.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</guid>
     </item>
     <item>
       <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
@@ -69,22 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/repghost-a-hardware-efficient-ghost-module</guid>
     </item>
     <item>
-      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
-      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
-      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
-    </item>
-    <item>
-      <title>TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization</title>
-      <link>https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</link>
-      <description><![CDATA[Given thousands of equally accurate machine learning (ML) models, how can users choose among them?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</guid>
-    </item>
-    <item>
-      <title>A unified one-shot prosody and speaker conversion system with self-supervised discrete speech units</title>
-      <link>https://paperswithcode.com/paper/a-unified-one-shot-prosody-and-speaker</link>
-      <description><![CDATA[To address these issues, we devise a cascaded modular system leveraging self-supervised discrete speech units as language representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-unified-one-shot-prosody-and-speaker</guid>
+      <title>Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding</title>
+      <link>https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</link>
+      <description><![CDATA[In this work, we present MinD-Vis: Sparse Masked Brain Modeling with Double-Conditioned Latent Diffusion Model for Human Vision Decoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</guid>
     </item>
     <item>
       <title>DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models</title>
@@ -93,16 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</guid>
     </item>
     <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+    </item>
+    <item>
+      <title>A unified one-shot prosody and speaker conversion system with self-supervised discrete speech units</title>
+      <link>https://paperswithcode.com/paper/a-unified-one-shot-prosody-and-speaker</link>
+      <description><![CDATA[To address these issues, we devise a cascaded modular system leveraging self-supervised discrete speech units as language representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-unified-one-shot-prosody-and-speaker</guid>
+    </item>
+    <item>
       <title>Focal Modulation Networks</title>
       <link>https://paperswithcode.com/paper/focal-modulation-networks</link>
       <description><![CDATA[For semantic segmentation with UPerNet, FocalNet base at single-scale outperforms Swin by 2. 4, and beats Swin at multi-scale (50. 5 v. s.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/focal-modulation-networks</guid>
-    </item>
-    <item>
-      <title>MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation</title>
-      <link>https://paperswithcode.com/paper/medleyvox-an-evaluation-dataset-for-multiple</link>
-      <description><![CDATA[In this paper, we present an evaluation dataset and provide baseline studies for multiple singing voices separation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/medleyvox-an-evaluation-dataset-for-multiple</guid>
     </item>
     <item>
       <title>MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation</title>
@@ -111,22 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</guid>
     </item>
     <item>
+      <title>MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation</title>
+      <link>https://paperswithcode.com/paper/medleyvox-an-evaluation-dataset-for-multiple</link>
+      <description><![CDATA[In this paper, we present an evaluation dataset and provide baseline studies for multiple singing voices separation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/medleyvox-an-evaluation-dataset-for-multiple</guid>
+    </item>
+    <item>
+      <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title>
+      <link>https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</link>
+      <description><![CDATA[Editing is challenging for these generative models, since an innate property of an editing technique is to preserve most of the original image, while in the text-based models, even a small modification of the text prompt often leads to a completely different outcome.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-to-prompt-image-editing-with-cross</guid>
+    </item>
+    <item>
       <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
       <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
       <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>What the DAAM: Interpreting Stable Diffusion Using Cross Attention</title>
-      <link>https://paperswithcode.com/paper/what-the-daam-interpreting-stable-diffusion</link>
-      <description><![CDATA[In this paper, to shine some much-needed light on text-to-image diffusion models, we perform a text-image attribution analysis on Stable Diffusion, a recently open-sourced large diffusion model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-the-daam-interpreting-stable-diffusion</guid>
-    </item>
-    <item>
-      <title>Self-Supervised Image Restoration with Blurry and Noisy Pairs</title>
-      <link>https://paperswithcode.com/paper/self-supervised-image-restoration-with-blurry</link>
-      <description><![CDATA[By learning in a collaborative manner, the deblurring and denoising tasks in our method can benefit each other.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-image-restoration-with-blurry</guid>
+      <title>TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization</title>
+      <link>https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</link>
+      <description><![CDATA[Given thousands of equally accurate machine learning (ML) models, how can users choose among them?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/timbertrek-exploring-and-curating-sparse</guid>
     </item>
   </channel>
 </rss>
