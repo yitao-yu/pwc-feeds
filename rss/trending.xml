@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Nov 2022 09:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Nov 2022 21:07:22 +0000</lastBuildDate>
     <item>
       <title>Galactica: A Large Language Model for Science</title>
       <link>https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</link>
@@ -45,16 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/latent-nerf-for-shape-guided-generation-of-3d</guid>
     </item>
     <item>
-      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
-      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
-      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
-    </item>
-    <item>
       <title>Closed-form Continuous-time Neural Models</title>
       <link>https://paperswithcode.com/paper/closed-form-continuous-depth-models</link>
       <description><![CDATA[To this end, we compute a tightly-bounded approximation of the solution of an integral appearing in LTCs' dynamics, that has had no known closed-form solution so far.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/closed-form-continuous-depth-models</guid>
+    </item>
+    <item>
+      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
+      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
+      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
     </item>
     <item>
       <title>CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis</title>
@@ -75,12 +75,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</guid>
     </item>
     <item>
-      <title>DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models</title>
-      <link>https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</link>
-      <description><![CDATA[The commonly-used fast sampler for guided sampling is DDIM, a first-order diffusion ODE solver that generally needs 100 to 250 steps for high-quality samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</guid>
-    </item>
-    <item>
       <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
       <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
       <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual multimodal representation model.]]></description>
@@ -91,6 +85,12 @@
       <link>https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</link>
       <description><![CDATA[Compared to the great progress of large-scale vision transformers (ViTs) in recent years, large-scale models based on convolutional neural networks (CNNs) are still in an early state.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</guid>
+    </item>
+    <item>
+      <title>DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models</title>
+      <link>https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</link>
+      <description><![CDATA[The commonly-used fast sampler for guided sampling is DDIM, a first-order diffusion ODE solver that generally needs 100 to 250 steps for high-quality samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dpm-solver-fast-solver-for-guided-sampling-of</guid>
     </item>
     <item>
       <title>RepGhost: A Hardware-Efficient Ghost Module via Re-parameterization</title>
@@ -111,16 +111,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation</title>
-      <link>https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</link>
-      <description><![CDATA[First, it is the largest multi-modal conversation dataset by the number of dialogues by 88x.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</guid>
-    </item>
-    <item>
       <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
       <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
       <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+    </item>
+    <item>
+      <title>MMDialog: A Large-scale Multi-turn Dialogue Dataset Towards Multi-modal Open-domain Conversation</title>
+      <link>https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</link>
+      <description><![CDATA[First, it is the largest multi-modal conversation dataset by the number of dialogues by 88x.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mmdialog-a-large-scale-multi-turn-dialogue</guid>
     </item>
     <item>
       <title>What the DAAM: Interpreting Stable Diffusion Using Cross Attention</title>
