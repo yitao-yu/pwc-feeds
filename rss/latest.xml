@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Nov 2022 21:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Nov 2022 09:13:51 +0000</lastBuildDate>
+    <item>
+      <title>3DLatNav: Navigating Generative Latent Spaces for Semantic-Aware 3D Object Manipulation</title>
+      <link>https://paperswithcode.com/paper/3dlatnav-navigating-generative-latent-spaces</link>
+      <description><![CDATA[However, most models do not offer controllability to manipulate the shape semantics of component object parts without extensive semantic attribute labels or other reference point clouds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3dlatnav-navigating-generative-latent-spaces</guid>
+    </item>
     <item>
       <title>EfficientTrain: Exploring Generalized Curriculum Learning for Training Visual Backbones</title>
       <link>https://paperswithcode.com/paper/efficienttrain-exploring-generalized</link>
@@ -15,16 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficienttrain-exploring-generalized</guid>
     </item>
     <item>
-      <title>Towards Building Text-To-Speech Systems for the Next Billion Users</title>
-      <link>https://paperswithcode.com/paper/towards-building-text-to-speech-systems-for</link>
-      <description><![CDATA[We open-source all models on the Bhashini platform.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-building-text-to-speech-systems-for</guid>
+      <title>Cross-Modal Adapter for Text-Video Retrieval</title>
+      <link>https://paperswithcode.com/paper/cross-modal-adapter-for-text-video-retrieval</link>
+      <description><![CDATA[However, as pre-trained models are scaling up, fully fine-tuning them on text-video retrieval datasets has a high risk of overfitting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-adapter-for-text-video-retrieval</guid>
     </item>
     <item>
-      <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
-      <link>https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</link>
-      <description><![CDATA[While deep learning models have replaced hand-designed features across many domains, these models are still trained with hand-designed optimizers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</guid>
+      <title>BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection</title>
+      <link>https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for</link>
+      <description><![CDATA[Instead of directly training a depth prediction network, we unify the image and LiDAR features in the Bird-Eye-View (BEV) space and adaptively transfer knowledge across non-homogenous representations in a teacher-student paradigm.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for</guid>
+    </item>
+    <item>
+      <title>DeepPrivacy2: Towards Realistic Full-Body Anonymization</title>
+      <link>https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</link>
+      <description><![CDATA[Generative Adversarial Networks (GANs) are widely adapted for anonymization of human figures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</guid>
     </item>
     <item>
       <title>DiffusionDet: Diffusion Model for Object Detection</title>
@@ -45,52 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/uni-perceiver-v2-a-generalist-model-for-large</guid>
     </item>
     <item>
-      <title>Cross-Modal Adapter for Text-Video Retrieval</title>
-      <link>https://paperswithcode.com/paper/cross-modal-adapter-for-text-video-retrieval</link>
-      <description><![CDATA[However, as pre-trained models are scaling up, fully fine-tuning them on text-video retrieval datasets has a high risk of overfitting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-adapter-for-text-video-retrieval</guid>
-    </item>
-    <item>
-      <title>Ignore Previous Prompt: Attack Techniques For Language Models</title>
-      <link>https://paperswithcode.com/paper/ignore-previous-prompt-attack-techniques-for</link>
-      <description><![CDATA[Transformer-based large language models (LLMs) provide a powerful foundation for natural language tasks in large-scale customer-facing applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ignore-previous-prompt-attack-techniques-for</guid>
-    </item>
-    <item>
-      <title>3DLatNav: Navigating Generative Latent Spaces for Semantic-Aware 3D Object Manipulation</title>
-      <link>https://paperswithcode.com/paper/3dlatnav-navigating-generative-latent-spaces</link>
-      <description><![CDATA[However, most models do not offer controllability to manipulate the shape semantics of component object parts without extensive semantic attribute labels or other reference point clouds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3dlatnav-navigating-generative-latent-spaces</guid>
-    </item>
-    <item>
-      <title>UniSumm: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning</title>
-      <link>https://paperswithcode.com/paper/unisumm-unified-few-shot-summarization-with</link>
-      <description><![CDATA[The diverse demands of different summarization tasks and their high annotation costs are driving a need for few-shot summarization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unisumm-unified-few-shot-summarization-with</guid>
-    </item>
-    <item>
-      <title>Monitoring machine learning (ML)-based risk prediction algorithms in the presence of confounding medical interventions</title>
-      <link>https://paperswithcode.com/paper/monitoring-machine-learning-ml-based-risk</link>
-      <description><![CDATA[Monitoring the performance of machine learning (ML)-based risk prediction models in healthcare is complicated by the issue of confounding medical interventions (CMI): when an algorithm predicts a patient to be at high risk for an adverse event, clinicians are more likely to administer prophylactic treatment and alter the very target that the algorithm aims to predict.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monitoring-machine-learning-ml-based-risk</guid>
-    </item>
-    <item>
-      <title>Efficient Transformers with Dynamic Token Pooling</title>
-      <link>https://paperswithcode.com/paper/efficient-transformers-with-dynamic-token</link>
-      <description><![CDATA[Transformers achieve unrivalled performance in modelling language, but remain inefficient in terms of memory and time complexity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-transformers-with-dynamic-token</guid>
-    </item>
-    <item>
-      <title>Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics</title>
-      <link>https://paperswithcode.com/paper/self-supervised-trajectory-representation</link>
-      <description><![CDATA[TRL aims to convert complicated raw trajectories into low-dimensional representation vectors, which can be applied to various downstream tasks, such as trajectory classification, clustering, and similarity computation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-trajectory-representation</guid>
-    </item>
-    <item>
-      <title>A Generalized Latent Factor Model Approach to Mixed-data Matrix Completion with Entrywise Consistency</title>
-      <link>https://paperswithcode.com/paper/a-generalized-latent-factor-model-approach-to</link>
-      <description><![CDATA[Matrix completion is a class of machine learning methods that concerns the prediction of missing entries in a partially observed matrix.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-generalized-latent-factor-model-approach-to</guid>
+      <title>Towards Building Text-To-Speech Systems for the Next Billion Users</title>
+      <link>https://paperswithcode.com/paper/towards-building-text-to-speech-systems-for</link>
+      <description><![CDATA[We open-source all models on the Bhashini platform.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-building-text-to-speech-systems-for</guid>
     </item>
     <item>
       <title>Towards Good Practices in Evaluating Transfer Adversarial Attacks</title>
@@ -99,16 +69,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-good-practices-in-evaluating-transfer</guid>
     </item>
     <item>
-      <title>A Bird's-eye View of Reranking: from List Level to Page Level</title>
-      <link>https://paperswithcode.com/paper/a-bird-s-eye-view-of-reranking-from-list</link>
-      <description><![CDATA[Moreover, simply applying a shared network for all the lists fails to capture the commonalities and distinctions in user behaviors on different lists.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-bird-s-eye-view-of-reranking-from-list</guid>
+      <title>Monitoring machine learning (ML)-based risk prediction algorithms in the presence of confounding medical interventions</title>
+      <link>https://paperswithcode.com/paper/monitoring-machine-learning-ml-based-risk</link>
+      <description><![CDATA[Monitoring the performance of machine learning (ML)-based risk prediction models in healthcare is complicated by the issue of confounding medical interventions (CMI): when an algorithm predicts a patient to be at high risk for an adverse event, clinicians are more likely to administer prophylactic treatment and alter the very target that the algorithm aims to predict.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/monitoring-machine-learning-ml-based-risk</guid>
     </item>
     <item>
-      <title>Statistical Inference for Coadded Astronomical Images</title>
-      <link>https://paperswithcode.com/paper/statistical-inference-for-coadded</link>
-      <description><![CDATA[Coadded astronomical images are created by stacking multiple single-exposure images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/statistical-inference-for-coadded</guid>
+      <title>UniSumm: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning</title>
+      <link>https://paperswithcode.com/paper/unisumm-unified-few-shot-summarization-with</link>
+      <description><![CDATA[The diverse demands of different summarization tasks and their high annotation costs are driving a need for few-shot summarization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unisumm-unified-few-shot-summarization-with</guid>
+    </item>
+    <item>
+      <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
+      <link>https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</link>
+      <description><![CDATA[While deep learning models have replaced hand-designed features across many domains, these models are still trained with hand-designed optimizers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</guid>
+    </item>
+    <item>
+      <title>Efficient Transformers with Dynamic Token Pooling</title>
+      <link>https://paperswithcode.com/paper/efficient-transformers-with-dynamic-token</link>
+      <description><![CDATA[Transformers achieve unrivalled performance in modelling language, but remain inefficient in terms of memory and time complexity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-transformers-with-dynamic-token</guid>
+    </item>
+    <item>
+      <title>Abstractive Summarization Guided by Latent Hierarchical Document Structure</title>
+      <link>https://paperswithcode.com/paper/abstractive-summarization-guided-by-latent</link>
+      <description><![CDATA[Sequential abstractive neural summarizers often do not use the underlying structure in the input article or dependencies between the input sentences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/abstractive-summarization-guided-by-latent</guid>
     </item>
     <item>
       <title>MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors</title>
@@ -123,10 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-automated-design-of-bayesian</guid>
     </item>
     <item>
-      <title>Abstractive Summarization Guided by Latent Hierarchical Document Structure</title>
-      <link>https://paperswithcode.com/paper/abstractive-summarization-guided-by-latent</link>
-      <description><![CDATA[Sequential abstractive neural summarizers often do not use the underlying structure in the input article or dependencies between the input sentences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/abstractive-summarization-guided-by-latent</guid>
+      <title>A Generalized Latent Factor Model Approach to Mixed-data Matrix Completion with Entrywise Consistency</title>
+      <link>https://paperswithcode.com/paper/a-generalized-latent-factor-model-approach-to</link>
+      <description><![CDATA[Matrix completion is a class of machine learning methods that concerns the prediction of missing entries in a partially observed matrix.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-generalized-latent-factor-model-approach-to</guid>
     </item>
     <item>
       <title>Why Deep Learning Generalizes</title>
@@ -135,28 +123,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/why-deep-learning-generalizes</guid>
     </item>
     <item>
+      <title>A Bird's-eye View of Reranking: from List Level to Page Level</title>
+      <link>https://paperswithcode.com/paper/a-bird-s-eye-view-of-reranking-from-list</link>
+      <description><![CDATA[Moreover, simply applying a shared network for all the lists fails to capture the commonalities and distinctions in user behaviors on different lists.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-bird-s-eye-view-of-reranking-from-list</guid>
+    </item>
+    <item>
+      <title>Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics</title>
+      <link>https://paperswithcode.com/paper/self-supervised-trajectory-representation</link>
+      <description><![CDATA[TRL aims to convert complicated raw trajectories into low-dimensional representation vectors, which can be applied to various downstream tasks, such as trajectory classification, clustering, and similarity computation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-trajectory-representation</guid>
+    </item>
+    <item>
+      <title>Statistical Inference for Coadded Astronomical Images</title>
+      <link>https://paperswithcode.com/paper/statistical-inference-for-coadded</link>
+      <description><![CDATA[Coadded astronomical images are created by stacking multiple single-exposure images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/statistical-inference-for-coadded</guid>
+    </item>
+    <item>
       <title>aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception</title>
       <link>https://paperswithcode.com/paper/aimotive-dataset-a-multimodal-dataset-for</link>
       <description><![CDATA[The dataset consists of 176 scenes with synchronized and calibrated LiDAR, camera, and radar sensors covering a 360-degree field of view.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/aimotive-dataset-a-multimodal-dataset-for</guid>
     </item>
     <item>
-      <title>DeepPrivacy2: Towards Realistic Full-Body Anonymization</title>
-      <link>https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</link>
-      <description><![CDATA[Generative Adversarial Networks (GANs) are widely adapted for anonymization of human figures.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</guid>
+      <title>Ignore Previous Prompt: Attack Techniques For Language Models</title>
+      <link>https://paperswithcode.com/paper/ignore-previous-prompt-attack-techniques-for</link>
+      <description><![CDATA[Transformer-based large language models (LLMs) provide a powerful foundation for natural language tasks in large-scale customer-facing applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ignore-previous-prompt-attack-techniques-for</guid>
+    </item>
+    <item>
+      <title>Visual Commonsense-aware Representation Network for Video Captioning</title>
+      <link>https://paperswithcode.com/paper/visual-commonsense-aware-representation</link>
+      <description><![CDATA[Generating consecutive descriptions for videos, i. e., Video Captioning, requires taking full advantage of visual representation along with the generation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-commonsense-aware-representation</guid>
     </item>
     <item>
       <title>Progressive Tree-Structured Prototype Network for End-to-End Image Captioning</title>
       <link>https://paperswithcode.com/paper/progressive-tree-structured-prototype-network</link>
       <description><![CDATA[Specifically, we design a novel embedding method called tree-structured prototype, producing a set of hierarchical representative embeddings which capture the hierarchical semantic structure in textual space.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/progressive-tree-structured-prototype-network</guid>
-    </item>
-    <item>
-      <title>BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection</title>
-      <link>https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for</link>
-      <description><![CDATA[Instead of directly training a depth prediction network, we unify the image and LiDAR features in the Bird-Eye-View (BEV) space and adaptively transfer knowledge across non-homogenous representations in a teacher-student paradigm.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bevdistill-cross-modal-bev-distillation-for</guid>
     </item>
     <item>
       <title>InternVideo-Ego4D: A Pack of Champion Solutions to Ego4D Challenges</title>
@@ -171,34 +177,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-arbitrary-keypoints-on-limbs-and</guid>
     </item>
     <item>
-      <title>Visual Commonsense-aware Representation Network for Video Captioning</title>
-      <link>https://paperswithcode.com/paper/visual-commonsense-aware-representation</link>
-      <description><![CDATA[Generating consecutive descriptions for videos, i. e., Video Captioning, requires taking full advantage of visual representation along with the generation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-commonsense-aware-representation</guid>
+      <title>Person Text-Image Matching via Text-Featur Interpretability Embedding and External Attack Node Implantation</title>
+      <link>https://paperswithcode.com/paper/person-text-image-matching-via-text-featur</link>
+      <description><![CDATA[Specifically, we improve the interpretability of text features by providing them with consistent semantic information with image features to achieve the alignment of text and describe image region features. To address the challenges posed by the diversity of text and the corresponding person images, we treat the variation caused by diversity to features as caused by perturbation information and propose a novel adversarial attack and defense method to solve it.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/person-text-image-matching-via-text-featur</guid>
     </item>
     <item>
-      <title>Learning Dense and Continuous Optical Flow from an Event Camera</title>
-      <link>https://paperswithcode.com/paper/learning-dense-and-continuous-optical-flow</link>
-      <description><![CDATA[In this paper, we propose a novel deep learning-based dense and continuous optical flow estimation framework from a single image with event streams, which facilitates the accurate perception of high-speed motion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-dense-and-continuous-optical-flow</guid>
-    </item>
-    <item>
-      <title>A Simple Transformer-Based Model for Ego4D Natural Language Queries Challenge</title>
-      <link>https://paperswithcode.com/paper/a-simple-transformer-based-model-for-ego4d</link>
-      <description><![CDATA[This report describes Badgers@UW-Madison, our submission to the Ego4D Natural Language Queries (NLQ) Challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-simple-transformer-based-model-for-ego4d</guid>
-    </item>
-    <item>
-      <title>Prompt Tuning for Parameter-efficient Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/prompt-tuning-for-parameter-efficient-medical</link>
-      <description><![CDATA[As such, fine-tuning a model to a downstream task in a parameter-efficient but effective way, e. g. for a new set of classes in the case of semantic segmentation, is of increasing importance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-tuning-for-parameter-efficient-medical</guid>
-    </item>
-    <item>
-      <title>ELDA: Using Edges to Have an Edge on Semantic Segmentation Based UDA</title>
-      <link>https://paperswithcode.com/paper/elda-using-edges-to-have-an-edge-on-semantic</link>
-      <description><![CDATA[Despite their effectiveness, using depth as domain invariant information in UDA tasks may lead to multiple issues, such as excessively high extraction costs and difficulties in achieving a reliable prediction quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/elda-using-edges-to-have-an-edge-on-semantic</guid>
+      <title>CSCD-IME: Correcting Spelling Errors Generated by Pinyin IME</title>
+      <link>https://paperswithcode.com/paper/cscd-ime-correcting-spelling-errors-generated</link>
+      <description><![CDATA[In fact, most of Chinese input is based on pinyin input method, so the study of spelling errors in this process is more practical and valuable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cscd-ime-correcting-spelling-errors-generated</guid>
     </item>
     <item>
       <title>Giving Feedback on Interactive Student Programs with Meta-Exploration</title>
@@ -207,10 +195,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/giving-feedback-on-interactive-student</guid>
     </item>
     <item>
-      <title>Symmetries in the dynamics of wide two-layer neural networks</title>
-      <link>https://paperswithcode.com/paper/symmetries-in-the-dynamics-of-wide-two-layer</link>
-      <description><![CDATA[We consider the idealized setting of gradient flow on the population risk for infinitely wide two-layer ReLU neural networks (without bias), and study the effect of symmetries on the learned parameters and predictors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/symmetries-in-the-dynamics-of-wide-two-layer</guid>
+      <title>McNet: Fuse Multiple Cues for Multichannel Speech Enhancement</title>
+      <link>https://paperswithcode.com/paper/mcnet-fuse-multiple-cues-for-multichannel</link>
+      <description><![CDATA[In multichannel speech enhancement, both spectral and spatial information are vital for discriminating between speech and noise.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mcnet-fuse-multiple-cues-for-multichannel</guid>
+    </item>
+    <item>
+      <title>AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders</title>
+      <link>https://paperswithcode.com/paper/adamae-adaptive-masking-for-efficient</link>
+      <description><![CDATA[Our adaptive masking strategy samples visible tokens based on the semantic context using an auxiliary sampling network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adamae-adaptive-masking-for-efficient</guid>
+    </item>
+    <item>
+      <title>Testing geometric representation hypotheses from simulated place cell recordings</title>
+      <link>https://paperswithcode.com/paper/testing-geometric-representation-hypotheses</link>
+      <description><![CDATA[Hippocampal place cells can encode spatial locations of an animal in physical or task-relevant spaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/testing-geometric-representation-hypotheses</guid>
+    </item>
+    <item>
+      <title>Hierarchical Dynamic Image Harmonization</title>
+      <link>https://paperswithcode.com/paper/hierarchical-dynamic-image-harmonization</link>
+      <description><![CDATA[Inspired by the dynamic deep networks that adapt the model structures or parameters conditioned on the inputs, we propose a hierarchical dynamic network (HDNet) for efficient image harmonization to adapt the model parameters and features from local to global view for better feature transformation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchical-dynamic-image-harmonization</guid>
+    </item>
+    <item>
+      <title>Prompt Tuning for Parameter-efficient Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/prompt-tuning-for-parameter-efficient-medical</link>
+      <description><![CDATA[As such, fine-tuning a model to a downstream task in a parameter-efficient but effective way, e. g. for a new set of classes in the case of semantic segmentation, is of increasing importance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-tuning-for-parameter-efficient-medical</guid>
     </item>
     <item>
       <title>SETAR-Tree: A Novel and Accurate Tree Algorithm for Global Time Series Forecasting</title>
@@ -219,16 +231,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/setar-tree-a-novel-and-accurate-tree</guid>
     </item>
     <item>
-      <title>Augmented Physics-Informed Neural Networks (APINNs): A gating network-based soft domain decomposition methodology</title>
-      <link>https://paperswithcode.com/paper/augmented-physics-informed-neural-networks</link>
-      <description><![CDATA[We also show cases where XPINN is already better than PINN, so APINN can still slightly improve XPINN.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/augmented-physics-informed-neural-networks</guid>
-    </item>
-    <item>
-      <title>Analysis and Detectability of Offline Data Poisoning Attacks on Linear Systems</title>
-      <link>https://paperswithcode.com/paper/analysis-and-detectability-of-offline-data</link>
-      <description><![CDATA[A recent body of literature has investigated the effect of data poisoning attacks on data-driven control methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/analysis-and-detectability-of-offline-data</guid>
+      <title>Squeeze flow of micro-droplets: convolutional neural network with trainable and tunable refinement</title>
+      <link>https://paperswithcode.com/paper/squeeze-flow-of-micro-droplets-convolutional</link>
+      <description><![CDATA[In the second part of this paper, we introduce a residual convolutional neural network to solve the corresponding inverse problem: to translate a high-resolution (HR) imprint image with a specific liquid film thickness to a low-resolution (LR) droplet pattern image capable of producing the given imprint image for an appropriate spread time of droplets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/squeeze-flow-of-micro-droplets-convolutional</guid>
     </item>
     <item>
       <title>Dynamical Linear Bandits</title>
@@ -237,40 +243,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dynamical-linear-bandits</guid>
     </item>
     <item>
-      <title>Squeeze flow of micro-droplets: convolutional neural network with trainable and tunable refinement</title>
-      <link>https://paperswithcode.com/paper/squeeze-flow-of-micro-droplets-convolutional</link>
-      <description><![CDATA[In the second part of this paper, we introduce a residual convolutional neural network to solve the corresponding inverse problem: to translate a high-resolution (HR) imprint image with a specific liquid film thickness to a low-resolution (LR) droplet pattern image capable of producing the given imprint image for an appropriate spread time of droplets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/squeeze-flow-of-micro-droplets-convolutional</guid>
-    </item>
-    <item>
-      <title>Person Text-Image Matching via Text-Featur Interpretability Embedding and External Attack Node Implantation</title>
-      <link>https://paperswithcode.com/paper/person-text-image-matching-via-text-featur</link>
-      <description><![CDATA[Specifically, we improve the interpretability of text features by providing them with consistent semantic information with image features to achieve the alignment of text and describe image region features. To address the challenges posed by the diversity of text and the corresponding person images, we treat the variation caused by diversity to features as caused by perturbation information and propose a novel adversarial attack and defense method to solve it.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/person-text-image-matching-via-text-featur</guid>
-    </item>
-    <item>
-      <title>McNet: Fuse Multiple Cues for Multichannel Speech Enhancement</title>
-      <link>https://paperswithcode.com/paper/mcnet-fuse-multiple-cues-for-multichannel</link>
-      <description><![CDATA[In multichannel speech enhancement, both spectral and spatial information are vital for discriminating between speech and noise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mcnet-fuse-multiple-cues-for-multichannel</guid>
-    </item>
-    <item>
-      <title>Features for the 0-1 knapsack problem based on inclusionwise maximal solutions</title>
-      <link>https://paperswithcode.com/paper/features-for-the-0-1-knapsack-problem-based</link>
-      <description><![CDATA[We show that the proposed features contain important information related to the empirical hardness of a problem instance that was missing in earlier features from the literature by training machine learning models that can accurately predict the empirical hardness of a wide variety of 0-1 knapsack problem instances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/features-for-the-0-1-knapsack-problem-based</guid>
-    </item>
-    <item>
-      <title>Unified Question Answering in Slovene</title>
-      <link>https://paperswithcode.com/paper/unified-question-answering-in-slovene</link>
-      <description><![CDATA[Most approaches are developed for English, while less-resourced languages are much less researched.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unified-question-answering-in-slovene</guid>
-    </item>
-    <item>
-      <title>MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</link>
-      <description><![CDATA[In this work, we propose MAsked Generative Encoder (MAGE), the first framework to unify SOTA image generation and self-supervised representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</guid>
+      <title>Symmetries in the dynamics of wide two-layer neural networks</title>
+      <link>https://paperswithcode.com/paper/symmetries-in-the-dynamics-of-wide-two-layer</link>
+      <description><![CDATA[We consider the idealized setting of gradient flow on the population risk for infinitely wide two-layer ReLU neural networks (without bias), and study the effect of symmetries on the learned parameters and predictors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/symmetries-in-the-dynamics-of-wide-two-layer</guid>
     </item>
     <item>
       <title>Engineering Monosemanticity in Toy Models</title>
@@ -279,10 +255,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/engineering-monosemanticity-in-toy-models</guid>
     </item>
     <item>
-      <title>Hierarchical Dynamic Image Harmonization</title>
-      <link>https://paperswithcode.com/paper/hierarchical-dynamic-image-harmonization</link>
-      <description><![CDATA[Inspired by the dynamic deep networks that adapt the model structures or parameters conditioned on the inputs, we propose a hierarchical dynamic network (HDNet) for efficient image harmonization to adapt the model parameters and features from local to global view for better feature transformation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchical-dynamic-image-harmonization</guid>
+      <title>Augmented Physics-Informed Neural Networks (APINNs): A gating network-based soft domain decomposition methodology</title>
+      <link>https://paperswithcode.com/paper/augmented-physics-informed-neural-networks</link>
+      <description><![CDATA[We also show cases where XPINN is already better than PINN, so APINN can still slightly improve XPINN.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/augmented-physics-informed-neural-networks</guid>
+    </item>
+    <item>
+      <title>Features for the 0-1 knapsack problem based on inclusionwise maximal solutions</title>
+      <link>https://paperswithcode.com/paper/features-for-the-0-1-knapsack-problem-based</link>
+      <description><![CDATA[We show that the proposed features contain important information related to the empirical hardness of a problem instance that was missing in earlier features from the literature by training machine learning models that can accurately predict the empirical hardness of a wide variety of 0-1 knapsack problem instances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/features-for-the-0-1-knapsack-problem-based</guid>
+    </item>
+    <item>
+      <title>On Measuring the Intrinsic Few-Shot Hardness of Datasets</title>
+      <link>https://paperswithcode.com/paper/on-measuring-the-intrinsic-few-shot-hardness</link>
+      <description><![CDATA[While advances in pre-training have led to dramatic improvements in few-shot learning of NLP tasks, there is limited understanding of what drives successful few-shot adaptation in datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-measuring-the-intrinsic-few-shot-hardness</guid>
+    </item>
+    <item>
+      <title>Analysis and Detectability of Offline Data Poisoning Attacks on Linear Systems</title>
+      <link>https://paperswithcode.com/paper/analysis-and-detectability-of-offline-data</link>
+      <description><![CDATA[A recent body of literature has investigated the effect of data poisoning attacks on data-driven control methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/analysis-and-detectability-of-offline-data</guid>
+    </item>
+    <item>
+      <title>Unified Question Answering in Slovene</title>
+      <link>https://paperswithcode.com/paper/unified-question-answering-in-slovene</link>
+      <description><![CDATA[Most approaches are developed for English, while less-resourced languages are much less researched.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unified-question-answering-in-slovene</guid>
+    </item>
+    <item>
+      <title>UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction</title>
+      <link>https://paperswithcode.com/paper/unirel-unified-representation-and-interaction</link>
+      <description><![CDATA[Relational triple extraction is challenging for its difficulty in capturing rich correlations between entities and relations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unirel-unified-representation-and-interaction</guid>
     </item>
     <item>
       <title>New Frontiers in Graph Autoencoders: Joint Community Detection and Link Prediction</title>
@@ -297,16 +303,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-graph-neural-networks-for-fmri</guid>
     </item>
     <item>
-      <title>AdaMAE: Adaptive Masking for Efficient Spatiotemporal Learning with Masked Autoencoders</title>
-      <link>https://paperswithcode.com/paper/adamae-adaptive-masking-for-efficient</link>
-      <description><![CDATA[Our adaptive masking strategy samples visible tokens based on the semantic context using an auxiliary sampling network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adamae-adaptive-masking-for-efficient</guid>
-    </item>
-    <item>
-      <title>UniRel: Unified Representation and Interaction for Joint Relational Triple Extraction</title>
-      <link>https://paperswithcode.com/paper/unirel-unified-representation-and-interaction</link>
-      <description><![CDATA[Relational triple extraction is challenging for its difficulty in capturing rich correlations between entities and relations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unirel-unified-representation-and-interaction</guid>
+      <title>Unsupervised Domain Adaptation Based on the Predictive Uncertainty of Models</title>
+      <link>https://paperswithcode.com/paper/unsupervised-domain-adaptation-based-on-the</link>
+      <description><![CDATA[Unsupervised domain adaptation (UDA) aims to improve the prediction performance in the target domain under distribution shifts from the source domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-domain-adaptation-based-on-the</guid>
     </item>
   </channel>
 </rss>
