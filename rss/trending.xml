@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Nov 2022 21:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2022 09:15:13 +0000</lastBuildDate>
     <item>
       <title>DiffusionDet: Diffusion Model for Object Detection</title>
       <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
@@ -27,10 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/versatile-diffusion-text-images-and</guid>
     </item>
     <item>
-      <title>Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding</title>
-      <link>https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</link>
-      <description><![CDATA[In this work, we present MinD-Vis: Sparse Masked Brain Modeling with Double-Conditioned Latent Diffusion Model for Human Vision Decoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</guid>
+      <title>RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation</title>
+      <link>https://paperswithcode.com/paper/renderdiffusion-image-diffusion-for-3d</link>
+      <description><![CDATA[In this paper, we present RenderDiffusion as the first diffusion model for 3D generation and inference that can be trained using only monocular 2D supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/renderdiffusion-image-diffusion-for-3d</guid>
+    </item>
+    <item>
+      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
+      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
+      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
     </item>
     <item>
       <title>Closed-form Continuous-time Neural Models</title>
@@ -39,16 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/closed-form-continuous-depth-models</guid>
     </item>
     <item>
+      <title>A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases</title>
+      <link>https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</link>
+      <description><![CDATA[We apply the resulting learned optimizer to a variety of neural network training tasks, where it outperforms the current state of the art learned optimizer -- at matched optimizer computational overhead -- with regard to optimization performance and meta-training speed, and is capable of generalization to tasks far different from those it was meta-trained on.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</guid>
+    </item>
+    <item>
+      <title>Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding</title>
+      <link>https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</link>
+      <description><![CDATA[In this work, we present MinD-Vis: Sparse Masked Brain Modeling with Double-Conditioned Latent Diffusion Model for Human Vision Decoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-beyond-the-brain-conditional-diffusion</guid>
+    </item>
+    <item>
       <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
       <link>https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</link>
       <description><![CDATA[While deep learning models have replaced hand-designed features across many domains, these models are still trained with hand-designed optimizers.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</guid>
     </item>
     <item>
-      <title>Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces</title>
-      <link>https://paperswithcode.com/paper/fast-text-conditional-discrete-denoising-on</link>
-      <description><![CDATA[Conditional text-to-image generation has seen countless recent improvements in terms of quality, diversity and fidelity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-text-conditional-discrete-denoising-on</guid>
+      <title>ComMU: Dataset for Combinatorial Music Generation</title>
+      <link>https://paperswithcode.com/paper/commu-dataset-for-combinatorial-music</link>
+      <description><![CDATA[Commercial adoption of automatic music composition requires the capability of generating diverse and high-quality music suitable for the desired context (e. g., music for romantic movies, action games, restaurants, etc.).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/commu-dataset-for-combinatorial-music</guid>
     </item>
     <item>
       <title>OneFormer: One Transformer to Rule Universal Image Segmentation</title>
@@ -57,28 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/oneformer-one-transformer-to-rule-universal</guid>
     </item>
     <item>
-      <title>CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis</title>
-      <link>https://paperswithcode.com/paper/a-conversational-paradigm-for-program</link>
-      <description><![CDATA[To democratize this, we train and release a family of large language models up to 16. 1B parameters, called CODEGEN, on natural language and programming language data, and open source the training library JAXFORMER.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-conversational-paradigm-for-program</guid>
-    </item>
-    <item>
-      <title>A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases</title>
-      <link>https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</link>
-      <description><![CDATA[We apply the resulting learned optimizer to a variety of neural network training tasks, where it outperforms the current state of the art learned optimizer -- at matched optimizer computational overhead -- with regard to optimization performance and meta-training speed, and is capable of generalization to tasks far different from those it was meta-trained on.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</guid>
-    </item>
-    <item>
-      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
-      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
-      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual multimodal representation model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
+      <title>Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces</title>
+      <link>https://paperswithcode.com/paper/fast-text-conditional-discrete-denoising-on</link>
+      <description><![CDATA[Conditional text-to-image generation has seen countless recent improvements in terms of quality, diversity and fidelity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-text-conditional-discrete-denoising-on</guid>
     </item>
     <item>
       <title>MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors</title>
       <link>https://paperswithcode.com/paper/motrv2-bootstrapping-end-to-end-multi-object</link>
       <description><![CDATA[In this paper, we propose MOTRv2, a simple yet effective pipeline to bootstrap end-to-end multi-object tracking with a pretrained object detector.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/motrv2-bootstrapping-end-to-end-multi-object</guid>
+    </item>
+    <item>
+      <title>Diffusion Models for Medical Image Analysis: A Comprehensive Survey</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-for-medical-image-analysis-a</link>
+      <description><![CDATA[Then, we provide a systematic taxonomy of diffusion models in the medical domain and propose a multi-perspective categorization based on their application, imaging modality, organ of interest, and algorithms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-medical-image-analysis-a</guid>
     </item>
     <item>
       <title>Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures</title>
@@ -93,28 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/holistic-evaluation-of-language-models</guid>
     </item>
     <item>
-      <title>What the DAAM: Interpreting Stable Diffusion Using Cross Attention</title>
-      <link>https://paperswithcode.com/paper/what-the-daam-interpreting-stable-diffusion</link>
-      <description><![CDATA[In this paper, to shine some much-needed light on text-to-image diffusion models, we perform a text-image attribution analysis on Stable Diffusion, a recently open-sourced large diffusion model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-the-daam-interpreting-stable-diffusion</guid>
-    </item>
-    <item>
-      <title>Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation</title>
-      <link>https://paperswithcode.com/paper/temporally-coherent-gans-for-video-super</link>
-      <description><![CDATA[Additionally, we propose a first set of metrics to quantitatively evaluate the accuracy as well as the perceptual quality of the temporal evolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/temporally-coherent-gans-for-video-super</guid>
-    </item>
-    <item>
-      <title>MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</link>
-      <description><![CDATA[In this work, we propose MAsked Generative Encoder (MAGE), the first framework to unify SOTA image generation and self-supervised representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+      <title>All are Worth Words: A ViT Backbone for Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/all-are-worth-words-a-vit-backbone-for-score</link>
+      <description><![CDATA[In particular, a latent diffusion model with a small U-ViT achieves a record-breaking FID of 5. 48 in text-to-image generation on MS-COCO, among methods without accessing large external datasets during the training of generative models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/all-are-worth-words-a-vit-backbone-for-score</guid>
     </item>
     <item>
       <title>InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/internimage-exploring-large-scale-vision</guid>
     </item>
     <item>
-      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</link>
-      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale</guid>
+      <title>UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer</title>
+      <link>https://paperswithcode.com/paper/uniformerv2-spatiotemporal-learning-by-arming-1</link>
+      <description><![CDATA[UniFormer has successfully alleviated this issue, by unifying convolution and self-attention as a relation aggregator in the transformer format.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uniformerv2-spatiotemporal-learning-by-arming-1</guid>
+    </item>
+    <item>
+      <title>CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis</title>
+      <link>https://paperswithcode.com/paper/a-conversational-paradigm-for-program</link>
+      <description><![CDATA[To democratize this, we train and release a family of large language models up to 16. 1B parameters, called CODEGEN, on natural language and programming language data, and open source the training library JAXFORMER.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-conversational-paradigm-for-program</guid>
     </item>
   </channel>
 </rss>
