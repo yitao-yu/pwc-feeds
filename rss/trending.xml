@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Nov 2022 09:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Nov 2022 21:07:03 +0000</lastBuildDate>
+    <item>
+      <title>TorchScale: Transformers at Scale</title>
+      <link>https://paperswithcode.com/paper/torchscale-transformers-at-scale</link>
+      <description><![CDATA[Large Transformers have achieved state-of-the-art performance across many tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchscale-transformers-at-scale</guid>
+    </item>
     <item>
       <title>Human-level play in the game of Diplomacy by combining language models with strategic reasoning</title>
       <link>https://paperswithcode.com/paper/human-level-play-in-the-game-of-diplomacy-by</link>
@@ -19,6 +25,12 @@
       <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
       <description><![CDATA[In inference, the model refines a set of randomly generated boxes to the output results in a progressive way.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</guid>
+    </item>
+    <item>
+      <title>Paint by Example: Exemplar-based Image Editing with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
+      <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
     </item>
     <item>
       <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
@@ -45,10 +57,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/renderdiffusion-image-diffusion-for-3d</guid>
     </item>
     <item>
-      <title>ComMU: Dataset for Combinatorial Music Generation</title>
-      <link>https://paperswithcode.com/paper/commu-dataset-for-combinatorial-music</link>
-      <description><![CDATA[Commercial adoption of automatic music composition requires the capability of generating diverse and high-quality music suitable for the desired context (e. g., music for romantic movies, action games, restaurants, etc.).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/commu-dataset-for-combinatorial-music</guid>
+      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
+      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
+      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
+    </item>
+    <item>
+      <title>Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths</title>
+      <link>https://paperswithcode.com/paper/latent-video-diffusion-models-for-high</link>
+      <description><![CDATA[Diffusion models (DMs) are another class of deep generative models and have recently achieved remarkable performance on various image synthesis tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-video-diffusion-models-for-high</guid>
     </item>
     <item>
       <title>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</title>
@@ -57,34 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/versatile-diffusion-text-images-and</guid>
     </item>
     <item>
-      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
-      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
-      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
-    </item>
-    <item>
-      <title>PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning</title>
-      <link>https://paperswithcode.com/paper/pointclip-v2-adapting-clip-for-powerful-3d</link>
-      <description><![CDATA[Contrastive Language-Image Pre-training (CLIP) has shown promising open-world performance on 2D image tasks, while its transferred capacity on 3D point clouds, i. e., PointCLIP, is still far from satisfactory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pointclip-v2-adapting-clip-for-powerful-3d</guid>
-    </item>
-    <item>
-      <title>Paint by Example: Exemplar-based Image Editing with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
-      <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
-    </item>
-    <item>
-      <title>Closed-form Continuous-time Neural Models</title>
-      <link>https://paperswithcode.com/paper/closed-form-continuous-depth-models</link>
-      <description><![CDATA[To this end, we compute a tightly-bounded approximation of the solution of an integral appearing in LTCs' dynamics, that has had no known closed-form solution so far.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/closed-form-continuous-depth-models</guid>
-    </item>
-    <item>
-      <title>Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks</title>
-      <link>https://paperswithcode.com/paper/relative-attributing-propagation-interpreting</link>
-      <description><![CDATA[As Deep Neural Networks (DNNs) have demonstrated superhuman performance in a variety of fields, there is an increasing interest in understanding the complex internal mechanisms of DNNs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relative-attributing-propagation-interpreting</guid>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
       <title>Revisiting Image Pyramid Structure for High Resolution Salient Object Detection</title>
@@ -93,40 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</guid>
     </item>
     <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can be implemented efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
-    </item>
-    <item>
-      <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
-      <link>https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</link>
-      <description><![CDATA[The proposed method is verified with a wide spectrum of traditional and modern image backbones and achieves new SoTA results on the large-scale nuScenes dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
-    </item>
-    <item>
-      <title>All are Worth Words: A ViT Backbone for Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/all-are-worth-words-a-vit-backbone-for-score</link>
-      <description><![CDATA[In particular, a latent diffusion model with a small U-ViT achieves a record-breaking FID of 5. 48 in text-to-image generation on MS-COCO, among methods without accessing large external datasets during the training of generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/all-are-worth-words-a-vit-backbone-for-score</guid>
-    </item>
-    <item>
-      <title>Diffusion Models for Medical Image Analysis: A Comprehensive Survey</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-for-medical-image-analysis-a</link>
-      <description><![CDATA[Then, we provide a systematic taxonomy of diffusion models in the medical domain and propose a multi-perspective categorization based on their application, imaging modality, organ of interest, and algorithms.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-medical-image-analysis-a</guid>
-    </item>
-    <item>
-      <title>OneFormer: One Transformer to Rule Universal Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/oneformer-one-transformer-to-rule-universal</link>
-      <description><![CDATA[However, such panoptic architectures do not truly unify image segmentation because they need to be trained individually on the semantic, instance, or panoptic segmentation to achieve the best performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oneformer-one-transformer-to-rule-universal</guid>
-    </item>
-    <item>
       <title>A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases</title>
       <link>https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</link>
       <description><![CDATA[We apply the resulting learned optimizer to a variety of neural network training tasks, where it outperforms the current state of the art learned optimizer -- at matched optimizer computational overhead -- with regard to optimization performance and meta-training speed, and is capable of generalization to tasks far different from those it was meta-trained on.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</guid>
+    </item>
+    <item>
+      <title>ComMU: Dataset for Combinatorial Music Generation</title>
+      <link>https://paperswithcode.com/paper/commu-dataset-for-combinatorial-music</link>
+      <description><![CDATA[Commercial adoption of automatic music composition requires the capability of generating diverse and high-quality music suitable for the desired context (e. g., music for romantic movies, action games, restaurants, etc.).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/commu-dataset-for-combinatorial-music</guid>
+    </item>
+    <item>
+      <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
+      <link>https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</link>
+      <description><![CDATA[While deep learning models have replaced hand-designed features across many domains, these models are still trained with hand-designed optimizers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</guid>
+    </item>
+    <item>
+      <title>Inversion-Based Creativity Transfer with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/inversion-based-creativity-transfer-with</link>
+      <description><![CDATA[In this paper, we introduce the task of "Creativity Transfer".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inversion-based-creativity-transfer-with</guid>
+    </item>
+    <item>
+      <title>Relative Attributing Propagation: Interpreting the Comparative Contributions of Individual Units in Deep Neural Networks</title>
+      <link>https://paperswithcode.com/paper/relative-attributing-propagation-interpreting</link>
+      <description><![CDATA[As Deep Neural Networks (DNNs) have demonstrated superhuman performance in a variety of fields, there is an increasing interest in understanding the complex internal mechanisms of DNNs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/relative-attributing-propagation-interpreting</guid>
+    </item>
+    <item>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning</title>
+      <link>https://paperswithcode.com/paper/pointclip-v2-adapting-clip-for-powerful-3d</link>
+      <description><![CDATA[Contrastive Language-Image Pre-training (CLIP) has shown promising open-world performance on 2D image tasks, while its transferred capacity on 3D point clouds, i. e., PointCLIP, is still far from satisfactory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pointclip-v2-adapting-clip-for-powerful-3d</guid>
     </item>
   </channel>
 </rss>
