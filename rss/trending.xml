@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 21:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2022 09:14:13 +0000</lastBuildDate>
     <item>
       <title>TorchScale: Transformers at Scale</title>
       <link>https://paperswithcode.com/paper/torchscale-transformers-at-scale</link>
@@ -25,12 +25,6 @@
       <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
       <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
-    </item>
-    <item>
-      <title>DiffusionDet: Diffusion Model for Object Detection</title>
-      <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
-      <description><![CDATA[In inference, the model refines a set of randomly generated boxes to the output results in a progressive way.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</guid>
     </item>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
@@ -51,22 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/metaformer-baselines-for-vision</guid>
     </item>
     <item>
-      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
-      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
-      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
-    </item>
-    <item>
       <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
       <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
       <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
     </item>
     <item>
-      <title>Galactica: A Large Language Model for Science</title>
-      <link>https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</link>
-      <description><![CDATA[We believe these results demonstrate the potential for language models as a new interface for science.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</guid>
+      <title>DiffusionDet: Diffusion Model for Object Detection</title>
+      <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
+      <description><![CDATA[In inference, the model refines a set of randomly generated boxes to the output results in a progressive way.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</guid>
+    </item>
+    <item>
+      <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
+      <link>https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</link>
+      <description><![CDATA[While deep learning models have replaced hand-designed features across many domains, these models are still trained with hand-designed optimizers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</guid>
     </item>
     <item>
       <title>A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases</title>
@@ -75,10 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-closer-look-at-learned-optimization</guid>
     </item>
     <item>
-      <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
-      <link>https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</link>
-      <description><![CDATA[While deep learning models have replaced hand-designed features across many domains, these models are still trained with hand-designed optimizers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/velo-training-versatile-learned-optimizers-by</guid>
+      <title>DeepPrivacy2: Towards Realistic Full-Body Anonymization</title>
+      <link>https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</link>
+      <description><![CDATA[Generative Adversarial Networks (GANs) are widely adapted for anonymization of human figures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</guid>
+    </item>
+    <item>
+      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
+      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
+      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
+    </item>
+    <item>
+      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
+      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
+      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
+    </item>
+    <item>
+      <title>Galactica: A Large Language Model for Science</title>
+      <link>https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</link>
+      <description><![CDATA[We believe these results demonstrate the potential for language models as a new interface for science.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</guid>
     </item>
     <item>
       <title>Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths</title>
@@ -93,22 +105,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
-      <title>DeepPrivacy2: Towards Realistic Full-Body Anonymization</title>
-      <link>https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</link>
-      <description><![CDATA[Generative Adversarial Networks (GANs) are widely adapted for anonymization of human figures.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</guid>
-    </item>
-    <item>
-      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
-      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
-      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
-    </item>
-    <item>
       <title>Inversion-Based Creativity Transfer with Diffusion Models</title>
       <link>https://paperswithcode.com/paper/inversion-based-creativity-transfer-with</link>
       <description><![CDATA[In this paper, we introduce the task of "Creativity Transfer".]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/inversion-based-creativity-transfer-with</guid>
+    </item>
+    <item>
+      <title>Revisiting Image Pyramid Structure for High Resolution Salient Object Detection</title>
+      <link>https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</link>
+      <description><![CDATA[Salient object detection (SOD) has been in the spotlight recently, yet has been studied less for high-resolution (HR) images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</guid>
     </item>
     <item>
       <title>Vision Transformers for Dense Prediction</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vision-transformers-for-dense-prediction</guid>
     </item>
     <item>
-      <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
-      <link>https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</link>
-      <description><![CDATA[Autonomous agents have made great strides in specialist domains like Atari games and Go.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minedojo-building-open-ended-embodied-agents</guid>
-    </item>
-    <item>
-      <title>Revisiting Image Pyramid Structure for High Resolution Salient Object Detection</title>
-      <link>https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</link>
-      <description><![CDATA[Salient object detection (SOD) has been in the spotlight recently, yet has been studied less for high-resolution (HR) images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</guid>
+      <title>ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech</title>
+      <link>https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</link>
+      <description><![CDATA[In a series of experiments, we first demonstrate the flexibility and generalizability of our model to new speakers and styles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</guid>
     </item>
   </channel>
 </rss>
