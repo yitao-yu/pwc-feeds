@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 21:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2022 09:14:54 +0000</lastBuildDate>
     <item>
       <title>TorchScale: Transformers at Scale</title>
       <link>https://paperswithcode.com/paper/torchscale-transformers-at-scale</link>
       <description><![CDATA[Large Transformers have achieved state-of-the-art performance across many tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/torchscale-transformers-at-scale</guid>
+    </item>
+    <item>
+      <title>SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction</title>
+      <link>https://paperswithcode.com/paper/superfusion-multilevel-lidar-camera-fusion</link>
+      <description><![CDATA[To this end, we propose a novel network named SuperFusion, exploiting the fusion of LiDAR and camera data at multiple levels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/superfusion-multilevel-lidar-camera-fusion</guid>
     </item>
     <item>
       <title>Human-level play in the game of Diplomacy by combining language models with strategic reasoning</title>
@@ -21,22 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/human-level-play-in-the-game-of-diplomacy-by</guid>
     </item>
     <item>
-      <title>Paint by Example: Exemplar-based Image Editing with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
-      <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
+      <title>FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction</title>
+      <link>https://paperswithcode.com/paper/ffhq-uv-normalized-facial-uv-texture-dataset</link>
+      <description><![CDATA[Our pipeline utilizes the recent advances in StyleGAN-based facial image editing approaches to generate multi-view normalized face images from single-image inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ffhq-uv-normalized-facial-uv-texture-dataset</guid>
     </item>
     <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>SinDiffusion: Learning a Diffusion Model from a Single Natural Image</title>
-      <link>https://paperswithcode.com/paper/sindiffusion-learning-a-diffusion-model-from</link>
-      <description><![CDATA[We present SinDiffusion, leveraging denoising diffusion models to capture internal distribution of patches from a single natural image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sindiffusion-learning-a-diffusion-model-from</guid>
+      <title>Fast-SNARF: A Fast Deformer for Articulated Neural Fields</title>
+      <link>https://paperswithcode.com/paper/fast-snarf-a-fast-deformer-for-articulated</link>
+      <description><![CDATA[A key challenge in making such methods applicable to articulated objects, such as the human body, is to model the deformation of 3D locations between the rest pose (a canonical space) and the deformed space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-snarf-a-fast-deformer-for-articulated</guid>
     </item>
     <item>
       <title>MetaFormer Baselines for Vision</title>
@@ -45,16 +45,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/metaformer-baselines-for-vision</guid>
     </item>
     <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
       <title>LiT: Zero-Shot Transfer with Locked-image text Tuning</title>
       <link>https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</link>
       <description><![CDATA[This paper presents contrastive-tuning, a simple method employing contrastive training to align image and text models while still taking advantage of their pre-training.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lit-zero-shot-transfer-with-locked-image-text</guid>
     </item>
     <item>
+      <title>ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech</title>
+      <link>https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</link>
+      <description><![CDATA[In a series of experiments, we first demonstrate the flexibility and generalizability of our model to new speakers and styles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</guid>
+    </item>
+    <item>
+      <title>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/versatile-diffusion-text-images-and</link>
+      <description><![CDATA[Through our experiments, we demonstrate that VD and its underlying framework have the following merits: a) VD handles all subtasks with competitive quality; b) VD initiates novel extensions and applications such as disentanglement of style and semantic, image-text dual-guided generation, etc.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/versatile-diffusion-text-images-and</guid>
+    </item>
+    <item>
+      <title>Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark</title>
+      <link>https://paperswithcode.com/paper/roboflow-100-a-rich-multi-domain-object</link>
+      <description><![CDATA[The evaluation of object detection models is usually performed by optimizing a single metric, e. g. mAP, on a fixed set of datasets, e. g. Microsoft COCO and Pascal VOC.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/roboflow-100-a-rich-multi-domain-object</guid>
+    </item>
+    <item>
+      <title>Paint by Example: Exemplar-based Image Editing with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
+      <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
+    </item>
+    <item>
       <title>DiffusionDet: Diffusion Model for Object Detection</title>
       <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
       <description><![CDATA[In inference, the model refines a set of randomly generated boxes to the output results in a progressive way.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</guid>
+    </item>
+    <item>
+      <title>Fast Text-Conditional Discrete Denoising on Vector-Quantized Latent Spaces</title>
+      <link>https://paperswithcode.com/paper/fast-text-conditional-discrete-denoising-on</link>
+      <description><![CDATA[Conditional text-to-image generation has seen countless recent improvements in terms of quality, diversity and fidelity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-text-conditional-discrete-denoising-on</guid>
+    </item>
+    <item>
+      <title>A Time Series is Worth 64 Words: Long-term Forecasting with Transformers</title>
+      <link>https://paperswithcode.com/paper/a-time-series-is-worth-64-words-long-term</link>
+      <description><![CDATA[Our channel-independent patch time series Transformer (PatchTST) can improve the long-term forecasting accuracy significantly when compared with that of SOTA Transformer-based models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-time-series-is-worth-64-words-long-term</guid>
+    </item>
+    <item>
+      <title>Medical Image Segmentation Review: The success of U-Net</title>
+      <link>https://paperswithcode.com/paper/medical-image-segmentation-review-the-success</link>
+      <description><![CDATA[U-Net is the most widespread image segmentation architecture due to its flexibility, optimized modular design, and success in all medical image modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/medical-image-segmentation-review-the-success</guid>
+    </item>
+    <item>
+      <title>SinDiffusion: Learning a Diffusion Model from a Single Natural Image</title>
+      <link>https://paperswithcode.com/paper/sindiffusion-learning-a-diffusion-model-from</link>
+      <description><![CDATA[We present SinDiffusion, leveraging denoising diffusion models to capture internal distribution of patches from a single natural image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sindiffusion-learning-a-diffusion-model-from</guid>
     </item>
     <item>
       <title>VeLO: Training Versatile Learned Optimizers by Scaling Up</title>
@@ -73,60 +127,6 @@
       <link>https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</link>
       <description><![CDATA[Generative Adversarial Networks (GANs) are widely adapted for anonymization of human figures.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepprivacy2-towards-realistic-full-body</guid>
-    </item>
-    <item>
-      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
-      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
-      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
-    </item>
-    <item>
-      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
-      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
-      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
-    </item>
-    <item>
-      <title>Galactica: A Large Language Model for Science</title>
-      <link>https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</link>
-      <description><![CDATA[We believe these results demonstrate the potential for language models as a new interface for science.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1</guid>
-    </item>
-    <item>
-      <title>Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths</title>
-      <link>https://paperswithcode.com/paper/latent-video-diffusion-models-for-high</link>
-      <description><![CDATA[Diffusion models (DMs) are another class of deep generative models and have recently achieved remarkable performance on various image synthesis tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-video-diffusion-models-for-high</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
-      <title>Inversion-Based Creativity Transfer with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/inversion-based-creativity-transfer-with</link>
-      <description><![CDATA[In this paper, we introduce the task of "Creativity Transfer".]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inversion-based-creativity-transfer-with</guid>
-    </item>
-    <item>
-      <title>Revisiting Image Pyramid Structure for High Resolution Salient Object Detection</title>
-      <link>https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</link>
-      <description><![CDATA[Salient object detection (SOD) has been in the spotlight recently, yet has been studied less for high-resolution (HR) images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-image-pyramid-structure-for-high</guid>
-    </item>
-    <item>
-      <title>Vision Transformers for Dense Prediction</title>
-      <link>https://paperswithcode.com/paper/vision-transformers-for-dense-prediction</link>
-      <description><![CDATA[We introduce dense vision transformers, an architecture that leverages vision transformers in place of convolutional networks as a backbone for dense prediction tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-transformers-for-dense-prediction</guid>
-    </item>
-    <item>
-      <title>ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech</title>
-      <link>https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</link>
-      <description><![CDATA[In a series of experiments, we first demonstrate the flexibility and generalizability of our model to new speakers and styles.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</guid>
     </item>
   </channel>
 </rss>
