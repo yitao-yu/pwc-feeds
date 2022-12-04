@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Dec 2022 21:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2022 09:12:05 +0000</lastBuildDate>
+    <item>
+      <title>Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation</title>
+      <link>https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d</link>
+      <description><![CDATA[We propose to apply chain rule on the learned gradients, and back-propagate the score of a diffusion model through the Jacobian of a differentiable renderer, which we instantiate to be a voxel radiance field.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d</guid>
+    </item>
     <item>
       <title>ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT</title>
       <link>https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating</link>
       <description><![CDATA[In this paper, we present ExtremeBERT, a toolkit for accelerating and customizing BERT pretraining.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating</guid>
+    </item>
+    <item>
+      <title>Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model</title>
+      <link>https://paperswithcode.com/paper/zero-shot-image-restoration-using-denoising</link>
+      <description><![CDATA[Most existing Image Restoration (IR) models are task-specific, which can not be generalized to different degradation operators.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-image-restoration-using-denoising</guid>
     </item>
     <item>
       <title>TorchScale: Transformers at Scale</title>
@@ -27,16 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/compressing-volumetric-radiance-fields-to-1</guid>
     </item>
     <item>
+      <title>Mixed Neural Voxels for Fast Multi-view Video Synthesis</title>
+      <link>https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</link>
+      <description><![CDATA[In this paper, we present a novel method named MixVoxels to better represent the dynamic scenes with fast training speed and competitive rendering qualities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</guid>
+    </item>
+    <item>
       <title>DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models</title>
       <link>https://paperswithcode.com/paper/diffusionbert-improving-generative-masked</link>
       <description><![CDATA[We present DiffusionBERT, a new generative masked language model based on discrete diffusion models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusionbert-improving-generative-masked</guid>
-    </item>
-    <item>
-      <title>Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation</title>
-      <link>https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d</link>
-      <description><![CDATA[We propose to apply chain rule on the learned gradients, and back-propagate the score of a diffusion model through the Jacobian of a differentiable renderer, which we instantiate to be a voxel radiance field.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d</guid>
     </item>
     <item>
       <title>Multiresolution Textual Inversion</title>
@@ -45,16 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multiresolution-textual-inversion</guid>
     </item>
     <item>
-      <title>MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition</title>
-      <link>https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</link>
-      <description><![CDATA[Instead of trying to process more frames at once like most existing methods, we propose to process videos in an online fashion and cache "memory" at each iteration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</guid>
-    </item>
-    <item>
-      <title>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/versatile-diffusion-text-images-and</link>
-      <description><![CDATA[Through our experiments, we demonstrate that VD and its underlying framework have the following merits: a) VD handles all subtasks with competitive quality; b) VD initiates novel extensions and applications such as disentanglement of style and semantic, image-text dual-guided generation, etc.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/versatile-diffusion-text-images-and</guid>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
       <title>SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction</title>
@@ -63,34 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/superfusion-multilevel-lidar-camera-fusion</guid>
     </item>
     <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+      <title>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/versatile-diffusion-text-images-and</link>
+      <description><![CDATA[Through our experiments, we demonstrate that VD and its underlying framework have the following merits: a) VD handles all subtasks with competitive quality; b) VD initiates novel extensions and applications such as disentanglement of style and semantic, image-text dual-guided generation, etc.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/versatile-diffusion-text-images-and</guid>
     </item>
     <item>
-      <title>H3WB: Human3.6M 3D WholeBody Dataset and Benchmark</title>
-      <link>https://paperswithcode.com/paper/h3wb-human3-6m-3d-wholebody-dataset-and</link>
-      <description><![CDATA[We also report several baselines from popular methods for these tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/h3wb-human3-6m-3d-wholebody-dataset-and</guid>
-    </item>
-    <item>
-      <title>Conffusion: Confidence Intervals for Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/conffusion-confidence-intervals-for-diffusion</link>
-      <description><![CDATA[Diffusion models have become the go-to method for many generative tasks, particularly for image-to-image generation tasks such as super-resolution and inpainting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/conffusion-confidence-intervals-for-diffusion</guid>
-    </item>
-    <item>
-      <title>Human-level play in the game of Diplomacy by combining language models with strategic reasoning</title>
-      <link>https://paperswithcode.com/paper/human-level-play-in-the-game-of-diplomacy-by</link>
-      <description><![CDATA[Despite much progress in training AI systems to imitate human language, building agents that use language to communicate intentionally with humans in interactive environments remains a major challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-level-play-in-the-game-of-diplomacy-by</guid>
-    </item>
-    <item>
-      <title>Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion</title>
-      <link>https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image</link>
-      <description><![CDATA[Neural Radiance Fields (NeRF) coupled with GANs represent a promising direction in the area of 3D reconstruction from a single view, owing to their ability to efficiently model arbitrary topologies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image</guid>
+      <title>MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition</title>
+      <link>https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</link>
+      <description><![CDATA[Instead of trying to process more frames at once like most existing methods, we propose to process videos in an online fashion and cache "memory" at each iteration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</guid>
     </item>
     <item>
       <title>Roboflow 100: A Rich, Multi-Domain Object Detection Benchmark</title>
@@ -99,22 +87,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/roboflow-100-a-rich-multi-domain-object</guid>
     </item>
     <item>
-      <title>Mixed Neural Voxels for Fast Multi-view Video Synthesis</title>
-      <link>https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</link>
-      <description><![CDATA[In this paper, we present a novel method named MixVoxels to better represent the dynamic scenes with fast training speed and competitive rendering qualities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</guid>
+      <title>Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion</title>
+      <link>https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image</link>
+      <description><![CDATA[Neural Radiance Fields (NeRF) coupled with GANs represent a promising direction in the area of 3D reconstruction from a single view, owing to their ability to efficiently model arbitrary topologies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image</guid>
     </item>
     <item>
-      <title>DiffusionDet: Diffusion Model for Object Detection</title>
-      <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
-      <description><![CDATA[In inference, the model refines a set of randomly generated boxes to the output results in a progressive way.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</guid>
+      <title>Human-level play in the game of Diplomacy by combining language models with strategic reasoning</title>
+      <link>https://paperswithcode.com/paper/human-level-play-in-the-game-of-diplomacy-by</link>
+      <description><![CDATA[Despite much progress in training AI systems to imitate human language, building agents that use language to communicate intentionally with humans in interactive environments remains a major challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-level-play-in-the-game-of-diplomacy-by</guid>
     </item>
     <item>
-      <title>BotSIM: An End-to-End Bot Simulation Toolkit for Commercial Task-Oriented Dialog Systems</title>
-      <link>https://paperswithcode.com/paper/botsim-an-end-to-end-bot-simulation-toolkit</link>
-      <description><![CDATA[BotSIM adopts a layered design comprising the infrastructure layer, the adaptor layer and the application layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/botsim-an-end-to-end-bot-simulation-toolkit</guid>
+      <title>OpenFE: Automated Feature Generation beyond Expert-level Performance</title>
+      <link>https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</link>
+      <description><![CDATA[The major challenge in automated feature generation is to efficiently and accurately identify useful features from a vast pool of candidate features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</guid>
+    </item>
+    <item>
+      <title>H3WB: Human3.6M 3D WholeBody Dataset and Benchmark</title>
+      <link>https://paperswithcode.com/paper/h3wb-human3-6m-3d-wholebody-dataset-and</link>
+      <description><![CDATA[We also report several baselines from popular methods for these tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/h3wb-human3-6m-3d-wholebody-dataset-and</guid>
+    </item>
+    <item>
+      <title>ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech</title>
+      <link>https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</link>
+      <description><![CDATA[In a series of experiments, we first demonstrate the flexibility and generalizability of our model to new speakers and styles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zeroeggs-zero-shot-example-based-gesture</guid>
     </item>
     <item>
       <title>Medical Image Segmentation Review: The success of U-Net</title>
@@ -123,10 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/medical-image-segmentation-review-the-success</guid>
     </item>
     <item>
-      <title>FFHQ-UV: Normalized Facial UV-Texture Dataset for 3D Face Reconstruction</title>
-      <link>https://paperswithcode.com/paper/ffhq-uv-normalized-facial-uv-texture-dataset</link>
-      <description><![CDATA[Our pipeline utilizes the recent advances in StyleGAN-based facial image editing approaches to generate multi-view normalized face images from single-image inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ffhq-uv-normalized-facial-uv-texture-dataset</guid>
+      <title>DiffusionDet: Diffusion Model for Object Detection</title>
+      <link>https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</link>
+      <description><![CDATA[In inference, the model refines a set of randomly generated boxes to the output results in a progressive way.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondet-diffusion-model-for-object</guid>
     </item>
   </channel>
 </rss>
