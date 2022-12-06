@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Dec 2022 09:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2022 21:06:52 +0000</lastBuildDate>
     <item>
       <title>Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation</title>
       <link>https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d</link>
       <description><![CDATA[We propose to apply chain rule on the learned gradients, and back-propagate the score of a diffusion model through the Jacobian of a differentiable renderer, which we instantiate to be a voxel radiance field.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d</guid>
-    </item>
-    <item>
-      <title>ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT</title>
-      <link>https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating</link>
-      <description><![CDATA[In this paper, we present ExtremeBERT, a toolkit for accelerating and customizing BERT pretraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating</guid>
     </item>
     <item>
       <title>Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model</title>
@@ -27,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-image-restoration-using-denoising</guid>
     </item>
     <item>
-      <title>Compressing Volumetric Radiance Fields to 1 MB</title>
-      <link>https://paperswithcode.com/paper/compressing-volumetric-radiance-fields-to-1</link>
-      <description><![CDATA[Approximating radiance fields with volumetric grids is one of promising directions for improving NeRF, represented by methods like Plenoxels and DVGO, which achieve super-fast training convergence and real-time rendering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/compressing-volumetric-radiance-fields-to-1</guid>
+      <title>ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT</title>
+      <link>https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating</link>
+      <description><![CDATA[In this paper, we present ExtremeBERT, a toolkit for accelerating and customizing BERT pretraining.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating</guid>
     </item>
     <item>
       <title>DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models</title>
@@ -39,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusionbert-improving-generative-masked</guid>
     </item>
     <item>
-      <title>Mixed Neural Voxels for Fast Multi-view Video Synthesis</title>
-      <link>https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</link>
-      <description><![CDATA[In this paper, we present a novel method named MixVoxels to better represent the dynamic scenes with fast training speed and competitive rendering qualities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</guid>
+      <title>Images Speak in Images: A Generalist Painter for In-Context Visual Learning</title>
+      <link>https://paperswithcode.com/paper/images-speak-in-images-a-generalist-painter</link>
+      <description><![CDATA[In this work, we present Painter, a generalist model which addresses these obstacles with an "image"-centric solution, that is, to redefine the output of core vision tasks as images, and specify task prompts as also images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/images-speak-in-images-a-generalist-painter</guid>
     </item>
     <item>
       <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
@@ -51,64 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>Multiresolution Textual Inversion</title>
-      <link>https://paperswithcode.com/paper/multiresolution-textual-inversion</link>
-      <description><![CDATA[We extend Textual Inversion to learn pseudo-words that represent a concept at different resolutions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiresolution-textual-inversion</guid>
+      <title>Mixed Neural Voxels for Fast Multi-view Video Synthesis</title>
+      <link>https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</link>
+      <description><![CDATA[In this paper, we present a novel method named MixVoxels to better represent the dynamic scenes with fast training speed and competitive rendering qualities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video</guid>
     </item>
     <item>
-      <title>MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition</title>
-      <link>https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</link>
-      <description><![CDATA[Instead of trying to process more frames at once like most existing methods, we propose to process videos in an online fashion and cache "memory" at each iteration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</guid>
-    </item>
-    <item>
-      <title>TorchScale: Transformers at Scale</title>
-      <link>https://paperswithcode.com/paper/torchscale-transformers-at-scale</link>
-      <description><![CDATA[Large Transformers have achieved state-of-the-art performance across many tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/torchscale-transformers-at-scale</guid>
-    </item>
-    <item>
-      <title>OpenFE: Automated Feature Generation beyond Expert-level Performance</title>
-      <link>https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</link>
-      <description><![CDATA[The major challenge in automated feature generation is to efficiently and accurately identify useful features from a vast pool of candidate features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</guid>
-    </item>
-    <item>
-      <title>Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion</title>
-      <link>https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image</link>
-      <description><![CDATA[Neural Radiance Fields (NeRF) coupled with GANs represent a promising direction in the area of 3D reconstruction from a single view, owing to their ability to efficiently model arbitrary topologies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image</guid>
-    </item>
-    <item>
-      <title>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/versatile-diffusion-text-images-and</link>
-      <description><![CDATA[Through our experiments, we demonstrate that VD and its underlying framework have the following merits: a) VD handles all subtasks with competitive quality; b) VD initiates novel extensions and applications such as disentanglement of style and semantic, image-text dual-guided generation, etc.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/versatile-diffusion-text-images-and</guid>
-    </item>
-    <item>
-      <title>H3WB: Human3.6M 3D WholeBody Dataset and Benchmark</title>
-      <link>https://paperswithcode.com/paper/h3wb-human3-6m-3d-wholebody-dataset-and</link>
-      <description><![CDATA[We also report several baselines from popular methods for these tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/h3wb-human3-6m-3d-wholebody-dataset-and</guid>
-    </item>
-    <item>
-      <title>SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and Prediction</title>
-      <link>https://paperswithcode.com/paper/superfusion-multilevel-lidar-camera-fusion</link>
-      <description><![CDATA[To this end, we propose a novel network named SuperFusion, exploiting the fusion of LiDAR and camera data at multiple levels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/superfusion-multilevel-lidar-camera-fusion</guid>
-    </item>
-    <item>
-      <title>Medical Image Segmentation Review: The success of U-Net</title>
-      <link>https://paperswithcode.com/paper/medical-image-segmentation-review-the-success</link>
-      <description><![CDATA[U-Net is the most widespread image segmentation architecture due to its flexibility, optimized modular design, and success in all medical image modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/medical-image-segmentation-review-the-success</guid>
-    </item>
-    <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+      <title>MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation</title>
+      <link>https://paperswithcode.com/paper/mic-masked-image-consistency-for-context</link>
+      <description><![CDATA[MIC significantly improves the state-of-the-art performance across the different recognition tasks for synthetic-to-real, day-to-nighttime, and clear-to-adverse-weather UDA.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mic-masked-image-consistency-for-context</guid>
     </item>
     <item>
       <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
@@ -117,16 +63,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/get3d-a-generative-model-of-high-quality-3d</guid>
     </item>
     <item>
-      <title>BotSIM: An End-to-End Bot Simulation Toolkit for Commercial Task-Oriented Dialog Systems</title>
-      <link>https://paperswithcode.com/paper/botsim-an-end-to-end-bot-simulation-toolkit</link>
-      <description><![CDATA[BotSIM adopts a layered design comprising the infrastructure layer, the adaptor layer and the application layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/botsim-an-end-to-end-bot-simulation-toolkit</guid>
+      <title>Compressing Volumetric Radiance Fields to 1 MB</title>
+      <link>https://paperswithcode.com/paper/compressing-volumetric-radiance-fields-to-1</link>
+      <description><![CDATA[Approximating radiance fields with volumetric grids is one of promising directions for improving NeRF, represented by methods like Plenoxels and DVGO, which achieve super-fast training convergence and real-time rendering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/compressing-volumetric-radiance-fields-to-1</guid>
+    </item>
+    <item>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition</title>
+      <link>https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</link>
+      <description><![CDATA[Instead of trying to process more frames at once like most existing methods, we propose to process videos in an online fashion and cache "memory" at each iteration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision</guid>
+    </item>
+    <item>
+      <title>Training language models to follow instructions with human feedback</title>
+      <link>https://paperswithcode.com/paper/training-language-models-to-follow</link>
+      <description><![CDATA[In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-language-models-to-follow</guid>
+    </item>
+    <item>
+      <title>Multiresolution Textual Inversion</title>
+      <link>https://paperswithcode.com/paper/multiresolution-textual-inversion</link>
+      <description><![CDATA[We extend Textual Inversion to learn pseudo-words that represent a concept at different resolutions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multiresolution-textual-inversion</guid>
+    </item>
+    <item>
+      <title>TorchScale: Transformers at Scale</title>
+      <link>https://paperswithcode.com/paper/torchscale-transformers-at-scale</link>
+      <description><![CDATA[Large Transformers have achieved state-of-the-art performance across many tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchscale-transformers-at-scale</guid>
+    </item>
+    <item>
+      <title>mindcv</title>
+      <link>https://github.com/mindspore-ecosystem/mindcv</link>
+      <description><![CDATA[A toolbox of vision models and algorithms based on MindSpore]]></description>
+      <guid isPermaLink="true">https://github.com/mindspore-ecosystem/mindcv</guid>
     </item>
     <item>
       <title>Fast Sampling of Diffusion Models with Exponential Integrator</title>
       <link>https://paperswithcode.com/paper/fast-sampling-of-diffusion-models-with</link>
       <description><![CDATA[Our goal is to develop a fast sampling method for DMs with a much less number of steps while retaining high sample quality.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-sampling-of-diffusion-models-with</guid>
+    </item>
+    <item>
+      <title>Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations</title>
+      <link>https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</link>
+      <description><![CDATA[The validation and deployment of novel research ideas in the field of Deep Learning is often limited by the availability of efficient compute kernels for certain basic primitives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</guid>
+    </item>
+    <item>
+      <title>UIU-Net: U-Net in U-Net for Infrared Small Object Detection</title>
+      <link>https://paperswithcode.com/paper/uiu-net-u-net-in-u-net-for-infrared-small</link>
+      <description><![CDATA[RM-DS integrates Residual U-blocks into a deep supervision network to generate deep multi-scale resolution-maintenance features while learning global context information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uiu-net-u-net-in-u-net-for-infrared-small</guid>
+    </item>
+    <item>
+      <title>Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/residual-pattern-learning-for-pixel-wise-out</link>
+      <description><![CDATA[Semantic segmentation models classify pixels into a set of known (``in-distribution'') visual classes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/residual-pattern-learning-for-pixel-wise-out</guid>
     </item>
   </channel>
 </rss>
