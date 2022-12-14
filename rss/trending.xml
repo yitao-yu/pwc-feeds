@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 21:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2022 09:13:01 +0000</lastBuildDate>
     <item>
       <title>4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions</title>
       <link>https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</link>
       <description><![CDATA[In this paper, we present a novel and effective framework, named 4K-NeRF, to pursue high fidelity view synthesis on the challenging scenarios of ultra high resolutions, building on the methodology of neural radiance fields (NeRF).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</guid>
+    </item>
+    <item>
+      <title>NMS Strikes Back</title>
+      <link>https://paperswithcode.com/paper/nms-strikes-back</link>
+      <description><![CDATA[Our detector that trains Deformable-DETR with traditional IoU-based label assignment achieved 50. 2 COCO mAP within 12 epochs (1x schedule) with ResNet50 backbone, outperforming all existing traditional or transformer-based detectors in this setting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nms-strikes-back</guid>
     </item>
     <item>
       <title>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis</title>
@@ -27,40 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/programming-is-hard-or-at-least-it-used-to-be</guid>
     </item>
     <item>
+      <title>CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet</title>
+      <link>https://paperswithcode.com/paper/clip-itself-is-a-strong-fine-tuner-achieving</link>
+      <description><![CDATA[Recent studies have shown that CLIP has achieved remarkable success in performing zero-shot inference while its fine-tuning performance is not satisfactory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clip-itself-is-a-strong-fine-tuner-achieving</guid>
+    </item>
+    <item>
+      <title>The Stable Artist: Steering Semantics in Diffusion Latent Space</title>
+      <link>https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</link>
+      <description><![CDATA[Large, text-conditioned generative diffusion models have recently gained a lot of attention for their impressive performance in generating high-fidelity images from text alone.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</guid>
+    </item>
+    <item>
       <title>Learning Video Representations from Large Language Models</title>
       <link>https://paperswithcode.com/paper/learning-video-representations-from-large</link>
       <description><![CDATA[We introduce LaViLa, a new approach to learning video-language representations by leveraging Large Language Models (LLMs).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-video-representations-from-large</guid>
-    </item>
-    <item>
-      <title>ACE: Cooperative Multi-agent Q-learning with Bidirectional Action-Dependency</title>
-      <link>https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</link>
-      <description><![CDATA[In the learning phase, each agent minimizes the TD error that is dependent on how the subsequent agents have reacted to their chosen action.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</guid>
-    </item>
-    <item>
-      <title>DiffusionInst: Diffusion Model for Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/diffusioninst-diffusion-model-for-instance</link>
-      <description><![CDATA[This paper proposes DiffusionInst, a novel framework that represents instances as instance-aware filters and formulates instance segmentation as a noise-to-filter denoising process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusioninst-diffusion-model-for-instance</guid>
-    </item>
-    <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
-    </item>
-    <item>
-      <title>Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning</title>
-      <link>https://paperswithcode.com/paper/yuan-1-0-large-scale-pre-trained-language</link>
-      <description><![CDATA[With this method, Yuan 1. 0, the current largest singleton language model with 245B parameters, achieves excellent performance on thousands GPUs during training, and the state-of-the-art results on NLP tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yuan-1-0-large-scale-pre-trained-language</guid>
-    </item>
-    <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
       <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
@@ -69,16 +57,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
     </item>
     <item>
-      <title>EVA: Exploring the Limits of Masked Visual Representation Learning at Scale</title>
-      <link>https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</link>
-      <description><![CDATA[We launch EVA, a vision-centric foundation model to explore the limits of visual representation at scale using only publicly accessible data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eva-exploring-the-limits-of-masked-visual</guid>
+      <title>ALSO: Automotive Lidar Self-supervision by Occupancy estimation</title>
+      <link>https://paperswithcode.com/paper/also-automotive-lidar-self-supervision-by</link>
+      <description><![CDATA[The core idea is to train the model on a pretext task which is the reconstruction of the surface on which the 3D points are sampled, and to use the underlying latent vectors as input to the perception head.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/also-automotive-lidar-self-supervision-by</guid>
     </item>
     <item>
-      <title>Paint by Example: Exemplar-based Image Editing with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
-      <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
     </item>
     <item>
       <title>OpenFE: Automated Feature Generation beyond Expert-level Performance</title>
@@ -87,10 +81,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</guid>
     </item>
     <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can then be used to synthesize fully-novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+      <title>VindLU: A Recipe for Effective Video-and-Language Pretraining</title>
+      <link>https://paperswithcode.com/paper/vindlu-a-recipe-for-effective-video-and</link>
+      <description><![CDATA[Furthermore, our model also obtains state-of-the-art video question-answering results on ActivityNet-QA, MSRVTT-QA, MSRVTT-MC and TVQA.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vindlu-a-recipe-for-effective-video-and</guid>
+    </item>
+    <item>
+      <title>Yuan 1.0: Large-Scale Pre-trained Language Model in Zero-Shot and Few-Shot Learning</title>
+      <link>https://paperswithcode.com/paper/yuan-1-0-large-scale-pre-trained-language</link>
+      <description><![CDATA[With this method, Yuan 1. 0, the current largest singleton language model with 245B parameters, achieves excellent performance on thousands GPUs during training, and the state-of-the-art results on NLP tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yuan-1-0-large-scale-pre-trained-language</guid>
+    </item>
+    <item>
+      <title>Paint by Example: Exemplar-based Image Editing with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</link>
+      <description><![CDATA[Language-guided image editing has achieved great success recently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paint-by-example-exemplar-based-image-editing</guid>
+    </item>
+    <item>
+      <title>DiffusionInst: Diffusion Model for Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/diffusioninst-diffusion-model-for-instance</link>
+      <description><![CDATA[This paper proposes DiffusionInst, a novel framework that represents instances as instance-aware filters and formulates instance segmentation as a noise-to-filter denoising process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusioninst-diffusion-model-for-instance</guid>
+    </item>
+    <item>
+      <title>PyPop7: A Pure-Python Library for Population-Based Black-Box Optimization</title>
+      <link>https://paperswithcode.com/paper/pypop7-a-pure-python-library-for-population</link>
+      <description><![CDATA[In this paper, we present a pure-Python open-source library, called PyPop7, for black-box optimization (BBO).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pypop7-a-pure-python-library-for-population</guid>
+    </item>
+    <item>
+      <title>Inception Convolution with Efficient Dilation Search</title>
+      <link>https://paperswithcode.com/paper/inception-convolution-with-efficient-dilation</link>
+      <description><![CDATA[To develop a practical method for learning complex inception convolution based on the data, a simple but effective search algorithm, referred to as efficient dilation optimization (EDO), is developed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inception-convolution-with-efficient-dilation</guid>
     </item>
     <item>
       <title>Discovering Latent Knowledge in Language Models Without Supervision</title>
@@ -103,30 +127,6 @@
       <link>https://paperswithcode.com/paper/avocodo-generative-adversarial-network-for</link>
       <description><![CDATA[Therefore, in this paper, we investigate the relationship between these artifacts and GAN-based neural vocoders and propose a GAN-based neural vocoder, called Avocodo, that allows the synthesis of high-fidelity speech with reduced artifacts.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/avocodo-generative-adversarial-network-for</guid>
-    </item>
-    <item>
-      <title>UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/unetr-delving-into-efficient-and-accurate-3d</link>
-      <description><![CDATA[Owing to the success of transformer models, recent works study their applicability in 3D medical segmentation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unetr-delving-into-efficient-and-accurate-3d</guid>
-    </item>
-    <item>
-      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
-      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
-    </item>
-    <item>
-      <title>Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese</title>
-      <link>https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</link>
-      <description><![CDATA[The tremendous success of CLIP (Radford et al., 2021) has promoted the research and application of contrastive learning for vision-language pretraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chinese-clip-contrastive-vision-language</guid>
-    </item>
-    <item>
-      <title>SimVTP: Simple Video Text Pre-training with Masked Autoencoders</title>
-      <link>https://paperswithcode.com/paper/simvtp-simple-video-text-pre-training-with</link>
-      <description><![CDATA[This paper presents SimVTP: a Simple Video-Text Pretraining framework via masked autoencoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simvtp-simple-video-text-pre-training-with</guid>
     </item>
   </channel>
 </rss>
