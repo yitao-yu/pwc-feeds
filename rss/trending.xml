@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Dec 2022 09:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2022 21:05:52 +0000</lastBuildDate>
     <item>
       <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
       <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
@@ -21,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</guid>
     </item>
     <item>
-      <title>NMS Strikes Back</title>
-      <link>https://paperswithcode.com/paper/nms-strikes-back</link>
-      <description><![CDATA[Our detector that trains Deformable-DETR with traditional IoU-based label assignment achieved 50. 2 COCO mAP within 12 epochs (1x schedule) with ResNet50 backbone, outperforming all existing traditional or transformer-based detectors in this setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nms-strikes-back</guid>
+      <title>What do Vision Transformers Learn? A Visual Exploration</title>
+      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
+      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
     </item>
     <item>
       <title>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis</title>
@@ -39,16 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
     </item>
     <item>
+      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
+      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
+      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
+    </item>
+    <item>
+      <title>NMS Strikes Back</title>
+      <link>https://paperswithcode.com/paper/nms-strikes-back</link>
+      <description><![CDATA[Our detector that trains Deformable-DETR with traditional IoU-based label assignment achieved 50. 2 COCO mAP within 12 epochs (1x schedule) with ResNet50 backbone, outperforming all existing traditional or transformer-based detectors in this setting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nms-strikes-back</guid>
+    </item>
+    <item>
       <title>DifFace: Blind Face Restoration with Diffused Error Contraction</title>
       <link>https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</link>
       <description><![CDATA[Moreover, the transition distribution can contract the error of the restoration backbone and thus makes our method more robust to unknown degradations.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</guid>
     </item>
     <item>
-      <title>What do Vision Transformers Learn? A Visual Exploration</title>
-      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
-      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
+      <title>3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation</title>
+      <link>https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</link>
+      <description><![CDATA[We present 3DHumanGAN, a 3D-aware generative adversarial network (GAN) that synthesizes images of full-body humans with consistent appearances under different view-angles and body-poses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</guid>
     </item>
     <item>
       <title>GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation</title>
@@ -57,52 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpvit-a-high-resolution-non-hierarchical</guid>
     </item>
     <item>
-      <title>Programming Is Hard -- Or at Least It Used to Be: Educational Opportunities And Challenges of AI Code Generation</title>
-      <link>https://paperswithcode.com/paper/programming-is-hard-or-at-least-it-used-to-be</link>
-      <description><![CDATA[The introductory programming sequence has been the focus of much research in computing education.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/programming-is-hard-or-at-least-it-used-to-be</guid>
-    </item>
-    <item>
-      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
-      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
-      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
-    </item>
-    <item>
-      <title>The Stable Artist: Steering Semantics in Diffusion Latent Space</title>
-      <link>https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</link>
-      <description><![CDATA[Large, text-conditioned generative diffusion models have recently gained a lot of attention for their impressive performance in generating high-fidelity images from text alone.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</guid>
-    </item>
-    <item>
-      <title>CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet</title>
-      <link>https://paperswithcode.com/paper/clip-itself-is-a-strong-fine-tuner-achieving</link>
-      <description><![CDATA[Recent studies have shown that CLIP has achieved remarkable success in performing zero-shot inference while its fine-tuning performance is not satisfactory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clip-itself-is-a-strong-fine-tuner-achieving</guid>
-    </item>
-    <item>
       <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
       <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
       <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
-    </item>
-    <item>
-      <title>Learning Video Representations from Large Language Models</title>
-      <link>https://paperswithcode.com/paper/learning-video-representations-from-large</link>
-      <description><![CDATA[We introduce LaViLa, a new approach to learning video-language representations by leveraging Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-video-representations-from-large</guid>
-    </item>
-    <item>
-      <title>DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization</title>
-      <link>https://paperswithcode.com/paper/da-wand-distortion-aware-selection-using</link>
-      <description><![CDATA[We present a neural technique for learning to select a local sub-region around a point which can be used for mesh parameterization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/da-wand-distortion-aware-selection-using</guid>
-    </item>
-    <item>
-      <title>Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders</title>
-      <link>https://paperswithcode.com/paper/learning-3d-representations-from-2d-pre</link>
-      <description><![CDATA[Pre-training by numerous image data has become de-facto for robust 2D representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-3d-representations-from-2d-pre</guid>
     </item>
     <item>
       <title>GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech</title>
@@ -111,22 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</guid>
     </item>
     <item>
-      <title>ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer</title>
-      <link>https://paperswithcode.com/paper/aspanformer-detector-free-image-matching-with</link>
-      <description><![CDATA[Generating robust and reliable correspondences across images is a fundamental task for a diversity of applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aspanformer-detector-free-image-matching-with</guid>
+      <title>Editing Models with Task Arithmetic</title>
+      <link>https://paperswithcode.com/paper/editing-models-with-task-arithmetic</link>
+      <description><![CDATA[Changing how pre-trained models behave -- e. g., improving their performance on a downstream task or mitigating biases learned during pre-training -- is a common practice when developing machine learning systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/editing-models-with-task-arithmetic</guid>
     </item>
     <item>
-      <title>Structured Prompting: Scaling In-Context Learning to 1,000 Examples</title>
-      <link>https://paperswithcode.com/paper/structured-prompting-scaling-in-context</link>
-      <description><![CDATA[Large language models have exhibited intriguing in-context learning capability, achieving promising zero- and few-shot performance without updating the parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/structured-prompting-scaling-in-context</guid>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
       <title>DI-engine</title>
       <link>https://github.com/opendilab/DI-engine</link>
       <description><![CDATA[OpenDILab Decision AI Engine]]></description>
       <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>The Stable Artist: Steering Semantics in Diffusion Latent Space</title>
+      <link>https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</link>
+      <description><![CDATA[Large, text-conditioned generative diffusion models have recently gained a lot of attention for their impressive performance in generating high-fidelity images from text alone.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</guid>
+    </item>
+    <item>
+      <title>ALSO: Automotive Lidar Self-supervision by Occupancy estimation</title>
+      <link>https://paperswithcode.com/paper/also-automotive-lidar-self-supervision-by</link>
+      <description><![CDATA[The core idea is to train the model on a pretext task which is the reconstruction of the surface on which the 3D points are sampled, and to use the underlying latent vectors as input to the perception head.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/also-automotive-lidar-self-supervision-by</guid>
+    </item>
+    <item>
+      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
+      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
+      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+    </item>
+    <item>
+      <title>Learning Video Representations from Large Language Models</title>
+      <link>https://paperswithcode.com/paper/learning-video-representations-from-large</link>
+      <description><![CDATA[We introduce LaViLa, a new approach to learning video-language representations by leveraging Large Language Models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-video-representations-from-large</guid>
+    </item>
+    <item>
+      <title>Programming Is Hard -- Or at Least It Used to Be: Educational Opportunities And Challenges of AI Code Generation</title>
+      <link>https://paperswithcode.com/paper/programming-is-hard-or-at-least-it-used-to-be</link>
+      <description><![CDATA[The introductory programming sequence has been the focus of much research in computing education.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/programming-is-hard-or-at-least-it-used-to-be</guid>
     </item>
   </channel>
 </rss>
