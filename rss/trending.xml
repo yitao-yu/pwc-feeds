@@ -7,42 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 09:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 21:07:24 +0000</lastBuildDate>
     <item>
       <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
       <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
       <description><![CDATA[By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</guid>
-    </item>
-    <item>
-      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
-      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
-      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
-    </item>
-    <item>
-      <title>What do Vision Transformers Learn? A Visual Exploration</title>
-      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
-      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
-    </item>
-    <item>
-      <title>NMS Strikes Back</title>
-      <link>https://paperswithcode.com/paper/nms-strikes-back</link>
-      <description><![CDATA[Our detector that trains Deformable-DETR with traditional IoU-based label assignment achieved 50. 2 COCO mAP within 12 epochs (1x schedule) with ResNet50 backbone, outperforming all existing traditional or transformer-based detectors in this setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nms-strikes-back</guid>
-    </item>
-    <item>
-      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
-      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
-      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
-    </item>
-    <item>
-      <title>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/training-free-structured-diffusion-guidance</link>
-      <description><![CDATA[In this work, we improve the compositional skills of T2I models, specifically more accurate attribute binding and better image compositions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-structured-diffusion-guidance</guid>
     </item>
     <item>
       <title>DifFace: Blind Face Restoration with Diffused Error Contraction</title>
@@ -57,16 +27,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/editing-models-with-task-arithmetic</guid>
     </item>
     <item>
-      <title>4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions</title>
-      <link>https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</link>
-      <description><![CDATA[In this paper, we present a novel and effective framework, named 4K-NeRF, to pursue high fidelity view synthesis on the challenging scenarios of ultra high resolutions, building on the methodology of neural radiance fields (NeRF).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</guid>
+      <title>What do Vision Transformers Learn? A Visual Exploration</title>
+      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
+      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
     </item>
     <item>
-      <title>3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation</title>
-      <link>https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</link>
-      <description><![CDATA[We present 3DHumanGAN, a 3D-aware generative adversarial network (GAN) that synthesizes images of full-body humans with consistent appearances under different view-angles and body-poses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</guid>
+      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
+      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
+      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
+    </item>
+    <item>
+      <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
+      <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
+      <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
+    </item>
+    <item>
+      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
+      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
+      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
     </item>
     <item>
       <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
@@ -75,28 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation</title>
-      <link>https://paperswithcode.com/paper/gpvit-a-high-resolution-non-hierarchical</link>
-      <description><![CDATA[In each GP Block, features are first grouped together by a fixed number of learnable group tokens; we then perform Group Propagation where global information is exchanged between the grouped features; finally, global information in the updated grouped features is returned back to the image features through a transformer decoder.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpvit-a-high-resolution-non-hierarchical</guid>
-    </item>
-    <item>
-      <title>NeRF-Art: Text-Driven Neural Radiance Fields Stylization</title>
-      <link>https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</link>
-      <description><![CDATA[As a powerful representation of 3D scenes, the neural radiance field (NeRF) enables high-quality novel view synthesis from multi-view images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</guid>
-    </item>
-    <item>
-      <title>GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</link>
-      <description><![CDATA[Style transfer for out-of-domain (OOD) speech synthesis aims to generate speech samples with unseen style (e. g., speaker identity, emotion, and prosody) derived from an acoustic reference, while facing the following challenges: 1) The highly dynamic style features in expressive voice are difficult to model and transfer; and 2) the TTS models should be robust enough to handle diverse OOD conditions that differ from the source data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</guid>
-    </item>
-    <item>
-      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
-      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
-      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+      <title>3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation</title>
+      <link>https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</link>
+      <description><![CDATA[We present 3DHumanGAN, a 3D-aware generative adversarial network (GAN) that synthesizes images of full-body humans with consistent appearances under different view-angles and body-poses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</guid>
     </item>
     <item>
       <title>DI-engine</title>
@@ -105,22 +69,58 @@
       <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
     <item>
-      <title>The Stable Artist: Steering Semantics in Diffusion Latent Space</title>
-      <link>https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</link>
-      <description><![CDATA[Large, text-conditioned generative diffusion models have recently gained a lot of attention for their impressive performance in generating high-fidelity images from text alone.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-stable-artist-steering-semantics-in</guid>
+      <title>NeRF-Art: Text-Driven Neural Radiance Fields Stylization</title>
+      <link>https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</link>
+      <description><![CDATA[As a powerful representation of 3D scenes, the neural radiance field (NeRF) enables high-quality novel view synthesis from multi-view images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</guid>
     </item>
     <item>
-      <title>ALSO: Automotive Lidar Self-supervision by Occupancy estimation</title>
-      <link>https://paperswithcode.com/paper/also-automotive-lidar-self-supervision-by</link>
-      <description><![CDATA[The core idea is to train the model on a pretext task which is the reconstruction of the surface on which the 3D points are sampled, and to use the underlying latent vectors as input to the perception head.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/also-automotive-lidar-self-supervision-by</guid>
+      <title>4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions</title>
+      <link>https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</link>
+      <description><![CDATA[In this paper, we present a novel and effective framework, named 4K-NeRF, to pursue high fidelity view synthesis on the challenging scenarios of ultra high resolutions, building on the methodology of neural radiance fields (NeRF).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</guid>
+    </item>
+    <item>
+      <title>GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</link>
+      <description><![CDATA[Style transfer for out-of-domain (OOD) speech synthesis aims to generate speech samples with unseen style (e. g., speaker identity, emotion, and prosody) derived from an acoustic reference, while facing the following challenges: 1) The highly dynamic style features in expressive voice are difficult to model and transfer; and 2) the TTS models should be robust enough to handle diverse OOD conditions that differ from the source data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</guid>
+    </item>
+    <item>
+      <title>ACE: Cooperative Multi-agent Q-learning with Bidirectional Action-Dependency</title>
+      <link>https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</link>
+      <description><![CDATA[In the learning phase, each agent minimizes the TD error that is dependent on how the subsequent agents have reacted to their chosen action.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</guid>
+    </item>
+    <item>
+      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
+      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
+      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+    </item>
+    <item>
+      <title>READ: Large-Scale Neural Scene Rendering for Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/read-large-scale-neural-scene-rendering-for</link>
+      <description><![CDATA[In this paper, a large-scale neural rendering method is proposed to synthesize the autonomous driving scene~(READ), which makes it possible to synthesize large-scale driving scenarios on a PC through a variety of sampling schemes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/read-large-scale-neural-scene-rendering-for</guid>
     </item>
     <item>
       <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
       <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
       <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
+    </item>
+    <item>
+      <title>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/training-free-structured-diffusion-guidance</link>
+      <description><![CDATA[In this work, we improve the compositional skills of T2I models, specifically more accurate attribute binding and better image compositions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-structured-diffusion-guidance</guid>
+    </item>
+    <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
     </item>
     <item>
       <title>Revisiting Classifier: Transferring Vision-Language Models for Video Recognition</title>
