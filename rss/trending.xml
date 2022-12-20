@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Dec 2022 09:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 21:06:42 +0000</lastBuildDate>
     <item>
       <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
       <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
       <description><![CDATA[By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</guid>
+    </item>
+    <item>
+      <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
+      <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
+      <description><![CDATA[This is in stark contrast to state-of-the-art generative image models, which produce samples in a number of seconds or minutes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</guid>
     </item>
     <item>
       <title>DifFace: Blind Face Restoration with Diffused Error Contraction</title>
@@ -21,22 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</guid>
     </item>
     <item>
-      <title>Editing Models with Task Arithmetic</title>
-      <link>https://paperswithcode.com/paper/editing-models-with-task-arithmetic</link>
-      <description><![CDATA[Changing how pre-trained models behave -- e. g., improving their performance on a downstream task or mitigating biases learned during pre-training -- is a common practice when developing machine learning systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/editing-models-with-task-arithmetic</guid>
-    </item>
-    <item>
-      <title>What do Vision Transformers Learn? A Visual Exploration</title>
-      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
-      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
-    </item>
-    <item>
-      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
-      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
-      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
       <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
@@ -45,16 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
     </item>
     <item>
-      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
-      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
-      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
+      <title>Optimizing Prompts for Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/optimizing-prompts-for-text-to-image</link>
+      <description><![CDATA[Instead of laborious human engineering, we propose prompt adaptation, a general framework that automatically adapts original user input to model-preferred prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/optimizing-prompts-for-text-to-image</guid>
     </item>
     <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+      <title>Editing Models with Task Arithmetic</title>
+      <link>https://paperswithcode.com/paper/editing-models-with-task-arithmetic</link>
+      <description><![CDATA[Changing how pre-trained models behave -- e. g., improving their performance on a downstream task or mitigating biases learned during pre-training -- is a common practice when developing machine learning systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/editing-models-with-task-arithmetic</guid>
     </item>
     <item>
       <title>3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation</title>
@@ -69,22 +63,40 @@
       <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
     <item>
+      <title>Revisiting Classifier: Transferring Vision-Language Models for Video Recognition</title>
+      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
+      <description><![CDATA[In this study, we focus on transferring knowledge for video classification tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
+    </item>
+    <item>
       <title>NeRF-Art: Text-Driven Neural Radiance Fields Stylization</title>
       <link>https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</link>
       <description><![CDATA[As a powerful representation of 3D scenes, the neural radiance field (NeRF) enables high-quality novel view synthesis from multi-view images.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</guid>
     </item>
     <item>
-      <title>4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions</title>
-      <link>https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</link>
-      <description><![CDATA[In this paper, we present a novel and effective framework, named 4K-NeRF, to pursue high fidelity view synthesis on the challenging scenarios of ultra high resolutions, building on the methodology of neural radiance fields (NeRF).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/4k-nerf-high-fidelity-neural-radiance-fields</guid>
+      <title>Position-guided Text Prompt for Vision-Language Pre-training</title>
+      <link>https://paperswithcode.com/paper/position-guided-text-prompt-for-vision</link>
+      <description><![CDATA[In this work, we propose a novel Position-guided Text Prompt (PTP) paradigm to enhance the visual grounding ability of cross-modal models trained with VLP.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/position-guided-text-prompt-for-vision</guid>
     </item>
     <item>
-      <title>GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</link>
-      <description><![CDATA[Style transfer for out-of-domain (OOD) speech synthesis aims to generate speech samples with unseen style (e. g., speaker identity, emotion, and prosody) derived from an acoustic reference, while facing the following challenges: 1) The highly dynamic style features in expressive voice are difficult to model and transfer; and 2) the TTS models should be robust enough to handle diverse OOD conditions that differ from the source data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generspeech-towards-style-transfer-for</guid>
+      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
+      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
+      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
+    </item>
+    <item>
+      <title>FILM: Frame Interpolation for Large Motion</title>
+      <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
+      <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
+    </item>
+    <item>
+      <title>What do Vision Transformers Learn? A Visual Exploration</title>
+      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
+      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
     </item>
     <item>
       <title>ACE: Cooperative Multi-agent Q-learning with Bidirectional Action-Dependency</title>
@@ -93,16 +105,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</guid>
     </item>
     <item>
-      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
-      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
-      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+      <title>SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</link>
+      <description><![CDATA[As the latter are conditioned on a single frame, scene reconstruction is achieved from the fusion of multiple synthesized novel depth views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</guid>
     </item>
     <item>
-      <title>READ: Large-Scale Neural Scene Rendering for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/read-large-scale-neural-scene-rendering-for</link>
-      <description><![CDATA[In this paper, a large-scale neural rendering method is proposed to synthesize the autonomous driving scene~(READ), which makes it possible to synthesize large-scale driving scenarios on a PC through a variety of sampling schemes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/read-large-scale-neural-scene-rendering-for</guid>
+      <title>Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories</title>
+      <link>https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</link>
+      <description><![CDATA[In this paper, we revisit Sand and Teller's "particle video" approach, and study pixel tracking as a long-range motion estimation problem, where every pixel is described with a trajectory that locates it in multiple future frames.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</guid>
     </item>
     <item>
       <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
@@ -111,22 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
     </item>
     <item>
-      <title>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/training-free-structured-diffusion-guidance</link>
-      <description><![CDATA[In this work, we improve the compositional skills of T2I models, specifically more accurate attribute binding and better image compositions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-structured-diffusion-guidance</guid>
-    </item>
-    <item>
-      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
-      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
-      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
-    </item>
-    <item>
-      <title>Revisiting Classifier: Transferring Vision-Language Models for Video Recognition</title>
-      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
-      <description><![CDATA[In this study, we focus on transferring knowledge for video classification tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
+      <title>LaserMix for Semi-Supervised LiDAR Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</link>
+      <description><![CDATA[Densely annotating LiDAR point clouds is costly, which restrains the scalability of fully-supervised learning methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</guid>
     </item>
   </channel>
 </rss>
