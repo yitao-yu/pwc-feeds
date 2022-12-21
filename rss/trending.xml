@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Dec 2022 09:12:41 +0000</lastBuildDate>
-    <item>
-      <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
-      <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
-      <description><![CDATA[By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</guid>
-    </item>
+    <lastBuildDate>Wed, 21 Dec 2022 21:06:42 +0000</lastBuildDate>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
       <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
@@ -27,52 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</guid>
     </item>
     <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
-    </item>
-    <item>
-      <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
-      <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
-      <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
-    </item>
-    <item>
       <title>Optimizing Prompts for Text-to-Image Generation</title>
       <link>https://paperswithcode.com/paper/optimizing-prompts-for-text-to-image</link>
       <description><![CDATA[Instead of laborious human engineering, we propose prompt adaptation, a general framework that automatically adapts original user input to model-preferred prompts.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/optimizing-prompts-for-text-to-image</guid>
-    </item>
-    <item>
-      <title>Editing Models with Task Arithmetic</title>
-      <link>https://paperswithcode.com/paper/editing-models-with-task-arithmetic</link>
-      <description><![CDATA[Changing how pre-trained models behave -- e. g., improving their performance on a downstream task or mitigating biases learned during pre-training -- is a common practice when developing machine learning systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/editing-models-with-task-arithmetic</guid>
-    </item>
-    <item>
-      <title>3DHumanGAN: Towards Photo-Realistic 3D-Aware Human Image Generation</title>
-      <link>https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</link>
-      <description><![CDATA[We present 3DHumanGAN, a 3D-aware generative adversarial network (GAN) that synthesizes images of full-body humans with consistent appearances under different view-angles and body-poses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware</guid>
-    </item>
-    <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
-    </item>
-    <item>
-      <title>Revisiting Classifier: Transferring Vision-Language Models for Video Recognition</title>
-      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
-      <description><![CDATA[In this study, we focus on transferring knowledge for video classification tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
-    </item>
-    <item>
-      <title>NeRF-Art: Text-Driven Neural Radiance Fields Stylization</title>
-      <link>https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</link>
-      <description><![CDATA[As a powerful representation of 3D scenes, the neural radiance field (NeRF) enables high-quality novel view synthesis from multi-view images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</guid>
     </item>
     <item>
       <title>Position-guided Text Prompt for Vision-Language Pre-training</title>
@@ -81,40 +33,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/position-guided-text-prompt-for-vision</guid>
     </item>
     <item>
-      <title>ECON: Explicit Clothed humans Obtained from Normals</title>
-      <link>https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</link>
-      <description><![CDATA[The combination of artist-curated scans, and deep implicit functions (IF), is enabling the creation of detailed, clothed, 3D humans from images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/econ-explicit-clothed-humans-obtained-from</guid>
-    </item>
-    <item>
       <title>FILM: Frame Interpolation for Large Motion</title>
       <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
       <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
     </item>
     <item>
-      <title>What do Vision Transformers Learn? A Visual Exploration</title>
-      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
-      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
+      <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
+      <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
+      <description><![CDATA[By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</guid>
     </item>
     <item>
-      <title>ACE: Cooperative Multi-agent Q-learning with Bidirectional Action-Dependency</title>
-      <link>https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</link>
-      <description><![CDATA[In the learning phase, each agent minimizes the TD error that is dependent on how the subsequent agents have reacted to their chosen action.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</guid>
+      <title>Scalable Diffusion Models with Transformers</title>
+      <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
+      <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
     </item>
     <item>
-      <title>SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields</title>
-      <link>https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</link>
-      <description><![CDATA[As the latter are conditioned on a single frame, scene reconstruction is achieved from the fusion of multiple synthesized novel depth views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</guid>
+      <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
+      <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
+      <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
     </item>
     <item>
-      <title>Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories</title>
-      <link>https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</link>
-      <description><![CDATA[In this paper, we revisit Sand and Teller's "particle video" approach, and study pixel tracking as a long-range motion estimation problem, where every pixel is described with a trajectory that locates it in multiple future frames.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/particle-videos-revisited-tracking-through</guid>
+      <title>Revisiting Classifier: Transferring Vision-Language Models for Video Recognition</title>
+      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
+      <description><![CDATA[In this study, we focus on transferring knowledge for video classification tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
+    </item>
+    <item>
+      <title>Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/uncovering-the-disentanglement-capability-in</link>
+      <description><![CDATA[Based on this finding, we further propose a simple, light-weight image editing algorithm where the mixing weights of the two text embeddings are optimized for style matching and content preservation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uncovering-the-disentanglement-capability-in</guid>
+    </item>
+    <item>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation</title>
+      <link>https://paperswithcode.com/paper/mm-diffusion-learning-multi-modal-diffusion</link>
+      <description><![CDATA[To generate joint audio-video pairs, we propose a novel Multi-Modal Diffusion model (i. e., MM-Diffusion), with two-coupled denoising autoencoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mm-diffusion-learning-multi-modal-diffusion</guid>
+    </item>
+    <item>
+      <title>GLOBEM Dataset: Multi-Year Datasets for Longitudinal Human Behavior Modeling Generalization</title>
+      <link>https://paperswithcode.com/paper/globem-dataset-multi-year-datasets-for</link>
+      <description><![CDATA[We envision our multi-year datasets can support the ML community in developing generalizable longitudinal behavior modeling algorithms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/globem-dataset-multi-year-datasets-for</guid>
+    </item>
+    <item>
+      <title>NeRF-Art: Text-Driven Neural Radiance Fields Stylization</title>
+      <link>https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</link>
+      <description><![CDATA[As a powerful representation of 3D scenes, the neural radiance field (NeRF) enables high-quality novel view synthesis from multi-view images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</guid>
     </item>
     <item>
       <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
@@ -123,10 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
     </item>
     <item>
-      <title>LaserMix for Semi-Supervised LiDAR Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</link>
-      <description><![CDATA[Densely annotating LiDAR point clouds is costly, which restrains the scalability of fully-supervised learning methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lasermix-for-semi-supervised-lidar-semantic</guid>
+      <title>ACE: Cooperative Multi-agent Q-learning with Bidirectional Action-Dependency</title>
+      <link>https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</link>
+      <description><![CDATA[In the learning phase, each agent minimizes the TD error that is dependent on how the subsequent agents have reacted to their chosen action.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</guid>
+    </item>
+    <item>
+      <title>BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM</title>
+      <link>https://paperswithcode.com/paper/bow3d-bag-of-words-for-real-time-loop-closing</link>
+      <description><![CDATA[To address this limitation, we present a novel Bag of Words for real-time loop closing in 3D LiDAR SLAM, called BoW3D.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bow3d-bag-of-words-for-real-time-loop-closing</guid>
+    </item>
+    <item>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+    </item>
+    <item>
+      <title>SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</link>
+      <description><![CDATA[As the latter are conditioned on a single frame, scene reconstruction is achieved from the fusion of multiple synthesized novel depth views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</guid>
+    </item>
+    <item>
+      <title>What do Vision Transformers Learn? A Visual Exploration</title>
+      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
+      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
     </item>
   </channel>
 </rss>
