@@ -7,42 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Dec 2022 21:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2022 09:12:21 +0000</lastBuildDate>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
       <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
       <description><![CDATA[This is in stark contrast to state-of-the-art generative image models, which produce samples in a number of seconds or minutes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</guid>
-    </item>
-    <item>
-      <title>DifFace: Blind Face Restoration with Diffused Error Contraction</title>
-      <link>https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</link>
-      <description><![CDATA[Moreover, the transition distribution can contract the error of the restoration backbone and thus makes our method more robust to unknown degradations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</guid>
-    </item>
-    <item>
-      <title>Optimizing Prompts for Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/optimizing-prompts-for-text-to-image</link>
-      <description><![CDATA[Instead of laborious human engineering, we propose prompt adaptation, a general framework that automatically adapts original user input to model-preferred prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/optimizing-prompts-for-text-to-image</guid>
-    </item>
-    <item>
-      <title>Position-guided Text Prompt for Vision-Language Pre-training</title>
-      <link>https://paperswithcode.com/paper/position-guided-text-prompt-for-vision</link>
-      <description><![CDATA[In this work, we propose a novel Position-guided Text Prompt (PTP) paradigm to enhance the visual grounding ability of cross-modal models trained with VLP.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/position-guided-text-prompt-for-vision</guid>
-    </item>
-    <item>
-      <title>FILM: Frame Interpolation for Large Motion</title>
-      <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
-      <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
-    </item>
-    <item>
-      <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
-      <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
-      <description><![CDATA[By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</guid>
     </item>
     <item>
       <title>Scalable Diffusion Models with Transformers</title>
@@ -51,16 +21,94 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
     </item>
     <item>
+      <title>Generalized Decoding for Pixel, Image, and Language</title>
+      <link>https://paperswithcode.com/paper/generalized-decoding-for-pixel-image-and</link>
+      <description><![CDATA[We present X-Decoder, a generalized decoding model that can predict pixel-level segmentation and language tokens seamlessly.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-decoding-for-pixel-image-and</guid>
+    </item>
+    <item>
+      <title>Towards Reasoning in Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</link>
+      <description><![CDATA[Reasoning is a fundamental aspect of human intelligence that plays a crucial role in activities such as problem solving, decision making, and critical thinking.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</guid>
+    </item>
+    <item>
+      <title>DifFace: Blind Face Restoration with Diffused Error Contraction</title>
+      <link>https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</link>
+      <description><![CDATA[Moreover, the transition distribution can contract the error of the restoration backbone and thus makes our method more robust to unknown degradations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</guid>
+    </item>
+    <item>
+      <title>Nonparametric Masked Language Modeling</title>
+      <link>https://paperswithcode.com/paper/nonparametric-masked-language-modeling</link>
+      <description><![CDATA[Existing language models (LMs) predict tokens with a softmax over a finite vocabulary, which can make it difficult to predict rare tokens or phrases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nonparametric-masked-language-modeling</guid>
+    </item>
+    <item>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+    </item>
+    <item>
+      <title>FILM: Frame Interpolation for Large Motion</title>
+      <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
+      <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
+    </item>
+    <item>
+      <title>Goal-oriented Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/goal-oriented-autonomous-driving</link>
+      <description><![CDATA[Modern autonomous driving system is characterized as modular tasks in sequential order, i. e., perception, prediction and planning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
+    </item>
+    <item>
+      <title>When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories</title>
+      <link>https://paperswithcode.com/paper/when-not-to-trust-language-models</link>
+      <description><![CDATA[Despite their impressive performance on diverse tasks, large language models (LMs) still struggle with tasks requiring rich world knowledge, implying the limitations of relying solely on their parameters to encode a wealth of world knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/when-not-to-trust-language-models</guid>
+    </item>
+    <item>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+    </item>
+    <item>
       <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
       <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
       <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
     </item>
     <item>
-      <title>Revisiting Classifier: Transferring Vision-Language Models for Video Recognition</title>
-      <link>https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</link>
-      <description><![CDATA[In this study, we focus on transferring knowledge for video classification tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transferring-textual-knowledge-for-visual</guid>
+      <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
+      <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
+      <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
+    </item>
+    <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
+      <title>RT-1: Robotics Transformer for Real-World Control at Scale</title>
+      <link>https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</link>
+      <description><![CDATA[By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rt-1-robotics-transformer-for-real-world</guid>
+    </item>
+    <item>
+      <title>3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions</title>
+      <link>https://paperswithcode.com/paper/3d-highlighter-localizing-regions-on-3d</link>
+      <description><![CDATA[A key feature of our system is the ability to interpret "out-of-domain" localizations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-highlighter-localizing-regions-on-3d</guid>
+    </item>
+    <item>
+      <title>GLOBEM Dataset: Multi-Year Datasets for Longitudinal Human Behavior Modeling Generalization</title>
+      <link>https://paperswithcode.com/paper/globem-dataset-multi-year-datasets-for</link>
+      <description><![CDATA[We envision our multi-year datasets can support the ML community in developing generalizable longitudinal behavior modeling algorithms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/globem-dataset-multi-year-datasets-for</guid>
     </item>
     <item>
       <title>Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models</title>
@@ -75,58 +123,10 @@
       <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
     <item>
-      <title>MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation</title>
-      <link>https://paperswithcode.com/paper/mm-diffusion-learning-multi-modal-diffusion</link>
-      <description><![CDATA[To generate joint audio-video pairs, we propose a novel Multi-Modal Diffusion model (i. e., MM-Diffusion), with two-coupled denoising autoencoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mm-diffusion-learning-multi-modal-diffusion</guid>
-    </item>
-    <item>
-      <title>GLOBEM Dataset: Multi-Year Datasets for Longitudinal Human Behavior Modeling Generalization</title>
-      <link>https://paperswithcode.com/paper/globem-dataset-multi-year-datasets-for</link>
-      <description><![CDATA[We envision our multi-year datasets can support the ML community in developing generalizable longitudinal behavior modeling algorithms.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/globem-dataset-multi-year-datasets-for</guid>
-    </item>
-    <item>
-      <title>NeRF-Art: Text-Driven Neural Radiance Fields Stylization</title>
-      <link>https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</link>
-      <description><![CDATA[As a powerful representation of 3D scenes, the neural radiance field (NeRF) enables high-quality novel view synthesis from multi-view images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-art-text-driven-neural-radiance-fields</guid>
-    </item>
-    <item>
-      <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
-      <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
-      <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
-    </item>
-    <item>
-      <title>ACE: Cooperative Multi-agent Q-learning with Bidirectional Action-Dependency</title>
-      <link>https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</link>
-      <description><![CDATA[In the learning phase, each agent minimizes the TD error that is dependent on how the subsequent agents have reacted to their chosen action.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ace-cooperative-multi-agent-q-learning-with</guid>
-    </item>
-    <item>
-      <title>BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM</title>
-      <link>https://paperswithcode.com/paper/bow3d-bag-of-words-for-real-time-loop-closing</link>
-      <description><![CDATA[To address this limitation, we present a novel Bag of Words for real-time loop closing in 3D LiDAR SLAM, called BoW3D.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bow3d-bag-of-words-for-real-time-loop-closing</guid>
-    </item>
-    <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
-    </item>
-    <item>
-      <title>SceneRF: Self-Supervised Monocular 3D Scene Reconstruction with Radiance Fields</title>
-      <link>https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</link>
-      <description><![CDATA[As the latter are conditioned on a single frame, scene reconstruction is achieved from the fusion of multiple synthesized novel depth views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scenerf-self-supervised-monocular-3d-scene</guid>
-    </item>
-    <item>
-      <title>What do Vision Transformers Learn? A Visual Exploration</title>
-      <link>https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</link>
-      <description><![CDATA[In addition, we show that ViTs maintain spatial information in all layers except the final layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-vision-transformers-learn-a-visual</guid>
+      <title>Unleashing the Power of Visual Prompting At the Pixel Level</title>
+      <link>https://paperswithcode.com/paper/unleashing-the-power-of-visual-prompting-at</link>
+      <description><![CDATA[This paper presents a simple and effective visual prompting method for adapting pre-trained models to downstream recognition tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-the-power-of-visual-prompting-at</guid>
     </item>
   </channel>
 </rss>
