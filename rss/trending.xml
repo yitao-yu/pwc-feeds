@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Dec 2022 09:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 21:06:37 +0000</lastBuildDate>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
       <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
@@ -27,6 +27,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-decoding-for-pixel-image-and</guid>
     </item>
     <item>
+      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
+      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
+      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+    </item>
+    <item>
       <title>OPT: Open Pre-trained Transformer Language Models</title>
       <link>https://paperswithcode.com/paper/opt-open-pre-trained-transformer-language</link>
       <description><![CDATA[Large language models, which are often trained for hundreds of thousands of compute days, have shown remarkable capabilities for zero- and few-shot learning.]]></description>
@@ -39,34 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</guid>
     </item>
     <item>
-      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
-      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
-      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
-    </item>
-    <item>
-      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
-      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
-      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
-    </item>
-    <item>
-      <title>DifFace: Blind Face Restoration with Diffused Error Contraction</title>
-      <link>https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</link>
-      <description><![CDATA[Moreover, the transition distribution can contract the error of the restoration backbone and thus makes our method more robust to unknown degradations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused</guid>
-    </item>
-    <item>
-      <title>Nonparametric Masked Language Modeling</title>
-      <link>https://paperswithcode.com/paper/nonparametric-masked-language-modeling</link>
-      <description><![CDATA[Existing language models (LMs) predict tokens with a softmax over a finite vocabulary, which can make it difficult to predict rare tokens or phrases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nonparametric-masked-language-modeling</guid>
-    </item>
-    <item>
-      <title>FILM: Frame Interpolation for Large Motion</title>
-      <link>https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</link>
-      <description><![CDATA[Recent methods use multiple networks to estimate optical flow or depth and a separate network dedicated to frame synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/film-frame-interpolation-for-large-motion</guid>
+      <title>Deep Architectures for Content Moderation and Movie Content Rating</title>
+      <link>https://paperswithcode.com/paper/deep-architectures-for-content-moderation-and</link>
+      <description><![CDATA[Rating a video based on its content is an important step for classifying video age categories.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-architectures-for-content-moderation-and</guid>
     </item>
     <item>
       <title>Fast DistilBERT on CPUs</title>
@@ -75,10 +57,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-distilbert-on-cpus</guid>
     </item>
     <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+      <title>Nonparametric Masked Language Modeling</title>
+      <link>https://paperswithcode.com/paper/nonparametric-masked-language-modeling</link>
+      <description><![CDATA[Existing language models (LMs) predict tokens with a softmax over a finite vocabulary, which can make it difficult to predict rare tokens or phrases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nonparametric-masked-language-modeling</guid>
+    </item>
+    <item>
+      <title>Benchmarking and Analyzing Point Cloud Classification under Corruptions</title>
+      <link>https://paperswithcode.com/paper/benchmarking-and-analyzing-point-cloud</link>
+      <description><![CDATA[3D perception, especially point cloud classification, has achieved substantial progress.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-and-analyzing-point-cloud</guid>
+    </item>
+    <item>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+    </item>
+    <item>
+      <title>Active-Learning-as-a-Service: An Automatic and Efficient MLOps System for Data-Centric AI</title>
+      <link>https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</link>
+      <description><![CDATA[In data-centric AI, active learning (AL) plays a vital role, but current AL tools 1) require users to manually select AL strategies, and 2) can not perform AL tasks efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</guid>
     </item>
     <item>
       <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
@@ -87,10 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
     </item>
     <item>
-      <title>Benchmarking and Analyzing Point Cloud Classification under Corruptions</title>
-      <link>https://paperswithcode.com/paper/benchmarking-and-analyzing-point-cloud</link>
-      <description><![CDATA[3D perception, especially point cloud classification, has achieved substantial progress.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-and-analyzing-point-cloud</guid>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
       <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
@@ -105,28 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-highlighter-localizing-regions-on-3d</guid>
     </item>
     <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+      <title>OpenFE: Automated Feature Generation beyond Expert-level Performance</title>
+      <link>https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</link>
+      <description><![CDATA[The major challenge in automated feature generation is to efficiently and accurately identify useful features from a vast pool of candidate features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</guid>
+    </item>
+    <item>
+      <title>MemPrompt: Memory-assisted Prompt Editing with User Feedback</title>
+      <link>https://paperswithcode.com/paper/memory-assisted-prompt-editing-to-improve-gpt</link>
+      <description><![CDATA[Large LMs such as GPT-3 are powerful, but can commit mistakes that are obvious to humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memory-assisted-prompt-editing-to-improve-gpt</guid>
     </item>
     <item>
       <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
       <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
       <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
-    </item>
-    <item>
-      <title>Goal-oriented Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/goal-oriented-autonomous-driving</link>
-      <description><![CDATA[Modern autonomous driving system is characterized as modular tasks in sequential order, i. e., perception, prediction and planning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
-    </item>
-    <item>
-      <title>Active-Learning-as-a-Service: An Automatic and Efficient MLOps System for Data-Centric AI</title>
-      <link>https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</link>
-      <description><![CDATA[In data-centric AI, active learning (AL) plays a vital role, but current AL tools 1) require users to manually select AL strategies, and 2) can not perform AL tasks efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</guid>
     </item>
   </channel>
 </rss>
