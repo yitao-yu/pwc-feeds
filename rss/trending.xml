@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Dec 2022 09:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2022 21:06:27 +0000</lastBuildDate>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
       <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
@@ -39,12 +39,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/opt-open-pre-trained-transformer-language</guid>
     </item>
     <item>
-      <title>Towards Reasoning in Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</link>
-      <description><![CDATA[Reasoning is a fundamental aspect of human intelligence that plays a crucial role in activities such as problem solving, decision making, and critical thinking.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</guid>
-    </item>
-    <item>
       <title>Deep Architectures for Content Moderation and Movie Content Rating</title>
       <link>https://paperswithcode.com/paper/deep-architectures-for-content-moderation-and</link>
       <description><![CDATA[Rating a video based on its content is an important step for classifying video age categories.]]></description>
@@ -57,10 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-distilbert-on-cpus</guid>
     </item>
     <item>
-      <title>Nonparametric Masked Language Modeling</title>
-      <link>https://paperswithcode.com/paper/nonparametric-masked-language-modeling</link>
-      <description><![CDATA[Existing language models (LMs) predict tokens with a softmax over a finite vocabulary, which can make it difficult to predict rare tokens or phrases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nonparametric-masked-language-modeling</guid>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
     </item>
     <item>
       <title>Benchmarking and Analyzing Point Cloud Classification under Corruptions</title>
@@ -69,46 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-and-analyzing-point-cloud</guid>
     </item>
     <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
-    </item>
-    <item>
-      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
-      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
-      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
-    </item>
-    <item>
-      <title>Active-Learning-as-a-Service: An Automatic and Efficient MLOps System for Data-Centric AI</title>
-      <link>https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</link>
-      <description><![CDATA[In data-centric AI, active learning (AL) plays a vital role, but current AL tools 1) require users to manually select AL strategies, and 2) can not perform AL tasks efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</guid>
-    </item>
-    <item>
-      <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
-      <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
-      <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
-    </item>
-    <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
-      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
-      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
-    </item>
-    <item>
-      <title>3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions</title>
-      <link>https://paperswithcode.com/paper/3d-highlighter-localizing-regions-on-3d</link>
-      <description><![CDATA[A key feature of our system is the ability to interpret "out-of-domain" localizations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-highlighter-localizing-regions-on-3d</guid>
+      <title>MemPrompt: Memory-assisted Prompt Editing with User Feedback</title>
+      <link>https://paperswithcode.com/paper/memory-assisted-prompt-editing-to-improve-gpt</link>
+      <description><![CDATA[Large LMs such as GPT-3 are powerful, but can commit mistakes that are obvious to humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memory-assisted-prompt-editing-to-improve-gpt</guid>
     </item>
     <item>
       <title>OpenFE: Automated Feature Generation beyond Expert-level Performance</title>
@@ -117,16 +75,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</guid>
     </item>
     <item>
-      <title>MemPrompt: Memory-assisted Prompt Editing with User Feedback</title>
-      <link>https://paperswithcode.com/paper/memory-assisted-prompt-editing-to-improve-gpt</link>
-      <description><![CDATA[Large LMs such as GPT-3 are powerful, but can commit mistakes that are obvious to humans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/memory-assisted-prompt-editing-to-improve-gpt</guid>
+      <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
+      <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
+      <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
     </item>
     <item>
-      <title>Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization</title>
-      <link>https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</link>
-      <description><![CDATA[To help answer this, we first introduce an open-source modular library, RL4LMs (Reinforcement Learning for Language Models), for optimizing language generators with RL.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-reinforcement-learning-not-for-natural</guid>
+      <title>Towards Reasoning in Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</link>
+      <description><![CDATA[Reasoning is a fundamental aspect of human intelligence that plays a crucial role in activities such as problem solving, decision making, and critical thinking.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</guid>
+    </item>
+    <item>
+      <title>GPT-NeoX-20B: An Open-Source Autoregressive Language Model</title>
+      <link>https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</link>
+      <description><![CDATA[We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</guid>
+    </item>
+    <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+    </item>
+    <item>
+      <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
+      <link>https://paperswithcode.com/paper/the-forward-forward-algorithm-some</link>
+      <description><![CDATA[The aim of this paper is to introduce a new learning procedure for neural networks and to demonstrate that it works well enough on a few small problems to be worth serious investigation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-forward-forward-algorithm-some</guid>
+    </item>
+    <item>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+    </item>
+    <item>
+      <title>Active-Learning-as-a-Service: An Automatic and Efficient MLOps System for Data-Centric AI</title>
+      <link>https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</link>
+      <description><![CDATA[In data-centric AI, active learning (AL) plays a vital role, but current AL tools 1) require users to manually select AL strategies, and 2) can not perform AL tasks efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/active-learning-as-a-service-an-efficient</guid>
+    </item>
+    <item>
+      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
+      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
+      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
+    </item>
+    <item>
+      <title>ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation</title>
+      <link>https://paperswithcode.com/paper/conda-unsupervised-domain-adaptation-for</link>
+      <description><![CDATA[To improve both the network training on the source domain and self-training on the intermediate domain, we propose an anti-aliasing regularizer and an entropy aggregator to reduce the negative effect caused by the aliasing artifacts and noisy pseudo labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/conda-unsupervised-domain-adaptation-for</guid>
     </item>
   </channel>
 </rss>
