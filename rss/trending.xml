@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Dec 2022 09:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2022 21:06:07 +0000</lastBuildDate>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
       <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
       <description><![CDATA[This is in stark contrast to state-of-the-art generative image models, which produce samples in a number of seconds or minutes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</guid>
-    </item>
-    <item>
-      <title>Scalable Diffusion Models with Transformers</title>
-      <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
-      <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
     </item>
     <item>
       <title>TextBox 2.0: A Text Generation Library with Pre-trained Language Models</title>
@@ -27,22 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/textbox-2-0-a-text-generation-library-with</guid>
     </item>
     <item>
+      <title>Scalable Diffusion Models with Transformers</title>
+      <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
+      <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
+    </item>
+    <item>
       <title>MetaFormer Baselines for Vision</title>
       <link>https://paperswithcode.com/paper/metaformer-baselines-for-vision</link>
       <description><![CDATA[By simply applying depthwise separable convolutions as token mixer in the bottom stages and vanilla self-attention in the top stages, the resulting model CAFormer sets a new record on ImageNet-1K: it achieves an accuracy of 85. 5% at 224x224 resolution, under normal supervised training without external data or distillation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/metaformer-baselines-for-vision</guid>
-    </item>
-    <item>
-      <title>Deep Architectures for Content Moderation and Movie Content Rating</title>
-      <link>https://paperswithcode.com/paper/deep-architectures-for-content-moderation-and</link>
-      <description><![CDATA[Rating a video based on its content is an important step for classifying video age categories.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-architectures-for-content-moderation-and</guid>
-    </item>
-    <item>
-      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
-      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
-      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
     </item>
     <item>
       <title>MANGO: A Python Library for Parallel Hyperparameter Tuning</title>
@@ -51,10 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mango-a-python-library-for-parallel</guid>
     </item>
     <item>
-      <title>DI-engine</title>
-      <link>https://github.com/opendilab/DI-engine</link>
-      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
-      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
+      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
+      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
     </item>
     <item>
       <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
@@ -63,10 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</guid>
     </item>
     <item>
+      <title>DI-engine</title>
+      <link>https://github.com/opendilab/DI-engine</link>
+      <description><![CDATA[OpenDILab Decision AI Engine]]></description>
+      <guid isPermaLink="true">https://github.com/opendilab/DI-engine</guid>
+    </item>
+    <item>
       <title>GPT-NeoX-20B: An Open-Source Autoregressive Language Model</title>
       <link>https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</link>
       <description><![CDATA[We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</guid>
+    </item>
+    <item>
+      <title>Reversible Column Networks</title>
+      <link>https://paperswithcode.com/paper/reversible-column-networks</link>
+      <description><![CDATA[Such architectural scheme attributes RevCol very different behavior from conventional networks: during forward propagation, features in RevCol are learned to be gradually disentangled when passing through each column, whose total information is maintained rather than compressed or discarded as other network does.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reversible-column-networks</guid>
     </item>
     <item>
       <title>Generalized Decoding for Pixel, Image, and Language</title>
@@ -75,22 +75,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-decoding-for-pixel-image-and</guid>
     </item>
     <item>
+      <title>DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization</title>
+      <link>https://paperswithcode.com/paper/diffstyler-controllable-dual-diffusion-for</link>
+      <description><![CDATA[Despite the impressive results of arbitrary image-guided style transfer methods, text-driven image stylization has recently been proposed for transferring a natural image into the stylized one according to textual descriptions of the target style provided by the user.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffstyler-controllable-dual-diffusion-for</guid>
+    </item>
+    <item>
       <title>A Close Look at Spatial Modeling: From Attention to Convolution</title>
       <link>https://paperswithcode.com/paper/a-close-look-at-spatial-modeling-from</link>
       <description><![CDATA[Vision Transformers have shown great promise recently for many vision tasks due to the insightful architecture design and attention mechanism.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-close-look-at-spatial-modeling-from</guid>
     </item>
     <item>
-      <title>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</title>
-      <link>https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</link>
-      <description><![CDATA[Existing model-parallel training systems either require users to manually create a parallelization plan or automatically generate one from a limited space of model parallelism configurations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpa-automating-inter-and-intra-operator</guid>
+      <title>OPT: Open Pre-trained Transformer Language Models</title>
+      <link>https://paperswithcode.com/paper/opt-open-pre-trained-transformer-language</link>
+      <description><![CDATA[Large language models, which are often trained for hundreds of thousands of compute days, have shown remarkable capabilities for zero- and few-shot learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/opt-open-pre-trained-transformer-language</guid>
     </item>
     <item>
       <title>OpenFE: Automated Feature Generation beyond Expert-level Performance</title>
       <link>https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</link>
       <description><![CDATA[The major challenge in automated feature generation is to efficiently and accurately identify useful features from a vast pool of candidate features.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/openfe-automated-feature-generation-beyond</guid>
+    </item>
+    <item>
+      <title>TiG-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning</title>
+      <link>https://paperswithcode.com/paper/tig-bev-multi-view-bev-3d-object-detection</link>
+      <description><![CDATA[In this paper, we propose the learning scheme of Target Inner-Geometry from the LiDAR modality into camera-based BEV detectors for both dense depth and BEV features, termed as TiG-BEV.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tig-bev-multi-view-bev-3d-object-detection</guid>
     </item>
     <item>
       <title>GraPE: fast and scalable Graph Processing and Embedding</title>
@@ -105,28 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/editing-models-with-task-arithmetic</guid>
     </item>
     <item>
-      <title>Towards Reasoning in Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</link>
-      <description><![CDATA[Reasoning is a fundamental aspect of human intelligence that plays a crucial role in activities such as problem solving, decision making, and critical thinking.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-reasoning-in-large-language-models-a</guid>
+      <title>Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning</title>
+      <link>https://paperswithcode.com/paper/noise-aware-learning-from-web-crawled-image</link>
+      <description><![CDATA[While the filtering strategy can effectively remove noisy data, however, it leads to a decrease in learnable knowledge and sometimes brings about a new problem of data deficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/noise-aware-learning-from-web-crawled-image</guid>
     </item>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
       <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
       <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>OPT: Open Pre-trained Transformer Language Models</title>
-      <link>https://paperswithcode.com/paper/opt-open-pre-trained-transformer-language</link>
-      <description><![CDATA[Large language models, which are often trained for hundreds of thousands of compute days, have shown remarkable capabilities for zero- and few-shot learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/opt-open-pre-trained-transformer-language</guid>
-    </item>
-    <item>
-      <title>DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients</title>
-      <link>https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</link>
-      <description><![CDATA[Their learned counterparts are more repeatable and can handle challenging images, but at the cost of a lower accuracy and a bias towards wireframe lines.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deeplsd-line-segment-detection-and-refinement</guid>
     </item>
   </channel>
 </rss>
