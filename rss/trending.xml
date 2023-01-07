@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jan 2023 09:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 21:05:58 +0000</lastBuildDate>
     <item>
       <title>ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders</title>
       <link>https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets</link>
@@ -21,10 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</guid>
     </item>
     <item>
+      <title>PACO: Parts and Attributes of Common Objects</title>
+      <link>https://paperswithcode.com/paper/paco-parts-and-attributes-of-common-objects</link>
+      <description><![CDATA[This motivates the need for large datasets which go beyond traditional object masks and provide richer annotations such as part masks and attributes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paco-parts-and-attributes-of-common-objects</guid>
+    </item>
+    <item>
       <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
       <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
       <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
+    </item>
+    <item>
+      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
+      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
+      <description><![CDATA[The success of Transformer models has pushed the deep learning model scale to billions of parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
     </item>
     <item>
       <title>A Survey for In-context Learning</title>
@@ -45,10 +57,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
     </item>
     <item>
+      <title>Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection</title>
+      <link>https://paperswithcode.com/paper/cross-modal-transformer-via-coordinates</link>
+      <description><![CDATA[In this paper, we propose a robust 3D detector, named Cross Modal Transformer (CMT), for end-to-end 3D multi-modal detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-transformer-via-coordinates</guid>
+    </item>
+    <item>
       <title>Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data</title>
       <link>https://paperswithcode.com/paper/diffusion-probabilistic-models-for-scene</link>
       <description><![CDATA[To the best of our knowledge, our work is the first to apply discrete and latent diffusion for 3D categorical data on a scene-scale.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-probabilistic-models-for-scene</guid>
+    </item>
+    <item>
+      <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
+      <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
+      <description><![CDATA[This is in stark contrast to state-of-the-art generative image models, which produce samples in a number of seconds or minutes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</guid>
+    </item>
+    <item>
+      <title>TextBox 2.0: A Text Generation Library with Pre-trained Language Models</title>
+      <link>https://paperswithcode.com/paper/textbox-2-0-a-text-generation-library-with</link>
+      <description><![CDATA[To facilitate research on text generation, this paper presents a comprehensive and unified library, TextBox 2. 0, focusing on the use of pre-trained language models (PLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/textbox-2-0-a-text-generation-library-with</guid>
+    </item>
+    <item>
+      <title>Box2Mask: Box-supervised Instance Segmentation via Level-set Evolution</title>
+      <link>https://paperswithcode.com/paper/box2mask-box-supervised-instance-segmentation</link>
+      <description><![CDATA[In contrast to fully supervised methods using pixel-wise mask labels, box-supervised instance segmentation takes advantage of simple box annotations, which has recently attracted increasing research attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/box2mask-box-supervised-instance-segmentation</guid>
+    </item>
+    <item>
+      <title>ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction</title>
+      <link>https://paperswithcode.com/paper/alike-accurate-and-lightweight-keypoint</link>
+      <description><![CDATA[The reprojection loss is then proposed to directly optimize these sub-pixel keypoints, and the dispersity peak loss is presented for accurate keypoints regularization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alike-accurate-and-lightweight-keypoint</guid>
     </item>
     <item>
       <title>Diffusion Models in Vision: A Survey</title>
@@ -63,28 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/maud-an-expert-annotated-legal-nlp-dataset</guid>
     </item>
     <item>
-      <title>Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection</title>
-      <link>https://paperswithcode.com/paper/cross-modal-transformer-via-coordinates</link>
-      <description><![CDATA[In this paper, we propose a robust 3D detector, named Cross Modal Transformer (CMT), for end-to-end 3D multi-modal detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-transformer-via-coordinates</guid>
-    </item>
-    <item>
-      <title>TextBox 2.0: A Text Generation Library with Pre-trained Language Models</title>
-      <link>https://paperswithcode.com/paper/textbox-2-0-a-text-generation-library-with</link>
-      <description><![CDATA[To facilitate research on text generation, this paper presents a comprehensive and unified library, TextBox 2. 0, focusing on the use of pre-trained language models (PLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/textbox-2-0-a-text-generation-library-with</guid>
-    </item>
-    <item>
-      <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
-      <link>https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</link>
-      <description><![CDATA[This is in stark contrast to state-of-the-art generative image models, which produce samples in a number of seconds or minutes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</guid>
-    </item>
-    <item>
-      <title>Box2Mask: Box-supervised Instance Segmentation via Level-set Evolution</title>
-      <link>https://paperswithcode.com/paper/box2mask-box-supervised-instance-segmentation</link>
-      <description><![CDATA[In contrast to fully supervised methods using pixel-wise mask labels, box-supervised instance segmentation takes advantage of simple box annotations, which has recently attracted increasing research attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/box2mask-box-supervised-instance-segmentation</guid>
+      <title>Scaling Language-Image Pre-training via Masking</title>
+      <link>https://paperswithcode.com/paper/scaling-language-image-pre-training-via</link>
+      <description><![CDATA[We present Fast Language-Image Pre-training (FLIP), a simple and more efficient method for training CLIP.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-language-image-pre-training-via</guid>
     </item>
     <item>
       <title>Large Language Models as Corporate Lobbyists</title>
@@ -93,40 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</guid>
     </item>
     <item>
-      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
-      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
-      <description><![CDATA[The success of Transformer models has pushed the deep learning model scale to billions of parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
-    </item>
-    <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>Rethinking Mobile Block for Efficient Neural Models</title>
-      <link>https://paperswithcode.com/paper/rethinking-mobile-block-for-efficient-neural</link>
-      <description><![CDATA[This paper focuses on designing efficient models with low parameters and FLOPs for dense predictions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-mobile-block-for-efficient-neural</guid>
-    </item>
-    <item>
-      <title>TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models</title>
-      <link>https://paperswithcode.com/paper/tinymim-an-empirical-study-of-distilling-mim</link>
-      <description><![CDATA[Our TinyMIM model of tiny size achieves 79. 6% top-1 accuracy on ImageNet-1K image classification, which sets a new record for small vision models of the same size and computation budget.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tinymim-an-empirical-study-of-distilling-mim</guid>
-    </item>
-    <item>
       <title>NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields</title>
       <link>https://paperswithcode.com/paper/nerf-slam-real-time-dense-monocular-slam-with</link>
       <description><![CDATA[We propose a novel geometric and photometric 3D mapping pipeline for accurate and real-time scene reconstruction from monocular images.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-slam-real-time-dense-monocular-slam-with</guid>
     </item>
     <item>
-      <title>Scaling Language-Image Pre-training via Masking</title>
-      <link>https://paperswithcode.com/paper/scaling-language-image-pre-training-via</link>
-      <description><![CDATA[We present Fast Language-Image Pre-training (FLIP), a simple and more efficient method for training CLIP.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-language-image-pre-training-via</guid>
+      <title>Rethinking Mobile Block for Efficient Neural Models</title>
+      <link>https://paperswithcode.com/paper/rethinking-mobile-block-for-efficient-neural</link>
+      <description><![CDATA[This paper focuses on designing efficient models with low parameters and FLOPs for dense predictions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-mobile-block-for-efficient-neural</guid>
     </item>
   </channel>
 </rss>
