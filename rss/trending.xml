@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Jan 2023 09:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2023 21:07:14 +0000</lastBuildDate>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
       <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
@@ -21,16 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hyperreel-high-fidelity-6-dof-video-with-ray</guid>
     </item>
     <item>
-      <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
-      <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
-      <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
-    </item>
-    <item>
       <title>Attention Is All You Need</title>
       <link>https://paperswithcode.com/paper/attention-is-all-you-need</link>
       <description><![CDATA[The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/attention-is-all-you-need</guid>
+    </item>
+    <item>
+      <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
+      <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
+      <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
     </item>
     <item>
       <title>Box2Mask: Box-supervised Instance Segmentation via Level-set Evolution</title>
@@ -45,46 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets</guid>
     </item>
     <item>
+      <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
+      <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
+      <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
+    </item>
+    <item>
+      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
+      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
+      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
+    </item>
+    <item>
       <title>PACO: Parts and Attributes of Common Objects</title>
       <link>https://paperswithcode.com/paper/paco-parts-and-attributes-of-common-objects</link>
       <description><![CDATA[This motivates the need for large datasets which go beyond traditional object masks and provide richer annotations such as part masks and attributes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/paco-parts-and-attributes-of-common-objects</guid>
-    </item>
-    <item>
-      <title>Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal</title>
-      <link>https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</link>
-      <description><![CDATA[The early works in this domain mainly focus on static KGR and tend to directly apply general knowledge graph embedding models to the reasoning task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reasoning-over-different-types-of-knowledge</guid>
-    </item>
-    <item>
-      <title>DynaGAN: Dynamic Few-shot Adaptation of GANs to Multiple Domains</title>
-      <link>https://paperswithcode.com/paper/dynagan-dynamic-few-shot-adaptation-of-gans</link>
-      <description><![CDATA[In this paper, we propose DynaGAN, a novel few-shot domain-adaptation method for multiple target domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynagan-dynamic-few-shot-adaptation-of-gans</guid>
-    </item>
-    <item>
-      <title>Colossal-AI: A Unified Deep Learning System For Large-Scale Parallel Training</title>
-      <link>https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</link>
-      <description><![CDATA[The success of Transformer models has pushed the deep learning model scale to billions of parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/colossal-ai-a-unified-deep-learning-system</guid>
-    </item>
-    <item>
-      <title>Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned</title>
-      <link>https://paperswithcode.com/paper/red-teaming-language-models-to-reduce-harms</link>
-      <description><![CDATA[We provide our own analysis of the data and find a variety of harmful outputs, which range from offensive language to more subtly harmful non-violent unethical outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/red-teaming-language-models-to-reduce-harms</guid>
-    </item>
-    <item>
-      <title>GPT Takes the Bar Exam</title>
-      <link>https://paperswithcode.com/paper/gpt-takes-the-bar-exam</link>
-      <description><![CDATA[Nearly all jurisdictions in the United States require a professional license exam, commonly referred to as "the Bar Exam," as a precondition for law practice.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-takes-the-bar-exam</guid>
-    </item>
-    <item>
-      <title>Cramming: Training a Language Model on a Single GPU in One Day</title>
-      <link>https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</link>
-      <description><![CDATA[Recent trends in language modeling have focused on increasing performance through scaling, and have resulted in an environment where training language models is out of reach for most researchers and practitioners.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</guid>
     </item>
     <item>
       <title>unilm</title>
@@ -93,10 +69,46 @@
       <guid isPermaLink="true">https://github.com/microsoft/unilm</guid>
     </item>
     <item>
-      <title>ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction</title>
-      <link>https://paperswithcode.com/paper/alike-accurate-and-lightweight-keypoint</link>
-      <description><![CDATA[The reprojection loss is then proposed to directly optimize these sub-pixel keypoints, and the dispersity peak loss is presented for accurate keypoints regularization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alike-accurate-and-lightweight-keypoint</guid>
+      <title>GPT Takes the Bar Exam</title>
+      <link>https://paperswithcode.com/paper/gpt-takes-the-bar-exam</link>
+      <description><![CDATA[Nearly all jurisdictions in the United States require a professional license exam, commonly referred to as "the Bar Exam," as a precondition for law practice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-takes-the-bar-exam</guid>
+    </item>
+    <item>
+      <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title>
+      <link>https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</link>
+      <description><![CDATA[Under such a perspective, we propose pseudo numerical methods for diffusion models (PNDMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</guid>
+    </item>
+    <item>
+      <title>Discovering faster matrix multiplication algorithms with reinforcement learning</title>
+      <link>https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</link>
+      <description><![CDATA[Particularly relevant is the case of 4 × 4 matrices in a finite field, where AlphaTensor’s algorithm improves on Strassen’s two-level algorithm for the first time, to our knowledge, since its discovery 50 years ago2.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</guid>
+    </item>
+    <item>
+      <title>Cramming: Training a Language Model on a Single GPU in One Day</title>
+      <link>https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</link>
+      <description><![CDATA[Recent trends in language modeling have focused on increasing performance through scaling, and have resulted in an environment where training language models is out of reach for most researchers and practitioners.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</guid>
+    </item>
+    <item>
+      <title>Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned</title>
+      <link>https://paperswithcode.com/paper/red-teaming-language-models-to-reduce-harms</link>
+      <description><![CDATA[We provide our own analysis of the data and find a variety of harmful outputs, which range from offensive language to more subtly harmful non-violent unethical outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/red-teaming-language-models-to-reduce-harms</guid>
+    </item>
+    <item>
+      <title>Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review</title>
+      <link>https://paperswithcode.com/paper/advances-in-medical-image-analysis-with</link>
+      <description><![CDATA[The remarkable performance of the Transformer architecture in natural language processing has recently also triggered broad interest in Computer Vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/advances-in-medical-image-analysis-with</guid>
+    </item>
+    <item>
+      <title>Local motion phases for learning multi-contact character movements</title>
+      <link>https://paperswithcode.com/paper/local-motion-phases-for-learning-multi</link>
+      <description><![CDATA[Training a bipedal character to play basketball and interact with objects, or a quadruped character to move in various locomotion modes, are difficult tasks due to the fast and complex contacts happening during the motion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/local-motion-phases-for-learning-multi</guid>
     </item>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
@@ -111,22 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cit-curation-in-training-for-effective-vision</guid>
     </item>
     <item>
-      <title>Text2Poster: Laying out Stylized Texts on Retrieved Images</title>
-      <link>https://paperswithcode.com/paper/text2poster-laying-out-stylized-texts-on</link>
-      <description><![CDATA[Poster generation is a significant task for a wide range of applications, which is often time-consuming and requires lots of manual editing and artistic experience.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2poster-laying-out-stylized-texts-on</guid>
-    </item>
-    <item>
-      <title>Silent Killer: Optimizing Backdoor Trigger Yields a Stealthy and Powerful Data Poisoning Attack</title>
-      <link>https://paperswithcode.com/paper/silent-killer-optimizing-backdoor-trigger</link>
-      <description><![CDATA[In contrast to previous attacks, both the poison and the trigger in our method are stealthy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/silent-killer-optimizing-backdoor-trigger</guid>
-    </item>
-    <item>
-      <title>Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection</title>
-      <link>https://paperswithcode.com/paper/cross-modal-transformer-via-coordinates</link>
-      <description><![CDATA[In this paper, we propose a robust 3D detector, named Cross Modal Transformer (CMT), for end-to-end 3D multi-modal detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-transformer-via-coordinates</guid>
+      <title>Large Language Models as Corporate Lobbyists</title>
+      <link>https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</link>
+      <description><![CDATA[We use hundreds of novel ground-truth labels of the relevance of a bill to a company to benchmark the performance of the model, which outperforms the baseline of predicting the most common outcome of irrelevance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</guid>
     </item>
   </channel>
 </rss>
