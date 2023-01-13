@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jan 2023 09:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2023 21:06:33 +0000</lastBuildDate>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
       <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
@@ -21,16 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hyperreel-high-fidelity-6-dof-video-with-ray</guid>
     </item>
     <item>
-      <title>Attention Is All You Need</title>
-      <link>https://paperswithcode.com/paper/attention-is-all-you-need</link>
-      <description><![CDATA[The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attention-is-all-you-need</guid>
+      <title>Deep Differentiable Logic Gate Networks</title>
+      <link>https://paperswithcode.com/paper/deep-differentiable-logic-gate-networks</link>
+      <description><![CDATA[Recently, research has increasingly focused on developing efficient neural network architectures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-differentiable-logic-gate-networks</guid>
     </item>
     <item>
-      <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
-      <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
-      <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
+      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
+      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
+      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
+    </item>
+    <item>
+      <title>GNM: A General Navigation Model to Drive Any Robot</title>
+      <link>https://paperswithcode.com/paper/gnm-a-general-navigation-model-to-drive-any</link>
+      <description><![CDATA[Learning provides a powerful tool for vision-based navigation, but the capabilities of learning-based policies are constrained by limited training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gnm-a-general-navigation-model-to-drive-any</guid>
     </item>
     <item>
       <title>Box2Mask: Box-supervised Instance Segmentation via Level-set Evolution</title>
@@ -45,22 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets</guid>
     </item>
     <item>
-      <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
-      <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
-      <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
+      <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title>
+      <link>https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</link>
+      <description><![CDATA[Under such a perspective, we propose pseudo numerical methods for diffusion models (PNDMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</guid>
     </item>
     <item>
-      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
-      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
-      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
-    </item>
-    <item>
-      <title>PACO: Parts and Attributes of Common Objects</title>
-      <link>https://paperswithcode.com/paper/paco-parts-and-attributes-of-common-objects</link>
-      <description><![CDATA[This motivates the need for large datasets which go beyond traditional object masks and provide richer annotations such as part masks and attributes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paco-parts-and-attributes-of-common-objects</guid>
+      <title>Vectorized and performance-portable Quicksort</title>
+      <link>https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</link>
+      <description><![CDATA[Recent works showed that implementations of Quicksort using vector CPU instructions can outperform the non-vectorized algorithms in widespread use.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</guid>
     </item>
     <item>
       <title>unilm</title>
@@ -69,16 +69,22 @@
       <guid isPermaLink="true">https://github.com/microsoft/unilm</guid>
     </item>
     <item>
+      <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
+      <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
+      <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
+    </item>
+    <item>
+      <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
+      <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
+      <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
+    </item>
+    <item>
       <title>GPT Takes the Bar Exam</title>
       <link>https://paperswithcode.com/paper/gpt-takes-the-bar-exam</link>
       <description><![CDATA[Nearly all jurisdictions in the United States require a professional license exam, commonly referred to as "the Bar Exam," as a precondition for law practice.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-takes-the-bar-exam</guid>
-    </item>
-    <item>
-      <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title>
-      <link>https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</link>
-      <description><![CDATA[Under such a perspective, we propose pseudo numerical methods for diffusion models (PNDMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</guid>
     </item>
     <item>
       <title>Discovering faster matrix multiplication algorithms with reinforcement learning</title>
@@ -87,28 +93,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</guid>
     </item>
     <item>
-      <title>Cramming: Training a Language Model on a Single GPU in One Day</title>
-      <link>https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</link>
-      <description><![CDATA[Recent trends in language modeling have focused on increasing performance through scaling, and have resulted in an environment where training language models is out of reach for most researchers and practitioners.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cramming-training-a-language-model-on-a</guid>
+      <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
+      <link>https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</link>
+      <description><![CDATA[The aim of this paper is to introduce a new learning procedure for neural networks and to demonstrate that it works well enough on a few small problems to be worth further investigation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</guid>
     </item>
     <item>
-      <title>Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned</title>
-      <link>https://paperswithcode.com/paper/red-teaming-language-models-to-reduce-harms</link>
-      <description><![CDATA[We provide our own analysis of the data and find a variety of harmful outputs, which range from offensive language to more subtly harmful non-violent unethical outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/red-teaming-language-models-to-reduce-harms</guid>
+      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
+      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
+      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
     </item>
     <item>
-      <title>Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review</title>
-      <link>https://paperswithcode.com/paper/advances-in-medical-image-analysis-with</link>
-      <description><![CDATA[The remarkable performance of the Transformer architecture in natural language processing has recently also triggered broad interest in Computer Vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/advances-in-medical-image-analysis-with</guid>
+      <title>Large Language Models as Corporate Lobbyists</title>
+      <link>https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</link>
+      <description><![CDATA[We use hundreds of novel ground-truth labels of the relevance of a bill to a company to benchmark the performance of the model, which outperforms the baseline of predicting the most common outcome of irrelevance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</guid>
     </item>
     <item>
-      <title>Local motion phases for learning multi-contact character movements</title>
-      <link>https://paperswithcode.com/paper/local-motion-phases-for-learning-multi</link>
-      <description><![CDATA[Training a bipedal character to play basketball and interact with objects, or a quadruped character to move in various locomotion modes, are difficult tasks due to the fast and complex contacts happening during the motion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/local-motion-phases-for-learning-multi</guid>
+      <title>Attention Is All You Need</title>
+      <link>https://paperswithcode.com/paper/attention-is-all-you-need</link>
+      <description><![CDATA[The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attention-is-all-you-need</guid>
     </item>
     <item>
       <title>Point-E: A System for Generating 3D Point Clouds from Complex Prompts</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point</guid>
     </item>
     <item>
-      <title>CiT: Curation in Training for Effective Vision-Language Data</title>
-      <link>https://paperswithcode.com/paper/cit-curation-in-training-for-effective-vision</link>
-      <description><![CDATA[Large vision-language models are generally applicable to many downstream tasks, but come at an exorbitant training cost that only large institutions can afford.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cit-curation-in-training-for-effective-vision</guid>
-    </item>
-    <item>
-      <title>Large Language Models as Corporate Lobbyists</title>
-      <link>https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</link>
-      <description><![CDATA[We use hundreds of novel ground-truth labels of the relevance of a bill to a company to benchmark the performance of the model, which outperforms the baseline of predicting the most common outcome of irrelevance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-corporate-lobbyists</guid>
+      <title>NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/nerf-slam-real-time-dense-monocular-slam-with</link>
+      <description><![CDATA[We propose a novel geometric and photometric 3D mapping pipeline for accurate and real-time scene reconstruction from monocular images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-slam-real-time-dense-monocular-slam-with</guid>
     </item>
   </channel>
 </rss>
