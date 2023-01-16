@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Jan 2023 21:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2023 09:13:28 +0000</lastBuildDate>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
       <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
       <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
     </item>
     <item>
       <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title>
@@ -33,6 +39,24 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
     </item>
     <item>
+      <title>GNM: A General Navigation Model to Drive Any Robot</title>
+      <link>https://paperswithcode.com/paper/gnm-a-general-navigation-model-to-drive-any</link>
+      <description><![CDATA[Learning provides a powerful tool for vision-based navigation, but the capabilities of learning-based policies are constrained by limited training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gnm-a-general-navigation-model-to-drive-any</guid>
+    </item>
+    <item>
+      <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
+      <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
+      <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
+    </item>
+    <item>
+      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
+      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
+      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+    </item>
+    <item>
       <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
       <link>https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</link>
       <description><![CDATA[The aim of this paper is to introduce a new learning procedure for neural networks and to demonstrate that it works well enough on a few small problems to be worth further investigation.]]></description>
@@ -45,10 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</guid>
     </item>
     <item>
-      <title>GNM: A General Navigation Model to Drive Any Robot</title>
-      <link>https://paperswithcode.com/paper/gnm-a-general-navigation-model-to-drive-any</link>
-      <description><![CDATA[Learning provides a powerful tool for vision-based navigation, but the capabilities of learning-based policies are constrained by limited training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gnm-a-general-navigation-model-to-drive-any</guid>
+      <title>Vectorized and performance-portable Quicksort</title>
+      <link>https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</link>
+      <description><![CDATA[Recent works showed that implementations of Quicksort using vector CPU instructions can outperform the non-vectorized algorithms in widespread use.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</guid>
     </item>
     <item>
       <title>ImMesh: An Immediate LiDAR Localization and Meshing Framework</title>
@@ -57,22 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/immesh-an-immediate-lidar-localization-and</guid>
     </item>
     <item>
-      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
-      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
-      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
-    </item>
-    <item>
-      <title>Vectorized and performance-portable Quicksort</title>
-      <link>https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</link>
-      <description><![CDATA[Recent works showed that implementations of Quicksort using vector CPU instructions can outperform the non-vectorized algorithms in widespread use.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</guid>
-    </item>
-    <item>
-      <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
-      <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
-      <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
+      <title>High Fidelity Neural Audio Compression</title>
+      <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
+      <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
     </item>
     <item>
       <title>unilm</title>
@@ -81,52 +93,40 @@
       <guid isPermaLink="true">https://github.com/microsoft/unilm</guid>
     </item>
     <item>
+      <title>VPIT: Real-time Embedded Single Object 3D Tracking Using Voxel Pseudo Images</title>
+      <link>https://paperswithcode.com/paper/vpit-real-time-embedded-single-object-3d</link>
+      <description><![CDATA[In this paper, we propose a novel voxel-based 3D single object tracking (3D SOT) method called Voxel Pseudo Image Tracking (VPIT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vpit-real-time-embedded-single-object-3d</guid>
+    </item>
+    <item>
+      <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
+      <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
+      <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
+    </item>
+    <item>
+      <title>SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos</title>
+      <link>https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</link>
+      <description><![CDATA[With a simple yet effective motion-aware fully-connected network, SmoothNet improves the temporal smoothness of existing pose estimators significantly and enhances the estimation accuracy of those challenging frames as a side-effect.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</guid>
+    </item>
+    <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
       <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
       <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>Attention Is All You Need</title>
-      <link>https://paperswithcode.com/paper/attention-is-all-you-need</link>
-      <description><![CDATA[The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attention-is-all-you-need</guid>
-    </item>
-    <item>
-      <title>High Fidelity Neural Audio Compression</title>
-      <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
-      <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
-    </item>
-    <item>
-      <title>DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization</title>
-      <link>https://paperswithcode.com/paper/diffstyler-controllable-dual-diffusion-for</link>
-      <description><![CDATA[Despite the impressive results of arbitrary image-guided style transfer methods, text-driven image stylization has recently been proposed for transferring a natural image into the stylized one according to textual descriptions of the target style provided by the user.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffstyler-controllable-dual-diffusion-for</guid>
-    </item>
-    <item>
-      <title>HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling</title>
-      <link>https://paperswithcode.com/paper/hyperreel-high-fidelity-6-dof-video-with-ray</link>
-      <description><![CDATA[Volumetric scene representations enable photorealistic view synthesis for static scenes and form the basis of several existing 6-DoF video techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperreel-high-fidelity-6-dof-video-with-ray</guid>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
       <title>NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields</title>
       <link>https://paperswithcode.com/paper/nerf-slam-real-time-dense-monocular-slam-with</link>
       <description><![CDATA[We propose a novel geometric and photometric 3D mapping pipeline for accurate and real-time scene reconstruction from monocular images.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-slam-real-time-dense-monocular-slam-with</guid>
-    </item>
-    <item>
-      <title>ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders</title>
-      <link>https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets</link>
-      <description><![CDATA[This co-design of self-supervised learning techniques and architectural improvement results in a new model family called ConvNeXt V2, which significantly improves the performance of pure ConvNets on various recognition benchmarks, including ImageNet classification, COCO detection, and ADE20K segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/convnext-v2-co-designing-and-scaling-convnets</guid>
-    </item>
-    <item>
-      <title>VPIT: Real-time Embedded Single Object 3D Tracking Using Voxel Pseudo Images</title>
-      <link>https://paperswithcode.com/paper/vpit-real-time-embedded-single-object-3d</link>
-      <description><![CDATA[In this paper, we propose a novel voxel-based 3D single object tracking (3D SOT) method called Voxel Pseudo Image Tracking (VPIT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vpit-real-time-embedded-single-object-3d</guid>
     </item>
   </channel>
 </rss>
