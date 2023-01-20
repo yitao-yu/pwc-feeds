@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jan 2023 21:06:42 +0000</lastBuildDate>
-    <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
-    </item>
+    <lastBuildDate>Fri, 20 Jan 2023 09:13:21 +0000</lastBuildDate>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
       <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
@@ -21,10 +15,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
-      <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title>
-      <link>https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</link>
-      <description><![CDATA[Under such a perspective, we propose pseudo numerical methods for diffusion models (PNDMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pseudo-numerical-methods-for-diffusion-models-1</guid>
+      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
+      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
+      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+    </item>
+    <item>
+      <title>Msanii: High Fidelity Music Synthesis on a Shoestring Budget</title>
+      <link>https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</link>
+      <description><![CDATA[In this paper, we present Msanii, a novel diffusion-based model for synthesizing long-context, high-fidelity music efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</guid>
+    </item>
+    <item>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+    </item>
+    <item>
+      <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
+      <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
+    </item>
+    <item>
+      <title>Utilizing supervised models to infer consensus labels and their quality from data with multiple annotators</title>
+      <link>https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</link>
+      <description><![CDATA[Many algorithms also rely solely on annotator statistics, ignoring the features of the examples from which the annotations derive.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</guid>
+    </item>
+    <item>
+      <title>mindcv</title>
+      <link>https://github.com/mindlab-ai/mindcv</link>
+      <description><![CDATA[A toolbox of vision models and algorithms based on MindSpore]]></description>
+      <guid isPermaLink="true">https://github.com/mindlab-ai/mindcv</guid>
+    </item>
+    <item>
+      <title>Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling</title>
+      <link>https://paperswithcode.com/paper/ankh-optimized-protein-language-model-unlocks</link>
+      <description><![CDATA[As opposed to scaling-up protein language models (PLMs), we seek improving performance via protein-specific optimization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ankh-optimized-protein-language-model-unlocks</guid>
     </item>
     <item>
       <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
@@ -39,40 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>mindcv</title>
-      <link>https://github.com/mindspore-ecosystem/mindcv</link>
-      <description><![CDATA[A toolbox of vision models and algorithms based on MindSpore]]></description>
-      <guid isPermaLink="true">https://github.com/mindspore-ecosystem/mindcv</guid>
-    </item>
-    <item>
-      <title>Utilizing supervised models to infer consensus labels and their quality from data with multiple annotators</title>
-      <link>https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</link>
-      <description><![CDATA[Many algorithms also rely solely on annotator statistics, ignoring the features of the examples from which the annotations derive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</guid>
-    </item>
-    <item>
-      <title>Tracr: Compiled Transformers as a Laboratory for Interpretability</title>
-      <link>https://paperswithcode.com/paper/tracr-compiled-transformers-as-a-laboratory</link>
-      <description><![CDATA[Interpretability research aims to build tools for understanding machine learning (ML) models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tracr-compiled-transformers-as-a-laboratory</guid>
-    </item>
-    <item>
       <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
       <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
       <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
-    </item>
-    <item>
-      <title>ImMesh: An Immediate LiDAR Localization and Meshing Framework</title>
-      <link>https://paperswithcode.com/paper/immesh-an-immediate-lidar-localization-and</link>
-      <description><![CDATA[This voxel-wise meshing operation is delicately designed for the purpose of efficiency; it first performs a dimension reduction by projecting 3D points to a 2D local plane contained in the voxel, and then executes the meshing operation with pull, commit and push steps for incremental reconstruction of triangle facets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/immesh-an-immediate-lidar-localization-and</guid>
-    </item>
-    <item>
-      <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
-      <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
-      <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
     </item>
     <item>
       <title>EDICT: Exact Diffusion Inversion via Coupled Transformations</title>
@@ -81,22 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/edict-exact-diffusion-inversion-via-coupled</guid>
     </item>
     <item>
+      <title>Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking</title>
+      <link>https://paperswithcode.com/paper/observation-centric-sort-rethinking-sort-for</link>
+      <description><![CDATA[Multi-Object Tracking (MOT) has rapidly progressed with the development of object detection and re-identification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/observation-centric-sort-rethinking-sort-for</guid>
+    </item>
+    <item>
+      <title>YOLOv4: Optimal Speed and Accuracy of Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object</link>
+      <description><![CDATA[There are a huge number of features which are said to improve Convolutional Neural Network (CNN) accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object</guid>
+    </item>
+    <item>
       <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
       <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
       <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
-    </item>
-    <item>
-      <title>Muse: Text-To-Image Generation via Masked Generative Transformers</title>
-      <link>https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</link>
-      <description><![CDATA[Compared to pixel-space diffusion models, such as Imagen and DALL-E 2, Muse is significantly more efficient due to the use of discrete tokens and requiring fewer sampling iterations; compared to autoregressive models, such as Parti, Muse is more efficient due to the use of parallel decoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/muse-text-to-image-generation-via-masked</guid>
-    </item>
-    <item>
-      <title>Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling</title>
-      <link>https://paperswithcode.com/paper/ankh-optimized-protein-language-model-unlocks</link>
-      <description><![CDATA[As opposed to scaling-up protein language models (PLMs), we seek improving performance via protein-specific optimization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ankh-optimized-protein-language-model-unlocks</guid>
     </item>
     <item>
       <title>RTMDet: An Empirical Study of Designing Real-Time Object Detectors</title>
@@ -105,10 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/rtmdet-an-empirical-study-of-designing-real</guid>
     </item>
     <item>
-      <title>SmoothNet: A Plug-and-Play Network for Refining Human Poses in Videos</title>
-      <link>https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</link>
-      <description><![CDATA[With a simple yet effective motion-aware fully-connected network, SmoothNet improves the temporal smoothness of existing pose estimators significantly and enhances the estimation accuracy of those challenging frames as a side-effect.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothnet-a-plug-and-play-network-for</guid>
+      <title>Multimodal Deep Learning</title>
+      <link>https://paperswithcode.com/paper/multimodal-deep-learning</link>
+      <description><![CDATA[This book is the result of a seminar in which we reviewed multimodal approaches and attempted to create a solid overview of the field, starting with the current state-of-the-art approaches in the two subfields of Deep Learning individually.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-deep-learning</guid>
     </item>
     <item>
       <title>Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</guid>
     </item>
     <item>
-      <title>Free-Form Image Inpainting with Gated Convolution</title>
-      <link>https://paperswithcode.com/paper/free-form-image-inpainting-with-gated</link>
-      <description><![CDATA[We present a generative image inpainting system to complete images with free-form mask and guidance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/free-form-image-inpainting-with-gated</guid>
+      <title>Tracr: Compiled Transformers as a Laboratory for Interpretability</title>
+      <link>https://paperswithcode.com/paper/tracr-compiled-transformers-as-a-laboratory</link>
+      <description><![CDATA[Interpretability research aims to build tools for understanding machine learning (ML) models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tracr-compiled-transformers-as-a-laboratory</guid>
     </item>
     <item>
-      <title>High Fidelity Neural Audio Compression</title>
-      <link>https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</link>
-      <description><![CDATA[We introduce a state-of-the-art real-time, high-fidelity, audio codec leveraging neural networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-fidelity-neural-audio-compression</guid>
+      <title>$\texttt{tasksource}$: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation</title>
+      <link>https://paperswithcode.com/paper/texttt-tasksource-structured-dataset</link>
+      <description><![CDATA[We release a dataset annotation framework and dataset annotations for more than 400 English tasks (https://github. com/sileod/tasksource).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/texttt-tasksource-structured-dataset</guid>
     </item>
   </channel>
 </rss>
