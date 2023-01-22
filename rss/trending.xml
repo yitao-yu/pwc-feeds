@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jan 2023 21:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2023 09:11:55 +0000</lastBuildDate>
     <item>
       <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
       <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
       <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+    </item>
+    <item>
+      <title>Multiview Compressive Coding for 3D Reconstruction</title>
+      <link>https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</link>
+      <description><![CDATA[We introduce a simple framework that operates on 3D points of single objects or whole scenes coupled with category-agnostic large-scale training from diverse RGB-D videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</guid>
     </item>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
@@ -27,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
     </item>
     <item>
-      <title>Msanii: High Fidelity Music Synthesis on a Shoestring Budget</title>
-      <link>https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</link>
-      <description><![CDATA[In this paper, we present Msanii, a novel diffusion-based model for synthesizing long-context, high-fidelity music efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</guid>
+      <title>Utilizing supervised models to infer consensus labels and their quality from data with multiple annotators</title>
+      <link>https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</link>
+      <description><![CDATA[Many algorithms also rely solely on annotator statistics, ignoring the features of the examples from which the annotations derive.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</guid>
     </item>
     <item>
       <title>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</title>
@@ -39,34 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts</guid>
     </item>
     <item>
-      <title>Utilizing supervised models to infer consensus labels and their quality from data with multiple annotators</title>
-      <link>https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</link>
-      <description><![CDATA[Many algorithms also rely solely on annotator statistics, ignoring the features of the examples from which the annotations derive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</guid>
+      <title>Msanii: High Fidelity Music Synthesis on a Shoestring Budget</title>
+      <link>https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</link>
+      <description><![CDATA[In this paper, we present Msanii, a novel diffusion-based model for synthesizing long-context, high-fidelity music efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</guid>
     </item>
     <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
+      <title>Speaking Style Conversion With Discrete Self-Supervised Units</title>
+      <link>https://paperswithcode.com/paper/speaking-style-conversion-with-discrete-self</link>
+      <description><![CDATA[We introduce a suite of quantitative and qualitative evaluation metrics for this setup, and empirically demonstrate the proposed approach is significantly superior to the evaluated baselines.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/speaking-style-conversion-with-discrete-self</guid>
     </item>
     <item>
-      <title>mindcv</title>
-      <link>https://github.com/mindlab-ai/mindcv</link>
-      <description><![CDATA[A toolbox of vision models and algorithms based on MindSpore]]></description>
-      <guid isPermaLink="true">https://github.com/mindlab-ai/mindcv</guid>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
     </item>
     <item>
-      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
-      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
-      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
-    </item>
-    <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+      <title>Learning-Rate-Free Learning by D-Adaptation</title>
+      <link>https://paperswithcode.com/paper/learning-rate-free-learning-by-d-adaptation</link>
+      <description><![CDATA[In this work, we describe a single-loop method, with no back-tracking or line searches, which does not require knowledge of $D$ yet asymptotically achieves the optimal rate of convergence for the complexity class of convex Lipschitz functions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-rate-free-learning-by-d-adaptation</guid>
     </item>
     <item>
       <title>Multimodal Deep Learning</title>
@@ -75,22 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-deep-learning</guid>
     </item>
     <item>
-      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
-      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
-      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking</title>
-      <link>https://paperswithcode.com/paper/observation-centric-sort-rethinking-sort-for</link>
-      <description><![CDATA[Multi-Object Tracking (MOT) has rapidly progressed with the development of object detection and re-identification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/observation-centric-sort-rethinking-sort-for</guid>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
     </item>
     <item>
-      <title>Ankh: Optimized Protein Language Model Unlocks General-Purpose Modelling</title>
-      <link>https://paperswithcode.com/paper/ankh-optimized-protein-language-model-unlocks</link>
-      <description><![CDATA[As opposed to scaling-up protein language models (PLMs), we seek improving performance via protein-specific optimization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ankh-optimized-protein-language-model-unlocks</guid>
+      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
+      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
+      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
     </item>
     <item>
       <title>EDICT: Exact Diffusion Inversion via Coupled Transformations</title>
@@ -99,10 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/edict-exact-diffusion-inversion-via-coupled</guid>
     </item>
     <item>
-      <title>YOLOv4: Optimal Speed and Accuracy of Object Detection</title>
-      <link>https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object</link>
-      <description><![CDATA[There are a huge number of features which are said to improve Convolutional Neural Network (CNN) accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object</guid>
+      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
+      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
+      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
     </item>
     <item>
       <title>GLU Variants Improve Transformer</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glu-variants-improve-transformer</guid>
     </item>
     <item>
-      <title>Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations</title>
-      <link>https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</link>
-      <description><![CDATA[The validation and deployment of novel research ideas in the field of Deep Learning is often limited by the availability of efficient compute kernels for certain basic primitives.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</guid>
+      <title>YOLOv4: Optimal Speed and Accuracy of Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object</link>
+      <description><![CDATA[There are a huge number of features which are said to improve Convolutional Neural Network (CNN) accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object</guid>
     </item>
     <item>
-      <title>RTMDet: An Empirical Study of Designing Real-Time Object Detectors</title>
-      <link>https://paperswithcode.com/paper/rtmdet-an-empirical-study-of-designing-real</link>
-      <description><![CDATA[In this paper, we aim to design an efficient real-time object detector that exceeds the YOLO series and is easily extensible for many object recognition tasks such as instance segmentation and rotated object detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rtmdet-an-empirical-study-of-designing-real</guid>
+      <title>Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking</title>
+      <link>https://paperswithcode.com/paper/observation-centric-sort-rethinking-sort-for</link>
+      <description><![CDATA[Multi-Object Tracking (MOT) has rapidly progressed with the development of object detection and re-identification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/observation-centric-sort-rethinking-sort-for</guid>
     </item>
     <item>
-      <title>Multiview Compressive Coding for 3D Reconstruction</title>
-      <link>https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</link>
-      <description><![CDATA[We introduce a simple framework that operates on 3D points of single objects or whole scenes coupled with category-agnostic large-scale training from diverse RGB-D videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</guid>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To reproduce the success of text-to-image (T2I) generation, recent works in text-to-video (T2V) generation employ large-scale text-video dataset for fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
   </channel>
 </rss>
