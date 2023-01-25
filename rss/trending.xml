@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jan 2023 21:06:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 09:12:59 +0000</lastBuildDate>
     <item>
       <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
       <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
       <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+    </item>
+    <item>
+      <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
+      <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
     </item>
     <item>
       <title>Learning the Beauty in Songs: Neural Singing Voice Beautifier</title>
@@ -27,40 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</guid>
     </item>
     <item>
-      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
-      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
-      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
-    </item>
-    <item>
       <title>Learning-Rate-Free Learning by D-Adaptation</title>
       <link>https://paperswithcode.com/paper/learning-rate-free-learning-by-d-adaptation</link>
       <description><![CDATA[In this work, we describe a single-loop method, with no back-tracking or line searches, which does not require knowledge of $D$ yet asymptotically achieves the optimal rate of convergence for the complexity class of convex Lipschitz functions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-rate-free-learning-by-d-adaptation</guid>
-    </item>
-    <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
-      <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
-    </item>
-    <item>
-      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
-      <description><![CDATA[To reproduce the success of text-to-image (T2I) generation, recent works in text-to-video (T2V) generation employ large-scale text-video dataset for fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
-    </item>
-    <item>
-      <title>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</title>
-      <link>https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts</link>
-      <description><![CDATA[We call the collected dataset the Human ChatGPT Comparison Corpus (HC3).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts</guid>
     </item>
     <item>
       <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
@@ -69,40 +45,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
     </item>
     <item>
+      <title>Hungry Hungry Hippos: Towards Language Modeling with State Space Models</title>
+      <link>https://paperswithcode.com/paper/hungry-hungry-hippos-towards-language</link>
+      <description><![CDATA[First, we use synthetic language modeling tasks to understand the gap between SSMs and attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hungry-hungry-hippos-towards-language</guid>
+    </item>
+    <item>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+    </item>
+    <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
       <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
       <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
       <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can be implemented efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
+      <title>How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection</title>
+      <link>https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts</link>
+      <description><![CDATA[We call the collected dataset the Human ChatGPT Comparison Corpus (HC3).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-close-is-chatgpt-to-human-experts</guid>
     </item>
     <item>
-      <title>Speaking Style Conversion With Discrete Self-Supervised Units</title>
-      <link>https://paperswithcode.com/paper/speaking-style-conversion-with-discrete-self</link>
-      <description><![CDATA[We introduce a suite of quantitative and qualitative evaluation metrics for this setup, and empirically demonstrate the proposed approach is significantly superior to the evaluated baselines.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/speaking-style-conversion-with-discrete-self</guid>
-    </item>
-    <item>
-      <title>Msanii: High Fidelity Music Synthesis on a Shoestring Budget</title>
-      <link>https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</link>
-      <description><![CDATA[In this paper, we present Msanii, a novel diffusion-based model for synthesizing long-context, high-fidelity music efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/msanii-high-fidelity-music-synthesis-on-a</guid>
-    </item>
-    <item>
-      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
-      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
-      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
-    </item>
-    <item>
-      <title>Utilizing supervised models to infer consensus labels and their quality from data with multiple annotators</title>
-      <link>https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</link>
-      <description><![CDATA[Many algorithms also rely solely on annotator statistics, ignoring the features of the examples from which the annotations derive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</guid>
+      <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
+      <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
@@ -111,22 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To reproduce the success of text-to-image (T2I) generation, recent works in text-to-video (T2V) generation employ large-scale text-video dataset for fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
+    </item>
+    <item>
+      <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
+      <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
+      <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
+    </item>
+    <item>
+      <title>Speaking Style Conversion With Discrete Self-Supervised Units</title>
+      <link>https://paperswithcode.com/paper/speaking-style-conversion-with-discrete-self</link>
+      <description><![CDATA[We introduce a suite of quantitative and qualitative evaluation metrics for this setup, and empirically demonstrate the proposed approach is significantly superior to the evaluated baselines.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/speaking-style-conversion-with-discrete-self</guid>
+    </item>
+    <item>
       <title>DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching</title>
       <link>https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</link>
       <description><![CDATA[In this work, we propose DeepMatcher, a deep Transformer-based network built upon our investigation of local feature matching in detector-free methods.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepmatcher-a-deep-transformer-based-network</guid>
     </item>
     <item>
-      <title>BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis</title>
-      <link>https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</link>
-      <description><![CDATA[Achieving realistic, vivid, and human-like synthesized conversational gestures conditioned on multi-modal data is still an unsolved problem due to the lack of available datasets, models and standard evaluation metrics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beat-a-large-scale-semantic-and-emotional</guid>
+      <title>VToonify: Controllable High-Resolution Portrait Video Style Transfer</title>
+      <link>https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</link>
+      <description><![CDATA[Although a series of successful portrait image toonification models built upon the powerful StyleGAN have been proposed, these image-oriented methods have obvious limitations when applied to videos, such as the fixed frame size, the requirement of face alignment, missing non-facial details and temporal inconsistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtoonify-controllable-high-resolution</guid>
     </item>
     <item>
-      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
-      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
+      <title>Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations</title>
+      <link>https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</link>
+      <description><![CDATA[The validation and deployment of novel research ideas in the field of Deep Learning is often limited by the availability of efficient compute kernels for certain basic primitives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/triton-an-intermediate-language-and-compiler</guid>
+    </item>
+    <item>
+      <title>Is ChatGPT A Good Translator? A Preliminary Study</title>
+      <link>https://paperswithcode.com/paper/is-chatgpt-a-good-translator-a-preliminary</link>
+      <description><![CDATA[This report provides a preliminary evaluation of ChatGPT for machine translation, including translation prompt, multilingual translation, and translation robustness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/is-chatgpt-a-good-translator-a-preliminary</guid>
     </item>
   </channel>
 </rss>
