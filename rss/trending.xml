@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jan 2023 09:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2023 21:06:38 +0000</lastBuildDate>
     <item>
       <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
       <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
@@ -19,6 +19,12 @@
       <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
       <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
+    </item>
+    <item>
+      <title>Cut and Learn for Unsupervised Object Detection and Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</link>
+      <description><![CDATA[We propose Cut-and-LEaRn (CutLER), a simple approach for training unsupervised object detection and segmentation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</guid>
     </item>
     <item>
       <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
@@ -33,22 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/k-planes-explicit-radiance-fields-in-space</guid>
     </item>
     <item>
-      <title>Learning the Beauty in Songs: Neural Singing Voice Beautifier</title>
-      <link>https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</link>
-      <description><![CDATA[Furthermore, we propose a latent-mapping algorithm in the latent space to convert the amateur vocal tone to the professional one.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</guid>
-    </item>
-    <item>
       <title>Hungry Hungry Hippos: Towards Language Modeling with State Space Models</title>
       <link>https://paperswithcode.com/paper/hungry-hungry-hippos-towards-language</link>
       <description><![CDATA[First, we use synthetic language modeling tasks to understand the gap between SSMs and attention.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/hungry-hungry-hippos-towards-language</guid>
     </item>
     <item>
+      <title>Learning the Beauty in Songs: Neural Singing Voice Beautifier</title>
+      <link>https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</link>
+      <description><![CDATA[Furthermore, we propose a latent-mapping algorithm in the latent space to convert the amateur vocal tone to the professional one.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</guid>
+    </item>
+    <item>
       <title>Fine-Tuning Language Models from Human Preferences</title>
       <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
       <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
+    </item>
+    <item>
+      <title>Generating Sequences With Recurrent Neural Networks</title>
+      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
+      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
     </item>
     <item>
       <title>Learning-Rate-Free Learning by D-Adaptation</title>
@@ -63,6 +75,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
     </item>
     <item>
+      <title>OCR-free Document Understanding Transformer</title>
+      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
+      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
+    </item>
+    <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
       <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
       <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
@@ -75,28 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>OCR-free Document Understanding Transformer</title>
-      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
-      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
-    </item>
-    <item>
       <title>Multi-scale Multi-band DenseNets for Audio Source Separation</title>
       <link>https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</link>
       <description><![CDATA[This paper deals with the problem of audio source separation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-scale-multi-band-densenets-for-audio</guid>
-    </item>
-    <item>
-      <title>Multiview Compressive Coding for 3D Reconstruction</title>
-      <link>https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</link>
-      <description><![CDATA[We introduce a simple framework that operates on 3D points of single objects or whole scenes coupled with category-agnostic large-scale training from diverse RGB-D videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiview-compressive-coding-for-3d</guid>
-    </item>
-    <item>
-      <title>On the Expressive Power of Geometric Graph Neural Networks</title>
-      <link>https://paperswithcode.com/paper/on-the-expressive-power-of-geometric-graph</link>
-      <description><![CDATA[The expressive power of Graph Neural Networks (GNNs) has been studied extensively through the Weisfeiler-Leman (WL) graph isomorphism test.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-expressive-power-of-geometric-graph</guid>
     </item>
     <item>
       <title>TorchGeo: Deep Learning With Geospatial Data</title>
@@ -105,28 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/torchgeo-deep-learning-with-geospatial-data-1</guid>
     </item>
     <item>
+      <title>Planar Object Tracking via Weighted Optical Flow</title>
+      <link>https://paperswithcode.com/paper/planar-object-tracking-via-weighted-optical</link>
+      <description><![CDATA[We propose WOFT -- a novel method for planar object tracking that estimates a full 8 degrees-of-freedom pose, i. e. the homography w. r. t.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/planar-object-tracking-via-weighted-optical</guid>
+    </item>
+    <item>
+      <title>On the Expressive Power of Geometric Graph Neural Networks</title>
+      <link>https://paperswithcode.com/paper/on-the-expressive-power-of-geometric-graph</link>
+      <description><![CDATA[The expressive power of Graph Neural Networks (GNNs) has been studied extensively through the Weisfeiler-Leman (WL) graph isomorphism test.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-expressive-power-of-geometric-graph</guid>
+    </item>
+    <item>
       <title>Utilizing supervised models to infer consensus labels and their quality from data with multiple annotators</title>
       <link>https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</link>
       <description><![CDATA[Many algorithms also rely solely on annotator statistics, ignoring the features of the examples from which the annotations derive.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/utilizing-supervised-models-to-infer</guid>
     </item>
     <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
       <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
       <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
       <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
-    </item>
-    <item>
-      <title>A Simple Adaptive Unfolding Network for Hyperspectral Image Reconstruction</title>
-      <link>https://paperswithcode.com/paper/a-simple-adaptive-unfolding-network-for</link>
-      <description><![CDATA[We present a simple, efficient, and scalable unfolding network, SAUNet, to simplify the network design with an adaptive alternate optimization framework for hyperspectral image (HSI) reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-simple-adaptive-unfolding-network-for</guid>
     </item>
   </channel>
 </rss>
