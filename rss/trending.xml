@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Feb 2023 09:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 21:06:59 +0000</lastBuildDate>
+    <item>
+      <title>Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/attend-and-excite-attention-based-semantic</link>
+      <description><![CDATA[Recent text-to-image generative models have demonstrated an unparalleled ability to generate diverse and creative imagery guided by a target text prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attend-and-excite-attention-based-semantic</guid>
+    </item>
     <item>
       <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
       <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
@@ -15,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
-      <title>Cut and Learn for Unsupervised Object Detection and Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</link>
-      <description><![CDATA[We propose Cut-and-LEaRn (CutLER), a simple approach for training unsupervised object detection and segmentation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</guid>
+      <title>BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining</title>
+      <link>https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</link>
+      <description><![CDATA[Pre-trained language models have attracted increasing attention in the biomedical domain, inspired by their great success in the general natural language domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</guid>
     </item>
     <item>
       <title>On the Expressive Power of Geometric Graph Neural Networks</title>
@@ -27,10 +33,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-expressive-power-of-geometric-graph</guid>
     </item>
     <item>
+      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
+      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
+      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+    </item>
+    <item>
       <title>ArchiSound: Audio Generation with Diffusion</title>
       <link>https://paperswithcode.com/paper/archisound-audio-generation-with-diffusion</link>
       <description><![CDATA[The recent surge in popularity of diffusion models for image generation has brought new attention to the potential of these models in other areas of media generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/archisound-audio-generation-with-diffusion</guid>
+    </item>
+    <item>
+      <title>Cut and Learn for Unsupervised Object Detection and Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</link>
+      <description><![CDATA[We propose Cut-and-LEaRn (CutLER), a simple approach for training unsupervised object detection and segmentation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</guid>
+    </item>
+    <item>
+      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
+      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
+      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
+    </item>
+    <item>
+      <title>What Makes Good Examples for Visual In-Context Learning?</title>
+      <link>https://paperswithcode.com/paper/what-makes-good-examples-for-visual-in</link>
+      <description><![CDATA[To overcome the problem, we propose a prompt retrieval framework to automate the selection of in-context examples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-makes-good-examples-for-visual-in</guid>
     </item>
     <item>
       <title>AudioLDM: Text-to-Audio Generation with Latent Diffusion Models</title>
@@ -45,34 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</guid>
     </item>
     <item>
-      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
-      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
-      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
-    </item>
-    <item>
       <title>Parsel: A (De-)compositional Framework for Algorithmic Reasoning with Language Models</title>
       <link>https://paperswithcode.com/paper/parsel-a-unified-natural-language-framework</link>
       <description><![CDATA[Despite recent success in large language model (LLM) reasoning, LLMs struggle with hierarchical multi-step reasoning tasks like generating complex programs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/parsel-a-unified-natural-language-framework</guid>
-    </item>
-    <item>
-      <title>BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining</title>
-      <link>https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</link>
-      <description><![CDATA[Pre-trained language models have attracted increasing attention in the biomedical domain, inspired by their great success in the general natural language domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</guid>
-    </item>
-    <item>
-      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
-      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
-      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
-    </item>
-    <item>
-      <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
-      <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
     </item>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
@@ -81,10 +87,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
-      <title>SeaFormer: Squeeze-enhanced Axial Transformer for Mobile Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/seaformer-squeeze-enhanced-axial-transformer</link>
-      <description><![CDATA[Coupled with a light segmentation head, we achieve the best trade-off between segmentation accuracy and latency on the ARM-based mobile devices on the ADE20K and Cityscapes datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seaformer-squeeze-enhanced-axial-transformer</guid>
+      <title>Image Super-Resolution using Efficient Striped Window Transformer</title>
+      <link>https://paperswithcode.com/paper/image-super-resolution-using-efficient</link>
+      <description><![CDATA[To further exploit the potential of the transformer, we propose a novel flexible window training strategy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/image-super-resolution-using-efficient</guid>
+    </item>
+    <item>
+      <title>LogAI: A Library for Log Analytics and Intelligence</title>
+      <link>https://paperswithcode.com/paper/logai-a-library-for-log-analytics-and</link>
+      <description><![CDATA[In order to enable users to perform multiple types of AI-based log analysis tasks in a uniform manner, we introduce LogAI (https://github. com/salesforce/logai), a one-stop open source library for log analytics and intelligence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/logai-a-library-for-log-analytics-and</guid>
     </item>
     <item>
       <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
@@ -93,40 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning</title>
-      <link>https://paperswithcode.com/paper/morphmlp-a-self-attention-free-mlp-like</link>
-      <description><![CDATA[With such multi-dimension and multi-scale factorization, our MorphMLP block can achieve a great accuracy-computation balance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/morphmlp-a-self-attention-free-mlp-like</guid>
-    </item>
-    <item>
-      <title>Image Super-Resolution using Efficient Striped Window Transformer</title>
-      <link>https://paperswithcode.com/paper/image-super-resolution-using-efficient</link>
-      <description><![CDATA[To further exploit the potential of the transformer, we propose a novel flexible window training strategy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/image-super-resolution-using-efficient</guid>
-    </item>
-    <item>
       <title>TencentPretrain: A Scalable and Flexible Toolkit for Pre-training Models of Different Modalities</title>
       <link>https://paperswithcode.com/paper/tencentpretrain-a-scalable-and-flexible</link>
       <description><![CDATA[The proposed pre-training models of different modalities are showing a rising trend of homogeneity in their model structures, which brings the opportunity to implement different pre-training models within a uniform framework.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/tencentpretrain-a-scalable-and-flexible</guid>
     </item>
     <item>
-      <title>Text2LIVE: Text-Driven Layered Image and Video Editing</title>
-      <link>https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</link>
-      <description><![CDATA[Given an input image or video and a target text prompt, our goal is to edit the appearance of existing objects (e. g., object's texture) or augment the scene with visual effects (e. g., smoke, fire) in a semantically meaningful manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2live-text-driven-layered-image-and-video</guid>
+      <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
+      <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
     </item>
     <item>
-      <title>Scaling Language-Image Pre-training via Masking</title>
-      <link>https://paperswithcode.com/paper/scaling-language-image-pre-training-via</link>
-      <description><![CDATA[We present Fast Language-Image Pre-training (FLIP), a simple and more efficient method for training CLIP.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-language-image-pre-training-via</guid>
+      <title>ThoughtSource: A central hub for large language model reasoning data</title>
+      <link>https://paperswithcode.com/paper/thoughtsource-a-central-hub-for-large</link>
+      <description><![CDATA[Large language models (LLMs) such as GPT-3 and ChatGPT have recently demonstrated impressive results across a wide range of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thoughtsource-a-central-hub-for-large</guid>
     </item>
     <item>
-      <title>Fine-Tuning Language Models from Human Preferences</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
-      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
+      <title>MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning</title>
+      <link>https://paperswithcode.com/paper/morphmlp-a-self-attention-free-mlp-like</link>
+      <description><![CDATA[With such multi-dimension and multi-scale factorization, our MorphMLP block can achieve a great accuracy-computation balance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/morphmlp-a-self-attention-free-mlp-like</guid>
     </item>
   </channel>
 </rss>
