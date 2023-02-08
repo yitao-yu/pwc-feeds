@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Feb 2023 21:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2023 09:14:10 +0000</lastBuildDate>
     <item>
       <title>BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining</title>
       <link>https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</link>
       <description><![CDATA[Pre-trained language models have attracted increasing attention in the biomedical domain, inspired by their great success in the general natural language domain.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</guid>
-    </item>
-    <item>
-      <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
-      <link>https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</link>
-      <description><![CDATA[By incorporating the vision features in both stages, the model is able to generate effective rationales that contribute to answer inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
     </item>
     <item>
       <title>TEXTure: Text-Guided Texturing of 3D Shapes</title>
@@ -27,52 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</guid>
     </item>
     <item>
+      <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
+      <link>https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</link>
+      <description><![CDATA[By incorporating the vision features in both stages, the model is able to generate effective rationales that contribute to answer inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
+    </item>
+    <item>
       <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
       <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
       <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
     </item>
     <item>
-      <title>Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization</title>
-      <link>https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</link>
-      <description><![CDATA[Vizier is the de-facto blackbox and hyperparameter optimization service across Google, having optimized some of Google's largest products and research efforts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</guid>
+      <title>Top-Down Beats Bottom-Up in 3D Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/top-down-beats-bottom-up-in-3d-instance</link>
+      <description><![CDATA[Most 3D instance segmentation methods exploit a bottom-up strategy, typically including resource-exhaustive post-processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/top-down-beats-bottom-up-in-3d-instance</guid>
     </item>
     <item>
-      <title>NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality</title>
-      <link>https://paperswithcode.com/paper/naturalspeech-end-to-end-text-to-speech</link>
-      <description><![CDATA[In this paper, we answer these questions by first defining the human-level quality based on the statistical significance of subjective measure and introducing appropriate guidelines to judge it, and then developing a TTS system called NaturalSpeech that achieves human-level quality on a benchmark dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/naturalspeech-end-to-end-text-to-speech</guid>
-    </item>
-    <item>
-      <title>STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation</title>
-      <link>https://paperswithcode.com/paper/steps-joint-self-supervised-nighttime-image</link>
-      <description><![CDATA[By fitting a bridge-shaped curve to the illumination map distribution, both regions are suppressed and two tasks are bridged naturally.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/steps-joint-self-supervised-nighttime-image</guid>
-    </item>
-    <item>
-      <title>Learning the Beauty in Songs: Neural Singing Voice Beautifier</title>
-      <link>https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</link>
-      <description><![CDATA[Furthermore, we propose a latent-mapping algorithm in the latent space to convert the amateur vocal tone to the professional one.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</guid>
-    </item>
-    <item>
-      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
-      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
-      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
-    </item>
-    <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
-    </item>
-    <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+      <title>Discovering Symbolic Models from Deep Learning with Inductive Biases</title>
+      <link>https://paperswithcode.com/paper/discovering-symbolic-models-from-deep</link>
+      <description><![CDATA[The technique works as follows: we first encourage sparse latent representations when we train a GNN in a supervised setting, then we apply symbolic regression to components of the learned model to extract explicit physical relations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-symbolic-models-from-deep</guid>
     </item>
     <item>
       <title>Dual PatchNorm</title>
@@ -81,52 +51,82 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dual-patchnorm</guid>
     </item>
     <item>
-      <title>Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/attend-and-excite-attention-based-semantic</link>
-      <description><![CDATA[Recent text-to-image generative models have demonstrated an unparalleled ability to generate diverse and creative imagery guided by a target text prompt.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attend-and-excite-attention-based-semantic</guid>
+      <title>STEPS: Joint Self-supervised Nighttime Image Enhancement and Depth Estimation</title>
+      <link>https://paperswithcode.com/paper/steps-joint-self-supervised-nighttime-image</link>
+      <description><![CDATA[By fitting a bridge-shaped curve to the illumination map distribution, both regions are suppressed and two tasks are bridged naturally.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/steps-joint-self-supervised-nighttime-image</guid>
     </item>
     <item>
-      <title>Salesforce CausalAI Library: A Fast and Scalable Framework for Causal Analysis of Time Series and Tabular Data</title>
-      <link>https://paperswithcode.com/paper/salesforce-causalai-library-a-fast-and</link>
-      <description><![CDATA[We introduce the Salesforce CausalAI Library, an open-source library for causal analysis using observational data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/salesforce-causalai-library-a-fast-and</guid>
+      <title>Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization</title>
+      <link>https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</link>
+      <description><![CDATA[Vizier is the de-facto blackbox and hyperparameter optimization service across Google, having optimized some of Google's largest products and research efforts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-source-vizier-distributed-infrastructure</guid>
+    </item>
+    <item>
+      <title>ClimaX: A foundation model for weather and climate</title>
+      <link>https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</link>
+      <description><![CDATA[Most state-of-the-art approaches for weather and climate modeling are based on physics-informed numerical models of the atmosphere.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</guid>
+    </item>
+    <item>
+      <title>Learning the Beauty in Songs: Neural Singing Voice Beautifier</title>
+      <link>https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</link>
+      <description><![CDATA[Furthermore, we propose a latent-mapping algorithm in the latent space to convert the amateur vocal tone to the professional one.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-the-beauty-in-songs-neural-singing</guid>
+    </item>
+    <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
+      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
+      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
+      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+    </item>
+    <item>
+      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
+      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
+      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+    </item>
+    <item>
+      <title>Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds</title>
+      <link>https://paperswithcode.com/paper/generating-novel-designable-and-diverse</link>
+      <description><![CDATA[Proteins power a vast array of functional processes in living cells.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-novel-designable-and-diverse</guid>
+    </item>
+    <item>
+      <title>NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality</title>
+      <link>https://paperswithcode.com/paper/naturalspeech-end-to-end-text-to-speech</link>
+      <description><![CDATA[In this paper, we answer these questions by first defining the human-level quality based on the statistical significance of subjective measure and introducing appropriate guidelines to judge it, and then developing a TTS system called NaturalSpeech that achieves human-level quality on a benchmark dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/naturalspeech-end-to-end-text-to-speech</guid>
+    </item>
+    <item>
+      <title>TR3D: Towards Real-Time Indoor 3D Object Detection</title>
+      <link>https://paperswithcode.com/paper/tr3d-towards-real-time-indoor-3d-object</link>
+      <description><![CDATA[Our model with early feature fusion, which we refer to as TR3D+FF, outperforms existing 3D object detection approaches on the SUN RGB-D dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tr3d-towards-real-time-indoor-3d-object</guid>
+    </item>
+    <item>
+      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
+      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can be implemented efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
+    </item>
+    <item>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To reproduce the success of text-to-image (T2I) generation, recent works in text-to-video (T2V) generation employ large-scale text-video dataset for fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
       <title>OpenSpike: An OpenRAM SNN Accelerator</title>
       <link>https://paperswithcode.com/paper/openspike-an-openram-snn-accelerator</link>
       <description><![CDATA[This paper presents a spiking neural network (SNN) accelerator made using fully open-source EDA tools, process design kit (PDK), and memory macros synthesized using OpenRAM.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/openspike-an-openram-snn-accelerator</guid>
-    </item>
-    <item>
-      <title>Fast-BEV: A Fast and Strong Bird's-Eye View Perception Baseline</title>
-      <link>https://paperswithcode.com/paper/fast-bev-a-fast-and-strong-bird-s-eye-view</link>
-      <description><![CDATA[Our Fast-BEV consists of five parts, We novelly propose (1) a lightweight deployment-friendly view transformation which fast transfers 2D image feature to 3D voxel space, (2) an multi-scale image encoder which leverages multi-scale information for better performance, (3) an efficient BEV encoder which is particularly designed to speed up on-vehicle inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-bev-a-fast-and-strong-bird-s-eye-view</guid>
-    </item>
-    <item>
-      <title>Cut and Learn for Unsupervised Object Detection and Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</link>
-      <description><![CDATA[We propose Cut-and-LEaRn (CutLER), a simple approach for training unsupervised object detection and segmentation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-and-learn-for-unsupervised-object</guid>
-    </item>
-    <item>
-      <title>Epic-Sounds: A Large-scale Dataset of Actions That Sound</title>
-      <link>https://paperswithcode.com/paper/epic-sounds-a-large-scale-dataset-of-actions</link>
-      <description><![CDATA[We introduce EPIC-SOUNDS, a large-scale dataset of audio annotations capturing temporal extents and class labels within the audio stream of the egocentric videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/epic-sounds-a-large-scale-dataset-of-actions</guid>
-    </item>
-    <item>
-      <title>LAION-5B: An open large-scale dataset for training next generation image-text models</title>
-      <link>https://paperswithcode.com/paper/laion-5b-an-open-large-scale-dataset-for-1</link>
-      <description><![CDATA[We show successful replication and fine-tuning of foundational models like CLIP, GLIDE and Stable Diffusion using the dataset, and discuss further experiments enabled with an openly available dataset of this scale.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/laion-5b-an-open-large-scale-dataset-for-1</guid>
-    </item>
-    <item>
-      <title>ArchiSound: Audio Generation with Diffusion</title>
-      <link>https://paperswithcode.com/paper/archisound-audio-generation-with-diffusion</link>
-      <description><![CDATA[The recent surge in popularity of diffusion models for image generation has brought new attention to the potential of these models in other areas of media generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/archisound-audio-generation-with-diffusion</guid>
     </item>
   </channel>
 </rss>
