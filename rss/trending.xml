@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Feb 2023 09:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2023 21:06:39 +0000</lastBuildDate>
     <item>
       <title>Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation</title>
       <link>https://paperswithcode.com/paper/plug-and-play-diffusion-features-for-text</link>
@@ -27,34 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hard-prompts-made-easy-gradient-based</guid>
     </item>
     <item>
-      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
-      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
-      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
-    </item>
-    <item>
-      <title>Mixture of Diffusers for scene composition and high resolution image generation</title>
-      <link>https://paperswithcode.com/paper/mixture-of-diffusers-for-scene-composition</link>
-      <description><![CDATA[Diffusion methods have been proven to be very effective to generate images while conditioning on a text prompt.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mixture-of-diffusers-for-scene-composition</guid>
-    </item>
-    <item>
       <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
       <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
       <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can be implemented efficiently.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
-    </item>
-    <item>
-      <title>TEXTure: Text-Guided Texturing of 3D Shapes</title>
-      <link>https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</link>
-      <description><![CDATA[In this paper, we present TEXTure, a novel method for text-guided generation, editing, and transfer of textures for 3D shapes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</guid>
-    </item>
-    <item>
-      <title>Reversible Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/reversible-vision-transformers-1</link>
-      <description><![CDATA[Reversible Vision Transformers achieve a reduced memory footprint of up to 15. 5x at roughly identical model complexity, parameters and accuracy, demonstrating the promise of reversible vision transformers as an efficient backbone for hardware resource limited training regimes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reversible-vision-transformers-1</guid>
     </item>
     <item>
       <title>Offsite-Tuning: Transfer Learning without Full Model</title>
@@ -63,16 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/offsite-tuning-transfer-learning-without-full</guid>
     </item>
     <item>
-      <title>Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion</title>
-      <link>https://paperswithcode.com/paper/you-can-t-see-the-forest-for-its-trees</link>
-      <description><![CDATA[We demonstrate that NLC is significantly correlated with the diversity of a test suite across a number of tasks (classification and generation) and data formats (image and text).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/you-can-t-see-the-forest-for-its-trees</guid>
+      <title>Reversible Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/reversible-vision-transformers-1</link>
+      <description><![CDATA[Reversible Vision Transformers achieve a reduced memory footprint of up to 15. 5x at roughly identical model complexity, parameters and accuracy, demonstrating the promise of reversible vision transformers as an efficient backbone for hardware resource limited training regimes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reversible-vision-transformers-1</guid>
     </item>
     <item>
-      <title>A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech</title>
-      <link>https://paperswithcode.com/paper/a-vector-quantized-approach-for-text-to</link>
-      <description><![CDATA[Recent Text-to-Speech (TTS) systems trained on reading or acted corpora have achieved near human-level naturalness.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-vector-quantized-approach-for-text-to</guid>
+      <title>TEXTure: Text-Guided Texturing of 3D Shapes</title>
+      <link>https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</link>
+      <description><![CDATA[In this paper, we present TEXTure, a novel method for text-guided generation, editing, and transfer of textures for 3D shapes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</guid>
+    </item>
+    <item>
+      <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
+      <link>https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</link>
+      <description><![CDATA[Neural graphics primitives, parameterized by fully connected neural networks, can be costly to train and evaluate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instant-neural-graphics-primitives-with-a</guid>
+    </item>
+    <item>
+      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
+      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
+      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
     </item>
     <item>
       <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
@@ -81,34 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
     </item>
     <item>
-      <title>Dual PatchNorm</title>
-      <link>https://paperswithcode.com/paper/dual-patchnorm</link>
-      <description><![CDATA[We propose Dual PatchNorm: two Layer Normalization layers (LayerNorms), before and after the patch embedding layer in Vision Transformers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dual-patchnorm</guid>
-    </item>
-    <item>
-      <title>ClimaX: A foundation model for weather and climate</title>
-      <link>https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</link>
-      <description><![CDATA[Most state-of-the-art approaches for weather and climate modeling are based on physics-informed numerical models of the atmosphere.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</guid>
-    </item>
-    <item>
-      <title>UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/unipc-a-unified-predictor-corrector-framework</link>
-      <description><![CDATA[Combining UniP and UniC, we propose a unified predictor-corrector framework called UniPC for the fast sampling of DPMs, which has a unified analytical form for any order and can significantly improve the sampling quality over previous methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unipc-a-unified-predictor-corrector-framework</guid>
-    </item>
-    <item>
       <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
       <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
       <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
-      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
-      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
-      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+      <title>Dual PatchNorm</title>
+      <link>https://paperswithcode.com/paper/dual-patchnorm</link>
+      <description><![CDATA[We propose Dual PatchNorm: two Layer Normalization layers (LayerNorms), before and after the patch embedding layer in Vision Transformers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dual-patchnorm</guid>
     </item>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
@@ -117,16 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
-      <title>Top-Down Beats Bottom-Up in 3D Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/top-down-beats-bottom-up-in-3d-instance</link>
-      <description><![CDATA[Most 3D instance segmentation methods exploit a bottom-up strategy, typically including resource-exhaustive post-processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/top-down-beats-bottom-up-in-3d-instance</guid>
+      <title>A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech</title>
+      <link>https://paperswithcode.com/paper/a-vector-quantized-approach-for-text-to</link>
+      <description><![CDATA[Recent Text-to-Speech (TTS) systems trained on reading or acted corpora have achieved near human-level naturalness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-vector-quantized-approach-for-text-to</guid>
     </item>
     <item>
-      <title>PFGM++: Unlocking the Potential of Physics-Inspired Generative Models</title>
-      <link>https://paperswithcode.com/paper/pfgm-unlocking-the-potential-of-physics</link>
-      <description><![CDATA[The new models reduce to PFGM when $D{=}1$ and to diffusion models when $D{\to}\infty$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pfgm-unlocking-the-potential-of-physics</guid>
+      <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title>
+      <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
+      <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
+    </item>
+    <item>
+      <title>Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion</title>
+      <link>https://paperswithcode.com/paper/you-can-t-see-the-forest-for-its-trees</link>
+      <description><![CDATA[We demonstrate that NLC is significantly correlated with the diversity of a test suite across a number of tasks (classification and generation) and data formats (image and text).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/you-can-t-see-the-forest-for-its-trees</guid>
+    </item>
+    <item>
+      <title>Learning Quality-aware Dynamic Memory for Video Object Segmentation</title>
+      <link>https://paperswithcode.com/paper/learning-quality-aware-dynamic-memory-for</link>
+      <description><![CDATA[However, they mainly focus on better matching between the current frame and the memory frames without explicitly paying attention to the quality of the memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-quality-aware-dynamic-memory-for</guid>
+    </item>
+    <item>
+      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
+      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
+      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
+    </item>
+    <item>
+      <title>ClimaX: A foundation model for weather and climate</title>
+      <link>https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</link>
+      <description><![CDATA[Most state-of-the-art approaches for weather and climate modeling are based on physics-informed numerical models of the atmosphere.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</guid>
+    </item>
+    <item>
+      <title>PyGlove: Efficiently Exchanging ML Ideas as Code</title>
+      <link>https://paperswithcode.com/paper/pyglove-efficiently-exchanging-ml-ideas-as</link>
+      <description><![CDATA[We also perform a case study of a large codebase where PyGlove led to an 80% reduction in the number of lines of code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pyglove-efficiently-exchanging-ml-ideas-as</guid>
     </item>
   </channel>
 </rss>
