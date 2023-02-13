@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Feb 2023 09:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2023 21:07:12 +0000</lastBuildDate>
     <item>
       <title>Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation</title>
       <link>https://paperswithcode.com/paper/plug-and-play-diffusion-features-for-text</link>
@@ -27,28 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hard-prompts-made-easy-gradient-based</guid>
     </item>
     <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can be implemented efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
-    </item>
-    <item>
       <title>Offsite-Tuning: Transfer Learning without Full Model</title>
       <link>https://paperswithcode.com/paper/offsite-tuning-transfer-learning-without-full</link>
       <description><![CDATA[In this paper, we propose Offsite-Tuning, a privacy-preserving and efficient transfer learning framework that can adapt billion-parameter foundation models to downstream data without access to the full model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/offsite-tuning-transfer-learning-without-full</guid>
     </item>
     <item>
-      <title>Reversible Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/reversible-vision-transformers-1</link>
-      <description><![CDATA[Reversible Vision Transformers achieve a reduced memory footprint of up to 15. 5x at roughly identical model complexity, parameters and accuracy, demonstrating the promise of reversible vision transformers as an efficient backbone for hardware resource limited training regimes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reversible-vision-transformers-1</guid>
+      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
+      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs that can be implemented efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
     </item>
     <item>
-      <title>TEXTure: Text-Guided Texturing of 3D Shapes</title>
-      <link>https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</link>
-      <description><![CDATA[In this paper, we present TEXTure, a novel method for text-guided generation, editing, and transfer of textures for 3D shapes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/texture-text-guided-texturing-of-3d-shapes</guid>
+      <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
+      <link>https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</link>
+      <description><![CDATA[By incorporating the vision features in both stages, the model is able to generate effective rationales that contribute to answer inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
     </item>
     <item>
       <title>Instant Neural Graphics Primitives with a Multiresolution Hash Encoding</title>
@@ -63,10 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
     </item>
     <item>
-      <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
-      <link>https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</link>
-      <description><![CDATA[By incorporating the vision features in both stages, the model is able to generate effective rationales that contribute to answer inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
+      <title>Reversible Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/reversible-vision-transformers-1</link>
+      <description><![CDATA[Reversible Vision Transformers achieve a reduced memory footprint of up to 15. 5x at roughly identical model complexity, parameters and accuracy, demonstrating the promise of reversible vision transformers as an efficient backbone for hardware resource limited training regimes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reversible-vision-transformers-1</guid>
     </item>
     <item>
       <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
@@ -75,16 +69,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
     </item>
     <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+    </item>
+    <item>
       <title>Dual PatchNorm</title>
       <link>https://paperswithcode.com/paper/dual-patchnorm</link>
       <description><![CDATA[We propose Dual PatchNorm: two Layer Normalization layers (LayerNorms), before and after the patch embedding layer in Vision Transformers.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dual-patchnorm</guid>
     </item>
     <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+      <title>Learning Quality-aware Dynamic Memory for Video Object Segmentation</title>
+      <link>https://paperswithcode.com/paper/learning-quality-aware-dynamic-memory-for</link>
+      <description><![CDATA[However, they mainly focus on better matching between the current frame and the memory frames without explicitly paying attention to the quality of the memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-quality-aware-dynamic-memory-for</guid>
+    </item>
+    <item>
+      <title>A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration</title>
+      <link>https://paperswithcode.com/paper/a-new-outlier-removal-strategy-based-on</link>
+      <description><![CDATA[We use a simple and intuitive method to describe the 6-DOF (degree of freedom) curtailment process in point cloud registration and propose an outlier removal strategy based on the reliability of the correspondence graph.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-new-outlier-removal-strategy-based-on</guid>
+    </item>
+    <item>
+      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
+      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
+      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
+    </item>
+    <item>
+      <title>PyGlove: Efficiently Exchanging ML Ideas as Code</title>
+      <link>https://paperswithcode.com/paper/pyglove-efficiently-exchanging-ml-ideas-as</link>
+      <description><![CDATA[We also perform a case study of a large codebase where PyGlove led to an 80% reduction in the number of lines of code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pyglove-efficiently-exchanging-ml-ideas-as</guid>
+    </item>
+    <item>
+      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
+      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
+      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
+    </item>
+    <item>
+      <title>Mixture of Diffusers for scene composition and high resolution image generation</title>
+      <link>https://paperswithcode.com/paper/mixture-of-diffusers-for-scene-composition</link>
+      <description><![CDATA[Diffusion methods have been proven to be very effective to generate images while conditioning on a text prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mixture-of-diffusers-for-scene-composition</guid>
     </item>
     <item>
       <title>A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech</title>
@@ -97,36 +127,6 @@
       <link>https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</link>
       <description><![CDATA[We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instructpix2pix-learning-to-follow-image</guid>
-    </item>
-    <item>
-      <title>Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion</title>
-      <link>https://paperswithcode.com/paper/you-can-t-see-the-forest-for-its-trees</link>
-      <description><![CDATA[We demonstrate that NLC is significantly correlated with the diversity of a test suite across a number of tasks (classification and generation) and data formats (image and text).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/you-can-t-see-the-forest-for-its-trees</guid>
-    </item>
-    <item>
-      <title>Learning Quality-aware Dynamic Memory for Video Object Segmentation</title>
-      <link>https://paperswithcode.com/paper/learning-quality-aware-dynamic-memory-for</link>
-      <description><![CDATA[However, they mainly focus on better matching between the current frame and the memory frames without explicitly paying attention to the quality of the memory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-quality-aware-dynamic-memory-for</guid>
-    </item>
-    <item>
-      <title>Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling</title>
-      <link>https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</link>
-      <description><![CDATA[This is the first use of sparse convolution for 2D masked modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/designing-bert-for-convolutional-networks</guid>
-    </item>
-    <item>
-      <title>ClimaX: A foundation model for weather and climate</title>
-      <link>https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</link>
-      <description><![CDATA[Most state-of-the-art approaches for weather and climate modeling are based on physics-informed numerical models of the atmosphere.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/climax-a-foundation-model-for-weather-and</guid>
-    </item>
-    <item>
-      <title>PyGlove: Efficiently Exchanging ML Ideas as Code</title>
-      <link>https://paperswithcode.com/paper/pyglove-efficiently-exchanging-ml-ideas-as</link>
-      <description><![CDATA[We also perform a case study of a large codebase where PyGlove led to an 80% reduction in the number of lines of code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pyglove-efficiently-exchanging-ml-ideas-as</guid>
     </item>
   </channel>
 </rss>
