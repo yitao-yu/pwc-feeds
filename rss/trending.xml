@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Feb 2023 09:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Feb 2023 21:06:58 +0000</lastBuildDate>
     <item>
       <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
       <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
-    </item>
-    <item>
-      <title>Policy improvement by planning with Gumbel</title>
-      <link>https://paperswithcode.com/paper/policy-improvement-by-planning-with-gumbel</link>
-      <description><![CDATA[AlphaZero is a powerful reinforcement learning algorithm based on approximate policy iteration and tree search.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/policy-improvement-by-planning-with-gumbel</guid>
     </item>
     <item>
       <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
@@ -27,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
     </item>
     <item>
-      <title>MAP: Memory-aware Automated Intra-op Parallel Training For Foundation Models</title>
-      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
-      <description><![CDATA[However, finding an efficient distributed execution plan not only requires fine-grained model statistics, such as memory and computing overhead of each operator but also is a labor-intensive task even for an expert in the field of distributed training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+      <title>MarioGPT: Open-Ended Text2Level Generation through Large Language Models</title>
+      <link>https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</link>
+      <description><![CDATA[Procedural Content Generation (PCG) algorithms provide a technique to generate complex and diverse environments in an automated way.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</guid>
     </item>
     <item>
       <title>Symbolic Discovery of Optimization Algorithms</title>
@@ -45,10 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-aware-conditional-image-synthesis</guid>
     </item>
     <item>
-      <title>MarioGPT: Open-Ended Text2Level Generation through Large Language Models</title>
-      <link>https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</link>
-      <description><![CDATA[Procedural Content Generation (PCG) algorithms provide a technique to generate complex and diverse environments in an automated way.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</guid>
+      <title>MAP: Memory-aware Automated Intra-op Parallel Training For Foundation Models</title>
+      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
+      <description><![CDATA[However, finding an efficient distributed execution plan not only requires fine-grained model statistics, such as memory and computing overhead of each operator but also is a labor-intensive task even for an expert in the field of distributed training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+    </item>
+    <item>
+      <title>Policy improvement by planning with Gumbel</title>
+      <link>https://paperswithcode.com/paper/policy-improvement-by-planning-with-gumbel</link>
+      <description><![CDATA[AlphaZero is a powerful reinforcement learning algorithm based on approximate policy iteration and tree search.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/policy-improvement-by-planning-with-gumbel</guid>
     </item>
     <item>
       <title>Mastering Diverse Domains through World Models</title>
@@ -69,16 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/universal-guidance-for-diffusion-models</guid>
     </item>
     <item>
-      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
-      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
-      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
-    </item>
-    <item>
       <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
       <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
       <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
+    </item>
+    <item>
+      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
+      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
+      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
     </item>
     <item>
       <title>Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction</title>
@@ -87,28 +87,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tri-perspective-view-for-vision-based-3d</guid>
     </item>
     <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
-    </item>
-    <item>
       <title>YOWOv2: A Stronger yet Efficient Multi-level Detection Framework for Real-time Spatio-temporal Action Detection</title>
       <link>https://paperswithcode.com/paper/yowov2-a-stronger-yet-efficient-multi-level</link>
       <description><![CDATA[Designing a real-time framework for the spatio-temporal action detection task is still a challenge.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/yowov2-a-stronger-yet-efficient-multi-level</guid>
     </item>
     <item>
-      <title>OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching</title>
-      <link>https://paperswithcode.com/paper/oamatcher-an-overlapping-areas-based-network</link>
-      <description><![CDATA[Local feature matching is an essential component in many visual applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oamatcher-an-overlapping-areas-based-network</guid>
-    </item>
-    <item>
-      <title>ivis Dimensionality Reduction Framework for Biomacromolecular Simulations</title>
-      <link>https://paperswithcode.com/paper/ivis-dimensionality-reduction-framework-for</link>
-      <description><![CDATA[Molecular dynamics (MD) simulations have been widely applied to study macromolecules including proteins.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ivis-dimensionality-reduction-framework-for</guid>
+      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
+      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
     </item>
     <item>
       <title>EdgeYOLO: An Edge-Real-Time Object Detector</title>
@@ -117,10 +105,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</guid>
     </item>
     <item>
-      <title>Single Motion Diffusion</title>
-      <link>https://paperswithcode.com/paper/single-motion-diffusion</link>
-      <description><![CDATA[Synthesizing realistic animations of humans, animals, and even imaginary creatures, has long been a goal for artists and computer graphics professionals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/single-motion-diffusion</guid>
+      <title>BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment</title>
+      <link>https://paperswithcode.com/paper/bsrt-improving-burst-super-resolution-with</link>
+      <description><![CDATA[To overcome the challenges in BurstSR, we propose a Burst Super-Resolution Transformer (BSRT), which can significantly improve the capability of extracting inter-frame information and reconstruction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bsrt-improving-burst-super-resolution-with</guid>
+    </item>
+    <item>
+      <title>OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching</title>
+      <link>https://paperswithcode.com/paper/oamatcher-an-overlapping-areas-based-network</link>
+      <description><![CDATA[Local feature matching is an essential component in many visual applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/oamatcher-an-overlapping-areas-based-network</guid>
+    </item>
+    <item>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
     <item>
       <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
