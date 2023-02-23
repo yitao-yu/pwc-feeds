@@ -7,24 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Feb 2023 09:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 21:07:11 +0000</lastBuildDate>
     <item>
       <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
       <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
-    </item>
-    <item>
-      <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</link>
-      <description><![CDATA[The incredible generative ability of large-scale text-to-image (T2I) models has demonstrated strong power of learning complex structures and meaningful semantics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
-    </item>
-    <item>
-      <title>3D-aware Conditional Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/3d-aware-conditional-image-synthesis</link>
-      <description><![CDATA[We propose pix2pix3D, a 3D-aware conditional generative model for controllable photorealistic image synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-aware-conditional-image-synthesis</guid>
     </item>
     <item>
       <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
@@ -33,46 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
     </item>
     <item>
-      <title>MarioGPT: Open-Ended Text2Level Generation through Large Language Models</title>
-      <link>https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</link>
-      <description><![CDATA[Procedural Content Generation (PCG) algorithms provide a technique to generate complex and diverse environments in an automated way.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</guid>
-    </item>
-    <item>
-      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
-      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
-      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
-    </item>
-    <item>
-      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
-      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
-      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
-    </item>
-    <item>
-      <title>Symbolic Discovery of Optimization Algorithms</title>
-      <link>https://paperswithcode.com/paper/symbolic-discovery-of-optimization-algorithms</link>
-      <description><![CDATA[We present a method to formulate algorithm discovery as program search, and apply it to discover optimization algorithms for deep neural network training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/symbolic-discovery-of-optimization-algorithms</guid>
-    </item>
-    <item>
-      <title>Mastering Diverse Domains through World Models</title>
-      <link>https://paperswithcode.com/paper/mastering-diverse-domains-through-world</link>
-      <description><![CDATA[General intelligence requires solving tasks across many domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-diverse-domains-through-world</guid>
-    </item>
-    <item>
-      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
-      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
-      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
-    </item>
-    <item>
-      <title>EdgeYOLO: An Edge-Real-Time Object Detector</title>
-      <link>https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</link>
-      <description><![CDATA[This paper proposes an efficient, low-complexity and anchor-free object detector based on the state-of-the-art YOLO framework, which can be implemented in real time on edge computing platforms.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</guid>
+      <title>3D-aware Conditional Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/3d-aware-conditional-image-synthesis</link>
+      <description><![CDATA[We propose pix2pix3D, a 3D-aware conditional generative model for controllable photorealistic image synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-aware-conditional-image-synthesis</guid>
     </item>
     <item>
       <title>BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining</title>
@@ -81,10 +33,76 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</guid>
     </item>
     <item>
+      <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
+      <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
+      <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
+    </item>
+    <item>
+      <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</link>
+      <description><![CDATA[The incredible generative ability of large-scale text-to-image (T2I) models has demonstrated strong power of learning complex structures and meaningful semantics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
+    </item>
+    <item>
+      <title>MarioGPT: Open-Ended Text2Level Generation through Large Language Models</title>
+      <link>https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</link>
+      <description><![CDATA[Procedural Content Generation (PCG) algorithms provide a technique to generate complex and diverse environments in an automated way.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</guid>
+    </item>
+    <item>
+      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
+      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
+      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+    </item>
+    <item>
+      <title>Mastering Diverse Domains through World Models</title>
+      <link>https://paperswithcode.com/paper/mastering-diverse-domains-through-world</link>
+      <description><![CDATA[General intelligence requires solving tasks across many domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-diverse-domains-through-world</guid>
+    </item>
+    <item>
+      <title>Symbolic Discovery of Optimization Algorithms</title>
+      <link>https://paperswithcode.com/paper/symbolic-discovery-of-optimization-algorithms</link>
+      <description><![CDATA[We present a method to formulate algorithm discovery as program search, and apply it to discover optimization algorithms for deep neural network training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/symbolic-discovery-of-optimization-algorithms</guid>
+    </item>
+    <item>
+      <title>EdgeYOLO: An Edge-Real-Time Object Detector</title>
+      <link>https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</link>
+      <description><![CDATA[This paper proposes an efficient, low-complexity and anchor-free object detector based on the state-of-the-art YOLO framework, which can be implemented in real time on edge computing platforms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</guid>
+    </item>
+    <item>
       <title>MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation</title>
       <link>https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</link>
       <description><![CDATA[In this work, we present MultiDiffusion, a unified framework that enables versatile and controllable image generation, using a pre-trained text-to-image diffusion model, without any further training or finetuning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</guid>
+    </item>
+    <item>
+      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
+      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
+      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
+    </item>
+    <item>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+    </item>
+    <item>
+      <title>Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition</title>
+      <link>https://paperswithcode.com/paper/meta-learning-triplet-network-with-adaptive</link>
+      <description><![CDATA[We design an improved triplet network to map samples and prototype vectors into a low-dimensional space that is easier to be classified and propose an adaptive margin for each entity type.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-learning-triplet-network-with-adaptive</guid>
+    </item>
+    <item>
+      <title>ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs</title>
+      <link>https://paperswithcode.com/paper/bytetransformer-a-high-performance</link>
+      <description><![CDATA[In this paper, we present ByteTransformer, a high-performance transformer boosted for variable-length inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bytetransformer-a-high-performance</guid>
     </item>
     <item>
       <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
@@ -99,34 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tri-perspective-view-for-vision-based-3d</guid>
     </item>
     <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
+      <title>Cross-domain Compositing with Pretrained Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/cross-domain-compositing-with-pretrained</link>
+      <description><![CDATA[Diffusion models have enabled high-quality, conditional image editing capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-domain-compositing-with-pretrained</guid>
     </item>
     <item>
-      <title>HTNet: Human Topology Aware Network for 3D Human Pose Estimation</title>
-      <link>https://paperswithcode.com/paper/htnet-human-topology-aware-network-for-3d</link>
-      <description><![CDATA[3D human pose estimation errors would propagate along the human body topology and accumulate at the end joints of limbs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/htnet-human-topology-aware-network-for-3d</guid>
-    </item>
-    <item>
-      <title>Policy improvement by planning with Gumbel</title>
-      <link>https://paperswithcode.com/paper/policy-improvement-by-planning-with-gumbel</link>
-      <description><![CDATA[AlphaZero is a powerful reinforcement learning algorithm based on approximate policy iteration and tree search.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/policy-improvement-by-planning-with-gumbel</guid>
-    </item>
-    <item>
-      <title>Universal Guidance for Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/universal-guidance-for-diffusion-models</link>
-      <description><![CDATA[Typical diffusion models are trained to accept a particular form of conditioning, most commonly text, and cannot be conditioned on other modalities without retraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/universal-guidance-for-diffusion-models</guid>
-    </item>
-    <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
+      <title>Pretraining Language Models with Human Preferences</title>
+      <link>https://paperswithcode.com/paper/pretraining-language-models-with-human</link>
+      <description><![CDATA[Language models (LMs) are pretrained to imitate internet text, including content that would violate human preferences if generated by an LM: falsehoods, offensive comments, personally identifiable information, low-quality or buggy code, and more.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pretraining-language-models-with-human</guid>
     </item>
   </channel>
 </rss>
