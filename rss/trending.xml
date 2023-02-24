@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Feb 2023 21:07:11 +0000</lastBuildDate>
-    <item>
-      <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
-      <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Feb 2023 09:13:32 +0000</lastBuildDate>
     <item>
       <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
       <link>https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</link>
       <description><![CDATA[Large language models (LLMs) have shown impressive performance on complex reasoning by leveraging chain-of-thought (CoT) prompting to generate intermediate reasoning chains as the rationale to infer the answer.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</guid>
+    </item>
+    <item>
+      <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
+      <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
     </item>
     <item>
       <title>3D-aware Conditional Image Synthesis</title>
@@ -69,16 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/symbolic-discovery-of-optimization-algorithms</guid>
     </item>
     <item>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+    </item>
+    <item>
       <title>EdgeYOLO: An Edge-Real-Time Object Detector</title>
       <link>https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</link>
       <description><![CDATA[This paper proposes an efficient, low-complexity and anchor-free object detector based on the state-of-the-art YOLO framework, which can be implemented in real time on edge computing platforms.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</guid>
-    </item>
-    <item>
-      <title>MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation</title>
-      <link>https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</link>
-      <description><![CDATA[In this work, we present MultiDiffusion, a unified framework that enables versatile and controllable image generation, using a pre-trained text-to-image diffusion model, without any further training or finetuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</guid>
     </item>
     <item>
       <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
@@ -87,28 +87,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
     </item>
     <item>
-      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
-      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
-      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+      <title>MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation</title>
+      <link>https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</link>
+      <description><![CDATA[In this work, we present MultiDiffusion, a unified framework that enables versatile and controllable image generation, using a pre-trained text-to-image diffusion model, without any further training or finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</guid>
     </item>
     <item>
-      <title>Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition</title>
-      <link>https://paperswithcode.com/paper/meta-learning-triplet-network-with-adaptive</link>
-      <description><![CDATA[We design an improved triplet network to map samples and prototype vectors into a low-dimensional space that is easier to be classified and propose an adaptive margin for each entity type.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-learning-triplet-network-with-adaptive</guid>
+      <title>Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering</title>
+      <link>https://paperswithcode.com/paper/learn-to-explain-multimodal-reasoning-via</link>
+      <description><![CDATA[We further design language models to learn to generate lectures and explanations as the chain of thought (CoT) to mimic the multi-hop reasoning process when answering ScienceQA questions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learn-to-explain-multimodal-reasoning-via</guid>
     </item>
     <item>
-      <title>ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs</title>
-      <link>https://paperswithcode.com/paper/bytetransformer-a-high-performance</link>
-      <description><![CDATA[In this paper, we present ByteTransformer, a high-performance transformer boosted for variable-length inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bytetransformer-a-high-performance</guid>
+      <title>BigVGAN: A Universal Neural Vocoder with Large-Scale Training</title>
+      <link>https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</link>
+      <description><![CDATA[Despite recent progress in generative adversarial network (GAN)-based vocoders, where the model generates raw waveform conditioned on acoustic features, it is challenging to synthesize high-fidelity audio for numerous speakers across various recording environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bigvgan-a-universal-neural-vocoder-with-large</guid>
     </item>
     <item>
-      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
-      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
-      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
+      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
+      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
+      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
+    </item>
+    <item>
+      <title>HTNet: Human Topology Aware Network for 3D Human Pose Estimation</title>
+      <link>https://paperswithcode.com/paper/htnet-human-topology-aware-network-for-3d</link>
+      <description><![CDATA[3D human pose estimation errors would propagate along the human body topology and accumulate at the end joints of limbs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/htnet-human-topology-aware-network-for-3d</guid>
     </item>
     <item>
       <title>Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tri-perspective-view-for-vision-based-3d</guid>
     </item>
     <item>
-      <title>Cross-domain Compositing with Pretrained Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/cross-domain-compositing-with-pretrained</link>
-      <description><![CDATA[Diffusion models have enabled high-quality, conditional image editing capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-domain-compositing-with-pretrained</guid>
-    </item>
-    <item>
-      <title>Pretraining Language Models with Human Preferences</title>
-      <link>https://paperswithcode.com/paper/pretraining-language-models-with-human</link>
-      <description><![CDATA[Language models (LMs) are pretrained to imitate internet text, including content that would violate human preferences if generated by an LM: falsehoods, offensive comments, personally identifiable information, low-quality or buggy code, and more.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pretraining-language-models-with-human</guid>
+      <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title>
+      <link>https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</link>
+      <description><![CDATA[In this paper, we demonstrate that a learned discrete codebook prior in a small proxy space largely reduces the uncertainty and ambiguity of restoration mapping by casting blind face restoration as a code prediction task, while providing rich visual atoms for generating high-quality faces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-robust-blind-face-restoration-with</guid>
     </item>
   </channel>
 </rss>
