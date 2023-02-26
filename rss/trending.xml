@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Feb 2023 21:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2023 09:12:45 +0000</lastBuildDate>
+    <item>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language</guid>
+    </item>
     <item>
       <title>Multimodal Chain-of-Thought Reasoning in Language Models</title>
       <link>https://paperswithcode.com/paper/multimodal-chain-of-thought-reasoning-in</link>
@@ -21,10 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
     </item>
     <item>
+      <title>Composer: Creative and Controllable Image Synthesis with Composable Conditions</title>
+      <link>https://paperswithcode.com/paper/composer-creative-and-controllable-image</link>
+      <description><![CDATA[Recent large-scale generative models learned on big data are capable of synthesizing incredible images yet suffer from limited controllability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/composer-creative-and-controllable-image</guid>
+    </item>
+    <item>
       <title>BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining</title>
       <link>https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</link>
       <description><![CDATA[Pre-trained language models have attracted increasing attention in the biomedical domain, inspired by their great success in the general natural language domain.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/biogpt-generative-pre-trained-transformer-for</guid>
+    </item>
+    <item>
+      <title>VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion</title>
+      <link>https://paperswithcode.com/paper/voxformer-sparse-voxel-transformer-for-camera</link>
+      <description><![CDATA[To enable such capability in AI systems, we propose VoxFormer, a Transformer-based semantic scene completion framework that can output complete 3D volumetric semantics from only 2D images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/voxformer-sparse-voxel-transformer-for-camera</guid>
     </item>
     <item>
       <title>3D-aware Conditional Image Synthesis</title>
@@ -33,10 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-aware-conditional-image-synthesis</guid>
     </item>
     <item>
-      <title>VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion</title>
-      <link>https://paperswithcode.com/paper/voxformer-sparse-voxel-transformer-for-camera</link>
-      <description><![CDATA[To enable such capability in AI systems, we propose VoxFormer, a Transformer-based semantic scene completion framework that can output complete 3D volumetric semantics from only 2D images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/voxformer-sparse-voxel-transformer-for-camera</guid>
+      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
+      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
+      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
     </item>
     <item>
       <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
@@ -51,10 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
     </item>
     <item>
-      <title>Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</title>
-      <link>https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</link>
-      <description><![CDATA[In order to better understand how ICL works, this paper explains language models as meta-optimizers and understands ICL as a kind of implicit finetuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/why-can-gpt-learn-in-context-language-models</guid>
+      <title>Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering</title>
+      <link>https://paperswithcode.com/paper/learn-to-explain-multimodal-reasoning-via</link>
+      <description><![CDATA[We further design language models to learn to generate lectures and explanations as the chain of thought (CoT) to mimic the multi-hop reasoning process when answering ScienceQA questions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learn-to-explain-multimodal-reasoning-via</guid>
     </item>
     <item>
       <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
@@ -69,28 +87,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/symbolic-discovery-of-optimization-algorithms</guid>
     </item>
     <item>
-      <title>Mastering Diverse Domains through World Models</title>
-      <link>https://paperswithcode.com/paper/mastering-diverse-domains-through-world</link>
-      <description><![CDATA[General intelligence requires solving tasks across many domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-diverse-domains-through-world</guid>
-    </item>
-    <item>
-      <title>MarioGPT: Open-Ended Text2Level Generation through Large Language Models</title>
-      <link>https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</link>
-      <description><![CDATA[Procedural Content Generation (PCG) algorithms provide a technique to generate complex and diverse environments in an automated way.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</guid>
-    </item>
-    <item>
       <title>Learning Visual Representations via Language-Guided Sampling</title>
       <link>https://paperswithcode.com/paper/learning-visual-representations-via-language</link>
       <description><![CDATA[Although an object may appear in numerous contexts, we often describe it in a limited number of ways.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-visual-representations-via-language</guid>
     </item>
     <item>
-      <title>Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering</title>
-      <link>https://paperswithcode.com/paper/learn-to-explain-multimodal-reasoning-via</link>
-      <description><![CDATA[We further design language models to learn to generate lectures and explanations as the chain of thought (CoT) to mimic the multi-hop reasoning process when answering ScienceQA questions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learn-to-explain-multimodal-reasoning-via</guid>
+      <title>Mastering Diverse Domains through World Models</title>
+      <link>https://paperswithcode.com/paper/mastering-diverse-domains-through-world</link>
+      <description><![CDATA[General intelligence requires solving tasks across many domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-diverse-domains-through-world</guid>
     </item>
     <item>
       <title>MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation</title>
@@ -99,34 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multidiffusion-fusing-diffusion-paths-for</guid>
     </item>
     <item>
-      <title>HyperRes: Efficient Hypernetwork-Based Continuous Image Restoration</title>
-      <link>https://paperswithcode.com/paper/one-size-fits-all-hypernetwork-for-tunable</link>
-      <description><![CDATA[Continuous image restoration attempts to provide a model that can restore images with unseen degradation levels during training at inference time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-size-fits-all-hypernetwork-for-tunable</guid>
-    </item>
-    <item>
-      <title>EdgeYOLO: An Edge-Real-Time Object Detector</title>
-      <link>https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</link>
-      <description><![CDATA[This paper proposes an efficient, low-complexity and anchor-free object detector based on the state-of-the-art YOLO framework, which can be implemented in real time on edge computing platforms.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/edgeyolo-an-edge-real-time-object-detector</guid>
-    </item>
-    <item>
-      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
-      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
-      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
-    </item>
-    <item>
-      <title>Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named Entity Recognition</title>
-      <link>https://paperswithcode.com/paper/meta-learning-triplet-network-with-adaptive</link>
-      <description><![CDATA[We design an improved triplet network to map samples and prototype vectors into a low-dimensional space that is easier to be classified and propose an adaptive margin for each entity type.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-learning-triplet-network-with-adaptive</guid>
+      <title>MarioGPT: Open-Ended Text2Level Generation through Large Language Models</title>
+      <link>https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</link>
+      <description><![CDATA[Procedural Content Generation (PCG) algorithms provide a technique to generate complex and diverse environments in an automated way.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mariogpt-open-ended-text2level-generation</guid>
     </item>
     <item>
       <title>HTNet: Human Topology Aware Network for 3D Human Pose Estimation</title>
       <link>https://paperswithcode.com/paper/htnet-human-topology-aware-network-for-3d</link>
       <description><![CDATA[3D human pose estimation errors would propagate along the human body topology and accumulate at the end joints of limbs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/htnet-human-topology-aware-network-for-3d</guid>
+    </item>
+    <item>
+      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
+      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+    </item>
+    <item>
+      <title>Fine-Tuning Language Models from Human Preferences</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
+      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
     </item>
   </channel>
 </rss>
