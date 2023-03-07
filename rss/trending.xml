@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 09:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 21:07:05 +0000</lastBuildDate>
+    <item>
+      <title>Unleashing Text-to-Image Diffusion Models for Visual Perception</title>
+      <link>https://paperswithcode.com/paper/unleashing-text-to-image-diffusion-models-for-1</link>
+      <description><![CDATA[In this paper, we propose VPD (Visual Perception with a pre-trained Diffusion model), a new framework that exploits the semantic information of a pre-trained text-to-image diffusion model in visual perception tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-text-to-image-diffusion-models-for-1</guid>
+    </item>
     <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
       <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
@@ -21,16 +27,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dropout-reduces-underfitting</guid>
     </item>
     <item>
+      <title>Discovering faster matrix multiplication algorithms with reinforcement learning</title>
+      <link>https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</link>
+      <description><![CDATA[Particularly relevant is the case of 4 × 4 matrices in a finite field, where AlphaTensor’s algorithm improves on Strassen’s two-level algorithm for the first time, to our knowledge, since its discovery 50 years ago2.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</guid>
+    </item>
+    <item>
       <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
       <link>https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</link>
       <description><![CDATA[The aim of this paper is to introduce a new learning procedure for neural networks and to demonstrate that it works well enough on a few small problems to be worth further investigation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</guid>
     </item>
     <item>
-      <title>Discovering faster matrix multiplication algorithms with reinforcement learning</title>
-      <link>https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</link>
-      <description><![CDATA[Particularly relevant is the case of 4 × 4 matrices in a finite field, where AlphaTensor’s algorithm improves on Strassen’s two-level algorithm for the first time, to our knowledge, since its discovery 50 years ago2.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</guid>
+      <title>Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners</title>
+      <link>https://paperswithcode.com/paper/prompt-generate-then-cache-cascade-of</link>
+      <description><![CDATA[Our CaFo incorporates CLIP's language-contrastive knowledge, DINO's vision-contrastive knowledge, DALL-E's vision-generative knowledge, and GPT-3's language-generative knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-generate-then-cache-cascade-of</guid>
+    </item>
+    <item>
+      <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
+      <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
     </item>
     <item>
       <title>Image as Set of Points</title>
@@ -39,28 +57,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/image-as-set-of-points</guid>
     </item>
     <item>
-      <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
-      <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
-    </item>
-    <item>
       <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
       <link>https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</link>
       <description><![CDATA[In this work, we present a conceptually simple and effective method to train a strong bilingual/multilingual multimodal representation model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
     </item>
     <item>
-      <title>Composer: Creative and Controllable Image Synthesis with Composable Conditions</title>
-      <link>https://paperswithcode.com/paper/composer-creative-and-controllable-image</link>
-      <description><![CDATA[Recent large-scale generative models learned on big data are capable of synthesizing incredible images yet suffer from limited controllability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/composer-creative-and-controllable-image</guid>
+      <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
+      <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
     </item>
     <item>
       <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
       <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
       <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
+    </item>
+    <item>
+      <title>UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers</title>
+      <link>https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</link>
+      <description><![CDATA[After that, a much less expensive one is used to create large numbers of synthetic queries, which are used to fine-tune a family of reranker models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</guid>
+    </item>
+    <item>
+      <title>Composer: Creative and Controllable Image Synthesis with Composable Conditions</title>
+      <link>https://paperswithcode.com/paper/composer-creative-and-controllable-image</link>
+      <description><![CDATA[Recent large-scale generative models learned on big data are capable of synthesizing incredible images yet suffer from limited controllability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/composer-creative-and-controllable-image</guid>
     </item>
     <item>
       <title>ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth</title>
@@ -75,22 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-as-a-generative-prior</guid>
     </item>
     <item>
-      <title>UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers</title>
-      <link>https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</link>
-      <description><![CDATA[After that, a much less expensive one is used to create large numbers of synthetic queries, which are used to fine-tune a family of reranker models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</guid>
+      <title>LODE: Locally Conditioned Eikonal Implicit Scene Completion from Sparse LiDAR</title>
+      <link>https://paperswithcode.com/paper/lode-locally-conditioned-eikonal-implicit</link>
+      <description><![CDATA[In this paper, we propose a novel Eikonal formulation that conditions the implicit representation on localized shape priors which function as dense boundary value constraints, and demonstrate it works on SemanticKITTI and SemanticPOSS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lode-locally-conditioned-eikonal-implicit</guid>
     </item>
     <item>
-      <title>Unleashing Text-to-Image Diffusion Models for Visual Perception</title>
-      <link>https://paperswithcode.com/paper/unleashing-text-to-image-diffusion-models-for-1</link>
-      <description><![CDATA[In this paper, we propose VPD (Visual Perception with a pre-trained Diffusion model), a new framework that exploits the semantic information of a pre-trained text-to-image diffusion model in visual perception tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-text-to-image-diffusion-models-for-1</guid>
-    </item>
-    <item>
-      <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
-      <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
+      <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
+      <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
     </item>
     <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
@@ -99,34 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
     </item>
     <item>
-      <title>Unlimited-Size Diffusion Restoration</title>
-      <link>https://paperswithcode.com/paper/unlimited-size-diffusion-restoration</link>
-      <description><![CDATA[Our simple, parameter-free approaches can be used not only for image restoration but also for image generation of unlimited sizes, with the potential to be a general tool for diffusion models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlimited-size-diffusion-restoration</guid>
+      <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</link>
+      <description><![CDATA[The incredible generative ability of large-scale text-to-image (T2I) models has demonstrated strong power of learning complex structures and meaningful semantics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
     </item>
     <item>
-      <title>LODE: Locally Conditioned Eikonal Implicit Scene Completion from Sparse LiDAR</title>
-      <link>https://paperswithcode.com/paper/lode-locally-conditioned-eikonal-implicit</link>
-      <description><![CDATA[In this paper, we propose a novel Eikonal formulation that conditions the implicit representation on localized shape priors which function as dense boundary value constraints, and demonstrate it works on SemanticKITTI and SemanticPOSS.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lode-locally-conditioned-eikonal-implicit</guid>
-    </item>
-    <item>
-      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
-      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
-      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
-    </item>
-    <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
-    </item>
-    <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+      <title>Detecting Photoshopped Faces by Scripting Photoshop</title>
+      <link>https://paperswithcode.com/paper/detecting-photoshopped-faces-by-scripting</link>
+      <description><![CDATA[Most malicious photo manipulations are created using standard image editing tools, such as Adobe Photoshop.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-photoshopped-faces-by-scripting</guid>
     </item>
   </channel>
 </rss>
