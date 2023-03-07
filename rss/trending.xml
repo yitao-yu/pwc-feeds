@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 21:07:09 +0000</lastBuildDate>
-    <item>
-      <title>Dropout Reduces Underfitting</title>
-      <link>https://paperswithcode.com/paper/dropout-reduces-underfitting</link>
-      <description><![CDATA[Additionally, we explore a symmetric technique for regularizing overfitting models - late dropout, where dropout is not used in the early iterations and is only activated later in training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dropout-reduces-underfitting</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Mar 2023 09:14:12 +0000</lastBuildDate>
     <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
       <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
       <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+    </item>
+    <item>
+      <title>Dropout Reduces Underfitting</title>
+      <link>https://paperswithcode.com/paper/dropout-reduces-underfitting</link>
+      <description><![CDATA[Additionally, we explore a symmetric technique for regularizing overfitting models - late dropout, where dropout is not used in the early iterations and is only activated later in training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dropout-reduces-underfitting</guid>
     </item>
     <item>
       <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
@@ -39,18 +39,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/image-as-set-of-points</guid>
     </item>
     <item>
-      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
-      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
-      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
-    </item>
-    <item>
-      <title>Composer: Creative and Controllable Image Synthesis with Composable Conditions</title>
-      <link>https://paperswithcode.com/paper/composer-creative-and-controllable-image</link>
-      <description><![CDATA[Recent large-scale generative models learned on big data are capable of synthesizing incredible images yet suffer from limited controllability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/composer-creative-and-controllable-image</guid>
-    </item>
-    <item>
       <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
       <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
@@ -63,22 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
     </item>
     <item>
-      <title>Human Motion Diffusion as a Generative Prior</title>
-      <link>https://paperswithcode.com/paper/human-motion-diffusion-as-a-generative-prior</link>
-      <description><![CDATA[Using an off-the-shelf state-of-the-art (SOTA) motion diffusion model as a prior, we evaluate our approach for the three mentioned cases and show that we consistently outperform SOTA models that were designed and trained for those tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-as-a-generative-prior</guid>
-    </item>
-    <item>
-      <title>ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth</title>
-      <link>https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</link>
-      <description><![CDATA[Finally, ZoeD-M12-NK is the first model that can jointly train on multiple datasets (NYU Depth v2 and KITTI) without a significant drop in performance and achieve unprecedented zero-shot generalization performance to eight unseen datasets from both indoor and outdoor domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</guid>
-    </item>
-    <item>
-      <title>Unlimited-Size Diffusion Restoration</title>
-      <link>https://paperswithcode.com/paper/unlimited-size-diffusion-restoration</link>
-      <description><![CDATA[Our simple, parameter-free approaches can be used not only for image restoration but also for image generation of unlimited sizes, with the potential to be a general tool for diffusion models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlimited-size-diffusion-restoration</guid>
+      <title>Composer: Creative and Controllable Image Synthesis with Composable Conditions</title>
+      <link>https://paperswithcode.com/paper/composer-creative-and-controllable-image</link>
+      <description><![CDATA[Recent large-scale generative models learned on big data are capable of synthesizing incredible images yet suffer from limited controllability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/composer-creative-and-controllable-image</guid>
     </item>
     <item>
       <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
@@ -87,46 +63,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
     </item>
     <item>
+      <title>ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth</title>
+      <link>https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</link>
+      <description><![CDATA[Finally, ZoeD-M12-NK is the first model that can jointly train on multiple datasets (NYU Depth v2 and KITTI) without a significant drop in performance and achieve unprecedented zero-shot generalization performance to eight unseen datasets from both indoor and outdoor domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</guid>
+    </item>
+    <item>
+      <title>Human Motion Diffusion as a Generative Prior</title>
+      <link>https://paperswithcode.com/paper/human-motion-diffusion-as-a-generative-prior</link>
+      <description><![CDATA[Using an off-the-shelf state-of-the-art (SOTA) motion diffusion model as a prior, we evaluate our approach for the three mentioned cases and show that we consistently outperform SOTA models that were designed and trained for those tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-motion-diffusion-as-a-generative-prior</guid>
+    </item>
+    <item>
+      <title>UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers</title>
+      <link>https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</link>
+      <description><![CDATA[After that, a much less expensive one is used to create large numbers of synthetic queries, which are used to fine-tune a family of reranker models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</guid>
+    </item>
+    <item>
+      <title>Unleashing Text-to-Image Diffusion Models for Visual Perception</title>
+      <link>https://paperswithcode.com/paper/unleashing-text-to-image-diffusion-models-for-1</link>
+      <description><![CDATA[In this paper, we propose VPD (Visual Perception with a pre-trained Diffusion model), a new framework that exploits the semantic information of a pre-trained text-to-image diffusion model in visual perception tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-text-to-image-diffusion-models-for-1</guid>
+    </item>
+    <item>
+      <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</link>
+      <description><![CDATA[Large-scale text-to-image diffusion models have made amazing advances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
+    </item>
+    <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
       <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
       <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
     </item>
     <item>
-      <title>unilm</title>
-      <link>https://github.com/microsoft/unilm</link>
-      <description><![CDATA[Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities]]></description>
-      <guid isPermaLink="true">https://github.com/microsoft/unilm</guid>
-    </item>
-    <item>
-      <title>SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks</title>
-      <link>https://paperswithcode.com/paper/spikegpt-generative-pre-trained-language</link>
-      <description><![CDATA[Spiking neural networks (SNNs) have emerged as an energy-efficient approach to deep learning that leverage sparse and event-driven activations to reduce the computational overhead associated with model inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/spikegpt-generative-pre-trained-language</guid>
-    </item>
-    <item>
-      <title>Efficient and Explicit Modelling of Image Hierarchies for Image Restoration</title>
-      <link>https://paperswithcode.com/paper/efficient-and-explicit-modelling-of-image</link>
-      <description><![CDATA[The aim of this paper is to propose a mechanism to efficiently and explicitly model image hierarchies in the global, regional, and local range for image restoration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-and-explicit-modelling-of-image</guid>
-    </item>
-    <item>
-      <title>DAMO-YOLO : A Report on Real-Time Object Detection Design</title>
-      <link>https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</link>
-      <description><![CDATA[In this report, we present a fast and accurate object detection method dubbed DAMO-YOLO, which achieves higher performance than the state-of-the-art YOLO series.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/damo-yolo-a-report-on-real-time-object</guid>
-    </item>
-    <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+      <title>Unlimited-Size Diffusion Restoration</title>
+      <link>https://paperswithcode.com/paper/unlimited-size-diffusion-restoration</link>
+      <description><![CDATA[Our simple, parameter-free approaches can be used not only for image restoration but also for image generation of unlimited sizes, with the potential to be a general tool for diffusion models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unlimited-size-diffusion-restoration</guid>
     </item>
     <item>
       <title>LODE: Locally Conditioned Eikonal Implicit Scene Completion from Sparse LiDAR</title>
       <link>https://paperswithcode.com/paper/lode-locally-conditioned-eikonal-implicit</link>
       <description><![CDATA[In this paper, we propose a novel Eikonal formulation that conditions the implicit representation on localized shape priors which function as dense boundary value constraints, and demonstrate it works on SemanticKITTI and SemanticPOSS.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lode-locally-conditioned-eikonal-implicit</guid>
+    </item>
+    <item>
+      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
+      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
+      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
+    </item>
+    <item>
+      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
+      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
+    </item>
+    <item>
+      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
+      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
     </item>
   </channel>
 </rss>
