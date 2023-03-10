@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Mar 2023 21:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2023 09:14:10 +0000</lastBuildDate>
+    <item>
+      <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
+      <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
+      <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
+    </item>
     <item>
       <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
       <link>https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</link>
@@ -21,10 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
+      <title>X-Avatar: Expressive Human Avatars</title>
+      <link>https://paperswithcode.com/paper/x-avatar-expressive-human-avatars</link>
+      <description><![CDATA[Our method models bodies, hands, facial expressions and appearance in a holistic fashion and can be learned from either full 3D scans or RGB-D data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/x-avatar-expressive-human-avatars</guid>
+    </item>
+    <item>
       <title>OpenICL: An Open-Source Framework for In-context Learning</title>
       <link>https://paperswithcode.com/paper/openicl-an-open-source-framework-for-in</link>
       <description><![CDATA[However, the implementation of ICL is sophisticated due to the diverse retrieval and inference methods involved, as well as the varying pre-processing requirements for different models, datasets, and tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/openicl-an-open-source-framework-for-in</guid>
+    </item>
+    <item>
+      <title>OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception</title>
+      <link>https://paperswithcode.com/paper/openoccupancy-a-large-scale-benchmark-for</link>
+      <description><![CDATA[Towards a comprehensive benchmarking of surrounding perception algorithms, we propose OpenOccupancy, which is the first surrounding semantic occupancy perception benchmark.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openoccupancy-a-large-scale-benchmark-for</guid>
     </item>
     <item>
       <title>Unleashing Text-to-Image Diffusion Models for Visual Perception</title>
@@ -39,64 +57,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gligen-open-set-grounded-text-to-image</guid>
     </item>
     <item>
-      <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
-      <link>https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</link>
-      <description><![CDATA[The aim of this paper is to introduce a new learning procedure for neural networks and to demonstrate that it works well enough on a few small problems to be worth further investigation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</guid>
-    </item>
-    <item>
       <title>Discovering faster matrix multiplication algorithms with reinforcement learning</title>
       <link>https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</link>
       <description><![CDATA[Particularly relevant is the case of 4 × 4 matrices in a finite field, where AlphaTensor’s algorithm improves on Strassen’s two-level algorithm for the first time, to our knowledge, since its discovery 50 years ago2.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-faster-matrix-multiplication</guid>
     </item>
     <item>
-      <title>Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles</title>
-      <link>https://paperswithcode.com/paper/zeroth-order-optimization-meets-human</link>
-      <description><![CDATA[In this paper, we focus on a novel optimization problem in which the objective function is a black-box and can only be evaluated through a ranking oracle.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zeroth-order-optimization-meets-human</guid>
+      <title>The Forward-Forward Algorithm: Some Preliminary Investigations</title>
+      <link>https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</link>
+      <description><![CDATA[The aim of this paper is to introduce a new learning procedure for neural networks and to demonstrate that it works well enough on a few small problems to be worth further investigation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-forward-forward-algorithm-some-1</guid>
     </item>
     <item>
-      <title>MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices</title>
-      <link>https://paperswithcode.com/paper/mobilebrick-building-lego-for-3d</link>
-      <description><![CDATA[The distinct data modality offered by high-resolution RGB images and low-resolution depth maps captured on a mobile device, when combined with precise 3D geometry annotations, presents a unique opportunity for future research on high-fidelity 3D reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mobilebrick-building-lego-for-3d</guid>
+      <title>Hybrid Symbolic-Numeric Library for Power System Modeling and Analysis</title>
+      <link>https://paperswithcode.com/paper/hybrid-symbolic-numeric-library-for-power</link>
+      <description><![CDATA[This paper proposes a two-layer hybrid library consisted of a symbolic layer for descriptive modeling and a numeric layer for vector-based numerical computation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-symbolic-numeric-library-for-power</guid>
     </item>
     <item>
-      <title>Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners</title>
-      <link>https://paperswithcode.com/paper/prompt-generate-then-cache-cascade-of</link>
-      <description><![CDATA[Our CaFo incorporates CLIP's language-contrastive knowledge, DINO's vision-contrastive knowledge, DALL-E's vision-generative knowledge, and GPT-3's language-generative knowledge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-generate-then-cache-cascade-of</guid>
-    </item>
-    <item>
-      <title>Dropout Reduces Underfitting</title>
-      <link>https://paperswithcode.com/paper/dropout-reduces-underfitting</link>
-      <description><![CDATA[Additionally, we explore a symmetric technique for regularizing overfitting models - late dropout, where dropout is not used in the early iterations and is only activated later in training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dropout-reduces-underfitting</guid>
-    </item>
-    <item>
-      <title>Adding Conditional Control to Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
-      <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
-    </item>
-    <item>
-      <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
-      <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
-      <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
-    </item>
-    <item>
-      <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</link>
-      <description><![CDATA[The incredible generative ability of large-scale text-to-image (T2I) models has demonstrated strong power of learning complex structures and meaningful semantics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
-    </item>
-    <item>
-      <title>UDAPDR: Unsupervised Domain Adaptation via LLM Prompting and Distillation of Rerankers</title>
-      <link>https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</link>
-      <description><![CDATA[After that, a much less expensive one is used to create large numbers of synthetic queries, which are used to fine-tune a family of reranker models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/udapdr-unsupervised-domain-adaptation-via-llm</guid>
+      <title>InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data</title>
+      <link>https://paperswithcode.com/paper/insmos-instance-aware-moving-object</link>
+      <description><![CDATA[We evaluated our approach on the LiDAR-MOS benchmark based on SemanticKITTI and achieved better moving object segmentation performance compared to state-of-the-art methods, demonstrating the effectiveness of our approach in integrating instance information for moving object segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/insmos-instance-aware-moving-object</guid>
     </item>
     <item>
       <title>Hyena Hierarchy: Towards Larger Convolutional Language Models</title>
@@ -105,28 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hyena-hierarchy-towards-larger-convolutional</guid>
     </item>
     <item>
+      <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</link>
+      <description><![CDATA[The incredible generative ability of large-scale text-to-image (T2I) models has demonstrated strong power of learning complex structures and meaningful semantics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
+    </item>
+    <item>
       <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title>
       <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
       <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
     </item>
     <item>
-      <title>Image as Set of Points</title>
-      <link>https://paperswithcode.com/paper/image-as-set-of-points</link>
-      <description><![CDATA[Context clusters (CoCs) view an image as a set of unorganized points and extract features via simplified clustering algorithm.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/image-as-set-of-points</guid>
+      <title>Dropout Reduces Underfitting</title>
+      <link>https://paperswithcode.com/paper/dropout-reduces-underfitting</link>
+      <description><![CDATA[Additionally, we explore a symmetric technique for regularizing overfitting models - late dropout, where dropout is not used in the early iterations and is only activated later in training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dropout-reduces-underfitting</guid>
     </item>
     <item>
-      <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
-      <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+      <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
+      <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
+      <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
     </item>
     <item>
-      <title>Factuality Enhanced Language Models for Open-Ended Text Generation</title>
-      <link>https://paperswithcode.com/paper/factuality-enhanced-language-models-for-open</link>
-      <description><![CDATA[In this work, we measure and improve the factual accuracy of large-scale LMs for open-ended text generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/factuality-enhanced-language-models-for-open</guid>
+      <title>Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners</title>
+      <link>https://paperswithcode.com/paper/prompt-generate-then-cache-cascade-of</link>
+      <description><![CDATA[Our CaFo incorporates CLIP's language-contrastive knowledge, DINO's vision-contrastive knowledge, DALL-E's vision-generative knowledge, and GPT-3's language-generative knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-generate-then-cache-cascade-of</guid>
+    </item>
+    <item>
+      <title>MaskSketch: Unpaired Structure-guided Masked Image Generation</title>
+      <link>https://paperswithcode.com/paper/masksketch-unpaired-structure-guided-masked</link>
+      <description><![CDATA[We show that intermediate self-attention maps of a masked generative transformer encode important structural information of the input image, such as scene layout and object shape, and we propose a novel sampling method based on this observation to enable structure-guided generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masksketch-unpaired-structure-guided-masked</guid>
+    </item>
+    <item>
+      <title>Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles</title>
+      <link>https://paperswithcode.com/paper/zeroth-order-optimization-meets-human</link>
+      <description><![CDATA[In this paper, we focus on a novel optimization problem in which the objective function is a black-box and can only be evaluated through a ranking oracle.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zeroth-order-optimization-meets-human</guid>
     </item>
   </channel>
 </rss>
