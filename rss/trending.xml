@@ -7,12 +7,30 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Mar 2023 09:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2023 21:06:54 +0000</lastBuildDate>
+    <item>
+      <title>GPT-4 Technical Report</title>
+      <link>https://paperswithcode.com/paper/gpt-4-technical-report</link>
+      <description><![CDATA[We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report</guid>
+    </item>
     <item>
       <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
       <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
       <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
+    </item>
+    <item>
+      <title>One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale</title>
+      <link>https://paperswithcode.com/paper/one-transformer-fits-all-distributions-in</link>
+      <description><![CDATA[Inspired by the unified view, UniDiffuser learns all distributions simultaneously with a minimal modification to the original diffusion model -- perturbs data in all modalities instead of a single modality, inputs individual timesteps in different modalities, and predicts the noise of all modalities instead of a single modality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/one-transformer-fits-all-distributions-in</guid>
+    </item>
+    <item>
+      <title>Universal Instance Perception as Object Discovery and Retrieval</title>
+      <link>https://paperswithcode.com/paper/universal-instance-perception-as-object</link>
+      <description><![CDATA[All instance perception tasks aim at finding certain objects specified by some queries such as category names, language expressions, and target annotations, but this complete field has been split into multiple independent subtasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/universal-instance-perception-as-object</guid>
     </item>
     <item>
       <title>StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces</title>
@@ -21,28 +39,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/styleganex-stylegan-based-manipulation-beyond</guid>
     </item>
     <item>
+      <title>Erasing Concepts from Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</link>
+      <description><![CDATA[We propose a fine-tuning method that can erase a visual concept from a pre-trained diffusion model, given only the name of the style and using negative guidance as a teacher.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</guid>
+    </item>
+    <item>
       <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
       <link>https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</link>
       <description><![CDATA[Here we present $\Phi$-SO, a Physical Symbolic Optimization framework for recovering analytical symbolic expressions from physics data using deep reinforcement learning techniques by learning units constraints.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
     </item>
     <item>
-      <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
-      <link>https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</link>
-      <description><![CDATA[Recent vision-language models have shown impressive multi-modal generation capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</guid>
-    </item>
-    <item>
-      <title>Hybrid Symbolic-Numeric Library for Power System Modeling and Analysis</title>
-      <link>https://paperswithcode.com/paper/hybrid-symbolic-numeric-library-for-power</link>
-      <description><![CDATA[This paper proposes a two-layer hybrid library consisted of a symbolic layer for descriptive modeling and a numeric layer for vector-based numerical computation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hybrid-symbolic-numeric-library-for-power</guid>
-    </item>
-    <item>
-      <title>X-Avatar: Expressive Human Avatars</title>
-      <link>https://paperswithcode.com/paper/x-avatar-expressive-human-avatars</link>
-      <description><![CDATA[Our method models bodies, hands, facial expressions and appearance in a holistic fashion and can be learned from either full 3D scans or RGB-D data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/x-avatar-expressive-human-avatars</guid>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
     </item>
     <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
@@ -51,22 +63,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
+      <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
+      <link>https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</link>
+      <description><![CDATA[Recent vision-language models have shown impressive multi-modal generation capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</guid>
+    </item>
+    <item>
       <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title>
       <link>https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</link>
       <description><![CDATA[Text-to-image synthesis has recently seen significant progress thanks to large pretrained language models, large-scale training data, and the introduction of scalable model families such as diffusion and autoregressive models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/stylegan-t-unlocking-the-power-of-gans-for</guid>
     </item>
     <item>
-      <title>MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</link>
-      <description><![CDATA[In this work, we propose MAsked Generative Encoder (MAGE), the first framework to unify SOTA image generation and self-supervised representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</guid>
-    </item>
-    <item>
       <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
       <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
       <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
+    </item>
+    <item>
+      <title>ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth</title>
+      <link>https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</link>
+      <description><![CDATA[Finally, ZoeD-M12-NK is the first model that can jointly train on multiple datasets (NYU Depth v2 and KITTI) without a significant drop in performance and achieve unprecedented zero-shot generalization performance to eight unseen datasets from both indoor and outdoor domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</guid>
+    </item>
+    <item>
+      <title>Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR</title>
+      <link>https://paperswithcode.com/paper/lite-detr-an-interleaved-multi-scale-encoder</link>
+      <description><![CDATA[Recent DEtection TRansformer-based (DETR) models have obtained remarkable performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lite-detr-an-interleaved-multi-scale-encoder</guid>
+    </item>
+    <item>
+      <title>MaskSketch: Unpaired Structure-guided Masked Image Generation</title>
+      <link>https://paperswithcode.com/paper/masksketch-unpaired-structure-guided-masked</link>
+      <description><![CDATA[We show that intermediate self-attention maps of a masked generative transformer encode important structural information of the input image, such as scene layout and object shape, and we propose a novel sampling method based on this observation to enable structure-guided generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masksketch-unpaired-structure-guided-masked</guid>
+    </item>
+    <item>
+      <title>X-Avatar: Expressive Human Avatars</title>
+      <link>https://paperswithcode.com/paper/x-avatar-expressive-human-avatars</link>
+      <description><![CDATA[Our method models bodies, hands, facial expressions and appearance in a holistic fashion and can be learned from either full 3D scans or RGB-D data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/x-avatar-expressive-human-avatars</guid>
     </item>
     <item>
       <title>InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning</title>
@@ -87,46 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/elite-encoding-visual-concepts-into-textual</guid>
     </item>
     <item>
-      <title>ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth</title>
-      <link>https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</link>
-      <description><![CDATA[Finally, ZoeD-M12-NK is the first model that can jointly train on multiple datasets (NYU Depth v2 and KITTI) without a significant drop in performance and achieve unprecedented zero-shot generalization performance to eight unseen datasets from both indoor and outdoor domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zoedepth-zero-shot-transfer-by-combining</guid>
-    </item>
-    <item>
-      <title>MaskSketch: Unpaired Structure-guided Masked Image Generation</title>
-      <link>https://paperswithcode.com/paper/masksketch-unpaired-structure-guided-masked</link>
-      <description><![CDATA[We show that intermediate self-attention maps of a masked generative transformer encode important structural information of the input image, such as scene layout and object shape, and we propose a novel sampling method based on this observation to enable structure-guided generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masksketch-unpaired-structure-guided-masked</guid>
-    </item>
-    <item>
-      <title>OpenICL: An Open-Source Framework for In-context Learning</title>
-      <link>https://paperswithcode.com/paper/openicl-an-open-source-framework-for-in</link>
-      <description><![CDATA[However, the implementation of ICL is sophisticated due to the diverse retrieval and inference methods involved, as well as the varying pre-processing requirements for different models, datasets, and tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openicl-an-open-source-framework-for-in</guid>
-    </item>
-    <item>
-      <title>DiffusionDepth: Diffusion Denoising Approach for Monocular Depth Estimation</title>
-      <link>https://paperswithcode.com/paper/diffusiondepth-diffusion-denoising-approach</link>
-      <description><![CDATA[We propose DiffusionDepth, a new approach that reformulates monocular depth estimation as a denoising diffusion process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondepth-diffusion-denoising-approach</guid>
-    </item>
-    <item>
-      <title>OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception</title>
-      <link>https://paperswithcode.com/paper/openoccupancy-a-large-scale-benchmark-for</link>
-      <description><![CDATA[Towards a comprehensive benchmarking of surrounding perception algorithms, we propose OpenOccupancy, which is the first surrounding semantic occupancy perception benchmark.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openoccupancy-a-large-scale-benchmark-for</guid>
-    </item>
-    <item>
-      <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</link>
-      <description><![CDATA[The incredible generative ability of large-scale text-to-image (T2I) models has demonstrated strong power of learning complex structures and meaningful semantics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t2i-adapter-learning-adapters-to-dig-out-more</guid>
-    </item>
-    <item>
-      <title>Hyena Hierarchy: Towards Larger Convolutional Language Models</title>
-      <link>https://paperswithcode.com/paper/hyena-hierarchy-towards-larger-convolutional</link>
-      <description><![CDATA[Recent advances in deep learning have relied heavily on the use of large Transformers due to their ability to learn at scale.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hyena-hierarchy-towards-larger-convolutional</guid>
+      <title>MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</link>
+      <description><![CDATA[In this work, we propose MAsked Generative Encoder (MAGE), the first framework to unify SOTA image generation and self-supervised representation learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mage-masked-generative-encoder-to-unify</guid>
     </item>
   </channel>
 </rss>
