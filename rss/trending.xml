@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Mar 2023 09:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 21:06:38 +0000</lastBuildDate>
     <item>
       <title>GPT-4 Technical Report</title>
       <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
@@ -19,6 +19,12 @@
       <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
       <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
+    </item>
+    <item>
+      <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
+      <link>https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</link>
+      <description><![CDATA[Here we present $\Phi$-SO, a Physical Symbolic Optimization framework for recovering analytical symbolic expressions from physics data using deep reinforcement learning techniques by learning units constraints.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
     </item>
     <item>
       <title>One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale</title>
@@ -33,10 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/freenerf-improving-few-shot-neural-rendering</guid>
     </item>
     <item>
-      <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
-      <link>https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</link>
-      <description><![CDATA[Here we present $\Phi$-SO, a Physical Symbolic Optimization framework for recovering analytical symbolic expressions from physics data using deep reinforcement learning techniques by learning units constraints.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+    </item>
+    <item>
+      <title>FateZero: Fusing Attentions for Zero-shot Text-based Video Editing</title>
+      <link>https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</link>
+      <description><![CDATA[We also have a better zero-shot shape-aware editing ability based on the text-to-video model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</guid>
     </item>
     <item>
       <title>Universal Instance Perception as Object Discovery and Retrieval</title>
@@ -45,10 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/universal-instance-perception-as-object</guid>
     </item>
     <item>
-      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
-      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
-      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+      <title>DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception</title>
+      <link>https://paperswithcode.com/paper/diffbev-conditional-diffusion-model-for-bird</link>
+      <description><![CDATA[Diffusion models naturally have the ability to denoise noisy samples to the ideal data, which motivates us to utilize the diffusion model to get a better BEV representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffbev-conditional-diffusion-model-for-bird</guid>
     </item>
     <item>
       <title>Erasing Concepts from Diffusion Models</title>
@@ -57,10 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</guid>
     </item>
     <item>
-      <title>Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis</title>
-      <link>https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</link>
-      <description><![CDATA[We present a Non-parametric Network for 3D point cloud analysis, Point-NN, which consists of purely non-learnable components: farthest point sampling (FPS), k-nearest neighbors (k-NN), and pooling operations, with trigonometric functions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</guid>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
       <title>StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces</title>
@@ -69,10 +81,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/styleganex-stylegan-based-manipulation-beyond</guid>
     </item>
     <item>
-      <title>LLaMA: Open and Efficient Foundation Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
-      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+      <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
+      <link>https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</link>
+      <description><![CDATA[The proposed method is verified with a wide spectrum of traditional and modern image backbones and achieves new SoTA results on the large-scale nuScenes dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
+    </item>
+    <item>
+      <title>Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis</title>
+      <link>https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</link>
+      <description><![CDATA[We present a Non-parametric Network for 3D point cloud analysis, Point-NN, which consists of purely non-learnable components: farthest point sampling (FPS), k-nearest neighbors (k-NN), and pooling operations, with trigonometric functions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</guid>
     </item>
     <item>
       <title>Eliciting Latent Predictions from Transformers with the Tuned Lens</title>
@@ -81,22 +99,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/eliciting-latent-predictions-from</guid>
     </item>
     <item>
-      <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
-      <link>https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</link>
-      <description><![CDATA[The proposed method is verified with a wide spectrum of traditional and modern image backbones and achieves new SoTA results on the large-scale nuScenes dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>A Simple Framework for Open-Vocabulary Segmentation and Detection</title>
-      <link>https://paperswithcode.com/paper/a-simple-framework-for-open-vocabulary</link>
-      <description><![CDATA[We present \ourmodel{}, a simple Open-vocabulary Segmentation and Detection framework that jointly learns from different segmentation and detection datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-simple-framework-for-open-vocabulary</guid>
+      <title>DPE: Disentanglement of Pose and Expression for General Video Portrait Editing</title>
+      <link>https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</link>
+      <description><![CDATA[In this paper, we introduce a novel self-supervised disentanglement framework to decouple pose and expression without 3DMMs and paired data, which consists of a motion editing module, a pose generator, and an expression generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</guid>
     </item>
     <item>
-      <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
-      <link>https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</link>
-      <description><![CDATA[Recent vision-language models have shown impressive multi-modal generation capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</guid>
+      <title>DeepMIM: Deep Supervision for Masked Image Modeling</title>
+      <link>https://paperswithcode.com/paper/deepmim-deep-supervision-for-masked-image</link>
+      <description><![CDATA[Deep supervision, which involves extra supervisions to the intermediate features of a neural network, was widely used in image classification in the early deep learning era since it significantly reduces the training difficulty and eases the optimization like avoiding gradient vanish over the vanilla training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmim-deep-supervision-for-masked-image</guid>
     </item>
     <item>
       <title>ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions</title>
@@ -105,28 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</guid>
     </item>
     <item>
-      <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
-      <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
-      <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
-    </item>
-    <item>
-      <title>Zero-Shot Information Extraction via Chatting with ChatGPT</title>
-      <link>https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</link>
-      <description><![CDATA[Zero-shot information extraction (IE) aims to build IE systems from the unannotated text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</guid>
-    </item>
-    <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
-      <title>Editing Implicit Assumptions in Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/editing-implicit-assumptions-in-text-to-image</link>
-      <description><![CDATA[Our Text-to-Image Model Editing method, TIME for short, receives a pair of inputs: a "source" under-specified prompt for which the model makes an implicit assumption (e. g., "a pack of roses"), and a "destination" prompt that describes the same setting, but with a specified desired attribute (e. g., "a pack of blue roses").]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/editing-implicit-assumptions-in-text-to-image</guid>
+      <title>Prismer: A Vision-Language Model with An Ensemble of Experts</title>
+      <link>https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</link>
+      <description><![CDATA[Recent vision-language models have shown impressive multi-modal generation capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prismer-a-vision-language-model-with-an</guid>
     </item>
   </channel>
 </rss>
