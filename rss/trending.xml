@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Mar 2023 21:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 09:13:19 +0000</lastBuildDate>
     <item>
       <title>GPT-4 Technical Report</title>
       <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
@@ -57,12 +57,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</guid>
     </item>
     <item>
-      <title>Eliciting Latent Predictions from Transformers with the Tuned Lens</title>
-      <link>https://paperswithcode.com/paper/eliciting-latent-predictions-from</link>
-      <description><![CDATA[We analyze transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eliciting-latent-predictions-from</guid>
-    </item>
-    <item>
       <title>Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis</title>
       <link>https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</link>
       <description><![CDATA[We present a Non-parametric Network for 3D point cloud analysis, Point-NN, which consists of purely non-learnable components: farthest point sampling (FPS), k-nearest neighbors (k-NN), and pooling operations, with trigonometric functions.]]></description>
@@ -79,6 +73,18 @@
       <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
       <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+    </item>
+    <item>
+      <title>Eliciting Latent Predictions from Transformers with the Tuned Lens</title>
+      <link>https://paperswithcode.com/paper/eliciting-latent-predictions-from</link>
+      <description><![CDATA[We analyze transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eliciting-latent-predictions-from</guid>
+    </item>
+    <item>
+      <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
+      <link>https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</link>
+      <description><![CDATA[The proposed method is verified with a wide spectrum of traditional and modern image backbones and achieves new SoTA results on the large-scale nuScenes dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
     </item>
     <item>
       <title>A Simple Framework for Open-Vocabulary Segmentation and Detection</title>
@@ -99,12 +105,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</guid>
     </item>
     <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can be used to synthesize novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
       <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
       <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
       <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</guid>
     </item>
     <item>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
       <title>Editing Implicit Assumptions in Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/editing-implicit-assumptions-in-text-to-image</link>
       <description><![CDATA[Our Text-to-Image Model Editing method, TIME for short, receives a pair of inputs: a "source" under-specified prompt for which the model makes an implicit assumption (e. g., "a pack of roses"), and a "destination" prompt that describes the same setting, but with a specified desired attribute (e. g., "a pack of blue roses").]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/editing-implicit-assumptions-in-text-to-image</guid>
-    </item>
-    <item>
-      <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
-      <link>https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</link>
-      <description><![CDATA[The proposed method is verified with a wide spectrum of traditional and modern image backbones and achieves new SoTA results on the large-scale nuScenes dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
     </item>
   </channel>
 </rss>
