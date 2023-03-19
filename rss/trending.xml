@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Mar 2023 09:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 21:06:18 +0000</lastBuildDate>
     <item>
       <title>GPT-4 Technical Report</title>
       <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
       <description><![CDATA[We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report-1</guid>
-    </item>
-    <item>
-      <title>FateZero: Fusing Attentions for Zero-shot Text-based Video Editing</title>
-      <link>https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</link>
-      <description><![CDATA[We also have a better zero-shot shape-aware editing ability based on the text-to-video model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</guid>
     </item>
     <item>
       <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
@@ -27,16 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
     </item>
     <item>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+    </item>
+    <item>
+      <title>FateZero: Fusing Attentions for Zero-shot Text-based Video Editing</title>
+      <link>https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</link>
+      <description><![CDATA[We also have a better zero-shot shape-aware editing ability based on the text-to-video model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</guid>
+    </item>
+    <item>
       <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
       <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
       <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
-    </item>
-    <item>
-      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
-      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
-      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
     </item>
     <item>
       <title>One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale</title>
@@ -51,22 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/freenerf-improving-few-shot-neural-rendering</guid>
     </item>
     <item>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
       <title>DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception</title>
       <link>https://paperswithcode.com/paper/diffbev-conditional-diffusion-model-for-bird</link>
       <description><![CDATA[Diffusion models naturally have the ability to denoise noisy samples to the ideal data, which motivates us to utilize the diffusion model to get a better BEV representation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffbev-conditional-diffusion-model-for-bird</guid>
-    </item>
-    <item>
-      <title>Universal Instance Perception as Object Discovery and Retrieval</title>
-      <link>https://paperswithcode.com/paper/universal-instance-perception-as-object</link>
-      <description><![CDATA[All instance perception tasks aim at finding certain objects specified by some queries such as category names, language expressions, and target annotations, but this complete field has been split into multiple independent subtasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/universal-instance-perception-as-object</guid>
-    </item>
-    <item>
-      <title>LLaMA: Open and Efficient Foundation Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
-      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
       <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
@@ -75,22 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
     </item>
     <item>
-      <title>Erasing Concepts from Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</link>
-      <description><![CDATA[We propose a fine-tuning method that can erase a visual concept from a pre-trained diffusion model, given only the name of the style and using negative guidance as a teacher.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</guid>
-    </item>
-    <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
       <title>DPE: Disentanglement of Pose and Expression for General Video Portrait Editing</title>
       <link>https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</link>
       <description><![CDATA[In this paper, we introduce a novel self-supervised disentanglement framework to decouple pose and expression without 3DMMs and paired data, which consists of a motion editing module, a pose generator, and an expression generator.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</guid>
+    </item>
+    <item>
+      <title>Effectively Modeling Time Series with Simple Discrete State Spaces</title>
+      <link>https://paperswithcode.com/paper/effectively-modeling-time-series-with-simple</link>
+      <description><![CDATA[For expressivity, we propose a new SSM parameterization based on the companion matrix -- a canonical representation for discrete-time processes -- which enables SpaceTime's SSM layers to learn desirable autoregressive processes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/effectively-modeling-time-series-with-simple</guid>
     </item>
     <item>
       <title>Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis</title>
@@ -99,34 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</guid>
     </item>
     <item>
+      <title>Universal Instance Perception as Object Discovery and Retrieval</title>
+      <link>https://paperswithcode.com/paper/universal-instance-perception-as-object</link>
+      <description><![CDATA[All instance perception tasks aim at finding certain objects specified by some queries such as category names, language expressions, and target annotations, but this complete field has been split into multiple independent subtasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/universal-instance-perception-as-object</guid>
+    </item>
+    <item>
+      <title>Erasing Concepts from Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</link>
+      <description><![CDATA[We propose a fine-tuning method that can erase a visual concept from a pre-trained diffusion model, given only the name of the style and using negative guidance as a teacher.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</guid>
+    </item>
+    <item>
+      <title>ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions</title>
+      <link>https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</link>
+      <description><![CDATA[By keeping acquiring new visual information from BLIP-2's answers, ChatCaptioner is able to generate more enriched image descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</guid>
+    </item>
+    <item>
       <title>Eliciting Latent Predictions from Transformers with the Tuned Lens</title>
       <link>https://paperswithcode.com/paper/eliciting-latent-predictions-from</link>
       <description><![CDATA[We analyze transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/eliciting-latent-predictions-from</guid>
     </item>
     <item>
-      <title>DIRE for Diffusion-Generated Image Detection</title>
-      <link>https://paperswithcode.com/paper/dire-for-diffusion-generated-image-detection</link>
-      <description><![CDATA[We find that existing detectors struggle to detect images generated by diffusion models, even if we include generated images from a specific diffusion model in their training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dire-for-diffusion-generated-image-detection</guid>
-    </item>
-    <item>
-      <title>StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces</title>
-      <link>https://paperswithcode.com/paper/styleganex-stylegan-based-manipulation-beyond</link>
-      <description><![CDATA[Recent advances in face manipulation using StyleGAN have produced impressive results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/styleganex-stylegan-based-manipulation-beyond</guid>
-    </item>
-    <item>
-      <title>SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/surroundocc-multi-camera-3d-occupancy</link>
-      <description><![CDATA[Towards a more comprehensive perception of a 3D scene, in this paper, we propose a SurroundOcc method to predict the 3D occupancy with multi-camera images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/surroundocc-multi-camera-3d-occupancy</guid>
-    </item>
-    <item>
       <title>Zero-Shot Information Extraction via Chatting with ChatGPT</title>
       <link>https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</link>
       <description><![CDATA[Zero-shot information extraction (IE) aims to build IE systems from the unannotated text.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</guid>
+    </item>
+    <item>
+      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
+      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
+      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can be used to synthesize novel photorealistic images of the subject contextualized in different scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
+    </item>
+    <item>
+      <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
+      <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
+      <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
     </item>
   </channel>
 </rss>
