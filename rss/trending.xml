@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Mar 2023 21:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 09:12:48 +0000</lastBuildDate>
     <item>
       <title>GPT-4 Technical Report</title>
       <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report-1</guid>
     </item>
     <item>
-      <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
-      <link>https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</link>
-      <description><![CDATA[Here we present $\Phi$-SO, a Physical Symbolic Optimization framework for recovering analytical symbolic expressions from physics data using deep reinforcement learning techniques by learning units constraints.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
-    </item>
-    <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
       <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
       <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+    </item>
+    <item>
+      <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
+      <link>https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</link>
+      <description><![CDATA[Here we present $\Phi$-SO, a Physical Symbolic Optimization framework for recovering analytical symbolic expressions from physics data using deep reinforcement learning techniques by learning units constraints.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
     </item>
     <item>
       <title>FateZero: Fusing Attentions for Zero-shot Text-based Video Editing</title>
@@ -39,16 +39,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
     </item>
     <item>
+      <title>DPE: Disentanglement of Pose and Expression for General Video Portrait Editing</title>
+      <link>https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</link>
+      <description><![CDATA[In this paper, we introduce a novel self-supervised disentanglement framework to decouple pose and expression without 3DMMs and paired data, which consists of a motion editing module, a pose generator, and an expression generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</guid>
+    </item>
+    <item>
+      <title>SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/surroundocc-multi-camera-3d-occupancy</link>
+      <description><![CDATA[Towards a more comprehensive perception of a 3D scene, in this paper, we propose a SurroundOcc method to predict the 3D occupancy with multi-camera images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/surroundocc-multi-camera-3d-occupancy</guid>
+    </item>
+    <item>
       <title>One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale</title>
       <link>https://paperswithcode.com/paper/one-transformer-fits-all-distributions-in</link>
       <description><![CDATA[Inspired by the unified view, UniDiffuser learns all distributions simultaneously with a minimal modification to the original diffusion model -- perturbs data in all modalities instead of a single modality, inputs individual timesteps in different modalities, and predicts the noise of all modalities instead of a single modality.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/one-transformer-fits-all-distributions-in</guid>
-    </item>
-    <item>
-      <title>FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization</title>
-      <link>https://paperswithcode.com/paper/freenerf-improving-few-shot-neural-rendering</link>
-      <description><![CDATA[One is to regularize the frequency range of NeRF's inputs, while the other is to penalize the near-camera density fields.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/freenerf-improving-few-shot-neural-rendering</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
@@ -57,10 +63,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
+      <title>FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization</title>
+      <link>https://paperswithcode.com/paper/freenerf-improving-few-shot-neural-rendering</link>
+      <description><![CDATA[One is to regularize the frequency range of NeRF's inputs, while the other is to penalize the near-camera density fields.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freenerf-improving-few-shot-neural-rendering</guid>
+    </item>
+    <item>
       <title>DiffBEV: Conditional Diffusion Model for Bird's Eye View Perception</title>
       <link>https://paperswithcode.com/paper/diffbev-conditional-diffusion-model-for-bird</link>
       <description><![CDATA[Diffusion models naturally have the ability to denoise noisy samples to the ideal data, which motivates us to utilize the diffusion model to get a better BEV representation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffbev-conditional-diffusion-model-for-bird</guid>
+    </item>
+    <item>
+      <title>FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/freedom-training-free-energy-guided</link>
+      <description><![CDATA[In this work, we propose a training-Free conditional Diffusion Model (FreeDoM) used for various conditions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freedom-training-free-energy-guided</guid>
+    </item>
+    <item>
+      <title>VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation</title>
+      <link>https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</link>
+      <description><![CDATA[A diffusion probabilistic model (DPM), which constructs a forward diffusion process by gradually adding noise to data points and learns the reverse denoising process to generate new samples, has been shown to handle complex data distribution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</guid>
     </item>
     <item>
       <title>BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision</title>
@@ -69,10 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/bevformer-v2-adapting-modern-image-backbones</guid>
     </item>
     <item>
-      <title>DPE: Disentanglement of Pose and Expression for General Video Portrait Editing</title>
-      <link>https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</link>
-      <description><![CDATA[In this paper, we introduce a novel self-supervised disentanglement framework to decouple pose and expression without 3DMMs and paired data, which consists of a motion editing module, a pose generator, and an expression generator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dpe-disentanglement-of-pose-and-expression</guid>
+      <title>ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions</title>
+      <link>https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</link>
+      <description><![CDATA[By keeping acquiring new visual information from BLIP-2's answers, ChatCaptioner is able to generate more enriched image descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</guid>
     </item>
     <item>
       <title>Effectively Modeling Time Series with Simple Discrete State Spaces</title>
@@ -81,10 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/effectively-modeling-time-series-with-simple</guid>
     </item>
     <item>
-      <title>Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis</title>
-      <link>https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</link>
-      <description><![CDATA[We present a Non-parametric Network for 3D point cloud analysis, Point-NN, which consists of purely non-learnable components: farthest point sampling (FPS), k-nearest neighbors (k-NN), and pooling operations, with trigonometric functions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</guid>
+      <title>Eliciting Latent Predictions from Transformers with the Tuned Lens</title>
+      <link>https://paperswithcode.com/paper/eliciting-latent-predictions-from</link>
+      <description><![CDATA[We analyze transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eliciting-latent-predictions-from</guid>
     </item>
     <item>
       <title>Universal Instance Perception as Object Discovery and Retrieval</title>
@@ -93,40 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/universal-instance-perception-as-object</guid>
     </item>
     <item>
-      <title>Erasing Concepts from Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</link>
-      <description><![CDATA[We propose a fine-tuning method that can erase a visual concept from a pre-trained diffusion model, given only the name of the style and using negative guidance as a teacher.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/erasing-concepts-from-diffusion-models</guid>
+      <title>Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis</title>
+      <link>https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</link>
+      <description><![CDATA[We present a Non-parametric Network for 3D point cloud analysis, Point-NN, which consists of purely non-learnable components: farthest point sampling (FPS), k-nearest neighbors (k-NN), and pooling operations, with trigonometric functions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-is-not-all-you-need-starting-from</guid>
     </item>
     <item>
-      <title>ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched Visual Descriptions</title>
-      <link>https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</link>
-      <description><![CDATA[By keeping acquiring new visual information from BLIP-2's answers, ChatCaptioner is able to generate more enriched image descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chatgpt-asks-blip-2-answers-automatic</guid>
-    </item>
-    <item>
-      <title>Eliciting Latent Predictions from Transformers with the Tuned Lens</title>
-      <link>https://paperswithcode.com/paper/eliciting-latent-predictions-from</link>
-      <description><![CDATA[We analyze transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eliciting-latent-predictions-from</guid>
-    </item>
-    <item>
-      <title>Zero-Shot Information Extraction via Chatting with ChatGPT</title>
-      <link>https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</link>
-      <description><![CDATA[Zero-shot information extraction (IE) aims to build IE systems from the unannotated text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-information-extraction-via-chatting</guid>
-    </item>
-    <item>
-      <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</link>
-      <description><![CDATA[Once the subject is embedded in the output domain of the model, the unique identifier can be used to synthesize novel photorealistic images of the subject contextualized in different scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambooth-fine-tuning-text-to-image</guid>
-    </item>
-    <item>
-      <title>Efficient Teacher: Semi-Supervised Object Detection for YOLOv5</title>
-      <link>https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</link>
-      <description><![CDATA[The Pseudo Label Assigner prevents the occurrence of bias caused by a large number of low-quality pseudo labels that may interfere with the Dense Detector during the student-teacher mutual learning mechanism, and the Epoch Adaptor utilizes domain and distribution adaptation to allow Dense Detector to learn globally distributed consistent features, making the training independent of the proportion of labeled data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-teacher-semi-supervised-object</guid>
+      <title>LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale</title>
+      <link>https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</link>
+      <description><![CDATA[We develop a procedure for Int8 matrix multiplication for feed-forward and attention projection layers in transformers, which cut the memory needed for inference by half while retaining full precision performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for</guid>
     </item>
   </channel>
 </rss>
