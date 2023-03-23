@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Mar 2023 09:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2023 21:06:36 +0000</lastBuildDate>
+    <item>
+      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
+      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
+      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
+    </item>
     <item>
       <title>Zero-1-to-3: Zero-shot One Image to 3D Object</title>
       <link>https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</link>
       <description><![CDATA[We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</guid>
+    </item>
+    <item>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
       <title>VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking</title>
@@ -27,10 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-dynamic-multi-scale-voxel-flow-network-for</guid>
     </item>
     <item>
-      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
-      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
-      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
+      <title>VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation</title>
+      <link>https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</link>
+      <description><![CDATA[A diffusion probabilistic model (DPM), which constructs a forward diffusion process by gradually adding noise to data points and learns the reverse denoising process to generate new samples, has been shown to handle complex data distribution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</guid>
+    </item>
+    <item>
+      <title>Learning Context-aware Classifier for Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/learning-context-aware-classifier-for</link>
+      <description><![CDATA[Semantic segmentation is still a challenging task for parsing diverse contexts in different scenes, thus the fixed classifier might not be able to well address varying feature distributions during testing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-context-aware-classifier-for</guid>
     </item>
     <item>
       <title>NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping</title>
@@ -39,16 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-loam-neural-implicit-representation-for</guid>
     </item>
     <item>
-      <title>LLaMA: Open and Efficient Foundation Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
-      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
-    </item>
-    <item>
-      <title>VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation</title>
-      <link>https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</link>
-      <description><![CDATA[A diffusion probabilistic model (DPM), which constructs a forward diffusion process by gradually adding noise to data points and learns the reverse denoising process to generate new samples, has been shown to handle complex data distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</guid>
+      <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
+      <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
+      <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
     </item>
     <item>
       <title>CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition</title>
@@ -57,10 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/clip-goes-3d-leveraging-prompt-tuning-for</guid>
     </item>
     <item>
-      <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
-      <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
-      <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
+      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
+      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
+      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
     </item>
     <item>
       <title>FateZero: Fusing Attentions for Zero-shot Text-based Video Editing</title>
@@ -69,22 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</guid>
     </item>
     <item>
-      <title>Generative Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/generative-semantic-segmentation</link>
-      <description><![CDATA[To that end, the segmentation mask is expressed with a special type of image (dubbed as maskige).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-semantic-segmentation</guid>
-    </item>
-    <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
-    </item>
-    <item>
       <title>Deep symbolic regression for physics guided by units constraints: toward the automated discovery of physical laws</title>
       <link>https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</link>
       <description><![CDATA[Here we present $\Phi$-SO, a Physical Symbolic Optimization framework for recovering analytical symbolic expressions from physics data using deep reinforcement learning techniques by learning units constraints.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-symbolic-regression-for-physics-guided</guid>
+    </item>
+    <item>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
+      <title>GPT Understands, Too</title>
+      <link>https://paperswithcode.com/paper/gpt-understands-too</link>
+      <description><![CDATA[On the SuperGlue benchmark, GPTs achieve comparable and sometimes better performance to similar-sized BERTs in supervised learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-understands-too</guid>
     </item>
     <item>
       <title>GPT-4 Technical Report</title>
@@ -99,34 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-for-camera-calibration-and</guid>
     </item>
     <item>
+      <title>TriAAN-VC: Triple Adaptive Attention Normalization for Any-to-Any Voice Conversion</title>
+      <link>https://paperswithcode.com/paper/triaan-vc-triple-adaptive-attention</link>
+      <description><![CDATA[The existing methods do not simultaneously satisfy the above two aspects of VC, and their conversion outputs suffer from a trade-off problem between maintaining source contents and target characteristics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/triaan-vc-triple-adaptive-attention</guid>
+    </item>
+    <item>
       <title>CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation</title>
       <link>https://paperswithcode.com/paper/cat-seg-cost-aggregation-for-open-vocabulary</link>
       <description><![CDATA[However, the problem of transferring these capabilities learned from image-level supervision to the pixel-level task of segmentation and addressing arbitrary unseen categories at inference makes this task challenging.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cat-seg-cost-aggregation-for-open-vocabulary</guid>
     </item>
     <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
-      <title>Point Transformer V2: Grouped Vector Attention and Partition-based Pooling</title>
-      <link>https://paperswithcode.com/paper/point-transformer-v2-grouped-vector-attention</link>
-      <description><![CDATA[In this work, we analyze the limitations of the Point Transformer and propose our powerful and efficient Point Transformer V2 model with novel designs that overcome the limitations of previous work.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-transformer-v2-grouped-vector-attention</guid>
-    </item>
-    <item>
-      <title>DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing</title>
-      <link>https://paperswithcode.com/paper/debertav3-improving-deberta-using-electra</link>
-      <description><![CDATA[We thus propose a new gradient-disentangled embedding sharing method that avoids the tug-of-war dynamics, improving both training efficiency and the quality of the pre-trained model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/debertav3-improving-deberta-using-electra</guid>
-    </item>
-    <item>
-      <title>SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/surroundocc-multi-camera-3d-occupancy</link>
-      <description><![CDATA[Towards a more comprehensive perception of a 3D scene, in this paper, we propose a SurroundOcc method to predict the 3D occupancy with multi-camera images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/surroundocc-multi-camera-3d-occupancy</guid>
+      <title>Generative Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/generative-semantic-segmentation</link>
+      <description><![CDATA[To that end, the segmentation mask is expressed with a special type of image (dubbed as maskige).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-semantic-segmentation</guid>
     </item>
   </channel>
 </rss>
