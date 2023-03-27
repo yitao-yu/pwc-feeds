@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Mar 2023 21:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2023 09:13:41 +0000</lastBuildDate>
     <item>
       <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
       <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
@@ -21,22 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
     </item>
     <item>
-      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
-      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
-      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
-    </item>
-    <item>
-      <title>Zero-1-to-3: Zero-shot One Image to 3D Object</title>
-      <link>https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</link>
-      <description><![CDATA[We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</guid>
-    </item>
-    <item>
       <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
       <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
       <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+    </item>
+    <item>
+      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
+      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
+      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
     </item>
     <item>
       <title>ReVersion: Diffusion-Based Relation Inversion from Images</title>
@@ -51,22 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
-      <title>VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking</title>
-      <link>https://paperswithcode.com/paper/voxelnext-fully-sparse-voxelnet-for-3d-object-1</link>
-      <description><![CDATA[Our core insight is to predict objects directly based on sparse voxel features, without relying on hand-crafted proxies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/voxelnext-fully-sparse-voxelnet-for-3d-object-1</guid>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
+      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
+      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
+      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
     </item>
     <item>
-      <title>A Dynamic Multi-Scale Voxel Flow Network for Video Prediction</title>
-      <link>https://paperswithcode.com/paper/a-dynamic-multi-scale-voxel-flow-network-for</link>
-      <description><![CDATA[The performance of video prediction has been greatly boosted by advanced deep neural networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-dynamic-multi-scale-voxel-flow-network-for</guid>
+      <title>Zero-1-to-3: Zero-shot One Image to 3D Object</title>
+      <link>https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</link>
+      <description><![CDATA[We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</guid>
     </item>
     <item>
       <title>VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation</title>
@@ -75,10 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</guid>
     </item>
     <item>
-      <title>NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping</title>
-      <link>https://paperswithcode.com/paper/nerf-loam-neural-implicit-representation-for</link>
-      <description><![CDATA[To bridge this gap, in this paper, we propose a novel NeRF-based LiDAR odometry and mapping approach, NeRF-LOAM, consisting of three modules neural odometry, neural mapping, and mesh reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-loam-neural-implicit-representation-for</guid>
+      <title>ADAPT: Action-aware Driving Caption Transformer</title>
+      <link>https://paperswithcode.com/paper/adapt-action-aware-driving-caption</link>
+      <description><![CDATA[To bridge the gap, we propose an end-to-end transformer-based architecture, ADAPT (Action-aware Driving cAPtion Transformer), which provides user-friendly natural language narrations and reasoning for each decision making step of autonomous vehicular control and action.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adapt-action-aware-driving-caption</guid>
     </item>
     <item>
       <title>SHERF: Generalizable Human NeRF from a Single Image</title>
@@ -93,10 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report-1</guid>
     </item>
     <item>
-      <title>FateZero: Fusing Attentions for Zero-shot Text-based Video Editing</title>
-      <link>https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</link>
-      <description><![CDATA[We also have a better zero-shot shape-aware editing ability based on the text-to-video model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fatezero-fusing-attentions-for-zero-shot-text</guid>
+      <title>Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning</title>
+      <link>https://paperswithcode.com/paper/masked-scene-contrast-a-scalable-framework</link>
+      <description><![CDATA[As a pioneering work, PointContrast conducts unsupervised 3D representation learning via leveraging contrastive learning over raw RGB-D frames and proves its effectiveness on various downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-scene-contrast-a-scalable-framework</guid>
     </item>
     <item>
       <title>SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot</title>
@@ -105,28 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/massive-language-models-can-be-accurately</guid>
     </item>
     <item>
+      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
+      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
+      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
+    </item>
+    <item>
+      <title>Wavelet Diffusion Models are fast and scalable Image Generators</title>
+      <link>https://paperswithcode.com/paper/wavelet-diffusion-models-are-fast-and</link>
+      <description><![CDATA[Diffusion models are rising as a powerful solution for high-fidelity image generation, which exceeds GANs in quality in many circumstances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wavelet-diffusion-models-are-fast-and</guid>
+    </item>
+    <item>
+      <title>CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis</title>
+      <link>https://paperswithcode.com/paper/a-conversational-paradigm-for-program</link>
+      <description><![CDATA[To democratize this, we train and release a family of large language models up to 16. 1B parameters, called CODEGEN, on natural language and programming language data, and open source the training library JAXFORMER.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-conversational-paradigm-for-program</guid>
+    </item>
+    <item>
+      <title>Reflexion: an autonomous agent with dynamic memory and self-reflection</title>
+      <link>https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</link>
+      <description><![CDATA[To achieve full automation, we introduce a straightforward yet effective heuristic that enables the agent to pinpoint hallucination instances, avoid repetition in action sequences, and, in some environments, construct an internal memory map of the given environment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</guid>
+    </item>
+    <item>
       <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
       <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
       <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
-    </item>
-    <item>
-      <title>Learning Context-aware Classifier for Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/learning-context-aware-classifier-for</link>
-      <description><![CDATA[Semantic segmentation is still a challenging task for parsing diverse contexts in different scenes, thus the fixed classifier might not be able to well address varying feature distributions during testing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-context-aware-classifier-for</guid>
-    </item>
-    <item>
-      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
-      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
-    </item>
-    <item>
-      <title>CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition</title>
-      <link>https://paperswithcode.com/paper/clip-goes-3d-leveraging-prompt-tuning-for</link>
-      <description><![CDATA[Attempting to train the visual and text encoder to account for this shift results in catastrophic forgetting and a notable decrease in performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clip-goes-3d-leveraging-prompt-tuning-for</guid>
     </item>
   </channel>
 </rss>
