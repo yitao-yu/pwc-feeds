@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Mar 2023 21:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 09:13:19 +0000</lastBuildDate>
     <item>
       <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
       <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
@@ -21,10 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
     </item>
     <item>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
+    </item>
+    <item>
       <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
       <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
       <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+    </item>
+    <item>
+      <title>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</title>
+      <link>https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</link>
+      <description><![CDATA[In this work, we investigate the problem of creating high-fidelity 3D content from only a single image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</guid>
     </item>
     <item>
       <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
@@ -33,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
     </item>
     <item>
-      <title>ReVersion: Diffusion-Based Relation Inversion from Images</title>
-      <link>https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</link>
-      <description><![CDATA[Specifically, we propose a novel relation-steering contrastive learning scheme to impose two critical properties of the relation prompt: 1) The relation prompt should capture the interaction between objects, enforced by the preposition prior.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</guid>
+      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
+      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
+      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
     </item>
     <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
@@ -45,28 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
-      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
-      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
-    </item>
-    <item>
-      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
-      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
-      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
-    </item>
-    <item>
-      <title>Zero-1-to-3: Zero-shot One Image to 3D Object</title>
-      <link>https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</link>
-      <description><![CDATA[We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</guid>
-    </item>
-    <item>
-      <title>VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation</title>
-      <link>https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</link>
-      <description><![CDATA[A diffusion probabilistic model (DPM), which constructs a forward diffusion process by gradually adding noise to data points and learns the reverse denoising process to generate new samples, has been shown to handle complex data distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality</guid>
+      <title>ReVersion: Diffusion-Based Relation Inversion from Images</title>
+      <link>https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</link>
+      <description><![CDATA[Specifically, we propose a novel relation-steering contrastive learning scheme to impose two critical properties of the relation prompt: 1) The relation prompt should capture the interaction between objects, enforced by the preposition prior.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</guid>
     </item>
     <item>
       <title>ADAPT: Action-aware Driving Caption Transformer</title>
@@ -75,46 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adapt-action-aware-driving-caption</guid>
     </item>
     <item>
-      <title>SHERF: Generalizable Human NeRF from a Single Image</title>
-      <link>https://paperswithcode.com/paper/sherf-generalizable-human-nerf-from-a-single</link>
-      <description><![CDATA[To this end, we propose a bank of 3D-aware hierarchical features, including global, point-level, and pixel-aligned features, to facilitate informative encoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sherf-generalizable-human-nerf-from-a-single</guid>
-    </item>
-    <item>
-      <title>GPT-4 Technical Report</title>
-      <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
-      <description><![CDATA[We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report-1</guid>
-    </item>
-    <item>
-      <title>Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning</title>
-      <link>https://paperswithcode.com/paper/masked-scene-contrast-a-scalable-framework</link>
-      <description><![CDATA[As a pioneering work, PointContrast conducts unsupervised 3D representation learning via leveraging contrastive learning over raw RGB-D frames and proves its effectiveness on various downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masked-scene-contrast-a-scalable-framework</guid>
-    </item>
-    <item>
-      <title>SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot</title>
-      <link>https://paperswithcode.com/paper/massive-language-models-can-be-accurately</link>
-      <description><![CDATA[We show for the first time that large-scale generative pretrained transformer (GPT) family models can be pruned to at least 50% sparsity in one-shot, without any retraining, at minimal loss of accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/massive-language-models-can-be-accurately</guid>
-    </item>
-    <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
-    </item>
-    <item>
-      <title>Wavelet Diffusion Models are fast and scalable Image Generators</title>
-      <link>https://paperswithcode.com/paper/wavelet-diffusion-models-are-fast-and</link>
-      <description><![CDATA[Diffusion models are rising as a powerful solution for high-fidelity image generation, which exceeds GANs in quality in many circumstances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wavelet-diffusion-models-are-fast-and</guid>
-    </item>
-    <item>
-      <title>CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis</title>
-      <link>https://paperswithcode.com/paper/a-conversational-paradigm-for-program</link>
-      <description><![CDATA[To democratize this, we train and release a family of large language models up to 16. 1B parameters, called CODEGEN, on natural language and programming language data, and open source the training library JAXFORMER.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-conversational-paradigm-for-program</guid>
+      <title>Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation</title>
+      <link>https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</link>
+      <description><![CDATA[Key to Fantasia3D is the disentangled modeling and learning of geometry and appearance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</guid>
     </item>
     <item>
       <title>Reflexion: an autonomous agent with dynamic memory and self-reflection</title>
@@ -123,10 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</guid>
     </item>
     <item>
-      <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
-      <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
-      <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
+      <title>Zero-1-to-3: Zero-shot One Image to 3D Object</title>
+      <link>https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</link>
+      <description><![CDATA[We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</guid>
+    </item>
+    <item>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
+      <title>Conditional Image-to-Video Generation with Latent Flow Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/conditional-image-to-video-generation-with</link>
+      <description><![CDATA[In this paper, we propose an approach for cI2V using novel latent flow diffusion models (LFDM) that synthesize an optical flow sequence in the latent space based on the given condition to warp the given image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/conditional-image-to-video-generation-with</guid>
+    </item>
+    <item>
+      <title>Data-centric Artificial Intelligence: A Survey</title>
+      <link>https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</link>
+      <description><![CDATA[Artificial Intelligence (AI) is making a profound impact in almost every domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</guid>
+    </item>
+    <item>
+      <title>GPT-4 Technical Report</title>
+      <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
+      <description><![CDATA[We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report-1</guid>
+    </item>
+    <item>
+      <title>ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge</title>
+      <link>https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</link>
+      <description><![CDATA[Recent large language models (LLMs) in the general domain, such as ChatGPT, have shown remarkable success in following instructions and producing human-like responses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</guid>
+    </item>
+    <item>
+      <title>Anomaly Segmentation for High-Resolution Remote Sensing Images Based on Pixel Descriptors</title>
+      <link>https://paperswithcode.com/paper/anomaly-segmentation-for-high-resolution</link>
+      <description><![CDATA[Anomaly segmentation in high spatial resolution (HSR) remote sensing imagery is aimed at segmenting anomaly patterns of the earth deviating from normal patterns, which plays an important role in various Earth vision applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/anomaly-segmentation-for-high-resolution</guid>
+    </item>
+    <item>
+      <title>SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot</title>
+      <link>https://paperswithcode.com/paper/massive-language-models-can-be-accurately</link>
+      <description><![CDATA[We show for the first time that large-scale generative pretrained transformer (GPT) family models can be pruned to at least 50% sparsity in one-shot, without any retraining, at minimal loss of accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/massive-language-models-can-be-accurately</guid>
     </item>
   </channel>
 </rss>
