@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Mar 2023 21:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2023 09:13:06 +0000</lastBuildDate>
     <item>
-      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
-      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
+      <title>ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge</title>
+      <link>https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</link>
+      <description><![CDATA[Recent large language models (LLMs) in the general domain, such as ChatGPT, have shown remarkable success in following instructions and producing human-like responses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</guid>
+    </item>
+    <item>
+      <title>PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters</title>
+      <link>https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</link>
+      <description><![CDATA[We propose PAniC-3D, a system to reconstruct stylized 3D character heads directly from illustrated (p)ortraits of (ani)me (c)haracters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</guid>
     </item>
     <item>
       <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title>
@@ -21,28 +27,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
     </item>
     <item>
-      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
-      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
-    </item>
-    <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
-    </item>
-    <item>
       <title>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</title>
       <link>https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</link>
       <description><![CDATA[In this work, we investigate the problem of creating high-fidelity 3D content from only a single image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</guid>
     </item>
     <item>
-      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
-      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
-      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
+    </item>
+    <item>
+      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
+      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
+    </item>
+    <item>
+      <title>Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation</title>
+      <link>https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</link>
+      <description><![CDATA[Key to Fantasia3D is the disentangled modeling and learning of geometry and appearance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</guid>
+    </item>
+    <item>
+      <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
+      <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
+      <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
+    </item>
+    <item>
+      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
+      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
     </item>
     <item>
       <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
@@ -57,22 +75,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
+      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
+      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
+      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
+    </item>
+    <item>
+      <title>SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications</title>
+      <link>https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</link>
+      <description><![CDATA[Using our proposed efficient additive attention, we build a series of models called "SwiftFormer" which achieves state-of-the-art performance in terms of both accuracy and mobile inference speed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</guid>
+    </item>
+    <item>
+      <title>Equivariant Similarity for Vision-Language Foundation Models</title>
+      <link>https://paperswithcode.com/paper/equivariant-similarity-for-vision-language</link>
+      <description><![CDATA[Unlike the existing image-text similarity objective which only categorizes matched pairs as similar and unmatched pairs as dissimilar, equivariance also requires similarity to vary faithfully according to the semantic changes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/equivariant-similarity-for-vision-language</guid>
+    </item>
+    <item>
       <title>ReVersion: Diffusion-Based Relation Inversion from Images</title>
       <link>https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</link>
       <description><![CDATA[Specifically, we propose a novel relation-steering contrastive learning scheme to impose two critical properties of the relation prompt: 1) The relation prompt should capture the interaction between objects, enforced by the preposition prior.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</guid>
-    </item>
-    <item>
-      <title>ADAPT: Action-aware Driving Caption Transformer</title>
-      <link>https://paperswithcode.com/paper/adapt-action-aware-driving-caption</link>
-      <description><![CDATA[To bridge the gap, we propose an end-to-end transformer-based architecture, ADAPT (Action-aware Driving cAPtion Transformer), which provides user-friendly natural language narrations and reasoning for each decision making step of autonomous vehicular control and action.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adapt-action-aware-driving-caption</guid>
-    </item>
-    <item>
-      <title>Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation</title>
-      <link>https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</link>
-      <description><![CDATA[Key to Fantasia3D is the disentangled modeling and learning of geometry and appearance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</guid>
     </item>
     <item>
       <title>Reflexion: an autonomous agent with dynamic memory and self-reflection</title>
@@ -81,22 +105,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</guid>
     </item>
     <item>
-      <title>Zero-1-to-3: Zero-shot One Image to 3D Object</title>
-      <link>https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</link>
-      <description><![CDATA[We introduce Zero-1-to-3, a framework for changing the camera viewpoint of an object given just a single RGB image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-1-to-3-zero-shot-one-image-to-3d-object</guid>
+      <title>ADAPT: Action-aware Driving Caption Transformer</title>
+      <link>https://paperswithcode.com/paper/adapt-action-aware-driving-caption</link>
+      <description><![CDATA[To bridge the gap, we propose an end-to-end transformer-based architecture, ADAPT (Action-aware Driving cAPtion Transformer), which provides user-friendly natural language narrations and reasoning for each decision making step of autonomous vehicular control and action.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adapt-action-aware-driving-caption</guid>
     </item>
     <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
-      <title>Conditional Image-to-Video Generation with Latent Flow Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/conditional-image-to-video-generation-with</link>
-      <description><![CDATA[In this paper, we propose an approach for cI2V using novel latent flow diffusion models (LFDM) that synthesize an optical flow sequence in the latent space based on the given condition to warp the given image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/conditional-image-to-video-generation-with</guid>
+      <title>Ref-NPR: Reference-Based Non-Photorealistic Radiance Fields for Controllable Scene Stylization</title>
+      <link>https://paperswithcode.com/paper/ref-npr-reference-based-non-photorealistic</link>
+      <description><![CDATA[We propose a ray registration process based on the stylized reference view to obtain pseudo-ray supervision in novel views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ref-npr-reference-based-non-photorealistic</guid>
     </item>
     <item>
       <title>Data-centric Artificial Intelligence: A Survey</title>
@@ -105,28 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</guid>
     </item>
     <item>
-      <title>GPT-4 Technical Report</title>
-      <link>https://paperswithcode.com/paper/gpt-4-technical-report-1</link>
-      <description><![CDATA[We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-technical-report-1</guid>
-    </item>
-    <item>
-      <title>ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge</title>
-      <link>https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</link>
-      <description><![CDATA[Recent large language models (LLMs) in the general domain, such as ChatGPT, have shown remarkable success in following instructions and producing human-like responses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</guid>
-    </item>
-    <item>
-      <title>Anomaly Segmentation for High-Resolution Remote Sensing Images Based on Pixel Descriptors</title>
-      <link>https://paperswithcode.com/paper/anomaly-segmentation-for-high-resolution</link>
-      <description><![CDATA[Anomaly segmentation in high spatial resolution (HSR) remote sensing imagery is aimed at segmenting anomaly patterns of the earth deviating from normal patterns, which plays an important role in various Earth vision applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anomaly-segmentation-for-high-resolution</guid>
-    </item>
-    <item>
-      <title>SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot</title>
-      <link>https://paperswithcode.com/paper/massive-language-models-can-be-accurately</link>
-      <description><![CDATA[We show for the first time that large-scale generative pretrained transformer (GPT) family models can be pruned to at least 50% sparsity in one-shot, without any retraining, at minimal loss of accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/massive-language-models-can-be-accurately</guid>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
   </channel>
 </rss>
