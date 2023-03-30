@@ -7,7 +7,19 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Mar 2023 21:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2023 09:14:02 +0000</lastBuildDate>
+    <item>
+      <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title>
+      <link>https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</link>
+      <description><![CDATA[Recent text-to-video generation approaches rely on computationally heavy training and require large-scale video datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
+    </item>
+    <item>
+      <title>LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</title>
+      <link>https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</link>
+      <description><![CDATA[We present LLaMA-Adapter, a lightweight adaption method to efficiently fine-tune LLaMA into an instruction-following model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</guid>
+    </item>
     <item>
       <title>ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge</title>
       <link>https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</link>
@@ -21,22 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</guid>
     </item>
     <item>
-      <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title>
-      <link>https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</link>
-      <description><![CDATA[Recent text-to-video generation approaches rely on computationally heavy training and require large-scale video datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
+    </item>
+    <item>
+      <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
+      <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
+      <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
     </item>
     <item>
       <title>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</title>
       <link>https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</link>
       <description><![CDATA[In this work, we investigate the problem of creating high-fidelity 3D content from only a single image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</guid>
-    </item>
-    <item>
-      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
-      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
       <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
@@ -51,40 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</guid>
     </item>
     <item>
-      <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
-      <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
-      <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
-    </item>
-    <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
-    </item>
-    <item>
-      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
-      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
-      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
-    </item>
-    <item>
-      <title>LLaMA: Open and Efficient Foundation Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
-      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
-    </item>
-    <item>
-      <title>Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models</title>
-      <link>https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</link>
-      <description><![CDATA[We present Text2Room, a method for generating room-scale textured 3D meshes from a given text prompt as input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2room-extracting-textured-3d-meshes-from</guid>
-    </item>
-    <item>
-      <title>SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications</title>
-      <link>https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</link>
-      <description><![CDATA[Using our proposed efficient additive attention, we build a series of models called "SwiftFormer" which achieves state-of-the-art performance in terms of both accuracy and mobile inference speed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</guid>
+      <title>P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks</title>
+      <link>https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</link>
+      <description><![CDATA[Prompt tuning, which only tunes continuous prompts with a frozen language model, substantially reduces per-task storage and memory usage at training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</guid>
     </item>
     <item>
       <title>Equivariant Similarity for Vision-Language Foundation Models</title>
@@ -93,10 +75,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/equivariant-similarity-for-vision-language</guid>
     </item>
     <item>
-      <title>ReVersion: Diffusion-Based Relation Inversion from Images</title>
-      <link>https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</link>
-      <description><![CDATA[Specifically, we propose a novel relation-steering contrastive learning scheme to impose two critical properties of the relation prompt: 1) The relation prompt should capture the interaction between objects, enforced by the preposition prior.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reversion-diffusion-based-relation-inversion</guid>
+      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
+      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
+      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
+    </item>
+    <item>
+      <title>MGTBench: Benchmarking Machine-Generated Text Detection</title>
+      <link>https://paperswithcode.com/paper/mgtbench-benchmarking-machine-generated-text</link>
+      <description><![CDATA[Nonetheless, we note that only a small fraction of adversarial-crafted perturbations on MGTs can evade the ChatGPT Detector, thus highlighting the need for more robust MGT detection methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mgtbench-benchmarking-machine-generated-text</guid>
+    </item>
+    <item>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+    </item>
+    <item>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+    </item>
+    <item>
+      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
+      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
+      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+    </item>
+    <item>
+      <title>SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications</title>
+      <link>https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</link>
+      <description><![CDATA[Using our proposed efficient additive attention, we build a series of models called "SwiftFormer" which achieves state-of-the-art performance in terms of both accuracy and mobile inference speed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</guid>
     </item>
     <item>
       <title>Reflexion: an autonomous agent with dynamic memory and self-reflection</title>
@@ -105,22 +117,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</guid>
     </item>
     <item>
-      <title>ADAPT: Action-aware Driving Caption Transformer</title>
-      <link>https://paperswithcode.com/paper/adapt-action-aware-driving-caption</link>
-      <description><![CDATA[To bridge the gap, we propose an end-to-end transformer-based architecture, ADAPT (Action-aware Driving cAPtion Transformer), which provides user-friendly natural language narrations and reasoning for each decision making step of autonomous vehicular control and action.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adapt-action-aware-driving-caption</guid>
-    </item>
-    <item>
-      <title>Ref-NPR: Reference-Based Non-Photorealistic Radiance Fields for Controllable Scene Stylization</title>
-      <link>https://paperswithcode.com/paper/ref-npr-reference-based-non-photorealistic</link>
-      <description><![CDATA[We propose a ray registration process based on the stylized reference view to obtain pseudo-ray supervision in novel views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ref-npr-reference-based-non-photorealistic</guid>
-    </item>
-    <item>
-      <title>Data-centric Artificial Intelligence: A Survey</title>
-      <link>https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</link>
-      <description><![CDATA[Artificial Intelligence (AI) is making a profound impact in almost every domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</guid>
+      <title>Your Diffusion Model is Secretly a Zero-Shot Classifier</title>
+      <link>https://paperswithcode.com/paper/your-diffusion-model-is-secretly-a-zero-shot</link>
+      <description><![CDATA[Finally, we use Diffusion Classifier to extract standard classifiers from class-conditional diffusion models trained on ImageNet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/your-diffusion-model-is-secretly-a-zero-shot</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
