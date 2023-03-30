@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Mar 2023 09:14:02 +0000</lastBuildDate>
-    <item>
-      <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title>
-      <link>https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</link>
-      <description><![CDATA[Recent text-to-video generation approaches rely on computationally heavy training and require large-scale video datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Mar 2023 21:06:27 +0000</lastBuildDate>
     <item>
       <title>LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</title>
       <link>https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</link>
@@ -27,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</guid>
     </item>
     <item>
-      <title>PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters</title>
-      <link>https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</link>
-      <description><![CDATA[We propose PAniC-3D, a system to reconstruct stylized 3D character heads directly from illustrated (p)ortraits of (ani)me (c)haracters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</guid>
+      <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title>
+      <link>https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</link>
+      <description><![CDATA[Recent text-to-video generation approaches rely on computationally heavy training and require large-scale video datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
     </item>
     <item>
       <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
@@ -39,10 +33,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
+      <title>PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters</title>
+      <link>https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</link>
+      <description><![CDATA[We propose PAniC-3D, a system to reconstruct stylized 3D character heads directly from illustrated (p)ortraits of (ani)me (c)haracters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</guid>
+    </item>
+    <item>
+      <title>P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks</title>
+      <link>https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</link>
+      <description><![CDATA[Prompt tuning, which only tunes continuous prompts with a frozen language model, substantially reduces per-task storage and memory usage at training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</guid>
+    </item>
+    <item>
       <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
       <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
       <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
+    </item>
+    <item>
+      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
+      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
+      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
     </item>
     <item>
       <title>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</title>
@@ -63,28 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fantasia3d-disentangling-geometry-and</guid>
     </item>
     <item>
-      <title>P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks</title>
-      <link>https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</link>
-      <description><![CDATA[Prompt tuning, which only tunes continuous prompts with a frozen language model, substantially reduces per-task storage and memory usage at training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</guid>
-    </item>
-    <item>
       <title>Equivariant Similarity for Vision-Language Foundation Models</title>
       <link>https://paperswithcode.com/paper/equivariant-similarity-for-vision-language</link>
       <description><![CDATA[Unlike the existing image-text similarity objective which only categorizes matched pairs as similar and unmatched pairs as dissimilar, equivariance also requires similarity to vary faithfully according to the semantic changes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/equivariant-similarity-for-vision-language</guid>
-    </item>
-    <item>
-      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
-      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
-      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
-    </item>
-    <item>
-      <title>MGTBench: Benchmarking Machine-Generated Text Detection</title>
-      <link>https://paperswithcode.com/paper/mgtbench-benchmarking-machine-generated-text</link>
-      <description><![CDATA[Nonetheless, we note that only a small fraction of adversarial-crafted perturbations on MGTs can evade the ChatGPT Detector, thus highlighting the need for more robust MGT detection methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mgtbench-benchmarking-machine-generated-text</guid>
     </item>
     <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
@@ -93,28 +87,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
-      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
-      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
-      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+      <title>More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models</title>
+      <link>https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</link>
+      <description><![CDATA[In such attacks, an adversary can prompt the LLM to produce malicious content or override the original instructions and the employed filtering schemes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/more-than-you-ve-asked-for-a-comprehensive</guid>
     </item>
     <item>
-      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
-      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
-      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+      <title>Training language models to follow instructions with human feedback</title>
+      <link>https://paperswithcode.com/paper/training-language-models-to-follow</link>
+      <description><![CDATA[In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-language-models-to-follow</guid>
     </item>
     <item>
-      <title>SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications</title>
-      <link>https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</link>
-      <description><![CDATA[Using our proposed efficient additive attention, we build a series of models called "SwiftFormer" which achieves state-of-the-art performance in terms of both accuracy and mobile inference speed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/swiftformer-efficient-additive-attention-for</guid>
-    </item>
-    <item>
-      <title>Reflexion: an autonomous agent with dynamic memory and self-reflection</title>
-      <link>https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</link>
-      <description><![CDATA[To achieve full automation, we introduce a straightforward yet effective heuristic that enables the agent to pinpoint hallucination instances, avoid repetition in action sequences, and, in some environments, construct an internal memory map of the given environment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</guid>
+      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
+      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
+      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
     </item>
     <item>
       <title>Your Diffusion Model is Secretly a Zero-Shot Classifier</title>
@@ -123,10 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/your-diffusion-model-is-secretly-a-zero-shot</guid>
     </item>
     <item>
+      <title>Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation</title>
+      <link>https://paperswithcode.com/paper/let-2d-diffusion-model-know-3d-consistency</link>
+      <description><![CDATA[Text-to-3D generation has shown rapid progress in recent days with the advent of score distillation, a methodology of using pretrained text-to-2D diffusion models to optimize neural radiance field (NeRF) in the zero-shot setting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/let-2d-diffusion-model-know-3d-consistency</guid>
+    </item>
+    <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
       <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
       <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
+      <title>Reflexion: an autonomous agent with dynamic memory and self-reflection</title>
+      <link>https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</link>
+      <description><![CDATA[To achieve full automation, we introduce a straightforward yet effective heuristic that enables the agent to pinpoint hallucination instances, avoid repetition in action sequences, and, in some environments, construct an internal memory map of the given environment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reflexion-an-autonomous-agent-with-dynamic</guid>
     </item>
   </channel>
 </rss>
