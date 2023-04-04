@@ -7,11 +7,11 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 21:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2023 09:12:21 +0000</lastBuildDate>
     <item>
       <title>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</title>
       <link>https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and</link>
-      <description><![CDATA[Solving complicated AI tasks with different domains and modalities is a key step toward artificial general intelligence (AGI).]]></description>
+      <description><![CDATA[Solving complicated AI tasks with different domains and modalities is a key step toward advanced artificial intelligence.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and</guid>
     </item>
     <item>
@@ -27,22 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</guid>
     </item>
     <item>
+      <title>A Survey of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-of-large-language-models</link>
+      <description><![CDATA[To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
+    </item>
+    <item>
       <title>Token Merging for Fast Stable Diffusion</title>
       <link>https://paperswithcode.com/paper/token-merging-for-fast-stable-diffusion</link>
       <description><![CDATA[In the process, we speed up image generation by up to 2x and reduce memory consumption by up to 5. 6x.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-for-fast-stable-diffusion</guid>
-    </item>
-    <item>
-      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
-      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
-      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
-    </item>
-    <item>
-      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
-      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
       <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title>
@@ -51,10 +45,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2video-zero-text-to-image-diffusion</guid>
     </item>
     <item>
+      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
+      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
+      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+    </item>
+    <item>
+      <title>CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society</title>
+      <link>https://paperswithcode.com/paper/camel-communicative-agents-for-mind</link>
+      <description><![CDATA[To address the challenges of achieving autonomous cooperation, we propose a novel communicative agent framework named role-playing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/camel-communicative-agents-for-mind</guid>
+    </item>
+    <item>
       <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
       <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
       <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
+    </item>
+    <item>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+    </item>
+    <item>
+      <title>Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</link>
+      <description><![CDATA[To replicate the success of text-to-image (T2I) generation, recent works employ large-scale video datasets to train a text-to-video (T2V) generator.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image</guid>
     </item>
     <item>
       <title>3D Line Mapping Revisited</title>
@@ -69,34 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</guid>
     </item>
     <item>
-      <title>LLaMA: Open and Efficient Foundation Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
-      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
-    </item>
-    <item>
-      <title>PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters</title>
-      <link>https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</link>
-      <description><![CDATA[We propose PAniC-3D, a system to reconstruct stylized 3D character heads directly from illustrated (p)ortraits of (ani)me (c)haracters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/panic-3d-stylized-single-view-3d</guid>
-    </item>
-    <item>
-      <title>Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/zero-shot-video-editing-using-off-the-shelf</link>
-      <description><![CDATA[Our vid2vid-zero leverages off-the-shelf image diffusion models, and doesn't require training on any video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-video-editing-using-off-the-shelf</guid>
-    </item>
-    <item>
       <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
       <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
       <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
-    </item>
-    <item>
-      <title>PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/pair-diffusion-object-level-image-editing</link>
-      <description><![CDATA[Nevertheless, most of them lack fine-grained control over the properties of the different objects present in the image, i. e. object-level image editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pair-diffusion-object-level-image-editing</guid>
     </item>
     <item>
       <title>NeRF-Supervised Deep Stereo</title>
@@ -105,22 +99,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/nerf-supervised-deep-stereo</guid>
     </item>
     <item>
-      <title>WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research</title>
-      <link>https://paperswithcode.com/paper/wavcaps-a-chatgpt-assisted-weakly-labelled</link>
-      <description><![CDATA[To address this data scarcity issue, we introduce WavCaps, the first large-scale weakly-labelled audio captioning dataset, comprising approximately 400k audio clips with paired captions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wavcaps-a-chatgpt-assisted-weakly-labelled</guid>
+      <title>SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</link>
+      <description><![CDATA[We propose SmoothQuant, a training-free, accuracy-preserving, and general-purpose post-training quantization (PTQ) solution to enable 8-bit weight, 8-bit activation (W8A8) quantization for LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smoothquant-accurate-and-efficient-post</guid>
     </item>
     <item>
-      <title>Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior</title>
-      <link>https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</link>
-      <description><![CDATA[In this work, we investigate the problem of creating high-fidelity 3D content from only a single image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/make-it-3d-high-fidelity-3d-creation-from-a</guid>
+      <title>Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/zero-shot-video-editing-using-off-the-shelf</link>
+      <description><![CDATA[Our vid2vid-zero leverages off-the-shelf image diffusion models, and doesn't require training on any video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-video-editing-using-off-the-shelf</guid>
     </item>
     <item>
       <title>Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation</title>
       <link>https://paperswithcode.com/paper/let-2d-diffusion-model-know-3d-consistency</link>
       <description><![CDATA[Text-to-3D generation has shown rapid progress in recent days with the advent of score distillation, a methodology of using pretrained text-to-2D diffusion models to optimize neural radiance field (NeRF) in the zero-shot setting.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/let-2d-diffusion-model-know-3d-consistency</guid>
+    </item>
+    <item>
+      <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
+      <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
+      <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</guid>
     </item>
     <item>
       <title>Ten Quick Tips for Harnessing the Power of ChatGPT/GPT-4 in Computational Biology</title>
