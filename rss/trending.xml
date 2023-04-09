@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Apr 2023 21:05:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2023 09:10:39 +0000</lastBuildDate>
     <item>
       <title>Segment Anything</title>
       <link>https://paperswithcode.com/paper/segment-anything</link>
@@ -33,6 +33,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llm-adapters-an-adapter-family-for-parameter</guid>
     </item>
     <item>
+      <title>SegGPT: Segmenting Everything In Context</title>
+      <link>https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</link>
+      <description><![CDATA[We unify various segmentation tasks into a generalist in-context learning framework that accommodates different kinds of segmentation data by transforming them into the same format of images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</guid>
+    </item>
+    <item>
       <title>Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos</title>
       <link>https://paperswithcode.com/paper/follow-your-pose-pose-guided-text-to-video</link>
       <description><![CDATA[Generating text-editable and pose-controllable character videos have an imperious demand in creating various digital human.]]></description>
@@ -49,18 +55,6 @@
       <link>https://paperswithcode.com/paper/banditpam-almost-linear-time-k-medoids</link>
       <description><![CDATA[In these experiments, we observe that BanditPAM returns the same results as state-of-the-art PAM-like algorithms up to 4x faster while performing up to 200x fewer distance computations.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/banditpam-almost-linear-time-k-medoids</guid>
-    </item>
-    <item>
-      <title>SegGPT: Segmenting Everything In Context</title>
-      <link>https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</link>
-      <description><![CDATA[We unify various segmentation tasks into a generalist in-context learning framework that accommodates different kinds of segmentation data by transforming them into the same format of images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</guid>
-    </item>
-    <item>
-      <title>GlueStick: Robust Image Matching by Sticking Points and Lines Together</title>
-      <link>https://paperswithcode.com/paper/gluestick-robust-image-matching-by-sticking</link>
-      <description><![CDATA[Line segments are powerful features complementary to points.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gluestick-robust-image-matching-by-sticking</guid>
     </item>
     <item>
       <title>ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge</title>
@@ -81,22 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
     </item>
     <item>
-      <title>A Survey of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-of-large-language-models</link>
-      <description><![CDATA[To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
-    </item>
-    <item>
       <title>P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks</title>
       <link>https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</link>
       <description><![CDATA[Prompt tuning, which only tunes continuous prompts with a frozen language model, substantially reduces per-task storage and memory usage at training.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</guid>
     </item>
     <item>
-      <title>LLaMA: Open and Efficient Foundation Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
-      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
+      <title>A Survey of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-of-large-language-models</link>
+      <description><![CDATA[To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
+    </item>
+    <item>
+      <title>GlueStick: Robust Image Matching by Sticking Points and Lines Together</title>
+      <link>https://paperswithcode.com/paper/gluestick-robust-image-matching-by-sticking</link>
+      <description><![CDATA[Line segments are powerful features complementary to points.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gluestick-robust-image-matching-by-sticking</guid>
     </item>
     <item>
       <title>Beyond Appearance: a Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks</title>
@@ -105,10 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-appearance-a-semantic-controllable</guid>
     </item>
     <item>
-      <title>LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</title>
-      <link>https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</link>
-      <description><![CDATA[We present LLaMA-Adapter, a lightweight adaption method to efficiently fine-tune LLaMA into an instruction-following model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</guid>
+      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
+      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
+      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
+    </item>
+    <item>
+      <title>LLaMA: Open and Efficient Foundation Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</link>
+      <description><![CDATA[We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
       <title>Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pythia-a-suite-for-analyzing-large-language</guid>
     </item>
     <item>
-      <title>Token Merging for Fast Stable Diffusion</title>
-      <link>https://paperswithcode.com/paper/token-merging-for-fast-stable-diffusion</link>
-      <description><![CDATA[In the process, we speed up image generation by up to 2x and reduce memory consumption by up to 5. 6x.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/token-merging-for-fast-stable-diffusion</guid>
+      <title>GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers</title>
+      <link>https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</link>
+      <description><![CDATA[In this paper, we address this challenge, and propose GPTQ, a new one-shot weight quantization method based on approximate second-order information, that is both highly-accurate and highly-efficient.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</guid>
     </item>
     <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
+      <title>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection</title>
+      <link>https://paperswithcode.com/paper/grounding-dino-marrying-dino-with-grounded</link>
+      <description><![CDATA[To effectively fuse language and vision modalities, we conceptually divide a closed-set detector into three phases and propose a tight fusion solution, which includes a feature enhancer, a language-guided query selection, and a cross-modality decoder for cross-modality fusion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grounding-dino-marrying-dino-with-grounded</guid>
     </item>
   </channel>
 </rss>
