@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Apr 2023 21:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2023 09:12:11 +0000</lastBuildDate>
     <item>
       <title>Segment Anything</title>
       <link>https://paperswithcode.com/paper/segment-anything</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything</guid>
     </item>
     <item>
+      <title>OpenAGI: When LLM Meets Domain Experts</title>
+      <link>https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</link>
+      <description><![CDATA[Thus, the LLM is responsible for synthesizing various external models for solving complex tasks, while RLTF provides feedback to improve its task-solving ability, enabling a feedback loop for self-improving AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</guid>
+    </item>
+    <item>
       <title>Instruction Tuning with GPT-4</title>
       <link>https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</link>
       <description><![CDATA[Prior work has shown that finetuning large language models (LLMs) using machine-generated instruction-following data enables such models to achieve remarkable zero-shot capabilities on new tasks, and no human-written instructions are needed.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</guid>
-    </item>
-    <item>
-      <title>SegGPT: Segmenting Everything In Context</title>
-      <link>https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</link>
-      <description><![CDATA[We unify various segmentation tasks into a generalist in-context learning framework that accommodates different kinds of segmentation data by transforming them into the same format of images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</guid>
     </item>
     <item>
       <title>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</title>
@@ -39,34 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/baize-an-open-source-chat-model-with</guid>
     </item>
     <item>
+      <title>SegGPT: Segmenting Everything In Context</title>
+      <link>https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</link>
+      <description><![CDATA[We unify various segmentation tasks into a generalist in-context learning framework that accommodates different kinds of segmentation data by transforming them into the same format of images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</guid>
+    </item>
+    <item>
+      <title>Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</title>
+      <link>https://paperswithcode.com/paper/prompt-pre-training-with-twenty-thousand</link>
+      <description><![CDATA[This work proposes POMP, a prompt pre-training method for vision-language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-pre-training-with-twenty-thousand</guid>
+    </item>
+    <item>
       <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
       <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
       <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
     </item>
     <item>
-      <title>ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge</title>
-      <link>https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</link>
-      <description><![CDATA[Recent large language models (LLMs) in the general domain, such as ChatGPT, have shown remarkable success in following instructions and producing human-like responses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chatdoctor-a-medical-chat-model-fine-tuned-on</guid>
-    </item>
-    <item>
-      <title>DiffMimic: Efficient Motion Mimicking with Differentiable Physics</title>
-      <link>https://paperswithcode.com/paper/diffmimic-efficient-motion-mimicking-with</link>
-      <description><![CDATA[Motion mimicking is a foundational task in physics-based character animation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffmimic-efficient-motion-mimicking-with</guid>
-    </item>
-    <item>
       <title>GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers</title>
       <link>https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</link>
       <description><![CDATA[In this paper, we address this challenge, and propose GPTQ, a new one-shot weight quantization method based on approximate second-order information, that is both highly-accurate and highly-efficient.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</guid>
-    </item>
-    <item>
-      <title>Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos</title>
-      <link>https://paperswithcode.com/paper/follow-your-pose-pose-guided-text-to-video</link>
-      <description><![CDATA[Generating text-editable and pose-controllable character videos have an imperious demand in creating various digital human.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/follow-your-pose-pose-guided-text-to-video</guid>
     </item>
     <item>
       <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
@@ -81,10 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
     </item>
     <item>
-      <title>BanditPAM: Almost Linear Time k-Medoids Clustering via Multi-Armed Bandits</title>
-      <link>https://paperswithcode.com/paper/banditpam-almost-linear-time-k-medoids</link>
-      <description><![CDATA[In these experiments, we observe that BanditPAM returns the same results as state-of-the-art PAM-like algorithms up to 4x faster while performing up to 200x fewer distance computations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/banditpam-almost-linear-time-k-medoids</guid>
+      <title>Detection Transformer with Stable Matching</title>
+      <link>https://paperswithcode.com/paper/detection-transformer-with-stable-matching</link>
+      <description><![CDATA[We point out that the unstable matching in DETR is caused by a multi-optimization path problem, which is highlighted by the one-to-one matching design in DETR.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detection-transformer-with-stable-matching</guid>
     </item>
     <item>
       <title>P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks</title>
@@ -93,16 +87,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/p-tuning-v2-prompt-tuning-can-be-comparable</guid>
     </item>
     <item>
-      <title>Fine-Tuning Language Models from Human Preferences</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
-      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
+      <title>Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos</title>
+      <link>https://paperswithcode.com/paper/follow-your-pose-pose-guided-text-to-video</link>
+      <description><![CDATA[Generating text-editable and pose-controllable character videos have an imperious demand in creating various digital human.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/follow-your-pose-pose-guided-text-to-video</guid>
     </item>
     <item>
-      <title>LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/llm-adapters-an-adapter-family-for-parameter</link>
-      <description><![CDATA[To enable further research on PEFT methods of LLMs, this paper presents LLM-Adapters, an easy-to-use framework that integrates various adapters into LLMs and can execute these adapter-based PEFT methods of LLMs for different tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-adapters-an-adapter-family-for-parameter</guid>
+      <title>DiffMimic: Efficient Motion Mimicking with Differentiable Physics</title>
+      <link>https://paperswithcode.com/paper/diffmimic-efficient-motion-mimicking-with</link>
+      <description><![CDATA[Motion mimicking is a foundational task in physics-based character animation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffmimic-efficient-motion-mimicking-with</guid>
     </item>
     <item>
       <title>LLaMA: Open and Efficient Foundation Language Models</title>
@@ -111,10 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-open-and-efficient-foundation-language-1</guid>
     </item>
     <item>
-      <title>Data-centric Artificial Intelligence: A Survey</title>
-      <link>https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</link>
-      <description><![CDATA[Artificial Intelligence (AI) is making a profound impact in almost every domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-centric-artificial-intelligence-a-survey</guid>
+      <title>LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</title>
+      <link>https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</link>
+      <description><![CDATA[We present LLaMA-Adapter, a lightweight adaption method to efficiently fine-tune LLaMA into an instruction-following model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</guid>
     </item>
     <item>
       <title>CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/camel-communicative-agents-for-mind</guid>
     </item>
     <item>
-      <title>DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task</title>
-      <link>https://paperswithcode.com/paper/doctorglm-fine-tuning-your-chinese-doctor-is</link>
-      <description><![CDATA[The recent progress of large language models (LLMs), including ChatGPT and GPT-4, in comprehending and responding to human instructions has been remarkable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/doctorglm-fine-tuning-your-chinese-doctor-is</guid>
+      <title>Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention</title>
+      <link>https://paperswithcode.com/paper/slide-transformer-hierarchical-vision</link>
+      <description><![CDATA[Self-attention mechanism has been a key factor in the recent progress of Vision Transformer (ViT), which enables adaptive feature extraction from global contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/slide-transformer-hierarchical-vision</guid>
+    </item>
+    <item>
+      <title>Fine-Tuning Language Models from Human Preferences</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
+      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
     </item>
   </channel>
 </rss>
