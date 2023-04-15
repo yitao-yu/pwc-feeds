@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Apr 2023 21:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 09:11:05 +0000</lastBuildDate>
     <item>
       <title>Consistency Models</title>
       <link>https://paperswithcode.com/paper/consistency-models</link>
@@ -27,16 +27,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</guid>
     </item>
     <item>
+      <title>Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases</title>
+      <link>https://paperswithcode.com/paper/understanding-int4-quantization-for</link>
+      <description><![CDATA[Improving the deployment efficiency of transformer-based language models has been challenging given their high computation and memory cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/understanding-int4-quantization-for</guid>
+    </item>
+    <item>
       <title>Instruction Tuning with GPT-4</title>
       <link>https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</link>
       <description><![CDATA[Prior work has shown that finetuning large language models (LLMs) using machine-generated instruction-following data enables such models to achieve remarkable zero-shot capabilities on new tasks, and no human-written instructions are needed.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</guid>
     </item>
     <item>
-      <title>Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases</title>
-      <link>https://paperswithcode.com/paper/understanding-int4-quantization-for</link>
-      <description><![CDATA[Improving the deployment efficiency of transformer-based language models has been challenging given their high computation and memory cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/understanding-int4-quantization-for</guid>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+    </item>
+    <item>
+      <title>ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/imagereward-learning-and-evaluating-human</link>
+      <description><![CDATA[We present ImageReward -- the first general-purpose text-to-image human preference reward model -- to address various prevalent issues in generative models and align them with human values and preferences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/imagereward-learning-and-evaluating-human</guid>
+    </item>
+    <item>
+      <title>Segment Everything Everywhere All at Once</title>
+      <link>https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</link>
+      <description><![CDATA[Inspired by the development of prompt-based universal interfaces for LLMs, this paper presents SEEM, a promptable, interactive model for Segmenting Everything Everywhere all at once in an image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</guid>
+    </item>
+    <item>
+      <title>RRHF: Rank Responses to Align Language Models with Human Feedback without tears</title>
+      <link>https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</link>
+      <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) facilitates the alignment of large language models with human preferences, significantly enhancing the quality of interactions between humans and these models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</guid>
     </item>
     <item>
       <title>SegGPT: Segmenting Everything In Context</title>
@@ -45,16 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</guid>
     </item>
     <item>
+      <title>CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society</title>
+      <link>https://paperswithcode.com/paper/camel-communicative-agents-for-mind</link>
+      <description><![CDATA[To address the challenges of achieving autonomous cooperation, we propose a novel communicative agent framework named role-playing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/camel-communicative-agents-for-mind</guid>
+    </item>
+    <item>
       <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
       <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
       <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
-    </item>
-    <item>
-      <title>RRHF: Rank Responses to Align Language Models with Human Feedback without tears</title>
-      <link>https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</link>
-      <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) facilitates the alignment of large language models with human preferences, significantly enhancing the quality of interactions between humans and these models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</guid>
     </item>
     <item>
       <title>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</title>
@@ -81,52 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</guid>
     </item>
     <item>
-      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
-      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
-      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
-    </item>
-    <item>
       <title>A Survey of Large Language Models</title>
       <link>https://paperswithcode.com/paper/a-survey-of-large-language-models</link>
       <description><![CDATA[To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
     </item>
     <item>
+      <title>SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM</title>
+      <link>https://paperswithcode.com/paper/samm-segment-any-medical-model-a-3d-slicer</link>
+      <description><![CDATA[To assist with the development, assessment, and utilization of SAM on medical images, we introduce Segment Any Medical Model (SAMM), an extension of SAM on 3D Slicer, a widely-used open-source image processing and visualization software that has been extensively used in the medical imaging community.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/samm-segment-any-medical-model-a-3d-slicer</guid>
+    </item>
+    <item>
+      <title>Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers</title>
+      <link>https://paperswithcode.com/paper/neural-codec-language-models-are-zero-shot</link>
+      <description><![CDATA[In addition, we find Vall-E could preserve the speaker's emotion and acoustic environment of the acoustic prompt in synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-codec-language-models-are-zero-shot</guid>
+    </item>
+    <item>
       <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
       <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
       <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
-    </item>
-    <item>
-      <title>CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society</title>
-      <link>https://paperswithcode.com/paper/camel-communicative-agents-for-mind</link>
-      <description><![CDATA[To address the challenges of achieving autonomous cooperation, we propose a novel communicative agent framework named role-playing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/camel-communicative-agents-for-mind</guid>
-    </item>
-    <item>
-      <title>Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data</title>
-      <link>https://paperswithcode.com/paper/baize-an-open-source-chat-model-with</link>
-      <description><![CDATA[The Baize models and data are released for research purposes only at https://github. com/project-baize/baize.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/baize-an-open-source-chat-model-with</guid>
-    </item>
-    <item>
-      <title>LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</title>
-      <link>https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</link>
-      <description><![CDATA[We present LLaMA-Adapter, a lightweight adaption method to efficiently fine-tune LLaMA into an instruction-following model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</guid>
-    </item>
-    <item>
-      <title>PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/pair-diffusion-object-level-image-editing</link>
-      <description><![CDATA[Nevertheless, most of them lack fine-grained control over the properties of the different objects present in the image, i. e. object-level image editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pair-diffusion-object-level-image-editing</guid>
-    </item>
-    <item>
-      <title>Training language models to follow instructions with human feedback</title>
-      <link>https://paperswithcode.com/paper/training-language-models-to-follow</link>
-      <description><![CDATA[In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-language-models-to-follow</guid>
     </item>
   </channel>
 </rss>
