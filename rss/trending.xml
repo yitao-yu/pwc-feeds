@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Apr 2023 09:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 21:06:29 +0000</lastBuildDate>
     <item>
       <title>Consistency Models</title>
       <link>https://paperswithcode.com/paper/consistency-models</link>
       <description><![CDATA[To overcome this limitation, we propose consistency models, a new family of generative models that achieve high sample quality without adversarial training.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/consistency-models</guid>
+    </item>
+    <item>
+      <title>Inpaint Anything: Segment Anything Meets Image Inpainting</title>
+      <link>https://paperswithcode.com/paper/inpaint-anything-segment-anything-meets-image</link>
+      <description><![CDATA[We are also very willing to help everyone share and promote new projects based on our Inpaint Anything (IA).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inpaint-anything-segment-anything-meets-image</guid>
     </item>
     <item>
       <title>A Method for Animating Children's Drawings of the Human Figure</title>
@@ -21,46 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-method-for-automatically-animating-children</guid>
     </item>
     <item>
+      <title>Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text</title>
+      <link>https://paperswithcode.com/paper/multimodal-c4-an-open-billion-scale-corpus-of</link>
+      <description><![CDATA[We release Multimodal C4 (mmc4), an augmentation of the popular text-only c4 corpus with images interleaved.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-c4-an-open-billion-scale-corpus-of</guid>
+    </item>
+    <item>
       <title>Segment Everything Everywhere All at Once</title>
       <link>https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</link>
       <description><![CDATA[Inspired by the development of prompt-based universal interfaces for LLMs, this paper presents SEEM, a promptable, interactive model for Segmenting Everything Everywhere all at once in an image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</guid>
-    </item>
-    <item>
-      <title>Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases</title>
-      <link>https://paperswithcode.com/paper/understanding-int4-quantization-for</link>
-      <description><![CDATA[Improving the deployment efficiency of transformer-based language models has been challenging given their high computation and memory cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/understanding-int4-quantization-for</guid>
-    </item>
-    <item>
-      <title>Segment Anything</title>
-      <link>https://paperswithcode.com/paper/segment-anything</link>
-      <description><![CDATA[We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything</guid>
-    </item>
-    <item>
-      <title>OpenAGI: When LLM Meets Domain Experts</title>
-      <link>https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</link>
-      <description><![CDATA[Thus, the LLM is responsible for synthesizing various external models for solving complex tasks, while RLTF provides feedback to improve its task-solving ability, enabling a feedback loop for self-improving AI.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</guid>
-    </item>
-    <item>
-      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
-      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
-      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
-    </item>
-    <item>
-      <title>AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models</title>
-      <link>https://paperswithcode.com/paper/agieval-a-human-centric-benchmark-for</link>
-      <description><![CDATA[Impressively, GPT-4 surpasses average human performance on SAT, LSAT, and math competitions, attaining a 95% accuracy rate on the SAT Math test and a 92. 5% accuracy on the English test of the Chinese national college entrance exam.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agieval-a-human-centric-benchmark-for</guid>
-    </item>
-    <item>
-      <title>ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/imagereward-learning-and-evaluating-human</link>
-      <description><![CDATA[We present ImageReward -- the first general-purpose text-to-image human preference reward model -- to address various prevalent issues in generative models and align them with human values and preferences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/imagereward-learning-and-evaluating-human</guid>
     </item>
     <item>
       <title>CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society</title>
@@ -69,28 +45,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/camel-communicative-agents-for-mind</guid>
     </item>
     <item>
-      <title>RRHF: Rank Responses to Align Language Models with Human Feedback without tears</title>
-      <link>https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</link>
-      <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) facilitates the alignment of large language models with human preferences, significantly enhancing the quality of interactions between humans and these models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</guid>
+      <title>Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases</title>
+      <link>https://paperswithcode.com/paper/understanding-int4-quantization-for</link>
+      <description><![CDATA[Improving the deployment efficiency of transformer-based language models has been challenging given their high computation and memory cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/understanding-int4-quantization-for</guid>
     </item>
     <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
+      <title>HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge</title>
+      <link>https://paperswithcode.com/paper/huatuo-tuning-llama-model-with-chinese</link>
+      <description><![CDATA[Large Language Models (LLMs), such as the LLaMA model, have demonstrated their effectiveness in various general-domain natural language processing (NLP) tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/huatuo-tuning-llama-model-with-chinese</guid>
     </item>
     <item>
-      <title>Instruction Tuning with GPT-4</title>
-      <link>https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</link>
-      <description><![CDATA[Prior work has shown that finetuning large language models (LLMs) using machine-generated instruction-following data enables such models to achieve remarkable zero-shot capabilities on new tasks, and no human-written instructions are needed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</guid>
+      <title>OpenAssistant Conversations -- Democratizing Large Language Model Alignment</title>
+      <link>https://paperswithcode.com/paper/openassistant-conversations-democratizing</link>
+      <description><![CDATA[The corpus is a product of a worldwide crowd-sourcing effort involving over 13, 500 volunteers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openassistant-conversations-democratizing</guid>
     </item>
     <item>
-      <title>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</title>
-      <link>https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and</link>
-      <description><![CDATA[Solving complicated AI tasks with different domains and modalities is a key step toward advanced artificial intelligence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and</guid>
+      <title>Self-Instruct: Aligning Language Model with Self Generated Instructions</title>
+      <link>https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</link>
+      <description><![CDATA[Applying our method to vanilla GPT3, we demonstrate a 33% absolute improvement over the original model on Super-NaturalInstructions, on par with the performance of InstructGPT_001, which is trained with private user data and human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-instruct-aligning-language-model-with</guid>
+    </item>
+    <item>
+      <title>Automatically Bounding the Taylor Remainder Series: Tighter Bounds and New Applications</title>
+      <link>https://paperswithcode.com/paper/automatically-bounding-the-taylor-remainder</link>
+      <description><![CDATA[We then recursively combine the bounds for the elementary functions using an interval arithmetic variant of Taylor-mode automatic differentiation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/automatically-bounding-the-taylor-remainder</guid>
     </item>
     <item>
       <title>SiLK -- Simple Learned Keypoints</title>
@@ -99,10 +81,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/silk-simple-learned-keypoints</guid>
     </item>
     <item>
-      <title>SegGPT: Segmenting Everything In Context</title>
-      <link>https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</link>
-      <description><![CDATA[We unify various segmentation tasks into a generalist in-context learning framework that accommodates different kinds of segmentation data by transforming them into the same format of images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seggpt-segmenting-everything-in-context</guid>
+      <title>OpenAGI: When LLM Meets Domain Experts</title>
+      <link>https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</link>
+      <description><![CDATA[Thus, the LLM is responsible for synthesizing various external models for solving complex tasks, while RLTF provides feedback to improve its task-solving ability, enabling a feedback loop for self-improving AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openagi-when-llm-meets-domain-experts</guid>
+    </item>
+    <item>
+      <title>AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models</title>
+      <link>https://paperswithcode.com/paper/agieval-a-human-centric-benchmark-for</link>
+      <description><![CDATA[Impressively, GPT-4 surpasses average human performance on SAT, LSAT, and math competitions, attaining a 95% accuracy rate on the SAT Math test and a 92. 5% accuracy on the English test of the Chinese national college entrance exam.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agieval-a-human-centric-benchmark-for</guid>
+    </item>
+    <item>
+      <title>RRHF: Rank Responses to Align Language Models with Human Feedback without tears</title>
+      <link>https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</link>
+      <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) facilitates the alignment of large language models with human preferences, significantly enhancing the quality of interactions between humans and these models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rrhf-rank-responses-to-align-language-models</guid>
+    </item>
+    <item>
+      <title>MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing</title>
+      <link>https://paperswithcode.com/paper/masactrl-tuning-free-mutual-self-attention</link>
+      <description><![CDATA[Despite the success in large-scale text-to-image generation and text-conditioned image editing, existing methods still struggle to produce consistent generation and editing results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masactrl-tuning-free-mutual-self-attention</guid>
+    </item>
+    <item>
+      <title>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace</title>
+      <link>https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and</link>
+      <description><![CDATA[Solving complicated AI tasks with different domains and modalities is a key step toward advanced artificial intelligence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and</guid>
+    </item>
+    <item>
+      <title>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection</title>
+      <link>https://paperswithcode.com/paper/grounding-dino-marrying-dino-with-grounded</link>
+      <description><![CDATA[To effectively fuse language and vision modalities, we conceptually divide a closed-set detector into three phases and propose a tight fusion solution, which includes a feature enhancer, a language-guided query selection, and a cross-modality decoder for cross-modality fusion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grounding-dino-marrying-dino-with-grounded</guid>
     </item>
     <item>
       <title>A Survey of Large Language Models</title>
@@ -111,22 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
     </item>
     <item>
-      <title>Exploring the Impact of Instruction Data Scaling on Large Language Models: An Empirical Study on Real-World Use Cases</title>
-      <link>https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</link>
-      <description><![CDATA[However current research rarely studies the impact of different amounts of instruction data on model performance, especially in the real-world use cases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-instruction-data</guid>
-    </item>
-    <item>
-      <title>GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers</title>
-      <link>https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</link>
-      <description><![CDATA[In this paper, we address this challenge, and propose GPTQ, a new one-shot weight quantization method based on approximate second-order information, that is both highly-accurate and highly-efficient.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</guid>
-    </item>
-    <item>
-      <title>Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers</title>
-      <link>https://paperswithcode.com/paper/neural-codec-language-models-are-zero-shot</link>
-      <description><![CDATA[In addition, we find Vall-E could preserve the speaker's emotion and acoustic environment of the acoustic prompt in synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-codec-language-models-are-zero-shot</guid>
+      <title>Instruction Tuning with GPT-4</title>
+      <link>https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</link>
+      <description><![CDATA[Prior work has shown that finetuning large language models (LLMs) using machine-generated instruction-following data enables such models to achieve remarkable zero-shot capabilities on new tasks, and no human-written instructions are needed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-gpt-4</guid>
     </item>
   </channel>
 </rss>
