@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Apr 2023 21:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2023 09:12:25 +0000</lastBuildDate>
+    <item>
+      <title>Track Anything: Segment Anything Meets Videos</title>
+      <link>https://paperswithcode.com/paper/track-anything-segment-anything-meets-videos</link>
+      <description><![CDATA[Therefore, in this report, we propose Track Anything Model (TAM), which achieves high-performance interactive tracking and segmentation in videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/track-anything-segment-anything-meets-videos</guid>
+    </item>
     <item>
       <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
       <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
@@ -15,16 +21,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
     </item>
     <item>
-      <title>DINOv2: Learning Robust Visual Features without Supervision</title>
-      <link>https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</link>
-      <description><![CDATA[The recent breakthroughs in natural language processing for model pretraining on large quantities of data have opened the way for similar foundation models in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</guid>
+      <title>Adafactor: Adaptive Learning Rates with Sublinear Memory Cost</title>
+      <link>https://paperswithcode.com/paper/adafactor-adaptive-learning-rates-with</link>
+      <description><![CDATA[In several recently proposed stochastic optimization methods (e. g. RMSProp, Adam, Adadelta), parameter updates are scaled by the inverse square roots of exponential moving averages of squared past gradients.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adafactor-adaptive-learning-rates-with</guid>
+    </item>
+    <item>
+      <title>Segment Anything in Medical Images</title>
+      <link>https://paperswithcode.com/paper/segment-anything-in-medical-images</link>
+      <description><![CDATA[Comprehensive experiments on 21 3D segmentation tasks and 9 2D segmentation tasks demonstrate that MedSAM outperforms the default SAM model with an average Dice Similarity Coefficient (DSC) of 22. 5% and 17. 6% on 3D and 2D segmentation tasks, respectively.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-in-medical-images</guid>
     </item>
     <item>
       <title>Inpaint Anything: Segment Anything Meets Image Inpainting</title>
       <link>https://paperswithcode.com/paper/inpaint-anything-segment-anything-meets-image</link>
       <description><![CDATA[We are also very willing to help everyone share and promote new projects based on our Inpaint Anything (IA).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/inpaint-anything-segment-anything-meets-image</guid>
+    </item>
+    <item>
+      <title>Tool Learning with Foundation Models</title>
+      <link>https://paperswithcode.com/paper/tool-learning-with-foundation-models</link>
+      <description><![CDATA[Considering the lack of a systematic tool learning evaluation in prior works, we experiment with 17 representative tools and show the potential of current foundation models in skillfully utilizing tools.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tool-learning-with-foundation-models</guid>
+    </item>
+    <item>
+      <title>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</title>
+      <link>https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language</link>
+      <description><![CDATA[To examine this phenomenon, we present MiniGPT-4, which aligns a frozen visual encoder with a frozen LLM, Vicuna, using just one projection layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language</guid>
+    </item>
+    <item>
+      <title>Segment Everything Everywhere All at Once</title>
+      <link>https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</link>
+      <description><![CDATA[Inspired by the development of prompt-based universal interfaces for LLMs, this paper presents SEEM, a promptable, interactive model for Segmenting Everything Everywhere all at once in an image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</guid>
     </item>
     <item>
       <title>Anything-3D: Towards Single-view Anything Reconstruction in the Wild</title>
@@ -39,22 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chameleon-plug-and-play-compositional</guid>
     </item>
     <item>
-      <title>Tool Learning with Foundation Models</title>
-      <link>https://paperswithcode.com/paper/tool-learning-with-foundation-models</link>
-      <description><![CDATA[Considering the lack of a systematic tool learning evaluation in prior works, we experiment with 17 representative tools and show the potential of current foundation models in skillfully utilizing tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tool-learning-with-foundation-models</guid>
-    </item>
-    <item>
       <title>Phoenix: Democratizing ChatGPT across Languages</title>
       <link>https://paperswithcode.com/paper/phoenix-democratizing-chatgpt-across</link>
       <description><![CDATA[This paper presents our efforts to democratize ChatGPT across language.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/phoenix-democratizing-chatgpt-across</guid>
     </item>
     <item>
-      <title>Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved With Text</title>
-      <link>https://paperswithcode.com/paper/multimodal-c4-an-open-billion-scale-corpus-of</link>
-      <description><![CDATA[We release Multimodal C4 (mmc4), an augmentation of the popular text-only c4 corpus with images interleaved.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-c4-an-open-billion-scale-corpus-of</guid>
+      <title>DINOv2: Learning Robust Visual Features without Supervision</title>
+      <link>https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</link>
+      <description><![CDATA[The recent breakthroughs in natural language processing for model pretraining on large quantities of data have opened the way for similar foundation models in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</guid>
+    </item>
+    <item>
+      <title>F$^{2}$-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories</title>
+      <link>https://paperswithcode.com/paper/f-2-nerf-fast-neural-radiance-field-training</link>
+      <description><![CDATA[Based on our analysis, we further propose a novel space-warping method called perspective warping, which allows us to handle arbitrary trajectories in the grid-based NeRF framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/f-2-nerf-fast-neural-radiance-field-training</guid>
+    </item>
+    <item>
+      <title>Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness</title>
+      <link>https://paperswithcode.com/paper/evaluating-chatgpt-s-information-extraction</link>
+      <description><![CDATA[The capability of Large Language Models (LLMs) like ChatGPT to comprehend user intent and provide reasonable responses has made them extremely popular lately.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-chatgpt-s-information-extraction</guid>
     </item>
     <item>
       <title>Transformer-Based Visual Segmentation: A Survey</title>
@@ -63,46 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/transformer-based-visual-segmentation-a</guid>
     </item>
     <item>
-      <title>OpenAssistant Conversations -- Democratizing Large Language Model Alignment</title>
-      <link>https://paperswithcode.com/paper/openassistant-conversations-democratizing</link>
-      <description><![CDATA[The corpus is a product of a worldwide crowd-sourcing effort involving over 13, 500 volunteers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openassistant-conversations-democratizing</guid>
-    </item>
-    <item>
-      <title>HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge</title>
-      <link>https://paperswithcode.com/paper/huatuo-tuning-llama-model-with-chinese</link>
-      <description><![CDATA[Large Language Models (LLMs), such as the LLaMA model, have demonstrated their effectiveness in various general-domain natural language processing (NLP) tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/huatuo-tuning-llama-model-with-chinese</guid>
-    </item>
-    <item>
-      <title>RealFusion: 360° Reconstruction of Any Object from a Single Image</title>
-      <link>https://paperswithcode.com/paper/realfusion-360deg-reconstruction-of-any</link>
-      <description><![CDATA[We consider the problem of reconstructing a full 360{\deg} photographic model of an object from a single image of it.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/realfusion-360deg-reconstruction-of-any</guid>
-    </item>
-    <item>
-      <title>CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society</title>
-      <link>https://paperswithcode.com/paper/camel-communicative-agents-for-mind</link>
-      <description><![CDATA[To address the challenges of achieving autonomous cooperation, we propose a novel communicative agent framework named role-playing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/camel-communicative-agents-for-mind</guid>
-    </item>
-    <item>
-      <title>Mask-Free Video Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/mask-free-video-instance-segmentation</link>
-      <description><![CDATA[A consistency loss is then enforced on the found matches.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mask-free-video-instance-segmentation</guid>
-    </item>
-    <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
-    </item>
-    <item>
-      <title>Text2Performer: Text-Driven Human Video Generation</title>
-      <link>https://paperswithcode.com/paper/text2performer-text-driven-human-video</link>
-      <description><![CDATA[In this work, we present Text2Performer to generate vivid human videos with articulated motions from texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2performer-text-driven-human-video</guid>
+      <title>Explicit Correspondence Matching for Generalizable Neural Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/explicit-correspondence-matching-for</link>
+      <description><![CDATA[The key to our approach lies in the explicitly modeled correspondence matching information, so as to provide the geometry prior to the prediction of NeRF color and density for volume rendering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/explicit-correspondence-matching-for</guid>
     </item>
     <item>
       <title>A Method for Animating Children's Drawings of the Human Figure</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-method-for-automatically-animating-children</guid>
     </item>
     <item>
-      <title>Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra</title>
-      <link>https://paperswithcode.com/paper/tetra-nerf-representing-neural-radiance</link>
-      <description><![CDATA[Neural Radiance Fields (NeRFs) are a very recent and very popular approach for the problems of novel view synthesis and 3D reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tetra-nerf-representing-neural-radiance</guid>
+      <title>GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers</title>
+      <link>https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</link>
+      <description><![CDATA[In this paper, we address this challenge, and propose GPTQ, a new one-shot weight quantization method based on approximate second-order information, that is both highly-accurate and highly-efficient.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gptq-accurate-post-training-quantization-for</guid>
     </item>
     <item>
-      <title>A Comparative Study between Full-Parameter and LoRA-based Fine-Tuning on Chinese Instruction Data for Instruction Following Large Language Model</title>
-      <link>https://paperswithcode.com/paper/a-comparative-study-between-full-parameter</link>
-      <description><![CDATA[In this study, we undertook experimental comparisons between full-parameter fine-tuning and LoRA-based tuning methods, utilizing LLaMA as the base model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comparative-study-between-full-parameter</guid>
+      <title>Topological Deep Learning: Going Beyond Graph Data</title>
+      <link>https://paperswithcode.com/paper/higher-order-attention-networks</link>
+      <description><![CDATA[Topological deep learning is a rapidly growing field that pertains to the development of deep learning models for data supported on topological domains such as simplicial complexes, cell complexes, and hypergraphs, which generalize many domains encountered in scientific computations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/higher-order-attention-networks</guid>
     </item>
     <item>
-      <title>LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction</title>
-      <link>https://paperswithcode.com/paper/longform-optimizing-instruction-tuning-for</link>
-      <description><![CDATA[Our models outperform 10x larger language models without instruction tuning on various tasks such as story/recipe generation and long-form question answering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longform-optimizing-instruction-tuning-for</guid>
+      <title>VisFusion: Visibility-aware Online 3D Scene Reconstruction from Videos</title>
+      <link>https://paperswithcode.com/paper/visfusion-visibility-aware-online-3d-scene</link>
+      <description><![CDATA[Different from their works which sparsify voxels globally with a fixed occupancy threshold, we perform the sparsification on a local feature volume along each visual ray to preserve at least one voxel per ray for more fine details.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visfusion-visibility-aware-online-3d-scene</guid>
     </item>
   </channel>
 </rss>
