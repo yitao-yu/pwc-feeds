@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 21:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2023 09:11:13 +0000</lastBuildDate>
+    <item>
+      <title>Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond</title>
+      <link>https://paperswithcode.com/paper/harnessing-the-power-of-llms-in-practice-a</link>
+      <description><![CDATA[This paper presents a comprehensive and practical guide for practitioners and end-users working with Large Language Models (LLMs) in their downstream natural language processing (NLP) tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/harnessing-the-power-of-llms-in-practice-a</guid>
+    </item>
     <item>
       <title>Track Anything: Segment Anything Meets Videos</title>
       <link>https://paperswithcode.com/paper/track-anything-segment-anything-meets-videos</link>
@@ -27,22 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/wizardlm-empowering-large-language-models-to</guid>
     </item>
     <item>
+      <title>Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/text-to-audio-generation-using-instruction</link>
+      <description><![CDATA[The immense scale of the recent large language models (LLM) allows many interesting properties, such as, instruction- and chain-of-thought-based fine-tuning, that has significantly improved zero- and few-shot performance in many natural language processing (NLP) tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-audio-generation-using-instruction</guid>
+    </item>
+    <item>
       <title>Adafactor: Adaptive Learning Rates with Sublinear Memory Cost</title>
       <link>https://paperswithcode.com/paper/adafactor-adaptive-learning-rates-with</link>
       <description><![CDATA[In several recently proposed stochastic optimization methods (e. g. RMSProp, Adam, Adadelta), parameter updates are scaled by the inverse square roots of exponential moving averages of squared past gradients.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/adafactor-adaptive-learning-rates-with</guid>
-    </item>
-    <item>
-      <title>Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System</title>
-      <link>https://paperswithcode.com/paper/unleashing-infinite-length-input-capacity-for</link>
-      <description><![CDATA[To address this limitation, we propose the Self-Controlled Memory (SCM) system to unleash infinite-length input capacity for large-scale language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-infinite-length-input-capacity-for</guid>
-    </item>
-    <item>
-      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
-      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
-      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
     </item>
     <item>
       <title>Tool Learning with Foundation Models</title>
@@ -51,10 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tool-learning-with-foundation-models</guid>
     </item>
     <item>
+      <title>Segment Everything Everywhere All at Once</title>
+      <link>https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</link>
+      <description><![CDATA[Inspired by the development of prompt-based universal interfaces for LLMs, this paper presents SEEM, a promptable, interactive model for Segmenting Everything Everywhere all at once in an image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</guid>
+    </item>
+    <item>
       <title>Segment Anything in Medical Images</title>
       <link>https://paperswithcode.com/paper/segment-anything-in-medical-images</link>
       <description><![CDATA[Comprehensive experiments on 21 3D segmentation tasks and 9 2D segmentation tasks demonstrate that MedSAM outperforms the default SAM model with an average Dice Similarity Coefficient (DSC) of 22. 5% and 17. 6% on 3D and 2D segmentation tasks, respectively.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-in-medical-images</guid>
+    </item>
+    <item>
+      <title>Unleashing Infinite-Length Input Capacity for Large-scale Language Models with Self-Controlled Memory System</title>
+      <link>https://paperswithcode.com/paper/unleashing-infinite-length-input-capacity-for</link>
+      <description><![CDATA[To address this limitation, we propose the Self-Controlled Memory (SCM) system to unleash infinite-length input capacity for large-scale language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-infinite-length-input-capacity-for</guid>
     </item>
     <item>
       <title>Inpaint Anything: Segment Anything Meets Image Inpainting</title>
@@ -63,46 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/inpaint-anything-segment-anything-meets-image</guid>
     </item>
     <item>
-      <title>Segment Everything Everywhere All at Once</title>
-      <link>https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</link>
-      <description><![CDATA[Inspired by the development of prompt-based universal interfaces for LLMs, this paper presents SEEM, a promptable, interactive model for Segmenting Everything Everywhere all at once in an image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-everything-everywhere-all-at-once</guid>
-    </item>
-    <item>
-      <title>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</title>
-      <link>https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language</link>
-      <description><![CDATA[To examine this phenomenon, we present MiniGPT-4, which aligns a frozen visual encoder with a frozen LLM, Vicuna, using just one projection layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language</guid>
-    </item>
-    <item>
-      <title>Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/chameleon-plug-and-play-compositional</link>
-      <description><![CDATA[Large language models (LLMs) have achieved remarkable progress in various natural language processing tasks with emergent abilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chameleon-plug-and-play-compositional</guid>
-    </item>
-    <item>
-      <title>Phoenix: Democratizing ChatGPT across Languages</title>
-      <link>https://paperswithcode.com/paper/phoenix-democratizing-chatgpt-across</link>
-      <description><![CDATA[This paper presents our efforts to democratize ChatGPT across language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/phoenix-democratizing-chatgpt-across</guid>
-    </item>
-    <item>
-      <title>DINOv2: Learning Robust Visual Features without Supervision</title>
-      <link>https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</link>
-      <description><![CDATA[The recent breakthroughs in natural language processing for model pretraining on large quantities of data have opened the way for similar foundation models in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</guid>
-    </item>
-    <item>
-      <title>Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes</title>
-      <link>https://paperswithcode.com/paper/language-models-enable-simple-systems-for</link>
-      <description><![CDATA[Code synthesis is cheap, but far less accurate than directly processing each document with the LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-enable-simple-systems-for</guid>
-    </item>
-    <item>
-      <title>Anything-3D: Towards Single-view Anything Reconstruction in the Wild</title>
-      <link>https://paperswithcode.com/paper/anything-3d-towards-single-view-anything</link>
-      <description><![CDATA[3D reconstruction from a single-RGB image in unconstrained real-world scenarios presents numerous challenges due to the inherent diversity and complexity of objects and environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anything-3d-towards-single-view-anything</guid>
+      <title>DataComp: In search of the next generation of multimodal datasets</title>
+      <link>https://paperswithcode.com/paper/datacomp-in-search-of-the-next-generation-of</link>
+      <description><![CDATA[To address this shortcoming in the machine learning ecosystem, we introduce DataComp, a benchmark where the training code is fixed and researchers innovate by proposing new training sets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/datacomp-in-search-of-the-next-generation-of</guid>
     </item>
     <item>
       <title>Aligning benchmark datasets for table structure recognition</title>
@@ -111,22 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-benchmark-datasets-for-table</guid>
     </item>
     <item>
-      <title>SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation</title>
-      <link>https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</link>
-      <description><![CDATA[We present SadTalker, which generates 3D motion coefficients (head pose, expression) of the 3DMM from audio and implicitly modulates a novel 3D-aware face render for talking head generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sadtalker-learning-realistic-3d-motion</guid>
+      <title>JaxPruner: A concise library for sparsity research</title>
+      <link>https://paperswithcode.com/paper/jaxpruner-a-concise-library-for-sparsity</link>
+      <description><![CDATA[This paper introduces JaxPruner, an open-source JAX-based pruning and sparse training library for machine learning research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/jaxpruner-a-concise-library-for-sparsity</guid>
     </item>
     <item>
-      <title>Large-Scale Intelligent Microservices</title>
-      <link>https://paperswithcode.com/paper/large-scale-intelligent-microservices</link>
-      <description><![CDATA[Deploying Machine Learning (ML) algorithms within databases is a challenge due to the varied computational footprints of modern ML algorithms and the myriad of database technologies each with its own restrictive syntax.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-scale-intelligent-microservices</guid>
+      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
+      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
+      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
     </item>
     <item>
-      <title>GMMSeg: Gaussian Mixture based Generative Semantic Segmentation Models</title>
-      <link>https://paperswithcode.com/paper/gmmseg-gaussian-mixture-based-generative</link>
-      <description><![CDATA[Going beyond this, we propose GMMSeg, a new family of segmentation models that rely on a dense generative classifier for the joint distribution p(pixel feature, class).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gmmseg-gaussian-mixture-based-generative</guid>
+      <title>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</title>
+      <link>https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language</link>
+      <description><![CDATA[To examine this phenomenon, we present MiniGPT-4, which aligns a frozen visual encoder with a frozen LLM, Vicuna, using just one projection layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-4-enhancing-vision-language</guid>
+    </item>
+    <item>
+      <title>LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions</title>
+      <link>https://paperswithcode.com/paper/lamini-lm-a-diverse-herd-of-distilled-models</link>
+      <description><![CDATA[To this end, we carefully develop a large set of 2. 58M instructions based on both existing and newly-generated instructions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lamini-lm-a-diverse-herd-of-distilled-models</guid>
+    </item>
+    <item>
+      <title>Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes</title>
+      <link>https://paperswithcode.com/paper/language-models-enable-simple-systems-for</link>
+      <description><![CDATA[Code synthesis is cheap, but far less accurate than directly processing each document with the LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-enable-simple-systems-for</guid>
+    </item>
+    <item>
+      <title>mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality</title>
+      <link>https://paperswithcode.com/paper/mplug-owl-modularization-empowers-large</link>
+      <description><![CDATA[Our code, pre-trained model, instruction-tuned models, and evaluation set are available at https://github. com/X-PLUG/mPLUG-Owl.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mplug-owl-modularization-empowers-large</guid>
+    </item>
+    <item>
+      <title>DINOv2: Learning Robust Visual Features without Supervision</title>
+      <link>https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</link>
+      <description><![CDATA[The recent breakthroughs in natural language processing for model pretraining on large quantities of data have opened the way for similar foundation models in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dinov2-learning-robust-visual-features</guid>
     </item>
   </channel>
 </rss>
