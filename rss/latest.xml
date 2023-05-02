@@ -7,108 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 May 2023 09:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 21:06:10 +0000</lastBuildDate>
     <item>
-      <title>Scaffolding a Student to Instill Knowledge</title>
-      <link>https://paperswithcode.com/paper/scaffolding-a-student-to-instill-knowledge</link>
-      <description><![CDATA[We propose a novel knowledge distillation (KD) method to selectively instill teacher knowledge into a student model motivated by situations where the student's capacity is significantly smaller than that of the teachers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaffolding-a-student-to-instill-knowledge</guid>
-    </item>
-    <item>
-      <title>SelfDocSeg: A Self-Supervised vision-based Approach towards Document Segmentation</title>
-      <link>https://paperswithcode.com/paper/selfdocseg-a-self-supervised-vision-based</link>
-      <description><![CDATA[Document layout analysis is a known problem to the documents research community and has been vastly explored yielding a multitude of solutions ranging from text mining, and recognition to graph-based representation, visual feature extraction, \emph{etc}.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/selfdocseg-a-self-supervised-vision-based</guid>
-    </item>
-    <item>
-      <title>Poisoning Language Models During Instruction Tuning</title>
-      <link>https://paperswithcode.com/paper/poisoning-language-models-during-instruction</link>
-      <description><![CDATA[In this work, we show that adversaries can contribute poison examples to these datasets, allowing them to manipulate model predictions whenever a desired trigger phrase appears in the input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/poisoning-language-models-during-instruction</guid>
-    </item>
-    <item>
-      <title>End to End Lane detection with One-to-Several Transformer</title>
-      <link>https://paperswithcode.com/paper/end-to-end-lane-detection-with-one-to-several</link>
-      <description><![CDATA[Therefore, end-to-end detectors like DEtection TRansformer(DETR) have been introduced in lane detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-lane-detection-with-one-to-several</guid>
-    </item>
-    <item>
-      <title>Boosting Weakly-Supervised Temporal Action Localization with Text Information</title>
-      <link>https://paperswithcode.com/paper/boosting-weakly-supervised-temporal-action</link>
-      <description><![CDATA[For the discriminative objective, we propose a Text-Segment Mining (TSM) mechanism, which constructs a text description based on the action class label, and regards the text as the query to mine all class-related segments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/boosting-weakly-supervised-temporal-action</guid>
-    </item>
-    <item>
-      <title>SIMPLE: Specialized Model-Sample Matching for Domain Generalization</title>
-      <link>https://paperswithcode.com/paper/simple-specialized-model-sample-matching-for</link>
-      <description><![CDATA[Moreover, our method is highly efficient and achieves more than 1000 times training speedup compared to the conventional DG methods with fine-tuning a pretrained model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simple-specialized-model-sample-matching-for</guid>
-    </item>
-    <item>
-      <title>ISAAC Newton: Input-based Approximate Curvature for Newton's Method</title>
-      <link>https://paperswithcode.com/paper/isaac-newton-input-based-approximate</link>
-      <description><![CDATA[We present ISAAC (Input-baSed ApproximAte Curvature), a novel method that conditions the gradient using selected second-order information and has an asymptotically vanishing computational overhead, assuming a batch size smaller than the number of neurons.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/isaac-newton-input-based-approximate</guid>
-    </item>
-    <item>
-      <title>Part Aware Contrastive Learning for Self-Supervised Action Recognition</title>
-      <link>https://paperswithcode.com/paper/part-aware-contrastive-learning-for-self</link>
-      <description><![CDATA[This paper proposes an attention-based contrastive learning framework for skeleton representation learning, called SkeAttnCLR, which integrates local similarity and global features for skeleton-based action representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/part-aware-contrastive-learning-for-self</guid>
-    </item>
-    <item>
-      <title>TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding</title>
-      <link>https://paperswithcode.com/paper/taskprompter-spatial-channel-multi-task</link>
-      <description><![CDATA[Each task prompt learns task-specific representation for one task, while all the prompts can jointly contribute to the learning of the shared image token representations, and the interactions between different task prompts model the cross-task relationship.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taskprompter-spatial-channel-multi-task</guid>
-    </item>
-    <item>
-      <title>Strengthening structural baselines for graph classification using Local Topological Profile</title>
-      <link>https://paperswithcode.com/paper/strengthening-structural-baselines-for-graph</link>
-      <description><![CDATA[We present the analysis of the topological graph descriptor Local Degree Profile (LDP), which forms a widely used structural baseline for graph classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/strengthening-structural-baselines-for-graph</guid>
-    </item>
-    <item>
-      <title>What Do Self-Supervised Vision Transformers Learn?</title>
-      <link>https://paperswithcode.com/paper/what-do-self-supervised-vision-transformers</link>
-      <description><![CDATA[We present a comparative study on how and why contrastive learning (CL) and masked image modeling (MIM) differ in their representations and in their performance of downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-self-supervised-vision-transformers</guid>
-    </item>
-    <item>
-      <title>Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity</title>
-      <link>https://paperswithcode.com/paper/cross-institutional-transfer-learning-for</link>
-      <description><![CDATA[We also find that stacked ensembling provides no additional benefits to overall performance or fairness compared to either a local model or the zero-shot transfer procedure we tested.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-institutional-transfer-learning-for</guid>
-    </item>
-    <item>
-      <title>Efficient Edge Inference by Selective Query</title>
-      <link>https://paperswithcode.com/paper/efficient-edge-inference-by-selective-query</link>
-      <description><![CDATA[Training a hybrid learner is difficult since we lack annotations of hard edge-examples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-edge-inference-by-selective-query</guid>
-    </item>
-    <item>
-      <title>Reservoir Computing with Error Correction: Long-term Behaviors of Stochastic Dynamical Systems</title>
-      <link>https://paperswithcode.com/paper/reservoir-computing-with-error-correction</link>
-      <description><![CDATA[The prediction of stochastic dynamical systems and the capture of dynamical behaviors are profound problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reservoir-computing-with-error-correction</guid>
-    </item>
-    <item>
-      <title>Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty</title>
-      <link>https://paperswithcode.com/paper/variational-inference-for-bayesian-neural</link>
-      <description><![CDATA[Bayesian neural networks (BNNs) have recently regained a significant amount of attention in the deep learning community due to the development of scalable approximate Bayesian inference techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-inference-for-bayesian-neural</guid>
-    </item>
-    <item>
-      <title>Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/bidirectional-copy-paste-for-semi-supervised</link>
-      <description><![CDATA[In semi-supervised medical image segmentation, there exist empirical mismatch problems between labeled and unlabeled data distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bidirectional-copy-paste-for-semi-supervised</guid>
-    </item>
-    <item>
-      <title>ZeroSearch: Local Image Search from Text with Zero Shot Learning</title>
-      <link>https://paperswithcode.com/paper/zerosearch-local-image-search-from-text-with</link>
-      <description><![CDATA[The algorithm's output is a list of images sorted in descending order of similarity, helping users to locate specific images more efficiently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zerosearch-local-image-search-from-text-with</guid>
+      <title>On the Impact of Outlier Bias on User Clicks</title>
+      <link>https://paperswithcode.com/paper/on-the-impact-of-outlier-bias-on-user-clicks</link>
+      <description><![CDATA[We therefore propose an outlier-aware click model that accounts for both outlier and position bias, called outlier-aware position-based model ( OPBM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-impact-of-outlier-bias-on-user-clicks</guid>
     </item>
     <item>
       <title>Discover and Cure: Concept-aware Mitigation of Spurious Correlation</title>
@@ -117,10 +21,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/discover-and-cure-concept-aware-mitigation-of</guid>
     </item>
     <item>
-      <title>On the Impact of Outlier Bias on User Clicks</title>
-      <link>https://paperswithcode.com/paper/on-the-impact-of-outlier-bias-on-user-clicks</link>
-      <description><![CDATA[We therefore propose an outlier-aware click model that accounts for both outlier and position bias, called outlier-aware position-based model ( OPBM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-impact-of-outlier-bias-on-user-clicks</guid>
+      <title>Full Scaling Automation for Sustainable Development of Green Data Centers</title>
+      <link>https://paperswithcode.com/paper/full-scaling-automation-for-sustainable</link>
+      <description><![CDATA[The rapid rise in cloud computing has resulted in an alarming increase in data centers' carbon emissions, which now accounts for >3% of global greenhouse gas emissions, necessitating immediate steps to combat their mounting strain on the global climate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/full-scaling-automation-for-sustainable</guid>
+    </item>
+    <item>
+      <title>Variational Inference for Bayesian Neural Networks under Model and Parameter Uncertainty</title>
+      <link>https://paperswithcode.com/paper/variational-inference-for-bayesian-neural</link>
+      <description><![CDATA[Bayesian neural networks (BNNs) have recently regained a significant amount of attention in the deep learning community due to the development of scalable approximate Bayesian inference techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/variational-inference-for-bayesian-neural</guid>
+    </item>
+    <item>
+      <title>Scaffolding a Student to Instill Knowledge</title>
+      <link>https://paperswithcode.com/paper/scaffolding-a-student-to-instill-knowledge</link>
+      <description><![CDATA[We propose a novel knowledge distillation (KD) method to selectively instill teacher knowledge into a student model motivated by situations where the student's capacity is significantly smaller than that of the teachers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaffolding-a-student-to-instill-knowledge</guid>
+    </item>
+    <item>
+      <title>Bidirectional Copy-Paste for Semi-Supervised Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/bidirectional-copy-paste-for-semi-supervised</link>
+      <description><![CDATA[In semi-supervised medical image segmentation, there exist empirical mismatch problems between labeled and unlabeled data distribution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bidirectional-copy-paste-for-semi-supervised</guid>
+    </item>
+    <item>
+      <title>SelfDocSeg: A Self-Supervised vision-based Approach towards Document Segmentation</title>
+      <link>https://paperswithcode.com/paper/selfdocseg-a-self-supervised-vision-based</link>
+      <description><![CDATA[Document layout analysis is a known problem to the documents research community and has been vastly explored yielding a multitude of solutions ranging from text mining, and recognition to graph-based representation, visual feature extraction, \emph{etc}.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/selfdocseg-a-self-supervised-vision-based</guid>
+    </item>
+    <item>
+      <title>Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity</title>
+      <link>https://paperswithcode.com/paper/cross-institutional-transfer-learning-for</link>
+      <description><![CDATA[We also find that stacked ensembling provides no additional benefits to overall performance or fairness compared to either a local model or the zero-shot transfer procedure we tested.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-institutional-transfer-learning-for</guid>
+    </item>
+    <item>
+      <title>Strengthening structural baselines for graph classification using Local Topological Profile</title>
+      <link>https://paperswithcode.com/paper/strengthening-structural-baselines-for-graph</link>
+      <description><![CDATA[We present the analysis of the topological graph descriptor Local Degree Profile (LDP), which forms a widely used structural baseline for graph classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/strengthening-structural-baselines-for-graph</guid>
+    </item>
+    <item>
+      <title>Boosting Weakly-Supervised Temporal Action Localization with Text Information</title>
+      <link>https://paperswithcode.com/paper/boosting-weakly-supervised-temporal-action</link>
+      <description><![CDATA[For the discriminative objective, we propose a Text-Segment Mining (TSM) mechanism, which constructs a text description based on the action class label, and regards the text as the query to mine all class-related segments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/boosting-weakly-supervised-temporal-action</guid>
+    </item>
+    <item>
+      <title>Poisoning Language Models During Instruction Tuning</title>
+      <link>https://paperswithcode.com/paper/poisoning-language-models-during-instruction</link>
+      <description><![CDATA[In this work, we show that adversaries can contribute poison examples to these datasets, allowing them to manipulate model predictions whenever a desired trigger phrase appears in the input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/poisoning-language-models-during-instruction</guid>
     </item>
     <item>
       <title>Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding</title>
@@ -129,10 +81,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/decomposition-enhances-reasoning-via-self</guid>
     </item>
     <item>
-      <title>Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward</title>
-      <link>https://paperswithcode.com/paper/learning-achievement-structure-for-structured</link>
-      <description><![CDATA[We propose Structured Exploration with Achievements (SEA), a multi-stage reinforcement learning algorithm designed for achievement-based environments, a particular type of environment with an internal achievement set.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-achievement-structure-for-structured</guid>
+      <title>End to End Lane detection with One-to-Several Transformer</title>
+      <link>https://paperswithcode.com/paper/end-to-end-lane-detection-with-one-to-several</link>
+      <description><![CDATA[Therefore, end-to-end detectors like DEtection TRansformer(DETR) have been introduced in lane detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-lane-detection-with-one-to-several</guid>
+    </item>
+    <item>
+      <title>Efficient Edge Inference by Selective Query</title>
+      <link>https://paperswithcode.com/paper/efficient-edge-inference-by-selective-query</link>
+      <description><![CDATA[Training a hybrid learner is difficult since we lack annotations of hard edge-examples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-edge-inference-by-selective-query</guid>
+    </item>
+    <item>
+      <title>TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding</title>
+      <link>https://paperswithcode.com/paper/taskprompter-spatial-channel-multi-task</link>
+      <description><![CDATA[Each task prompt learns task-specific representation for one task, while all the prompts can jointly contribute to the learning of the shared image token representations, and the interactions between different task prompts model the cross-task relationship.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taskprompter-spatial-channel-multi-task</guid>
+    </item>
+    <item>
+      <title>ISAAC Newton: Input-based Approximate Curvature for Newton's Method</title>
+      <link>https://paperswithcode.com/paper/isaac-newton-input-based-approximate</link>
+      <description><![CDATA[We present ISAAC (Input-baSed ApproximAte Curvature), a novel method that conditions the gradient using selected second-order information and has an asymptotically vanishing computational overhead, assuming a batch size smaller than the number of neurons.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/isaac-newton-input-based-approximate</guid>
+    </item>
+    <item>
+      <title>Reservoir Computing with Error Correction: Long-term Behaviors of Stochastic Dynamical Systems</title>
+      <link>https://paperswithcode.com/paper/reservoir-computing-with-error-correction</link>
+      <description><![CDATA[The prediction of stochastic dynamical systems and the capture of dynamical behaviors are profound problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reservoir-computing-with-error-correction</guid>
+    </item>
+    <item>
+      <title>SIMPLE: Specialized Model-Sample Matching for Domain Generalization</title>
+      <link>https://paperswithcode.com/paper/simple-specialized-model-sample-matching-for</link>
+      <description><![CDATA[Moreover, our method is highly efficient and achieves more than 1000 times training speedup compared to the conventional DG methods with fine-tuning a pretrained model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/simple-specialized-model-sample-matching-for</guid>
+    </item>
+    <item>
+      <title>What Do Self-Supervised Vision Transformers Learn?</title>
+      <link>https://paperswithcode.com/paper/what-do-self-supervised-vision-transformers</link>
+      <description><![CDATA[We present a comparative study on how and why contrastive learning (CL) and masked image modeling (MIM) differ in their representations and in their performance of downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-do-self-supervised-vision-transformers</guid>
+    </item>
+    <item>
+      <title>ZeroSearch: Local Image Search from Text with Zero Shot Learning</title>
+      <link>https://paperswithcode.com/paper/zerosearch-local-image-search-from-text-with</link>
+      <description><![CDATA[The algorithm's output is a list of images sorted in descending order of similarity, helping users to locate specific images more efficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zerosearch-local-image-search-from-text-with</guid>
+    </item>
+    <item>
+      <title>FCA: Taming Long-tailed Federated Medical Image Classification by Classifier Anchoring</title>
+      <link>https://paperswithcode.com/paper/fca-taming-long-tailed-federated-medical</link>
+      <description><![CDATA[To overcome this, we propose federated classifier anchoring (FCA) by adding a personalized classifier at each client to guide and debias the federated model through consistency learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fca-taming-long-tailed-federated-medical</guid>
+    </item>
+    <item>
+      <title>Part Aware Contrastive Learning for Self-Supervised Action Recognition</title>
+      <link>https://paperswithcode.com/paper/part-aware-contrastive-learning-for-self</link>
+      <description><![CDATA[This paper proposes an attention-based contrastive learning framework for skeleton representation learning, called SkeAttnCLR, which integrates local similarity and global features for skeleton-based action representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/part-aware-contrastive-learning-for-self</guid>
     </item>
     <item>
       <title>Calibration Error Estimation Using Fuzzy Binning</title>
@@ -141,10 +147,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/calibration-error-estimation-using-fuzzy</guid>
     </item>
     <item>
-      <title>Scaling Pareto-Efficient Decision Making Via Offline Multi-Objective RL</title>
-      <link>https://paperswithcode.com/paper/scaling-pareto-efficient-decision-making-via</link>
-      <description><![CDATA[In this work, we propose a new data-driven setup for offline MORL, where we wish to learn a preference-agnostic policy agent using only a finite dataset of offline demonstrations of other agents and their preferences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-pareto-efficient-decision-making-via</guid>
+      <title>Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection</title>
+      <link>https://paperswithcode.com/paper/discriminative-co-saliency-and-background</link>
+      <description><![CDATA[Then, we use two types of pre-defined tokens to mine co-saliency and background information via our proposed contrast-induced pixel-to-token correlation and co-saliency token-to-token correlation modules.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/discriminative-co-saliency-and-background</guid>
     </item>
     <item>
       <title>Image Completion via Dual-path Cooperative Filtering</title>
@@ -153,22 +159,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/image-completion-via-dual-path-cooperative</guid>
     </item>
     <item>
-      <title>Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection</title>
-      <link>https://paperswithcode.com/paper/discriminative-co-saliency-and-background</link>
-      <description><![CDATA[Then, we use two types of pre-defined tokens to mine co-saliency and background information via our proposed contrast-induced pixel-to-token correlation and co-saliency token-to-token correlation modules.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/discriminative-co-saliency-and-background</guid>
+      <title>SoK: Pragmatic Assessment of Machine Learning for Network Intrusion Detection</title>
+      <link>https://paperswithcode.com/paper/sok-pragmatic-assessment-of-machine-learning</link>
+      <description><![CDATA[Unfortunately, the value of ML for NID depends on a plethora of factors, such as hardware, that are often neglected in scientific literature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sok-pragmatic-assessment-of-machine-learning</guid>
     </item>
     <item>
-      <title>Learned Focused Plenoptic Image Compression with Microimage Preprocessing and Global Attention</title>
-      <link>https://paperswithcode.com/paper/learned-focused-plenoptic-image-compression</link>
-      <description><![CDATA[Also, it achieves 18. 73% bitrate saving and generates perceptually pleasant reconstructions compared to the state-of-the-art end-to-end image compression methods, which benefits the applications of focused plenoptic cameras greatly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learned-focused-plenoptic-image-compression</guid>
-    </item>
-    <item>
-      <title>Posterior Sampling for Deep Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/posterior-sampling-for-deep-reinforcement</link>
-      <description><![CDATA[Despite remarkable successes, deep reinforcement learning algorithms remain sample inefficient: they require an enormous amount of trial and error to find good policies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/posterior-sampling-for-deep-reinforcement</guid>
+      <title>Scaling Pareto-Efficient Decision Making Via Offline Multi-Objective RL</title>
+      <link>https://paperswithcode.com/paper/scaling-pareto-efficient-decision-making-via</link>
+      <description><![CDATA[In this work, we propose a new data-driven setup for offline MORL, where we wish to learn a preference-agnostic policy agent using only a finite dataset of offline demonstrations of other agents and their preferences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-pareto-efficient-decision-making-via</guid>
     </item>
     <item>
       <title>Hypergraphs with Edge-Dependent Vertex Weights: Spectral Clustering based on the 1-Laplacian</title>
@@ -177,16 +177,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hypergraphs-with-edge-dependent-vertex-1</guid>
     </item>
     <item>
-      <title>SoK: Pragmatic Assessment of Machine Learning for Network Intrusion Detection</title>
-      <link>https://paperswithcode.com/paper/sok-pragmatic-assessment-of-machine-learning</link>
-      <description><![CDATA[Unfortunately, the value of ML for NID depends on a plethora of factors, such as hardware, that are often neglected in scientific literature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sok-pragmatic-assessment-of-machine-learning</guid>
+      <title>Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward</title>
+      <link>https://paperswithcode.com/paper/learning-achievement-structure-for-structured</link>
+      <description><![CDATA[We propose Structured Exploration with Achievements (SEA), a multi-stage reinforcement learning algorithm designed for achievement-based environments, a particular type of environment with an internal achievement set.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-achievement-structure-for-structured</guid>
     </item>
     <item>
-      <title>Hierarchical Dialogue Understanding with Special Tokens and Turn-level Attention</title>
-      <link>https://paperswithcode.com/paper/hierarchical-dialogue-understanding-with-1</link>
-      <description><![CDATA[We evaluate our model on various dialogue understanding tasks including dialogue relation extraction, dialogue emotion recognition, and dialogue act classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchical-dialogue-understanding-with-1</guid>
+      <title>Nearly Optimal Steiner Trees using Graph Neural Network Assisted Monte Carlo Tree Search</title>
+      <link>https://paperswithcode.com/paper/nearly-optimal-steiner-trees-using-graph</link>
+      <description><![CDATA[Graph neural networks are useful for learning problems, as well as for combinatorial and graph problems such as the Subgraph Isomorphism Problem and the Traveling Salesman Problem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nearly-optimal-steiner-trees-using-graph</guid>
+    </item>
+    <item>
+      <title>Incremental procedural and sensorimotor learning in cognitive humanoid robots</title>
+      <link>https://paperswithcode.com/paper/incremental-procedural-and-sensorimotor</link>
+      <description><![CDATA[The increasing agent's cognitive complexity is managed by adding new terms to the reward function for each learning phase.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/incremental-procedural-and-sensorimotor</guid>
+    </item>
+    <item>
+      <title>Reliable Gradient-free and Likelihood-free Prompt Tuning</title>
+      <link>https://paperswithcode.com/paper/reliable-gradient-free-and-likelihood-free</link>
+      <description><![CDATA[Due to privacy or commercial constraints, large pre-trained language models (PLMs) are often offered as black-box APIs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reliable-gradient-free-and-likelihood-free</guid>
+    </item>
+    <item>
+      <title>Model-free Motion Planning of Autonomous Agents for Complex Tasks in Partially Observable Environments</title>
+      <link>https://paperswithcode.com/paper/model-free-motion-planning-of-autonomous</link>
+      <description><![CDATA[We formulate motion planning as a probabilistic-labeled partially observable Markov decision process (PL-POMDP) problem and use linear temporal logic (LTL) to express the complex task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/model-free-motion-planning-of-autonomous</guid>
+    </item>
+    <item>
+      <title>Learned Focused Plenoptic Image Compression with Microimage Preprocessing and Global Attention</title>
+      <link>https://paperswithcode.com/paper/learned-focused-plenoptic-image-compression</link>
+      <description><![CDATA[Also, it achieves 18. 73% bitrate saving and generates perceptually pleasant reconstructions compared to the state-of-the-art end-to-end image compression methods, which benefits the applications of focused plenoptic cameras greatly.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learned-focused-plenoptic-image-compression</guid>
+    </item>
+    <item>
+      <title>Exploring the Effectiveness of Large Language Models in Generating Unit Tests</title>
+      <link>https://paperswithcode.com/paper/exploring-the-effectiveness-of-large-language</link>
+      <description><![CDATA[We used two benchmarks (HumanEval and Evosuite SF110) to investigate the context generation's effect in the unit test generation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-effectiveness-of-large-language</guid>
+    </item>
+    <item>
+      <title>EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction</title>
+      <link>https://paperswithcode.com/paper/evreal-towards-a-comprehensive-benchmark-and</link>
+      <description><![CDATA[Event cameras are a new type of vision sensor that incorporates asynchronous and independent pixels, offering advantages over traditional frame-based cameras such as high dynamic range and minimal motion blur.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evreal-towards-a-comprehensive-benchmark-and</guid>
+    </item>
+    <item>
+      <title>Posterior Sampling for Deep Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/posterior-sampling-for-deep-reinforcement</link>
+      <description><![CDATA[Despite remarkable successes, deep reinforcement learning algorithms remain sample inefficient: they require an enormous amount of trial and error to find good policies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/posterior-sampling-for-deep-reinforcement</guid>
     </item>
     <item>
       <title>LD-GAN: Low-Dimensional Generative Adversarial Network for Spectral Image Generation with Variance Regularization</title>
@@ -195,10 +237,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ld-gan-low-dimensional-generative-adversarial</guid>
     </item>
     <item>
-      <title>Data-Driven Subgroup Identification for Linear Regression</title>
-      <link>https://paperswithcode.com/paper/data-driven-subgroup-identification-for</link>
-      <description><![CDATA[To do this, simple parametric models are frequently used (e. g. coefficients of linear regression) but usually fitted on the whole dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-driven-subgroup-identification-for</guid>
+      <title>An Implicit Alignment for Video Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/an-implicit-alignment-for-video-super</link>
+      <description><![CDATA[Video super-resolution commonly uses a frame-wise alignment to support the propagation of information over time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-implicit-alignment-for-video-super</guid>
     </item>
     <item>
       <title>Semi-Infinitely Constrained Markov Decision Processes and Efficient Reinforcement Learning</title>
@@ -207,28 +249,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/semi-infinitely-constrained-markov-decision</guid>
     </item>
     <item>
-      <title>An Implicit Alignment for Video Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/an-implicit-alignment-for-video-super</link>
-      <description><![CDATA[Video super-resolution commonly uses a frame-wise alignment to support the propagation of information over time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-implicit-alignment-for-video-super</guid>
-    </item>
-    <item>
       <title>TAPE: Temporal Attention-based Probabilistic human pose and shape Estimation</title>
       <link>https://paperswithcode.com/paper/tape-temporal-attention-based-probabilistic</link>
       <description><![CDATA[Existing methods ignore the ambiguities of the reconstruction and provide a single deterministic estimate for the 3D pose.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/tape-temporal-attention-based-probabilistic</guid>
-    </item>
-    <item>
-      <title>POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models</title>
-      <link>https://paperswithcode.com/paper/pouf-prompt-oriented-unsupervised-fine-tuning</link>
-      <description><![CDATA[Through prompting, large-scale pre-trained models have become more expressive and powerful, gaining significant attention in recent years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pouf-prompt-oriented-unsupervised-fine-tuning</guid>
-    </item>
-    <item>
-      <title>Fusion for Visual-Infrared Person ReID in Real-World Surveillance Using Corrupted Multimodal Data</title>
-      <link>https://paperswithcode.com/paper/fusion-for-visual-infrared-person-reid-in</link>
-      <description><![CDATA[For realistic evaluation of multimodal (and cross-modal) V-I person ReID models, we propose new challenging corrupted datasets for scenarios where V and I cameras are co-located (CL) and not co-located (NCL).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fusion-for-visual-infrared-person-reid-in</guid>
     </item>
     <item>
       <title>Leveraging Label Non-Uniformity for Node Classification in Graph Neural Networks</title>
@@ -237,76 +261,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-label-non-uniformity-for-node</guid>
     </item>
     <item>
-      <title>Made of Steel? Learning Plausible Materials for Components in the Vehicle Repair Domain</title>
-      <link>https://paperswithcode.com/paper/made-of-steel-learning-plausible-materials</link>
-      <description><![CDATA[We propose a novel approach to learn domain-specific plausible materials for components in the vehicle repair domain by probing Pretrained Language Models (PLMs) in a cloze task style setting to overcome the lack of annotated datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/made-of-steel-learning-plausible-materials</guid>
+      <title>Hierarchical Dialogue Understanding with Special Tokens and Turn-level Attention</title>
+      <link>https://paperswithcode.com/paper/hierarchical-dialogue-understanding-with-1</link>
+      <description><![CDATA[We evaluate our model on various dialogue understanding tasks including dialogue relation extraction, dialogue emotion recognition, and dialogue act classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchical-dialogue-understanding-with-1</guid>
     </item>
     <item>
-      <title>AVATAR: Adversarial self-superVised domain Adaptation network for TARget domain</title>
-      <link>https://paperswithcode.com/paper/avatar-adversarial-self-supervised-domain</link>
-      <description><![CDATA[This paper presents an unsupervised domain adaptation (UDA) method for predicting unlabeled target domain data, specific to complex UDA tasks where the domain gap is significant.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/avatar-adversarial-self-supervised-domain</guid>
+      <title>Data-Driven Subgroup Identification for Linear Regression</title>
+      <link>https://paperswithcode.com/paper/data-driven-subgroup-identification-for</link>
+      <description><![CDATA[To do this, simple parametric models are frequently used (e. g. coefficients of linear regression) but usually fitted on the whole dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-driven-subgroup-identification-for</guid>
     </item>
     <item>
-      <title>LAVA: Data Valuation without Pre-Specified Learning Algorithms</title>
-      <link>https://paperswithcode.com/paper/lava-data-valuation-without-pre-specified</link>
-      <description><![CDATA[(1) We develop a proxy for the validation performance associated with a training set based on a non-conventional class-wise Wasserstein distance between the training and the validation set.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lava-data-valuation-without-pre-specified</guid>
+      <title>POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models</title>
+      <link>https://paperswithcode.com/paper/pouf-prompt-oriented-unsupervised-fine-tuning</link>
+      <description><![CDATA[Through prompting, large-scale pre-trained models have become more expressive and powerful, gaining significant attention in recent years.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pouf-prompt-oriented-unsupervised-fine-tuning</guid>
     </item>
     <item>
-      <title>An Empirical Study of Multimodal Model Merging</title>
-      <link>https://paperswithcode.com/paper/an-empirical-study-of-multimodal-model</link>
-      <description><![CDATA[Model merging (e. g., via interpolation or task arithmetic) fuses multiple models trained on different tasks to generate a multi-task solution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-study-of-multimodal-model</guid>
+      <title>Modality-invariant Visual Odometry for Embodied Vision</title>
+      <link>https://paperswithcode.com/paper/modality-invariant-visual-odometry-for</link>
+      <description><![CDATA[Our model outperforms previous methods while training on only a fraction of the data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/modality-invariant-visual-odometry-for</guid>
     </item>
     <item>
-      <title>Dense Hybrid Proposal Modulation for Lane Detection</title>
-      <link>https://paperswithcode.com/paper/dense-hybrid-proposal-modulation-for-lane</link>
-      <description><![CDATA[In addition to the shape and location constraints, we design a quality-aware classification loss to adaptively supervise each positive proposal so that the discriminative power can be further boosted.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dense-hybrid-proposal-modulation-for-lane</guid>
+      <title>Fusion for Visual-Infrared Person ReID in Real-World Surveillance Using Corrupted Multimodal Data</title>
+      <link>https://paperswithcode.com/paper/fusion-for-visual-infrared-person-reid-in</link>
+      <description><![CDATA[For realistic evaluation of multimodal (and cross-modal) V-I person ReID models, we propose new challenging corrupted datasets for scenarios where V and I cameras are co-located (CL) and not co-located (NCL).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fusion-for-visual-infrared-person-reid-in</guid>
     </item>
     <item>
-      <title>CCpdf: Building a High Quality Corpus for Visually Rich Documents from Web Crawl Data</title>
-      <link>https://paperswithcode.com/paper/ccpdf-building-a-high-quality-corpus-for</link>
-      <description><![CDATA[In recent years, the field of document understanding has progressed a lot.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ccpdf-building-a-high-quality-corpus-for</guid>
+      <title>A Coupled Flow Approach to Imitation Learning</title>
+      <link>https://paperswithcode.com/paper/a-coupled-flow-approach-to-imitation-learning</link>
+      <description><![CDATA[In reinforcement learning and imitation learning, an object of central importance is the state distribution induced by the policy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-coupled-flow-approach-to-imitation-learning</guid>
     </item>
     <item>
-      <title>Knowledge-refined Denoising Network for Robust Recommendation</title>
-      <link>https://paperswithcode.com/paper/knowledge-refined-denoising-network-for</link>
-      <description><![CDATA[Knowledge graph (KG), which contains rich side information, becomes an essential part to boost the recommendation performance and improve its explainability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/knowledge-refined-denoising-network-for</guid>
+      <title>Synergy of Machine and Deep Learning Models for Multi-Painter Recognition</title>
+      <link>https://paperswithcode.com/paper/synergy-of-machine-and-deep-learning-models</link>
+      <description><![CDATA[The growing availability of digitized art collections has created the need to manage, analyze and categorize large amounts of data related to abstract concepts, highlighting a demanding problem of computer science and leading to new research perspectives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/synergy-of-machine-and-deep-learning-models</guid>
     </item>
     <item>
-      <title>SGAligner : 3D Scene Alignment with Scene Graphs</title>
-      <link>https://paperswithcode.com/paper/sgaligner-3d-scene-alignment-with-scene</link>
-      <description><![CDATA[We propose SGAligner, the first method for aligning pairs of 3D scene graphs that is robust to in-the-wild scenarios (ie, unknown overlap -- if any -- and changes in the environment).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sgaligner-3d-scene-alignment-with-scene</guid>
-    </item>
-    <item>
-      <title>Information Redundancy and Biases in Public Document Information Extraction Benchmarks</title>
-      <link>https://paperswithcode.com/paper/information-redundancy-and-biases-in-public</link>
-      <description><![CDATA[Advances in the Visually-rich Document Understanding (VrDU) field and particularly the Key-Information Extraction (KIE) task are marked with the emergence of efficient Transformer-based approaches such as the LayoutLM models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/information-redundancy-and-biases-in-public</guid>
-    </item>
-    <item>
-      <title>CED: Catalog Extraction from Documents</title>
-      <link>https://paperswithcode.com/paper/ced-catalog-extraction-from-documents</link>
-      <description><![CDATA[To address this problem, we build a large manually annotated corpus, which is the first dataset for the Catalog Extraction from Documents (CED) task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ced-catalog-extraction-from-documents</guid>
-    </item>
-    <item>
-      <title>SGED: A Benchmark dataset for Performance Evaluation of Spiking Gesture Emotion Recognition</title>
-      <link>https://paperswithcode.com/paper/sged-a-benchmark-dataset-for-performance</link>
-      <description><![CDATA[Moreover, we propose a pseudo dual-flow network based on this dataset, and verify the application potential of this dataset in the affective computing community.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sged-a-benchmark-dataset-for-performance</guid>
-    </item>
-    <item>
-      <title>A feature selection method based on Shapley values robust to concept shift in regression</title>
-      <link>https://paperswithcode.com/paper/a-feature-selection-method-based-on-shapley-1</link>
-      <description><![CDATA[Feature selection is one of the most relevant processes in any methodology for creating a statistical learning model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-feature-selection-method-based-on-shapley-1</guid>
+      <title>NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning</title>
+      <link>https://paperswithcode.com/paper/neuralkg-ind-a-python-library-for-inductive</link>
+      <description><![CDATA[Since the dynamic characteristics of knowledge graphs, many inductive knowledge graph representation learning (KGRL) works have been proposed in recent years, focusing on enabling prediction over new entities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralkg-ind-a-python-library-for-inductive</guid>
     </item>
   </channel>
 </rss>
