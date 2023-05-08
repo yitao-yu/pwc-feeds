@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 May 2023 09:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 21:06:15 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
       <description><![CDATA[An Open Source Machine Learning Framework for Everyone]]></description>
       <guid isPermaLink="true">https://github.com/tensorflow/tensorflow</guid>
-    </item>
-    <item>
-      <title>Parsing as Pretraining</title>
-      <link>https://paperswithcode.com/paper/parsing-as-pretraining</link>
-      <description><![CDATA[We first cast constituent and dependency parsing as sequence tagging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parsing-as-pretraining</guid>
     </item>
     <item>
       <title>transformers</title>
@@ -31,6 +25,12 @@
       <link>https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</link>
       <description><![CDATA[In this work, we take the first step to exploit the pre-trained (unfine-tuned) weights to mitigate backdoors in fine-tuned language models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</guid>
+    </item>
+    <item>
+      <title>Parsing as Pretraining</title>
+      <link>https://paperswithcode.com/paper/parsing-as-pretraining</link>
+      <description><![CDATA[We first cast constituent and dependency parsing as sequence tagging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parsing-as-pretraining</guid>
     </item>
     <item>
       <title>models</title>
@@ -165,6 +165,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/caffe-convolutional-architecture-for-fast</guid>
     </item>
     <item>
+      <title>Low-code LLM: Visual Programming over LLMs</title>
+      <link>https://paperswithcode.com/paper/low-code-llm-visual-programming-over-llms</link>
+      <description><![CDATA[The proposed Low-code LLM framework consists of a Planning LLM that designs a structured planning workflow for complex tasks, which can be correspondingly edited and confirmed by users through low-code visual programming operations, and an Executing LLM that generates responses following the user-confirmed workflow.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/low-code-llm-visual-programming-over-llms</guid>
+    </item>
+    <item>
       <title>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</title>
       <link>https://paperswithcode.com/paper/visual-chatgpt-talking-drawing-and-editing</link>
       <description><![CDATA[To this end, We build a system called \textbf{Visual ChatGPT}, incorporating different Visual Foundation Models, to enable the user to interact with ChatGPT by 1) sending and receiving not only languages but also images 2) providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps.]]></description>
@@ -175,12 +181,6 @@
       <link>https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</link>
       <description><![CDATA[Moreover, training a ControlNet is as fast as fine-tuning a diffusion model, and the model can be trained on a personal devices.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/adding-conditional-control-to-text-to-image</guid>
-    </item>
-    <item>
-      <title>Low-code LLM: Visual Programming over LLMs</title>
-      <link>https://paperswithcode.com/paper/low-code-llm-visual-programming-over-llms</link>
-      <description><![CDATA[The proposed Low-code LLM framework consists of a Planning LLM that designs a structured planning workflow for complex tasks, which can be correspondingly edited and confirmed by users through low-code visual programming operations, and an Executing LLM that generates responses following the user-confirmed workflow.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/low-code-llm-visual-programming-over-llms</guid>
     </item>
     <item>
       <title>OpenAssistant Conversations -- Democratizing Large Language Model Alignment</title>
