@@ -7,78 +7,234 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 May 2023 21:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 09:12:24 +0000</lastBuildDate>
     <item>
-      <title>Making More of Little Data: Improving Low-Resource Automatic Speech Recognition Using Data Augmentation</title>
-      <link>https://paperswithcode.com/paper/making-more-of-little-data-improving-low</link>
-      <description><![CDATA[For Gronings, for which there was a pre-existing text-to-speech (TTS) system available, we also examined the use of TTS to generate ASR training data from text-only sources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/making-more-of-little-data-improving-low</guid>
+      <title>Boosting Knowledge Graph Generation from Tabular Data with RML Views</title>
+      <link>https://paperswithcode.com/paper/boosting-knowledge-graph-generation-from</link>
+      <description><![CDATA[We present our extension of Morph-KGC to efficiently support RML views for tabular sources.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/boosting-knowledge-graph-generation-from</guid>
     </item>
     <item>
-      <title>Silver Syntax Pre-training for Cross-Domain Relation Extraction</title>
-      <link>https://paperswithcode.com/paper/silver-syntax-pre-training-for-cross-domain</link>
-      <description><![CDATA[One of the main reasons for this is the limited training size of current RE datasets: obtaining high-quality (manually annotated) data is extremely expensive and cannot realistically be repeated for each new domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/silver-syntax-pre-training-for-cross-domain</guid>
+      <title>CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing</title>
+      <link>https://paperswithcode.com/paper/critic-large-language-models-can-self-correct</link>
+      <description><![CDATA[Unlike these models, humans typically utilize external tools to cross-check and refine their initial content, like using a search engine for fact-checking, or a code interpreter for debugging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/critic-large-language-models-can-self-correct</guid>
     </item>
     <item>
-      <title>TEPrompt: Task Enlightenment Prompt Learning for Implicit Discourse Relation Recognition</title>
-      <link>https://paperswithcode.com/paper/teprompt-task-enlightenment-prompt-learning</link>
-      <description><![CDATA[Although an auxiliary task is not used to directly output final prediction, we argue that during the joint training some of its learned features can be useful to boost the main task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/teprompt-task-enlightenment-prompt-learning</guid>
+      <title>Enhancing Few-shot NER with Prompt Ordering based Data Augmentation</title>
+      <link>https://paperswithcode.com/paper/enhancing-few-shot-ner-with-prompt-ordering</link>
+      <description><![CDATA[Recently, data augmentation (DA) methods have been proven to be effective for pre-trained language models (PLMs) in low-resource settings, including few-shot named entity recognition (NER).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-few-shot-ner-with-prompt-ordering</guid>
     </item>
     <item>
-      <title>BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER</title>
-      <link>https://paperswithcode.com/paper/bioaug-conditional-generation-based-data</link>
-      <description><![CDATA[Though data augmentation has shown to be highly effective for low-resource NER in general, existing data augmentation techniques fail to produce factual and diverse augmentations for BioNER.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bioaug-conditional-generation-based-data</guid>
+      <title>LLM-Pruner: On the Structural Pruning of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llm-pruner-on-the-structural-pruning-of-large</link>
+      <description><![CDATA[With LLM being a general-purpose task solver, we explore its compression in a task-agnostic manner, which aims to preserve the multi-task solving and language generation ability of the original LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-pruner-on-the-structural-pruning-of-large</guid>
     </item>
     <item>
-      <title>TrueTeacher: Learning Factual Consistency Evaluation with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/trueteacher-learning-factual-consistency</link>
-      <description><![CDATA[Using the the mFACE dataset, we also show that our method generalizes to multilingual scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/trueteacher-learning-factual-consistency</guid>
+      <title>GraphFC: Customs Fraud Detection with Label Scarcity</title>
+      <link>https://paperswithcode.com/paper/graphfc-customs-fraud-detection-with-label</link>
+      <description><![CDATA[Custom officials across the world encounter huge volumes of transactions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graphfc-customs-fraud-detection-with-label</guid>
     </item>
     <item>
-      <title>A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks</title>
-      <link>https://paperswithcode.com/paper/a-comparative-study-on-e-branchformer-vs</link>
-      <description><![CDATA[Conformer, a convolution-augmented Transformer variant, has become the de facto encoder architecture for speech processing due to its superior performance in various tasks, including automatic speech recognition (ASR), speech translation (ST) and spoken language understanding (SLU).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comparative-study-on-e-branchformer-vs</guid>
+      <title>ReSeTOX: Re-learning attention weights for toxicity mitigation in machine translation</title>
+      <link>https://paperswithcode.com/paper/resetox-re-learning-attention-weights-for</link>
+      <description><![CDATA[Our proposed method, ReSeTOX (REdo SEarch if TOXic), addresses the issue of Neural Machine Translation (NMT) generating translation outputs that contain toxic words not present in the input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/resetox-re-learning-attention-weights-for</guid>
     </item>
     <item>
-      <title>Knowledge-based Integration of Multi-Omic Datasets with Anansi: Annotation-based Analysis of Specific Interactions</title>
-      <link>https://paperswithcode.com/paper/knowledge-based-integration-of-multi-omic</link>
-      <description><![CDATA[We further extend our framework beyond pairwise association testing to differential association testing, and show how anansi can be used to identify associations that differ in strength or degree based on sample covariates such as case/control status.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/knowledge-based-integration-of-multi-omic</guid>
+      <title>DUB: Discrete Unit Back-translation for Speech Translation</title>
+      <link>https://paperswithcode.com/paper/dub-discrete-unit-back-translation-for-speech</link>
+      <description><![CDATA[The key point is to bridge the modality gap between speech and text so that useful MT techniques can be applied to ST.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dub-discrete-unit-back-translation-for-speech</guid>
     </item>
     <item>
-      <title>On the Off-Target Problem of Zero-Shot Multilingual Neural Machine Translation</title>
-      <link>https://paperswithcode.com/paper/on-the-off-target-problem-of-zero-shot</link>
-      <description><![CDATA[We conduct experiments on a multilingual machine translation benchmark in 11 languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-off-target-problem-of-zero-shot</guid>
+      <title>Recycle-and-Distill: Universal Compression Strategy for Transformer-based Speech SSL Models with Attention Map Reusing and Masking Distillation</title>
+      <link>https://paperswithcode.com/paper/recycle-and-distill-universal-compression</link>
+      <description><![CDATA[Transformer-based speech self-supervised learning (SSL) models, such as HuBERT, show surprising performance in various speech processing tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/recycle-and-distill-universal-compression</guid>
     </item>
     <item>
-      <title>FunASR: A Fundamental End-to-End Speech Recognition Toolkit</title>
-      <link>https://paperswithcode.com/paper/funasr-a-fundamental-end-to-end-speech</link>
-      <description><![CDATA[FunASR offers models trained on large-scale industrial corpora and the ability to deploy them in applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/funasr-a-fundamental-end-to-end-speech</guid>
+      <title>QUEST: A Retrieval Dataset of Entity-Seeking Queries with Implicit Set Operations</title>
+      <link>https://paperswithcode.com/paper/quest-a-retrieval-dataset-of-entity-seeking</link>
+      <description><![CDATA[To study the ability of retrieval systems to meet such information needs, we construct QUEST, a dataset of 3357 natural language queries with implicit set operations, that map to a set of entities corresponding to Wikipedia documents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quest-a-retrieval-dataset-of-entity-seeking</guid>
     </item>
     <item>
-      <title>TAPIR: Learning Adaptive Revision for Incremental Natural Language Understanding with a Two-Pass Model</title>
-      <link>https://paperswithcode.com/paper/tapir-learning-adaptive-revision-for</link>
-      <description><![CDATA[RNNs are fast but monotonic (cannot correct earlier output, which can be necessary in incremental processing).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tapir-learning-adaptive-revision-for</guid>
+      <title>Efficient Mixed Transformer for Single Image Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/efficient-mixed-transformer-for-single-image</link>
+      <description><![CDATA[Specifically, we propose the Mixed Transformer Block (MTB), consisting of multiple consecutive transformer layers, in some of which the Pixel Mixer (PM) is used to replace the Self-Attention (SA).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-mixed-transformer-for-single-image</guid>
     </item>
     <item>
-      <title>CLEME: Debiasing Multi-reference Evaluation for Grammatical Error Correction</title>
-      <link>https://paperswithcode.com/paper/cleme-debiasing-multi-reference-evaluation</link>
-      <description><![CDATA[Our proposed CLEME approach consistently and substantially outperforms existing reference-based GEC metrics on multiple reference sets in both corpus-level and sentence-level settings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cleme-debiasing-multi-reference-evaluation</guid>
+      <title>Complex Claim Verification with Evidence Retrieved in the Wild</title>
+      <link>https://paperswithcode.com/paper/complex-claim-verification-with-evidence</link>
+      <description><![CDATA[Evidence retrieval is a core part of automatic fact-checking.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/complex-claim-verification-with-evidence</guid>
     </item>
     <item>
-      <title>mdctGAN: Taming transformer-based GAN for speech super-resolution with Modified DCT spectra</title>
-      <link>https://paperswithcode.com/paper/mdctgan-taming-transformer-based-gan-for</link>
-      <description><![CDATA[Speech super-resolution (SSR) aims to recover a high resolution (HR) speech from its corresponding low resolution (LR) counterpart.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mdctgan-taming-transformer-based-gan-for</guid>
+      <title>The Inside Story: Towards Better Understanding of Machine Translation Neural Evaluation Metrics</title>
+      <link>https://paperswithcode.com/paper/the-inside-story-towards-better-understanding</link>
+      <description><![CDATA[Neural metrics for machine translation evaluation, such as COMET, exhibit significant improvements in their correlation with human judgments, as compared to traditional metrics based on lexical overlap, such as BLEU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-inside-story-towards-better-understanding</guid>
+    </item>
+    <item>
+      <title>Multi-Objective Optimization Using the R2 Utility</title>
+      <link>https://paperswithcode.com/paper/multi-objective-optimization-using-the-r2</link>
+      <description><![CDATA[In order to solve this vector-valued optimization problem, practitioners often appeal to the use of scalarization functions in order to transform the multi-objective problem into a collection of single-objective problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-objective-optimization-using-the-r2</guid>
+    </item>
+    <item>
+      <title>TSGM: A Flexible Framework for Generative Modeling of Synthetic Time Series</title>
+      <link>https://paperswithcode.com/paper/tsgm-a-flexible-framework-for-generative</link>
+      <description><![CDATA[Temporally indexed data are essential in a wide range of fields and of interest to machine learning researchers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tsgm-a-flexible-framework-for-generative</guid>
+    </item>
+    <item>
+      <title>BAT: Boundary aware transducer for memory-efficient and low-latency ASR</title>
+      <link>https://paperswithcode.com/paper/bat-boundary-aware-transducer-for-memory</link>
+      <description><![CDATA[Recently, recurrent neural network transducer (RNN-T) gains increasing popularity due to its natural streaming capability as well as superior performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bat-boundary-aware-transducer-for-memory</guid>
+    </item>
+    <item>
+      <title>Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment</title>
+      <link>https://paperswithcode.com/paper/long-tailed-visual-recognition-via-gaussian-1</link>
+      <description><![CDATA[It is unfavorable for training on balanced data, but can be utilized to adjust the validity of the samples in long-tailed data, thereby solving the distorted embedding space of long-tailed problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/long-tailed-visual-recognition-via-gaussian-1</guid>
+    </item>
+    <item>
+      <title>Graph Propagation Transformer for Graph Representation Learning</title>
+      <link>https://paperswithcode.com/paper/graph-propagation-transformer-for-graph</link>
+      <description><![CDATA[The core insight of our method is to fully consider the information propagation among nodes and edges in a graph when building the attention module in the transformer blocks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-propagation-transformer-for-graph</guid>
+    </item>
+    <item>
+      <title>AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning</title>
+      <link>https://paperswithcode.com/paper/attriclip-a-non-incremental-learner-for-1</link>
+      <description><![CDATA[Text consists of a category name and a fixed number of learnable parameters which are selected from our designed attribute word bank and serve as attributes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attriclip-a-non-incremental-learner-for-1</guid>
+    </item>
+    <item>
+      <title>Syllable Discovery and Cross-Lingual Generalization in a Visually Grounded, Self-Supervised Speech Mode</title>
+      <link>https://paperswithcode.com/paper/syllable-discovery-and-cross-lingual</link>
+      <description><![CDATA[In this paper, we show that representations capturing syllabic units emerge when training a self-supervised speech model with a visually-grounded training objective.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/syllable-discovery-and-cross-lingual</guid>
+    </item>
+    <item>
+      <title>Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization</title>
+      <link>https://paperswithcode.com/paper/towards-accurate-image-coding-improved-1</link>
+      <description><![CDATA[Existing vector quantization (VQ) based autoregressive models follow a two-stage generation paradigm that first learns a codebook to encode images as discrete codes, and then completes generation based on the learned codebook.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-accurate-image-coding-improved-1</guid>
+    </item>
+    <item>
+      <title>Zero-Shot Text Classification via Self-Supervised Tuning</title>
+      <link>https://paperswithcode.com/paper/zero-shot-text-classification-via-self</link>
+      <description><![CDATA[In this work, we propose a new paradigm based on self-supervised learning to solve zero-shot text classification tasks by tuning the language models with unlabeled data, called self-supervised tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-text-classification-via-self</guid>
+    </item>
+    <item>
+      <title>Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling</title>
+      <link>https://paperswithcode.com/paper/information-screening-whilst-exploiting</link>
+      <description><![CDATA[First, we represent the fine-grained semantic structures of the input image and text with the visual and textual scene graphs, which are further fused into a unified cross-modal graph (CMG).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/information-screening-whilst-exploiting</guid>
+    </item>
+    <item>
+      <title>Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment</title>
+      <link>https://paperswithcode.com/paper/towards-better-gradient-consistency-for-1</link>
+      <description><![CDATA[Our insight is to propagate the zero level set to everywhere in the field through consistent gradients to eliminate uncertainty in the field that is caused by the discreteness of 3D point clouds or the lack of observations from multi-view images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-better-gradient-consistency-for-1</guid>
+    </item>
+    <item>
+      <title>Learning Diverse Risk Preferences in Population-based Self-play</title>
+      <link>https://paperswithcode.com/paper/learning-diverse-risk-preferences-in</link>
+      <description><![CDATA[In this paper, we aim to introduce diversity from the perspective that agents could have diverse risk preferences in the face of uncertainty.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-diverse-risk-preferences-in</guid>
+    </item>
+    <item>
+      <title>Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness</title>
+      <link>https://paperswithcode.com/paper/overcoming-topology-agnosticism-enhancing</link>
+      <description><![CDATA[This finding exposes the limitations of a single adjacency matrix in capturing the variations of relational configurations emblematic of human movement, which we remedy by proposing an efficient refinement to Graph Convolutions (GC) - the BlockGC.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/overcoming-topology-agnosticism-enhancing</guid>
+    </item>
+    <item>
+      <title>DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment</title>
+      <link>https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1</link>
+      <description><![CDATA[Thanks to the proposed fusion module, our method is robust not only to occlusion and large pitch and roll view angles, which is the benefit of our image space approach, but also to noise and large yaw angles, which is the benefit of our model space method.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dsfnet-dual-space-fusion-network-for-1</guid>
+    </item>
+    <item>
+      <title>PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction</title>
+      <link>https://paperswithcode.com/paper/pastnet-introducing-physical-inductive-biases</link>
+      <description><![CDATA[In this paper, we investigate the challenge of spatio-temporal video prediction, which involves generating future videos based on historical data streams.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pastnet-introducing-physical-inductive-biases</guid>
+    </item>
+    <item>
+      <title>Generating Visual Spatial Description via Holistic 3D Scene Understanding</title>
+      <link>https://paperswithcode.com/paper/generating-visual-spatial-description-via</link>
+      <description><![CDATA[With an external 3D scene extractor, we obtain the 3D objects and scene features for input images, based on which we construct a target object-centered 3D spatial scene graph (Go3D-S2G), such that we model the spatial semantics of target objects within the holistic 3D scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-visual-spatial-description-via</guid>
+    </item>
+    <item>
+      <title>LATTE: Label-efficient Incident Phenotyping from Longitudinal Electronic Health Records</title>
+      <link>https://paperswithcode.com/paper/latte-label-efficient-incident-phenotyping</link>
+      <description><![CDATA[We propose a LAbel-efficienT incidenT phEnotyping (LATTE) algorithm to accurately annotate the timing of clinical events from longitudinal EHR data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latte-label-efficient-incident-phenotyping</guid>
+    </item>
+    <item>
+      <title>Probabilistic Lexicase Selection</title>
+      <link>https://paperswithcode.com/paper/probabilistic-lexicase-selection</link>
+      <description><![CDATA[Lexicase selection is a widely used parent selection algorithm in genetic programming, known for its success in various task domains such as program synthesis, symbolic regression, and machine learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/probabilistic-lexicase-selection</guid>
+    </item>
+    <item>
+      <title>InstructIE: A Chinese Instruction-based Information Extraction Dataset</title>
+      <link>https://paperswithcode.com/paper/instructie-a-chinese-instruction-based</link>
+      <description><![CDATA[We introduce a new Information Extraction (IE) task dubbed Instruction-based IE, which aims to ask the system to follow specific instructions or guidelines to extract information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructie-a-chinese-instruction-based</guid>
+    </item>
+    <item>
+      <title>JetSeg: Efficient Real-Time Semantic Segmentation Model for Low-Power GPU-Embedded Systems</title>
+      <link>https://paperswithcode.com/paper/jetseg-efficient-real-time-semantic</link>
+      <description><![CDATA[The JetNet is designed for GPU-Embedded Systems and includes two main components: a new light-weight efficient block called JetBlock, that reduces the number of parameters minimizing memory usage and inference time without sacrificing accuracy; a new strategy that involves the combination of asymmetric and non-asymmetric convolutions with depthwise-dilated convolutions called JetConv, a channel shuffle operation, light-weight activation functions, and a convenient number of group convolutions for embedded systems, and an innovative loss function named JetLoss, which integrates the Precision, Recall, and IoUB losses to improve semantic segmentation and reduce computational complexity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/jetseg-efficient-real-time-semantic</guid>
+    </item>
+    <item>
+      <title>Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment</title>
+      <link>https://paperswithcode.com/paper/few-shot-learning-with-visual-distribution-1</link>
+      <description><![CDATA[However, with only a few training images, there exist two crucial problems: (1) the visual feature distributions are easily distracted by class-irrelevant information in images, and (2) the alignment between the visual and language feature distributions is difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/few-shot-learning-with-visual-distribution-1</guid>
+    </item>
+    <item>
+      <title>Decouple knowledge from paramters for plug-and-play language modeling</title>
+      <link>https://paperswithcode.com/paper/decouple-knowledge-from-paramters-for-plug</link>
+      <description><![CDATA[The key intuition is to decouple the knowledge storage from model parameters with an editable and scalable key-value memory and leverage knowledge in an explainable manner by knowledge retrieval in the DPM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decouple-knowledge-from-paramters-for-plug</guid>
+    </item>
+    <item>
+      <title>Marginalized Beam Search Algorithms for Hierarchical HMMs</title>
+      <link>https://paperswithcode.com/paper/marginalized-beam-search-algorithms-for</link>
+      <description><![CDATA[Inferring a state sequence from a sequence of measurements is a fundamental problem in bioinformatics and natural language processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/marginalized-beam-search-algorithms-for</guid>
+    </item>
+    <item>
+      <title>Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery</title>
+      <link>https://paperswithcode.com/paper/surgical-vqla-transformer-with-gated-vision</link>
+      <description><![CDATA[In this paper, we propose Visual Question Localized-Answering in Robotic Surgery (Surgical-VQLA) to localize the specific surgical area during the answer prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/surgical-vqla-transformer-with-gated-vision</guid>
+    </item>
+    <item>
+      <title>RxnScribe: A Sequence Generation Model for Reaction Diagram Parsing</title>
+      <link>https://paperswithcode.com/paper/rxnscribe-a-sequence-generation-model-for</link>
+      <description><![CDATA[Reaction diagram parsing is the task of extracting reaction schemes from a diagram in the chemistry literature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rxnscribe-a-sequence-generation-model-for</guid>
+    </item>
+    <item>
+      <title>In the Name of Fairness: Assessing the Bias in Clinical Record De-identification</title>
+      <link>https://paperswithcode.com/paper/in-the-name-of-fairness-assessing-the-bias-in</link>
+      <description><![CDATA[Data sharing is crucial for open science and reproducible research, but the legal sharing of clinical data requires the removal of protected health information from electronic health records.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/in-the-name-of-fairness-assessing-the-bias-in</guid>
     </item>
     <item>
       <title>GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework</title>
@@ -87,94 +243,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/getmusic-generating-any-music-tracks-with-a</guid>
     </item>
     <item>
-      <title>ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis</title>
-      <link>https://paperswithcode.com/paper/consistentnerf-enhancing-neural-radiance</link>
-      <description><![CDATA[In this paper, we propose ConsistentNeRF, a method that leverages depth information to regularize both multi-view and single-view 3D consistency among pixels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/consistentnerf-enhancing-neural-radiance</guid>
-    </item>
-    <item>
-      <title>Paxion: Patching Action Knowledge in Video-Language Foundation Models</title>
-      <link>https://paperswithcode.com/paper/paxion-patching-action-knowledge-in-video</link>
-      <description><![CDATA[The Paxion framework utilizes a Knowledge Patcher network to encode new action knowledge and a Knowledge Fuser component to integrate the Patcher into frozen VidLMs without compromising their existing capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paxion-patching-action-knowledge-in-video</guid>
-    </item>
-    <item>
-      <title>Self-supervised Fine-tuning for Improved Content Representations by Speaker-invariant Clustering</title>
-      <link>https://paperswithcode.com/paper/self-supervised-fine-tuning-for-improved</link>
-      <description><![CDATA[Self-supervised speech representation models have succeeded in various tasks, but improving them for content-related problems using unlabeled data is challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-fine-tuning-for-improved</guid>
-    </item>
-    <item>
-      <title>Going Denser with Open-Vocabulary Part Segmentation</title>
-      <link>https://paperswithcode.com/paper/going-denser-with-open-vocabulary-part</link>
-      <description><![CDATA[In this paper, we propose a detector with the ability to predict both open-vocabulary objects and their part segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/going-denser-with-open-vocabulary-part</guid>
-    </item>
-    <item>
       <title>Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks</title>
       <link>https://paperswithcode.com/paper/sharing-lifelong-reinforcement-learning</link>
       <description><![CDATA[The key idea is that the isolation of specific task knowledge to specific masks allows agents to transfer only specific knowledge on-demand, resulting in robust and effective distributed lifelong learning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sharing-lifelong-reinforcement-learning</guid>
-    </item>
-    <item>
-      <title>Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model</title>
-      <link>https://paperswithcode.com/paper/instruct2act-mapping-multi-modality</link>
-      <description><![CDATA[This paper presents Instruct2Act, a framework that utilizes Large Language Models to map multi-modal instructions to sequential actions for robotic manipulation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instruct2act-mapping-multi-modality</guid>
-    </item>
-    <item>
-      <title>Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness</title>
-      <link>https://paperswithcode.com/paper/quiver-supporting-gpus-for-low-latency-high</link>
-      <description><![CDATA[Quiver's key idea is to exploit workload metrics for predicting the irregular computation of GNN requests, and governing the use of GPUs for graph sampling and feature aggregation: (1) for graph sampling, Quiver calculates the probabilistic sampled graph size, a metric that predicts the degree of parallelism in graph sampling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quiver-supporting-gpus-for-low-latency-high</guid>
-    </item>
-    <item>
-      <title>VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks</title>
-      <link>https://paperswithcode.com/paper/visionllm-large-language-model-is-also-an</link>
-      <description><![CDATA[We hope this model can set a new baseline for generalist vision and language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visionllm-large-language-model-is-also-an</guid>
-    </item>
-    <item>
-      <title>Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization</title>
-      <link>https://paperswithcode.com/paper/prompting-the-hidden-talent-of-web-scale</link>
-      <description><![CDATA[We investigate the emergent abilities of the recently proposed web-scale speech model Whisper, by adapting it to unseen tasks with prompt engineering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompting-the-hidden-talent-of-web-scale</guid>
-    </item>
-    <item>
-      <title>Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model</title>
-      <link>https://paperswithcode.com/paper/exploiting-biased-models-to-de-bias-text-a</link>
-      <description><![CDATA[We hypothesise that creating training data in the reverse direction, i. e. starting from gender-fair text, is easier for morphologically complex languages and show that it matches the performance of state-of-the-art rewriting models for English.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploiting-biased-models-to-de-bias-text-a</guid>
-    </item>
-    <item>
-      <title>Difference of Submodular Minimization via DC Programming</title>
-      <link>https://paperswithcode.com/paper/difference-of-submodular-minimization-via-dc</link>
-      <description><![CDATA[We introduce variants of DCA and its complete form (CDCA) that we apply to the DC program corresponding to DS minimization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/difference-of-submodular-minimization-via-dc</guid>
-    </item>
-    <item>
-      <title>Extracting Low-/High- Frequency Knowledge from Graph Neural Networks and Injecting it into MLPs: An Effective GNN-to-MLP Distillation Framework</title>
-      <link>https://paperswithcode.com/paper/extracting-low-high-frequency-knowledge-from</link>
-      <description><![CDATA[Furthermore, we identified a potential information drowning problem for existing GNN-to-MLP distillation, i. e., the high-frequency knowledge of the pre-trained GNNs may be overwhelmed by the low-frequency knowledge during distillation; we have described in detail what it represents, how it arises, what impact it has, and how to deal with it.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/extracting-low-high-frequency-knowledge-from</guid>
-    </item>
-    <item>
-      <title>Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors</title>
-      <link>https://paperswithcode.com/paper/aligning-instruction-tasks-unlocks-large</link>
-      <description><![CDATA[Recent work has shown that fine-tuning large language models (LLMs) on large-scale instruction-following datasets substantially improves their performance on a wide range of NLP tasks, especially in the zero-shot setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-instruction-tasks-unlocks-large</guid>
-    </item>
-    <item>
-      <title>Scribble-Supervised Target Extraction Method Based on Inner Structure-Constraint for Remote Sensing Images</title>
-      <link>https://paperswithcode.com/paper/scribble-supervised-target-extraction-method</link>
-      <description><![CDATA[Weakly supervised learning based on scribble annotations in target extraction of remote sensing images has drawn much interest due to scribbles' flexibility in denoting winding objects and low cost of manually labeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scribble-supervised-target-extraction-method</guid>
-    </item>
-    <item>
-      <title>Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping</title>
-      <link>https://paperswithcode.com/paper/revisiting-long-term-time-series-forecasting</link>
-      <description><![CDATA[In this paper, we thoroughly investigate the intrinsic effectiveness of recent approaches and make three key observations: 1) linear mapping is critical to prior long-term time series forecasting efforts; 2) RevIN (reversible normalization) and CI (Channel Independent) play a vital role in improving overall forecasting performance; and 3) linear mapping can effectively capture periodic features in time series and has robustness for different periods across channels when increasing the input horizon.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-long-term-time-series-forecasting</guid>
     </item>
     <item>
       <title>A benchmark for computational analysis of animal behavior, using animal-borne tags</title>
@@ -187,18 +259,6 @@
       <link>https://paperswithcode.com/paper/flatness-aware-prompt-selection-improves</link>
       <description><![CDATA[We provide theoretical foundations for this metric and its relationship with other prompt selection metrics, providing a comprehensive understanding of existing methods.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/flatness-aware-prompt-selection-improves</guid>
-    </item>
-    <item>
-      <title>Segment Any Anomaly without Training via Hybrid Prompt Regularization</title>
-      <link>https://paperswithcode.com/paper/segment-any-anomaly-without-training-via-1</link>
-      <description><![CDATA[We present a novel framework, i. e., Segment Any Anomaly + (SAA+), for zero-shot anomaly segmentation with hybrid prompt regularization to improve the adaptability of modern foundation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-any-anomaly-without-training-via-1</guid>
-    </item>
-    <item>
-      <title>ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities</title>
-      <link>https://paperswithcode.com/paper/one-peace-exploring-one-general</link>
-      <description><![CDATA[In this work, we explore a scalable way for building a general representation model toward unlimited modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-peace-exploring-one-general</guid>
     </item>
     <item>
       <title>SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks</title>
@@ -225,28 +285,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/seq-hgnn-learning-sequential-node</guid>
     </item>
     <item>
-      <title>ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval</title>
-      <link>https://paperswithcode.com/paper/regen-zero-shot-text-classification-via</link>
-      <description><![CDATA[With the development of large language models (LLMs), zero-shot learning has attracted much attention for various NLP tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/regen-zero-shot-text-classification-via</guid>
-    </item>
-    <item>
       <title>Unbiased Gradient Boosting Decision Tree with Unbiased Feature Importance</title>
       <link>https://paperswithcode.com/paper/unbiased-gradient-boosting-decision-tree-with</link>
       <description><![CDATA[To this end, we provide a fine-grained analysis of bias in GBDT and demonstrate that the bias originates from 1) the systematic bias in the gain estimation of each split and 2) the bias in the split finding algorithm resulting from the use of the same data to evaluate the split improvement and determine the best split.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/unbiased-gradient-boosting-decision-tree-with</guid>
-    </item>
-    <item>
-      <title>Generalized Planning in PDDL Domains with Pretrained Large Language Models</title>
-      <link>https://paperswithcode.com/paper/generalized-planning-in-pddl-domains-with</link>
-      <description><![CDATA[We investigate whether LLMs can serve as generalized planners: given a domain and training tasks, generate a program that efficiently produces plans for other tasks in the domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-planning-in-pddl-domains-with</guid>
-    </item>
-    <item>
-      <title>Structural Pruning for Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/structural-pruning-for-diffusion-models</link>
-      <description><![CDATA[Generative modeling has recently undergone remarkable advancements, primarily propelled by the transformative implications of Diffusion Probabilistic Models (DPMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/structural-pruning-for-diffusion-models</guid>
     </item>
     <item>
       <title>High-dimensional Asymptotics of Denoising Autoencoders</title>
@@ -255,58 +297,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-dimensional-asymptotics-of-denoising</guid>
     </item>
     <item>
-      <title>Multilingual Event Extraction from Historical Newspaper Adverts</title>
-      <link>https://paperswithcode.com/paper/multilingual-event-extraction-from-historical</link>
-      <description><![CDATA[We find that: 1) even with scarce annotated data, it is possible to achieve surprisingly good results by formulating the problem as an extractive QA task and leveraging existing datasets and models for modern languages; and 2) cross-lingual low-resource learning for historical languages is highly challenging, and machine translation of the historical datasets to the considered target languages is, in practice, often the best-performing solution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multilingual-event-extraction-from-historical</guid>
+      <title>Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model</title>
+      <link>https://paperswithcode.com/paper/instruct2act-mapping-multi-modality</link>
+      <description><![CDATA[This paper presents Instruct2Act, a framework that utilizes Large Language Models to map multi-modal instructions to sequential actions for robotic manipulation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instruct2act-mapping-multi-modality</guid>
     </item>
     <item>
-      <title>When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation</title>
-      <link>https://paperswithcode.com/paper/when-search-meets-recommendation-learning</link>
-      <description><![CDATA[In our paper, we propose a Search-Enhanced framework for the Sequential Recommendation (SESRec) that leverages users' search interests for recommendation, by disentangling similar and dissimilar representations within S&R behaviors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/when-search-meets-recommendation-learning</guid>
-    </item>
-    <item>
-      <title>DiffUTE: Universal Text Editing Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/diffute-universal-text-editing-diffusion</link>
-      <description><![CDATA[Specifically, we build our model on a diffusion model and carefully modify the network structure to enable the model for drawing multilingual characters with the help of glyph and position information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffute-universal-text-editing-diffusion</guid>
-    </item>
-    <item>
-      <title>Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation</title>
-      <link>https://paperswithcode.com/paper/take-a-break-in-the-middle-investigating</link>
-      <description><![CDATA[Goal-oriented Script Generation is a new task of generating a list of steps that can fulfill the given goal.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/take-a-break-in-the-middle-investigating</guid>
-    </item>
-    <item>
-      <title>How does the task complexity of masked pretraining objectives affect downstream performance?</title>
-      <link>https://paperswithcode.com/paper/how-does-the-task-complexity-of-masked</link>
-      <description><![CDATA[Masked language modeling (MLM) is a widely used self-supervised pretraining objective, where a model needs to predict an original token that is replaced with a mask given contexts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-does-the-task-complexity-of-masked</guid>
-    </item>
-    <item>
-      <title>A Survey on Time-Series Pre-Trained Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-on-time-series-pre-trained-models</link>
-      <description><![CDATA[Time-Series Mining (TSM) is an important research area since it shows great potential in practical applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-time-series-pre-trained-models</guid>
-    </item>
-    <item>
-      <title>MiraBest: A Dataset of Morphologically Classified Radio Galaxies for Machine Learning</title>
-      <link>https://paperswithcode.com/paper/mirabest-a-dataset-of-morphologically</link>
-      <description><![CDATA[Existing applications that utilise the MiraBest dataset are reviewed, and an extended dataset of 2100 sources is created by cross-matching MiraBest with other catalogues of radio-loud AGN that have been used more widely in the literature for machine learning applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mirabest-a-dataset-of-morphologically</guid>
-    </item>
-    <item>
-      <title>Domain Adaptive Sim-to-Real Segmentation of Oropharyngeal Organs</title>
-      <link>https://paperswithcode.com/paper/domain-adaptive-sim-to-real-segmentation-of</link>
-      <description><![CDATA[In this work, we propose a domain adaptive Sim-to-Real framework called IoU-Ranking Blend-ArtFlow (IRB-AF) for image segmentation of oropharyngeal organs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/domain-adaptive-sim-to-real-segmentation-of</guid>
-    </item>
-    <item>
-      <title>TextDiffuser: Diffusion Models as Text Painters</title>
-      <link>https://paperswithcode.com/paper/textdiffuser-diffusion-models-as-text</link>
-      <description><![CDATA[Diffusion models have gained increasing attention for their impressive generation abilities but currently struggle with rendering accurate and coherent text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/textdiffuser-diffusion-models-as-text</guid>
+      <title>Quiver: Supporting GPUs for Low-Latency, High-Throughput GNN Serving with Workload Awareness</title>
+      <link>https://paperswithcode.com/paper/quiver-supporting-gpus-for-low-latency-high</link>
+      <description><![CDATA[Quiver's key idea is to exploit workload metrics for predicting the irregular computation of GNN requests, and governing the use of GPUs for graph sampling and feature aggregation: (1) for graph sampling, Quiver calculates the probabilistic sampled graph size, a metric that predicts the degree of parallelism in graph sampling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quiver-supporting-gpus-for-low-latency-high</guid>
     </item>
   </channel>
 </rss>
