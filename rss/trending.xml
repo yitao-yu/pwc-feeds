@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 May 2023 09:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 21:06:08 +0000</lastBuildDate>
     <item>
-      <title>Any-to-Any Generation via Composable Diffusion</title>
-      <link>https://paperswithcode.com/paper/any-to-any-generation-via-composable</link>
-      <description><![CDATA[We present Composable Diffusion (CoDi), a novel generative model capable of generating any combination of output modalities, such as language, image, video, or audio, from any combination of input modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/any-to-any-generation-via-composable</guid>
+      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
+      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
+      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
     </item>
     <item>
       <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
@@ -21,10 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
     </item>
     <item>
-      <title>ControlVideo: Training-free Controllable Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/controlvideo-training-free-controllable-text</link>
-      <description><![CDATA[Text-driven diffusion models have unlocked unprecedented abilities in image generation, whereas their video counterpart still lags behind due to the excessive training cost of temporal modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/controlvideo-training-free-controllable-text</guid>
+      <title>Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach</title>
+      <link>https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</link>
+      <description><![CDATA[However, generating images of novel concept provided by the user input image is still a challenging task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</guid>
+    </item>
+    <item>
+      <title>Any-to-Any Generation via Composable Diffusion</title>
+      <link>https://paperswithcode.com/paper/any-to-any-generation-via-composable</link>
+      <description><![CDATA[We present Composable Diffusion (CoDi), a novel generative model capable of generating any combination of output modalities, such as language, image, video, or audio, from any combination of input modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/any-to-any-generation-via-composable</guid>
     </item>
     <item>
       <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
@@ -33,10 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
     </item>
     <item>
-      <title>i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data</title>
-      <link>https://paperswithcode.com/paper/i-code-v2-an-autoregressive-generation</link>
-      <description><![CDATA[The convergence of text, visual, and audio data is a key step towards human-like artificial intelligence, however the current Vision-Language-Speech landscape is dominated by encoder-only models which lack generative abilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/i-code-v2-an-autoregressive-generation</guid>
+      <title>VanillaNet: the Power of Minimalism in Deep Learning</title>
+      <link>https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</link>
+      <description><![CDATA[In this study, we introduce VanillaNet, a neural network architecture that embraces elegance in design.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</guid>
+    </item>
+    <item>
+      <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
+      <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
+      <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
+    </item>
+    <item>
+      <title>ControlVideo: Training-free Controllable Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/controlvideo-training-free-controllable-text</link>
+      <description><![CDATA[Text-driven diffusion models have unlocked unprecedented abilities in image generation, whereas their video counterpart still lags behind due to the excessive training cost of temporal modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/controlvideo-training-free-controllable-text</guid>
+    </item>
+    <item>
+      <title>Unifying Vision, Text, and Layout for Universal Document Processing</title>
+      <link>https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</link>
+      <description><![CDATA[UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</guid>
     </item>
     <item>
       <title>RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text</title>
@@ -51,46 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/speechgpt-empowering-large-language-models</guid>
     </item>
     <item>
-      <title>Sparks of Artificial General Intelligence: Early experiments with GPT-4</title>
-      <link>https://paperswithcode.com/paper/sparks-of-artificial-general-intelligence</link>
-      <description><![CDATA[We contend that (this early version of) GPT-4 is part of a new cohort of LLMs (along with ChatGPT and Google's PaLM for example) that exhibit more general intelligence than previous AI models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparks-of-artificial-general-intelligence</guid>
-    </item>
-    <item>
       <title>fairseq</title>
       <link>https://github.com/pytorch/fairseq</link>
       <description><![CDATA[Facebook AI Research Sequence-to-Sequence Toolkit written in Python.]]></description>
       <guid isPermaLink="true">https://github.com/pytorch/fairseq</guid>
-    </item>
-    <item>
-      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
-      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
-      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
-    </item>
-    <item>
-      <title>string2string: A Modern Python Library for String-to-String Algorithms</title>
-      <link>https://paperswithcode.com/paper/string2string-a-modern-python-library-for</link>
-      <description><![CDATA[It includes traditional algorithmic solutions as well as recent advanced neural approaches to tackle various problems in string alignment, distance measurement, lexical and semantic search, and similarity analysis -- along with several helpful visualization tools and metrics to facilitate the interpretation and analysis of these methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/string2string-a-modern-python-library-for</guid>
-    </item>
-    <item>
-      <title>Pengi: An Audio Language Model for Audio Tasks</title>
-      <link>https://paperswithcode.com/paper/pengi-an-audio-language-model-for-audio-tasks</link>
-      <description><![CDATA[We introduce Pengi, a novel Audio Language Model that leverages Transfer Learning by framing all audio tasks as text-generation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pengi-an-audio-language-model-for-audio-tasks</guid>
-    </item>
-    <item>
-      <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
-      <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
-      <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
-    </item>
-    <item>
-      <title>Scaling Speech Technology to 1,000+ Languages</title>
-      <link>https://paperswithcode.com/paper/scaling-speech-technology-to-1000-languages</link>
-      <description><![CDATA[Expanding the language coverage of speech technology has the potential to improve access to information for many more people.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-speech-technology-to-1000-languages</guid>
     </item>
     <item>
       <title>Facebook AI’s WMT21 News Translation Task Submission</title>
@@ -105,16 +93,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/speech-to-speech-translation-for-a-real-world</guid>
     </item>
     <item>
-      <title>VanillaNet: the Power of Minimalism in Deep Learning</title>
-      <link>https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</link>
-      <description><![CDATA[In this study, we introduce VanillaNet, a neural network architecture that embraces elegance in design.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</guid>
+      <title>Scaling Speech Technology to 1,000+ Languages</title>
+      <link>https://paperswithcode.com/paper/scaling-speech-technology-to-1000-languages</link>
+      <description><![CDATA[Expanding the language coverage of speech technology has the potential to improve access to information for many more people.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-speech-technology-to-1000-languages</guid>
     </item>
     <item>
-      <title>CodeT5+: Open Code Large Language Models for Code Understanding and Generation</title>
-      <link>https://paperswithcode.com/paper/codet5-open-code-large-language-models-for</link>
-      <description><![CDATA[To address these limitations, we propose ``CodeT5+'', a family of encoder-decoder LLMs for code in which component modules can be flexibly combined to suit a wide range of downstream code tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codet5-open-code-large-language-models-for</guid>
+      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
+      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
+      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
+    </item>
+    <item>
+      <title>Sparks of Artificial General Intelligence: Early experiments with GPT-4</title>
+      <link>https://paperswithcode.com/paper/sparks-of-artificial-general-intelligence</link>
+      <description><![CDATA[We contend that (this early version of) GPT-4 is part of a new cohort of LLMs (along with ChatGPT and Google's PaLM for example) that exhibit more general intelligence than previous AI models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparks-of-artificial-general-intelligence</guid>
     </item>
     <item>
       <title>ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/one-peace-exploring-one-general</guid>
     </item>
     <item>
-      <title>WebCPM: Interactive Web Search for Chinese Long-form Question Answering</title>
-      <link>https://paperswithcode.com/paper/webcpm-interactive-web-search-for-chinese</link>
-      <description><![CDATA[We recruit annotators to search for relevant information using our interface and then answer questions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/webcpm-interactive-web-search-for-chinese</guid>
+      <title>string2string: A Modern Python Library for String-to-String Algorithms</title>
+      <link>https://paperswithcode.com/paper/string2string-a-modern-python-library-for</link>
+      <description><![CDATA[It includes traditional algorithmic solutions as well as recent advanced neural approaches to tackle various problems in string alignment, distance measurement, lexical and semantic search, and similarity analysis -- along with several helpful visualization tools and metrics to facilitate the interpretation and analysis of these methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/string2string-a-modern-python-library-for</guid>
+    </item>
+    <item>
+      <title>VideoLLM: Modeling Video Sequence with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/videollm-modeling-video-sequence-with-large</link>
+      <description><![CDATA[Building upon this insight, we propose a novel framework called VideoLLM that leverages the sequence reasoning capabilities of pre-trained LLMs from natural language processing (NLP) for video sequence understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videollm-modeling-video-sequence-with-large</guid>
     </item>
   </channel>
 </rss>
