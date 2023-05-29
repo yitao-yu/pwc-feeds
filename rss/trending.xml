@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 May 2023 21:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 09:12:33 +0000</lastBuildDate>
     <item>
       <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
       <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
@@ -19,18 +19,6 @@
       <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
       <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
-    </item>
-    <item>
-      <title>Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/uni-controlnet-all-in-one-control-to-text-to</link>
-      <description><![CDATA[Text-to-Image diffusion models have made tremendous progress over the past two years, enabling the generation of highly realistic images based on open-domain text descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uni-controlnet-all-in-one-control-to-text-to</guid>
-    </item>
-    <item>
-      <title>Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</title>
-      <link>https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</link>
-      <description><![CDATA[Given the massive cost of language model pre-training, a non-trivial improvement of the optimization algorithm would lead to a material reduction on the time and cost of training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</guid>
     </item>
     <item>
       <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
@@ -45,28 +33,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visionllm-large-language-model-is-also-an</guid>
     </item>
     <item>
-      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
-      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
-      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
     </item>
     <item>
-      <title>Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach</title>
-      <link>https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</link>
-      <description><![CDATA[However, generating images of novel concept provided by the user input image is still a challenging task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</guid>
-    </item>
-    <item>
-      <title>Any-to-Any Generation via Composable Diffusion</title>
-      <link>https://paperswithcode.com/paper/any-to-any-generation-via-composable</link>
-      <description><![CDATA[We present Composable Diffusion (CoDi), a novel generative model capable of generating any combination of output modalities, such as language, image, video, or audio, from any combination of input modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/any-to-any-generation-via-composable</guid>
+      <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
+      <link>https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</link>
+      <description><![CDATA[In this work, we propose to model the 3D parameter as a random variable instead of a constant as in SDS and present variational score distillation (VSD), a principled particle-based variational framework to explain and address the aforementioned issues in text-to-3D generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
     </item>
     <item>
       <title>Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/prompt-free-diffusion-taking-text-out-of-text</link>
       <description><![CDATA[Text-to-image (T2I) research has grown explosively in the past year, owing to the large-scale pre-trained diffusion models and many emerging personalization and editing approaches.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-free-diffusion-taking-text-out-of-text</guid>
+    </item>
+    <item>
+      <title>Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</title>
+      <link>https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</link>
+      <description><![CDATA[Given the massive cost of language model pre-training, a non-trivial improvement of the optimization algorithm would lead to a material reduction on the time and cost of training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</guid>
+    </item>
+    <item>
+      <title>Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/uni-controlnet-all-in-one-control-to-text-to</link>
+      <description><![CDATA[Text-to-Image diffusion models have made tremendous progress over the past two years, enabling the generation of highly realistic images based on open-domain text descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uni-controlnet-all-in-one-control-to-text-to</guid>
+    </item>
+    <item>
+      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
+      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
+      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
+    </item>
+    <item>
+      <title>Generating Sequences With Recurrent Neural Networks</title>
+      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
+      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
+    </item>
+    <item>
+      <title>Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach</title>
+      <link>https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</link>
+      <description><![CDATA[However, generating images of novel concept provided by the user input image is still a challenging task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</guid>
     </item>
     <item>
       <title>AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback</title>
@@ -81,40 +93,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</guid>
     </item>
     <item>
-      <title>Speech-to-speech translation for a real-world unwritten language</title>
-      <link>https://paperswithcode.com/paper/speech-to-speech-translation-for-a-real-world</link>
-      <description><![CDATA[We use English-Taiwanese Hokkien as a case study, and present an end-to-end solution from training data collection, modeling choices to benchmark dataset release.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/speech-to-speech-translation-for-a-real-world</guid>
+      <title>C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models</title>
+      <link>https://paperswithcode.com/paper/c-eval-a-multi-level-multi-discipline-chinese</link>
+      <description><![CDATA[We present C-Eval, the first comprehensive Chinese evaluation suite designed to assess advanced knowledge and reasoning abilities of foundation models in a Chinese context.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/c-eval-a-multi-level-multi-discipline-chinese</guid>
     </item>
     <item>
-      <title>Facebook AI’s WMT21 News Translation Task Submission</title>
-      <link>https://paperswithcode.com/paper/facebook-ais-wmt21-news-translation-task</link>
-      <description><![CDATA[We describe Facebook’s multilingual model submission to the WMT2021 shared task on news translation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/facebook-ais-wmt21-news-translation-task</guid>
+      <title>Any-to-Any Generation via Composable Diffusion</title>
+      <link>https://paperswithcode.com/paper/any-to-any-generation-via-composable</link>
+      <description><![CDATA[We present Composable Diffusion (CoDi), a novel generative model capable of generating any combination of output modalities, such as language, image, video, or audio, from any combination of input modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/any-to-any-generation-via-composable</guid>
     </item>
     <item>
-      <title>fairseq</title>
-      <link>https://github.com/pytorch/fairseq</link>
-      <description><![CDATA[Facebook AI Research Sequence-to-Sequence Toolkit written in Python.]]></description>
-      <guid isPermaLink="true">https://github.com/pytorch/fairseq</guid>
+      <title>Unifying Vision, Text, and Layout for Universal Document Processing</title>
+      <link>https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</link>
+      <description><![CDATA[UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</guid>
     </item>
     <item>
-      <title>Scaling Speech Technology to 1,000+ Languages</title>
-      <link>https://paperswithcode.com/paper/scaling-speech-technology-to-1000-languages</link>
-      <description><![CDATA[Expanding the language coverage of speech technology has the potential to improve access to information for many more people.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-speech-technology-to-1000-languages</guid>
-    </item>
-    <item>
-      <title>RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text</title>
-      <link>https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</link>
-      <description><![CDATA[In addition to producing AI-generated content (AIGC), we also demonstrate the possibility of using RecurrentGPT as an interactive fiction that directly interacts with consumers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</guid>
-    </item>
-    <item>
-      <title>ControlVideo: Training-free Controllable Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/controlvideo-training-free-controllable-text</link>
-      <description><![CDATA[Text-driven diffusion models have unlocked unprecedented abilities in image generation, whereas their video counterpart still lags behind due to the excessive training cost of temporal modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/controlvideo-training-free-controllable-text</guid>
+      <title>SoundStorm: Efficient Parallel Audio Generation</title>
+      <link>https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</link>
+      <description><![CDATA[We present SoundStorm, a model for efficient, non-autoregressive audio generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</guid>
     </item>
     <item>
       <title>ExpertPrompting: Instructing Large Language Models to be Distinguished Experts</title>
@@ -123,10 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/expertprompting-instructing-large-language</guid>
     </item>
     <item>
-      <title>C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models</title>
-      <link>https://paperswithcode.com/paper/c-eval-a-multi-level-multi-discipline-chinese</link>
-      <description><![CDATA[We present C-Eval, the first comprehensive Chinese evaluation suite designed to assess advanced knowledge and reasoning abilities of foundation models in a Chinese context.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/c-eval-a-multi-level-multi-discipline-chinese</guid>
+      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
+      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
+      <description><![CDATA[In contrast to the previous state-of-the-art, we introduce Min-Max Similarity (MMS), a contrastive learning form of dual-view training by employing classifiers and projectors to build all-negative, and positive and negative feature pairs, respectively, to formulate the learning as solving a MMS problem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
     </item>
   </channel>
 </rss>
