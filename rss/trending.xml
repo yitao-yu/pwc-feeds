@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 May 2023 21:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2023 09:11:44 +0000</lastBuildDate>
     <item>
       <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
       <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
@@ -15,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
     </item>
     <item>
-      <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
-      <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
     </item>
     <item>
       <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
@@ -33,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visionllm-large-language-model-is-also-an</guid>
     </item>
     <item>
-      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
-      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
+      <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
+      <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
     </item>
     <item>
       <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
@@ -45,16 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
     </item>
     <item>
+      <title>Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</title>
+      <link>https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</link>
+      <description><![CDATA[Given the massive cost of language model pre-training, a non-trivial improvement of the optimization algorithm would lead to a material reduction on the time and cost of training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</guid>
+    </item>
+    <item>
       <title>Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/prompt-free-diffusion-taking-text-out-of-text</link>
       <description><![CDATA[Text-to-image (T2I) research has grown explosively in the past year, owing to the large-scale pre-trained diffusion models and many emerging personalization and editing approaches.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-free-diffusion-taking-text-out-of-text</guid>
     </item>
     <item>
-      <title>Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</title>
-      <link>https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</link>
-      <description><![CDATA[Given the massive cost of language model pre-training, a non-trivial improvement of the optimization algorithm would lead to a material reduction on the time and cost of training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</guid>
+      <title>Generating Sequences With Recurrent Neural Networks</title>
+      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
+      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
+    </item>
+    <item>
+      <title>OCR-free Document Understanding Transformer</title>
+      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
+      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
     </item>
     <item>
       <title>Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models</title>
@@ -69,34 +81,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
     </item>
     <item>
-      <title>Generating Sequences With Recurrent Neural Networks</title>
-      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
-      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
-    </item>
-    <item>
-      <title>Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach</title>
-      <link>https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</link>
-      <description><![CDATA[However, generating images of novel concept provided by the user input image is still a challenging task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-detail-preservation-for-customized</guid>
-    </item>
-    <item>
-      <title>AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback</title>
-      <link>https://paperswithcode.com/paper/2305-14387</link>
-      <description><![CDATA[As a demonstration of the research possible in AlpacaFarm, we find that methods that use a reward model can substantially improve over supervised fine-tuning and that our reference PPO implementation leads to a +10% improvement in win-rate against Davinci003.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/2305-14387</guid>
+      <title>SoundStorm: Efficient Parallel Audio Generation</title>
+      <link>https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</link>
+      <description><![CDATA[We present SoundStorm, a model for efficient, non-autoregressive audio generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</guid>
     </item>
     <item>
       <title>VanillaNet: the Power of Minimalism in Deep Learning</title>
       <link>https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</link>
       <description><![CDATA[In this study, we introduce VanillaNet, a neural network architecture that embraces elegance in design.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</guid>
-    </item>
-    <item>
-      <title>C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models</title>
-      <link>https://paperswithcode.com/paper/c-eval-a-multi-level-multi-discipline-chinese</link>
-      <description><![CDATA[We present C-Eval, the first comprehensive Chinese evaluation suite designed to assess advanced knowledge and reasoning abilities of foundation models in a Chinese context.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/c-eval-a-multi-level-multi-discipline-chinese</guid>
     </item>
     <item>
       <title>Any-to-Any Generation via Composable Diffusion</title>
@@ -111,22 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</guid>
     </item>
     <item>
-      <title>SoundStorm: Efficient Parallel Audio Generation</title>
-      <link>https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</link>
-      <description><![CDATA[We present SoundStorm, a model for efficient, non-autoregressive audio generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</guid>
+      <title>RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text</title>
+      <link>https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</link>
+      <description><![CDATA[In addition to producing AI-generated content (AIGC), we also demonstrate the possibility of using RecurrentGPT as an interactive fiction that directly interacts with consumers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</guid>
     </item>
     <item>
-      <title>ExpertPrompting: Instructing Large Language Models to be Distinguished Experts</title>
-      <link>https://paperswithcode.com/paper/expertprompting-instructing-large-language</link>
-      <description><![CDATA[The answering quality of an aligned large language model (LLM) can be drastically improved if treated with proper crafting of prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/expertprompting-instructing-large-language</guid>
+      <title>Large Language Models as Tool Makers</title>
+      <link>https://paperswithcode.com/paper/large-language-models-as-tool-makers</link>
+      <description><![CDATA[Our approach consists of two key phases: 1) tool making: an LLM acts as the tool maker that crafts tools for given tasks, where a tool is implemented as a Python utility function.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-tool-makers</guid>
     </item>
     <item>
       <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
       <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
       <description><![CDATA[In contrast to the previous state-of-the-art, we introduce Min-Max Similarity (MMS), a contrastive learning form of dual-view training by employing classifiers and projectors to build all-negative, and positive and negative feature pairs, respectively, to formulate the learning as solving a MMS problem.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>SwinIR: Image Restoration Using Swin Transformer</title>
+      <link>https://paperswithcode.com/paper/swinir-image-restoration-using-swin</link>
+      <description><![CDATA[In particular, the deep feature extraction module is composed of several residual Swin Transformer blocks (RSTB), each of which has several Swin Transformer layers together with a residual connection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/swinir-image-restoration-using-swin</guid>
     </item>
   </channel>
 </rss>
