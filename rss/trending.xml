@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 May 2023 21:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 09:13:14 +0000</lastBuildDate>
     <item>
       <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
       <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
@@ -19,6 +19,12 @@
       <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
       <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
+    </item>
+    <item>
+      <title>Large Language Models as Tool Makers</title>
+      <link>https://paperswithcode.com/paper/large-language-models-as-tool-makers</link>
+      <description><![CDATA[Our approach consists of two key phases: 1) tool making: an LLM acts as the tool maker that crafts tools for given tasks, where a tool is implemented as a Python utility function.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-tool-makers</guid>
     </item>
     <item>
       <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
@@ -33,10 +39,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visionllm-large-language-model-is-also-an</guid>
     </item>
     <item>
+      <title>OCR-free Document Understanding Transformer</title>
+      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
+      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
+    </item>
+    <item>
       <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
       <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
       <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
+    </item>
+    <item>
+      <title>Generating Sequences With Recurrent Neural Networks</title>
+      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
+      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
     </item>
     <item>
       <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
@@ -51,22 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</guid>
     </item>
     <item>
+      <title>SoundStorm: Efficient Parallel Audio Generation</title>
+      <link>https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</link>
+      <description><![CDATA[We present SoundStorm, a model for efficient, non-autoregressive audio generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</guid>
+    </item>
+    <item>
       <title>Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models</title>
       <link>https://paperswithcode.com/paper/prompt-free-diffusion-taking-text-out-of-text</link>
       <description><![CDATA[Text-to-image (T2I) research has grown explosively in the past year, owing to the large-scale pre-trained diffusion models and many emerging personalization and editing approaches.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-free-diffusion-taking-text-out-of-text</guid>
     </item>
     <item>
-      <title>Generating Sequences With Recurrent Neural Networks</title>
-      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
-      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
-    </item>
-    <item>
-      <title>OCR-free Document Understanding Transformer</title>
-      <link>https://paperswithcode.com/paper/donut-document-understanding-transformer</link>
-      <description><![CDATA[Current Visual Document Understanding (VDU) methods outsource the task of reading text to off-the-shelf Optical Character Recognition (OCR) engines and focus on the understanding task with the OCR outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/donut-document-understanding-transformer</guid>
+      <title>Fine-Tuning Language Models with Just Forward Passes</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</link>
+      <description><![CDATA[Fine-tuning language models (LMs) has yielded success on diverse downstream tasks, but as LMs grow in size, backpropagation requires a prohibitively large amount of memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</guid>
     </item>
     <item>
       <title>Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models</title>
@@ -75,34 +93,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/uni-controlnet-all-in-one-control-to-text-to</guid>
     </item>
     <item>
+      <title>Training Socially Aligned Language Models in Simulated Human Society</title>
+      <link>https://paperswithcode.com/paper/training-socially-aligned-language-models-in</link>
+      <description><![CDATA[Social alignment in AI systems aims to ensure that these models behave according to established societal values.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-socially-aligned-language-models-in</guid>
+    </item>
+    <item>
       <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
       <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
       <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
     </item>
     <item>
-      <title>SoundStorm: Efficient Parallel Audio Generation</title>
-      <link>https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</link>
-      <description><![CDATA[We present SoundStorm, a model for efficient, non-autoregressive audio generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/soundstorm-efficient-parallel-audio</guid>
-    </item>
-    <item>
-      <title>VanillaNet: the Power of Minimalism in Deep Learning</title>
-      <link>https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</link>
-      <description><![CDATA[In this study, we introduce VanillaNet, a neural network architecture that embraces elegance in design.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vanillanet-the-power-of-minimalism-in-deep</guid>
-    </item>
-    <item>
-      <title>Any-to-Any Generation via Composable Diffusion</title>
-      <link>https://paperswithcode.com/paper/any-to-any-generation-via-composable</link>
-      <description><![CDATA[We present Composable Diffusion (CoDi), a novel generative model capable of generating any combination of output modalities, such as language, image, video, or audio, from any combination of input modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/any-to-any-generation-via-composable</guid>
-    </item>
-    <item>
-      <title>Unifying Vision, Text, and Layout for Universal Document Processing</title>
-      <link>https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</link>
-      <description><![CDATA[UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-vision-text-and-layout-for-universal</guid>
+      <title>NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images</title>
+      <link>https://paperswithcode.com/paper/nero-neural-geometry-and-brdf-reconstruction</link>
+      <description><![CDATA[We present a neural rendering-based method called NeRO for reconstructing the geometry and the BRDF of reflective objects from multiview images captured in an unknown environment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nero-neural-geometry-and-brdf-reconstruction</guid>
     </item>
     <item>
       <title>RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text</title>
@@ -111,22 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</guid>
     </item>
     <item>
-      <title>Large Language Models as Tool Makers</title>
-      <link>https://paperswithcode.com/paper/large-language-models-as-tool-makers</link>
-      <description><![CDATA[Our approach consists of two key phases: 1) tool making: an LLM acts as the tool maker that crafts tools for given tasks, where a tool is implemented as a Python utility function.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-tool-makers</guid>
+      <title>Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory</title>
+      <link>https://paperswithcode.com/paper/ghost-in-the-minecraft-generally-capable</link>
+      <description><![CDATA[These agents, equipped with the logic and common sense capabilities of LLMs, can skillfully navigate complex, sparse-reward environments with text-based interactions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ghost-in-the-minecraft-generally-capable</guid>
     </item>
     <item>
-      <title>Min-Max Similarity: A Contrastive Semi-Supervised Deep Learning Network for Surgical Tools Segmentation</title>
-      <link>https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</link>
-      <description><![CDATA[In contrast to the previous state-of-the-art, we introduce Min-Max Similarity (MMS), a contrastive learning form of dual-view training by employing classifiers and projectors to build all-negative, and positive and negative feature pairs, respectively, to formulate the learning as solving a MMS problem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/min-max-similarity-a-contrastive-learning</guid>
-    </item>
-    <item>
-      <title>SwinIR: Image Restoration Using Swin Transformer</title>
-      <link>https://paperswithcode.com/paper/swinir-image-restoration-using-swin</link>
-      <description><![CDATA[In particular, the deep feature extraction module is composed of several residual Swin Transformer blocks (RSTB), each of which has several Swin Transformer layers together with a residual connection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/swinir-image-restoration-using-swin</guid>
+      <title>BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks</title>
+      <link>https://paperswithcode.com/paper/biomedgpt-a-unified-and-generalist-biomedical</link>
+      <description><![CDATA[In this paper, we introduce a unified and generalist Biomedical Generative Pre-trained Transformer (BiomedGPT) model, which leverages self-supervision on large and diverse datasets to accept multi-modal inputs and perform a range of downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/biomedgpt-a-unified-and-generalist-biomedical</guid>
     </item>
   </channel>
 </rss>
