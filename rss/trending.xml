@@ -7,24 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jun 2023 09:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 21:07:34 +0000</lastBuildDate>
+    <item>
+      <title>Segment Anything in High Quality</title>
+      <link>https://paperswithcode.com/paper/segment-anything-in-high-quality</link>
+      <description><![CDATA[HQ-SAM is only trained on the introduced detaset of 44k masks, which takes only 4 hours on 8 GPUs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-in-high-quality</guid>
+    </item>
     <item>
       <title>CodeTF: One-stop Transformer Library for State-of-the-art Code LLM</title>
       <link>https://paperswithcode.com/paper/codetf-one-stop-transformer-library-for-state</link>
       <description><![CDATA[In this paper, we present CodeTF, an open-source Transformer-based library for state-of-the-art Code LLMs and code intelligence.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/codetf-one-stop-transformer-library-for-state</guid>
-    </item>
-    <item>
-      <title>Let's Verify Step by Step</title>
-      <link>https://paperswithcode.com/paper/let-s-verify-step-by-step-1</link>
-      <description><![CDATA[We conduct our own investigation, finding that process supervision significantly outperforms outcome supervision for training models to solve problems from the challenging MATH dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/let-s-verify-step-by-step-1</guid>
-    </item>
-    <item>
-      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
-      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
     </item>
     <item>
       <title>AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</title>
@@ -33,16 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</guid>
     </item>
     <item>
+      <title>ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models</title>
+      <link>https://paperswithcode.com/paper/rewoo-decoupling-reasoning-from-observations</link>
+      <description><![CDATA[Augmented Language Models (ALMs) blend the reasoning capabilities of Large Language Models (LLMs) with tools that allow for knowledge retrieval and action execution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rewoo-decoupling-reasoning-from-observations</guid>
+    </item>
+    <item>
+      <title>XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</link>
+      <description><![CDATA[We present XPhoneBERT, the first multilingual model pre-trained to learn phoneme representations for the downstream text-to-speech (TTS) task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</guid>
+    </item>
+    <item>
       <title>Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles</title>
       <link>https://paperswithcode.com/paper/hiera-a-hierarchical-vision-transformer</link>
       <description><![CDATA[Modern hierarchical vision transformers have added several vision-specific components in the pursuit of supervised classification performance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/hiera-a-hierarchical-vision-transformer</guid>
-    </item>
-    <item>
-      <title>Large Language Models as Tool Makers</title>
-      <link>https://paperswithcode.com/paper/large-language-models-as-tool-makers</link>
-      <description><![CDATA[Our approach consists of two key phases: 1) tool making: an LLM acts as the tool maker that crafts tools for given tasks, where a tool is implemented as a Python utility function.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-tool-makers</guid>
     </item>
     <item>
       <title>Humans in 4D: Reconstructing and Tracking Humans with Transformers</title>
@@ -51,10 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/humans-in-4d-reconstructing-and-tracking</guid>
     </item>
     <item>
-      <title>StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation</title>
-      <link>https://paperswithcode.com/paper/styleavatar3d-leveraging-image-text-diffusion</link>
-      <description><![CDATA[The recent advancements in image-text diffusion models have stimulated research interest in large-scale 3D generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/styleavatar3d-leveraging-image-text-diffusion</guid>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
+    </item>
+    <item>
+      <title>White-Box Transformers via Sparse Rate Reduction</title>
+      <link>https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</link>
+      <description><![CDATA[Particularly, we show that the standard transformer block can be derived from alternating optimization on complementary parts of this objective: the multi-head self-attention operator can be viewed as a gradient descent step to compress the token sets by minimizing their lossy coding rate, and the subsequent multi-layer perceptron can be viewed as attempting to sparsify the representation of the tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</guid>
     </item>
     <item>
       <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
@@ -63,34 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
     </item>
     <item>
-      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
-      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
-      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
-    </item>
-    <item>
-      <title>HuatuoGPT, towards Taming Language Model to Be a Doctor</title>
-      <link>https://paperswithcode.com/paper/huatuogpt-towards-taming-language-model-to-be</link>
-      <description><![CDATA[Experimental results demonstrate that HuatuoGPT achieves state-of-the-art results in performing medical consultation among open-source LLMs in GPT-4 evaluation, human evaluation, and medical benchmark datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/huatuogpt-towards-taming-language-model-to-be</guid>
-    </item>
-    <item>
-      <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
-      <link>https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</link>
-      <description><![CDATA[In this work, we propose to model the 3D parameter as a random variable instead of a constant as in SDS and present variational score distillation (VSD), a principled particle-based variational framework to explain and address the aforementioned issues in text-to-3D generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
-    </item>
-    <item>
-      <title>ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/vico-detail-preserving-visual-condition-for</link>
-      <description><![CDATA[Specifically, we propose an image attention module to condition the diffusion process on the patch-wise visual semantics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vico-detail-preserving-visual-condition-for</guid>
-    </item>
-    <item>
       <title>Thought Cloning: Learning to Think while Acting by Imitating Human Thinking</title>
       <link>https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</link>
       <description><![CDATA[We hypothesize one reason for such cognitive deficiencies is that they lack the benefits of thinking in language and that we can improve AI agents by training them to think like humans do.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</guid>
+    </item>
+    <item>
+      <title>Let's Verify Step by Step</title>
+      <link>https://paperswithcode.com/paper/let-s-verify-step-by-step-1</link>
+      <description><![CDATA[We conduct our own investigation, finding that process supervision significantly outperforms outcome supervision for training models to solve problems from the challenging MATH dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/let-s-verify-step-by-step-1</guid>
     </item>
     <item>
       <title>SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created Through Human-Machine Collaboration</title>
@@ -99,10 +87,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/square-a-large-scale-dataset-of-sensitive</guid>
     </item>
     <item>
-      <title>Fine-Tuning Language Models with Just Forward Passes</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</link>
-      <description><![CDATA[Fine-tuning language models (LMs) has yielded success on diverse downstream tasks, but as LMs grow in size, backpropagation requires a prohibitively large amount of memory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</guid>
+      <title>ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/vico-detail-preserving-visual-condition-for</link>
+      <description><![CDATA[Specifically, we propose an image attention module to condition the diffusion process on the patch-wise visual semantics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vico-detail-preserving-visual-condition-for</guid>
+    </item>
+    <item>
+      <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
+      <link>https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</link>
+      <description><![CDATA[In this work, we propose to model the 3D parameter as a random variable instead of a constant as in SDS and present variational score distillation (VSD), a principled particle-based variational framework to explain and address the aforementioned issues in text-to-3D generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
+    </item>
+    <item>
+      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
+      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
+      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
     </item>
     <item>
       <title>GRES: Generalized Referring Expression Segmentation</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gres-generalized-referring-expression-1</guid>
     </item>
     <item>
-      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
-      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
-      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
+      <title>StyleAvatar3D: Leveraging Image-Text Diffusion Models for High-Fidelity 3D Avatar Generation</title>
+      <link>https://paperswithcode.com/paper/styleavatar3d-leveraging-image-text-diffusion</link>
+      <description><![CDATA[The recent advancements in image-text diffusion models have stimulated research interest in large-scale 3D generative models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/styleavatar3d-leveraging-image-text-diffusion</guid>
     </item>
     <item>
-      <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
-      <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
-      <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
+      <title>ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs</title>
+      <link>https://paperswithcode.com/paper/bytetransformer-a-high-performance</link>
+      <description><![CDATA[In this paper, we present ByteTransformer, a high-performance transformer boosted for variable-length inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bytetransformer-a-high-performance</guid>
     </item>
     <item>
-      <title>Generating Sequences With Recurrent Neural Networks</title>
-      <link>https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</link>
-      <description><![CDATA[This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-sequences-with-recurrent-neural</guid>
+      <title>Large Language Models as Tool Makers</title>
+      <link>https://paperswithcode.com/paper/large-language-models-as-tool-makers</link>
+      <description><![CDATA[Our approach consists of two key phases: 1) tool making: an LLM acts as the tool maker that crafts tools for given tasks, where a tool is implemented as a Python utility function.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-as-tool-makers</guid>
     </item>
   </channel>
 </rss>
