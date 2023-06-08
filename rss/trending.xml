@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jun 2023 09:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2023 21:07:56 +0000</lastBuildDate>
     <item>
       <title>Segment Anything in High Quality</title>
       <link>https://paperswithcode.com/paper/segment-anything-in-high-quality</link>
@@ -27,10 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/rewoo-decoupling-reasoning-from-observations</guid>
     </item>
     <item>
-      <title>XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech</title>
-      <link>https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</link>
-      <description><![CDATA[We present XPhoneBERT, the first multilingual model pre-trained to learn phoneme representations for the downstream text-to-speech (TTS) task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</guid>
+      <title>DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement</title>
+      <link>https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</link>
+      <description><![CDATA[Multi-frame algorithms for single-channel speech enhancement are able to take advantage from short-time correlations within the speech signal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</guid>
+    </item>
+    <item>
+      <title>SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression</title>
+      <link>https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</link>
+      <description><![CDATA[Recent advances in large language model (LLM) pretraining have led to high-quality LLMs with impressive abilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</guid>
     </item>
     <item>
       <title>Humans in 4D: Reconstructing and Tracking Humans with Transformers</title>
@@ -45,46 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hiera-a-hierarchical-vision-transformer</guid>
     </item>
     <item>
-      <title>Scene as Occupancy</title>
-      <link>https://paperswithcode.com/paper/scene-as-occupancy</link>
-      <description><![CDATA[Human driver can easily describe the complex traffic scene by visual system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scene-as-occupancy</guid>
-    </item>
-    <item>
-      <title>AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</title>
-      <link>https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</link>
-      <description><![CDATA[Large language models (LLMs) have shown excellent performance on various tasks, but the astronomical model size raises the hardware barrier for serving (memory size) and slows down token generation (memory bandwidth).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</guid>
-    </item>
-    <item>
-      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
-      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
-    </item>
-    <item>
-      <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
-      <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
-    </item>
-    <item>
-      <title>White-Box Transformers via Sparse Rate Reduction</title>
-      <link>https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</link>
-      <description><![CDATA[Particularly, we show that the standard transformer block can be derived from alternating optimization on complementary parts of this objective: the multi-head self-attention operator can be viewed as a gradient descent step to compress the token sets by minimizing their lossy coding rate, and the subsequent multi-layer perceptron can be viewed as attempting to sparsify the representation of the tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</guid>
-    </item>
-    <item>
-      <title>SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model</title>
-      <link>https://paperswithcode.com/paper/sam3d-zero-shot-3d-object-detection-via</link>
-      <description><![CDATA[In the spirit of unleashing the capability of foundation models on vision tasks, the Segment Anything Model (SAM), a vision foundation model for image segmentation, has been proposed recently and presents strong zero-shot ability on many downstream 2D tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sam3d-zero-shot-3d-object-detection-via</guid>
-    </item>
-    <item>
-      <title>Learning Transformer Programs</title>
-      <link>https://paperswithcode.com/paper/learning-transformer-programs</link>
-      <description><![CDATA[Recent research in mechanistic interpretability has attempted to reverse-engineer Transformer models by carefully inspecting network weights and activations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-transformer-programs</guid>
+      <title>XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations for Text-to-Speech</title>
+      <link>https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</link>
+      <description><![CDATA[We present XPhoneBERT, the first multilingual model pre-trained to learn phoneme representations for the downstream text-to-speech (TTS) task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</guid>
     </item>
     <item>
       <title>Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding</title>
@@ -93,22 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</guid>
     </item>
     <item>
-      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
-      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
-      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
-    </item>
-    <item>
-      <title>Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models</title>
-      <link>https://paperswithcode.com/paper/unsupervised-representation-learning-from-pre</link>
-      <description><![CDATA[These imply that the gap corresponds to the lost information of the image, and we can reconstruct the image by filling the gap.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-representation-learning-from-pre</guid>
-    </item>
-    <item>
-      <title>Thought Cloning: Learning to Think while Acting by Imitating Human Thinking</title>
-      <link>https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</link>
-      <description><![CDATA[We hypothesize one reason for such cognitive deficiencies is that they lack the benefits of thinking in language and that we can improve AI agents by training them to think like humans do.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</guid>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
     </item>
     <item>
       <title>Fine-Tuning Language Models with Just Forward Passes</title>
@@ -117,10 +75,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</guid>
     </item>
     <item>
-      <title>GRES: Generalized Referring Expression Segmentation</title>
-      <link>https://paperswithcode.com/paper/gres-generalized-referring-expression-1</link>
-      <description><![CDATA[Existing classic RES datasets and methods commonly support single-target expressions only, i. e., one expression refers to one target object.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gres-generalized-referring-expression-1</guid>
+      <title>A Literature Study of Embeddings on Source Code</title>
+      <link>https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</link>
+      <description><![CDATA[In this survey, we aim to collect and discuss the usage of word embedding techniques on programs and source code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</guid>
+    </item>
+    <item>
+      <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
+      <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
+    </item>
+    <item>
+      <title>AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</title>
+      <link>https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</link>
+      <description><![CDATA[Large language models (LLMs) have shown excellent performance on various tasks, but the astronomical model size raises the hardware barrier for serving (memory size) and slows down token generation (memory bandwidth).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</guid>
+    </item>
+    <item>
+      <title>White-Box Transformers via Sparse Rate Reduction</title>
+      <link>https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</link>
+      <description><![CDATA[Particularly, we show that the standard transformer block can be derived from alternating optimization on complementary parts of this objective: the multi-head self-attention operator can be viewed as a gradient descent step to compress the token sets by minimizing their lossy coding rate, and the subsequent multi-layer perceptron can be viewed as attempting to sparsify the representation of the tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</guid>
+    </item>
+    <item>
+      <title>Scene as Occupancy</title>
+      <link>https://paperswithcode.com/paper/scene-as-occupancy</link>
+      <description><![CDATA[Human driver can easily describe the complex traffic scene by visual system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scene-as-occupancy</guid>
+    </item>
+    <item>
+      <title>SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model</title>
+      <link>https://paperswithcode.com/paper/sam3d-zero-shot-3d-object-detection-via</link>
+      <description><![CDATA[In the spirit of unleashing the capability of foundation models on vision tasks, the Segment Anything Model (SAM), a vision foundation model for image segmentation, has been proposed recently and presents strong zero-shot ability on many downstream 2D tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sam3d-zero-shot-3d-object-detection-via</guid>
+    </item>
+    <item>
+      <title>Thought Cloning: Learning to Think while Acting by Imitating Human Thinking</title>
+      <link>https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</link>
+      <description><![CDATA[We hypothesize one reason for such cognitive deficiencies is that they lack the benefits of thinking in language and that we can improve AI agents by training them to think like humans do.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</guid>
+    </item>
+    <item>
+      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
+      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
+      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
     </item>
     <item>
       <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
