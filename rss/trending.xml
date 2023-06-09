@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jun 2023 09:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2023 21:05:50 +0000</lastBuildDate>
     <item>
       <title>Segment Anything in High Quality</title>
       <link>https://paperswithcode.com/paper/segment-anything-in-high-quality</link>
@@ -27,22 +27,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/rewoo-decoupling-reasoning-from-observations</guid>
     </item>
     <item>
-      <title>DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement</title>
-      <link>https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</link>
-      <description><![CDATA[Multi-frame algorithms for single-channel speech enhancement are able to take advantage from short-time correlations within the speech signal.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</guid>
-    </item>
-    <item>
       <title>SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression</title>
       <link>https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</link>
       <description><![CDATA[Recent advances in large language model (LLM) pretraining have led to high-quality LLMs with impressive abilities.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</guid>
     </item>
     <item>
-      <title>Humans in 4D: Reconstructing and Tracking Humans with Transformers</title>
-      <link>https://paperswithcode.com/paper/humans-in-4d-reconstructing-and-tracking</link>
-      <description><![CDATA[To analyze video, we use 3D reconstructions from HMR 2. 0 as input to a tracking system that operates in 3D.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/humans-in-4d-reconstructing-and-tracking</guid>
+      <title>DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement</title>
+      <link>https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</link>
+      <description><![CDATA[Multi-frame algorithms for single-channel speech enhancement are able to take advantage from short-time correlations within the speech signal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</guid>
+    </item>
+    <item>
+      <title>Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks</title>
+      <link>https://paperswithcode.com/paper/youku-mplug-a-10-million-large-scale-chinese</link>
+      <description><![CDATA[In addition, to facilitate a comprehensive evaluation of video-language models, we carefully build the largest human-annotated Chinese benchmarks covering three popular video-language tasks of cross-modal retrieval, video captioning, and video category classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/youku-mplug-a-10-million-large-scale-chinese</guid>
+    </item>
+    <item>
+      <title>Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding</title>
+      <link>https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</link>
+      <description><![CDATA[For the second challenge, we leverage ImageBind, a universal embedding model aligning multiple modalities as the pre-trained audio encoder, and introduce an Audio Q-former on top of ImageBind to learn reasonable auditory query embeddings for the LLM module.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</guid>
+    </item>
+    <item>
+      <title>A Literature Study of Embeddings on Source Code</title>
+      <link>https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</link>
+      <description><![CDATA[In this survey, we aim to collect and discuss the usage of word embedding techniques on programs and source code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</guid>
+    </item>
+    <item>
+      <title>Fine-Tuning Language Models with Just Forward Passes</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</link>
+      <description><![CDATA[Fine-tuning language models (LMs) has yielded success on diverse downstream tasks, but as LMs grow in size, backpropagation requires a prohibitively large amount of memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</guid>
+    </item>
+    <item>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
+    </item>
+    <item>
+      <title>White-Box Transformers via Sparse Rate Reduction</title>
+      <link>https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</link>
+      <description><![CDATA[Particularly, we show that the standard transformer block can be derived from alternating optimization on complementary parts of this objective: the multi-head self-attention operator can be viewed as a gradient descent step to compress the token sets by minimizing their lossy coding rate, and the subsequent multi-layer perceptron can be viewed as attempting to sparsify the representation of the tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</guid>
     </item>
     <item>
       <title>Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles</title>
@@ -57,28 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model</guid>
     </item>
     <item>
-      <title>Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding</title>
-      <link>https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</link>
-      <description><![CDATA[For the second challenge, we leverage ImageBind, a universal embedding model aligning multiple modalities as the pre-trained audio encoder, and introduce an Audio Q-former on top of ImageBind to learn reasonable auditory query embeddings for the LLM module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</guid>
-    </item>
-    <item>
-      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
-      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
-    </item>
-    <item>
-      <title>Fine-Tuning Language Models with Just Forward Passes</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</link>
-      <description><![CDATA[Fine-tuning language models (LMs) has yielded success on diverse downstream tasks, but as LMs grow in size, backpropagation requires a prohibitively large amount of memory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-with-just-forward</guid>
-    </item>
-    <item>
-      <title>A Literature Study of Embeddings on Source Code</title>
-      <link>https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</link>
-      <description><![CDATA[In this survey, we aim to collect and discuss the usage of word embedding techniques on programs and source code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</guid>
+      <title>Humans in 4D: Reconstructing and Tracking Humans with Transformers</title>
+      <link>https://paperswithcode.com/paper/humans-in-4d-reconstructing-and-tracking</link>
+      <description><![CDATA[To analyze video, we use 3D reconstructions from HMR 2. 0 as input to a tracking system that operates in 3D.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/humans-in-4d-reconstructing-and-tracking</guid>
     </item>
     <item>
       <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
@@ -93,10 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</guid>
     </item>
     <item>
-      <title>White-Box Transformers via Sparse Rate Reduction</title>
-      <link>https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</link>
-      <description><![CDATA[Particularly, we show that the standard transformer block can be derived from alternating optimization on complementary parts of this objective: the multi-head self-attention operator can be viewed as a gradient descent step to compress the token sets by minimizing their lossy coding rate, and the subsequent multi-layer perceptron can be viewed as attempting to sparsify the representation of the tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</guid>
+      <title>LEACE: Perfect linear concept erasure in closed form</title>
+      <link>https://paperswithcode.com/paper/leace-perfect-linear-concept-erasure-in</link>
+      <description><![CDATA[Concept erasure aims to remove specified features from a representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/leace-perfect-linear-concept-erasure-in</guid>
     </item>
     <item>
       <title>Scene as Occupancy</title>
@@ -105,28 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scene-as-occupancy</guid>
     </item>
     <item>
+      <title>InstructZero: Efficient Instruction Optimization for Black-Box Large Language Models</title>
+      <link>https://paperswithcode.com/paper/instructzero-efficient-instruction</link>
+      <description><![CDATA[Large language models~(LLMs) are instruction followers, but it can be challenging to find the best instruction for different situations, especially for black-box LLMs on which backpropagation is forbidden.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructzero-efficient-instruction</guid>
+    </item>
+    <item>
       <title>SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model</title>
       <link>https://paperswithcode.com/paper/sam3d-zero-shot-3d-object-detection-via</link>
       <description><![CDATA[In the spirit of unleashing the capability of foundation models on vision tasks, the Segment Anything Model (SAM), a vision foundation model for image segmentation, has been proposed recently and presents strong zero-shot ability on many downstream 2D tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sam3d-zero-shot-3d-object-detection-via</guid>
-    </item>
-    <item>
-      <title>Thought Cloning: Learning to Think while Acting by Imitating Human Thinking</title>
-      <link>https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</link>
-      <description><![CDATA[We hypothesize one reason for such cognitive deficiencies is that they lack the benefits of thinking in language and that we can improve AI agents by training them to think like humans do.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thought-cloning-learning-to-think-while</guid>
-    </item>
-    <item>
-      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
-      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
-      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
-    </item>
-    <item>
-      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
-      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
-      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
     </item>
   </channel>
 </rss>
