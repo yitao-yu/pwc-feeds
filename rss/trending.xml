@@ -7,12 +7,30 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 09:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 21:06:47 +0000</lastBuildDate>
+    <item>
+      <title>FinGPT: Open-Source Financial Large Language Models</title>
+      <link>https://paperswithcode.com/paper/fingpt-open-source-financial-large-language</link>
+      <description><![CDATA[While proprietary models like BloombergGPT have taken advantage of their unique data accumulation, such privileged access calls for an open-source alternative to democratize Internet-scale financial data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fingpt-open-source-financial-large-language</guid>
+    </item>
     <item>
       <title>Simple and Controllable Music Generation</title>
       <link>https://paperswithcode.com/paper/simple-and-controllable-music-generation</link>
       <description><![CDATA[We tackle the task of conditional music generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/simple-and-controllable-music-generation</guid>
+    </item>
+    <item>
+      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
+      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
+      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
+    </item>
+    <item>
+      <title>Augmenting Language Models with Long-Term Memory</title>
+      <link>https://paperswithcode.com/paper/augmenting-language-models-with-long-term</link>
+      <description><![CDATA[Such a decoupled memory design can easily cache and update long-term past contexts for memory retrieval without suffering from memory staleness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/augmenting-language-models-with-long-term</guid>
     </item>
     <item>
       <title>AltCLIP: Altering the Language Encoder in CLIP for Extended Language Capabilities</title>
@@ -21,52 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/altclip-altering-the-language-encoder-in-clip</guid>
     </item>
     <item>
-      <title>Matting Anything</title>
-      <link>https://paperswithcode.com/paper/matting-anything</link>
-      <description><![CDATA[In this paper, we propose the Matting Anything Model (MAM), an efficient and versatile framework for estimating the alpha matte of any instance in an image with flexible and interactive visual or linguistic user prompt guidance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/matting-anything</guid>
+      <title>Segment Anything in High Quality</title>
+      <link>https://paperswithcode.com/paper/segment-anything-in-high-quality</link>
+      <description><![CDATA[HQ-SAM is only trained on the introduced detaset of 44k masks, which takes only 4 hours on 8 GPUs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-in-high-quality</guid>
     </item>
     <item>
-      <title>SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression</title>
-      <link>https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</link>
-      <description><![CDATA[Recent advances in large language model (LLM) pretraining have led to high-quality LLMs with impressive abilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</guid>
-    </item>
-    <item>
-      <title>MIMIC-IT: Multi-Modal In-Context Instruction Tuning</title>
-      <link>https://paperswithcode.com/paper/mimic-it-multi-modal-in-context-instruction</link>
-      <description><![CDATA[We release the MIMIC-IT dataset, instruction-response collection pipeline, benchmarks, and the Otter model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mimic-it-multi-modal-in-context-instruction</guid>
-    </item>
-    <item>
-      <title>Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding</title>
-      <link>https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</link>
-      <description><![CDATA[For the second challenge, we leverage ImageBind, a universal embedding model aligning multiple modalities as the pre-trained audio encoder, and introduce an Audio Q-former on top of ImageBind to learn reasonable auditory query embeddings for the LLM module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</guid>
-    </item>
-    <item>
-      <title>Matte Anything: Interactive Natural Image Matting with Segment Anything Models</title>
-      <link>https://paperswithcode.com/paper/matte-anything-interactive-natural-image</link>
-      <description><![CDATA[We leverage task-specific vision models to enhance the performance of natural image matting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/matte-anything-interactive-natural-image</guid>
-    </item>
-    <item>
-      <title>Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models</title>
-      <link>https://paperswithcode.com/paper/video-chatgpt-towards-detailed-video</link>
-      <description><![CDATA[Conversation agents fueled by Large Language Models (LLMs) are providing a new way to interact with visual data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/video-chatgpt-towards-detailed-video</guid>
-    </item>
-    <item>
-      <title>Scene as Occupancy</title>
-      <link>https://paperswithcode.com/paper/scene-as-occupancy</link>
-      <description><![CDATA[Human driver can easily describe the complex traffic scene by visual system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scene-as-occupancy</guid>
-    </item>
-    <item>
-      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
-      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
+      <title>TART: A plug-and-play Transformer module for task-agnostic reasoning</title>
+      <link>https://paperswithcode.com/paper/tart-a-plug-and-play-transformer-module-for</link>
+      <description><![CDATA[As such, we focus on the LLM's reasoning abilities and demonstrate that this performance gap exists due to their inability to perform simple probabilistic reasoning tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tart-a-plug-and-play-transformer-module-for</guid>
     </item>
     <item>
       <title>Recognize Anything: A Strong Image Tagging Model</title>
@@ -75,58 +57,76 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/recognize-anything-a-strong-image-tagging</guid>
     </item>
     <item>
+      <title>Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding</title>
+      <link>https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</link>
+      <description><![CDATA[For the second challenge, we leverage ImageBind, a universal embedding model aligning multiple modalities as the pre-trained audio encoder, and introduce an Audio Q-former on top of ImageBind to learn reasonable auditory query embeddings for the LLM module.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/video-llama-an-instruction-tuned-audio-visual</guid>
+    </item>
+    <item>
+      <title>FasterViT: Fast Vision Transformers with Hierarchical Attention</title>
+      <link>https://paperswithcode.com/paper/fastervit-fast-vision-transformers-with</link>
+      <description><![CDATA[At a high level, global self-attentions enable the efficient cross-window communication at lower costs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastervit-fast-vision-transformers-with</guid>
+    </item>
+    <item>
+      <title>Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow</title>
+      <link>https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</link>
+      <description><![CDATA[Various industries such as finance, meteorology, and energy generate vast amounts of heterogeneous data every day.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</guid>
+    </item>
+    <item>
+      <title>Matting Anything</title>
+      <link>https://paperswithcode.com/paper/matting-anything</link>
+      <description><![CDATA[In this paper, we propose the Matting Anything Model (MAM), an efficient and versatile framework for estimating the alpha matte of any instance in an image with flexible and interactive visual or linguistic user prompt guidance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/matting-anything</guid>
+    </item>
+    <item>
+      <title>How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</title>
+      <link>https://paperswithcode.com/paper/how-far-can-camels-go-exploring-the-state-of</link>
+      <description><![CDATA[Our evaluations show that the best model in any given evaluation reaches on average 83% of ChatGPT performance, and 68% of GPT-4 performance, suggesting that further investment in building better base models and instruction-tuning data is required to close the gap.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-can-camels-go-exploring-the-state-of</guid>
+    </item>
+    <item>
+      <title>A Literature Study of Embeddings on Source Code</title>
+      <link>https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</link>
+      <description><![CDATA[In this survey, we aim to collect and discuss the usage of word embedding techniques on programs and source code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-literature-study-of-embeddings-on-source</guid>
+    </item>
+    <item>
+      <title>Robust Speech Recognition via Large-Scale Weak Supervision</title>
+      <link>https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</link>
+      <description><![CDATA[We study the capabilities of speech processing systems trained simply to predict large amounts of transcripts of audio on the internet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-speech-recognition-via-large-scale-1</guid>
+    </item>
+    <item>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
+    </item>
+    <item>
+      <title>SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression</title>
+      <link>https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</link>
+      <description><![CDATA[Recent advances in large language model (LLM) pretraining have led to high-quality LLMs with impressive abilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spqr-a-sparse-quantized-representation-for</guid>
+    </item>
+    <item>
       <title>DeepFilterNet: Perceptually Motivated Real-Time Speech Enhancement</title>
       <link>https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</link>
       <description><![CDATA[Multi-frame algorithms for single-channel speech enhancement are able to take advantage from short-time correlations within the speech signal.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepfilternet-perceptually-motivated-real</guid>
     </item>
     <item>
-      <title>HQ-50K: A Large-scale, High-quality Dataset for Image Restoration</title>
-      <link>https://paperswithcode.com/paper/hq-50k-a-large-scale-high-quality-dataset-for</link>
-      <description><![CDATA[This paper introduces a new large-scale image restoration dataset, called HQ-50K, which contains 50, 000 high-quality images with rich texture details and semantic diversity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hq-50k-a-large-scale-high-quality-dataset-for</guid>
+      <title>How Can Recommender Systems Benefit from Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/how-can-recommender-systems-benefit-from</link>
+      <description><![CDATA[For the "WHERE" question, we discuss the roles that LLM could play in different stages of the recommendation pipeline, i. e., feature engineering, feature encoder, scoring/ranking function, and pipeline controller.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-can-recommender-systems-benefit-from</guid>
     </item>
     <item>
-      <title>LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention</title>
-      <link>https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</link>
-      <description><![CDATA[We present LLaMA-Adapter, a lightweight adaption method to efficiently fine-tune LLaMA into an instruction-following model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of</guid>
-    </item>
-    <item>
-      <title>LEACE: Perfect linear concept erasure in closed form</title>
-      <link>https://paperswithcode.com/paper/leace-perfect-linear-concept-erasure-in</link>
-      <description><![CDATA[Concept erasure aims to remove specified features from a representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leace-perfect-linear-concept-erasure-in</guid>
-    </item>
-    <item>
-      <title>Are Random Decompositions all we need in High Dimensional Bayesian Optimisation?</title>
-      <link>https://paperswithcode.com/paper/are-random-decompositions-all-we-need-in-high</link>
-      <description><![CDATA[Learning decompositions of expensive-to-evaluate black-box functions promises to scale Bayesian optimisation (BO) to high-dimensional problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/are-random-decompositions-all-we-need-in-high</guid>
-    </item>
-    <item>
-      <title>HUMAP: Hierarchical Uniform Manifold Approximation and Projection</title>
-      <link>https://paperswithcode.com/paper/humap-hierarchical-uniform-manifold</link>
-      <description><![CDATA[Dimensionality reduction (DR) techniques help analysts understand patterns in high-dimensional spaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/humap-hierarchical-uniform-manifold</guid>
-    </item>
-    <item>
-      <title>CLEAR: A Fully User-side Image Search System</title>
-      <link>https://paperswithcode.com/paper/clear-a-fully-user-side-image-search-system</link>
-      <description><![CDATA[In this framework, each user builds their own search system that meets their preference with a user-defined scoring function and user-defined interface.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clear-a-fully-user-side-image-search-system</guid>
-    </item>
-    <item>
-      <title>BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</title>
-      <link>https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</link>
-      <description><![CDATA[The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blip-2-bootstrapping-language-image-pre</guid>
-    </item>
-    <item>
-      <title>LayoutGPT: Compositional Visual Planning and Generation with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/layoutgpt-compositional-visual-planning-and</link>
-      <description><![CDATA[When combined with a downstream image generation model, LayoutGPT outperforms text-to-image models/systems by 20-40% and achieves comparable performance as human users in designing visual layouts for numerical and spatial correctness.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutgpt-compositional-visual-planning-and</guid>
+      <title>MIMIC-IT: Multi-Modal In-Context Instruction Tuning</title>
+      <link>https://paperswithcode.com/paper/mimic-it-multi-modal-in-context-instruction</link>
+      <description><![CDATA[We release the MIMIC-IT dataset, instruction-response collection pipeline, benchmarks, and the Otter model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mimic-it-multi-modal-in-context-instruction</guid>
     </item>
   </channel>
 </rss>
