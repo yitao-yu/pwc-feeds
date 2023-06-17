@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jun 2023 09:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2023 21:05:42 +0000</lastBuildDate>
     <item>
       <title>Enhancing social network hate detection using back translation and GPT-3 augmentations during training and test-time</title>
       <link>https://paperswithcode.com/paper/enhancing-social-network-hate-detection-using</link>
@@ -15,16 +15,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-social-network-hate-detection-using</guid>
     </item>
     <item>
+      <title>Using DUCK-Net for polyp image segmentation</title>
+      <link>https://paperswithcode.com/paper/using-duck-net-for-polyp-image-segmentation</link>
+      <description><![CDATA[This paper presents a novel supervised convolutional neural network architecture, “DUCK-Net”, capable of effectively learning and generalizing from small amounts of medical images to perform accurate segmentation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/using-duck-net-for-polyp-image-segmentation</guid>
+    </item>
+    <item>
+      <title>Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training</title>
+      <link>https://paperswithcode.com/paper/efficient-token-guided-image-text-retrieval</link>
+      <description><![CDATA[Most previous works either simply learn coarse-grained representations of the overall image and text, or elaborately establish the correspondence between image regions or pixels and text words.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-token-guided-image-text-retrieval</guid>
+    </item>
+    <item>
+      <title>BED: Bi-Encoder-Based Detectors for Out-of-Distribution Detection</title>
+      <link>https://paperswithcode.com/paper/bed-bi-encoder-based-detectors-for-out-of</link>
+      <description><![CDATA[The presented methods and benchmarking metrics serve as a valuable resource for future research in OOD detection, enabling further advancements in this field.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bed-bi-encoder-based-detectors-for-out-of</guid>
+    </item>
+    <item>
       <title>Evaluation and Optimization of Gradient Compression for Distributed Deep Learning</title>
       <link>https://paperswithcode.com/paper/evaluation-and-optimization-of-gradient</link>
       <description><![CDATA[To accelerate distributed training, many gradient compression methods have been proposed to alleviate the communication bottleneck in synchronous stochastic gradient descent (S-SGD), but their efficacy in real-world applications still remains unclear.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/evaluation-and-optimization-of-gradient</guid>
-    </item>
-    <item>
-      <title>Re-Benchmarking Pool-Based Active Learning for Binary Classification</title>
-      <link>https://paperswithcode.com/paper/re-benchmarking-pool-based-active-learning</link>
-      <description><![CDATA[Active learning is a paradigm that significantly enhances the performance of machine learning models when acquiring labeled data is expensive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/re-benchmarking-pool-based-active-learning</guid>
     </item>
     <item>
       <title>Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach</title>
@@ -39,88 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/annotator-consensus-prediction-for-medical</guid>
     </item>
     <item>
-      <title>PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs</title>
-      <link>https://paperswithcode.com/paper/pinnacle-a-comprehensive-benchmark-of-physics</link>
-      <description><![CDATA[In addition to providing a standardized means of assessing performance, PINNacle also offers an in-depth analysis to guide future research, particularly in areas such as domain decomposition methods and loss reweighting for handling multi-scale problems and complex geometry.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pinnacle-a-comprehensive-benchmark-of-physics</guid>
-    </item>
-    <item>
       <title>Partial-Label Regression</title>
       <link>https://paperswithcode.com/paper/partial-label-regression-1</link>
       <description><![CDATA[Our proposed methods are theoretically grounded and can be compatible with any models, optimizers, and losses.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/partial-label-regression-1</guid>
-    </item>
-    <item>
-      <title>Pragmatic Inference with a CLIP Listener for Contrastive Captioning</title>
-      <link>https://paperswithcode.com/paper/pragmatic-inference-with-a-clip-listener-for</link>
-      <description><![CDATA[We propose a simple yet effective and robust method for contrastive captioning: generating discriminative captions that distinguish target images from very similar alternative distractor images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pragmatic-inference-with-a-clip-listener-for</guid>
-    </item>
-    <item>
-      <title>OMS-DPM: Optimizing the Model Schedule for Diffusion Probabilistic Models</title>
-      <link>https://paperswithcode.com/paper/oms-dpm-optimizing-the-model-schedule-for</link>
-      <description><![CDATA[Diffusion probabilistic models (DPMs) are a new class of generative models that have achieved state-of-the-art generation quality in various domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oms-dpm-optimizing-the-model-schedule-for</guid>
-    </item>
-    <item>
-      <title>A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening</title>
-      <link>https://paperswithcode.com/paper/a-gromov-wasserstein-geometric-view-of</link>
-      <description><![CDATA[The study includes a set of experiments to support the theory and method, including approximating the GW distance, preserving the graph spectrum, classifying graphs using spectral information, and performing regression using graph convolutional networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-gromov-wasserstein-geometric-view-of</guid>
-    </item>
-    <item>
-      <title>The Split Matters: Flat Minima Methods for Improving the Performance of GNNs</title>
-      <link>https://paperswithcode.com/paper/the-split-matters-flat-minima-methods-for</link>
-      <description><![CDATA[We investigate flat minima methods and combinations of those methods for training graph neural networks (GNNs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-split-matters-flat-minima-methods-for</guid>
-    </item>
-    <item>
-      <title>Relation-Aware Diffusion Model for Controllable Poster Layout Generation</title>
-      <link>https://paperswithcode.com/paper/relation-aware-diffusion-model-for</link>
-      <description><![CDATA[To advance research in this field, we have constructed a poster layout dataset named CGL-Dataset V2.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relation-aware-diffusion-model-for</guid>
-    </item>
-    <item>
-      <title>Optimal Exploration for Model-Based RL in Nonlinear Systems</title>
-      <link>https://paperswithcode.com/paper/optimal-exploration-for-model-based-rl-in</link>
-      <description><![CDATA[A commonly applied approach is to first explore the environment (exploration), learn an accurate model of it (system identification), and then compute an optimal controller with the minimum cost on this estimated system (policy optimization).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/optimal-exploration-for-model-based-rl-in</guid>
-    </item>
-    <item>
-      <title>Unbalanced Diffusion Schrödinger Bridge</title>
-      <link>https://paperswithcode.com/paper/unbalanced-diffusion-schrodinger-bridge</link>
-      <description><![CDATA[Schr\"odinger bridges (SBs) provide an elegant framework for modeling the temporal evolution of populations in physical, chemical, or biological systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unbalanced-diffusion-schrodinger-bridge</guid>
-    </item>
-    <item>
-      <title>Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/human-preference-score-v2-a-solid-benchmark</link>
-      <description><![CDATA[By fine-tuning CLIP on HPD v2, we obtain Human Preference Score v2 (HPS v2), a scoring model that can more accurately predict text-generated images' human preferences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-preference-score-v2-a-solid-benchmark</guid>
-    </item>
-    <item>
-      <title>PEACE: Cross-Platform Hate Speech Detection- A Causality-guided Framework</title>
-      <link>https://paperswithcode.com/paper/peace-cross-platform-hate-speech-detection-a</link>
-      <description><![CDATA[Hate speech detection refers to the task of detecting hateful content that aims at denigrating an individual or a group based on their religion, gender, sexual orientation, or other characteristics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/peace-cross-platform-hate-speech-detection-a</guid>
-    </item>
-    <item>
-      <title>KoLA: Carefully Benchmarking World Knowledge of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/kola-carefully-benchmarking-world-knowledge</link>
-      <description><![CDATA[The unprecedented performance of large language models (LLMs) necessitates improvements in evaluations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kola-carefully-benchmarking-world-knowledge</guid>
-    </item>
-    <item>
-      <title>Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models</title>
-      <link>https://paperswithcode.com/paper/bridging-the-gap-between-decision-and-logits</link>
-      <description><![CDATA[By combining the theoretical and empirical estimations of the decision distributions together, the estimation of logits can be successfully reduced to a simple root-finding problem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bridging-the-gap-between-decision-and-logits</guid>
-    </item>
-    <item>
-      <title>Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank</title>
-      <link>https://paperswithcode.com/paper/improving-reading-comprehension-question</link>
-      <description><![CDATA[Reading comprehension is a crucial skill in many aspects of education, including language learning, cognitive development, and fostering early literacy skills in children.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-reading-comprehension-question</guid>
     </item>
     <item>
       <title>ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models</title>
@@ -129,10 +63,154 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/artfusion-arbitrary-style-transfer-using-dual</guid>
     </item>
     <item>
+      <title>A Gromov--Wasserstein Geometric View of Spectrum-Preserving Graph Coarsening</title>
+      <link>https://paperswithcode.com/paper/a-gromov-wasserstein-geometric-view-of</link>
+      <description><![CDATA[The study includes a set of experiments to support the theory and method, including approximating the GW distance, preserving the graph spectrum, classifying graphs using spectral information, and performing regression using graph convolutional networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-gromov-wasserstein-geometric-view-of</guid>
+    </item>
+    <item>
       <title>Personalized Image Enhancement Featuring Masked Style Modeling</title>
       <link>https://paperswithcode.com/paper/personalized-image-enhancement-featuring</link>
       <description><![CDATA[Second, to allow this model to consider the contents of images, we propose a novel training scheme where we download images from Flickr and create pseudo input and retouched image pairs using a degrading model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/personalized-image-enhancement-featuring</guid>
+    </item>
+    <item>
+      <title>Learnable Weight Initialization for Volumetric Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/learnable-weight-initialization-for</link>
+      <description><![CDATA[Hybrid volumetric medical image segmentation models, combining the advantages of local convolution and global attention, have recently received considerable attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learnable-weight-initialization-for</guid>
+    </item>
+    <item>
+      <title>DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data</title>
+      <link>https://paperswithcode.com/paper/dreamsim-learning-new-dimensions-of-human</link>
+      <description><![CDATA[Furthermore, our metric outperforms both prior learned metrics and recent large vision models on these tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamsim-learning-new-dimensions-of-human</guid>
+    </item>
+    <item>
+      <title>Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection</title>
+      <link>https://paperswithcode.com/paper/winning-solution-for-the-cvpr2023-visual</link>
+      <description><![CDATA[This technical report introduces the winning solution of the team \textit{Segment Any Anomaly} for the CVPR2023 Visual Anomaly and Novelty Detection (VAND) challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/winning-solution-for-the-cvpr2023-visual</guid>
+    </item>
+    <item>
+      <title>Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/contrast-stylize-and-adapt-unsupervised</link>
+      <description><![CDATA[To address this, we present CONtrastive FEaTure and pIxel alignment (CONFETI) for bridging the domain gap at both the pixel and feature levels using a unique contrastive formulation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/contrast-stylize-and-adapt-unsupervised</guid>
+    </item>
+    <item>
+      <title>Probabilistic-based Feature Embedding of 4-D Light Fields for Compressive Imaging and Denoising</title>
+      <link>https://paperswithcode.com/paper/probabilistic-based-feature-embedding-of-4-d</link>
+      <description><![CDATA[The high-dimensional nature of the 4-D light field (LF) poses great challenges in efficient and effective feature embedding that severely impact the performance of downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/probabilistic-based-feature-embedding-of-4-d</guid>
+    </item>
+    <item>
+      <title>Exploring Resolution Fields for Scalable Image Compression with Uncertainty Guidance</title>
+      <link>https://paperswithcode.com/paper/exploring-resolution-fields-for-scalable</link>
+      <description><![CDATA[In this work, we explore the potential of resolution fields in scalable image compression and propose the reciprocal pyramid network (RPN) that fulfills the need for more adaptable and versatile compression.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-resolution-fields-for-scalable</guid>
+    </item>
+    <item>
+      <title>Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization</title>
+      <link>https://paperswithcode.com/paper/harvard-glaucoma-fairness-a-retinal-nerve</link>
+      <description><![CDATA[To address this gap, we introduce Harvard Glaucoma Fairness (Harvard-GF), a retinal nerve disease dataset with both 2D and 3D imaging data and balanced racial groups for glaucoma detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/harvard-glaucoma-fairness-a-retinal-nerve</guid>
+    </item>
+    <item>
+      <title>Graph Convolution Based Efficient Re-Ranking for Visual Retrieval</title>
+      <link>https://paperswithcode.com/paper/graph-convolution-based-efficient-re-ranking</link>
+      <description><![CDATA[In particular, the plain GCR is extended for cross-camera retrieval and an improved feature propagation formulation is presented to leverage affinity relationships across different cameras.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-convolution-based-efficient-re-ranking</guid>
+    </item>
+    <item>
+      <title>Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment</title>
+      <link>https://paperswithcode.com/paper/linguistic-binding-in-diffusion-models</link>
+      <description><![CDATA[This reflects an impaired mapping between linguistic binding of entities and modifiers in the prompt and visual binding of the corresponding elements in the generated image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/linguistic-binding-in-diffusion-models</guid>
+    </item>
+    <item>
+      <title>OpenOOD v1.5: Enhanced Benchmark for Out-of-Distribution Detection</title>
+      <link>https://paperswithcode.com/paper/openood-v1-5-enhanced-benchmark-for-out-of</link>
+      <description><![CDATA[Out-of-Distribution (OOD) detection is critical for the reliable operation of open-world intelligent systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openood-v1-5-enhanced-benchmark-for-out-of</guid>
+    </item>
+    <item>
+      <title>Enlarged Large Margin Loss for Imbalanced Classification</title>
+      <link>https://paperswithcode.com/paper/enlarged-large-margin-loss-for-imbalanced</link>
+      <description><![CDATA[Although, by using LDAM loss, it is possible to obtain large margins for the minority classes and small margins for the majority classes, the relevance to a large margin, which is included in the original softmax cross entropy loss, is not be clarified yet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enlarged-large-margin-loss-for-imbalanced</guid>
+    </item>
+    <item>
+      <title>Segment Any Point Cloud Sequences by Distilling Vision Foundation Models</title>
+      <link>https://paperswithcode.com/paper/segment-any-point-cloud-sequences-by</link>
+      <description><![CDATA[Recent advancements in vision foundation models (VFMs) have opened up new possibilities for versatile and efficient visual perception.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-any-point-cloud-sequences-by</guid>
+    </item>
+    <item>
+      <title>Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind</title>
+      <link>https://paperswithcode.com/paper/can-language-models-teach-weaker-agents</link>
+      <description><![CDATA[We decompose the teaching problem along four axes: (1) if teacher's test time intervention improve student predictions, (2) when it is worth explaining a data point, (3) how the teacher should personalize explanations to better teach the student, and (4) if teacher explanations also improve student performance on future unexplained data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-teach-weaker-agents</guid>
+    </item>
+    <item>
+      <title>Class-Conditional Conformal Prediction With Many Classes</title>
+      <link>https://paperswithcode.com/paper/class-conditional-conformal-prediction-with</link>
+      <description><![CDATA[Standard conformal prediction methods provide a marginal coverage guarantee, which means that for a random test point, the conformal prediction set contains the true label with a user-chosen probability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/class-conditional-conformal-prediction-with</guid>
+    </item>
+    <item>
+      <title>Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/seeing-the-pose-in-the-pixels-learning-pose</link>
+      <description><![CDATA[Both PAAT and PAAB surpass their respective backbone Transformers by up to 9. 8% in real-world action recognition and 21. 8% in multi-view robotic video alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-the-pose-in-the-pixels-learning-pose</guid>
+    </item>
+    <item>
+      <title>SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/sscbench-a-large-scale-3d-semantic-scene</link>
+      <description><![CDATA[Semantic scene completion (SSC) is crucial for holistic 3D scene understanding by jointly estimating semantics and geometry from sparse observations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sscbench-a-large-scale-3d-semantic-scene</guid>
+    </item>
+    <item>
+      <title>E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras</title>
+      <link>https://paperswithcode.com/paper/e-calib-a-fast-robust-and-accurate</link>
+      <description><![CDATA[However, conventional image-based calibration techniques are not applicable due to the asynchronous, binary output of the sensor.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/e-calib-a-fast-robust-and-accurate</guid>
+    </item>
+    <item>
+      <title>On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation</title>
+      <link>https://paperswithcode.com/paper/on-strengthening-and-defending-graph</link>
+      <description><![CDATA[Although powerful graph neural networks (GNNs) have boosted numerous real-world applications, the potential privacy risk is still underexplored.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-strengthening-and-defending-graph</guid>
+    </item>
+    <item>
+      <title>WizMap: Scalable Interactive Visualization for Exploring Large Machine Learning Embeddings</title>
+      <link>https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</link>
+      <description><![CDATA[Machine learning models often learn latent embedding representations that capture the domain semantics of their training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</guid>
+    </item>
+    <item>
+      <title>Estimating Generic 3D Room Structures from 2D Annotations</title>
+      <link>https://paperswithcode.com/paper/estimating-generic-3d-room-structures-from-2d</link>
+      <description><![CDATA[Based on these 2D annotations, we automatically reconstruct 3D plane equations for the structural elements and their spatial extent in the scene, and connect adjacent elements at the appropriate contact edges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/estimating-generic-3d-room-structures-from-2d</guid>
+    </item>
+    <item>
+      <title>Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings</title>
+      <link>https://paperswithcode.com/paper/improving-explainability-of-disentangled</link>
+      <description><![CDATA[We propose a framework that utilizes interpretable disentangled representations for downstream-task prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-explainability-of-disentangled</guid>
+    </item>
+    <item>
+      <title>Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter</title>
+      <link>https://paperswithcode.com/paper/crowd-powered-photo-enhancement-featuring-an</link>
+      <description><![CDATA[Existing photo enhancement methods are either not content-aware or not local; therefore, we propose a crowd-powered local enhancement method for content-aware local enhancement, which is achieved by asking crowd workers to locally optimize parameters for image editing functions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/crowd-powered-photo-enhancement-featuring-an</guid>
+    </item>
+    <item>
+      <title>Learning by Analogy: Diverse Questions Generation in Math Word Problem</title>
+      <link>https://paperswithcode.com/paper/learning-by-analogy-diverse-questions</link>
+      <description><![CDATA[We then feed them to a question generator together with the scenario to obtain the corresponding diverse questions, forming a new MWP with a variety of questions and equations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-by-analogy-diverse-questions</guid>
     </item>
     <item>
       <title>COSA: Concatenated Sample Pretrained Vision-Language Foundation Model</title>
@@ -141,10 +219,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cosa-concatenated-sample-pretrained-vision</guid>
     </item>
     <item>
-      <title>Enlarged Large Margin Loss for Imbalanced Classification</title>
-      <link>https://paperswithcode.com/paper/enlarged-large-margin-loss-for-imbalanced</link>
-      <description><![CDATA[Although, by using LDAM loss, it is possible to obtain large margins for the minority classes and small margins for the majority classes, the relevance to a large margin, which is included in the original softmax cross entropy loss, is not be clarified yet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enlarged-large-margin-loss-for-imbalanced</guid>
+      <title>Opinion Tree Parsing for Aspect-based Sentiment Analysis</title>
+      <link>https://paperswithcode.com/paper/opinion-tree-parsing-for-aspect-based</link>
+      <description><![CDATA[To address these challenges, we propose an opinion tree parsing model, aiming to parse all the sentiment elements from an opinion tree, which is much faster, and can explicitly reveal a more comprehensive and complete aspect-level sentiment structure.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/opinion-tree-parsing-for-aspect-based</guid>
+    </item>
+    <item>
+      <title>RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation</title>
+      <link>https://paperswithcode.com/paper/recfusion-a-binomial-diffusion-process-for-1d</link>
+      <description><![CDATA[In this paper we propose RecFusion, which comprise a set of diffusion models for recommendation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/recfusion-a-binomial-diffusion-process-for-1d</guid>
     </item>
     <item>
       <title>SIGHT: A Large Annotated Dataset on Student Insights Gathered from Higher Education Transcripts</title>
@@ -177,6 +261,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/modularity-trumps-invariance-for</guid>
     </item>
     <item>
+      <title>ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks</title>
+      <link>https://paperswithcode.com/paper/exomdn-rapid-characterization-of-exoplanet</link>
+      <description><![CDATA[The model is trained on a large dataset of more than 5. 6 million synthetic planets below 25 Earth masses consisting of an iron core, a silicate mantle, a water and high-pressure ice layer, and a H/He atmosphere.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exomdn-rapid-characterization-of-exoplanet</guid>
+    </item>
+    <item>
       <title>Datasets and Benchmarks for Offline Safe Reinforcement Learning</title>
       <link>https://paperswithcode.com/paper/datasets-and-benchmarks-for-offline-safe</link>
       <description><![CDATA[This paper presents a comprehensive benchmarking suite tailored to offline safe reinforcement learning (RL) challenges, aiming to foster progress in the development and evaluation of safe learning algorithms in both the training and deployment phases.]]></description>
@@ -201,10 +291,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/macaw-llm-multi-modal-language-modeling-with</guid>
     </item>
     <item>
-      <title>Opinion Tree Parsing for Aspect-based Sentiment Analysis</title>
-      <link>https://paperswithcode.com/paper/opinion-tree-parsing-for-aspect-based</link>
-      <description><![CDATA[To address these challenges, we propose an opinion tree parsing model, aiming to parse all the sentiment elements from an opinion tree, which is much faster, and can explicitly reveal a more comprehensive and complete aspect-level sentiment structure.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/opinion-tree-parsing-for-aspect-based</guid>
+      <title>Pragmatic Inference with a CLIP Listener for Contrastive Captioning</title>
+      <link>https://paperswithcode.com/paper/pragmatic-inference-with-a-clip-listener-for</link>
+      <description><![CDATA[We propose a simple yet effective and robust method for contrastive captioning: generating discriminative captions that distinguish target images from very similar alternative distractor images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pragmatic-inference-with-a-clip-listener-for</guid>
     </item>
     <item>
       <title>Multi-Temporal Relationship Inference in Urban Areas</title>
@@ -217,96 +307,6 @@
       <link>https://paperswithcode.com/paper/fast-training-of-diffusion-models-with-masked</link>
       <description><![CDATA[For masked training, we introduce an asymmetric encoder-decoder architecture consisting of a transformer encoder that operates only on unmasked patches and a lightweight transformer decoder on full patches.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-training-of-diffusion-models-with-masked</guid>
-    </item>
-    <item>
-      <title>Segment Any Point Cloud Sequences by Distilling Vision Foundation Models</title>
-      <link>https://paperswithcode.com/paper/segment-any-point-cloud-sequences-by</link>
-      <description><![CDATA[Recent advancements in vision foundation models (VFMs) have opened up new possibilities for versatile and efficient visual perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-any-point-cloud-sequences-by</guid>
-    </item>
-    <item>
-      <title>RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation</title>
-      <link>https://paperswithcode.com/paper/recfusion-a-binomial-diffusion-process-for-1d</link>
-      <description><![CDATA[In this paper we propose RecFusion, which comprise a set of diffusion models for recommendation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/recfusion-a-binomial-diffusion-process-for-1d</guid>
-    </item>
-    <item>
-      <title>Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/seeing-the-pose-in-the-pixels-learning-pose</link>
-      <description><![CDATA[Both PAAT and PAAB surpass their respective backbone Transformers by up to 9. 8% in real-world action recognition and 21. 8% in multi-view robotic video alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-the-pose-in-the-pixels-learning-pose</guid>
-    </item>
-    <item>
-      <title>Class-Conditional Conformal Prediction With Many Classes</title>
-      <link>https://paperswithcode.com/paper/class-conditional-conformal-prediction-with</link>
-      <description><![CDATA[Standard conformal prediction methods provide a marginal coverage guarantee, which means that for a random test point, the conformal prediction set contains the true label with a user-chosen probability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/class-conditional-conformal-prediction-with</guid>
-    </item>
-    <item>
-      <title>WizMap: Scalable Interactive Visualization for Exploring Large Machine Learning Embeddings</title>
-      <link>https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</link>
-      <description><![CDATA[Machine learning models often learn latent embedding representations that capture the domain semantics of their training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</guid>
-    </item>
-    <item>
-      <title>Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind</title>
-      <link>https://paperswithcode.com/paper/can-language-models-teach-weaker-agents</link>
-      <description><![CDATA[We decompose the teaching problem along four axes: (1) if teacher's test time intervention improve student predictions, (2) when it is worth explaining a data point, (3) how the teacher should personalize explanations to better teach the student, and (4) if teacher explanations also improve student performance on future unexplained data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-teach-weaker-agents</guid>
-    </item>
-    <item>
-      <title>Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter</title>
-      <link>https://paperswithcode.com/paper/crowd-powered-photo-enhancement-featuring-an</link>
-      <description><![CDATA[Existing photo enhancement methods are either not content-aware or not local; therefore, we propose a crowd-powered local enhancement method for content-aware local enhancement, which is achieved by asking crowd workers to locally optimize parameters for image editing functions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/crowd-powered-photo-enhancement-featuring-an</guid>
-    </item>
-    <item>
-      <title>Learnable Weight Initialization for Volumetric Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/learnable-weight-initialization-for</link>
-      <description><![CDATA[Hybrid volumetric medical image segmentation models, combining the advantages of local convolution and global attention, have recently received considerable attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learnable-weight-initialization-for</guid>
-    </item>
-    <item>
-      <title>DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data</title>
-      <link>https://paperswithcode.com/paper/dreamsim-learning-new-dimensions-of-human</link>
-      <description><![CDATA[Furthermore, our metric outperforms both prior learned metrics and recent large vision models on these tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamsim-learning-new-dimensions-of-human</guid>
-    </item>
-    <item>
-      <title>Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization</title>
-      <link>https://paperswithcode.com/paper/harvard-glaucoma-fairness-a-retinal-nerve</link>
-      <description><![CDATA[To address this gap, we introduce Harvard Glaucoma Fairness (Harvard-GF), a retinal nerve disease dataset with both 2D and 3D imaging data and balanced racial groups for glaucoma detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/harvard-glaucoma-fairness-a-retinal-nerve</guid>
-    </item>
-    <item>
-      <title>OpenOOD v1.5: Enhanced Benchmark for Out-of-Distribution Detection</title>
-      <link>https://paperswithcode.com/paper/openood-v1-5-enhanced-benchmark-for-out-of</link>
-      <description><![CDATA[Out-of-Distribution (OOD) detection is critical for the reliable operation of open-world intelligent systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openood-v1-5-enhanced-benchmark-for-out-of</guid>
-    </item>
-    <item>
-      <title>Learning by Analogy: Diverse Questions Generation in Math Word Problem</title>
-      <link>https://paperswithcode.com/paper/learning-by-analogy-diverse-questions</link>
-      <description><![CDATA[We then feed them to a question generator together with the scenario to obtain the corresponding diverse questions, forming a new MWP with a variety of questions and equations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-by-analogy-diverse-questions</guid>
-    </item>
-    <item>
-      <title>E-Calib: A Fast, Robust and Accurate Calibration Toolbox for Event Cameras</title>
-      <link>https://paperswithcode.com/paper/e-calib-a-fast-robust-and-accurate</link>
-      <description><![CDATA[However, conventional image-based calibration techniques are not applicable due to the asynchronous, binary output of the sensor.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/e-calib-a-fast-robust-and-accurate</guid>
-    </item>
-    <item>
-      <title>Estimating Generic 3D Room Structures from 2D Annotations</title>
-      <link>https://paperswithcode.com/paper/estimating-generic-3d-room-structures-from-2d</link>
-      <description><![CDATA[Based on these 2D annotations, we automatically reconstruct 3D plane equations for the structural elements and their spatial extent in the scene, and connect adjacent elements at the appropriate contact edges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/estimating-generic-3d-room-structures-from-2d</guid>
-    </item>
-    <item>
-      <title>Improving Explainability of Disentangled Representations using Multipath-Attribution Mappings</title>
-      <link>https://paperswithcode.com/paper/improving-explainability-of-disentangled</link>
-      <description><![CDATA[We propose a framework that utilizes interpretable disentangled representations for downstream-task prediction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-explainability-of-disentangled</guid>
     </item>
   </channel>
 </rss>
