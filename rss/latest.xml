@@ -7,18 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 09:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 21:07:58 +0000</lastBuildDate>
     <item>
-      <title>Data Structures for Density Estimation</title>
-      <link>https://paperswithcode.com/paper/data-structures-for-density-estimation</link>
-      <description><![CDATA[We study statistical/computational tradeoffs for the following density estimation problem: given $k$ distributions $v_1, \ldots, v_k$ over a discrete domain of size $n$, and sampling access to a distribution $p$, identify $v_i$ that is "close" to $p$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-structures-for-density-estimation</guid>
+      <title>Quilt-1M: One Million Image-Text Pairs for Histopathology</title>
+      <link>https://paperswithcode.com/paper/quilt-1m-one-million-image-text-pairs-for</link>
+      <description><![CDATA[From YouTube, we curate Quilt: a large-scale vision-language dataset consisting of $768, 826$ image and text pairs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quilt-1m-one-million-image-text-pairs-for</guid>
     </item>
     <item>
-      <title>Informed POMDP: Leveraging Additional Information in Model-Based RL</title>
-      <link>https://paperswithcode.com/paper/informed-pomdp-leveraging-additional</link>
-      <description><![CDATA[We then show that this informed objective consists of learning an environment model from which we can sample latent trajectories.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/informed-pomdp-leveraging-additional</guid>
+      <title>Deep Learning of Dynamical System Parameters from Return Maps as Images</title>
+      <link>https://paperswithcode.com/paper/deep-learning-of-dynamical-system-parameters</link>
+      <description><![CDATA[We present a novel approach to system identification (SI) using deep learning techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-of-dynamical-system-parameters</guid>
+    </item>
+    <item>
+      <title>Dense Video Object Captioning from Disjoint Supervision</title>
+      <link>https://paperswithcode.com/paper/dense-video-object-captioning-from-disjoint</link>
+      <description><![CDATA[We show our task is more general than grounding, and models trained on our task can directly be applied to grounding by finding the bounding box with the maximum likelihood of generating the query sentence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dense-video-object-captioning-from-disjoint</guid>
     </item>
     <item>
       <title>OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning</title>
@@ -33,70 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/masked-diffusion-models-are-fast-learners</guid>
     </item>
     <item>
-      <title>CAPRI: Context-Aware Interpretable Point-of-Interest Recommendation Framework</title>
-      <link>https://paperswithcode.com/paper/capri-context-aware-interpretable-point-of</link>
-      <description><![CDATA[Point-of-Interest (POI ) recommendation systems have gained popularity for their unique ability to suggest geographical destinations with the incorporation of contextual information such as time, location, and user-item interaction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/capri-context-aware-interpretable-point-of</guid>
-    </item>
-    <item>
-      <title>Traversing Between Modes in Function Space for Fast Ensembling</title>
-      <link>https://paperswithcode.com/paper/traversing-between-modes-in-function-space</link>
-      <description><![CDATA[While this provides a way to efficiently train ensembles, for inference, multiple forward passes should still be executed using all the ensemble parameters, which often becomes a serious bottleneck for real-world deployment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/traversing-between-modes-in-function-space</guid>
+      <title>Augmenting Sub-model to Improve Main Model</title>
+      <link>https://paperswithcode.com/paper/augmenting-sub-model-to-improve-main-model</link>
+      <description><![CDATA[While the main model employs conventional training recipes, the sub-model leverages the benefit of additional regularization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/augmenting-sub-model-to-improve-main-model</guid>
     </item>
     <item>
       <title>UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction</title>
       <link>https://paperswithcode.com/paper/uukg-unified-urban-knowledge-graph-dataset</link>
       <description><![CDATA[We hope the proposed UUKG fosters research on urban knowledge graphs and broad smart city applications.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/uukg-unified-urban-knowledge-graph-dataset</guid>
-    </item>
-    <item>
-      <title>The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics</title>
-      <link>https://paperswithcode.com/paper/the-ecological-fallacy-in-annotation</link>
-      <description><![CDATA[To account for sociodemographics in models of individual annotator behaviour, we introduce group-specific layers to multi-annotator models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-ecological-fallacy-in-annotation</guid>
-    </item>
-    <item>
-      <title>IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL</title>
-      <link>https://paperswithcode.com/paper/imp-marl-a-suite-of-environments-for-large</link>
-      <description><![CDATA[We introduce IMP-MARL, an open-source suite of multi-agent reinforcement learning (MARL) environments for large-scale Infrastructure Management Planning (IMP), offering a platform for benchmarking the scalability of cooperative MARL methods in real-world engineering applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/imp-marl-a-suite-of-environments-for-large</guid>
-    </item>
-    <item>
-      <title>Delegated Classification</title>
-      <link>https://paperswithcode.com/paper/delegated-classification</link>
-      <description><![CDATA[When machine learning is outsourced to a rational agent, conflicts of interest might arise and severely impact predictive performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/delegated-classification</guid>
-    </item>
-    <item>
-      <title>Learning Locally Interpretable Rule Ensemble</title>
-      <link>https://paperswithcode.com/paper/learning-locally-interpretable-rule-ensemble</link>
-      <description><![CDATA[To avoid this trade-off and learn an interpretable rule ensemble without degrading accuracy, we introduce a new concept of interpretability, named local interpretability, which is evaluated by the total number of rules necessary to express individual predictions made by the model, rather than to express the model itself.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-locally-interpretable-rule-ensemble</guid>
-    </item>
-    <item>
-      <title>GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks</title>
-      <link>https://paperswithcode.com/paper/graphglow-universal-and-generalizable</link>
-      <description><![CDATA[Graph structure learning is a well-established problem that aims at optimizing graph structures adaptive to specific graph datasets to help message passing neural networks (i. e., GNNs) to yield effective and robust node embeddings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graphglow-universal-and-generalizable</guid>
-    </item>
-    <item>
-      <title>Decentralized Quantum Federated Learning for Metaverse: Analysis, Design and Implementation</title>
-      <link>https://paperswithcode.com/paper/decentralized-quantum-federated-learning-for</link>
-      <description><![CDATA[To this end, we develop a decentralized and trustworthy quantum federated learning (QFL) framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decentralized-quantum-federated-learning-for</guid>
-    </item>
-    <item>
-      <title>Deep Learning of Dynamical System Parameters from Return Maps as Images</title>
-      <link>https://paperswithcode.com/paper/deep-learning-of-dynamical-system-parameters</link>
-      <description><![CDATA[We present a novel approach to system identification (SI) using deep learning techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-of-dynamical-system-parameters</guid>
-    </item>
-    <item>
-      <title>TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting</title>
-      <link>https://paperswithcode.com/paper/transref-multi-scale-reference-embedding</link>
-      <description><![CDATA[For precise utilization of the reference features for guidance, a reference-patch alignment (Ref-PA) module is proposed to align the patch features of the reference and corrupted images and harmonize their style differences, while a reference-patch transformer (Ref-PT) module is proposed to refine the embedded reference feature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transref-multi-scale-reference-embedding</guid>
     </item>
     <item>
       <title>How can objects help action recognition?</title>
@@ -111,10 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-double-self-expressive-subspace</guid>
     </item>
     <item>
-      <title>Quilt-1M: One Million Image-Text Pairs for Histopathology</title>
-      <link>https://paperswithcode.com/paper/quilt-1m-one-million-image-text-pairs-for</link>
-      <description><![CDATA[From YouTube, we curate Quilt: a large-scale vision-language dataset consisting of $768, 826$ image and text pairs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quilt-1m-one-million-image-text-pairs-for</guid>
+      <title>PyRCA: A Library for Metric-based Root Cause Analysis</title>
+      <link>https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</link>
+      <description><![CDATA[We introduce PyRCA, an open-source Python machine learning library of Root Cause Analysis (RCA) for Artificial Intelligence for IT Operations (AIOps).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</guid>
     </item>
     <item>
       <title>SeFNet: Bridging Tabular Datasets with Semantic Feature Nets</title>
@@ -123,28 +75,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sefnet-bridging-tabular-datasets-with</guid>
     </item>
     <item>
-      <title>MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian</title>
-      <link>https://paperswithcode.com/paper/msvd-indonesian-a-benchmark-for-multimodal</link>
-      <description><![CDATA[Since the availability of the pretraining resources with Indonesian sentences is relatively limited, the applicability of those approaches to our dataset is still questionable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/msvd-indonesian-a-benchmark-for-multimodal</guid>
+      <title>GenPlot: Increasing the Scale and Diversity of Chart Derendering Data</title>
+      <link>https://paperswithcode.com/paper/genplot-increasing-the-scale-and-diversity-of</link>
+      <description><![CDATA[Vertical bars, horizontal bars, dot, scatter, and line plots provide a diverse set of visualizations to represent data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/genplot-increasing-the-scale-and-diversity-of</guid>
     </item>
     <item>
-      <title>Multi-Fidelity Active Learning with GFlowNets</title>
-      <link>https://paperswithcode.com/paper/multi-fidelity-active-learning-with-gflownets</link>
-      <description><![CDATA[For example, in scientific discovery, we are often faced with the problem of exploring very large, high-dimensional spaces, where querying a high fidelity, black-box objective function is very expensive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-fidelity-active-learning-with-gflownets</guid>
+      <title>The Ecological Fallacy in Annotation: Modelling Human Label Variation goes beyond Sociodemographics</title>
+      <link>https://paperswithcode.com/paper/the-ecological-fallacy-in-annotation</link>
+      <description><![CDATA[To account for sociodemographics in models of individual annotator behaviour, we introduce group-specific layers to multi-annotator models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-ecological-fallacy-in-annotation</guid>
     </item>
     <item>
-      <title>GIO: Gradient Information Optimization for Training Dataset Selection</title>
-      <link>https://paperswithcode.com/paper/gio-gradient-information-optimization-for</link>
-      <description><![CDATA[It is often advantageous to train models on a subset of the available train examples, because the examples are of variable quality or because one would like to train with fewer examples, without sacrificing performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gio-gradient-information-optimization-for</guid>
+      <title>Data Structures for Density Estimation</title>
+      <link>https://paperswithcode.com/paper/data-structures-for-density-estimation</link>
+      <description><![CDATA[We study statistical/computational tradeoffs for the following density estimation problem: given $k$ distributions $v_1, \ldots, v_k$ over a discrete domain of size $n$, and sampling access to a distribution $p$, identify $v_i$ that is "close" to $p$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-structures-for-density-estimation</guid>
     </item>
     <item>
-      <title>FedNoisy: Federated Noisy Label Learning Benchmark</title>
-      <link>https://paperswithcode.com/paper/fednoisy-federated-noisy-label-learning</link>
-      <description><![CDATA[Federated learning has gained popularity for distributed learning without aggregating sensitive data from clients.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fednoisy-federated-noisy-label-learning</guid>
+      <title>Delegated Classification</title>
+      <link>https://paperswithcode.com/paper/delegated-classification</link>
+      <description><![CDATA[When machine learning is outsourced to a rational agent, conflicts of interest might arise and severely impact predictive performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/delegated-classification</guid>
+    </item>
+    <item>
+      <title>Learning Locally Interpretable Rule Ensemble</title>
+      <link>https://paperswithcode.com/paper/learning-locally-interpretable-rule-ensemble</link>
+      <description><![CDATA[To avoid this trade-off and learn an interpretable rule ensemble without degrading accuracy, we introduce a new concept of interpretability, named local interpretability, which is evaluated by the total number of rules necessary to express individual predictions made by the model, rather than to express the model itself.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-locally-interpretable-rule-ensemble</guid>
+    </item>
+    <item>
+      <title>A Bayesian Take on Gaussian Process Networks</title>
+      <link>https://paperswithcode.com/paper/a-bayesian-take-on-gaussian-process-networks</link>
+      <description><![CDATA[Gaussian Process Networks (GPNs) are a class of directed graphical models which employ Gaussian processes as priors for the conditional expectation of each variable given its parents in the network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-bayesian-take-on-gaussian-process-networks</guid>
     </item>
     <item>
       <title>Did the Models Understand Documents? Benchmarking Models for Language Understanding in Document-Level Relation Extraction</title>
@@ -153,22 +117,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/did-the-models-understand-documents</guid>
     </item>
     <item>
-      <title>On Evaluating Multilingual Compositional Generalization with Translated Datasets</title>
-      <link>https://paperswithcode.com/paper/on-evaluating-multilingual-compositional</link>
-      <description><![CDATA[To address this limitation, we craft a faithful rule-based translation of the MCWQ dataset from English to Chinese and Japanese.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-evaluating-multilingual-compositional</guid>
+      <title>GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks</title>
+      <link>https://paperswithcode.com/paper/graphglow-universal-and-generalizable</link>
+      <description><![CDATA[Graph structure learning is a well-established problem that aims at optimizing graph structures adaptive to specific graph datasets to help message passing neural networks (i. e., GNNs) to yield effective and robust node embeddings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graphglow-universal-and-generalizable</guid>
     </item>
     <item>
-      <title>PyRCA: A Library for Metric-based Root Cause Analysis</title>
-      <link>https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</link>
-      <description><![CDATA[We introduce PyRCA, an open-source Python machine learning library of Root Cause Analysis (RCA) for Artificial Intelligence for IT Operations (AIOps).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</guid>
+      <title>Decentralized Quantum Federated Learning for Metaverse: Analysis, Design and Implementation</title>
+      <link>https://paperswithcode.com/paper/decentralized-quantum-federated-learning-for</link>
+      <description><![CDATA[To this end, we develop a decentralized and trustworthy quantum federated learning (QFL) framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decentralized-quantum-federated-learning-for</guid>
     </item>
     <item>
-      <title>Augmenting Sub-model to Improve Main Model</title>
-      <link>https://paperswithcode.com/paper/augmenting-sub-model-to-improve-main-model</link>
-      <description><![CDATA[While the main model employs conventional training recipes, the sub-model leverages the benefit of additional regularization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/augmenting-sub-model-to-improve-main-model</guid>
+      <title>HK-LegiCoST: Leveraging Non-Verbatim Transcripts for Speech Translation</title>
+      <link>https://paperswithcode.com/paper/hk-legicost-leveraging-non-verbatim</link>
+      <description><![CDATA[We introduce HK-LegiCoST, a new three-way parallel corpus of Cantonese-English translations, containing 600+ hours of Cantonese audio, its standard traditional Chinese transcript, and English translation, segmented and aligned at the sentence level.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hk-legicost-leveraging-non-verbatim</guid>
     </item>
     <item>
       <title>A Simple and Effective Pruning Approach for Large Language Models</title>
@@ -183,16 +147,94 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/progressive-neural-representation-for</guid>
     </item>
     <item>
+      <title>FedNoisy: Federated Noisy Label Learning Benchmark</title>
+      <link>https://paperswithcode.com/paper/fednoisy-federated-noisy-label-learning</link>
+      <description><![CDATA[Federated learning has gained popularity for distributed learning without aggregating sensitive data from clients.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fednoisy-federated-noisy-label-learning</guid>
+    </item>
+    <item>
+      <title>TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting</title>
+      <link>https://paperswithcode.com/paper/transref-multi-scale-reference-embedding</link>
+      <description><![CDATA[For precise utilization of the reference features for guidance, a reference-patch alignment (Ref-PA) module is proposed to align the patch features of the reference and corrupted images and harmonize their style differences, while a reference-patch transformer (Ref-PT) module is proposed to refine the embedded reference feature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transref-multi-scale-reference-embedding</guid>
+    </item>
+    <item>
+      <title>On Evaluating Multilingual Compositional Generalization with Translated Datasets</title>
+      <link>https://paperswithcode.com/paper/on-evaluating-multilingual-compositional</link>
+      <description><![CDATA[To address this limitation, we craft a faithful rule-based translation of the MCWQ dataset from English to Chinese and Japanese.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-evaluating-multilingual-compositional</guid>
+    </item>
+    <item>
+      <title>GIO: Gradient Information Optimization for Training Dataset Selection</title>
+      <link>https://paperswithcode.com/paper/gio-gradient-information-optimization-for</link>
+      <description><![CDATA[It is often advantageous to train models on a subset of the available train examples, because the examples are of variable quality or because one would like to train with fewer examples, without sacrificing performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gio-gradient-information-optimization-for</guid>
+    </item>
+    <item>
+      <title>Traversing Between Modes in Function Space for Fast Ensembling</title>
+      <link>https://paperswithcode.com/paper/traversing-between-modes-in-function-space</link>
+      <description><![CDATA[While this provides a way to efficiently train ensembles, for inference, multiple forward passes should still be executed using all the ensemble parameters, which often becomes a serious bottleneck for real-world deployment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/traversing-between-modes-in-function-space</guid>
+    </item>
+    <item>
+      <title>Informed POMDP: Leveraging Additional Information in Model-Based RL</title>
+      <link>https://paperswithcode.com/paper/informed-pomdp-leveraging-additional</link>
+      <description><![CDATA[We then show that this informed objective consists of learning an environment model from which we can sample latent trajectories.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/informed-pomdp-leveraging-additional</guid>
+    </item>
+    <item>
+      <title>CAPRI: Context-Aware Interpretable Point-of-Interest Recommendation Framework</title>
+      <link>https://paperswithcode.com/paper/capri-context-aware-interpretable-point-of</link>
+      <description><![CDATA[Point-of-Interest (POI ) recommendation systems have gained popularity for their unique ability to suggest geographical destinations with the incorporation of contextual information such as time, location, and user-item interaction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/capri-context-aware-interpretable-point-of</guid>
+    </item>
+    <item>
+      <title>IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL</title>
+      <link>https://paperswithcode.com/paper/imp-marl-a-suite-of-environments-for-large</link>
+      <description><![CDATA[We introduce IMP-MARL, an open-source suite of multi-agent reinforcement learning (MARL) environments for large-scale Infrastructure Management Planning (IMP), offering a platform for benchmarking the scalability of cooperative MARL methods in real-world engineering applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/imp-marl-a-suite-of-environments-for-large</guid>
+    </item>
+    <item>
+      <title>Multi-Fidelity Active Learning with GFlowNets</title>
+      <link>https://paperswithcode.com/paper/multi-fidelity-active-learning-with-gflownets</link>
+      <description><![CDATA[For example, in scientific discovery, we are often faced with the problem of exploring very large, high-dimensional spaces, where querying a high fidelity, black-box objective function is very expensive.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-fidelity-active-learning-with-gflownets</guid>
+    </item>
+    <item>
       <title>Dynamic Perceiver for Efficient Visual Recognition</title>
       <link>https://paperswithcode.com/paper/dynamic-perceiver-for-efficient-visual</link>
       <description><![CDATA[Early exits are placed exclusively within the classification branch, thus eliminating the need for linear separability in low-level features.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-perceiver-for-efficient-visual</guid>
     </item>
     <item>
-      <title>Visually-Guided Sound Source Separation with Audio-Visual Predictive Coding</title>
-      <link>https://paperswithcode.com/paper/visually-guided-sound-source-separation-with</link>
-      <description><![CDATA[The framework of visually-guided sound source separation generally consists of three parts: visual feature extraction, multimodal feature fusion, and sound signal processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visually-guided-sound-source-separation-with</guid>
+      <title>MSVD-Indonesian: A Benchmark for Multimodal Video-Text Tasks in Indonesian</title>
+      <link>https://paperswithcode.com/paper/msvd-indonesian-a-benchmark-for-multimodal</link>
+      <description><![CDATA[Since the availability of the pretraining resources with Indonesian sentences is relatively limited, the applicability of those approaches to our dataset is still questionable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/msvd-indonesian-a-benchmark-for-multimodal</guid>
+    </item>
+    <item>
+      <title>OpenP5: Benchmarking Foundation Models for Recommendation</title>
+      <link>https://paperswithcode.com/paper/openp5-benchmarking-foundation-models-for</link>
+      <description><![CDATA[We also provide comprehensive evaluation results of the library over the two downstream tasks, the ten datasets, and the three item indexing methods to facilitate reproducibility and future research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openp5-benchmarking-foundation-models-for</guid>
+    </item>
+    <item>
+      <title>A VAE Approach to Sample Multivariate Extremes</title>
+      <link>https://paperswithcode.com/paper/a-vae-approach-to-sample-multivariate</link>
+      <description><![CDATA[We illustrate the relevance of our approach on a synthetic data set and on a real data set of discharge measurements along the Danube river network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-vae-approach-to-sample-multivariate</guid>
+    </item>
+    <item>
+      <title>Simple and Fast Group Robustness by Automatic Feature Reweighting</title>
+      <link>https://paperswithcode.com/paper/simple-and-fast-group-robustness-by-automatic</link>
+      <description><![CDATA[A major challenge to out-of-distribution generalization is reliance on spurious features -- patterns that are predictive of the class label in the training data distribution, but not causally related to the target.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/simple-and-fast-group-robustness-by-automatic</guid>
+    </item>
+    <item>
+      <title>Unsupervised Framework for Evaluating and Explaining Structural Node Embeddings of Graphs</title>
+      <link>https://paperswithcode.com/paper/unsupervised-framework-for-evaluating-and</link>
+      <description><![CDATA[For classical node embeddings there exists a framework which helps data scientists to identify (in an unsupervised way) a few embeddings that are worth further investigation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-framework-for-evaluating-and</guid>
     </item>
     <item>
       <title>Deep Reinforcement Learning with Multitask Episodic Memory Based on Task-Conditioned Hypernetwork</title>
@@ -201,82 +243,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-reinforcement-learning-with-multitask</guid>
     </item>
     <item>
-      <title>FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/fdnet-focal-decomposed-network-for-efficient</link>
-      <description><![CDATA[Moreover, we propose focal input sequence decomposition method which decomposes input sequence in a focal manner for efficient and robust forecasting when facing Long Sequence Time series Input (LSTI) problem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fdnet-focal-decomposed-network-for-efficient</guid>
-    </item>
-    <item>
-      <title>Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost</title>
-      <link>https://paperswithcode.com/paper/path-to-medical-agi-unify-domain-specific</link>
-      <description><![CDATA[Medical artificial general intelligence (AGI) is an emerging field that aims to develop systems specifically designed for medical applications that possess the ability to understand, learn, and apply knowledge across a wide range of tasks and domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/path-to-medical-agi-unify-domain-specific</guid>
-    </item>
-    <item>
-      <title>Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning</title>
-      <link>https://paperswithcode.com/paper/cross-modal-attribute-insertions-for</link>
-      <description><![CDATA[The robustness of multimodal deep learning models to realistic changes in the input text is critical for their applicability to important tasks such as text-to-image retrieval and cross-modal entailment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-modal-attribute-insertions-for</guid>
-    </item>
-    <item>
-      <title>BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/bayling-bridging-cross-lingual-alignment-and</link>
-      <description><![CDATA[To minimize human workload, we propose to transfer the capabilities of language generation and instruction following from English to other languages through an interactive translation task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bayling-bridging-cross-lingual-alignment-and</guid>
-    </item>
-    <item>
-      <title>Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement</title>
-      <link>https://paperswithcode.com/paper/pattern-mining-for-anomaly-detection-in</link>
-      <description><![CDATA[In the context of public procurement, several indicators called red flags are used to estimate fraud risk.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pattern-mining-for-anomaly-detection-in</guid>
-    </item>
-    <item>
-      <title>PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird's-Eye View</title>
-      <link>https://paperswithcode.com/paper/powerbev-a-powerful-yet-lightweight-framework</link>
-      <description><![CDATA[Accurately perceiving instances and predicting their future motion are key tasks for autonomous vehicles, enabling them to navigate safely in complex urban traffic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/powerbev-a-powerful-yet-lightweight-framework</guid>
-    </item>
-    <item>
-      <title>FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes</title>
-      <link>https://paperswithcode.com/paper/fha-kitchens-a-novel-dataset-for-fine-grained</link>
-      <description><![CDATA[We represent the action information in each hand interaction region as a triplet, resulting in a total of 878 action triplets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fha-kitchens-a-novel-dataset-for-fine-grained</guid>
-    </item>
-    <item>
-      <title>A deep dive into explainable self-supervised transformers for point clouds</title>
-      <link>https://paperswithcode.com/paper/a-deep-dive-into-explainable-self-supervised</link>
-      <description><![CDATA[In this paper we delve into the properties of transformers, attained through self-supervision, in the point cloud domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-deep-dive-into-explainable-self-supervised</guid>
-    </item>
-    <item>
-      <title>Detailed retinal vessel segmentation without human annotations using simulated optical coherence tomography angiographs</title>
-      <link>https://paperswithcode.com/paper/detailed-retinal-vessel-segmentation-without</link>
-      <description><![CDATA[Optical coherence tomography angiography (OCTA) is a non-invasive imaging modality that can acquire high-resolution volumes of the retinal vasculature and aid the diagnosis of ocular, neurological and cardiac diseases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detailed-retinal-vessel-segmentation-without</guid>
-    </item>
-    <item>
-      <title>Road Barlow Twins: Redundancy Reduction for Road Environment Descriptors and Motion Prediction</title>
-      <link>https://paperswithcode.com/paper/road-barlow-twins-redundancy-reduction-for</link>
-      <description><![CDATA[We introduce a novel self-supervised pre-training method as well as a transformer model for motion prediction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/road-barlow-twins-redundancy-reduction-for</guid>
-    </item>
-    <item>
-      <title>AVOIDDS: Aircraft Vision-based Intruder Detection Dataset and Simulator</title>
-      <link>https://paperswithcode.com/paper/avoidds-aircraft-vision-based-intruder</link>
-      <description><![CDATA[We also provide an interface that evaluates trained models on slices of this dataset to identify changes in performance with respect to changing environmental conditions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/avoidds-aircraft-vision-based-intruder</guid>
-    </item>
-    <item>
-      <title>A Lightweight Causal Model for Interpretable Subject-level Prediction</title>
-      <link>https://paperswithcode.com/paper/a-lightweight-causal-model-for-interpretable</link>
-      <description><![CDATA[Recent years have seen a growing interest in methods for predicting a variable of interest, such as a subject's diagnosis, from medical images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-lightweight-causal-model-for-interpretable</guid>
-    </item>
-    <item>
-      <title>Tame a Wild Camera: In-the-Wild Monocular Camera Calibration</title>
-      <link>https://paperswithcode.com/paper/tame-a-wild-camera-in-the-wild-monocular</link>
-      <description><![CDATA[3D sensing for monocular in-the-wild images, e. g., depth estimation and 3D object detection, has become increasingly important.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tame-a-wild-camera-in-the-wild-monocular</guid>
+      <title>To Fold or Not to Fold: Graph Regularized Tensor Train for Visual Data Completion</title>
+      <link>https://paperswithcode.com/paper/to-fold-or-not-to-fold-graph-regularized</link>
+      <description><![CDATA[Tensor train (TT) representation has achieved tremendous success in visual data completion tasks, especially when it is combined with tensor folding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/to-fold-or-not-to-fold-graph-regularized</guid>
     </item>
     <item>
       <title>BioREx: Improving Biomedical Relation Extraction by Leveraging Heterogeneous Datasets</title>
@@ -285,28 +255,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/biorex-improving-biomedical-relation</guid>
     </item>
     <item>
-      <title>Renderers are Good Zero-Shot Representation Learners: Exploring Diffusion Latents for Metric Learning</title>
-      <link>https://paperswithcode.com/paper/renderers-are-good-zero-shot-representation</link>
-      <description><![CDATA[Can the latent spaces of modern generative neural rendering models serve as representations for 3D-aware discriminative visual understanding tasks?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/renderers-are-good-zero-shot-representation</guid>
+      <title>Scaling of Class-wise Training Losses for Post-hoc Calibration</title>
+      <link>https://paperswithcode.com/paper/scaling-of-class-wise-training-losses-for</link>
+      <description><![CDATA[The class-wise training losses often diverge as a result of the various levels of intra-class and inter-class appearance variation, and we find that the diverging class-wise training losses cause the uncalibrated prediction with its reliability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-of-class-wise-training-losses-for</guid>
     </item>
     <item>
-      <title>TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting</title>
-      <link>https://paperswithcode.com/paper/televit-teleconnection-driven-transformers</link>
-      <description><![CDATA[To achieve such accurate long-term forecasts at a global scale, it is crucial to employ models that account for the Earth system's inherent spatio-temporal interactions, such as memory effects and teleconnections.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/televit-teleconnection-driven-transformers</guid>
+      <title>Pattern Mining for Anomaly Detection in Graphs: Application to Fraud in Public Procurement</title>
+      <link>https://paperswithcode.com/paper/pattern-mining-for-anomaly-detection-in</link>
+      <description><![CDATA[In the context of public procurement, several indicators called red flags are used to estimate fraud risk.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pattern-mining-for-anomaly-detection-in</guid>
     </item>
     <item>
-      <title>Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data</title>
-      <link>https://paperswithcode.com/paper/human-limits-in-machine-learning-prediction</link>
-      <description><![CDATA[The preservation of soil health has been identified as one of the main challenges of the XXI century given its vast (and potentially threatening) ramifications in agriculture, human health and biodiversity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-limits-in-machine-learning-prediction</guid>
+      <title>Fine-Tuning Language Models for Scientific Writing Support</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-language-models-for-scientific</link>
+      <description><![CDATA[Firstly, we propose a regression model trained on a corpus of scientific sentences extracted from peer-reviewed scientific papers and non-scientific text to assign a score that indicates the scientificness of a sentence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-for-scientific</guid>
     </item>
     <item>
-      <title>To Fold or Not to Fold: Graph Regularized Tensor Train for Visual Data Completion</title>
-      <link>https://paperswithcode.com/paper/to-fold-or-not-to-fold-graph-regularized</link>
-      <description><![CDATA[Tensor train (TT) representation has achieved tremendous success in visual data completion tasks, especially when it is combined with tensor folding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/to-fold-or-not-to-fold-graph-regularized</guid>
+      <title>Substitutional Alloying Using Crystal Graph Neural Networks</title>
+      <link>https://paperswithcode.com/paper/substitutional-alloying-using-crystal-graph</link>
+      <description><![CDATA[Materials discovery, especially for applications that require extreme operating conditions, requires extensive testing that naturally limits the ability to inquire the wealth of possible compositions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/substitutional-alloying-using-crystal-graph</guid>
+    </item>
+    <item>
+      <title>Design of an Axial Flux Permanent Magnet Eddy Current Brake for Application on Light Weight Motor Vehicles</title>
+      <link>https://paperswithcode.com/paper/design-of-an-axial-flux-permanent-magnet-eddy</link>
+      <description><![CDATA[Axial flux permanent magnet designs are compact and becoming an attractive design for electric vehicles as an auxiliary braking system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/design-of-an-axial-flux-permanent-magnet-eddy</guid>
+    </item>
+    <item>
+      <title>Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation</title>
+      <link>https://paperswithcode.com/paper/spatial-temporal-graph-learning-with</link>
+      <description><![CDATA[In addition, we introduce a cross-view contrastive learning paradigm to model the inter-dependencies across view-specific region representations and preserve underlying relation heterogeneity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spatial-temporal-graph-learning-with</guid>
+    </item>
+    <item>
+      <title>CAMMARL: Conformal Action Modeling in Multi Agent Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/cammarl-conformal-action-modeling-in-multi</link>
+      <description><![CDATA[In this article, we propose a novel multi-agent reinforcement learning (MARL) algorithm CAMMARL, which involves modeling the actions of other agents in different situations in the form of confident sets, i. e., sets containing their true actions with a high probability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cammarl-conformal-action-modeling-in-multi</guid>
+    </item>
+    <item>
+      <title>FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting</title>
+      <link>https://paperswithcode.com/paper/fdnet-focal-decomposed-network-for-efficient</link>
+      <description><![CDATA[Moreover, we propose focal input sequence decomposition method which decomposes input sequence in a focal manner for efficient and robust forecasting when facing Long Sequence Time series Input (LSTI) problem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fdnet-focal-decomposed-network-for-efficient</guid>
+    </item>
+    <item>
+      <title>BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/bayling-bridging-cross-lingual-alignment-and</link>
+      <description><![CDATA[To minimize human workload, we propose to transfer the capabilities of language generation and instruction following from English to other languages through an interactive translation task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bayling-bridging-cross-lingual-alignment-and</guid>
     </item>
   </channel>
 </rss>
