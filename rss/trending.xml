@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jun 2023 09:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2023 21:07:05 +0000</lastBuildDate>
     <item>
       <title>Fast Segment Anything</title>
       <link>https://paperswithcode.com/paper/fast-segment-anything</link>
@@ -19,6 +19,12 @@
       <link>https://paperswithcode.com/paper/full-parameter-fine-tuning-for-large-language</link>
       <description><![CDATA[Large Language Models (LLMs) have revolutionized Natural Language Processing (NLP) but demand massive GPU resources for training.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/full-parameter-fine-tuning-for-large-language</guid>
+    </item>
+    <item>
+      <title>Planning-oriented Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/goal-oriented-autonomous-driving</link>
+      <description><![CDATA[Oriented at this, we revisit the key components within perception and prediction, and prioritize the tasks such that all these tasks contribute to planning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
     </item>
     <item>
       <title>FinGPT: Open-Source Financial Large Language Models</title>
@@ -33,16 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-simple-and-effective-pruning-approach-for</guid>
     </item>
     <item>
-      <title>Planning-oriented Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/goal-oriented-autonomous-driving</link>
-      <description><![CDATA[Oriented at this, we revisit the key components within perception and prediction, and prioritize the tasks such that all these tasks contribute to planning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
-    </item>
-    <item>
       <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
       <link>https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</link>
       <description><![CDATA[Moreover, our model even outperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on HumanEval and HumanEval+.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
+    </item>
+    <item>
+      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
+      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
+      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
     </item>
     <item>
       <title>On the Benefits of 3D Pose and Tracking for Human Action Recognition</title>
@@ -57,10 +63,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</guid>
     </item>
     <item>
-      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
-      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
-      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
+      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
+      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
+      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
+    </item>
+    <item>
+      <title>TAP-Vid: A Benchmark for Tracking Any Point in a Video</title>
+      <link>https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</link>
+      <description><![CDATA[Generic motion understanding from video involves not only tracking objects, but also perceiving how their surfaces deform and move.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</guid>
+    </item>
+    <item>
+      <title>LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model</title>
+      <link>https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</link>
+      <description><![CDATA[This strategy effectively alleviates the interference between the two tasks of image-text alignment and instruction following and achieves strong multi-modal reasoning with only a small-scale image-text and instruction dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</guid>
     </item>
     <item>
       <title>BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models</title>
@@ -75,22 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-learning-from-images-with-a</guid>
     </item>
     <item>
-      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
-      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
-      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
-    </item>
-    <item>
       <title>ChemCrow: Augmenting large-language models with chemistry tools</title>
       <link>https://paperswithcode.com/paper/chemcrow-augmenting-large-language-models</link>
       <description><![CDATA[Over the last decades, excellent computational chemistry tools have been developed.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/chemcrow-augmenting-large-language-models</guid>
     </item>
     <item>
-      <title>MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing</title>
-      <link>https://paperswithcode.com/paper/magicbrush-a-manually-annotated-dataset-for</link>
-      <description><![CDATA[To address this issue, we introduce MagicBrush (https://osu-nlp-group. github. io/MagicBrush/), the first large-scale, manually annotated dataset for instruction-guided real image editing that covers diverse scenarios: single-turn, multi-turn, mask-provided, and mask-free editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magicbrush-a-manually-annotated-dataset-for</guid>
+      <title>WizMap: Scalable Interactive Visualization for Exploring Large Machine Learning Embeddings</title>
+      <link>https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</link>
+      <description><![CDATA[Machine learning models often learn latent embedding representations that capture the domain semantics of their training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</guid>
     </item>
     <item>
       <title>Fast Training of Diffusion Models with Masked Transformers</title>
@@ -99,34 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-training-of-diffusion-models-with-masked</guid>
     </item>
     <item>
-      <title>h2oGPT: Democratizing Large Language Models</title>
-      <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
-      <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
-    </item>
-    <item>
-      <title>PP-LiteSeg: A Superior Real-Time Semantic Segmentation Model</title>
-      <link>https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</link>
-      <description><![CDATA[Real-world applications have high demands for semantic segmentation methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</guid>
-    </item>
-    <item>
-      <title>LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model</title>
-      <link>https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</link>
-      <description><![CDATA[This strategy effectively alleviates the interference between the two tasks of image-text alignment and instruction following and achieves strong multi-modal reasoning with only a small-scale image-text and instruction dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</guid>
-    </item>
-    <item>
       <title>Simple and Controllable Music Generation</title>
       <link>https://paperswithcode.com/paper/simple-and-controllable-music-generation</link>
       <description><![CDATA[We tackle the task of conditional music generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/simple-and-controllable-music-generation</guid>
     </item>
     <item>
-      <title>TAP-Vid: A Benchmark for Tracking Any Point in a Video</title>
-      <link>https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</link>
-      <description><![CDATA[Generic motion understanding from video involves not only tracking objects, but also perceiving how their surfaces deform and move.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</guid>
+      <title>MAGVIT: Masked Generative Video Transformer</title>
+      <link>https://paperswithcode.com/paper/magvit-masked-generative-video-transformer</link>
+      <description><![CDATA[We introduce the MAsked Generative VIdeo Transformer, MAGVIT, to tackle various video synthesis tasks with a single model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magvit-masked-generative-video-transformer</guid>
+    </item>
+    <item>
+      <title>A Convolutional Neural Network for the Automatic Diagnosis of Collagen VI related Muscular Dystrophies</title>
+      <link>https://paperswithcode.com/paper/a-convolutional-neural-network-for-the</link>
+      <description><![CDATA[This decision scheme points to the possibly problematic areas in the input images and provides a global quantitative evaluation of the state of the patients, which is fundamental for diagnosis and to monitor the efficiency of therapies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-convolutional-neural-network-for-the</guid>
     </item>
   </channel>
 </rss>
