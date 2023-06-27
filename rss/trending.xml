@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jun 2023 21:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2023 09:13:21 +0000</lastBuildDate>
     <item>
       <title>Fast Segment Anything</title>
       <link>https://paperswithcode.com/paper/fast-segment-anything</link>
@@ -21,10 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/panohead-geometry-aware-3d-full-head</guid>
     </item>
     <item>
+      <title>LightGlue: Local Feature Matching at Light Speed</title>
+      <link>https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</link>
+      <description><![CDATA[We introduce LightGlue, a deep neural network that learns to match local features across images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</guid>
+    </item>
+    <item>
       <title>Planning-oriented Autonomous Driving</title>
       <link>https://paperswithcode.com/paper/goal-oriented-autonomous-driving</link>
       <description><![CDATA[Oriented at this, we revisit the key components within perception and prediction, and prioritize the tasks such that all these tasks contribute to planning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
+    </item>
+    <item>
+      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
+      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
+      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
+    </item>
+    <item>
+      <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
+      <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
+      <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
     </item>
     <item>
       <title>Full Parameter Fine-tuning for Large Language Models with Limited Resources</title>
@@ -33,10 +51,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/full-parameter-fine-tuning-for-large-language</guid>
     </item>
     <item>
-      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
-      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
-      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
+      <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
+      <link>https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</link>
+      <description><![CDATA[Moreover, our model even outperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on HumanEval and HumanEval+.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
+    </item>
+    <item>
+      <title>A Survey on Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</link>
+      <description><![CDATA[Multimodal Large Language Model (MLLM) recently has been a new rising research hotspot, which uses powerful Large Language Models (LLMs) as a brain to perform multimodal tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</guid>
+    </item>
+    <item>
+      <title>WizMap: Scalable Interactive Visualization for Exploring Large Machine Learning Embeddings</title>
+      <link>https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</link>
+      <description><![CDATA[Machine learning models often learn latent embedding representations that capture the domain semantics of their training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</guid>
+    </item>
+    <item>
+      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
+      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
+      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
     </item>
     <item>
       <title>FinGPT: Open-Source Financial Large Language Models</title>
@@ -51,40 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-simple-and-effective-pruning-approach-for</guid>
     </item>
     <item>
-      <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
-      <link>https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</link>
-      <description><![CDATA[Moreover, our model even outperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on HumanEval and HumanEval+.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
-    </item>
-    <item>
       <title>TAP-Vid: A Benchmark for Tracking Any Point in a Video</title>
       <link>https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</link>
       <description><![CDATA[Generic motion understanding from video involves not only tracking objects, but also perceiving how their surfaces deform and move.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/tap-vid-a-benchmark-for-tracking-any-point-in</guid>
-    </item>
-    <item>
-      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
-      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
-      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
-    </item>
-    <item>
-      <title>On the Benefits of 3D Pose and Tracking for Human Action Recognition</title>
-      <link>https://paperswithcode.com/paper/on-the-benefits-of-3d-pose-and-tracking-for</link>
-      <description><![CDATA[Subsequently, we propose a Lagrangian Action Recognition model by fusing 3D pose and contextualized appearance over tracklets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-benefits-of-3d-pose-and-tracking-for</guid>
-    </item>
-    <item>
-      <title>WizMap: Scalable Interactive Visualization for Exploring Large Machine Learning Embeddings</title>
-      <link>https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</link>
-      <description><![CDATA[Machine learning models often learn latent embedding representations that capture the domain semantics of their training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wizmap-scalable-interactive-visualization-for</guid>
-    </item>
-    <item>
-      <title>LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model</title>
-      <link>https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</link>
-      <description><![CDATA[This strategy effectively alleviates the interference between the two tasks of image-text alignment and instruction following and achieves strong multi-modal reasoning with only a small-scale image-text and instruction dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</guid>
     </item>
     <item>
       <title>From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought</title>
@@ -93,22 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/from-word-models-to-world-models-translating</guid>
     </item>
     <item>
-      <title>PyRCA: A Library for Metric-based Root Cause Analysis</title>
-      <link>https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</link>
-      <description><![CDATA[We introduce PyRCA, an open-source Python machine learning library of Root Cause Analysis (RCA) for Artificial Intelligence for IT Operations (AIOps).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</guid>
-    </item>
-    <item>
-      <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
-      <link>https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</link>
-      <description><![CDATA[As such, web-crawling is an essential tool for both computational and non-computational scientists to conduct research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
-    </item>
-    <item>
-      <title>BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/bayling-bridging-cross-lingual-alignment-and</link>
-      <description><![CDATA[To minimize human workload, we propose to transfer the capabilities of language generation and instruction following from English to other languages through an interactive translation task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bayling-bridging-cross-lingual-alignment-and</guid>
+      <title>LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model</title>
+      <link>https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</link>
+      <description><![CDATA[This strategy effectively alleviates the interference between the two tasks of image-text alignment and instruction following and achieves strong multi-modal reasoning with only a small-scale image-text and instruction dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</guid>
     </item>
     <item>
       <title>h2oGPT: Democratizing Large Language Models</title>
@@ -117,16 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
     </item>
     <item>
+      <title>LIMA: Less Is More for Alignment</title>
+      <link>https://paperswithcode.com/paper/lima-less-is-more-for-alignment</link>
+      <description><![CDATA[Large language models are trained in two stages: (1) unsupervised pretraining from raw text, to learn general-purpose representations, and (2) large scale instruction tuning and reinforcement learning, to better align to end tasks and user preferences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lima-less-is-more-for-alignment</guid>
+    </item>
+    <item>
+      <title>Bring Your Own Data! Self-Supervised Evaluation for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/bring-your-own-data-self-supervised</link>
+      <description><![CDATA[With the rise of Large Language Models (LLMs) and their ubiquitous deployment in diverse domains, measuring language model behavior on realistic data is imperative.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bring-your-own-data-self-supervised</guid>
+    </item>
+    <item>
       <title>Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling</title>
       <link>https://paperswithcode.com/paper/pythia-a-suite-for-analyzing-large-language</link>
       <description><![CDATA[How do large language models (LLMs) develop and evolve over the course of training?]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/pythia-a-suite-for-analyzing-large-language</guid>
-    </item>
-    <item>
-      <title>MAGVIT: Masked Generative Video Transformer</title>
-      <link>https://paperswithcode.com/paper/magvit-masked-generative-video-transformer</link>
-      <description><![CDATA[We introduce the MAsked Generative VIdeo Transformer, MAGVIT, to tackle various video synthesis tasks with a single model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magvit-masked-generative-video-transformer</guid>
     </item>
   </channel>
 </rss>
