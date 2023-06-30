@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jun 2023 21:06:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2023 09:12:49 +0000</lastBuildDate>
     <item>
       <title>Fast Segment Anything</title>
       <link>https://paperswithcode.com/paper/fast-segment-anything</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fast-segment-anything</guid>
     </item>
     <item>
-      <title>Faster Segment Anything: Towards Lightweight SAM for Mobile Applications</title>
-      <link>https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</link>
-      <description><![CDATA[Concretely, we distill the knowledge from the image encoder ViT-H in the original SAM to a lightweight image encoder, which can be automatically compatible with the mask decoder in the original SAM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</guid>
-    </item>
-    <item>
       <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
       <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
       <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
+    </item>
+    <item>
+      <title>Faster Segment Anything: Towards Lightweight SAM for Mobile Applications</title>
+      <link>https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</link>
+      <description><![CDATA[Concretely, we distill the knowledge from the image encoder ViT-H in the original SAM to a lightweight image encoder, which can be automatically compatible with the mask decoder in the original SAM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</guid>
     </item>
     <item>
       <title>LightGlue: Local Feature Matching at Light Speed</title>
@@ -45,16 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
     </item>
     <item>
+      <title>A Survey on Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</link>
+      <description><![CDATA[Multimodal Large Language Model (MLLM) recently has been a new rising research hotspot, which uses powerful Large Language Models (LLMs) as a brain to perform multimodal tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</guid>
+    </item>
+    <item>
+      <title>LeanDojo: Theorem Proving with Retrieval-Augmented Language Models</title>
+      <link>https://paperswithcode.com/paper/leandojo-theorem-proving-with-retrieval</link>
+      <description><![CDATA[Using this data, we develop ReProver (Retrieval-Augmented Prover): the first LLM-based prover that is augmented with retrieval for selecting premises from a vast math library.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/leandojo-theorem-proving-with-retrieval</guid>
+    </item>
+    <item>
       <title>MotionGPT: Human Motion as a Foreign Language</title>
       <link>https://paperswithcode.com/paper/motiongpt-human-motion-as-a-foreign-language</link>
       <description><![CDATA[Building upon this "motion vocabulary", we perform language modeling on both motion and text in a unified manner, treating human motion as a specific language.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/motiongpt-human-motion-as-a-foreign-language</guid>
     </item>
     <item>
-      <title>A Survey on Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</link>
-      <description><![CDATA[Multimodal Large Language Model (MLLM) recently has been a new rising research hotspot, which uses powerful Large Language Models (LLMs) as a brain to perform multimodal tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</guid>
+      <title>Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic</title>
+      <link>https://paperswithcode.com/paper/shikra-unleashing-multimodal-llm-s</link>
+      <description><![CDATA[Referential dialogue is a superset of various vision-language (VL) tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shikra-unleashing-multimodal-llm-s</guid>
     </item>
     <item>
       <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
@@ -63,46 +75,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
     </item>
     <item>
-      <title>A Novel Correlation-optimized Deep Learning Method for Wind Speed Forecast</title>
-      <link>https://paperswithcode.com/paper/a-novel-deep-knowledge-based-learning-method</link>
-      <description><![CDATA[Finally, the effectiveness of the proposed method is verified by three wind prediction cases from a wind farm in Liaoning, China.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-novel-deep-knowledge-based-learning-method</guid>
-    </item>
-    <item>
-      <title>FinGPT: Open-Source Financial Large Language Models</title>
-      <link>https://paperswithcode.com/paper/fingpt-open-source-financial-large-language</link>
-      <description><![CDATA[While proprietary models like BloombergGPT have taken advantage of their unique data accumulation, such privileged access calls for an open-source alternative to democratize Internet-scale financial data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fingpt-open-source-financial-large-language</guid>
-    </item>
-    <item>
-      <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
-      <link>https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</link>
-      <description><![CDATA[Moreover, our model even outperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on HumanEval and HumanEval+.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
-    </item>
-    <item>
-      <title>Bring Your Own Data! Self-Supervised Evaluation for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/bring-your-own-data-self-supervised</link>
-      <description><![CDATA[With the rise of Large Language Models (LLMs) and their ubiquitous deployment in diverse domains, measuring language model behavior on realistic data is imperative.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bring-your-own-data-self-supervised</guid>
-    </item>
-    <item>
       <title>PyRCA: A Library for Metric-based Root Cause Analysis</title>
       <link>https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</link>
       <description><![CDATA[We introduce PyRCA, an open-source Python machine learning library of Root Cause Analysis (RCA) for Artificial Intelligence for IT Operations (AIOps).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</guid>
     </item>
     <item>
-      <title>ToolQA: A Dataset for LLM Question Answering with External Tools</title>
-      <link>https://paperswithcode.com/paper/toolqa-a-dataset-for-llm-question-answering</link>
-      <description><![CDATA[To address this issue, we introduce a new dataset called ToolQA, which is designed to faithfully evaluate LLMs' ability to use external tools for question answering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/toolqa-a-dataset-for-llm-question-answering</guid>
+      <title>A Novel Correlation-optimized Deep Learning Method for Wind Speed Forecast</title>
+      <link>https://paperswithcode.com/paper/a-novel-deep-knowledge-based-learning-method</link>
+      <description><![CDATA[Finally, the effectiveness of the proposed method is verified by three wind prediction cases from a wind farm in Liaoning, China.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-novel-deep-knowledge-based-learning-method</guid>
     </item>
     <item>
       <title>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</title>
       <link>https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</link>
       <description><![CDATA[We also extend FlashAttention to block-sparse attention, yielding an approximate attention algorithm that is faster than any existing approximate attention method.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</guid>
+    </item>
+    <item>
+      <title>Restart Sampling for Improving Generative Processes</title>
+      <link>https://paperswithcode.com/paper/restart-sampling-for-improving-generative</link>
+      <description><![CDATA[Restart not only outperforms the previous best SDE results, but also accelerates the sampling speed by 10-fold / 2-fold on CIFAR-10 / ImageNet $64 \times 64$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/restart-sampling-for-improving-generative</guid>
+    </item>
+    <item>
+      <title>PromptIR: Prompting for All-in-One Blind Image Restoration</title>
+      <link>https://paperswithcode.com/paper/promptir-prompting-for-all-in-one-blind-image</link>
+      <description><![CDATA[We present a prompt-based learning approach, PromptIR, for All-In-One image restoration that can effectively restore images from various types and levels of degradation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/promptir-prompting-for-all-in-one-blind-image</guid>
     </item>
     <item>
       <title>Enlighten Anything: When Segment Anything Model Meets Low-Light Image Enhancement</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</guid>
     </item>
     <item>
-      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
-      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
-      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
+      <title>GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image</title>
+      <link>https://paperswithcode.com/paper/genimage-a-million-scale-benchmark-for</link>
+      <description><![CDATA[The aforementioned advantages allow the detectors trained on GenImage to undergo a thorough evaluation and demonstrate strong applicability to diverse images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/genimage-a-million-scale-benchmark-for</guid>
     </item>
     <item>
-      <title>Restart Sampling for Improving Generative Processes</title>
-      <link>https://paperswithcode.com/paper/restart-sampling-for-improving-generative</link>
-      <description><![CDATA[Restart not only outperforms the previous best SDE results, but also accelerates the sampling speed by 10-fold / 2-fold on CIFAR-10 / ImageNet $64 \times 64$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/restart-sampling-for-improving-generative</guid>
+      <title>Pivotal Tuning for Latent-based Editing of Real Images</title>
+      <link>https://paperswithcode.com/paper/pivotal-tuning-for-latent-based-editing-of</link>
+      <description><![CDATA[The key idea is pivotal tuning - a brief training process that preserves the editing quality of an in-domain latent region, while changing its portrayed identity and appearance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pivotal-tuning-for-latent-based-editing-of</guid>
     </item>
   </channel>
 </rss>
