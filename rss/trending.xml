@@ -7,25 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 09:13:54 +0000</lastBuildDate>
-    <item>
-      <title>Faster Segment Anything: Towards Lightweight SAM for Mobile Applications</title>
-      <link>https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</link>
-      <description><![CDATA[Concretely, we distill the knowledge from the image encoder ViT-H in the original SAM to a lightweight image encoder, which can be automatically compatible with the mask decoder in the original SAM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</guid>
-    </item>
-    <item>
-      <title>Fast Segment Anything</title>
-      <link>https://paperswithcode.com/paper/fast-segment-anything</link>
-      <description><![CDATA[In this paper, we propose a speed-up alternative method for this fundamental task with comparable performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-segment-anything</guid>
-    </item>
-    <item>
-      <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
-      <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
-      <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
-    </item>
+    <lastBuildDate>Wed, 05 Jul 2023 21:07:31 +0000</lastBuildDate>
     <item>
       <title>ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases</title>
       <link>https://paperswithcode.com/paper/chatlaw-open-source-legal-large-language</link>
@@ -33,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatlaw-open-source-legal-large-language</guid>
     </item>
     <item>
-      <title>LightGlue: Local Feature Matching at Light Speed</title>
-      <link>https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</link>
-      <description><![CDATA[We introduce LightGlue, a deep neural network that learns to match local features across images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</guid>
+      <title>Faster Segment Anything: Towards Lightweight SAM for Mobile Applications</title>
+      <link>https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</link>
+      <description><![CDATA[Concretely, we distill the knowledge from the heavy image encoder (ViT-H in the original SAM) to a lightweight image encoder, which can be automatically compatible with the mask decoder in the original SAM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-segment-anything-towards-lightweight</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
@@ -45,40 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360$^{\circ}$</title>
-      <link>https://paperswithcode.com/paper/panohead-geometry-aware-3d-full-head</link>
-      <description><![CDATA[We propose PanoHead, the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in $360^\circ$ with diverse appearance and detailed geometry using only in-the-wild unstructured images for training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/panohead-geometry-aware-3d-full-head</guid>
-    </item>
-    <item>
-      <title>Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language</title>
-      <link>https://paperswithcode.com/paper/towards-language-models-that-can-see-computer</link>
-      <description><![CDATA[We propose LENS, a modular approach for tackling computer vision problems by leveraging the power of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-language-models-that-can-see-computer</guid>
-    </item>
-    <item>
-      <title>MotionGPT: Human Motion as a Foreign Language</title>
-      <link>https://paperswithcode.com/paper/motiongpt-human-motion-as-a-foreign-language</link>
-      <description><![CDATA[Building upon this "motion vocabulary", we perform language modeling on both motion and text in a unified manner, treating human motion as a specific language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/motiongpt-human-motion-as-a-foreign-language</guid>
-    </item>
-    <item>
-      <title>LeanDojo: Theorem Proving with Retrieval-Augmented Language Models</title>
-      <link>https://paperswithcode.com/paper/leandojo-theorem-proving-with-retrieval</link>
-      <description><![CDATA[Using this data, we develop ReProver (Retrieval-Augmented Prover): the first LLM-based prover that is augmented with retrieval for selecting premises from a vast math library.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leandojo-theorem-proving-with-retrieval</guid>
-    </item>
-    <item>
-      <title>A Survey on Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</link>
-      <description><![CDATA[Multimodal Large Language Model (MLLM) recently has been a new rising research hotspot, which uses powerful Large Language Models (LLMs) as a brain to perform multimodal tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-multimodal-large-language-models</guid>
-    </item>
-    <item>
-      <title>Towards Open Vocabulary Learning: A Survey</title>
-      <link>https://paperswithcode.com/paper/towards-open-vocabulary-learning-a-survey</link>
-      <description><![CDATA[To our knowledge, this is the first comprehensive literature review of open vocabulary learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-open-vocabulary-learning-a-survey</guid>
+      <title>Fast Segment Anything</title>
+      <link>https://paperswithcode.com/paper/fast-segment-anything</link>
+      <description><![CDATA[In this paper, we propose a speed-up alternative method for this fundamental task with comparable performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-segment-anything</guid>
     </item>
     <item>
       <title>End-to-end Autonomous Driving: Challenges and Frontiers</title>
@@ -87,16 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-autonomous-driving-challenges-and</guid>
     </item>
     <item>
-      <title>PyRCA: A Library for Metric-based Root Cause Analysis</title>
-      <link>https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</link>
-      <description><![CDATA[We introduce PyRCA, an open-source Python machine learning library of Root Cause Analysis (RCA) for Artificial Intelligence for IT Operations (AIOps).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pyrca-a-library-for-metric-based-root-cause</guid>
+      <title>Enhancing Chat Language Models by Scaling High-quality Instructional Conversations</title>
+      <link>https://paperswithcode.com/paper/enhancing-chat-language-models-by-scaling</link>
+      <description><![CDATA[Fine-tuning on instruction data has been widely validated as an effective practice for implementing chat language models like ChatGPT.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-chat-language-models-by-scaling</guid>
     </item>
     <item>
-      <title>Planning-oriented Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/goal-oriented-autonomous-driving</link>
-      <description><![CDATA[Oriented at this, we revisit the key components within perception and prediction, and prioritize the tasks such that all these tasks contribute to planning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/goal-oriented-autonomous-driving</guid>
+      <title>MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</link>
+      <description><![CDATA[Multimodal Large Language Model (MLLM) relies on the powerful LLM to perform multimodal tasks, showing amazing emergent abilities in recent studies, such as writing poems based on an image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</guid>
+    </item>
+    <item>
+      <title>Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language</title>
+      <link>https://paperswithcode.com/paper/towards-language-models-that-can-see-computer</link>
+      <description><![CDATA[We propose LENS, a modular approach for tackling computer vision problems by leveraging the power of large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-language-models-that-can-see-computer</guid>
+    </item>
+    <item>
+      <title>Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold</title>
+      <link>https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</link>
+      <description><![CDATA[Synthesizing visual content that meets users' needs often requires flexible and precise controllability of the pose, shape, expression, and layout of the generated objects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/drag-your-gan-interactive-point-based</guid>
     </item>
     <item>
       <title>Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic</title>
@@ -105,28 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/shikra-unleashing-multimodal-llm-s</guid>
     </item>
     <item>
-      <title>MedLSAM: Localize and Segment Anything Model for 3D Medical Images</title>
-      <link>https://paperswithcode.com/paper/medlsam-localize-and-segment-anything-model</link>
-      <description><![CDATA[Nevertheless, both the original SAM and its medical adaptations necessitate slice-by-slice annotations, which directly increase the annotation workload with the size of the dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/medlsam-localize-and-segment-anything-model</guid>
+      <title>h2oGPT: Democratizing Large Language Models</title>
+      <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
+      <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
     </item>
     <item>
-      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
-      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
-      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
+      <title>LightGlue: Local Feature Matching at Light Speed</title>
+      <link>https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</link>
+      <description><![CDATA[We introduce LightGlue, a deep neural network that learns to match local features across images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</guid>
     </item>
     <item>
-      <title>PromptIR: Prompting for All-in-One Blind Image Restoration</title>
-      <link>https://paperswithcode.com/paper/promptir-prompting-for-all-in-one-blind-image</link>
-      <description><![CDATA[We present a prompt-based learning approach, PromptIR, for All-In-One image restoration that can effectively restore images from various types and levels of degradation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/promptir-prompting-for-all-in-one-blind-image</guid>
+      <title>PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360$^{\circ}$</title>
+      <link>https://paperswithcode.com/paper/panohead-geometry-aware-3d-full-head</link>
+      <description><![CDATA[We propose PanoHead, the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in $360^\circ$ with diverse appearance and detailed geometry using only in-the-wild unstructured images for training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/panohead-geometry-aware-3d-full-head</guid>
     </item>
     <item>
-      <title>CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a \$10,000 Budget; An Extra \$4,000 Unlocks 81.8% Accuracy</title>
-      <link>https://paperswithcode.com/paper/clipa-v2-scaling-clip-training-with-81-1-zero</link>
-      <description><![CDATA[The recent work CLIPA presents an inverse scaling law for CLIP training -- whereby the larger the image/text encoders used, the shorter the sequence length of image/text tokens that can be applied in training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clipa-v2-scaling-clip-training-with-81-1-zero</guid>
+      <title>MotionGPT: Human Motion as a Foreign Language</title>
+      <link>https://paperswithcode.com/paper/motiongpt-human-motion-as-a-foreign-language</link>
+      <description><![CDATA[Building upon this "motion vocabulary", we perform language modeling on both motion and text in a unified manner, treating human motion as a specific language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/motiongpt-human-motion-as-a-foreign-language</guid>
+    </item>
+    <item>
+      <title>Voice Conversion With Just Nearest Neighbors</title>
+      <link>https://paperswithcode.com/paper/voice-conversion-with-just-nearest-neighbors</link>
+      <description><![CDATA[Any-to-any voice conversion aims to transform source speech into a target voice with just a few examples of the target speaker as a reference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/voice-conversion-with-just-nearest-neighbors</guid>
+    </item>
+    <item>
+      <title>LeanDojo: Theorem Proving with Retrieval-Augmented Language Models</title>
+      <link>https://paperswithcode.com/paper/leandojo-theorem-proving-with-retrieval</link>
+      <description><![CDATA[Using this data, we develop ReProver (Retrieval-Augmented Prover): the first LLM-based prover that is augmented with retrieval for selecting premises from a vast math library.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/leandojo-theorem-proving-with-retrieval</guid>
+    </item>
+    <item>
+      <title>Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis</title>
+      <link>https://paperswithcode.com/paper/inheriting-the-wisdom-of-predecessors-a</link>
+      <description><![CDATA[So far, aspect-based sentiment analysis (ABSA) has involved with total seven subtasks, in which, however the interactions among them have been left unexplored sufficiently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inheriting-the-wisdom-of-predecessors-a</guid>
+    </item>
+    <item>
+      <title>RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model</title>
+      <link>https://paperswithcode.com/paper/rsprompter-learning-to-prompt-for-remote</link>
+      <description><![CDATA[Leveraging vast training data (SA-1B), the foundation Segment Anything Model (SAM) proposed by Meta AI Research exhibits remarkable generalization and zero-shot capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rsprompter-learning-to-prompt-for-remote</guid>
+    </item>
+    <item>
+      <title>StickyLand: Breaking the Linear Presentation of Computational Notebooks</title>
+      <link>https://paperswithcode.com/paper/stickyland-breaking-the-linear-presentation</link>
+      <description><![CDATA[We present StickyLand, a notebook extension for empowering users to freely organize their code in non-linear ways.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stickyland-breaking-the-linear-presentation</guid>
+    </item>
+    <item>
+      <title>Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias</title>
+      <link>https://paperswithcode.com/paper/large-language-model-as-attributed-training</link>
+      <description><![CDATA[Additionally, we present a comprehensive empirical study on data generation encompassing vital aspects like bias, diversity, and efficiency, and highlight three key observations: firstly, synthetic datasets generated by simple prompts exhibit significant biases, such as regional bias; secondly, attribute diversity plays a pivotal role in enhancing model performance; lastly, attributed prompts achieve the performance of simple class-conditional prompts while utilizing only 5\% of the querying cost of ChatGPT associated with the latter.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-model-as-attributed-training</guid>
     </item>
   </channel>
 </rss>
