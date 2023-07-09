@@ -7,24 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jul 2023 09:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2023 21:06:26 +0000</lastBuildDate>
     <item>
       <title>ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases</title>
       <link>https://paperswithcode.com/paper/chatlaw-open-source-legal-large-language</link>
       <description><![CDATA[Furthermore, we propose a self-attention method to enhance the ability of large models to overcome errors present in reference data, further optimizing the issue of model hallucinations at the model level and improving the problem-solving capabilities of large models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatlaw-open-source-legal-large-language</guid>
-    </item>
-    <item>
-      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
-      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
-      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
-    </item>
-    <item>
-      <title>LongNet: Scaling Transformers to 1,000,000,000 Tokens</title>
-      <link>https://paperswithcode.com/paper/longnet-scaling-transformers-to-1000000000</link>
-      <description><![CDATA[Scaling sequence length has become a critical demand in the era of large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longnet-scaling-transformers-to-1000000000</guid>
     </item>
     <item>
       <title>A Survey on Evaluation of Large Language Models</title>
@@ -33,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language</guid>
     </item>
     <item>
-      <title>DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/dragondiffusion-enabling-drag-style</link>
-      <description><![CDATA[Specifically, we construct classifier guidance based on the strong correspondence of intermediate features in the diffusion model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dragondiffusion-enabling-drag-style</guid>
+      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
+      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
+      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
     </item>
     <item>
       <title>A Survey of Large Language Models</title>
@@ -45,16 +33,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
     </item>
     <item>
-      <title>MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</link>
-      <description><![CDATA[Multimodal Large Language Model (MLLM) relies on the powerful LLM to perform multimodal tasks, showing amazing emergent abilities in recent studies, such as writing poems based on an image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</guid>
+      <title>LongNet: Scaling Transformers to 1,000,000,000 Tokens</title>
+      <link>https://paperswithcode.com/paper/longnet-scaling-transformers-to-1000000000</link>
+      <description><![CDATA[Scaling sequence length has become a critical demand in the era of large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longnet-scaling-transformers-to-1000000000</guid>
+    </item>
+    <item>
+      <title>DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/dragondiffusion-enabling-drag-style</link>
+      <description><![CDATA[Specifically, we construct classifier guidance based on the strong correspondence of intermediate features in the diffusion model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dragondiffusion-enabling-drag-style</guid>
     </item>
     <item>
       <title>Segment Anything Meets Point Tracking</title>
       <link>https://paperswithcode.com/paper/segment-anything-meets-point-tracking</link>
       <description><![CDATA[SAM-PT leverages robust and sparse point selection and propagation techniques for mask generation, demonstrating that a SAM-based segmentation tracker can yield strong zero-shot performance across popular video object segmentation benchmarks, including DAVIS, YouTube-VOS, and MOSE.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-meets-point-tracking</guid>
+    </item>
+    <item>
+      <title>h2oGPT: Democratizing Large Language Models</title>
+      <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
+      <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
+    </item>
+    <item>
+      <title>MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</link>
+      <description><![CDATA[Multimodal Large Language Model (MLLM) relies on the powerful LLM to perform multimodal tasks, showing amazing emergent abilities in recent studies, such as writing poems based on an image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</guid>
     </item>
     <item>
       <title>StyleDrop: Text-to-Image Generation in Any Style</title>
@@ -69,10 +75,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/disco-disentangled-control-for-referring</guid>
     </item>
     <item>
-      <title>h2oGPT: Democratizing Large Language Models</title>
-      <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
-      <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
+      <title>Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow</title>
+      <link>https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</link>
+      <description><![CDATA[Various industries such as finance, meteorology, and energy generate vast amounts of heterogeneous data every day.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</guid>
+    </item>
+    <item>
+      <title>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</link>
+      <description><![CDATA[We present SDXL, a latent diffusion model for text-to-image synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
@@ -81,10 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</link>
-      <description><![CDATA[We present SDXL, a latent diffusion model for text-to-image synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</guid>
+      <title>DreamDiffusion: Generating High-Quality Images from Brain EEG Signals</title>
+      <link>https://paperswithcode.com/paper/dreamdiffusion-generating-high-quality-images</link>
+      <description><![CDATA[This paper introduces DreamDiffusion, a novel method for generating high-quality images directly from brain electroencephalogram (EEG) signals, without the need to translate thoughts into text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamdiffusion-generating-high-quality-images</guid>
     </item>
     <item>
       <title>Flacuna: Unleashing the Problem Solving Power of Vicuna using FLAN Fine-Tuning</title>
@@ -99,16 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/motion-x-a-large-scale-3d-expressive-whole</guid>
     </item>
     <item>
-      <title>DreamDiffusion: Generating High-Quality Images from Brain EEG Signals</title>
-      <link>https://paperswithcode.com/paper/dreamdiffusion-generating-high-quality-images</link>
-      <description><![CDATA[This paper introduces DreamDiffusion, a novel method for generating high-quality images directly from brain electroencephalogram (EEG) signals, without the need to translate thoughts into text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamdiffusion-generating-high-quality-images</guid>
-    </item>
-    <item>
-      <title>Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow</title>
-      <link>https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</link>
-      <description><![CDATA[Various industries such as finance, meteorology, and energy generate vast amounts of heterogeneous data every day.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-copilot-bridging-billions-of-data-and</guid>
+      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
+      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
+      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
     </item>
     <item>
       <title>mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mplug-docowl-modularized-multimodal-large</guid>
     </item>
     <item>
-      <title>WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences</title>
-      <link>https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</link>
-      <description><![CDATA[We present WebGLM, a web-enhanced question-answering system based on the General Language Model (GLM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/webglm-towards-an-efficient-web-enhanced</guid>
-    </item>
-    <item>
-      <title>Fast Segment Anything</title>
-      <link>https://paperswithcode.com/paper/fast-segment-anything</link>
-      <description><![CDATA[In this paper, we propose a speed-up alternative method for this fundamental task with comparable performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-segment-anything</guid>
+      <title>A Length-Extrapolatable Transformer</title>
+      <link>https://paperswithcode.com/paper/a-length-extrapolatable-transformer</link>
+      <description><![CDATA[Position modeling plays a critical role in Transformers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-length-extrapolatable-transformer</guid>
     </item>
   </channel>
 </rss>
