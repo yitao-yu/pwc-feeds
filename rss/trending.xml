@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jul 2023 09:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 21:07:20 +0000</lastBuildDate>
     <item>
       <title>A Survey of Large Language Models</title>
       <link>https://paperswithcode.com/paper/a-survey-of-large-language-models</link>
       <description><![CDATA[To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
+    </item>
+    <item>
+      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
+      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
+      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
+    </item>
+    <item>
+      <title>Semantic-SAM: Segment and Recognize Anything at Any Granularity</title>
+      <link>https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</link>
+      <description><![CDATA[In this paper, we introduce Semantic-SAM, a universal image segmentation model to enable segment and recognize anything at any desired granularity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</guid>
     </item>
     <item>
       <title>DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</title>
@@ -21,22 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dragdiffusion-harnessing-diffusion-models-for</guid>
     </item>
     <item>
-      <title>A Survey on Evaluation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language</link>
-      <description><![CDATA[Large language models (LLMs) are gaining increasing popularity in both academia and industry, owing to their unprecedented performance in various applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language</guid>
-    </item>
-    <item>
       <title>h2oGPT: Democratizing Large Language Models</title>
       <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
       <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
     </item>
     <item>
-      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
-      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
-      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
+      <title>A Survey on Evaluation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language</link>
+      <description><![CDATA[Large language models (LLMs) are gaining increasing popularity in both academia and industry, owing to their unprecedented performance in various applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-evaluation-of-large-language</guid>
+    </item>
+    <item>
+      <title>FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing</title>
+      <link>https://paperswithcode.com/paper/freedrag-point-tracking-is-not-you-need-for</link>
+      <description><![CDATA[To serve the intricate and varied demands of image editing, precise and flexible manipulation of image content is indispensable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freedrag-point-tracking-is-not-you-need-for</guid>
     </item>
     <item>
       <title>ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases</title>
@@ -51,16 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-meets-point-tracking</guid>
     </item>
     <item>
+      <title>A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection</title>
+      <link>https://paperswithcode.com/paper/a-survey-on-graph-neural-networks-for-time</link>
+      <description><![CDATA[In this survey, we provide a comprehensive review of graph neural networks for time series analysis (GNN4TS), encompassing four fundamental dimensions: Forecasting, classification, anomaly detection, and imputation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-graph-neural-networks-for-time</guid>
+    </item>
+    <item>
       <title>DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models</title>
       <link>https://paperswithcode.com/paper/dragondiffusion-enabling-drag-style</link>
       <description><![CDATA[Specifically, we construct classifier guidance based on the strong correspondence of intermediate features in the diffusion model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dragondiffusion-enabling-drag-style</guid>
-    </item>
-    <item>
-      <title>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</link>
-      <description><![CDATA[We present SDXL, a latent diffusion model for text-to-image synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</guid>
     </item>
     <item>
       <title>MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models</title>
@@ -69,10 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mme-a-comprehensive-evaluation-benchmark-for</guid>
     </item>
     <item>
-      <title>Flacuna: Unleashing the Problem Solving Power of Vicuna using FLAN Fine-Tuning</title>
-      <link>https://paperswithcode.com/paper/flacuna-unleashing-the-problem-solving-power</link>
-      <description><![CDATA[Interestingly, despite being introduced four years ago, T5-based LLMs, such as FLAN-T5, continue to outperform the latest decoder-based LLMs, such as LLAMA and VICUNA, on tasks that require general problem-solving skills.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flacuna-unleashing-the-problem-solving-power</guid>
+      <title>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</link>
+      <description><![CDATA[We present SDXL, a latent diffusion model for text-to-image synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sdxl-improving-latent-diffusion-models-for</guid>
+    </item>
+    <item>
+      <title>RLTF: Reinforcement Learning from Unit Test Feedback</title>
+      <link>https://paperswithcode.com/paper/rltf-reinforcement-learning-from-unit-test</link>
+      <description><![CDATA[To address these issues, we proposed RLTF, i. e., Reinforcement Learning from Unit Test Feedback, a novel online RL framework with unit test feedback of multi-granularity for refining code LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rltf-reinforcement-learning-from-unit-test</guid>
+    </item>
+    <item>
+      <title>GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest</title>
+      <link>https://paperswithcode.com/paper/gpt4roi-instruction-tuning-large-language</link>
+      <description><![CDATA[The interleaved sequences of visual features extracted by the spatial instruction and the language embedding are input to LLM, and trained on the transformed region-text data in instruction tuning format.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt4roi-instruction-tuning-large-language</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
@@ -81,16 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>StyleDrop: Text-to-Image Generation in Any Style</title>
-      <link>https://paperswithcode.com/paper/styledrop-text-to-image-generation-in-any</link>
-      <description><![CDATA[Pre-trained large text-to-image models synthesize impressive images with an appropriate use of text prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/styledrop-text-to-image-generation-in-any</guid>
-    </item>
-    <item>
-      <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
-      <link>https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</link>
-      <description><![CDATA[Moreover, our model even outperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on HumanEval and HumanEval+.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
+      <title>Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic</title>
+      <link>https://paperswithcode.com/paper/shikra-unleashing-multimodal-llm-s</link>
+      <description><![CDATA[Referential dialogue is a superset of various vision-language (VL) tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shikra-unleashing-multimodal-llm-s</guid>
     </item>
     <item>
       <title>mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding</title>
@@ -99,34 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mplug-docowl-modularized-multimodal-large</guid>
     </item>
     <item>
-      <title>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</link>
-      <description><![CDATA[Language models are increasingly being deployed for general problem solving across a wide range of tasks, but are still confined to token-level, left-to-right decision-making processes during inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-of-thoughts-deliberate-problem-solving</guid>
-    </item>
-    <item>
-      <title>CodeGen2: Lessons for Training LLMs on Programming and Natural Languages</title>
-      <link>https://paperswithcode.com/paper/codegen2-lessons-for-training-llms-on</link>
-      <description><![CDATA[In this study, we attempt to render the training of LLMs for program synthesis more efficient by unifying four key components: (1) model architectures, (2) learning methods, (3) infill sampling, and, (4) data distributions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codegen2-lessons-for-training-llms-on</guid>
-    </item>
-    <item>
-      <title>DisCo: Disentangled Control for Referring Human Dance Generation in Real World</title>
-      <link>https://paperswithcode.com/paper/disco-disentangled-control-for-referring</link>
-      <description><![CDATA[Generative AI has made significant strides in computer vision, particularly in image/video synthesis conditioned on text descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disco-disentangled-control-for-referring</guid>
+      <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
+      <link>https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</link>
+      <description><![CDATA[Moreover, our model even outperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on HumanEval and HumanEval+.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
     </item>
     <item>
       <title>LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model</title>
       <link>https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</link>
       <description><![CDATA[This strategy effectively alleviates the interference between the two tasks of image-text alignment and instruction following and achieves strong multi-modal reasoning with only a small-scale image-text and instruction dataset.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-adapter-v2-parameter-efficient-visual</guid>
-    </item>
-    <item>
-      <title>DeepfakeBench: A Comprehensive Benchmark of Deepfake Detection</title>
-      <link>https://paperswithcode.com/paper/deepfakebench-a-comprehensive-benchmark-of</link>
-      <description><![CDATA[To fill this gap, we present the first comprehensive benchmark for deepfake detection, called DeepfakeBench, which offers three key contributions: 1) a unified data management system to ensure consistent input across all detectors, 2) an integrated framework for state-of-the-art methods implementation, and 3) standardized evaluation metrics and protocols to promote transparency and reproducibility.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepfakebench-a-comprehensive-benchmark-of</guid>
     </item>
   </channel>
 </rss>
