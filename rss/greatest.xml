@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jul 2023 21:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2023 09:12:07 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
       <description><![CDATA[An Open Source Machine Learning Framework for Everyone]]></description>
       <guid isPermaLink="true">https://github.com/tensorflow/tensorflow</guid>
-    </item>
-    <item>
-      <title>transformers</title>
-      <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[ Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.]]></description>
-      <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
     </item>
     <item>
       <title>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</title>
@@ -31,6 +25,12 @@
       <link>https://paperswithcode.com/paper/parsing-as-pretraining</link>
       <description><![CDATA[We first cast constituent and dependency parsing as sequence tagging.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/parsing-as-pretraining</guid>
+    </item>
+    <item>
+      <title>transformers</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <description><![CDATA[ Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.]]></description>
+      <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
     </item>
     <item>
       <title>models</title>
@@ -93,16 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chain-of-thought-prompt-distillation-for</guid>
     </item>
     <item>
-      <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
-      <link>https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</link>
-      <description><![CDATA[In this work we introduce a new optimisation method called SAGA in the spirit of SAG, SDCA, MISO and SVRG, a set of recently proposed incremental gradient algorithms with fast linear convergence rates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</guid>
-    </item>
-    <item>
       <title>Scikit-learn: Machine Learning in Python</title>
       <link>https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</link>
       <description><![CDATA[Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</guid>
+    </item>
+    <item>
+      <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
+      <link>https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</link>
+      <description><![CDATA[In this work we introduce a new optimisation method called SAGA in the spirit of SAG, SDCA, MISO and SVRG, a set of recently proposed incremental gradient algorithms with fast linear convergence rates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</guid>
     </item>
     <item>
       <title>Politeness Transfer: A Tag and Generate Approach</title>
@@ -147,18 +147,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/path-aggregation-network-for-instance</guid>
     </item>
     <item>
-      <title>On the Contribution of Per-ICD Attention Mechanisms to Classify Health Records in Languages with Fewer Resources than English</title>
-      <link>https://paperswithcode.com/paper/on-the-contribution-of-per-icd-attention</link>
-      <description><![CDATA[We introduce a multi-label text classifier with per-label attention for the classification of Electronic Health Records according to the International Classification of Diseases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-contribution-of-per-icd-attention</guid>
-    </item>
-    <item>
-      <title>Well-Read Students Learn Better: On the Importance of Pre-training Compact Models</title>
-      <link>https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of</link>
-      <description><![CDATA[Recent developments in natural language representations have been accompanied by large and expensive models that leverage vast amounts of general-domain text through self-supervised pre-training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of</guid>
-    </item>
-    <item>
       <title>Training language models to follow instructions with human feedback</title>
       <link>https://paperswithcode.com/paper/training-language-models-to-follow</link>
       <description><![CDATA[In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.]]></description>
@@ -169,6 +157,18 @@
       <link>https://paperswithcode.com/paper/language-models-are-few-shot-learners</link>
       <description><![CDATA[By contrast, humans can generally perform a new language task from only a few examples or from simple instructions - something which current NLP systems still largely struggle to do.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-few-shot-learners</guid>
+    </item>
+    <item>
+      <title>On the Contribution of Per-ICD Attention Mechanisms to Classify Health Records in Languages with Fewer Resources than English</title>
+      <link>https://paperswithcode.com/paper/on-the-contribution-of-per-icd-attention</link>
+      <description><![CDATA[We introduce a multi-label text classifier with per-label attention for the classification of Electronic Health Records according to the International Classification of Diseases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-contribution-of-per-icd-attention</guid>
+    </item>
+    <item>
+      <title>Well-Read Students Learn Better: On the Importance of Pre-training Compact Models</title>
+      <link>https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of</link>
+      <description><![CDATA[Recent developments in natural language representations have been accompanied by large and expensive models that leverage vast amounts of general-domain text through self-supervised pre-training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of</guid>
     </item>
     <item>
       <title>OpenAssistant Conversations -- Democratizing Large Language Model Alignment</title>
