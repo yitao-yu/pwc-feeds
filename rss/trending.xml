@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Jul 2023 09:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 21:05:38 +0000</lastBuildDate>
     <item>
       <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
       <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
       <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
+    </item>
+    <item>
+      <title>Meta-Transformer: A Unified Framework for Multimodal Learning</title>
+      <link>https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</link>
+      <description><![CDATA[Multimodal learning aims to build models that can process and relate information from multiple modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</guid>
     </item>
     <item>
       <title>FABRIC: Personalizing Diffusion Models with Iterative Feedback</title>
@@ -27,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/how-is-chatgpt-s-behavior-changing-over-time</guid>
     </item>
     <item>
-      <title>Meta-Transformer: A Unified Framework for Multimodal Learning</title>
-      <link>https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</link>
-      <description><![CDATA[Multimodal learning aims to build models that can process and relate information from multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</guid>
+      <title>CoTracker: It is Better to Track Together</title>
+      <link>https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</link>
+      <description><![CDATA[In this paper, we thus propose CoTracker, an architecture that jointly tracks multiple points throughout an entire video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</guid>
     </item>
     <item>
       <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
@@ -39,28 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
     </item>
     <item>
-      <title>Semantic-SAM: Segment and Recognize Anything at Any Granularity</title>
-      <link>https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</link>
-      <description><![CDATA[In this paper, we introduce Semantic-SAM, a universal image segmentation model to enable segment and recognize anything at any desired granularity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</guid>
-    </item>
-    <item>
       <title>Petals: Collaborative Inference and Fine-tuning of Large Models</title>
       <link>https://paperswithcode.com/paper/petals-collaborative-inference-and-fine</link>
       <description><![CDATA[However, these techniques have innate limitations: offloading is too slow for interactive inference, while APIs are not flexible enough for research that requires access to weights, attention or logits.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/petals-collaborative-inference-and-fine</guid>
     </item>
     <item>
-      <title>CoTracker: It is Better to Track Together</title>
-      <link>https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</link>
-      <description><![CDATA[In this paper, we thus propose CoTracker, an architecture that jointly tracks multiple points throughout an entire video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</guid>
+      <title>Semantic-SAM: Segment and Recognize Anything at Any Granularity</title>
+      <link>https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</link>
+      <description><![CDATA[In this paper, we introduce Semantic-SAM, a universal image segmentation model to enable segment and recognize anything at any desired granularity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</guid>
     </item>
     <item>
-      <title>FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning</title>
-      <link>https://paperswithcode.com/paper/flashattention-2-faster-attention-with-better</link>
-      <description><![CDATA[We observe that the inefficiency is due to suboptimal work partitioning between different thread blocks and warps on the GPU, causing either low-occupancy or unnecessary shared memory reads/writes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-2-faster-attention-with-better</guid>
+      <title>DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI</title>
+      <link>https://paperswithcode.com/paper/dialogstudio-towards-richest-and-most-diverse</link>
+      <description><![CDATA[Despite advancements in conversational AI, language models encounter challenges to handle diverse conversational tasks, and existing dialogue dataset collections often lack diversity and comprehensiveness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dialogstudio-towards-richest-and-most-diverse</guid>
+    </item>
+    <item>
+      <title>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</title>
+      <link>https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</link>
+      <description><![CDATA[We also extend FlashAttention to block-sparse attention, yielding an approximate attention algorithm that is faster than any existing approximate attention method.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-fast-and-memory-efficient</guid>
     </item>
     <item>
       <title>FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets</title>
@@ -69,16 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/flask-fine-grained-language-model-evaluation</guid>
     </item>
     <item>
-      <title>Exploiting Diffusion Prior for Real-World Image Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/exploiting-diffusion-prior-for-real-world</link>
-      <description><![CDATA[We present a novel approach to leverage prior knowledge encapsulated in pre-trained text-to-image diffusion models for blind super-resolution (SR).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploiting-diffusion-prior-for-real-world</guid>
-    </item>
-    <item>
-      <title>Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image</title>
-      <link>https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</link>
-      <description><![CDATA[State-of-the-art (SOTA) monocular metric depth estimation methods can only handle a single camera model and are unable to perform mixed-data training due to the metric ambiguity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</guid>
+      <title>FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning</title>
+      <link>https://paperswithcode.com/paper/flashattention-2-faster-attention-with-better</link>
+      <description><![CDATA[We observe that the inefficiency is due to suboptimal work partitioning between different thread blocks and warps on the GPU, causing either low-occupancy or unnecessary shared memory reads/writes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-2-faster-attention-with-better</guid>
     </item>
     <item>
       <title>CNOS: A Strong Baseline for CAD-based Novel Object Segmentation</title>
@@ -87,16 +87,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cnos-a-strong-baseline-for-cad-based-novel</guid>
     </item>
     <item>
-      <title>Planting a SEED of Vision in Large Language Model</title>
-      <link>https://paperswithcode.com/paper/planting-a-seed-of-vision-in-large-language</link>
-      <description><![CDATA[Research on image tokenizers has previously reached an impasse, as frameworks employing quantized visual tokens have lost prominence due to subpar performance and convergence in multimodal comprehension (compared to BLIP-2, etc.)]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/planting-a-seed-of-vision-in-large-language</guid>
-    </item>
-    <item>
       <title>Neural Video Depth Stabilizer</title>
       <link>https://paperswithcode.com/paper/neural-video-depth-stabilizer</link>
       <description><![CDATA[Video depth estimation aims to infer temporally consistent depth.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-video-depth-stabilizer</guid>
+    </item>
+    <item>
+      <title>Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image</title>
+      <link>https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</link>
+      <description><![CDATA[State-of-the-art (SOTA) monocular metric depth estimation methods can only handle a single camera model and are unable to perform mixed-data training due to the metric ambiguity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</guid>
+    </item>
+    <item>
+      <title>Fine-Tuning Language Models from Human Preferences</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
+      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
+    </item>
+    <item>
+      <title>Exploiting Diffusion Prior for Real-World Image Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/exploiting-diffusion-prior-for-real-world</link>
+      <description><![CDATA[We present a novel approach to leverage prior knowledge encapsulated in pre-trained text-to-image diffusion models for blind super-resolution (SR).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploiting-diffusion-prior-for-real-world</guid>
     </item>
     <item>
       <title>h2oGPT: Democratizing Large Language Models</title>
@@ -111,22 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/l-eval-instituting-standardized-evaluation</guid>
     </item>
     <item>
-      <title>Copy Is All You Need</title>
-      <link>https://paperswithcode.com/paper/copy-is-all-you-need</link>
-      <description><![CDATA[The dominant text generation models compose the output by sequentially selecting words from a fixed vocabulary.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/copy-is-all-you-need</guid>
-    </item>
-    <item>
-      <title>Efficient Approximations of Complete Interatomic Potentials for Crystal Property Prediction</title>
-      <link>https://paperswithcode.com/paper/efficient-approximations-of-complete</link>
-      <description><![CDATA[This is enabled by our approximations of infinite potential summations with provable error bounds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-approximations-of-complete</guid>
-    </item>
-    <item>
-      <title>Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems</title>
-      <link>https://paperswithcode.com/paper/artificial-intelligence-for-science-in</link>
-      <description><![CDATA[Advances in artificial intelligence (AI) are fueling a new paradigm of discoveries in natural sciences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/artificial-intelligence-for-science-in</guid>
+      <title>RepViT: Revisiting Mobile CNN From ViT Perspective</title>
+      <link>https://paperswithcode.com/paper/repvit-revisiting-mobile-cnn-from-vit</link>
+      <description><![CDATA[On ImageNet, RepViT achieves over 80\% top-1 accuracy with nearly 1ms latency on an iPhone 12, which is the first time for a lightweight model, to the best of our knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repvit-revisiting-mobile-cnn-from-vit</guid>
     </item>
   </channel>
 </rss>
