@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 09:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 21:06:12 +0000</lastBuildDate>
     <item>
       <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
       <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
       <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
+    </item>
+    <item>
+      <title>Meta-Transformer: A Unified Framework for Multimodal Learning</title>
+      <link>https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</link>
+      <description><![CDATA[Multimodal learning aims to build models that can process and relate information from multiple modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</guid>
     </item>
     <item>
       <title>FABRIC: Personalizing Diffusion Models with Iterative Feedback</title>
@@ -27,12 +33,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/how-is-chatgpt-s-behavior-changing-over-time</guid>
     </item>
     <item>
-      <title>Meta-Transformer: A Unified Framework for Multimodal Learning</title>
-      <link>https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</link>
-      <description><![CDATA[Multimodal learning aims to build models that can process and relate information from multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-transformer-a-unified-framework-for</guid>
-    </item>
-    <item>
       <title>CoTracker: It is Better to Track Together</title>
       <link>https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</link>
       <description><![CDATA[In this paper, we thus propose CoTracker, an architecture that jointly tracks multiple points throughout an entire video.]]></description>
@@ -45,40 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
     </item>
     <item>
-      <title>Petals: Collaborative Inference and Fine-tuning of Large Models</title>
-      <link>https://paperswithcode.com/paper/petals-collaborative-inference-and-fine</link>
-      <description><![CDATA[However, these techniques have innate limitations: offloading is too slow for interactive inference, while APIs are not flexible enough for research that requires access to weights, attention or logits.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/petals-collaborative-inference-and-fine</guid>
-    </item>
-    <item>
-      <title>FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets</title>
-      <link>https://paperswithcode.com/paper/flask-fine-grained-language-model-evaluation</link>
-      <description><![CDATA[In this paper, we introduce FLASK (Fine-grained Language Model Evaluation based on Alignment SKill Sets), a fine-grained evaluation protocol that can be used for both model-based and human-based evaluation which decomposes coarse-level scoring to an instance-wise skill set-level.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flask-fine-grained-language-model-evaluation</guid>
-    </item>
-    <item>
-      <title>CNOS: A Strong Baseline for CAD-based Novel Object Segmentation</title>
-      <link>https://paperswithcode.com/paper/cnos-a-strong-baseline-for-cad-based-novel</link>
-      <description><![CDATA[We propose a simple three-stage approach to segment unseen objects in RGB images using their CAD models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cnos-a-strong-baseline-for-cad-based-novel</guid>
-    </item>
-    <item>
-      <title>Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image</title>
-      <link>https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</link>
-      <description><![CDATA[State-of-the-art (SOTA) monocular metric depth estimation methods can only handle a single camera model and are unable to perform mixed-data training due to the metric ambiguity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</guid>
-    </item>
-    <item>
       <title>DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI</title>
       <link>https://paperswithcode.com/paper/dialogstudio-towards-richest-and-most-diverse</link>
       <description><![CDATA[Despite advancements in conversational AI, language models encounter challenges to handle diverse conversational tasks, and existing dialogue dataset collections often lack diversity and comprehensiveness.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dialogstudio-towards-richest-and-most-diverse</guid>
     </item>
     <item>
-      <title>DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion</title>
-      <link>https://paperswithcode.com/paper/ds-fusion-artistic-typography-via</link>
-      <description><![CDATA[We introduce a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ds-fusion-artistic-typography-via</guid>
+      <title>Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning</title>
+      <link>https://paperswithcode.com/paper/subject-diffusion-open-domain-personalized</link>
+      <description><![CDATA[In this paper, we propose Subject-Diffusion, a novel open-domain personalized image generation model that, in addition to not requiring test-time fine-tuning, also only requires a single reference image to support personalized generation of single- or multi-subject in any domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/subject-diffusion-open-domain-personalized</guid>
+    </item>
+    <item>
+      <title>Petals: Collaborative Inference and Fine-tuning of Large Models</title>
+      <link>https://paperswithcode.com/paper/petals-collaborative-inference-and-fine</link>
+      <description><![CDATA[However, these techniques have innate limitations: offloading is too slow for interactive inference, while APIs are not flexible enough for research that requires access to weights, attention or logits.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/petals-collaborative-inference-and-fine</guid>
     </item>
     <item>
       <title>Neural Video Depth Stabilizer</title>
@@ -87,16 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-video-depth-stabilizer</guid>
     </item>
     <item>
-      <title>Semantic-SAM: Segment and Recognize Anything at Any Granularity</title>
-      <link>https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</link>
-      <description><![CDATA[In this paper, we introduce Semantic-SAM, a universal image segmentation model to enable segment and recognize anything at any desired granularity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</guid>
-    </item>
-    <item>
-      <title>h2oGPT: Democratizing Large Language Models</title>
-      <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
-      <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
+      <title>Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors</title>
+      <link>https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object</link>
+      <description><![CDATA[We present Magic123, a two-stage coarse-to-fine approach for high-quality, textured 3D meshes generation from a single unposed image in the wild using both2D and 3D priors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object</guid>
     </item>
     <item>
       <title>A Comprehensive Study and Comparison of the Robustness of 3D Object Detectors Against Adversarial Attacks</title>
@@ -105,28 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-comprehensive-study-and-comparison-of-the</guid>
     </item>
     <item>
+      <title>Semantic-SAM: Segment and Recognize Anything at Any Granularity</title>
+      <link>https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</link>
+      <description><![CDATA[In this paper, we introduce Semantic-SAM, a universal image segmentation model to enable segment and recognize anything at any desired granularity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/semantic-sam-segment-and-recognize-anything</guid>
+    </item>
+    <item>
+      <title>Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image</title>
+      <link>https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</link>
+      <description><![CDATA[State-of-the-art (SOTA) monocular metric depth estimation methods can only handle a single camera model and are unable to perform mixed-data training due to the metric ambiguity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/metric3d-towards-zero-shot-metric-3d</guid>
+    </item>
+    <item>
       <title>FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning</title>
       <link>https://paperswithcode.com/paper/flashattention-2-faster-attention-with-better</link>
       <description><![CDATA[We observe that the inefficiency is due to suboptimal work partitioning between different thread blocks and warps on the GPU, causing either low-occupancy or unnecessary shared memory reads/writes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/flashattention-2-faster-attention-with-better</guid>
     </item>
     <item>
-      <title>Fine-Tuning Language Models from Human Preferences</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
-      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
+      <title>GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation</title>
+      <link>https://paperswithcode.com/paper/glenet-boosting-3d-object-detectors-with</link>
+      <description><![CDATA[The label uncertainty generated by GLENet is a plug-and-play module and can be conveniently integrated into existing deep 3D detectors to build probabilistic detectors and supervise the learning of the localization uncertainty.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glenet-boosting-3d-object-detectors-with</guid>
     </item>
     <item>
-      <title>EGE-UNet: an Efficient Group Enhanced UNet for skin lesion segmentation</title>
-      <link>https://paperswithcode.com/paper/ege-unet-an-efficient-group-enhanced-unet-for</link>
-      <description><![CDATA[Moreover, to our best knowledge, this is the first model with a parameter count limited to just 50KB.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ege-unet-an-efficient-group-enhanced-unet-for</guid>
+      <title>FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets</title>
+      <link>https://paperswithcode.com/paper/flask-fine-grained-language-model-evaluation</link>
+      <description><![CDATA[In this paper, we introduce FLASK (Fine-grained Language Model Evaluation based on Alignment SKill Sets), a fine-grained evaluation protocol that can be used for both model-based and human-based evaluation which decomposes coarse-level scoring to an instance-wise skill set-level.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flask-fine-grained-language-model-evaluation</guid>
+    </item>
+    <item>
+      <title>h2oGPT: Democratizing Large Language Models</title>
+      <link>https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</link>
+      <description><![CDATA[Applications built on top of Large Language Models (LLMs) such as GPT-4 represent a revolution in AI due to their human-level capabilities in natural language processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/h2ogpt-democratizing-large-language-models</guid>
     </item>
     <item>
       <title>RepViT: Revisiting Mobile CNN From ViT Perspective</title>
       <link>https://paperswithcode.com/paper/repvit-revisiting-mobile-cnn-from-vit</link>
       <description><![CDATA[On ImageNet, RepViT achieves over 80\% top-1 accuracy with nearly 1ms latency on an iPhone 12, which is the first time for a lightweight model, to the best of our knowledge.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/repvit-revisiting-mobile-cnn-from-vit</guid>
+    </item>
+    <item>
+      <title>CNOS: A Strong Baseline for CAD-based Novel Object Segmentation</title>
+      <link>https://paperswithcode.com/paper/cnos-a-strong-baseline-for-cad-based-novel</link>
+      <description><![CDATA[We propose a simple three-stage approach to segment unseen objects in RGB images using their CAD models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cnos-a-strong-baseline-for-cad-based-novel</guid>
     </item>
   </channel>
 </rss>
