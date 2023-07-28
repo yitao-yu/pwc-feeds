@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jul 2023 21:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 09:11:30 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
@@ -45,6 +45,12 @@
       <guid isPermaLink="true">https://github.com/pytorch/pytorch</guid>
     </item>
     <item>
+      <title>MaskNet: Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask</title>
+      <link>https://paperswithcode.com/paper/masknet-introducing-feature-wise</link>
+      <description><![CDATA[We also turn the feed-forward layer in DNN model into a mixture of addictive and multiplicative feature interactions by proposing MaskBlock in this paper.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masknet-introducing-feature-wise</guid>
+    </item>
+    <item>
       <title>A ConvNet for the 2020s</title>
       <link>https://paperswithcode.com/paper/a-convnet-for-the-2020s</link>
       <description><![CDATA[The "Roaring 20s" of visual recognition began with the introduction of Vision Transformers (ViTs), which quickly superseded ConvNets as the state-of-the-art image classification model.]]></description>
@@ -55,12 +61,6 @@
       <link>https://paperswithcode.com/paper/regnet-self-regulated-network-for-image</link>
       <description><![CDATA[The ResNet and its variants have achieved remarkable successes in various computer vision tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/regnet-self-regulated-network-for-image</guid>
-    </item>
-    <item>
-      <title>MaskNet: Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask</title>
-      <link>https://paperswithcode.com/paper/masknet-introducing-feature-wise</link>
-      <description><![CDATA[We also turn the feed-forward layer in DNN model into a mixture of addictive and multiplicative feature interactions by proposing MaskBlock in this paper.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masknet-introducing-feature-wise</guid>
     </item>
     <item>
       <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
@@ -165,6 +165,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-few-shot-learners</guid>
     </item>
     <item>
+      <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
+      <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
+      <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
+    </item>
+    <item>
       <title>On the Contribution of Per-ICD Attention Mechanisms to Classify Health Records in Languages with Fewer Resources than English</title>
       <link>https://paperswithcode.com/paper/on-the-contribution-of-per-icd-attention</link>
       <description><![CDATA[We introduce a multi-label text classifier with per-label attention for the classification of Electronic Health Records according to the International Classification of Diseases.]]></description>
@@ -175,12 +181,6 @@
       <link>https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of</link>
       <description><![CDATA[Recent developments in natural language representations have been accompanied by large and expensive models that leverage vast amounts of general-domain text through self-supervised pre-training.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of</guid>
-    </item>
-    <item>
-      <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
-      <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
-      <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
     </item>
   </channel>
 </rss>
