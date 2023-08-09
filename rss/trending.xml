@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Aug 2023 21:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 09:12:35 +0000</lastBuildDate>
     <item>
-      <title>Simple and Controllable Music Generation</title>
-      <link>https://paperswithcode.com/paper/simple-and-controllable-music-generation</link>
-      <description><![CDATA[We tackle the task of conditional music generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simple-and-controllable-music-generation</guid>
+      <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
+      <link>https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</link>
+      <description><![CDATA[Recently, remarkable progress has been made in automated task-solving through the use of multi-agent driven by large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
+    </item>
+    <item>
+      <title>AgentBench: Evaluating LLMs as Agents</title>
+      <link>https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</link>
+      <description><![CDATA[Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</guid>
     </item>
     <item>
       <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
@@ -21,10 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
     </item>
     <item>
-      <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
-      <link>https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</link>
-      <description><![CDATA[Recently, remarkable progress has been made in automated task-solving through the use of multi-agents driven by large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
+      <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
+      <link>https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</link>
+      <description><![CDATA[Different from the previous self-knowledge distillation, this stage finetunes the student's head with only 20% training time as a plug-and-play training strategy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
     </item>
     <item>
       <title>Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors</title>
@@ -33,22 +39,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/magic123-one-image-to-high-quality-3d-object</guid>
     </item>
     <item>
-      <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
-      <link>https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</link>
-      <description><![CDATA[Different from the previous self-knowledge distillation, this stage finetunes the student's head with only 20% training time as a plug-and-play training strategy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
-    </item>
-    <item>
       <title>LISA: Reasoning Segmentation via Large Language Model</title>
       <link>https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</link>
       <description><![CDATA[In this work, we propose a new segmentation task -- reasoning segmentation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</guid>
     </item>
     <item>
-      <title>The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World</title>
-      <link>https://paperswithcode.com/paper/the-all-seeing-project-towards-panoptic</link>
-      <description><![CDATA[We present the All-Seeing (AS) project: a large-scale data and model for recognizing and understanding everything in the open world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-all-seeing-project-towards-panoptic</guid>
+      <title>Simple and Controllable Music Generation</title>
+      <link>https://paperswithcode.com/paper/simple-and-controllable-music-generation</link>
+      <description><![CDATA[We tackle the task of conditional music generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/simple-and-controllable-music-generation</guid>
+    </item>
+    <item>
+      <title>Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP</title>
+      <link>https://paperswithcode.com/paper/convolutions-die-hard-open-vocabulary</link>
+      <description><![CDATA[The proposed FC-CLIP, benefits from the following observations: the frozen CLIP backbone maintains the ability of open-vocabulary classification and can also serve as a strong mask generator, and the convolutional CLIP generalizes well to a larger input resolution than the one used during contrastive image-text pretraining.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/convolutions-die-hard-open-vocabulary</guid>
+    </item>
+    <item>
+      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
+      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
+      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
+    </item>
+    <item>
+      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
+      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
+      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
     </item>
     <item>
       <title>On Architectural Compression of Text-to-Image Diffusion Models</title>
@@ -63,34 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dc-comix-tts-an-end-to-end-expressive-tts</guid>
     </item>
     <item>
-      <title>A Survey of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-of-large-language-models</link>
-      <description><![CDATA[To discriminate the difference in parameter scale, the research community has coined the term large language models (LLM) for the PLMs of significant size.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models</guid>
-    </item>
-    <item>
-      <title>Gorilla: Large Language Model Connected with Massive APIs</title>
-      <link>https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have seen an impressive wave of advances recently, with models now excelling in a variety of tasks, such as mathematical reasoning and program synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gorilla-large-language-model-connected-with</guid>
-    </item>
-    <item>
-      <title>AnyLoc: Towards Universal Visual Place Recognition</title>
-      <link>https://paperswithcode.com/paper/anyloc-towards-universal-visual-place</link>
-      <description><![CDATA[In this work, we develop a universal solution to VPR -- a technique that works across a broad range of structured and unstructured environments (urban, outdoors, indoors, aerial, underwater, and subterranean environments) without any re-training or fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anyloc-towards-universal-visual-place</guid>
-    </item>
-    <item>
       <title>Universal and Transferable Adversarial Attacks on Aligned Language Models</title>
       <link>https://paperswithcode.com/paper/universal-and-transferable-adversarial</link>
       <description><![CDATA[Specifically, our approach finds a suffix that, when attached to a wide range of queries for an LLM to produce objectionable content, aims to maximize the probability that the model produces an affirmative response (rather than refusing to answer).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/universal-and-transferable-adversarial</guid>
-    </item>
-    <item>
-      <title>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</title>
-      <link>https://paperswithcode.com/paper/moviechat-from-dense-token-to-sparse-memory</link>
-      <description><![CDATA[Recently, integrating video foundation models and large language models to build a video understanding system overcoming the limitations of specific pre-defined vision tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moviechat-from-dense-token-to-sparse-memory</guid>
     </item>
     <item>
       <title>VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design</title>
@@ -99,34 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vits2-improving-quality-and-efficiency-of</guid>
     </item>
     <item>
-      <title>Scaling Relationship on Learning Mathematical Reasoning with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/scaling-relationship-on-learning-mathematical</link>
-      <description><![CDATA[We apply supervised fine-tuning (SFT) with different amounts of supervised data and empirically find a log-linear relation between data amount and model performance, and we find better models improve less with enlarged supervised datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-relationship-on-learning-mathematical</guid>
-    </item>
-    <item>
-      <title>Med-Flamingo: a Multimodal Medical Few-shot Learner</title>
-      <link>https://paperswithcode.com/paper/med-flamingo-a-multimodal-medical-few-shot</link>
-      <description><![CDATA[However, existing models typically have to be fine-tuned on sizeable down-stream datasets, which poses a significant limitation as in many medical applications data is scarce, necessitating models that are capable of learning from few examples in real-time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/med-flamingo-a-multimodal-medical-few-shot</guid>
-    </item>
-    <item>
-      <title>DETR Doesn't Need Multi-Scale or Locality Design</title>
-      <link>https://paperswithcode.com/paper/detr-doesn-t-need-multi-scale-or-locality</link>
-      <description><![CDATA[This paper presents an improved DETR detector that maintains a "plain" nature: using a single-scale feature map and global cross-attention calculations without specific locality constraints, in contrast to previous leading DETR-based detectors that reintroduce architectural inductive biases of multi-scale and locality into the decoder.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detr-doesn-t-need-multi-scale-or-locality</guid>
-    </item>
-    <item>
       <title>UniVTG: Towards Unified Video-Language Temporal Grounding</title>
       <link>https://paperswithcode.com/paper/univtg-towards-unified-video-language</link>
       <description><![CDATA[Most methods in this direction develop taskspecific models that are trained with type-specific labels, such as moment retrieval (time interval) and highlight detection (worthiness curve), which limits their abilities to generalize to various VTG tasks and labels.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/univtg-towards-unified-video-language</guid>
     </item>
     <item>
+      <title>The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World</title>
+      <link>https://paperswithcode.com/paper/the-all-seeing-project-towards-panoptic</link>
+      <description><![CDATA[We present the All-Seeing (AS) project: a large-scale data and model for recognizing and understanding everything in the open world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-all-seeing-project-towards-panoptic</guid>
+    </item>
+    <item>
       <title>QuIP: 2-Bit Quantization of Large Language Models With Guarantees</title>
       <link>https://paperswithcode.com/paper/quip-2-bit-quantization-of-large-language</link>
       <description><![CDATA[This work studies post-training parameter quantization in large language models (LLMs).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/quip-2-bit-quantization-of-large-language</guid>
+    </item>
+    <item>
+      <title>Generative Agents: Interactive Simulacra of Human Behavior</title>
+      <link>https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</link>
+      <description><![CDATA[Believable proxies of human behavior can empower interactive applications ranging from immersive environments to rehearsal spaces for interpersonal communication to prototyping tools.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</guid>
+    </item>
+    <item>
+      <title>Data-Free Learning of Reduced-Order Kinematics</title>
+      <link>https://paperswithcode.com/paper/data-free-learning-of-reduced-order</link>
+      <description><![CDATA[Physical systems ranging from elastic bodies to kinematic linkages are defined on high-dimensional configuration spaces, yet their typical low-energy configurations are concentrated on much lower-dimensional subspaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-free-learning-of-reduced-order</guid>
+    </item>
+    <item>
+      <title>Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising</title>
+      <link>https://paperswithcode.com/paper/lighting-every-darkness-in-two-pairs-a</link>
+      <description><![CDATA[Calibration-based methods have dominated RAW image denoising under extremely low-light environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lighting-every-darkness-in-two-pairs-a</guid>
     </item>
   </channel>
 </rss>
