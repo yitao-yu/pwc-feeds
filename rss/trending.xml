@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Aug 2023 21:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 09:11:06 +0000</lastBuildDate>
     <item>
-      <title>AgentBench: Evaluating LLMs as Agents</title>
-      <link>https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</link>
-      <description><![CDATA[Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</guid>
-    </item>
-    <item>
-      <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
-      <link>https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</link>
-      <description><![CDATA[Recently, remarkable progress has been made in automated task-solving through the use of multi-agent driven by large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
+      <title>Separate Anything You Describe</title>
+      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
+      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
     </item>
     <item>
       <title>Revisiting the Minimalist Approach to Offline Reinforcement Learning</title>
@@ -27,16 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-the-minimalist-approach-to-offline</guid>
     </item>
     <item>
-      <title>Separate Anything You Describe</title>
-      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
-      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
-    </item>
-    <item>
       <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
       <link>https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</link>
       <description><![CDATA[We first present ToolBench, an instruction-tuning dataset for tool use, which is created automatically using ChatGPT.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
+    </item>
+    <item>
+      <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
+      <link>https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</link>
+      <description><![CDATA[Recently, remarkable progress has been made in automated task-solving through the use of multi-agent driven by large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
+    </item>
+    <item>
+      <title>AgentBench: Evaluating LLMs as Agents</title>
+      <link>https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</link>
+      <description><![CDATA[Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</guid>
     </item>
     <item>
       <title>LISA: Reasoning Segmentation via Large Language Model</title>
@@ -45,16 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</guid>
     </item>
     <item>
-      <title>SynJax: Structured Probability Distributions for JAX</title>
-      <link>https://paperswithcode.com/paper/synjax-structured-probability-distributions</link>
-      <description><![CDATA[The models that explicitly account for structured objects, such as trees and segmentations, did not benefit equally because they require custom algorithms that are difficult to implement in a vectorized form.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/synjax-structured-probability-distributions</guid>
-    </item>
-    <item>
-      <title>PUG: Photorealistic and Semantically Controllable Synthetic Data for Representation Learning</title>
-      <link>https://paperswithcode.com/paper/pug-photorealistic-and-semantically</link>
-      <description><![CDATA[Synthetic image datasets offer unmatched advantages for designing and evaluating deep neural networks: they make it possible to (i) render as many data samples as needed, (ii) precisely control each scene and yield granular ground truth labels (and captions), (iii) precisely control distribution shifts between training and testing to isolate variables of interest for sound experimentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pug-photorealistic-and-semantically</guid>
+      <title>DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/datasetdm-synthesizing-data-with-perception</link>
+      <description><![CDATA[To showcase the power of the proposed approach, we generate datasets with rich dense pixel-wise labels for a wide range of downstream tasks, including semantic segmentation, instance segmentation, and depth estimation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/datasetdm-synthesizing-data-with-perception</guid>
     </item>
     <item>
       <title>Fine-Tuning Language Models from Human Preferences</title>
@@ -63,46 +57,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
     </item>
     <item>
+      <title>PUG: Photorealistic and Semantically Controllable Synthetic Data for Representation Learning</title>
+      <link>https://paperswithcode.com/paper/pug-photorealistic-and-semantically</link>
+      <description><![CDATA[Synthetic image datasets offer unmatched advantages for designing and evaluating deep neural networks: they make it possible to (i) render as many data samples as needed, (ii) precisely control each scene and yield granular ground truth labels (and captions), (iii) precisely control distribution shifts between training and testing to isolate variables of interest for sound experimentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pug-photorealistic-and-semantically</guid>
+    </item>
+    <item>
+      <title>SynJax: Structured Probability Distributions for JAX</title>
+      <link>https://paperswithcode.com/paper/synjax-structured-probability-distributions</link>
+      <description><![CDATA[The models that explicitly account for structured objects, such as trees and segmentations, did not benefit equally because they require custom algorithms that are difficult to implement in a vectorized form.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/synjax-structured-probability-distributions</guid>
+    </item>
+    <item>
       <title>Shepherd: A Critic for Language Model Generation</title>
       <link>https://paperswithcode.com/paper/shepherd-a-critic-for-language-model</link>
       <description><![CDATA[As large language models improve, there is increasing interest in techniques that leverage these models' capabilities to refine their own outputs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/shepherd-a-critic-for-language-model</guid>
-    </item>
-    <item>
-      <title>Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising</title>
-      <link>https://paperswithcode.com/paper/lighting-every-darkness-in-two-pairs-a</link>
-      <description><![CDATA[Calibration-based methods have dominated RAW image denoising under extremely low-light environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lighting-every-darkness-in-two-pairs-a</guid>
-    </item>
-    <item>
-      <title>Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions</title>
-      <link>https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</link>
-      <description><![CDATA[To address this issue, we propose a generic and lightweight controllable knowledge re-injection module, which utilizes the sophisticated reasoning ability of LLMs to control the VPG to conditionally extract instruction-specific visual information and re-inject it into the LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</guid>
-    </item>
-    <item>
-      <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
-      <link>https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</link>
-      <description><![CDATA[Different from the previous self-knowledge distillation, this stage finetunes the student's head with only 20% training time as a plug-and-play training strategy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
-    </item>
-    <item>
-      <title>Follow Anything: Open-set detection, tracking, and following in real-time</title>
-      <link>https://paperswithcode.com/paper/follow-anything-open-set-detection-tracking</link>
-      <description><![CDATA[We demonstrate FAn on a real-world robotic system (a micro aerial vehicle) and report its ability to seamlessly follow the objects of interest in a real-time control loop.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/follow-anything-open-set-detection-tracking</guid>
-    </item>
-    <item>
-      <title>Dual Aggregation Transformer for Image Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/dual-aggregation-transformer-for-image-super</link>
-      <description><![CDATA[Based on the above idea, we propose a novel Transformer model, Dual Aggregation Transformer (DAT), for image SR. Our DAT aggregates features across spatial and channel dimensions, in the inter-block and intra-block dual manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dual-aggregation-transformer-for-image-super</guid>
-    </item>
-    <item>
-      <title>Simple synthetic data reduces sycophancy in large language models</title>
-      <link>https://paperswithcode.com/paper/simple-synthetic-data-reduces-sycophancy-in</link>
-      <description><![CDATA[Adding these data in a lightweight finetuning step can significantly reduce sycophantic behavior on held-out prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simple-synthetic-data-reduces-sycophancy-in</guid>
     </item>
     <item>
       <title>SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool</title>
@@ -117,16 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
     </item>
     <item>
+      <title>Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions</title>
+      <link>https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</link>
+      <description><![CDATA[To address this issue, we propose a generic and lightweight controllable knowledge re-injection module, which utilizes the sophisticated reasoning ability of LLMs to control the VPG to conditionally extract instruction-specific visual information and re-inject it into the LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</guid>
+    </item>
+    <item>
       <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
       <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
       <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
     </item>
     <item>
+      <title>Follow Anything: Open-set detection, tracking, and following in real-time</title>
+      <link>https://paperswithcode.com/paper/follow-anything-open-set-detection-tracking</link>
+      <description><![CDATA[We demonstrate FAn on a real-world robotic system (a micro aerial vehicle) and report its ability to seamlessly follow the objects of interest in a real-time control loop.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/follow-anything-open-set-detection-tracking</guid>
+    </item>
+    <item>
+      <title>LLM As DBA</title>
+      <link>https://paperswithcode.com/paper/llm-as-dba</link>
+      <description><![CDATA[Database administrators (DBAs) play a crucial role in managing, maintaining and optimizing a database system to ensure data availability, performance, and reliability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-as-dba</guid>
+    </item>
+    <item>
+      <title>PolyLM: An Open Source Polyglot Large Language Model</title>
+      <link>https://paperswithcode.com/paper/polylm-an-open-source-polyglot-large-language</link>
+      <description><![CDATA[Large language models (LLMs) demonstrate remarkable ability to comprehend, reason, and generate following nature language instructions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/polylm-an-open-source-polyglot-large-language</guid>
+    </item>
+    <item>
       <title>MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving</title>
       <link>https://paperswithcode.com/paper/mars-an-instance-aware-modular-and-realistic</link>
       <description><![CDATA[We expect this modular design to boost academic progress and industrial deployment of NeRF-based autonomous driving simulation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mars-an-instance-aware-modular-and-realistic</guid>
+    </item>
+    <item>
+      <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
+      <link>https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</link>
+      <description><![CDATA[Different from the previous self-knowledge distillation, this stage finetunes the student's head with only 20% training time as a plug-and-play training strategy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
     </item>
   </channel>
 </rss>
