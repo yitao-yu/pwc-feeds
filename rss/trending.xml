@@ -7,24 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Aug 2023 21:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 09:11:19 +0000</lastBuildDate>
     <item>
-      <title>Separate Anything You Describe</title>
-      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
-      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
+      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
+      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
     </item>
     <item>
-      <title>Revisiting the Minimalist Approach to Offline Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/revisiting-the-minimalist-approach-to-offline</link>
-      <description><![CDATA[In this work, we aim to bridge this gap by conducting a retrospective analysis of recent works in offline RL and propose ReBRAC, a minimalistic algorithm that integrates such design elements built on top of the TD3+BC method.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-the-minimalist-approach-to-offline</guid>
+      <title>Efficient Guided Generation for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/efficient-guided-generation-for-llms</link>
+      <description><![CDATA[In this article we show how the problem of neural text generation can be constructively reformulated in terms of transitions between the states of a finite-state machine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-guided-generation-for-llms</guid>
     </item>
     <item>
-      <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
-      <link>https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</link>
-      <description><![CDATA[We first present ToolBench, an instruction-tuning dataset for tool use, which is created automatically using ChatGPT.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
+      <title>Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction</title>
+      <link>https://paperswithcode.com/paper/trafilatura-a-web-scraping-library-and</link>
+      <description><![CDATA[The tool performs significantly better than other open-source solutions in this evaluation and in external benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/trafilatura-a-web-scraping-library-and</guid>
     </item>
     <item>
       <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
@@ -33,52 +33,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
     </item>
     <item>
-      <title>AgentBench: Evaluating LLMs as Agents</title>
-      <link>https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</link>
-      <description><![CDATA[Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</guid>
-    </item>
-    <item>
-      <title>LISA: Reasoning Segmentation via Large Language Model</title>
-      <link>https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</link>
-      <description><![CDATA[In this work, we propose a new segmentation task -- reasoning segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</guid>
-    </item>
-    <item>
       <title>DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models</title>
       <link>https://paperswithcode.com/paper/datasetdm-synthesizing-data-with-perception</link>
       <description><![CDATA[To showcase the power of the proposed approach, we generate datasets with rich dense pixel-wise labels for a wide range of downstream tasks, including semantic segmentation, instance segmentation, and depth estimation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/datasetdm-synthesizing-data-with-perception</guid>
     </item>
     <item>
-      <title>Fine-Tuning Language Models from Human Preferences</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-language-models-from-human</link>
-      <description><![CDATA[Most work on reward learning has used simulated environments, but complex information about values is often expressed in natural language, and we believe reward learning for language is a key to making RL practical and safe for real-world tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-language-models-from-human</guid>
+      <title>OctoPack: Instruction Tuning Code Large Language Models</title>
+      <link>https://paperswithcode.com/paper/octopack-instruction-tuning-code-large</link>
+      <description><![CDATA[We benchmark CommitPack against other natural and synthetic code instructions (xP3x, Self-Instruct, OASST) on the 16B parameter StarCoder model, and achieve state-of-the-art performance among models not trained on OpenAI outputs, on the HumanEval Python benchmark (46. 2% pass@1).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/octopack-instruction-tuning-code-large</guid>
     </item>
     <item>
-      <title>PUG: Photorealistic and Semantically Controllable Synthetic Data for Representation Learning</title>
-      <link>https://paperswithcode.com/paper/pug-photorealistic-and-semantically</link>
-      <description><![CDATA[Synthetic image datasets offer unmatched advantages for designing and evaluating deep neural networks: they make it possible to (i) render as many data samples as needed, (ii) precisely control each scene and yield granular ground truth labels (and captions), (iii) precisely control distribution shifts between training and testing to isolate variables of interest for sound experimentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pug-photorealistic-and-semantically</guid>
+      <title>AgentBench: Evaluating LLMs as Agents</title>
+      <link>https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</link>
+      <description><![CDATA[Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</guid>
     </item>
     <item>
-      <title>SynJax: Structured Probability Distributions for JAX</title>
-      <link>https://paperswithcode.com/paper/synjax-structured-probability-distributions</link>
-      <description><![CDATA[The models that explicitly account for structured objects, such as trees and segmentations, did not benefit equally because they require custom algorithms that are difficult to implement in a vectorized form.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/synjax-structured-probability-distributions</guid>
+      <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
+      <link>https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</link>
+      <description><![CDATA[We first present ToolBench, an instruction-tuning dataset for tool use, which is created automatically using ChatGPT.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
     </item>
     <item>
-      <title>Shepherd: A Critic for Language Model Generation</title>
-      <link>https://paperswithcode.com/paper/shepherd-a-critic-for-language-model</link>
-      <description><![CDATA[As large language models improve, there is increasing interest in techniques that leverage these models' capabilities to refine their own outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/shepherd-a-critic-for-language-model</guid>
-    </item>
-    <item>
-      <title>SimplyRetrieve: A Private and Lightweight Retrieval-Centric Generative AI Tool</title>
-      <link>https://paperswithcode.com/paper/simplyretrieve-a-private-and-lightweight</link>
-      <description><![CDATA[Large Language Model (LLM) based Generative AI systems have seen significant progress in recent years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simplyretrieve-a-private-and-lightweight</guid>
+      <title>Color-NeuS: Reconstructing Neural Implicit Surfaces with Color</title>
+      <link>https://paperswithcode.com/paper/color-neus-reconstructing-neural-implicit</link>
+      <description><![CDATA[Mesh is extracted from the signed distance function (SDF) network for the surface, and color for each surface vertex is drawn from the global color network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/color-neus-reconstructing-neural-implicit</guid>
     </item>
     <item>
       <title>WizardCoder: Empowering Code Large Language Models with Evol-Instruct</title>
@@ -87,16 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/wizardcoder-empowering-code-large-language</guid>
     </item>
     <item>
-      <title>Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions</title>
-      <link>https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</link>
-      <description><![CDATA[To address this issue, we propose a generic and lightweight controllable knowledge re-injection module, which utilizes the sophisticated reasoning ability of LLMs to control the VPG to conditionally extract instruction-specific visual information and re-inject it into the LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</guid>
-    </item>
-    <item>
-      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
-      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
-      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
+      <title>LISA: Reasoning Segmentation via Large Language Model</title>
+      <link>https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</link>
+      <description><![CDATA[In this work, we propose a new segmentation task -- reasoning segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lisa-reasoning-segmentation-via-large</guid>
     </item>
     <item>
       <title>Follow Anything: Open-set detection, tracking, and following in real-time</title>
@@ -105,28 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/follow-anything-open-set-detection-tracking</guid>
     </item>
     <item>
-      <title>LLM As DBA</title>
-      <link>https://paperswithcode.com/paper/llm-as-dba</link>
-      <description><![CDATA[Database administrators (DBAs) play a crucial role in managing, maintaining and optimizing a database system to ensure data availability, performance, and reliability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-as-dba</guid>
+      <title>Separate Anything You Describe</title>
+      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
+      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
     </item>
     <item>
-      <title>PolyLM: An Open Source Polyglot Large Language Model</title>
-      <link>https://paperswithcode.com/paper/polylm-an-open-source-polyglot-large-language</link>
-      <description><![CDATA[Large language models (LLMs) demonstrate remarkable ability to comprehend, reason, and generate following nature language instructions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/polylm-an-open-source-polyglot-large-language</guid>
+      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
+      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
+      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/mars-an-instance-aware-modular-and-realistic</link>
-      <description><![CDATA[We expect this modular design to boost academic progress and industrial deployment of NeRF-based autonomous driving simulation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mars-an-instance-aware-modular-and-realistic</guid>
+      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
+      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
+      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
     </item>
     <item>
-      <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
-      <link>https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</link>
-      <description><![CDATA[Different from the previous self-knowledge distillation, this stage finetunes the student's head with only 20% training time as a plug-and-play training strategy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
+      <title>BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects</title>
+      <link>https://paperswithcode.com/paper/bundlesdf-neural-6-dof-tracking-and-3d</link>
+      <description><![CDATA[We present a near real-time method for 6-DoF tracking of an unknown object from a monocular RGBD video sequence, while simultaneously performing neural 3D reconstruction of the object.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bundlesdf-neural-6-dof-tracking-and-3d</guid>
+    </item>
+    <item>
+      <title>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</title>
+      <link>https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</link>
+      <description><![CDATA[We propose a novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages -- ciphers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</guid>
+    </item>
+    <item>
+      <title>Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions</title>
+      <link>https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</link>
+      <description><![CDATA[To address this issue, we propose a generic and lightweight controllable knowledge re-injection module, which utilizes the sophisticated reasoning ability of LLMs to control the VPG to conditionally extract instruction-specific visual information and re-inject it into the LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</guid>
+    </item>
+    <item>
+      <title>Revisiting the Minimalist Approach to Offline Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/revisiting-the-minimalist-approach-to-offline</link>
+      <description><![CDATA[In this work, we aim to bridge this gap by conducting a retrospective analysis of recent works in offline RL and propose ReBRAC, a minimalistic algorithm that integrates such design elements built on top of the TD3+BC method.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-the-minimalist-approach-to-offline</guid>
+    </item>
+    <item>
+      <title>Shepherd: A Critic for Language Model Generation</title>
+      <link>https://paperswithcode.com/paper/shepherd-a-critic-for-language-model</link>
+      <description><![CDATA[As large language models improve, there is increasing interest in techniques that leverage these models' capabilities to refine their own outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shepherd-a-critic-for-language-model</guid>
     </item>
   </channel>
 </rss>
