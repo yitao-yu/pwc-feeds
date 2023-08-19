@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Aug 2023 21:05:26 +0000</lastBuildDate>
-    <item>
-      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
-      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
-      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
-    </item>
+    <lastBuildDate>Sat, 19 Aug 2023 09:09:53 +0000</lastBuildDate>
     <item>
       <title>Efficient Guided Generation for Large Language Models</title>
       <link>https://paperswithcode.com/paper/efficient-guided-generation-for-llms</link>
       <description><![CDATA[In this article we show how the problem of neural text generation can be constructively reformulated in terms of transitions between the states of a finite-state machine.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-guided-generation-for-llms</guid>
+    </item>
+    <item>
+      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
+      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
+      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
     </item>
     <item>
       <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
@@ -33,12 +33,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/codef-content-deformation-fields-for</guid>
     </item>
     <item>
-      <title>Generative Agents: Interactive Simulacra of Human Behavior</title>
-      <link>https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</link>
-      <description><![CDATA[Believable proxies of human behavior can empower interactive applications ranging from immersive environments to rehearsal spaces for interpersonal communication to prototyping tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</guid>
-    </item>
-    <item>
       <title>Trafilatura: A Web Scraping Library and Command-Line Tool for Text Discovery and Extraction</title>
       <link>https://paperswithcode.com/paper/trafilatura-a-web-scraping-library-and</link>
       <description><![CDATA[The tool performs significantly better than other open-source solutions in this evaluation and in external benchmarks.]]></description>
@@ -49,6 +43,12 @@
       <link>https://paperswithcode.com/paper/platypus-quick-cheap-and-powerful-refinement</link>
       <description><![CDATA[We present $\textbf{Platypus}$, a family of fine-tuned and merged Large Language Models (LLMs) that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/platypus-quick-cheap-and-powerful-refinement</guid>
+    </item>
+    <item>
+      <title>Generative Agents: Interactive Simulacra of Human Behavior</title>
+      <link>https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</link>
+      <description><![CDATA[Believable proxies of human behavior can empower interactive applications ranging from immersive environments to rehearsal spaces for interpersonal communication to prototyping tools.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</guid>
     </item>
     <item>
       <title>OctoPack: Instruction Tuning Code Large Language Models</title>
@@ -63,16 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</guid>
     </item>
     <item>
+      <title>YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-time Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</link>
+      <description><![CDATA[We aim at providing the object detection community with an efficient and performant object detector, termed YOLO-MS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</guid>
+    </item>
+    <item>
       <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
       <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
       <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
-    </item>
-    <item>
-      <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
-      <link>https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</link>
-      <description><![CDATA[Recently, remarkable progress has been made in automated task-solving through the use of multi-agent driven by large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
     </item>
     <item>
       <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
@@ -81,28 +81,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation</title>
-      <link>https://paperswithcode.com/paper/unitr-a-unified-and-efficient-multi-modal</link>
-      <description><![CDATA[Jointly processing information from multiple sensors is crucial to achieving accurate and robust perception for reliable autonomous driving systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unitr-a-unified-and-efficient-multi-modal</guid>
-    </item>
-    <item>
-      <title>Color-NeuS: Reconstructing Neural Implicit Surfaces with Color</title>
-      <link>https://paperswithcode.com/paper/color-neus-reconstructing-neural-implicit</link>
-      <description><![CDATA[Mesh is extracted from the signed distance function (SDF) network for the surface, and color for each surface vertex is drawn from the global color network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/color-neus-reconstructing-neural-implicit</guid>
-    </item>
-    <item>
-      <title>DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/datasetdm-synthesizing-data-with-perception</link>
-      <description><![CDATA[To showcase the power of the proposed approach, we generate datasets with rich dense pixel-wise labels for a wide range of downstream tasks, including semantic segmentation, instance segmentation, and depth estimation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/datasetdm-synthesizing-data-with-perception</guid>
-    </item>
-    <item>
       <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
       <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
       <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
+    </item>
+    <item>
+      <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
+      <link>https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</link>
+      <description><![CDATA[Recently, remarkable progress has been made in automated task-solving through the use of multi-agent driven by large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
+    </item>
+    <item>
+      <title>MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions</title>
+      <link>https://paperswithcode.com/paper/mevis-a-large-scale-benchmark-for-video</link>
+      <description><![CDATA[To investigate the feasibility of using motion expressions to ground and segment objects in videos, we propose a large-scale dataset called MeViS, which contains numerous motion expressions to indicate target objects in complex environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mevis-a-large-scale-benchmark-for-video</guid>
+    </item>
+    <item>
+      <title>OxfordVGG Submission to the EGO4D AV Transcription Challenge</title>
+      <link>https://paperswithcode.com/paper/oxfordvgg-submission-to-the-ego4d-av</link>
+      <description><![CDATA[This report presents the technical details of our submission on the EGO4D Audio-Visual (AV) Automatic Speech Recognition Challenge 2023 from the OxfordVGG team.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/oxfordvgg-submission-to-the-ego4d-av</guid>
     </item>
     <item>
       <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
@@ -111,10 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
     </item>
     <item>
-      <title>BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects</title>
-      <link>https://paperswithcode.com/paper/bundlesdf-neural-6-dof-tracking-and-3d</link>
-      <description><![CDATA[We present a near real-time method for 6-DoF tracking of an unknown object from a monocular RGBD video sequence, while simultaneously performing neural 3D reconstruction of the object.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bundlesdf-neural-6-dof-tracking-and-3d</guid>
+      <title>Color-NeuS: Reconstructing Neural Implicit Surfaces with Color</title>
+      <link>https://paperswithcode.com/paper/color-neus-reconstructing-neural-implicit</link>
+      <description><![CDATA[Mesh is extracted from the signed distance function (SDF) network for the surface, and color for each surface vertex is drawn from the global color network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/color-neus-reconstructing-neural-implicit</guid>
     </item>
     <item>
       <title>Inst-Inpaint: Instructing to Remove Objects with Diffusion Models</title>
@@ -123,10 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/inst-inpaint-instructing-to-remove-objects</guid>
     </item>
     <item>
-      <title>AgentBench: Evaluating LLMs as Agents</title>
-      <link>https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</link>
-      <description><![CDATA[Large Language Models (LLMs) are becoming increasingly smart and autonomous, targeting real-world pragmatic missions beyond traditional NLP tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentbench-evaluating-llms-as-agents</guid>
+      <title>UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation</title>
+      <link>https://paperswithcode.com/paper/unitr-a-unified-and-efficient-multi-modal</link>
+      <description><![CDATA[Jointly processing information from multiple sensors is crucial to achieving accurate and robust perception for reliable autonomous driving systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unitr-a-unified-and-efficient-multi-modal</guid>
     </item>
   </channel>
 </rss>
