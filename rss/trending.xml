@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Aug 2023 21:06:17 +0000</lastBuildDate>
-    <item>
-      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
-      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
-      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
-    </item>
+    <lastBuildDate>Tue, 22 Aug 2023 09:11:30 +0000</lastBuildDate>
     <item>
       <title>CoDeF: Content Deformation Fields for Temporally Consistent Video Processing</title>
       <link>https://paperswithcode.com/paper/codef-content-deformation-fields-for</link>
       <description><![CDATA[We present the content deformation field CoDeF as a new type of video representation, which consists of a canonical content field aggregating the static contents in the entire video and a temporal deformation field recording the transformations from the canonical image (i. e., rendered from the canonical content field) to each individual frame along the time axis. Given a target video, these two fields are jointly optimized to reconstruct it through a carefully tailored rendering pipeline. We advisedly introduce some regularizations into the optimization process, urging the canonical content field to inherit semantics (e. g., the object shape) from the video. With such a design, CoDeF naturally supports lifting image algorithms for video processing, in the sense that one can apply an image algorithm to the canonical image and effortlessly propagate the outcomes to the entire video with the aid of the temporal deformation field. We experimentally show that CoDeF is able to lift image-to-image translation to video-to-video translation and lift keypoint detection to keypoint tracking without any training. More importantly, thanks to our lifting strategy that deploys the algorithms on only one image, we achieve superior cross-frame consistency in processed videos compared to existing video-to-video translation approaches, and even manage to track non-rigid objects like water and smog. Project page can be found at https://qiuyu96. github. io/CoDeF/.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/codef-content-deformation-fields-for</guid>
+    </item>
+    <item>
+      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
+      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
+      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
     </item>
     <item>
       <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
@@ -27,10 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
     </item>
     <item>
-      <title>Efficient Guided Generation for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/efficient-guided-generation-for-llms</link>
-      <description><![CDATA[In this article we show how the problem of neural text generation can be constructively reformulated in terms of transitions between the states of a finite-state machine.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-guided-generation-for-llms</guid>
+      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
+      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
+      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
       <title>Platypus: Quick, Cheap, and Powerful Refinement of LLMs</title>
@@ -39,28 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/platypus-quick-cheap-and-powerful-refinement</guid>
     </item>
     <item>
-      <title>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</title>
-      <link>https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</link>
-      <description><![CDATA[We propose a novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages -- ciphers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</guid>
-    </item>
-    <item>
-      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
-      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
-      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
-    </item>
-    <item>
-      <title>OxfordVGG Submission to the EGO4D AV Transcription Challenge</title>
-      <link>https://paperswithcode.com/paper/oxfordvgg-submission-to-the-ego4d-av</link>
-      <description><![CDATA[This report presents the technical details of our submission on the EGO4D Audio-Visual (AV) Automatic Speech Recognition Challenge 2023 from the OxfordVGG team.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oxfordvgg-submission-to-the-ego4d-av</guid>
-    </item>
-    <item>
-      <title>YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-time Object Detection</title>
-      <link>https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</link>
-      <description><![CDATA[We aim at providing the object detection community with an efficient and performant object detector, termed YOLO-MS.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</guid>
+      <title>An Open-Source LoRa Physical Layer Prototype on GNU Radio</title>
+      <link>https://paperswithcode.com/paper/an-open-source-lora-physical-layer-prototype</link>
+      <description><![CDATA[LoRa is the proprietary physical layer (PHY) of LoRaWAN, which is a popular Internet-of-Things (IoT) protocol enabling low-power devices to communicate over long ranges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-open-source-lora-physical-layer-prototype</guid>
     </item>
     <item>
       <title>SpecInfer: Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification</title>
@@ -69,10 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/specinfer-accelerating-generative-llm-serving</guid>
     </item>
     <item>
-      <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
-      <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
-      <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
+      <title>Efficient Guided Generation for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/efficient-guided-generation-for-llms</link>
+      <description><![CDATA[In this article we show how the problem of neural text generation can be constructively reformulated in terms of transitions between the states of a finite-state machine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-guided-generation-for-llms</guid>
+    </item>
+    <item>
+      <title>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</title>
+      <link>https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</link>
+      <description><![CDATA[We propose a novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages -- ciphers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</guid>
+    </item>
+    <item>
+      <title>YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-time Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</link>
+      <description><![CDATA[We aim at providing the object detection community with an efficient and performant object detector, termed YOLO-MS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</guid>
     </item>
     <item>
       <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
@@ -81,28 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
     </item>
     <item>
-      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
-      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
-      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
-    </item>
-    <item>
-      <title>Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions</title>
-      <link>https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</link>
-      <description><![CDATA[To address this issue, we propose a generic and lightweight controllable knowledge re-injection module, which utilizes the sophisticated reasoning ability of LLMs to control the VPG to conditionally extract instruction-specific visual information and re-inject it into the LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/empowering-vision-language-models-to-follow</guid>
-    </item>
-    <item>
       <title>How Can Recommender Systems Benefit from Large Language Models: A Survey</title>
       <link>https://paperswithcode.com/paper/how-can-recommender-systems-benefit-from</link>
       <description><![CDATA[For the "WHERE" question, we discuss the roles that LLM could play in different stages of the recommendation pipeline, i. e., feature engineering, feature encoder, scoring/ranking function, and pipeline controller.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/how-can-recommender-systems-benefit-from</guid>
-    </item>
-    <item>
-      <title>OctoPack: Instruction Tuning Code Large Language Models</title>
-      <link>https://paperswithcode.com/paper/octopack-instruction-tuning-code-large</link>
-      <description><![CDATA[We benchmark CommitPack against other natural and synthetic code instructions (xP3x, Self-Instruct, OASST) on the 16B parameter StarCoder model, and achieve state-of-the-art performance among models not trained on OpenAI outputs, on the HumanEval Python benchmark (46. 2% pass@1).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/octopack-instruction-tuning-code-large</guid>
     </item>
     <item>
       <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
@@ -111,16 +87,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
     </item>
     <item>
+      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
+      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
+      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
+    </item>
+    <item>
+      <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
+      <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
+      <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
+    </item>
+    <item>
+      <title>Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration</title>
+      <link>https://paperswithcode.com/paper/unleashing-cognitive-synergy-in-large</link>
+      <description><![CDATA[Human intelligence thrives on the concept of cognitive synergy, where collaboration and information integration among different cognitive processes yield superior outcomes compared to individual cognitive processes in isolation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-cognitive-synergy-in-large</guid>
+    </item>
+    <item>
       <title>DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching</title>
       <link>https://paperswithcode.com/paper/dedode-detect-don-t-describe-describe-don-t</link>
       <description><![CDATA[To train a descriptor, we maximize the mutual nearest neighbour objective over the keypoints with a separate network.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dedode-detect-don-t-describe-describe-don-t</guid>
     </item>
     <item>
-      <title>Generative Agents: Interactive Simulacra of Human Behavior</title>
-      <link>https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</link>
-      <description><![CDATA[Believable proxies of human behavior can empower interactive applications ranging from immersive environments to rehearsal spaces for interpersonal communication to prototyping tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-agents-interactive-simulacra-of</guid>
+      <title>OctoPack: Instruction Tuning Code Large Language Models</title>
+      <link>https://paperswithcode.com/paper/octopack-instruction-tuning-code-large</link>
+      <description><![CDATA[We benchmark CommitPack against other natural and synthetic code instructions (xP3x, Self-Instruct, OASST) on the 16B parameter StarCoder model, and achieve state-of-the-art performance among models not trained on OpenAI outputs, on the HumanEval Python benchmark (46. 2% pass@1).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/octopack-instruction-tuning-code-large</guid>
+    </item>
+    <item>
+      <title>MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions</title>
+      <link>https://paperswithcode.com/paper/mevis-a-large-scale-benchmark-for-video</link>
+      <description><![CDATA[To investigate the feasibility of using motion expressions to ground and segment objects in videos, we propose a large-scale dataset called MeViS, which contains numerous motion expressions to indicate target objects in complex environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mevis-a-large-scale-benchmark-for-video</guid>
     </item>
     <item>
       <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
