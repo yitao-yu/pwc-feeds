@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Aug 2023 21:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 09:11:38 +0000</lastBuildDate>
+    <item>
+      <title>SeamlessM4T-Massively Multilingual &amp; Multimodal Machine Translation</title>
+      <link>https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</link>
+      <description><![CDATA[To build this, we used 1 million hours of open speech audio data to learn self-supervised speech representations with w2v-BERT 2. 0.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</guid>
+    </item>
     <item>
       <title>CoDeF: Content Deformation Fields for Temporally Consistent Video Processing</title>
       <link>https://paperswithcode.com/paper/codef-content-deformation-fields-for</link>
@@ -19,24 +25,6 @@
       <link>https://paperswithcode.com/paper/stablevideo-text-driven-consistency-aware</link>
       <description><![CDATA[In this paper, we tackle this problem by introducing temporal dependency to existing text-driven diffusion models, which allows them to generate consistent appearance for the edited objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/stablevideo-text-driven-consistency-aware</guid>
-    </item>
-    <item>
-      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
-      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
-      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
-    </item>
-    <item>
-      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
-      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
-      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
-    </item>
-    <item>
-      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
-      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
-      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
       <title>An Open-Source LoRa Physical Layer Prototype on GNU Radio</title>
@@ -51,6 +39,60 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</guid>
     </item>
     <item>
+      <title>Graph of Thoughts: Solving Elaborate Problems with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</link>
+      <description><![CDATA[We introduce Graph of Thoughts (GoT): a framework that advances prompting capabilities in large language models (LLMs) beyond those offered by paradigms such as Chain-of-Thought or Tree of Thoughts (ToT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</guid>
+    </item>
+    <item>
+      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
+      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
+      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
+    </item>
+    <item>
+      <title>NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</link>
+      <description><![CDATA[In NeuS, we propose to represent a surface as the zero-level set of a signed distance function (SDF) and develop a new volume rendering method to train a neural SDF representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</guid>
+    </item>
+    <item>
+      <title>StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views</title>
+      <link>https://paperswithcode.com/paper/streetsurf-extending-multi-view-implicit</link>
+      <description><![CDATA[We present a novel multi-view implicit surface reconstruction technique, termed StreetSurf, that is readily applicable to street view images in widely-used autonomous driving datasets, such as Waymo-perception sequences, without necessarily requiring LiDAR data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/streetsurf-extending-multi-view-implicit</guid>
+    </item>
+    <item>
+      <title>IT3D: Improved Text-to-3D Generation with Explicit View Synthesis</title>
+      <link>https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</link>
+      <description><![CDATA[Recent strides in Text-to-3D techniques have been propelled by distilling knowledge from powerful large text-to-image diffusion models (LDMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</guid>
+    </item>
+    <item>
+      <title>SONAR: Sentence-Level Multimodal and Language-Agnostic Representations</title>
+      <link>https://paperswithcode.com/paper/sentence-level-multimodal-and-language</link>
+      <description><![CDATA[Our single text encoder, covering 200 languages, substantially outperforms existing sentence embeddings such as LASER3 and LabSE on the xsim and xsim++ multilingual similarity search tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sentence-level-multimodal-and-language</guid>
+    </item>
+    <item>
+      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
+      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
+    </item>
+    <item>
+      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
+      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
+      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
+    </item>
+    <item>
+      <title>Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction</title>
+      <link>https://paperswithcode.com/paper/vanishing-point-estimation-in-uncalibrated</link>
+      <description><![CDATA[We tackle the problem of estimating a Manhattan frame, i. e. three orthogonal vanishing points, and the unknown focal length of the camera, leveraging a prior vertical direction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vanishing-point-estimation-in-uncalibrated</guid>
+    </item>
+    <item>
       <title>Platypus: Quick, Cheap, and Powerful Refinement of LLMs</title>
       <link>https://paperswithcode.com/paper/platypus-quick-cheap-and-powerful-refinement</link>
       <description><![CDATA[We present $\textbf{Platypus}$, a family of fine-tuned and merged Large Language Models (LLMs) that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work.]]></description>
@@ -63,28 +105,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/specinfer-accelerating-generative-llm-serving</guid>
     </item>
     <item>
-      <title>Graph of Thoughts: Solving Elaborate Problems with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</link>
-      <description><![CDATA[We introduce Graph of Thoughts (GoT): a framework that advances prompting capabilities in large language models (LLMs) beyond those offered by paradigms such as Chain-of-Thought or Tree of Thoughts (ToT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</guid>
+      <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
+      <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
+      <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
     </item>
     <item>
-      <title>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</title>
-      <link>https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</link>
-      <description><![CDATA[We propose a novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages -- ciphers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4-is-too-smart-to-be-safe-stealthy-chat</guid>
-    </item>
-    <item>
-      <title>Effective Whole-body Pose Estimation with Two-stages Distillation</title>
-      <link>https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</link>
-      <description><![CDATA[Different from the previous self-knowledge distillation, this stage finetunes the student's head with only 20% training time as a plug-and-play training strategy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-whole-body-pose-estimation-with-two</guid>
-    </item>
-    <item>
-      <title>A Method for Animating Children's Drawings of the Human Figure</title>
-      <link>https://paperswithcode.com/paper/a-method-for-automatically-animating-children</link>
-      <description><![CDATA[Children's drawings have a wonderful inventiveness, creativity, and variety to them.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-method-for-automatically-animating-children</guid>
+      <title>Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-for-image-restoration-and</link>
+      <description><![CDATA[Image restoration (IR) has been an indispensable and challenging task in the low-level vision field, which strives to improve the subjective quality of images distorted by various forms of degradation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-image-restoration-and</guid>
     </item>
     <item>
       <title>Efficient Guided Generation for Large Language Models</title>
@@ -93,40 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-guided-generation-for-llms</guid>
     </item>
     <item>
-      <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
-      <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
-      <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
-    </item>
-    <item>
-      <title>YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-time Object Detection</title>
-      <link>https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</link>
-      <description><![CDATA[We aim at providing the object detection community with an efficient and performant object detector, termed YOLO-MS.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-ms-rethinking-multi-scale-representation</guid>
-    </item>
-    <item>
-      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
-      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
-      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
-    </item>
-    <item>
-      <title>DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching</title>
-      <link>https://paperswithcode.com/paper/dedode-detect-don-t-describe-describe-don-t</link>
-      <description><![CDATA[To train a descriptor, we maximize the mutual nearest neighbour objective over the keypoints with a separate network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dedode-detect-don-t-describe-describe-don-t</guid>
-    </item>
-    <item>
-      <title>ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs</title>
-      <link>https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</link>
-      <description><![CDATA[We first present ToolBench, an instruction-tuning dataset for tool use, which is created automatically using ChatGPT.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/toolllm-facilitating-large-language-models-to</guid>
-    </item>
-    <item>
-      <title>MolFM: A Multimodal Molecular Foundation Model</title>
-      <link>https://paperswithcode.com/paper/molfm-a-multimodal-molecular-foundation-model</link>
-      <description><![CDATA[In this study, we introduce MolFM, a multimodal molecular foundation model designed to facilitate joint representation learning from molecular structures, biomedical texts, and knowledge graphs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/molfm-a-multimodal-molecular-foundation-model</guid>
+      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
+      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
+      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
     </item>
   </channel>
 </rss>
