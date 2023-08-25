@@ -7,11 +7,11 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Aug 2023 21:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2023 09:11:21 +0000</lastBuildDate>
     <item>
       <title>SeamlessM4T-Massively Multilingual &amp; Multimodal Machine Translation</title>
       <link>https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</link>
-      <description><![CDATA[To build this, we used 1 million hours of open speech audio data to learn self-supervised speech representations with w2v-BERT 2. 0.]]></description>
+      <description><![CDATA[What does it take to create the Babel Fish, a tool that can help individuals translate speech between any two languages?]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</guid>
     </item>
     <item>
@@ -51,6 +51,18 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
+      <title>SONAR: Sentence-Level Multimodal and Language-Agnostic Representations</title>
+      <link>https://paperswithcode.com/paper/sentence-level-multimodal-and-language</link>
+      <description><![CDATA[Our single text encoder, covering 200 languages, substantially outperforms existing sentence embeddings such as LASER3 and LabSE on the xsim and xsim++ multilingual similarity search tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sentence-level-multimodal-and-language</guid>
+    </item>
+    <item>
+      <title>IT3D: Improved Text-to-3D Generation with Explicit View Synthesis</title>
+      <link>https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</link>
+      <description><![CDATA[Recent strides in Text-to-3D techniques have been propelled by distilling knowledge from powerful large text-to-image diffusion models (LDMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</guid>
+    </item>
+    <item>
       <title>NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction</title>
       <link>https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</link>
       <description><![CDATA[In NeuS, we propose to represent a surface as the zero-level set of a signed distance function (SDF) and develop a new volume rendering method to train a neural SDF representation.]]></description>
@@ -63,16 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/streetsurf-extending-multi-view-implicit</guid>
     </item>
     <item>
-      <title>IT3D: Improved Text-to-3D Generation with Explicit View Synthesis</title>
-      <link>https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</link>
-      <description><![CDATA[Recent strides in Text-to-3D techniques have been propelled by distilling knowledge from powerful large text-to-image diffusion models (LDMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</guid>
-    </item>
-    <item>
-      <title>SONAR: Sentence-Level Multimodal and Language-Agnostic Representations</title>
-      <link>https://paperswithcode.com/paper/sentence-level-multimodal-and-language</link>
-      <description><![CDATA[Our single text encoder, covering 200 languages, substantially outperforms existing sentence embeddings such as LASER3 and LabSE on the xsim and xsim++ multilingual similarity search tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sentence-level-multimodal-and-language</guid>
+      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
+      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
+      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
     </item>
     <item>
       <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
@@ -81,16 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
     </item>
     <item>
-      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
-      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
-      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
-    </item>
-    <item>
-      <title>Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction</title>
-      <link>https://paperswithcode.com/paper/vanishing-point-estimation-in-uncalibrated</link>
-      <description><![CDATA[We tackle the problem of estimating a Manhattan frame, i. e. three orthogonal vanishing points, and the unknown focal length of the camera, leveraging a prior vertical direction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vanishing-point-estimation-in-uncalibrated</guid>
+      <title>Prompt2Model: Generating Deployable Models from Natural Language Instructions</title>
+      <link>https://paperswithcode.com/paper/prompt2model-generating-deployable-models</link>
+      <description><![CDATA[In this paper, we propose Prompt2Model, a general-purpose method that takes a natural language task description like the prompts provided to LLMs, and uses it to train a special-purpose model that is conducive to deployment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt2model-generating-deployable-models</guid>
     </item>
     <item>
       <title>Platypus: Quick, Cheap, and Powerful Refinement of LLMs</title>
@@ -99,22 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/platypus-quick-cheap-and-powerful-refinement</guid>
     </item>
     <item>
-      <title>SpecInfer: Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification</title>
-      <link>https://paperswithcode.com/paper/specinfer-accelerating-generative-llm-serving</link>
-      <description><![CDATA[A key insight behind Specinfer is to combine various collectively boost-tuned small language models to jointly predict the LLM's outputs; the predictions are organized as a token tree, whose nodes each represent a candidate token sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/specinfer-accelerating-generative-llm-serving</guid>
-    </item>
-    <item>
       <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
       <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
       <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
     </item>
     <item>
-      <title>Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-for-image-restoration-and</link>
-      <description><![CDATA[Image restoration (IR) has been an indispensable and challenging task in the low-level vision field, which strives to improve the subjective quality of images distorted by various forms of degradation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-image-restoration-and</guid>
+      <title>Vanishing Point Estimation in Uncalibrated Images with Prior Gravity Direction</title>
+      <link>https://paperswithcode.com/paper/vanishing-point-estimation-in-uncalibrated</link>
+      <description><![CDATA[We tackle the problem of estimating a Manhattan frame, i. e. three orthogonal vanishing points, and the unknown focal length of the camera, leveraging a prior vertical direction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vanishing-point-estimation-in-uncalibrated</guid>
     </item>
     <item>
       <title>Efficient Guided Generation for Large Language Models</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-guided-generation-for-llms</guid>
     </item>
     <item>
-      <title>FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization</title>
-      <link>https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</link>
-      <description><![CDATA[To this end, we introduce a novel token mixing operator, RepMixer, a building block of FastViT, that uses structural reparameterization to lower the memory access cost by removing skip-connections in the network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvit-a-fast-hybrid-vision-transformer</guid>
+      <title>Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-for-image-restoration-and</link>
+      <description><![CDATA[Image restoration (IR) has been an indispensable and challenging task in the low-level vision field, which strives to improve the subjective quality of images distorted by various forms of degradation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-image-restoration-and</guid>
+    </item>
+    <item>
+      <title>Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models</title>
+      <link>https://paperswithcode.com/paper/plan-and-solve-prompting-improving-zero-shot</link>
+      <description><![CDATA[To address the calculation errors and improve the quality of generated reasoning steps, we extend PS prompting with more detailed instructions and derive PS+ prompting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/plan-and-solve-prompting-improving-zero-shot</guid>
     </item>
   </channel>
 </rss>
