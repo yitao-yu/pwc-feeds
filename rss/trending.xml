@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Aug 2023 09:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2023 21:05:05 +0000</lastBuildDate>
     <item>
       <title>Code Llama: Open Foundation Models for Code</title>
       <link>https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</link>
@@ -33,6 +33,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt2model-generating-deployable-models</guid>
     </item>
     <item>
+      <title>Graph of Thoughts: Solving Elaborate Problems with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</link>
+      <description><![CDATA[We introduce Graph of Thoughts (GoT): a framework that advances prompting capabilities in large language models (LLMs) beyond those offered by paradigms such as Chain-of-Thought or Tree of Thoughts (ToT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</guid>
+    </item>
+    <item>
       <title>Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities</title>
       <link>https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</link>
       <description><![CDATA[We introduce the Qwen-VL series, a set of large-scale vision-language models designed to perceive and understand both text and images.]]></description>
@@ -45,22 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/stablevideo-text-driven-consistency-aware</guid>
     </item>
     <item>
-      <title>Graph of Thoughts: Solving Elaborate Problems with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</link>
-      <description><![CDATA[We introduce Graph of Thoughts (GoT): a framework that advances prompting capabilities in large language models (LLMs) beyond those offered by paradigms such as Chain-of-Thought or Tree of Thoughts (ToT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</guid>
-    </item>
-    <item>
       <title>Dense Text-to-Image Generation with Attention Modulation</title>
       <link>https://paperswithcode.com/paper/dense-text-to-image-generation-with-attention</link>
       <description><![CDATA[To address this, we propose DenseDiffusion, a training-free method that adapts a pre-trained text-to-image model to handle such dense captions while offering control over the scene layout.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dense-text-to-image-generation-with-attention</guid>
     </item>
     <item>
-      <title>ChatHaruhi: Reviving Anime Character in Reality via Large Language Model</title>
-      <link>https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</link>
-      <description><![CDATA[Role-playing chatbots built on large language models have drawn interest, but better techniques are needed to enable mimicking specific fictional characters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</guid>
+      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
+      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
+      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
     </item>
     <item>
       <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
@@ -69,16 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
-      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
-      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
+      <title>TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition</title>
+      <link>https://paperswithcode.com/paper/tf-icon-diffusion-based-training-free-cross</link>
+      <description><![CDATA[In this paper, we propose TF-ICON, a novel Training-Free Image COmpositioN framework that harnesses the power of text-driven diffusion models for cross-domain image-guided composition.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tf-icon-diffusion-based-training-free-cross</guid>
     </item>
     <item>
-      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
-      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
-      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
+      <title>ChatHaruhi: Reviving Anime Character in Reality via Large Language Model</title>
+      <link>https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</link>
+      <description><![CDATA[Role-playing chatbots built on large language models have drawn interest, but better techniques are needed to enable mimicking specific fictional characters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</guid>
     </item>
     <item>
       <title>A Survey on Large Language Model based Autonomous Agents</title>
@@ -93,16 +93,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</guid>
     </item>
     <item>
-      <title>TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition</title>
-      <link>https://paperswithcode.com/paper/tf-icon-diffusion-based-training-free-cross</link>
-      <description><![CDATA[In this paper, we propose TF-ICON, a novel Training-Free Image COmpositioN framework that harnesses the power of text-driven diffusion models for cross-domain image-guided composition.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tf-icon-diffusion-based-training-free-cross</guid>
+      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
+      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
     </item>
     <item>
-      <title>Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation</title>
-      <link>https://paperswithcode.com/paper/scenimefy-learning-to-craft-anime-scene-via</link>
-      <description><![CDATA[The challenges of this task lie in the complexity of the scenes, the unique features of anime style, and the lack of high-quality datasets to bridge the domain gap.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scenimefy-learning-to-craft-anime-scene-via</guid>
+      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
+      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
+      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
+    </item>
+    <item>
+      <title>NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</link>
+      <description><![CDATA[In NeuS, we propose to represent a surface as the zero-level set of a signed distance function (SDF) and develop a new volume rendering method to train a neural SDF representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</guid>
     </item>
     <item>
       <title>DiffusionTrack: Diffusion Model For Multi-Object Tracking</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sentence-level-multimodal-and-language</guid>
     </item>
     <item>
-      <title>NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction</title>
-      <link>https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</link>
-      <description><![CDATA[In NeuS, we propose to represent a surface as the zero-level set of a signed distance function (SDF) and develop a new volume rendering method to train a neural SDF representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</guid>
-    </item>
-    <item>
-      <title>StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views</title>
-      <link>https://paperswithcode.com/paper/streetsurf-extending-multi-view-implicit</link>
-      <description><![CDATA[We present a novel multi-view implicit surface reconstruction technique, termed StreetSurf, that is readily applicable to street view images in widely-used autonomous driving datasets, such as Waymo-perception sequences, without necessarily requiring LiDAR data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streetsurf-extending-multi-view-implicit</guid>
+      <title>LightGlue: Local Feature Matching at Light Speed</title>
+      <link>https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</link>
+      <description><![CDATA[We introduce LightGlue, a deep neural network that learns to match local features across images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightglue-local-feature-matching-at-light</guid>
     </item>
   </channel>
 </rss>
