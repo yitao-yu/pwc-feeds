@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 09:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Aug 2023 21:06:10 +0000</lastBuildDate>
     <item>
       <title>Code Llama: Open Foundation Models for Code</title>
       <link>https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</link>
@@ -19,12 +19,6 @@
       <link>https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</link>
       <description><![CDATA[What does it take to create the Babel Fish, a tool that can help individuals translate speech between any two languages?]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</guid>
-    </item>
-    <item>
-      <title>CoDeF: Content Deformation Fields for Temporally Consistent Video Processing</title>
-      <link>https://paperswithcode.com/paper/codef-content-deformation-fields-for</link>
-      <description><![CDATA[We present the content deformation field CoDeF as a new type of video representation, which consists of a canonical content field aggregating the static contents in the entire video and a temporal deformation field recording the transformations from the canonical image (i. e., rendered from the canonical content field) to each individual frame along the time axis. Given a target video, these two fields are jointly optimized to reconstruct it through a carefully tailored rendering pipeline. We advisedly introduce some regularizations into the optimization process, urging the canonical content field to inherit semantics (e. g., the object shape) from the video. With such a design, CoDeF naturally supports lifting image algorithms for video processing, in the sense that one can apply an image algorithm to the canonical image and effortlessly propagate the outcomes to the entire video with the aid of the temporal deformation field. We experimentally show that CoDeF is able to lift image-to-image translation to video-to-video translation and lift keypoint detection to keypoint tracking without any training. More importantly, thanks to our lifting strategy that deploys the algorithms on only one image, we achieve superior cross-frame consistency in processed videos compared to existing video-to-video translation approaches, and even manage to track non-rigid objects like water and smog. Project page can be found at https://qiuyu96. github. io/CoDeF/.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codef-content-deformation-fields-for</guid>
     </item>
     <item>
       <title>Prompt2Model: Generating Deployable Models from Natural Language Instructions</title>
@@ -39,16 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</guid>
     </item>
     <item>
-      <title>Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities</title>
-      <link>https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</link>
-      <description><![CDATA[We introduce the Qwen-VL series, a set of large-scale vision-language models designed to perceive and understand both text and images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</guid>
-    </item>
-    <item>
       <title>StableVideo: Text-driven Consistency-aware Diffusion Video Editing</title>
       <link>https://paperswithcode.com/paper/stablevideo-text-driven-consistency-aware</link>
       <description><![CDATA[In this paper, we tackle this problem by introducing temporal dependency to existing text-driven diffusion models, which allows them to generate consistent appearance for the edited objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/stablevideo-text-driven-consistency-aware</guid>
+    </item>
+    <item>
+      <title>Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities</title>
+      <link>https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</link>
+      <description><![CDATA[We introduce the Qwen-VL series, a set of large-scale vision-language models designed to perceive and understand both text and images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</guid>
     </item>
     <item>
       <title>Dense Text-to-Image Generation with Attention Modulation</title>
@@ -57,16 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dense-text-to-image-generation-with-attention</guid>
     </item>
     <item>
-      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
-      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
-      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
-    </item>
-    <item>
-      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
-      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
-      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
+      <title>CoDeF: Content Deformation Fields for Temporally Consistent Video Processing</title>
+      <link>https://paperswithcode.com/paper/codef-content-deformation-fields-for</link>
+      <description><![CDATA[We present the content deformation field CoDeF as a new type of video representation, which consists of a canonical content field aggregating the static contents in the entire video and a temporal deformation field recording the transformations from the canonical image (i. e., rendered from the canonical content field) to each individual frame along the time axis. Given a target video, these two fields are jointly optimized to reconstruct it through a carefully tailored rendering pipeline. We advisedly introduce some regularizations into the optimization process, urging the canonical content field to inherit semantics (e. g., the object shape) from the video. With such a design, CoDeF naturally supports lifting image algorithms for video processing, in the sense that one can apply an image algorithm to the canonical image and effortlessly propagate the outcomes to the entire video with the aid of the temporal deformation field. We experimentally show that CoDeF is able to lift image-to-image translation to video-to-video translation and lift keypoint detection to keypoint tracking without any training. More importantly, thanks to our lifting strategy that deploys the algorithms on only one image, we achieve superior cross-frame consistency in processed videos compared to existing video-to-video translation approaches, and even manage to track non-rigid objects like water and smog. Project page can be found at https://qiuyu96. github. io/CoDeF/.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/codef-content-deformation-fields-for</guid>
     </item>
     <item>
       <title>TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition</title>
@@ -75,10 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tf-icon-diffusion-based-training-free-cross</guid>
     </item>
     <item>
-      <title>ChatHaruhi: Reviving Anime Character in Reality via Large Language Model</title>
-      <link>https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</link>
-      <description><![CDATA[Role-playing chatbots built on large language models have drawn interest, but better techniques are needed to enable mimicking specific fictional characters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</guid>
+      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
+      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
+      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
+    </item>
+    <item>
+      <title>Giraffe: Adventures in Expanding Context Lengths in LLMs</title>
+      <link>https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</link>
+      <description><![CDATA[To use these models on sequences longer than the train-time context length, one might employ techniques from the growing family of context length extrapolation methods -- most of which focus on modifying the system of positional encodings used in the attention mechanism to indicate where tokens or activations are located in the input sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/giraffe-adventures-in-expanding-context</guid>
     </item>
     <item>
       <title>A Survey on Large Language Model based Autonomous Agents</title>
@@ -87,16 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-large-language-model-based</guid>
     </item>
     <item>
-      <title>IT3D: Improved Text-to-3D Generation with Explicit View Synthesis</title>
-      <link>https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</link>
-      <description><![CDATA[Recent strides in Text-to-3D techniques have been propelled by distilling knowledge from powerful large text-to-image diffusion models (LDMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/it3d-improved-text-to-3d-generation-with</guid>
-    </item>
-    <item>
-      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
-      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
-      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
+      <title>Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation</title>
+      <link>https://paperswithcode.com/paper/scenimefy-learning-to-craft-anime-scene-via</link>
+      <description><![CDATA[The challenges of this task lie in the complexity of the scenes, the unique features of anime style, and the lack of high-quality datasets to bridge the domain gap.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scenimefy-learning-to-craft-anime-scene-via</guid>
     </item>
     <item>
       <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
@@ -105,10 +93,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
     </item>
     <item>
-      <title>NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction</title>
-      <link>https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</link>
-      <description><![CDATA[In NeuS, we propose to represent a surface as the zero-level set of a signed distance function (SDF) and develop a new volume rendering method to train a neural SDF representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neus-learning-neural-implicit-surfaces-by</guid>
+      <title>ChatHaruhi: Reviving Anime Character in Reality via Large Language Model</title>
+      <link>https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</link>
+      <description><![CDATA[Role-playing chatbots built on large language models have drawn interest, but better techniques are needed to enable mimicking specific fictional characters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatharuhi-reviving-anime-character-in</guid>
+    </item>
+    <item>
+      <title>Neuralangelo: High-Fidelity Neural Surface Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</link>
+      <description><![CDATA[Neural surface reconstruction has been shown to be powerful for recovering dense 3D surfaces via image-based neural rendering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuralangelo-high-fidelity-neural-surface-1</guid>
     </item>
     <item>
       <title>DiffusionTrack: Diffusion Model For Multi-Object Tracking</title>
@@ -117,10 +111,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiontrack-diffusion-model-for-multi</guid>
     </item>
     <item>
-      <title>SONAR: Sentence-Level Multimodal and Language-Agnostic Representations</title>
-      <link>https://paperswithcode.com/paper/sentence-level-multimodal-and-language</link>
-      <description><![CDATA[Our single text encoder, covering 200 languages, substantially outperforms existing sentence embeddings such as LASER3 and LabSE on the xsim and xsim++ multilingual similarity search tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sentence-level-multimodal-and-language</guid>
+      <title>BEVBert: Multimodal Map Pre-training for Language-guided Navigation</title>
+      <link>https://paperswithcode.com/paper/bevbert-topo-metric-map-pre-training-for</link>
+      <description><![CDATA[Concretely, we build a local metric map to explicitly aggregate incomplete observations and remove duplicates, while modeling navigation dependency in a global topological map.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bevbert-topo-metric-map-pre-training-for</guid>
+    </item>
+    <item>
+      <title>BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions</title>
+      <link>https://paperswithcode.com/paper/bliva-a-simple-multimodal-llm-for-better</link>
+      <description><![CDATA[BLIVA demonstrates significant capability in decoding real-world images, irrespective of text presence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bliva-a-simple-multimodal-llm-for-better</guid>
     </item>
     <item>
       <title>LightGlue: Local Feature Matching at Light Speed</title>
