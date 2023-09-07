@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Sep 2023 21:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 09:11:41 +0000</lastBuildDate>
     <item>
       <title>Communicative Agents for Software Development</title>
       <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
@@ -27,18 +27,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</title>
-      <link>https://paperswithcode.com/paper/point-bind-point-llm-aligning-point-cloud</link>
-      <description><![CDATA[We introduce Point-Bind, a 3D multi-modality model aligning point clouds with 2D image, language, audio, and video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-bind-point-llm-aligning-point-cloud</guid>
-    </item>
-    <item>
-      <title>DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation</title>
-      <link>https://paperswithcode.com/paper/disc-medllm-bridging-general-large-language</link>
-      <description><![CDATA[We propose DISC-MedLLM, a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disc-medllm-bridging-general-large-language</guid>
-    </item>
-    <item>
       <title>Extending Context Window of Large Language Models via Positional Interpolation</title>
       <link>https://paperswithcode.com/paper/extending-context-window-of-large-language</link>
       <description><![CDATA[We present Position Interpolation (PI) that extends the context window sizes of RoPE-based pretrained LLMs such as LLaMA models to up to 32768 with minimal fine-tuning (within 1000 steps), while demonstrating strong empirical results on various tasks that require long context, including passkey retrieval, language modeling, and long document summarization from LLaMA 7B to 65B.]]></description>
@@ -51,16 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompt2model-generating-deployable-models</guid>
     </item>
     <item>
-      <title>YaRN: Efficient Context Window Extension of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/yarn-efficient-context-window-extension-of</link>
-      <description><![CDATA[Rotary Position Embeddings (RoPE) have been shown to effectively encode positional information in transformer-based language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yarn-efficient-context-window-extension-of</guid>
+      <title>Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following</title>
+      <link>https://paperswithcode.com/paper/point-bind-point-llm-aligning-point-cloud</link>
+      <description><![CDATA[We introduce Point-Bind, a 3D multi-modality model aligning point clouds with 2D image, language, audio, and video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-bind-point-llm-aligning-point-cloud</guid>
     </item>
     <item>
-      <title>High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware Shadow Erasing Net</title>
-      <link>https://paperswithcode.com/paper/high-resolution-document-shadow-removal-via-a-1</link>
-      <description><![CDATA[We handle high-resolution document shadow removal directly via a larger-scale real-world dataset and a carefully designed frequency-aware network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-document-shadow-removal-via-a-1</guid>
+      <title>DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation</title>
+      <link>https://paperswithcode.com/paper/disc-medllm-bridging-general-large-language</link>
+      <description><![CDATA[We propose DISC-MedLLM, a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/disc-medllm-bridging-general-large-language</guid>
     </item>
     <item>
       <title>SeamlessM4T-Massively Multilingual &amp; Multimodal Machine Translation</title>
@@ -69,22 +57,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</guid>
     </item>
     <item>
-      <title>PointLLM: Empowering Large Language Models to Understand Point Clouds</title>
-      <link>https://paperswithcode.com/paper/pointllm-empowering-large-language-models-to</link>
-      <description><![CDATA[The unprecedented advancements in Large Language Models (LLMs) have created a profound impact on natural language processing but are yet to fully embrace the realm of 3D understanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pointllm-empowering-large-language-models-to</guid>
+      <title>High-Resolution Document Shadow Removal via A Large-Scale Real-World Dataset and A Frequency-Aware Shadow Erasing Net</title>
+      <link>https://paperswithcode.com/paper/high-resolution-document-shadow-removal-via-a-1</link>
+      <description><![CDATA[We handle high-resolution document shadow removal directly via a larger-scale real-world dataset and a carefully designed frequency-aware network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-document-shadow-removal-via-a-1</guid>
     </item>
     <item>
-      <title>AudioLDM 2: Learning Holistic Audio Generation with Self-supervised Pretraining</title>
-      <link>https://paperswithcode.com/paper/audioldm-2-learning-holistic-audio-generation</link>
-      <description><![CDATA[Any audio can be translated into LOA based on AudioMAE, a self-supervised pre-trained representation learning model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/audioldm-2-learning-holistic-audio-generation</guid>
+      <title>All-In-One Metrical And Functional Structure Analysis With Neighborhood Attentions on Demixed Audio</title>
+      <link>https://paperswithcode.com/paper/all-in-one-metrical-and-functional-structure</link>
+      <description><![CDATA[Music is characterized by complex hierarchical structures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/all-in-one-metrical-and-functional-structure</guid>
+    </item>
+    <item>
+      <title>YaRN: Efficient Context Window Extension of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/yarn-efficient-context-window-extension-of</link>
+      <description><![CDATA[Rotary Position Embeddings (RoPE) have been shown to effectively encode positional information in transformer-based language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yarn-efficient-context-window-extension-of</guid>
     </item>
     <item>
       <title>Graph of Thoughts: Solving Elaborate Problems with Large Language Models</title>
       <link>https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</link>
       <description><![CDATA[We introduce Graph of Thoughts (GoT): a framework that advances prompting capabilities in large language models (LLMs) beyond those offered by paradigms such as Chain-of-Thought or Tree of Thoughts (ToT).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/graph-of-thoughts-solving-elaborate-problems</guid>
+    </item>
+    <item>
+      <title>CoTracker: It is Better to Track Together</title>
+      <link>https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</link>
+      <description><![CDATA[In this paper, we thus propose CoTracker, an architecture that jointly tracks multiple points throughout an entire video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cotracker-it-is-better-to-track-together</guid>
+    </item>
+    <item>
+      <title>SoTaNa: The Open-Source Software Development Assistant</title>
+      <link>https://paperswithcode.com/paper/sotana-the-open-source-software-development</link>
+      <description><![CDATA[To meet the demands of this dynamic field, there is a growing need for an effective software development assistant.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sotana-the-open-source-software-development</guid>
+    </item>
+    <item>
+      <title>LLaSM: Large Language and Speech Model</title>
+      <link>https://paperswithcode.com/paper/llasm-large-language-and-speech-model</link>
+      <description><![CDATA[In this work, we propose Large Language and Speech Model (LLaSM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llasm-large-language-and-speech-model</guid>
     </item>
     <item>
       <title>FaceChain: A Playground for Identity-Preserving Portrait Generation</title>
@@ -99,34 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</guid>
     </item>
     <item>
-      <title>DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior</title>
-      <link>https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</link>
-      <description><![CDATA[We present DiffBIR, which leverages pretrained text-to-image diffusion models for blind image restoration problem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</guid>
-    </item>
-    <item>
       <title>SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models</title>
       <link>https://paperswithcode.com/paper/speechtokenizer-unified-speech-tokenizer-for</link>
       <description><![CDATA[Therefore, we propose SpeechTokenizer, a unified speech tokenizer for speech large language models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/speechtokenizer-unified-speech-tokenizer-for</guid>
     </item>
     <item>
-      <title>Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities</title>
-      <link>https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</link>
-      <description><![CDATA[We introduce the Qwen-VL series, a set of large-scale vision-language models designed to perceive and understand both text and images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</guid>
+      <title>DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior</title>
+      <link>https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</link>
+      <description><![CDATA[We present DiffBIR, which leverages pretrained text-to-image diffusion models for blind image restoration problem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</guid>
     </item>
     <item>
-      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
-      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
-      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
-    </item>
-    <item>
-      <title>LLaSM: Large Language and Speech Model</title>
-      <link>https://paperswithcode.com/paper/llasm-large-language-and-speech-model</link>
-      <description><![CDATA[In this work, we propose Large Language and Speech Model (LLaSM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llasm-large-language-and-speech-model</guid>
+      <title>SAM-Med2D</title>
+      <link>https://paperswithcode.com/paper/sam-med2d</link>
+      <description><![CDATA[To bridge this gap, we introduce SAM-Med2D, the most comprehensive studies on applying SAM to medical 2D images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sam-med2d</guid>
     </item>
   </channel>
 </rss>
