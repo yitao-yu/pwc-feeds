@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Sep 2023 09:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 21:05:30 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
       <description><![CDATA[An Open Source Machine Learning Framework for Everyone]]></description>
       <guid isPermaLink="true">https://github.com/tensorflow/tensorflow</guid>
+    </item>
+    <item>
+      <title>Parsing as Pretraining</title>
+      <link>https://paperswithcode.com/paper/parsing-as-pretraining</link>
+      <description><![CDATA[We first cast constituent and dependency parsing as sequence tagging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parsing-as-pretraining</guid>
     </item>
     <item>
       <title>transformers</title>
@@ -25,12 +31,6 @@
       <link>https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</link>
       <description><![CDATA[In this work, we take the first step to exploit the pre-trained (unfine-tuned) weights to mitigate backdoors in fine-tuned language models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</guid>
-    </item>
-    <item>
-      <title>Parsing as Pretraining</title>
-      <link>https://paperswithcode.com/paper/parsing-as-pretraining</link>
-      <description><![CDATA[We first cast constituent and dependency parsing as sequence tagging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parsing-as-pretraining</guid>
     </item>
     <item>
       <title>models</title>
@@ -51,16 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chain-of-thought-prompt-distillation-for</guid>
     </item>
     <item>
-      <title>MaskNet: Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask</title>
-      <link>https://paperswithcode.com/paper/masknet-introducing-feature-wise</link>
-      <description><![CDATA[We also turn the feed-forward layer in DNN model into a mixture of addictive and multiplicative feature interactions by proposing MaskBlock in this paper.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/masknet-introducing-feature-wise</guid>
-    </item>
-    <item>
       <title>High-Resolution Image Synthesis with Latent Diffusion Models</title>
       <link>https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</link>
       <description><![CDATA[By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent</guid>
+    </item>
+    <item>
+      <title>MaskNet: Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask</title>
+      <link>https://paperswithcode.com/paper/masknet-introducing-feature-wise</link>
+      <description><![CDATA[We also turn the feed-forward layer in DNN model into a mixture of addictive and multiplicative feature interactions by proposing MaskBlock in this paper.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masknet-introducing-feature-wise</guid>
     </item>
     <item>
       <title>Gender Classification and Bias Mitigation in Facial Images</title>
@@ -105,12 +105,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/crosswoz-a-large-scale-chinese-cross-domain</guid>
     </item>
     <item>
-      <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
-      <link>https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</link>
-      <description><![CDATA[In this work we introduce a new optimisation method called SAGA in the spirit of SAG, SDCA, MISO and SVRG, a set of recently proposed incremental gradient algorithms with fast linear convergence rates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</guid>
-    </item>
-    <item>
       <title>Improving the Cluster Structure Extracted from OPTICS Plots</title>
       <link>https://paperswithcode.com/paper/improving-the-cluster-structure-extracted</link>
       <description><![CDATA[Density-based clustering is closely associated with the two algorithms DBSCAN and OPTICS.]]></description>
@@ -121,6 +115,12 @@
       <link>https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</link>
       <description><![CDATA[Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</guid>
+    </item>
+    <item>
+      <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
+      <link>https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</link>
+      <description><![CDATA[In this work we introduce a new optimisation method called SAGA in the spirit of SAG, SDCA, MISO and SVRG, a set of recently proposed incremental gradient algorithms with fast linear convergence rates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</guid>
     </item>
     <item>
       <title>Adapting the Tesseract Open Source OCR Engine for Multilingual OCR</title>
