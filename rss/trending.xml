@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 21:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 09:11:45 +0000</lastBuildDate>
+    <item>
+      <title>InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</link>
+      <description><![CDATA[Leveraging our new pipeline, we create, to the best of our knowledge, the first one-step diffusion-based text-to-image generator with SD-level image quality, achieving an FID (Frechet Inception Distance) of $23. 3$ on MS COCO 2017-5k, surpassing the previous state-of-the-art technique, progressive distillation, by a significant margin ($37. 2$ $\rightarrow$ $23. 3$ in FID).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</guid>
+    </item>
     <item>
       <title>DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior</title>
       <link>https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</link>
       <description><![CDATA[We present DiffBIR, which leverages pretrained text-to-image diffusion models for blind image restoration problem.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</guid>
+    </item>
+    <item>
+      <title>Break-A-Scene: Extracting Multiple Concepts from a Single Image</title>
+      <link>https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</link>
+      <description><![CDATA[Text-to-image model personalization aims to introduce a user-provided concept to the model, allowing its synthesis in diverse contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</guid>
     </item>
     <item>
       <title>Communicative Agents for Software Development</title>
@@ -45,16 +57,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>Evaluating Explanation Methods for Multivariate Time Series Classification</title>
-      <link>https://paperswithcode.com/paper/evaluating-explanation-methods-for</link>
-      <description><![CDATA[In many applications classification alone is not enough, we often need to classify but also understand what the model learns (e. g., why was a prediction given, based on what information in the data).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-explanation-methods-for</guid>
+      <title>PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips</title>
+      <link>https://paperswithcode.com/paper/2309-03685</link>
+      <description><![CDATA[In some data-sensitive fields such as education or medicine, access to public datasets is even more limited.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/2309-03685</guid>
     </item>
     <item>
       <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
       <link>https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</link>
       <description><![CDATA[With the advance of text-to-image models (e. g., Stable Diffusion) and corresponding personalization techniques such as DreamBooth and LoRA, everyone can manifest their imagination into high-quality images at an affordable cost.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
+    </item>
+    <item>
+      <title>Assessing Neural Network Representations During Training Using Data Diffusion Spectra</title>
+      <link>https://paperswithcode.com/paper/assessing-neural-network-representations</link>
+      <description><![CDATA[We also see that there is an increase in DSMI with the class label over time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/assessing-neural-network-representations</guid>
+    </item>
+    <item>
+      <title>Evaluating Explanation Methods for Multivariate Time Series Classification</title>
+      <link>https://paperswithcode.com/paper/evaluating-explanation-methods-for</link>
+      <description><![CDATA[In many applications classification alone is not enough, we often need to classify but also understand what the model learns (e. g., why was a prediction given, based on what information in the data).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-explanation-methods-for</guid>
+    </item>
+    <item>
+      <title>GPT Can Solve Mathematical Problems Without a Calculator</title>
+      <link>https://paperswithcode.com/paper/gpt-can-solve-mathematical-problems-without-a</link>
+      <description><![CDATA[Previous studies have typically assumed that large language models are unable to accurately perform arithmetic operations, particularly multiplication of >8 digits, and operations involving decimals and fractions, without the use of calculator tools.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-can-solve-mathematical-problems-without-a</guid>
+    </item>
+    <item>
+      <title>Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications</title>
+      <link>https://paperswithcode.com/paper/kani-a-lightweight-and-highly-hackable</link>
+      <description><![CDATA[Language model applications are becoming increasingly popular and complex, often including features like tool usage and retrieval augmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kani-a-lightweight-and-highly-hackable</guid>
     </item>
     <item>
       <title>Cognitive Architectures for Language Agents</title>
@@ -69,46 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
     </item>
     <item>
-      <title>FaceChain: A Playground for Identity-Preserving Portrait Generation</title>
-      <link>https://paperswithcode.com/paper/facechain-a-playground-for-identity</link>
-      <description><![CDATA[In this paper, we present FaceChain, a personalized portrait generation framework that combines a series of customized image-generation model and a rich set of face-related perceptual understanding models (\eg, face detection, deep face embedding extraction, and facial attribute recognition), to tackle aforementioned challenges and to generate truthful personalized portraits, with only a handful of portrait images as input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/facechain-a-playground-for-identity</guid>
-    </item>
-    <item>
-      <title>GPT-InvestAR: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/gpt-investar-enhancing-stock-investment</link>
-      <description><![CDATA[This paper aims to simplify the process of assessing Annual Reports of all the firms by leveraging the capabilities of Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-investar-enhancing-stock-investment</guid>
-    </item>
-    <item>
-      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
-      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
-      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
-    </item>
-    <item>
       <title>Relay Diffusion: Unifying diffusion process across resolutions for image synthesis</title>
       <link>https://paperswithcode.com/paper/relay-diffusion-unifying-diffusion-process-1</link>
       <description><![CDATA[Diffusion models achieved great success in image synthesis, but still face challenges in high-resolution generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/relay-diffusion-unifying-diffusion-process-1</guid>
-    </item>
-    <item>
-      <title>GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction</title>
-      <link>https://paperswithcode.com/paper/go-slam-global-optimization-for-consistent-3d</link>
-      <description><![CDATA[Neural implicit representations have recently demonstrated compelling results on dense Simultaneous Localization And Mapping (SLAM) but suffer from the accumulation of errors in camera tracking and distortion in the reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/go-slam-global-optimization-for-consistent-3d</guid>
-    </item>
-    <item>
-      <title>Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications</title>
-      <link>https://paperswithcode.com/paper/kani-a-lightweight-and-highly-hackable</link>
-      <description><![CDATA[Language model applications are becoming increasingly popular and complex, often including features like tool usage and retrieval augmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kani-a-lightweight-and-highly-hackable</guid>
-    </item>
-    <item>
-      <title>PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips</title>
-      <link>https://paperswithcode.com/paper/2309-03685</link>
-      <description><![CDATA[In some data-sensitive fields such as education or medicine, access to public datasets is even more limited.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/2309-03685</guid>
     </item>
     <item>
       <title>Extending Context Window of Large Language Models via Positional Interpolation</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/extending-context-window-of-large-language</guid>
     </item>
     <item>
-      <title>SAM-Med2D</title>
-      <link>https://paperswithcode.com/paper/sam-med2d</link>
-      <description><![CDATA[To bridge this gap, we introduce SAM-Med2D, the most comprehensive studies on applying SAM to medical 2D images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sam-med2d</guid>
+      <title>EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</link>
+      <description><![CDATA[Unlike prior semantic segmentation models that rely on heavy self-attention, hardware-inefficient large-kernel convolution, or complicated topology structure to obtain good performances, our lightweight multi-scale attention achieves a global receptive field and multi-scale learning (two critical features for semantic segmentation models) with only lightweight and hardware-efficient operations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</guid>
     </item>
     <item>
-      <title>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</title>
-      <link>https://paperswithcode.com/paper/direct-preference-optimization-your-language</link>
-      <description><![CDATA[However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated reward without drifting too far from the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct-preference-optimization-your-language</guid>
+      <title>FaceChain: A Playground for Identity-Preserving Portrait Generation</title>
+      <link>https://paperswithcode.com/paper/facechain-a-playground-for-identity</link>
+      <description><![CDATA[In this paper, we present FaceChain, a personalized portrait generation framework that combines a series of customized image-generation model and a rich set of face-related perceptual understanding models (\eg, face detection, deep face embedding extraction, and facial attribute recognition), to tackle aforementioned challenges and to generate truthful personalized portraits, with only a handful of portrait images as input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/facechain-a-playground-for-identity</guid>
     </item>
   </channel>
 </rss>
