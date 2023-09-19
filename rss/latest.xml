@@ -7,91 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Sep 2023 09:12:08 +0000</lastBuildDate>
-    <item>
-      <title>CaT: Balanced Continual Graph Learning with Graph Condensation</title>
-      <link>https://paperswithcode.com/paper/cat-balanced-continual-graph-learning-with</link>
-      <description><![CDATA[Recent replay-based methods intend to solve this problem by updating the model using both (1) the entire new-coming data and (2) a sampling-based memory bank that stores replayed graphs to approximate the distribution of historical data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cat-balanced-continual-graph-learning-with</guid>
-    </item>
-    <item>
-      <title>CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation</title>
-      <link>https://paperswithcode.com/paper/catr-combinatorial-dependence-audio-queried</link>
-      <description><![CDATA[However, existing methods exhibit two limitations: 1) they address video temporal features and audio-visual interactive features separately, disregarding the inherent spatial-temporal dependence of combined audio and video, and 2) they inadequately introduce audio constraints and object-level information during the decoding stage, resulting in segmentation outcomes that fail to comply with audio directives.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/catr-combinatorial-dependence-audio-queried</guid>
-    </item>
-    <item>
-      <title>Evaluating Gender Bias of Pre-trained Language Models in Natural Language Inference by Considering All Labels</title>
-      <link>https://paperswithcode.com/paper/evaluating-gender-bias-of-pre-trained</link>
-      <description><![CDATA[In the experiment, we propose a meta-evaluation method for NLI bias measures, and then use it to confirm that our measure can evaluate bias more accurately than the baseline.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-gender-bias-of-pre-trained</guid>
-    </item>
-    <item>
-      <title>What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews</title>
-      <link>https://paperswithcode.com/paper/what-is-a-fair-diffusion-model-designing</link>
-      <description><![CDATA[Generative text-to-image (GTI) models produce high-quality images from short textual descriptions and are widely used in academic and creative domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-is-a-fair-diffusion-model-designing</guid>
-    </item>
-    <item>
-      <title>GEDepth: Ground Embedding for Monocular Depth Estimation</title>
-      <link>https://paperswithcode.com/paper/gedepth-ground-embedding-for-monocular-depth</link>
-      <description><![CDATA[Monocular depth estimation is an ill-posed problem as the same 2D image can be projected from infinite 3D scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gedepth-ground-embedding-for-monocular-depth</guid>
-    </item>
-    <item>
-      <title>Progressive Text-to-Image Diffusion with Soft Latent Direction</title>
-      <link>https://paperswithcode.com/paper/progressive-text-to-image-diffusion-with-soft</link>
-      <description><![CDATA[In spite of the rapidly evolving landscape of text-to-image generation, the synthesis and manipulation of multiple entities while adhering to specific relational constraints pose enduring challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/progressive-text-to-image-diffusion-with-soft</guid>
-    </item>
-    <item>
-      <title>FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training</title>
-      <link>https://paperswithcode.com/paper/factoformer-factorized-hyperspectral</link>
-      <description><![CDATA[However, current state-of-the-art hyperspectral transformers only tokenize the input HSI sample along the spectral dimension, resulting in the under-utilization of spatial information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/factoformer-factorized-hyperspectral</guid>
-    </item>
-    <item>
-      <title>Drawing the Same Bounding Box Twice? Coping Noisy Annotations in Object Detection with Repeated Labels</title>
-      <link>https://paperswithcode.com/paper/drawing-the-same-bounding-box-twice-coping</link>
-      <description><![CDATA[The reliability of supervised machine learning systems depends on the accuracy and availability of ground truth labels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/drawing-the-same-bounding-box-twice-coping</guid>
-    </item>
-    <item>
-      <title>Predictive Uncertainty-based Bias Mitigation in Ranking</title>
-      <link>https://paperswithcode.com/paper/predictive-uncertainty-based-bias-mitigation</link>
-      <description><![CDATA[Prior work on bias mitigation often assumes that ranking scores, which correspond to the utility that a document holds for a user, can be accurately determined.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/predictive-uncertainty-based-bias-mitigation</guid>
-    </item>
-    <item>
-      <title>Information based explanation methods for deep learning agents -- with applications on large open-source chess models</title>
-      <link>https://paperswithcode.com/paper/information-based-explanation-methods-for</link>
-      <description><![CDATA[With large chess-playing neural network models like AlphaZero contesting the state of the art within the world of computerised chess, two challenges present themselves: The question of how to explain the domain knowledge internalised by such models, and the problem that such models are not made openly available.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/information-based-explanation-methods-for</guid>
-    </item>
-    <item>
-      <title>An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models</title>
-      <link>https://paperswithcode.com/paper/an-empirical-study-of-scaling-instruct-tuned</link>
-      <description><![CDATA[We find that scaling LMM consistently enhances model performance and improves language capabilities, and performance of LoRA/QLoRA tuning of LMM are comparable to the performance of full-model fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-study-of-scaling-instruct-tuned</guid>
-    </item>
-    <item>
-      <title>R2GenGPT: Radiology Report Generation with Frozen LLMs</title>
-      <link>https://paperswithcode.com/paper/r2gengpt-radiology-report-generation-with</link>
-      <description><![CDATA[First, it attains state-of-the-art (SOTA) performance by training only the lightweight visual alignment module while freezing all the parameters of LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/r2gengpt-radiology-report-generation-with</guid>
-    </item>
-    <item>
-      <title>Efficient Concept Drift Handling for Batch Android Malware Detection Models</title>
-      <link>https://paperswithcode.com/paper/efficient-concept-drift-handling-for-batch</link>
-      <description><![CDATA[Particularly, we analyze the effect of two aspects in the efficiency and performance of the detectors: 1) the frequency with which the models are retrained, and 2) the data used for retraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-concept-drift-handling-for-batch</guid>
-    </item>
-    <item>
-      <title>LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</link>
-      <description><![CDATA[Graphic layout generation, a growing research field, plays a significant role in user engagement and information perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</guid>
-    </item>
+    <lastBuildDate>Tue, 19 Sep 2023 21:06:29 +0000</lastBuildDate>
     <item>
       <title>Holistic Geometric Feature Learning for Structured Reconstruction</title>
       <link>https://paperswithcode.com/paper/holistic-geometric-feature-learning-for</link>
@@ -99,34 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/holistic-geometric-feature-learning-for</guid>
     </item>
     <item>
-      <title>Multi-dimensional domain generalization with low-rank structures</title>
-      <link>https://paperswithcode.com/paper/multi-dimensional-domain-generalization-with</link>
-      <description><![CDATA[In conventional statistical and machine learning methods, it is typically assumed that the test data are identically distributed with the training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-dimensional-domain-generalization-with</guid>
-    </item>
-    <item>
-      <title>DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/dformer-rethinking-rgbd-representation</link>
-      <description><![CDATA[We present DFormer, a novel RGB-D pretraining framework to learn transferable representations for RGB-D segmentation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dformer-rethinking-rgbd-representation</guid>
-    </item>
-    <item>
-      <title>Investigating Zero- and Few-shot Generalization in Fact Verification</title>
-      <link>https://paperswithcode.com/paper/investigating-zero-and-few-shot-1</link>
-      <description><![CDATA[In this paper, we explore zero- and few-shot generalization for fact verification (FV), which aims to generalize the FV model trained on well-resourced domains (e. g., Wikipedia) to low-resourced domains that lack human annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/investigating-zero-and-few-shot-1</guid>
-    </item>
-    <item>
-      <title>Adapting Large Language Models via Reading Comprehension</title>
-      <link>https://paperswithcode.com/paper/adapting-large-language-models-via-reading</link>
-      <description><![CDATA[Taken inspiration from human learning via reading comprehension--practice after reading improves the ability to answer questions based on the learned knowledge--we propose a simple method for transforming raw corpora into reading comprehension texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adapting-large-language-models-via-reading</guid>
-    </item>
-    <item>
-      <title>Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-Based Action Recognition</title>
-      <link>https://paperswithcode.com/paper/multi-semantic-fusion-model-for-generalized</link>
-      <description><![CDATA[In order to solve this dilemma, we propose a multi-semantic fusion (MSF) model for improving the performance of GZSSAR, where two kinds of class-level textual descriptions (i. e., action descriptions and motion descriptions), are collected as auxiliary semantic information to enhance the learning efficacy of generalizable skeleton features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-semantic-fusion-model-for-generalized</guid>
+      <title>Walking fingerprinting</title>
+      <link>https://paperswithcode.com/paper/walking-fingerprinting</link>
+      <description><![CDATA[We consider the problem of predicting an individual's identity from accelerometry data collected during walking.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/walking-fingerprinting</guid>
     </item>
     <item>
       <title>Scalable Label-efficient Footpath Network Generation Using Remote Sensing Data and Self-supervised Learning</title>
@@ -135,16 +27,136 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-label-efficient-footpath-network</guid>
     </item>
     <item>
+      <title>Multi-dimensional domain generalization with low-rank structures</title>
+      <link>https://paperswithcode.com/paper/multi-dimensional-domain-generalization-with</link>
+      <description><![CDATA[In conventional statistical and machine learning methods, it is typically assumed that the test data are identically distributed with the training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-dimensional-domain-generalization-with</guid>
+    </item>
+    <item>
       <title>DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues</title>
       <link>https://paperswithcode.com/paper/dfil-deepfake-incremental-learning-by</link>
       <description><![CDATA[However, the accuracy of detection models degrades significantly on images generated by new deepfake methods due to the difference in data distribution.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dfil-deepfake-incremental-learning-by</guid>
     </item>
     <item>
-      <title>Walking fingerprinting</title>
-      <link>https://paperswithcode.com/paper/walking-fingerprinting</link>
-      <description><![CDATA[We consider the problem of predicting an individual's identity from accelerometry data collected during walking.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/walking-fingerprinting</guid>
+      <title>Evaluating Gender Bias of Pre-trained Language Models in Natural Language Inference by Considering All Labels</title>
+      <link>https://paperswithcode.com/paper/evaluating-gender-bias-of-pre-trained</link>
+      <description><![CDATA[In the experiment, we propose a meta-evaluation method for NLI bias measures, and then use it to confirm that our measure can evaluate bias more accurately than the baseline.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-gender-bias-of-pre-trained</guid>
+    </item>
+    <item>
+      <title>LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</link>
+      <description><![CDATA[Graphic layout generation, a growing research field, plays a significant role in user engagement and information perception.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</guid>
+    </item>
+    <item>
+      <title>R2GenGPT: Radiology Report Generation with Frozen LLMs</title>
+      <link>https://paperswithcode.com/paper/r2gengpt-radiology-report-generation-with</link>
+      <description><![CDATA[First, it attains state-of-the-art (SOTA) performance by training only the lightweight visual alignment module while freezing all the parameters of LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/r2gengpt-radiology-report-generation-with</guid>
+    </item>
+    <item>
+      <title>Predictive Uncertainty-based Bias Mitigation in Ranking</title>
+      <link>https://paperswithcode.com/paper/predictive-uncertainty-based-bias-mitigation</link>
+      <description><![CDATA[Prior work on bias mitigation often assumes that ranking scores, which correspond to the utility that a document holds for a user, can be accurately determined.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/predictive-uncertainty-based-bias-mitigation</guid>
+    </item>
+    <item>
+      <title>An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models</title>
+      <link>https://paperswithcode.com/paper/an-empirical-study-of-scaling-instruct-tuned</link>
+      <description><![CDATA[We find that scaling LMM consistently enhances model performance and improves language capabilities, and performance of LoRA/QLoRA tuning of LMM are comparable to the performance of full-model fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-empirical-study-of-scaling-instruct-tuned</guid>
+    </item>
+    <item>
+      <title>Facilitating NSFW Text Detection in Open-Domain Dialogue Systems via Knowledge Distillation</title>
+      <link>https://paperswithcode.com/paper/facilitating-nsfw-text-detection-in-open</link>
+      <description><![CDATA[NSFW (Not Safe for Work) content, in the context of a dialogue, can have severe side effects on users in open-domain dialogue systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/facilitating-nsfw-text-detection-in-open</guid>
+    </item>
+    <item>
+      <title>Information based explanation methods for deep learning agents -- with applications on large open-source chess models</title>
+      <link>https://paperswithcode.com/paper/information-based-explanation-methods-for</link>
+      <description><![CDATA[With large chess-playing neural network models like AlphaZero contesting the state of the art within the world of computerised chess, two challenges present themselves: The question of how to explain the domain knowledge internalised by such models, and the problem that such models are not made openly available.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/information-based-explanation-methods-for</guid>
+    </item>
+    <item>
+      <title>CaT: Balanced Continual Graph Learning with Graph Condensation</title>
+      <link>https://paperswithcode.com/paper/cat-balanced-continual-graph-learning-with</link>
+      <description><![CDATA[Recent replay-based methods intend to solve this problem by updating the model using both (1) the entire new-coming data and (2) a sampling-based memory bank that stores replayed graphs to approximate the distribution of historical data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cat-balanced-continual-graph-learning-with</guid>
+    </item>
+    <item>
+      <title>Efficient Concept Drift Handling for Batch Android Malware Detection Models</title>
+      <link>https://paperswithcode.com/paper/efficient-concept-drift-handling-for-batch</link>
+      <description><![CDATA[Particularly, we analyze the effect of two aspects in the efficiency and performance of the detectors: 1) the frequency with which the models are retrained, and 2) the data used for retraining.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-concept-drift-handling-for-batch</guid>
+    </item>
+    <item>
+      <title>DFormer: Rethinking RGBD Representation Learning for Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/dformer-rethinking-rgbd-representation</link>
+      <description><![CDATA[We present DFormer, a novel RGB-D pretraining framework to learn transferable representations for RGB-D segmentation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dformer-rethinking-rgbd-representation</guid>
+    </item>
+    <item>
+      <title>Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-Based Action Recognition</title>
+      <link>https://paperswithcode.com/paper/multi-semantic-fusion-model-for-generalized</link>
+      <description><![CDATA[In order to solve this dilemma, we propose a multi-semantic fusion (MSF) model for improving the performance of GZSSAR, where two kinds of class-level textual descriptions (i. e., action descriptions and motion descriptions), are collected as auxiliary semantic information to enhance the learning efficacy of generalizable skeleton features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-semantic-fusion-model-for-generalized</guid>
+    </item>
+    <item>
+      <title>Investigating Zero- and Few-shot Generalization in Fact Verification</title>
+      <link>https://paperswithcode.com/paper/investigating-zero-and-few-shot-1</link>
+      <description><![CDATA[In this paper, we explore zero- and few-shot generalization for fact verification (FV), which aims to generalize the FV model trained on well-resourced domains (e. g., Wikipedia) to low-resourced domains that lack human annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/investigating-zero-and-few-shot-1</guid>
+    </item>
+    <item>
+      <title>Drawing the Same Bounding Box Twice? Coping Noisy Annotations in Object Detection with Repeated Labels</title>
+      <link>https://paperswithcode.com/paper/drawing-the-same-bounding-box-twice-coping</link>
+      <description><![CDATA[The reliability of supervised machine learning systems depends on the accuracy and availability of ground truth labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/drawing-the-same-bounding-box-twice-coping</guid>
+    </item>
+    <item>
+      <title>CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation</title>
+      <link>https://paperswithcode.com/paper/catr-combinatorial-dependence-audio-queried</link>
+      <description><![CDATA[However, existing methods exhibit two limitations: 1) they address video temporal features and audio-visual interactive features separately, disregarding the inherent spatial-temporal dependence of combined audio and video, and 2) they inadequately introduce audio constraints and object-level information during the decoding stage, resulting in segmentation outcomes that fail to comply with audio directives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/catr-combinatorial-dependence-audio-queried</guid>
+    </item>
+    <item>
+      <title>Adapting Large Language Models via Reading Comprehension</title>
+      <link>https://paperswithcode.com/paper/adapting-large-language-models-via-reading</link>
+      <description><![CDATA[Taken inspiration from human learning via reading comprehension--practice after reading improves the ability to answer questions based on the learned knowledge--we propose a simple method for transforming raw corpora into reading comprehension texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adapting-large-language-models-via-reading</guid>
+    </item>
+    <item>
+      <title>Progressive Text-to-Image Diffusion with Soft Latent Direction</title>
+      <link>https://paperswithcode.com/paper/progressive-text-to-image-diffusion-with-soft</link>
+      <description><![CDATA[In spite of the rapidly evolving landscape of text-to-image generation, the synthesis and manipulation of multiple entities while adhering to specific relational constraints pose enduring challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/progressive-text-to-image-diffusion-with-soft</guid>
+    </item>
+    <item>
+      <title>GEDepth: Ground Embedding for Monocular Depth Estimation</title>
+      <link>https://paperswithcode.com/paper/gedepth-ground-embedding-for-monocular-depth</link>
+      <description><![CDATA[Monocular depth estimation is an ill-posed problem as the same 2D image can be projected from infinite 3D scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gedepth-ground-embedding-for-monocular-depth</guid>
+    </item>
+    <item>
+      <title>FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training</title>
+      <link>https://paperswithcode.com/paper/factoformer-factorized-hyperspectral</link>
+      <description><![CDATA[However, current state-of-the-art hyperspectral transformers only tokenize the input HSI sample along the spectral dimension, resulting in the under-utilization of spatial information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/factoformer-factorized-hyperspectral</guid>
+    </item>
+    <item>
+      <title>What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews</title>
+      <link>https://paperswithcode.com/paper/what-is-a-fair-diffusion-model-designing</link>
+      <description><![CDATA[Generative text-to-image (GTI) models produce high-quality images from short textual descriptions and are widely used in academic and creative domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/what-is-a-fair-diffusion-model-designing</guid>
+    </item>
+    <item>
+      <title>Efficient Pyramid Channel Attention Network for Pathological Myopia Detection</title>
+      <link>https://paperswithcode.com/paper/efficient-pyramid-channel-attention-network</link>
+      <description><![CDATA[Based on this, we propose an efficient pyramid channel attention (EPCA) module, which dynamically explores the relative importance of global and local lesion context information in feature maps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-pyramid-channel-attention-network</guid>
     </item>
     <item>
       <title>Globally Convergent Accelerated Algorithms for Multilinear Sparse Logistic Regression with $\ell_0$-constraints</title>
@@ -159,22 +171,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/structure-to-property-chemical-element</guid>
     </item>
     <item>
-      <title>Efficient Pyramid Channel Attention Network for Pathological Myopia Detection</title>
-      <link>https://paperswithcode.com/paper/efficient-pyramid-channel-attention-network</link>
-      <description><![CDATA[Based on this, we propose an efficient pyramid channel attention (EPCA) module, which dynamically explores the relative importance of global and local lesion context information in feature maps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-pyramid-channel-attention-network</guid>
-    </item>
-    <item>
       <title>RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation</title>
       <link>https://paperswithcode.com/paper/renderih-a-large-scale-synthetic-dataset-for</link>
       <description><![CDATA[The current interacting hand (IH) datasets are relatively simplistic in terms of background and texture, with hand joints being annotated by a machine annotator, which may result in inaccuracies, and the diversity of pose distribution is limited.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/renderih-a-large-scale-synthetic-dataset-for</guid>
-    </item>
-    <item>
-      <title>LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models</title>
-      <link>https://paperswithcode.com/paper/lidar-data-synthesis-with-denoising-diffusion</link>
-      <description><![CDATA[In this work, we present R2DM, a novel generative model for LiDAR data that can generate diverse and high-fidelity 3D scene point clouds based on the image representation of range and reflectance intensity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lidar-data-synthesis-with-denoising-diffusion</guid>
     </item>
     <item>
       <title>Deep conditional generative models for longitudinal single-slice abdominal computed tomography harmonization</title>
@@ -195,64 +195,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-understand-real</guid>
     </item>
     <item>
-      <title>Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?</title>
-      <link>https://paperswithcode.com/paper/struc-bench-are-large-language-models-really</link>
-      <description><![CDATA[In this study, we assess the capability of Current LLMs in generating complex structured data and propose a structure-aware fine-tuning approach as a solution to improve this ability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/struc-bench-are-large-language-models-really</guid>
-    </item>
-    <item>
-      <title>Distributionally Robust Post-hoc Classifiers under Prior Shifts</title>
-      <link>https://paperswithcode.com/paper/distributionally-robust-post-hoc-classifiers</link>
-      <description><![CDATA[We investigate the problem of training models that are robust to shifts caused by changes in the distribution of class-priors or group-priors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distributionally-robust-post-hoc-classifiers</guid>
-    </item>
-    <item>
-      <title>Staged Contact-Aware Global Human Motion Forecasting</title>
-      <link>https://paperswithcode.com/paper/staged-contact-aware-global-human-motion</link>
-      <description><![CDATA[So far, only Mao et al. NeurIPS'22 have addressed scene-aware global motion, cascading the prediction of future scene contact points and the global motion estimation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/staged-contact-aware-global-human-motion</guid>
-    </item>
-    <item>
-      <title>Exploring the impact of low-rank adaptation on the performance, efficiency, and regularization of RLHF</title>
-      <link>https://paperswithcode.com/paper/exploring-the-impact-of-low-rank-adaptation</link>
-      <description><![CDATA[During the last stage of RLHF, a large language model is aligned to human intents via PPO training, a process that generally requires large-scale computational resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-low-rank-adaptation</guid>
-    </item>
-    <item>
-      <title>Rethinking Learning Rate Tuning in the Era of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/rethinking-learning-rate-tuning-in-the-era-of</link>
-      <description><![CDATA[Second, we present LRBench++ to benchmark learning rate policies and facilitate learning rate tuning for both traditional DNNs and LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-learning-rate-tuning-in-the-era-of</guid>
-    </item>
-    <item>
-      <title>MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer</title>
-      <link>https://paperswithcode.com/paper/mmst-vit-climate-change-aware-crop-yield</link>
-      <description><![CDATA[In this work, we develop a deep learning-based solution, namely Multi-Modal Spatial-Temporal Vision Transformer (MMST-ViT), for predicting crop yields at the county level across the United States, by considering the effects of short-term meteorological variations during the growing season and the long-term climate change on crops.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mmst-vit-climate-change-aware-crop-yield</guid>
-    </item>
-    <item>
-      <title>AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose</title>
-      <link>https://paperswithcode.com/paper/affordpose-a-large-scale-dataset-of-hand</link>
-      <description><![CDATA[We collect a total of 26. 7K hand-object interactions, each including the 3D object shape, the part-level affordance label, and the manually adjusted hand poses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/affordpose-a-large-scale-dataset-of-hand</guid>
-    </item>
-    <item>
-      <title>Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/pixel-adapter-a-graph-based-post-processing</link>
-      <description><![CDATA[Additionally, we introduce the MLP-based Sequential Residual Block (MSRB) for robust feature extraction from text images, and a Local Contour Awareness loss ($\mathcal{L}_{lca}$) to enhance the model's perception of details.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixel-adapter-a-graph-based-post-processing</guid>
-    </item>
-    <item>
-      <title>MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/ma-sam-modality-agnostic-sam-adaptation-for</link>
-      <description><![CDATA[The Segment Anything Model (SAM), a foundation model for general image segmentation, has demonstrated impressive zero-shot performance across numerous natural image segmentation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ma-sam-modality-agnostic-sam-adaptation-for</guid>
-    </item>
-    <item>
-      <title>Interactively Teaching an Inverse Reinforcement Learner with Limited Feedback</title>
-      <link>https://paperswithcode.com/paper/interactively-teaching-an-inverse</link>
-      <description><![CDATA[In particular, we focus on the situation when the teacher has no access to the learner's model and policy, and the feedback from the learner is limited to trajectories that start from states selected by the teacher.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/interactively-teaching-an-inverse</guid>
+      <title>ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing</title>
+      <link>https://paperswithcode.com/paper/chainforge-a-visual-toolkit-for-prompt</link>
+      <description><![CDATA[Evaluating outputs of large language models (LLMs) is challenging, requiring making -- and making sense of -- many responses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chainforge-a-visual-toolkit-for-prompt</guid>
     </item>
     <item>
       <title>OmniLRS: A Photorealistic Simulator for Lunar Robotics</title>
@@ -267,46 +213,100 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/rmp-a-random-mask-pretrain-framework-for</guid>
     </item>
     <item>
-      <title>Improve Deep Forest with Learnable Layerwise Augmentation Policy Schedule</title>
-      <link>https://paperswithcode.com/paper/improve-deep-forest-with-learnable-layerwise</link>
-      <description><![CDATA[As a modern ensemble technique, Deep Forest (DF) employs a cascading structure to construct deep models, providing stronger representational power compared to traditional decision forests.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improve-deep-forest-with-learnable-layerwise</guid>
-    </item>
-    <item>
       <title>Enhancing Visual Perception in Novel Environments via Incremental Data Augmentation Based on Style Transfer</title>
       <link>https://paperswithcode.com/paper/enhancing-visual-perception-in-novel</link>
       <description><![CDATA[The deployment of autonomous agents in real-world scenarios is challenged by "unknown unknowns", i. e. novel unexpected environments not encountered during training, such as degraded signs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-visual-perception-in-novel</guid>
     </item>
     <item>
-      <title>Structural Self-Supervised Objectives for Transformers</title>
-      <link>https://paperswithcode.com/paper/structural-self-supervised-objectives-for</link>
-      <description><![CDATA[This thesis focuses on improving the pre-training of natural language models using unsupervised raw data to make them more efficient and aligned with downstream applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/structural-self-supervised-objectives-for</guid>
+      <title>Distributionally Robust Post-hoc Classifiers under Prior Shifts</title>
+      <link>https://paperswithcode.com/paper/distributionally-robust-post-hoc-classifiers</link>
+      <description><![CDATA[We investigate the problem of training models that are robust to shifts caused by changes in the distribution of class-priors or group-priors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distributionally-robust-post-hoc-classifiers</guid>
     </item>
     <item>
-      <title>Projected Task-Specific Layers for Multi-Task Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/projected-task-specific-layers-for-multi-task</link>
-      <description><![CDATA[Multi-task reinforcement learning could enable robots to scale across a wide variety of manipulation tasks in homes and workplaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/projected-task-specific-layers-for-multi-task</guid>
+      <title>Pixel Adapter: A Graph-Based Post-Processing Approach for Scene Text Image Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/pixel-adapter-a-graph-based-post-processing</link>
+      <description><![CDATA[Additionally, we introduce the MLP-based Sequential Residual Block (MSRB) for robust feature extraction from text images, and a Local Contour Awareness loss ($\mathcal{L}_{lca}$) to enhance the model's perception of details.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixel-adapter-a-graph-based-post-processing</guid>
     </item>
     <item>
-      <title>Modelling Irregularly Sampled Time Series Without Imputation</title>
-      <link>https://paperswithcode.com/paper/modelling-irregularly-sampled-time-series</link>
-      <description><![CDATA[Modelling irregularly-sampled time series (ISTS) is challenging because of missing values.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/modelling-irregularly-sampled-time-series</guid>
+      <title>MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer</title>
+      <link>https://paperswithcode.com/paper/mmst-vit-climate-change-aware-crop-yield</link>
+      <description><![CDATA[In this work, we develop a deep learning-based solution, namely Multi-Modal Spatial-Temporal Vision Transformer (MMST-ViT), for predicting crop yields at the county level across the United States, by considering the effects of short-term meteorological variations during the growing season and the long-term climate change on crops.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mmst-vit-climate-change-aware-crop-yield</guid>
     </item>
     <item>
-      <title>D3: Data Diversity Design for Systematic Generalization in Visual Question Answering</title>
-      <link>https://paperswithcode.com/paper/d3-data-diversity-design-for-systematic</link>
-      <description><![CDATA[We demonstrate that this result is independent of the similarity between the training and testing data and applies to well-known families of neural network architectures for VQA (i. e. monolithic architectures and neural module networks).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/d3-data-diversity-design-for-systematic</guid>
+      <title>Staged Contact-Aware Global Human Motion Forecasting</title>
+      <link>https://paperswithcode.com/paper/staged-contact-aware-global-human-motion</link>
+      <description><![CDATA[So far, only Mao et al. NeurIPS'22 have addressed scene-aware global motion, cascading the prediction of future scene contact points and the global motion estimation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/staged-contact-aware-global-human-motion</guid>
     </item>
     <item>
-      <title>OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection</title>
-      <link>https://paperswithcode.com/paper/occupancydetr-making-semantic-scene</link>
-      <description><![CDATA[Visual-based 3D semantic occupancy perception (also known as 3D semantic scene completion) is a new perception paradigm for robotic applications like autonomous driving.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/occupancydetr-making-semantic-scene</guid>
+      <title>Improve Deep Forest with Learnable Layerwise Augmentation Policy Schedule</title>
+      <link>https://paperswithcode.com/paper/improve-deep-forest-with-learnable-layerwise</link>
+      <description><![CDATA[As a modern ensemble technique, Deep Forest (DF) employs a cascading structure to construct deep models, providing stronger representational power compared to traditional decision forests.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improve-deep-forest-with-learnable-layerwise</guid>
+    </item>
+    <item>
+      <title>Rethinking Learning Rate Tuning in the Era of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/rethinking-learning-rate-tuning-in-the-era-of</link>
+      <description><![CDATA[Second, we present LRBench++ to benchmark learning rate policies and facilitate learning rate tuning for both traditional DNNs and LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-learning-rate-tuning-in-the-era-of</guid>
+    </item>
+    <item>
+      <title>AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose</title>
+      <link>https://paperswithcode.com/paper/affordpose-a-large-scale-dataset-of-hand</link>
+      <description><![CDATA[We collect a total of 26. 7K hand-object interactions, each including the 3D object shape, the part-level affordance label, and the manually adjusted hand poses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/affordpose-a-large-scale-dataset-of-hand</guid>
+    </item>
+    <item>
+      <title>Struc-Bench: Are Large Language Models Really Good at Generating Complex Structured Data?</title>
+      <link>https://paperswithcode.com/paper/struc-bench-are-large-language-models-really</link>
+      <description><![CDATA[In this study, we assess the capability of Current LLMs in generating complex structured data and propose a structure-aware fine-tuning approach as a solution to improve this ability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/struc-bench-are-large-language-models-really</guid>
+    </item>
+    <item>
+      <title>Interactively Teaching an Inverse Reinforcement Learner with Limited Feedback</title>
+      <link>https://paperswithcode.com/paper/interactively-teaching-an-inverse</link>
+      <description><![CDATA[In particular, we focus on the situation when the teacher has no access to the learner's model and policy, and the feedback from the learner is limited to trajectories that start from states selected by the teacher.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interactively-teaching-an-inverse</guid>
+    </item>
+    <item>
+      <title>MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/ma-sam-modality-agnostic-sam-adaptation-for</link>
+      <description><![CDATA[The Segment Anything Model (SAM), a foundation model for general image segmentation, has demonstrated impressive zero-shot performance across numerous natural image segmentation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ma-sam-modality-agnostic-sam-adaptation-for</guid>
+    </item>
+    <item>
+      <title>Exploring the impact of low-rank adaptation on the performance, efficiency, and regularization of RLHF</title>
+      <link>https://paperswithcode.com/paper/exploring-the-impact-of-low-rank-adaptation</link>
+      <description><![CDATA[During the last stage of RLHF, a large language model is aligned to human intents via PPO training, a process that generally requires large-scale computational resources.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-impact-of-low-rank-adaptation</guid>
+    </item>
+    <item>
+      <title>Rethinking Cross-Domain Pedestrian Detection: A Background-Focused Distribution Alignment Framework for Instance-Free One-Stage Detectors</title>
+      <link>https://paperswithcode.com/paper/rethinking-cross-domain-pedestrian-detection</link>
+      <description><![CDATA[Therefore, we focus on cross-domain background feature alignment while minimizing the influence of foreground features on the cross-domain alignment stage.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-cross-domain-pedestrian-detection</guid>
+    </item>
+    <item>
+      <title>Gaussian Processes with Linear Multiple Kernel: Spectrum Design and Distributed Learning for Multi-Dimensional Data</title>
+      <link>https://paperswithcode.com/paper/gaussian-processes-with-linear-multiple</link>
+      <description><![CDATA[Building on this, we propose the doubly distributed SCA (D$^2$SCA) algorithm based on the alternating direction method of multipliers (ADMM) framework, which allows us to cooperatively learn the GSM kernel in the context of big data while maintaining data privacy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussian-processes-with-linear-multiple</guid>
+    </item>
+    <item>
+      <title>URA*: Uncertainty-aware Path Planning using Image-based Aerial-to-Ground Traversability Estimation for Off-road Environments</title>
+      <link>https://paperswithcode.com/paper/ura-uncertainty-aware-path-planning-using</link>
+      <description><![CDATA[Results show that the proposed image segmentation and planning methods outperform conventional planning algorithms in terms of the quality and feasibility of the initial path, as well as the quality of replanned paths.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ura-uncertainty-aware-path-planning-using</guid>
+    </item>
+    <item>
+      <title>Heteroskedastic conformal regression</title>
+      <link>https://paperswithcode.com/paper/heteroskedastic-conformal-regression</link>
+      <description><![CDATA[Conformal prediction, and split conformal prediction as a specific implementation, offer a distribution-free approach to estimating prediction intervals with statistical guarantees.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/heteroskedastic-conformal-regression</guid>
     </item>
   </channel>
 </rss>
