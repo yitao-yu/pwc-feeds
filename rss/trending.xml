@@ -7,36 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Sep 2023 21:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 09:12:06 +0000</lastBuildDate>
     <item>
       <title>Agents: An Open-source Framework for Autonomous Language Agents</title>
       <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
       <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
-    </item>
-    <item>
-      <title>Nougat: Neural Optical Understanding for Academic Documents</title>
-      <link>https://paperswithcode.com/paper/nougat-neural-optical-understanding-for</link>
-      <description><![CDATA[Scientific knowledge is predominantly stored in books and scientific journals, often in the form of PDFs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nougat-neural-optical-understanding-for</guid>
-    </item>
-    <item>
-      <title>InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</link>
-      <description><![CDATA[Leveraging our new pipeline, we create, to the best of our knowledge, the first one-step diffusion-based text-to-image generator with SD-level image quality, achieving an FID (Frechet Inception Distance) of $23. 3$ on MS COCO 2017-5k, surpassing the previous state-of-the-art technique, progressive distillation, by a significant margin ($37. 2$ $\rightarrow$ $23. 3$ in FID).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</guid>
-    </item>
-    <item>
-      <title>PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips</title>
-      <link>https://paperswithcode.com/paper/2309-03685</link>
-      <description><![CDATA[In some data-sensitive fields such as education or medicine, access to public datasets is even more limited.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/2309-03685</guid>
-    </item>
-    <item>
-      <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
-      <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
-      <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</guid>
     </item>
     <item>
       <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
@@ -45,22 +21,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
     </item>
     <item>
-      <title>Break-A-Scene: Extracting Multiple Concepts from a Single Image</title>
-      <link>https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</link>
-      <description><![CDATA[Text-to-image model personalization aims to introduce a user-provided concept to the model, allowing its synthesis in diverse contexts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</guid>
+      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
+      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
+      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
     </item>
     <item>
-      <title>Tracking Anything with Decoupled Video Segmentation</title>
-      <link>https://paperswithcode.com/paper/tracking-anything-with-decoupled-video</link>
-      <description><![CDATA[To 'track anything' without training on video data for every individual task, we develop a decoupled video segmentation approach (DEVA), composed of task-specific image-level segmentation and class/task-agnostic bi-directional temporal propagation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tracking-anything-with-decoupled-video</guid>
+      <title>Nougat: Neural Optical Understanding for Academic Documents</title>
+      <link>https://paperswithcode.com/paper/nougat-neural-optical-understanding-for</link>
+      <description><![CDATA[Scientific knowledge is predominantly stored in books and scientific journals, often in the form of PDFs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nougat-neural-optical-understanding-for</guid>
     </item>
     <item>
-      <title>ModuleFormer: Modularity Emerges from Mixture-of-Experts</title>
-      <link>https://paperswithcode.com/paper/moduleformer-learning-modular-large-language</link>
-      <description><![CDATA[In our experiment, we found that the modular architecture enables three important abilities for large pre-trained language models: 1) Efficiency, since ModuleFormer only activates a subset of its modules for each input token, thus it could achieve the same performance as dense LLMs with more than two times throughput; 2) Extendability, ModuleFormer is more immune to catastrophic forgetting than dense LLMs and can be easily extended with new modules to learn new knowledge that is not included in the training data; 3) Specialisation, finetuning ModuleFormer could specialize a subset of modules to the finetuning task and the task-unrelated modules could be easily pruned for a lightweight deployment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moduleformer-learning-modular-large-language</guid>
+      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
+      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
+      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
+    </item>
+    <item>
+      <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
+      <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
+      <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</guid>
+    </item>
+    <item>
+      <title>PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips</title>
+      <link>https://paperswithcode.com/paper/2309-03685</link>
+      <description><![CDATA[In some data-sensitive fields such as education or medicine, access to public datasets is even more limited.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/2309-03685</guid>
+    </item>
+    <item>
+      <title>InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</link>
+      <description><![CDATA[Leveraging our new pipeline, we create, to the best of our knowledge, the first one-step diffusion-based text-to-image generator with SD-level image quality, achieving an FID (Frechet Inception Distance) of $23. 3$ on MS COCO 2017-5k, surpassing the previous state-of-the-art technique, progressive distillation, by a significant margin ($37. 2$ $\rightarrow$ $23. 3$ in FID).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</guid>
+    </item>
+    <item>
+      <title>OverFlow: Putting flows on top of neural transducers for better TTS</title>
+      <link>https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</link>
+      <description><![CDATA[Neural HMMs are a type of neural transducer recently proposed for sequence-to-sequence modelling in text-to-speech.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</guid>
+    </item>
+    <item>
+      <title>Assessing Neural Network Representations During Training Using Data Diffusion Spectra</title>
+      <link>https://paperswithcode.com/paper/assessing-neural-network-representations</link>
+      <description><![CDATA[We also see that there is an increase in DSMI with the class label over time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/assessing-neural-network-representations</guid>
     </item>
     <item>
       <title>Communicative Agents for Software Development</title>
@@ -75,34 +81,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
-      <link>https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</link>
-      <description><![CDATA[With the advance of text-to-image models (e. g., Stable Diffusion) and corresponding personalization techniques such as DreamBooth and LoRA, everyone can manifest their imagination into high-quality images at an affordable cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
-    </item>
-    <item>
-      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
-      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
-      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
-    </item>
-    <item>
-      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
-      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
-    </item>
-    <item>
-      <title>Assessing Neural Network Representations During Training Using Data Diffusion Spectra</title>
-      <link>https://paperswithcode.com/paper/assessing-neural-network-representations</link>
-      <description><![CDATA[We also see that there is an increase in DSMI with the class label over time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/assessing-neural-network-representations</guid>
+      <title>Break-A-Scene: Extracting Multiple Concepts from a Single Image</title>
+      <link>https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</link>
+      <description><![CDATA[Text-to-image model personalization aims to introduce a user-provided concept to the model, allowing its synthesis in diverse contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</guid>
     </item>
     <item>
       <title>The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants</title>
       <link>https://paperswithcode.com/paper/the-belebele-benchmark-a-parallel-reading</link>
       <description><![CDATA[We use this dataset to evaluate the capabilities of multilingual masked language models (MLMs) and large language models (LLMs).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-belebele-benchmark-a-parallel-reading</guid>
+    </item>
+    <item>
+      <title>ModuleFormer: Modularity Emerges from Mixture-of-Experts</title>
+      <link>https://paperswithcode.com/paper/moduleformer-learning-modular-large-language</link>
+      <description><![CDATA[In our experiment, we found that the modular architecture enables three important abilities for large pre-trained language models: 1) Efficiency, since ModuleFormer only activates a subset of its modules for each input token, thus it could achieve the same performance as dense LLMs with more than two times throughput; 2) Extendability, ModuleFormer is more immune to catastrophic forgetting than dense LLMs and can be easily extended with new modules to learn new knowledge that is not included in the training data; 3) Specialisation, finetuning ModuleFormer could specialize a subset of modules to the finetuning task and the task-unrelated modules could be easily pruned for a lightweight deployment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moduleformer-learning-modular-large-language</guid>
+    </item>
+    <item>
+      <title>Tracking Anything with Decoupled Video Segmentation</title>
+      <link>https://paperswithcode.com/paper/tracking-anything-with-decoupled-video</link>
+      <description><![CDATA[To 'track anything' without training on video data for every individual task, we develop a decoupled video segmentation approach (DEVA), composed of task-specific image-level segmentation and class/task-agnostic bi-directional temporal propagation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tracking-anything-with-decoupled-video</guid>
+    </item>
+    <item>
+      <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
+      <link>https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</link>
+      <description><![CDATA[With the advance of text-to-image models (e. g., Stable Diffusion) and corresponding personalization techniques such as DreamBooth and LoRA, everyone can manifest their imagination into high-quality images at an affordable cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
     </item>
     <item>
       <title>A Survey on Large Language Model based Autonomous Agents</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</guid>
     </item>
     <item>
-      <title>DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/dola-decoding-by-contrasting-layers-improves</link>
-      <description><![CDATA[Despite their impressive capabilities, large language models (LLMs) are prone to hallucinations, i. e., generating content that deviates from facts seen during pretraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dola-decoding-by-contrasting-layers-improves</guid>
-    </item>
-    <item>
-      <title>FaceChain: A Playground for Identity-Preserving Portrait Generation</title>
-      <link>https://paperswithcode.com/paper/facechain-a-playground-for-identity</link>
-      <description><![CDATA[In this paper, we present FaceChain, a personalized portrait generation framework that combines a series of customized image-generation model and a rich set of face-related perceptual understanding models (\eg, face detection, deep face embedding extraction, and facial attribute recognition), to tackle aforementioned challenges and to generate truthful personalized portraits, with only a handful of portrait images as input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/facechain-a-playground-for-identity</guid>
+      <title>Wuerstchen: Efficient Pretraining of Text-to-Image Models</title>
+      <link>https://paperswithcode.com/paper/wuerstchen-efficient-pretraining-of-text-to</link>
+      <description><![CDATA[We introduce Wuerstchen, a novel technique for text-to-image synthesis that unites competitive performance with unprecedented cost-effectiveness and ease of training on constrained hardware.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wuerstchen-efficient-pretraining-of-text-to</guid>
     </item>
   </channel>
 </rss>
