@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Sep 2023 21:05:06 +0000</lastBuildDate>
-    <item>
-      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
-      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
-      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
-    </item>
+    <lastBuildDate>Sun, 24 Sep 2023 09:10:12 +0000</lastBuildDate>
     <item>
       <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
       <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
@@ -27,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
     </item>
     <item>
-      <title>Agents: An Open-source Framework for Autonomous Language Agents</title>
-      <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
-      <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
+      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
+      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
+      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
     </item>
     <item>
       <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
@@ -39,16 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
     </item>
     <item>
-      <title>DreamLLM: Synergistic Multimodal Comprehension and Creation</title>
-      <link>https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</link>
-      <description><![CDATA[This paper presents DreamLLM, a learning framework that first achieves versatile Multimodal Large Language Models (MLLMs) empowered with frequently overlooked synergy between multimodal comprehension and creation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</guid>
-    </item>
-    <item>
-      <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
-      <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
-      <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</guid>
+      <title>Agents: An Open-source Framework for Autonomous Language Agents</title>
+      <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
+      <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
     </item>
     <item>
       <title>Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications</title>
@@ -57,16 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/kani-a-lightweight-and-highly-hackable</guid>
     </item>
     <item>
+      <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
+      <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
+      <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</guid>
+    </item>
+    <item>
       <title>Communicative Agents for Software Development</title>
       <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
       <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
     </item>
     <item>
-      <title>OverFlow: Putting flows on top of neural transducers for better TTS</title>
-      <link>https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</link>
-      <description><![CDATA[Neural HMMs are a type of neural transducer recently proposed for sequence-to-sequence modelling in text-to-speech.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</guid>
+      <title>The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"</title>
+      <link>https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b</link>
+      <description><![CDATA[This shows a failure of logical deduction that we hypothesize is caused by the Reversal Curse.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b</guid>
+    </item>
+    <item>
+      <title>DreamLLM: Synergistic Multimodal Comprehension and Creation</title>
+      <link>https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</link>
+      <description><![CDATA[This paper presents DreamLLM, a learning framework that first achieves versatile Multimodal Large Language Models (MLLMs) empowered with frequently overlooked synergy between multimodal comprehension and creation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</guid>
     </item>
     <item>
       <title>Baichuan 2: Open Large-scale Language Models</title>
@@ -75,46 +75,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models</guid>
     </item>
     <item>
-      <title>InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</link>
-      <description><![CDATA[Leveraging our new pipeline, we create, to the best of our knowledge, the first one-step diffusion-based text-to-image generator with SD-level image quality, achieving an FID (Frechet Inception Distance) of $23. 3$ on MS COCO 2017-5k, surpassing the previous state-of-the-art technique, progressive distillation, by a significant margin ($37. 2$ $\rightarrow$ $23. 3$ in FID).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</guid>
-    </item>
-    <item>
       <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
       <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
       <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>Nougat: Neural Optical Understanding for Academic Documents</title>
-      <link>https://paperswithcode.com/paper/nougat-neural-optical-understanding-for</link>
-      <description><![CDATA[Scientific knowledge is predominantly stored in books and scientific journals, often in the form of PDFs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nougat-neural-optical-understanding-for</guid>
-    </item>
-    <item>
-      <title>GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts</title>
-      <link>https://paperswithcode.com/paper/gptfuzzer-red-teaming-large-language-models</link>
-      <description><![CDATA[Notably, even starting with suboptimal seed templates, \fuzzer maintains over 90\% attack success rate against ChatGPT and Llama-2 models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gptfuzzer-red-teaming-large-language-models</guid>
-    </item>
-    <item>
-      <title>EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</link>
-      <description><![CDATA[Unlike prior semantic segmentation models that rely on heavy self-attention, hardware-inefficient large-kernel convolution, or complicated topology structure to obtain good performances, our lightweight multi-scale attention achieves a global receptive field and multi-scale learning (two critical features for semantic segmentation models) with only lightweight and hardware-efficient operations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</guid>
-    </item>
-    <item>
-      <title>LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</link>
-      <description><![CDATA[Graphic layout generation, a growing research field, plays a significant role in user engagement and information perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</guid>
-    </item>
-    <item>
-      <title>OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch</title>
-      <link>https://paperswithcode.com/paper/openba-an-open-sourced-15b-bilingual</link>
-      <description><![CDATA[This report provides the main details to pre-train an analogous model, including pre-training data processing, Bilingual Flan data collection, the empirical observations that inspire our model architecture design, training objectives of different stages, and other enhancement techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openba-an-open-sourced-15b-bilingual</guid>
+      <title>OverFlow: Putting flows on top of neural transducers for better TTS</title>
+      <link>https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</link>
+      <description><![CDATA[Neural HMMs are a type of neural transducer recently proposed for sequence-to-sequence modelling in text-to-speech.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</guid>
     </item>
     <item>
       <title>MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning</title>
@@ -123,10 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mmicl-empowering-vision-language-model-with</guid>
     </item>
     <item>
-      <title>Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism</title>
-      <link>https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</link>
-      <description><![CDATA[In the past years, YOLO-series models have emerged as the leading approaches in the area of real-time object detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</guid>
+      <title>LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</link>
+      <description><![CDATA[Graphic layout generation, a growing research field, plays a significant role in user engagement and information perception.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</guid>
+    </item>
+    <item>
+      <title>InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</link>
+      <description><![CDATA[Leveraging our new pipeline, we create, to the best of our knowledge, the first one-step diffusion-based text-to-image generator with SD-level image quality, achieving an FID (Frechet Inception Distance) of $23. 3$ on MS COCO 2017-5k, surpassing the previous state-of-the-art technique, progressive distillation, by a significant margin ($37. 2$ $\rightarrow$ $23. 3$ in FID).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</guid>
+    </item>
+    <item>
+      <title>GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts</title>
+      <link>https://paperswithcode.com/paper/gptfuzzer-red-teaming-large-language-models</link>
+      <description><![CDATA[Notably, even starting with suboptimal seed templates, \fuzzer maintains over 90\% attack success rate against ChatGPT and Llama-2 models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gptfuzzer-red-teaming-large-language-models</guid>
+    </item>
+    <item>
+      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
+      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
+      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
+    </item>
+    <item>
+      <title>EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</link>
+      <description><![CDATA[Unlike prior semantic segmentation models that rely on heavy self-attention, hardware-inefficient large-kernel convolution, or complicated topology structure to obtain good performances, our lightweight multi-scale attention achieves a global receptive field and multi-scale learning (two critical features for semantic segmentation models) with only lightweight and hardware-efficient operations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</guid>
+    </item>
+    <item>
+      <title>OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</link>
+      <description><![CDATA[To tackle this issue, we introduce an Omnidirectionally calibrated Quantization (OmniQuant) technique for LLMs, which achieves good performance in diverse quantization settings while maintaining the computational efficiency of PTQ by efficiently optimizing various quantization parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</guid>
     </item>
   </channel>
 </rss>
