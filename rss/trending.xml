@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Sep 2023 21:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2023 09:12:40 +0000</lastBuildDate>
     <item>
       <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
       <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
     </item>
     <item>
-      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
-      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
-    </item>
-    <item>
       <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
       <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
       <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
+    </item>
+    <item>
+      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
+      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
+      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
     </item>
     <item>
       <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
@@ -45,18 +45,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/kani-a-lightweight-and-highly-hackable</guid>
     </item>
     <item>
-      <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
-      <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
-      <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</guid>
-    </item>
-    <item>
-      <title>Communicative Agents for Software Development</title>
-      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
-      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
-    </item>
-    <item>
       <title>The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"</title>
       <link>https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b</link>
       <description><![CDATA[This shows a failure of logical deduction that we hypothesize is caused by the Reversal Curse.]]></description>
@@ -67,6 +55,24 @@
       <link>https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</link>
       <description><![CDATA[This paper presents DreamLLM, a learning framework that first achieves versatile Multimodal Large Language Models (MLLMs) empowered with frequently overlooked synergy between multimodal comprehension and creation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</guid>
+    </item>
+    <item>
+      <title>Communicative Agents for Software Development</title>
+      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
+      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
+    </item>
+    <item>
+      <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
+      <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
+      <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</guid>
+    </item>
+    <item>
+      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
+      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
+      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
     </item>
     <item>
       <title>Baichuan 2: Open Large-scale Language Models</title>
@@ -81,40 +87,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
+      <title>OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</link>
+      <description><![CDATA[To tackle this issue, we introduce an Omnidirectionally calibrated Quantization (OmniQuant) technique for LLMs, which achieves good performance in diverse quantization settings while maintaining the computational efficiency of PTQ by efficiently optimizing various quantization parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</guid>
+    </item>
+    <item>
       <title>OverFlow: Putting flows on top of neural transducers for better TTS</title>
       <link>https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</link>
       <description><![CDATA[Neural HMMs are a type of neural transducer recently proposed for sequence-to-sequence modelling in text-to-speech.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</guid>
     </item>
     <item>
-      <title>MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning</title>
-      <link>https://paperswithcode.com/paper/mmicl-empowering-vision-language-model-with</link>
-      <description><![CDATA[Specifically, the current VLMs primarily emphasize utilizing multi-modal data with a single image some, rather than multi-modal prompts with interleaved multiple images and text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mmicl-empowering-vision-language-model-with</guid>
+      <title>Code Llama: Open Foundation Models for Code</title>
+      <link>https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</link>
+      <description><![CDATA[We release Code Llama, a family of large language models for code based on Llama 2 providing state-of-the-art performance among open models, infilling capabilities, support for large input contexts, and zero-shot instruction following ability for programming tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</guid>
     </item>
     <item>
-      <title>LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</link>
-      <description><![CDATA[Graphic layout generation, a growing research field, plays a significant role in user engagement and information perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutnuwa-revealing-the-hidden-layout</guid>
-    </item>
-    <item>
-      <title>InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation</title>
-      <link>https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</link>
-      <description><![CDATA[Leveraging our new pipeline, we create, to the best of our knowledge, the first one-step diffusion-based text-to-image generator with SD-level image quality, achieving an FID (Frechet Inception Distance) of $23. 3$ on MS COCO 2017-5k, surpassing the previous state-of-the-art technique, progressive distillation, by a significant margin ($37. 2$ $\rightarrow$ $23. 3$ in FID).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instaflow-one-step-is-enough-for-high-quality</guid>
-    </item>
-    <item>
-      <title>GPTFUZZER : Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts</title>
-      <link>https://paperswithcode.com/paper/gptfuzzer-red-teaming-large-language-models</link>
-      <description><![CDATA[Notably, even starting with suboptimal seed templates, \fuzzer maintains over 90\% attack success rate against ChatGPT and Llama-2 models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gptfuzzer-red-teaming-large-language-models</guid>
-    </item>
-    <item>
-      <title>Focused Transformer: Contrastive Training for Context Scaling</title>
-      <link>https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</link>
-      <description><![CDATA[This novel approach enhances the structure of the (key, value) space, enabling an extension of the context length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/focused-transformer-contrastive-training-for</guid>
+      <title>Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism</title>
+      <link>https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</link>
+      <description><![CDATA[In the past years, YOLO-series models have emerged as the leading approaches in the area of real-time object detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</guid>
     </item>
     <item>
       <title>EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</guid>
     </item>
     <item>
-      <title>OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</link>
-      <description><![CDATA[To tackle this issue, we introduce an Omnidirectionally calibrated Quantization (OmniQuant) technique for LLMs, which achieves good performance in diverse quantization settings while maintaining the computational efficiency of PTQ by efficiently optimizing various quantization parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</guid>
+      <title>GPT4Image: Can Large Pre-trained Models Help Vision Models on Perception Tasks?</title>
+      <link>https://paperswithcode.com/paper/can-large-pre-trained-models-help-vision</link>
+      <description><![CDATA[We present a new learning paradigm in which the knowledge extracted from large pre-trained models are utilized to help models like CNN and ViT learn enhanced representations and achieve better performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-pre-trained-models-help-vision</guid>
+    </item>
+    <item>
+      <title>AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets</title>
+      <link>https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</link>
+      <description><![CDATA[Since the modern deep neural networks are of sophisticated design with complex architecture for the accuracy reason, the diversity on distributions of weights and activations is very high.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</guid>
     </item>
   </channel>
 </rss>
