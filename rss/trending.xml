@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Sep 2023 21:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 09:12:11 +0000</lastBuildDate>
     <item>
       <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
       <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
@@ -21,12 +21,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
     </item>
     <item>
-      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
-      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
-    </item>
-    <item>
       <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
       <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
       <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
@@ -37,6 +31,18 @@
       <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
       <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
+    </item>
+    <item>
+      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
+      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
+      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
+    </item>
+    <item>
+      <title>Communicative Agents for Software Development</title>
+      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
+      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
     </item>
     <item>
       <title>Kani: A Lightweight and Highly Hackable Framework for Building Language Model Applications</title>
@@ -57,12 +63,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamllm-synergistic-multimodal-comprehension</guid>
     </item>
     <item>
-      <title>Communicative Agents for Software Development</title>
-      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
-      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
-    </item>
-    <item>
       <title>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</title>
       <link>https://paperswithcode.com/paper/agentverse-facilitating-multi-agent</link>
       <description><![CDATA[Autonomous agents empowered by Large Language Models (LLMs) have undergone significant improvements, enabling them to generalize across a broad spectrum of tasks.]]></description>
@@ -81,6 +81,24 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/baichuan-2-open-large-scale-language-models</guid>
     </item>
     <item>
+      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
+      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
+      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
+    </item>
+    <item>
+      <title>EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</link>
+      <description><![CDATA[Unlike prior semantic segmentation models that rely on heavy self-attention, hardware-inefficient large-kernel convolution, or complicated topology structure to obtain good performances, our lightweight multi-scale attention achieves a global receptive field and multi-scale learning (two critical features for semantic segmentation models) with only lightweight and hardware-efficient operations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</guid>
+    </item>
+    <item>
+      <title>AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets</title>
+      <link>https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</link>
+      <description><![CDATA[Since the modern deep neural networks are of sophisticated design with complex architecture for the accuracy reason, the diversity on distributions of weights and activations is very high.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</guid>
+    </item>
+    <item>
       <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
       <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
       <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
@@ -93,40 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/omniquant-omnidirectionally-calibrated</guid>
     </item>
     <item>
-      <title>OverFlow: Putting flows on top of neural transducers for better TTS</title>
-      <link>https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</link>
-      <description><![CDATA[Neural HMMs are a type of neural transducer recently proposed for sequence-to-sequence modelling in text-to-speech.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/overflow-putting-flows-on-top-of-neural</guid>
+      <title>MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/mosaicfusion-diffusion-models-as-data</link>
+      <description><![CDATA[We present MosaicFusion, a simple yet effective diffusion-based data augmentation approach for large vocabulary instance segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mosaicfusion-diffusion-models-as-data</guid>
+    </item>
+    <item>
+      <title>Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement</title>
+      <link>https://paperswithcode.com/paper/retinexformer-one-stage-retinex-based</link>
+      <description><![CDATA[When enhancing low-light images, many deep learning algorithms are based on the Retinex theory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/retinexformer-one-stage-retinex-based</guid>
     </item>
     <item>
       <title>Code Llama: Open Foundation Models for Code</title>
       <link>https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</link>
       <description><![CDATA[We release Code Llama, a family of large language models for code based on Llama 2 providing state-of-the-art performance among open models, infilling capabilities, support for large input contexts, and zero-shot instruction following ability for programming tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/code-llama-open-foundation-models-for-code</guid>
-    </item>
-    <item>
-      <title>Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism</title>
-      <link>https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</link>
-      <description><![CDATA[In the past years, YOLO-series models have emerged as the leading approaches in the area of real-time object detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</guid>
-    </item>
-    <item>
-      <title>EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</link>
-      <description><![CDATA[Unlike prior semantic segmentation models that rely on heavy self-attention, hardware-inefficient large-kernel convolution, or complicated topology structure to obtain good performances, our lightweight multi-scale attention achieves a global receptive field and multi-scale learning (two critical features for semantic segmentation models) with only lightweight and hardware-efficient operations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientvit-enhanced-linear-attention-for</guid>
-    </item>
-    <item>
-      <title>GPT4Image: Can Large Pre-trained Models Help Vision Models on Perception Tasks?</title>
-      <link>https://paperswithcode.com/paper/can-large-pre-trained-models-help-vision</link>
-      <description><![CDATA[We present a new learning paradigm in which the knowledge extracted from large pre-trained models are utilized to help models like CNN and ViT learn enhanced representations and achieve better performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-pre-trained-models-help-vision</guid>
-    </item>
-    <item>
-      <title>AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets</title>
-      <link>https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</link>
-      <description><![CDATA[Since the modern deep neural networks are of sophisticated design with complex architecture for the accuracy reason, the diversity on distributions of weights and activations is very high.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</guid>
     </item>
   </channel>
 </rss>
