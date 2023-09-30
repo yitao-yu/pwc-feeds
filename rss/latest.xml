@@ -7,42 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Sep 2023 21:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2023 09:10:23 +0000</lastBuildDate>
     <item>
-      <title>Text-to-3D using Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</link>
-      <description><![CDATA[In this stage, we increase the number of Gaussians by compactness-based densification to enhance continuity and improve fidelity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</guid>
-    </item>
-    <item>
-      <title>Unmasking the Chameleons: A Benchmark for Out-of-Distribution Detection in Medical Tabular Data</title>
-      <link>https://paperswithcode.com/paper/unmasking-the-chameleons-a-benchmark-for-out</link>
-      <description><![CDATA[Despite their success, Machine Learning (ML) models do not generalize effectively to data not originating from the training distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unmasking-the-chameleons-a-benchmark-for-out</guid>
-    </item>
-    <item>
-      <title>KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models</title>
-      <link>https://paperswithcode.com/paper/klob-a-benchmark-for-assessing-knowledge</link>
-      <description><![CDATA[KLoB can serve as a benchmark for evaluating existing locating methods in language models, and can contributes a method to reassessing the validity of locality hypothesis of factual knowledge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/klob-a-benchmark-for-assessing-knowledge</guid>
-    </item>
-    <item>
-      <title>Logarithm-transform aided Gaussian Sampling for Few-Shot Learning</title>
-      <link>https://paperswithcode.com/paper/logarithm-transform-aided-gaussian-sampling</link>
-      <description><![CDATA[These methods rely on transforming the distributions of experimental data to approximate Gaussian distributions for their functioning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/logarithm-transform-aided-gaussian-sampling</guid>
-    </item>
-    <item>
-      <title>Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors</title>
-      <link>https://paperswithcode.com/paper/improving-equivariance-in-state-of-the-art-1</link>
-      <description><![CDATA[Dense depth and surface normal predictors should possess the equivariant property to cropping-and-resizing -- cropping the input image should result in cropping the same output image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-equivariance-in-state-of-the-art-1</guid>
-    </item>
-    <item>
-      <title>Mixup Your Own Pairs</title>
-      <link>https://paperswithcode.com/paper/mixup-your-own-pairs</link>
-      <description><![CDATA[In representation learning, regression has traditionally received less attention than classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mixup-your-own-pairs</guid>
+      <title>Unlikelihood Tuning on Negative Samples Amazingly Improves Zero-Shot Translation</title>
+      <link>https://paperswithcode.com/paper/unlikelihood-tuning-on-negative-samples</link>
+      <description><![CDATA[Zero-shot translation (ZST), which is generally based on a multilingual neural machine translation model, aims to translate between unseen language pairs in training data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unlikelihood-tuning-on-negative-samples</guid>
     </item>
     <item>
       <title>LawBench: Benchmarking Legal Knowledge of Large Language Models</title>
@@ -51,118 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lawbench-benchmarking-legal-knowledge-of</guid>
     </item>
     <item>
-      <title>Learning to Transform for Generalizable Instance-wise Invariance</title>
-      <link>https://paperswithcode.com/paper/learning-to-transform-for-generalizable-1</link>
-      <description><![CDATA[However, too much or too little invariance can hurt, and the correct amount is unknown a priori and dependent on the instance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-transform-for-generalizable-1</guid>
-    </item>
-    <item>
-      <title>FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding</title>
-      <link>https://paperswithcode.com/paper/forb-a-flat-object-retrieval-benchmark-for</link>
-      <description><![CDATA[Image retrieval is a fundamental task in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/forb-a-flat-object-retrieval-benchmark-for</guid>
-    </item>
-    <item>
-      <title>T-COL: Generating Counterfactual Explanations for General User Preferences on Variable Machine Learning Systems</title>
-      <link>https://paperswithcode.com/paper/t-col-generating-counterfactual-explanations</link>
-      <description><![CDATA[However, the application of CEs has been hindered by two main challenges, namely general user preferences and variable ML systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t-col-generating-counterfactual-explanations</guid>
-    </item>
-    <item>
-      <title>GAFlow: Incorporating Gaussian Attention into Optical Flow</title>
-      <link>https://paperswithcode.com/paper/gaflow-incorporating-gaussian-attention-into-1</link>
-      <description><![CDATA[Moreover, for reliable motion analysis, we provide a new Gaussian-Guided Attention Module (GGAM) which not only inherits properties from Gaussian distribution to instinctively revolve around the neighbor fields of each point but also is empowered to put the emphasis on contextually related regions during matching.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaflow-incorporating-gaussian-attention-into-1</guid>
-    </item>
-    <item>
-      <title>On the Challenges of Fully Incremental Neural Dependency Parsing</title>
-      <link>https://paperswithcode.com/paper/on-the-challenges-of-fully-incremental-neural</link>
-      <description><![CDATA[Since the popularization of BiLSTMs and Transformer-based bidirectional encoders, state-of-the-art syntactic parsers have lacked incrementality, requiring access to the whole sentence and deviating from human language processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-challenges-of-fully-incremental-neural</guid>
-    </item>
-    <item>
-      <title>ShapeDBA: Generating Effective Time Series Prototypes using ShapeDTW Barycenter Averaging</title>
-      <link>https://paperswithcode.com/paper/shapedba-generating-effective-time-series</link>
-      <description><![CDATA[Our approach uses a new form of time series average, the ShapeDTW Barycentric Average.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/shapedba-generating-effective-time-series</guid>
-    </item>
-    <item>
-      <title>Learning to Terminate in Object Navigation</title>
-      <link>https://paperswithcode.com/paper/learning-to-terminate-in-object-navigation</link>
-      <description><![CDATA[This paper tackles the critical challenge of object navigation in autonomous navigation systems, particularly focusing on the problem of target approach and episode termination in environments with long optimal episode length in Deep Reinforcement Learning (DRL) based methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-terminate-in-object-navigation</guid>
-    </item>
-    <item>
       <title>Deep Geometrized Cartoon Line Inbetweening</title>
       <link>https://paperswithcode.com/paper/deep-geometrized-cartoon-line-inbetweening-1</link>
       <description><![CDATA[To preserve the precision and detail of the line drawings, we propose a new approach, AnimeInbet, which geometrizes raster line drawings into graphs of endpoints and reframes the inbetweening task as a graph fusion problem with vertex repositioning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-geometrized-cartoon-line-inbetweening-1</guid>
     </item>
     <item>
-      <title>ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers</title>
-      <link>https://paperswithcode.com/paper/modulora-finetuning-3-bit-llms-on-consumer</link>
-      <description><![CDATA[We propose a memory-efficient finetuning algorithm for large language models (LLMs) that supports finetuning LLMs with 65B parameters in 3-bit or 4-bit precision on as little as one 48GB GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/modulora-finetuning-3-bit-llms-on-consumer</guid>
+      <title>Mixup Your Own Pairs</title>
+      <link>https://paperswithcode.com/paper/mixup-your-own-pairs</link>
+      <description><![CDATA[In representation learning, regression has traditionally received less attention than classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mixup-your-own-pairs</guid>
     </item>
     <item>
-      <title>Augmenting transformers with recursively composed multi-grained representations</title>
-      <link>https://paperswithcode.com/paper/augmenting-transformers-with-recursively</link>
-      <description><![CDATA[More interestingly, the hierarchical structures induced by ReCAT exhibit strong consistency with human-annotated syntactic trees, indicating good interpretability brought by the CIO layers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/augmenting-transformers-with-recursively</guid>
-    </item>
-    <item>
-      <title>SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/sa2-net-scale-aware-attention-network-for</link>
-      <description><![CDATA[Specifically, we propose scale-aware attention (SA2) module designed to capture inherent variations in scales and shapes of microscopic regions, such as cells, for accurate segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sa2-net-scale-aware-attention-network-for</guid>
-    </item>
-    <item>
-      <title>Geodesic Regression Characterizes 3D Shape Changes in the Female Brain During Menstruation</title>
-      <link>https://paperswithcode.com/paper/geodesic-regression-characterizes-3d-shape</link>
-      <description><![CDATA[We seek to investigate this connection by developing tools that quantify 3D shape changes that occur in the brain during sex hormone fluctuations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/geodesic-regression-characterizes-3d-shape</guid>
-    </item>
-    <item>
-      <title>Unlikelihood Tuning on Negative Samples Amazingly Improves Zero-Shot Translation</title>
-      <link>https://paperswithcode.com/paper/unlikelihood-tuning-on-negative-samples</link>
-      <description><![CDATA[Zero-shot translation (ZST), which is generally based on a multilingual neural machine translation model, aims to translate between unseen language pairs in training data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlikelihood-tuning-on-negative-samples</guid>
-    </item>
-    <item>
-      <title>Beyond Citations: Text-Based Metrics for Assessing Novelty and its Impact in Scientific Publications</title>
-      <link>https://paperswithcode.com/paper/beyond-citations-text-based-metrics-for</link>
-      <description><![CDATA[Our findings support the use of text mining both to measure novel scientific ideas at the time of publication and to measure the impact of these new ideas on later scientific work.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-citations-text-based-metrics-for</guid>
-    </item>
-    <item>
-      <title>End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks</title>
-      <link>https://paperswithcode.com/paper/end-to-end-risk-prediction-of-atrial</link>
-      <description><![CDATA[Background: Atrial fibrillation (AF) is one of the most common cardiac arrhythmias that affects millions of people each year worldwide and it is closely linked to increased risk of cardiovascular diseases such as stroke and heart failure.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-risk-prediction-of-atrial</guid>
-    </item>
-    <item>
-      <title>At Which Training Stage Does Cocde Data Help LLMs Reasoning?</title>
-      <link>https://paperswithcode.com/paper/at-which-training-stage-does-cocde-data-help</link>
-      <description><![CDATA[Inspired by the great success of code data in training LLMs, we naturally wonder at which training stage introducing code data can really help LLMs reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/at-which-training-stage-does-cocde-data-help</guid>
-    </item>
-    <item>
-      <title>QonFusion -- Quantum Approaches to Gaussian Random Variables: Applications in Stable Diffusion and Brownian Motion</title>
-      <link>https://paperswithcode.com/paper/qonfusion-quantum-approaches-to-gaussian</link>
-      <description><![CDATA[The principal theme of our research is the incorporation of Quantum Random Number Generators (QRNGs) into classical models of diffusion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qonfusion-quantum-approaches-to-gaussian</guid>
-    </item>
-    <item>
-      <title>LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite</title>
-      <link>https://paperswithcode.com/paper/lagrangebench-a-lagrangian-fluid-mechanics</link>
-      <description><![CDATA[Machine learning has been successfully applied to grid-based PDE modeling in various scientific applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lagrangebench-a-lagrangian-fluid-mechanics</guid>
-    </item>
-    <item>
-      <title>Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning</title>
-      <link>https://paperswithcode.com/paper/dark-side-augmentation-generating-diverse-1</link>
-      <description><![CDATA[We propose to train a GAN-based synthetic-image generator, translating available day-time image examples into night images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dark-side-augmentation-generating-diverse-1</guid>
+      <title>Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning</title>
+      <link>https://paperswithcode.com/paper/generalizable-heterogeneous-federated-cross</link>
+      <description><![CDATA[Federated learning is an important privacy-preserving multi-party learning paradigm, involving collaborative learning with others and local updating on private data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-heterogeneous-federated-cross</guid>
     </item>
     <item>
       <title>HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images</title>
@@ -177,100 +51,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</guid>
     </item>
     <item>
-      <title>Generalizable Heterogeneous Federated Cross-Correlation and Instance Similarity Learning</title>
-      <link>https://paperswithcode.com/paper/generalizable-heterogeneous-federated-cross</link>
-      <description><![CDATA[Federated learning is an important privacy-preserving multi-party learning paradigm, involving collaborative learning with others and local updating on private data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-heterogeneous-federated-cross</guid>
+      <title>FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding</title>
+      <link>https://paperswithcode.com/paper/forb-a-flat-object-retrieval-benchmark-for</link>
+      <description><![CDATA[Image retrieval is a fundamental task in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/forb-a-flat-object-retrieval-benchmark-for</guid>
     </item>
     <item>
-      <title>Demystifying CLIP Data</title>
-      <link>https://paperswithcode.com/paper/demystifying-clip-data</link>
-      <description><![CDATA[We believe that the main ingredient to the success of CLIP is its data and not the model architecture or pre-training objective.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-clip-data</guid>
+      <title>ShapeDBA: Generating Effective Time Series Prototypes using ShapeDTW Barycenter Averaging</title>
+      <link>https://paperswithcode.com/paper/shapedba-generating-effective-time-series</link>
+      <description><![CDATA[Our approach uses a new form of time series average, the ShapeDTW Barycentric Average.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shapedba-generating-effective-time-series</guid>
     </item>
     <item>
-      <title>Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection</title>
-      <link>https://paperswithcode.com/paper/prompt-and-align-prompt-based-social</link>
-      <description><![CDATA[Despite considerable advances in automated fake news detection, due to the timely nature of news, it remains a critical open question how to effectively predict the veracity of news articles based on limited fact-checks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-and-align-prompt-based-social</guid>
-    </item>
-    <item>
-      <title>Decoding the Workplace &amp; EOR: An Employee Survey Analysis by Data Science Techniques and Visualization</title>
-      <link>https://paperswithcode.com/paper/decoding-the-workplace-eor-an-employee-survey</link>
-      <description><![CDATA[This research study explores the new dynamics of employee-organi-zation relationships (EOR) [6] using advanced data science methodologies and presents findings through accessible visualizations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decoding-the-workplace-eor-an-employee-survey</guid>
-    </item>
-    <item>
-      <title>The Trickle-down Impact of Reward (In-)consistency on RLHF</title>
-      <link>https://paperswithcode.com/paper/the-trickle-down-impact-of-reward-in</link>
-      <description><![CDATA[We propose Contrast Instructions -- a benchmarking strategy for the consistency of RM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-trickle-down-impact-of-reward-in</guid>
-    </item>
-    <item>
-      <title>Transformer-VQ: Linear-Time Transformers via Vector Quantization</title>
-      <link>https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via</link>
-      <description><![CDATA[We introduce Transformer-VQ, a decoder-only transformer computing softmax-based dense self-attention in linear time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via</guid>
-    </item>
-    <item>
-      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
-      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
-      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
-    </item>
-    <item>
-      <title>Discovering Utility-driven Interval Rules</title>
-      <link>https://paperswithcode.com/paper/discovering-utility-driven-interval-rules</link>
-      <description><![CDATA[For artificial intelligence, high-utility sequential rule mining (HUSRM) is a knowledge discovery method that can reveal the associations between events in the sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-utility-driven-interval-rules</guid>
-    </item>
-    <item>
-      <title>A Physics Informed Machine Learning Method for Power System Model Parameter Optimization</title>
-      <link>https://paperswithcode.com/paper/a-physics-informed-machine-learning-method</link>
-      <description><![CDATA[This paper proposes a gradient descent based optimization method that relies on automatic differentiation for the computation of gradients.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-physics-informed-machine-learning-method</guid>
-    </item>
-    <item>
-      <title>A More General Theory of Diagnosis from First Principles</title>
-      <link>https://paperswithcode.com/paper/a-more-general-theory-of-diagnosis-from-first</link>
-      <description><![CDATA[This more general theory of diagnosis from first principles defines the minimal diagnosis as the set of preferred diagnosis candidates in a search space of hypotheses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-more-general-theory-of-diagnosis-from-first</guid>
-    </item>
-    <item>
-      <title>Compositional Sculpting of Iterative Generative Processes</title>
-      <link>https://paperswithcode.com/paper/compositional-sculpting-of-iterative</link>
-      <description><![CDATA[A key challenge in composing iterative generative processes, such as GFlowNets and diffusion models, is that to realize the desired target distribution, all steps of the generative process need to be coordinated, and satisfy delicate balance conditions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/compositional-sculpting-of-iterative</guid>
-    </item>
-    <item>
-      <title>Cross-Prediction-Powered Inference</title>
-      <link>https://paperswithcode.com/paper/cross-prediction-powered-inference</link>
-      <description><![CDATA[We show that cross-prediction is consistently more powerful than an adaptation of prediction-powered inference in which a fraction of the labeled data is split off and used to train the model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-prediction-powered-inference</guid>
-    </item>
-    <item>
-      <title>Differential 2D Copula Approximating Transforms via Sobolev Training: 2-Cats Networks</title>
-      <link>https://paperswithcode.com/paper/differential-2d-copula-approximating</link>
-      <description><![CDATA[Not only do we show that we can estimate the output of a 2d Copula better than the state-of-the-art, our approach is non-parametric and respects the mathematical properties of a Copula $C$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/differential-2d-copula-approximating</guid>
-    </item>
-    <item>
-      <title>Leveraging Pre-trained Language Models for Time Interval Prediction in Text-Enhanced Temporal Knowledge Graphs</title>
-      <link>https://paperswithcode.com/paper/leveraging-pre-trained-language-models-for-2</link>
-      <description><![CDATA[Most knowledge graph completion (KGC) methods learn latent representations of entities and relations of a given graph by mapping them into a vector space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-pre-trained-language-models-for-2</guid>
+      <title>Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning</title>
+      <link>https://paperswithcode.com/paper/dark-side-augmentation-generating-diverse-1</link>
+      <description><![CDATA[We propose to train a GAN-based synthetic-image generator, translating available day-time image examples into night images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dark-side-augmentation-generating-diverse-1</guid>
     </item>
     <item>
       <title>Training a Large Video Model on a Single Machine in a Day</title>
       <link>https://paperswithcode.com/paper/training-a-large-video-model-on-a-single</link>
       <description><![CDATA[Videos are big, complex to pre-process, and slow to train on.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/training-a-large-video-model-on-a-single</guid>
-    </item>
-    <item>
-      <title>Augment to Interpret: Unsupervised and Inherently Interpretable Graph Embeddings</title>
-      <link>https://paperswithcode.com/paper/augment-to-interpret-unsupervised-and</link>
-      <description><![CDATA[Unsupervised learning allows us to leverage unlabelled data, which has become abundantly available, and to create embeddings that are usable on a variety of downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/augment-to-interpret-unsupervised-and</guid>
     </item>
     <item>
       <title>A Metaheuristic for Amortized Search in High-Dimensional Parameter Spaces</title>
@@ -285,28 +87,226 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/atomsurf-surface-representation-for-learning</guid>
     </item>
     <item>
+      <title>A Physics Informed Machine Learning Method for Power System Model Parameter Optimization</title>
+      <link>https://paperswithcode.com/paper/a-physics-informed-machine-learning-method</link>
+      <description><![CDATA[This paper proposes a gradient descent based optimization method that relies on automatic differentiation for the computation of gradients.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-physics-informed-machine-learning-method</guid>
+    </item>
+    <item>
+      <title>Leveraging Pre-trained Language Models for Time Interval Prediction in Text-Enhanced Temporal Knowledge Graphs</title>
+      <link>https://paperswithcode.com/paper/leveraging-pre-trained-language-models-for-2</link>
+      <description><![CDATA[Most knowledge graph completion (KGC) methods learn latent representations of entities and relations of a given graph by mapping them into a vector space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-pre-trained-language-models-for-2</guid>
+    </item>
+    <item>
+      <title>On the Challenges of Fully Incremental Neural Dependency Parsing</title>
+      <link>https://paperswithcode.com/paper/on-the-challenges-of-fully-incremental-neural</link>
+      <description><![CDATA[Since the popularization of BiLSTMs and Transformer-based bidirectional encoders, state-of-the-art syntactic parsers have lacked incrementality, requiring access to the whole sentence and deviating from human language processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-challenges-of-fully-incremental-neural</guid>
+    </item>
+    <item>
+      <title>GAFlow: Incorporating Gaussian Attention into Optical Flow</title>
+      <link>https://paperswithcode.com/paper/gaflow-incorporating-gaussian-attention-into-1</link>
+      <description><![CDATA[Moreover, for reliable motion analysis, we provide a new Gaussian-Guided Attention Module (GGAM) which not only inherits properties from Gaussian distribution to instinctively revolve around the neighbor fields of each point but also is empowered to put the emphasis on contextually related regions during matching.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gaflow-incorporating-gaussian-attention-into-1</guid>
+    </item>
+    <item>
+      <title>Compositional Sculpting of Iterative Generative Processes</title>
+      <link>https://paperswithcode.com/paper/compositional-sculpting-of-iterative</link>
+      <description><![CDATA[A key challenge in composing iterative generative processes, such as GFlowNets and diffusion models, is that to realize the desired target distribution, all steps of the generative process need to be coordinated, and satisfy delicate balance conditions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/compositional-sculpting-of-iterative</guid>
+    </item>
+    <item>
+      <title>Discovering Utility-driven Interval Rules</title>
+      <link>https://paperswithcode.com/paper/discovering-utility-driven-interval-rules</link>
+      <description><![CDATA[For artificial intelligence, high-utility sequential rule mining (HUSRM) is a knowledge discovery method that can reveal the associations between events in the sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/discovering-utility-driven-interval-rules</guid>
+    </item>
+    <item>
+      <title>Differential 2D Copula Approximating Transforms via Sobolev Training: 2-Cats Networks</title>
+      <link>https://paperswithcode.com/paper/differential-2d-copula-approximating</link>
+      <description><![CDATA[Not only do we show that we can estimate the output of a 2d Copula better than the state-of-the-art, our approach is non-parametric and respects the mathematical properties of a Copula $C$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/differential-2d-copula-approximating</guid>
+    </item>
+    <item>
+      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
+      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
+      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
+    </item>
+    <item>
+      <title>Augment to Interpret: Unsupervised and Inherently Interpretable Graph Embeddings</title>
+      <link>https://paperswithcode.com/paper/augment-to-interpret-unsupervised-and</link>
+      <description><![CDATA[Unsupervised learning allows us to leverage unlabelled data, which has become abundantly available, and to create embeddings that are usable on a variety of downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/augment-to-interpret-unsupervised-and</guid>
+    </item>
+    <item>
+      <title>Cross-Prediction-Powered Inference</title>
+      <link>https://paperswithcode.com/paper/cross-prediction-powered-inference</link>
+      <description><![CDATA[We show that cross-prediction is consistently more powerful than an adaptation of prediction-powered inference in which a fraction of the labeled data is split off and used to train the model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-prediction-powered-inference</guid>
+    </item>
+    <item>
+      <title>Text-to-3D using Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</link>
+      <description><![CDATA[In this stage, we increase the number of Gaussians by compactness-based densification to enhance continuity and improve fidelity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</guid>
+    </item>
+    <item>
+      <title>KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models</title>
+      <link>https://paperswithcode.com/paper/klob-a-benchmark-for-assessing-knowledge</link>
+      <description><![CDATA[KLoB can serve as a benchmark for evaluating existing locating methods in language models, and can contributes a method to reassessing the validity of locality hypothesis of factual knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/klob-a-benchmark-for-assessing-knowledge</guid>
+    </item>
+    <item>
+      <title>Unmasking the Chameleons: A Benchmark for Out-of-Distribution Detection in Medical Tabular Data</title>
+      <link>https://paperswithcode.com/paper/unmasking-the-chameleons-a-benchmark-for-out</link>
+      <description><![CDATA[Despite their success, Machine Learning (ML) models do not generalize effectively to data not originating from the training distribution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unmasking-the-chameleons-a-benchmark-for-out</guid>
+    </item>
+    <item>
+      <title>At Which Training Stage Does Cocde Data Help LLMs Reasoning?</title>
+      <link>https://paperswithcode.com/paper/at-which-training-stage-does-cocde-data-help</link>
+      <description><![CDATA[Inspired by the great success of code data in training LLMs, we naturally wonder at which training stage introducing code data can really help LLMs reasoning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/at-which-training-stage-does-cocde-data-help</guid>
+    </item>
+    <item>
+      <title>Beyond Citations: Text-Based Metrics for Assessing Novelty and its Impact in Scientific Publications</title>
+      <link>https://paperswithcode.com/paper/beyond-citations-text-based-metrics-for</link>
+      <description><![CDATA[Our findings support the use of text mining both to measure novel scientific ideas at the time of publication and to measure the impact of these new ideas on later scientific work.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-citations-text-based-metrics-for</guid>
+    </item>
+    <item>
+      <title>Demystifying CLIP Data</title>
+      <link>https://paperswithcode.com/paper/demystifying-clip-data</link>
+      <description><![CDATA[We believe that the main ingredient to the success of CLIP is its data and not the model architecture or pre-training objective.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-clip-data</guid>
+    </item>
+    <item>
+      <title>Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection</title>
+      <link>https://paperswithcode.com/paper/prompt-and-align-prompt-based-social</link>
+      <description><![CDATA[Despite considerable advances in automated fake news detection, due to the timely nature of news, it remains a critical open question how to effectively predict the veracity of news articles based on limited fact-checks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-and-align-prompt-based-social</guid>
+    </item>
+    <item>
+      <title>LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite</title>
+      <link>https://paperswithcode.com/paper/lagrangebench-a-lagrangian-fluid-mechanics</link>
+      <description><![CDATA[Machine learning has been successfully applied to grid-based PDE modeling in various scientific applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lagrangebench-a-lagrangian-fluid-mechanics</guid>
+    </item>
+    <item>
+      <title>QonFusion -- Quantum Approaches to Gaussian Random Variables: Applications in Stable Diffusion and Brownian Motion</title>
+      <link>https://paperswithcode.com/paper/qonfusion-quantum-approaches-to-gaussian</link>
+      <description><![CDATA[The principal theme of our research is the incorporation of Quantum Random Number Generators (QRNGs) into classical models of diffusion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qonfusion-quantum-approaches-to-gaussian</guid>
+    </item>
+    <item>
+      <title>Transformer-VQ: Linear-Time Transformers via Vector Quantization</title>
+      <link>https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via</link>
+      <description><![CDATA[We introduce Transformer-VQ, a decoder-only transformer computing softmax-based dense self-attention in linear time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transformer-vq-linear-time-transformers-via</guid>
+    </item>
+    <item>
+      <title>End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks</title>
+      <link>https://paperswithcode.com/paper/end-to-end-risk-prediction-of-atrial</link>
+      <description><![CDATA[Background: Atrial fibrillation (AF) is one of the most common cardiac arrhythmias that affects millions of people each year worldwide and it is closely linked to increased risk of cardiovascular diseases such as stroke and heart failure.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-risk-prediction-of-atrial</guid>
+    </item>
+    <item>
+      <title>Decoding the Workplace &amp; EOR: An Employee Survey Analysis by Data Science Techniques and Visualization</title>
+      <link>https://paperswithcode.com/paper/decoding-the-workplace-eor-an-employee-survey</link>
+      <description><![CDATA[This research study explores the new dynamics of employee-organi-zation relationships (EOR) [6] using advanced data science methodologies and presents findings through accessible visualizations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decoding-the-workplace-eor-an-employee-survey</guid>
+    </item>
+    <item>
+      <title>The Trickle-down Impact of Reward (In-)consistency on RLHF</title>
+      <link>https://paperswithcode.com/paper/the-trickle-down-impact-of-reward-in</link>
+      <description><![CDATA[We propose Contrast Instructions -- a benchmarking strategy for the consistency of RM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-trickle-down-impact-of-reward-in</guid>
+    </item>
+    <item>
       <title>Controllable Text Generation with Residual Memory Transformer</title>
       <link>https://paperswithcode.com/paper/controllable-text-generation-with-residual</link>
       <description><![CDATA[Large-scale Causal Language Models (CLMs), e. g., GPT3 and ChatGPT, have brought great success in text generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/controllable-text-generation-with-residual</guid>
     </item>
     <item>
-      <title>Algebraic and Statistical Properties of the Ordinary Least Squares Interpolator</title>
-      <link>https://paperswithcode.com/paper/algebraic-and-statistical-properties-of-the</link>
-      <description><![CDATA[Deep learning research has uncovered the phenomenon of benign overfitting for over-parameterized statistical models, which has drawn significant theoretical interest in recent years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/algebraic-and-statistical-properties-of-the</guid>
+      <title>T-COL: Generating Counterfactual Explanations for General User Preferences on Variable Machine Learning Systems</title>
+      <link>https://paperswithcode.com/paper/t-col-generating-counterfactual-explanations</link>
+      <description><![CDATA[However, the application of CEs has been hindered by two main challenges, namely general user preferences and variable ML systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/t-col-generating-counterfactual-explanations</guid>
     </item>
     <item>
-      <title>End-to-End Streaming Video Temporal Action Segmentation with Reinforce Learning</title>
-      <link>https://paperswithcode.com/paper/end-to-end-streaming-video-temporal-action</link>
-      <description><![CDATA[The end-to-end SVTAS which regard TAS as an action segment clustering task can expand the application scenarios of TAS; and RL is used to alleviate the problem of inconsistent optimization objective and direction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-streaming-video-temporal-action</guid>
+      <title>Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors</title>
+      <link>https://paperswithcode.com/paper/improving-equivariance-in-state-of-the-art-1</link>
+      <description><![CDATA[Dense depth and surface normal predictors should possess the equivariant property to cropping-and-resizing -- cropping the input image should result in cropping the same output image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-equivariance-in-state-of-the-art-1</guid>
     </item>
     <item>
-      <title>Context-Aware Entity Grounding with Open-Vocabulary 3D Scene Graphs</title>
-      <link>https://paperswithcode.com/paper/context-aware-entity-grounding-with-open</link>
-      <description><![CDATA[We present an Open-Vocabulary 3D Scene Graph (OVSG), a formal framework for grounding a variety of entities, such as object instances, agents, and regions, with free-form text-based queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/context-aware-entity-grounding-with-open</guid>
+      <title>Learning to Transform for Generalizable Instance-wise Invariance</title>
+      <link>https://paperswithcode.com/paper/learning-to-transform-for-generalizable-1</link>
+      <description><![CDATA[However, too much or too little invariance can hurt, and the correct amount is unknown a priori and dependent on the instance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-transform-for-generalizable-1</guid>
+    </item>
+    <item>
+      <title>Learning to Terminate in Object Navigation</title>
+      <link>https://paperswithcode.com/paper/learning-to-terminate-in-object-navigation</link>
+      <description><![CDATA[This paper tackles the critical challenge of object navigation in autonomous navigation systems, particularly focusing on the problem of target approach and episode termination in environments with long optimal episode length in Deep Reinforcement Learning (DRL) based methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-terminate-in-object-navigation</guid>
+    </item>
+    <item>
+      <title>ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers</title>
+      <link>https://paperswithcode.com/paper/modulora-finetuning-3-bit-llms-on-consumer</link>
+      <description><![CDATA[We propose a memory-efficient finetuning algorithm for large language models (LLMs) that supports finetuning LLMs with 65B parameters in 3-bit or 4-bit precision on as little as one 48GB GPU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/modulora-finetuning-3-bit-llms-on-consumer</guid>
+    </item>
+    <item>
+      <title>Geodesic Regression Characterizes 3D Shape Changes in the Female Brain During Menstruation</title>
+      <link>https://paperswithcode.com/paper/geodesic-regression-characterizes-3d-shape</link>
+      <description><![CDATA[We seek to investigate this connection by developing tools that quantify 3D shape changes that occur in the brain during sex hormone fluctuations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/geodesic-regression-characterizes-3d-shape</guid>
+    </item>
+    <item>
+      <title>Logarithm-transform aided Gaussian Sampling for Few-Shot Learning</title>
+      <link>https://paperswithcode.com/paper/logarithm-transform-aided-gaussian-sampling</link>
+      <description><![CDATA[These methods rely on transforming the distributions of experimental data to approximate Gaussian distributions for their functioning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/logarithm-transform-aided-gaussian-sampling</guid>
+    </item>
+    <item>
+      <title>A More General Theory of Diagnosis from First Principles</title>
+      <link>https://paperswithcode.com/paper/a-more-general-theory-of-diagnosis-from-first</link>
+      <description><![CDATA[This more general theory of diagnosis from first principles defines the minimal diagnosis as the set of preferred diagnosis candidates in a search space of hypotheses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-more-general-theory-of-diagnosis-from-first</guid>
+    </item>
+    <item>
+      <title>SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/sa2-net-scale-aware-attention-network-for</link>
+      <description><![CDATA[Specifically, we propose scale-aware attention (SA2) module designed to capture inherent variations in scales and shapes of microscopic regions, such as cells, for accurate segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sa2-net-scale-aware-attention-network-for</guid>
+    </item>
+    <item>
+      <title>Augmenting transformers with recursively composed multi-grained representations</title>
+      <link>https://paperswithcode.com/paper/augmenting-transformers-with-recursively</link>
+      <description><![CDATA[More interestingly, the hierarchical structures induced by ReCAT exhibit strong consistency with human-annotated syntactic trees, indicating good interpretability brought by the CIO layers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/augmenting-transformers-with-recursively</guid>
+    </item>
+    <item>
+      <title>Multimodal Dataset for Localization, Mapping and Crop Monitoring in Citrus Tree Farms</title>
+      <link>https://paperswithcode.com/paper/multimodal-dataset-for-localization-mapping</link>
+      <description><![CDATA[In this work we introduce the CitrusFarm dataset, a comprehensive multimodal sensory dataset collected by a wheeled mobile robot operating in agricultural fields.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-dataset-for-localization-mapping</guid>
+    </item>
+    <item>
+      <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</link>
+      <description><![CDATA[In this paper, we are the first to propose a hybrid model, dubbed as Show-1, which marries pixel-based and latent-based VDMs for text-to-video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
+    </item>
+    <item>
+      <title>Improving Facade Parsing with Vision Transformers and Line Integration</title>
+      <link>https://paperswithcode.com/paper/improving-facade-parsing-with-vision</link>
+      <description><![CDATA[In this paper, we introduce Comprehensive Facade Parsing (CFP), a dataset meticulously designed to encompass the intricacies of real-world facade parsing tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-facade-parsing-with-vision</guid>
     </item>
   </channel>
 </rss>
