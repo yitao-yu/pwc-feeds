@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Sep 2023 21:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 09:10:33 +0000</lastBuildDate>
+    <item>
+      <title>Demystifying CLIP Data</title>
+      <link>https://paperswithcode.com/paper/demystifying-clip-data</link>
+      <description><![CDATA[We believe that the main ingredient to the success of CLIP is its data and not the model architecture or pre-training objective.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-clip-data</guid>
+    </item>
     <item>
       <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
       <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
       <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
+    </item>
+    <item>
+      <title>Text-to-3D using Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</link>
+      <description><![CDATA[In this stage, we increase the number of Gaussians by compactness-based densification to enhance continuity and improve fidelity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</guid>
     </item>
     <item>
       <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
@@ -27,10 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
     </item>
     <item>
-      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
-      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
-      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
+      <title>Qwen Technical Report</title>
+      <link>https://paperswithcode.com/paper/qwen-technical-report</link>
+      <description><![CDATA[Large language models (LLMs) have revolutionized the field of artificial intelligence, enabling natural language processing tasks that were previously thought to be exclusive to humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-technical-report</guid>
     </item>
     <item>
       <title>InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition</title>
@@ -39,10 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/internlm-xcomposer-a-vision-language-large</guid>
     </item>
     <item>
-      <title>Agents: An Open-source Framework for Autonomous Language Agents</title>
-      <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
-      <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
+      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
+      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
+      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
     </item>
     <item>
       <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
@@ -51,58 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
     </item>
     <item>
-      <title>FreeU: Free Lunch in Diffusion U-Net</title>
-      <link>https://paperswithcode.com/paper/freeu-free-lunch-in-diffusion-u-net</link>
-      <description><![CDATA[In this paper, we uncover the untapped potential of diffusion U-Net, which serves as a "free lunch" that substantially improves the generation quality on the fly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/freeu-free-lunch-in-diffusion-u-net</guid>
-    </item>
-    <item>
-      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
-      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
-    </item>
-    <item>
-      <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
-      <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
-      <description><![CDATA[Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
-    </item>
-    <item>
-      <title>Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement</title>
-      <link>https://paperswithcode.com/paper/retinexformer-one-stage-retinex-based</link>
-      <description><![CDATA[When enhancing low-light images, many deep learning algorithms are based on the Retinex theory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/retinexformer-one-stage-retinex-based</guid>
-    </item>
-    <item>
-      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
-      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
-      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
-    </item>
-    <item>
-      <title>DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services</title>
-      <link>https://paperswithcode.com/paper/disc-lawllm-fine-tuning-large-language-models</link>
-      <description><![CDATA[We propose DISC-LawLLM, an intelligent legal system utilizing large language models (LLMs) to provide a wide range of legal services.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disc-lawllm-fine-tuning-large-language-models</guid>
-    </item>
-    <item>
-      <title>QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</link>
-      <description><![CDATA[Recently years have witnessed a rapid development of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</guid>
-    </item>
-    <item>
-      <title>UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation</title>
-      <link>https://paperswithcode.com/paper/unitedhuman-harnessing-multi-source-data-for</link>
-      <description><![CDATA[A holistic human dataset inevitably has insufficient and low-resolution information on local parts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unitedhuman-harnessing-multi-source-data-for</guid>
-    </item>
-    <item>
-      <title>Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism</title>
-      <link>https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</link>
-      <description><![CDATA[In the past years, YOLO-series models have emerged as the leading approaches in the area of real-time object detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</guid>
+      <title>Deep Geometrized Cartoon Line Inbetweening</title>
+      <link>https://paperswithcode.com/paper/deep-geometrized-cartoon-line-inbetweening-1</link>
+      <description><![CDATA[To preserve the precision and detail of the line drawings, we propose a new approach, AnimeInbet, which geometrizes raster line drawings into graphs of endpoints and reframes the inbetweening task as a graph fusion problem with vertex repositioning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-geometrized-cartoon-line-inbetweening-1</guid>
     </item>
     <item>
       <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
@@ -111,22 +75,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
     </item>
     <item>
-      <title>AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets</title>
-      <link>https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</link>
-      <description><![CDATA[Since the modern deep neural networks are of sophisticated design with complex architecture for the accuracy reason, the diversity on distributions of weights and activations is very high.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adabin-improving-binary-neural-networks-with</guid>
+      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
+      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
+      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
     </item>
     <item>
-      <title>RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation</title>
-      <link>https://paperswithcode.com/paper/renderih-a-large-scale-synthetic-dataset-for</link>
-      <description><![CDATA[The current interacting hand (IH) datasets are relatively simplistic in terms of background and texture, with hand joints being annotated by a machine annotator, which may result in inaccuracies, and the diversity of pose distribution is limited.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/renderih-a-large-scale-synthetic-dataset-for</guid>
+      <title>FreeU: Free Lunch in Diffusion U-Net</title>
+      <link>https://paperswithcode.com/paper/freeu-free-lunch-in-diffusion-u-net</link>
+      <description><![CDATA[In this paper, we uncover the untapped potential of diffusion U-Net, which serves as a "free lunch" that substantially improves the generation quality on the fly.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freeu-free-lunch-in-diffusion-u-net</guid>
     </item>
     <item>
-      <title>GPT4Image: Can Large Pre-trained Models Help Vision Models on Perception Tasks?</title>
-      <link>https://paperswithcode.com/paper/can-large-pre-trained-models-help-vision</link>
-      <description><![CDATA[We present a new learning paradigm in which the knowledge extracted from large pre-trained models are utilized to help models like CNN and ViT learn enhanced representations and achieve better performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-pre-trained-models-help-vision</guid>
+      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
+      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
+      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
+    </item>
+    <item>
+      <title>Agents: An Open-source Framework for Autonomous Language Agents</title>
+      <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
+      <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
+    </item>
+    <item>
+      <title>Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement</title>
+      <link>https://paperswithcode.com/paper/retinexformer-one-stage-retinex-based</link>
+      <description><![CDATA[When enhancing low-light images, many deep learning algorithms are based on the Retinex theory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/retinexformer-one-stage-retinex-based</guid>
+    </item>
+    <item>
+      <title>QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</link>
+      <description><![CDATA[Recently years have witnessed a rapid development of large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</guid>
+    </item>
+    <item>
+      <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
+      <link>https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</link>
+      <description><![CDATA[To address these challenges, we introduce a system that can jointly optimize distributed execution and gradient checkpointing plans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
+    </item>
+    <item>
+      <title>Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism</title>
+      <link>https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</link>
+      <description><![CDATA[In the past years, YOLO-series models have emerged as the leading approaches in the area of real-time object detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gold-yolo-efficient-object-detector-via</guid>
+    </item>
+    <item>
+      <title>UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation</title>
+      <link>https://paperswithcode.com/paper/unitedhuman-harnessing-multi-source-data-for</link>
+      <description><![CDATA[A holistic human dataset inevitably has insufficient and low-resolution information on local parts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unitedhuman-harnessing-multi-source-data-for</guid>
     </item>
   </channel>
 </rss>
