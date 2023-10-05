@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Oct 2023 21:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 09:12:36 +0000</lastBuildDate>
+    <item>
+      <title>Efficient Streaming Language Models with Attention Sinks</title>
+      <link>https://paperswithcode.com/paper/efficient-streaming-language-models-with</link>
+      <description><![CDATA[In this paper, we first demonstrate that the emergence of attention sink is due to the strong attention scores towards initial tokens as a ``sink'' even if they are not semantically important.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-streaming-language-models-with</guid>
+    </item>
     <item>
       <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
       <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
@@ -27,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</guid>
     </item>
     <item>
-      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
-      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
-      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
+      <title>ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving</title>
+      <link>https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</link>
+      <description><![CDATA[Large language models have made significant progress in various language tasks, yet they still struggle with complex mathematics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</guid>
     </item>
     <item>
       <title>Deep Geometrized Cartoon Line Inbetweening</title>
@@ -39,70 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-geometrized-cartoon-line-inbetweening-1</guid>
     </item>
     <item>
-      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
-      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
-      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
-    </item>
-    <item>
-      <title>Communicative Agents for Software Development</title>
-      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
-      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
-    </item>
-    <item>
-      <title>QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</link>
-      <description><![CDATA[Recently years have witnessed a rapid development of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</guid>
-    </item>
-    <item>
-      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
-      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
-      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
-    </item>
-    <item>
-      <title>NExT-GPT: Any-to-Any Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</link>
-      <description><![CDATA[While recently Multimodal Large Language Models (MM-LLMs) have made exciting strides, they mostly fall prey to the limitation of only input-side multimodal understanding, without the ability to produce content in multiple modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/next-gpt-any-to-any-multimodal-llm</guid>
-    </item>
-    <item>
-      <title>ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs</title>
-      <link>https://paperswithcode.com/paper/reconcile-round-table-conference-improves</link>
-      <description><![CDATA[We also experiment with GPT-4 itself as one of the agents in ReConcile and demonstrate that its initial performance also improves by absolute 10. 0% through discussion and feedback from other agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reconcile-round-table-conference-improves</guid>
-    </item>
-    <item>
-      <title>InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition</title>
-      <link>https://paperswithcode.com/paper/internlm-xcomposer-a-vision-language-large</link>
-      <description><![CDATA[We propose InternLM-XComposer, a vision-language large model that enables advanced image-text comprehension and composition.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/internlm-xcomposer-a-vision-language-large</guid>
-    </item>
-    <item>
-      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
-      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
-      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
-    </item>
-    <item>
-      <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</link>
-      <description><![CDATA[In this paper, we are the first to propose a hybrid model, dubbed as Show-1, which marries pixel-based and latent-based VDMs for text-to-video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
-    </item>
-    <item>
-      <title>What Makes Good In-Context Examples for GPT-$3$?</title>
-      <link>https://paperswithcode.com/paper/what-makes-good-in-context-examples-for-gpt-3</link>
-      <description><![CDATA[Inspired by the recent success of leveraging a retrieval module to augment large-scale neural network models, we propose to retrieve examples that are semantically-similar to a test sample to formulate its corresponding prompt.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/what-makes-good-in-context-examples-for-gpt-3</guid>
-    </item>
-    <item>
-      <title>Agents: An Open-source Framework for Autonomous Language Agents</title>
-      <link>https://paperswithcode.com/paper/agents-an-open-source-framework-for</link>
-      <description><![CDATA[Recent advances on large language models (LLMs) enable researchers and developers to build autonomous language agents that can automatically solve various tasks and interact with environments, humans, and other agents using natural language interfaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agents-an-open-source-framework-for</guid>
+      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
+      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
+      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
     </item>
     <item>
       <title>Boolformer: Symbolic Regression of Logic Functions with Transformers</title>
@@ -111,10 +57,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/boolformer-symbolic-regression-of-logic</guid>
     </item>
     <item>
+      <title>Break-A-Scene: Extracting Multiple Concepts from a Single Image</title>
+      <link>https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</link>
+      <description><![CDATA[Text-to-image model personalization aims to introduce a user-provided concept to the model, allowing its synthesis in diverse contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/break-a-scene-extracting-multiple-concepts</guid>
+    </item>
+    <item>
+      <title>3D Gaussian Splatting for Real-Time Radiance Field Rendering</title>
+      <link>https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</link>
+      <description><![CDATA[Radiance Field methods have recently revolutionized novel-view synthesis of scenes captured with multiple photos or videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-gaussian-splatting-for-real-time-radiance</guid>
+    </item>
+    <item>
+      <title>QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</link>
+      <description><![CDATA[Recently years have witnessed a rapid development of large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qa-lora-quantization-aware-low-rank</guid>
+    </item>
+    <item>
+      <title>BayesDLL: Bayesian Deep Learning Library</title>
+      <link>https://paperswithcode.com/paper/bayesdll-bayesian-deep-learning-library</link>
+      <description><![CDATA[We release a new Bayesian neural network library for PyTorch for large-scale deep networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bayesdll-bayesian-deep-learning-library</guid>
+    </item>
+    <item>
+      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
+      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
+      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
+    </item>
+    <item>
+      <title>3D Implicit Transporter for Temporally Consistent Keypoint Discovery</title>
+      <link>https://paperswithcode.com/paper/3d-implicit-transporter-for-temporally</link>
+      <description><![CDATA[To address this issue, the Transporter method was introduced for 2D data, which reconstructs the target frame from the source frame to incorporate both spatial and temporal information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-implicit-transporter-for-temporally</guid>
+    </item>
+    <item>
       <title>Towards Explainable 3D Grounded Visual Question Answering: A New Benchmark and Strong Baseline</title>
       <link>https://paperswithcode.com/paper/towards-explainable-3d-grounded-visual</link>
       <description><![CDATA[We also propose a new 3D VQA framework to effectively predict the completely visually grounded and explainable answer.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-explainable-3d-grounded-visual</guid>
+    </item>
+    <item>
+      <title>InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists</title>
+      <link>https://paperswithcode.com/paper/instructcv-instruction-tuned-text-to-image</link>
+      <description><![CDATA[We then use a large language model to paraphrase prompt templates that convey the specific tasks to be conducted on each image, and through this process, we create a multi-modal and multi-task training dataset comprising input and output images along with annotated instructions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructcv-instruction-tuned-text-to-image</guid>
     </item>
     <item>
       <title>Simple Online and Realtime Tracking</title>
@@ -123,10 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/simple-online-and-realtime-tracking</guid>
     </item>
     <item>
-      <title>NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions</title>
-      <link>https://paperswithcode.com/paper/neurbf-a-neural-fields-representation-with-1</link>
-      <description><![CDATA[The spatial positions of their neural features are fixed on grid nodes and cannot well adapt to target signals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neurbf-a-neural-fields-representation-with-1</guid>
+      <title>Training a Large Video Model on a Single Machine in a Day</title>
+      <link>https://paperswithcode.com/paper/training-a-large-video-model-on-a-single</link>
+      <description><![CDATA[Videos are big, complex to pre-process, and slow to train on.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-a-large-video-model-on-a-single</guid>
+    </item>
+    <item>
+      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
+      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
+      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
+    </item>
+    <item>
+      <title>Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference</title>
+      <link>https://paperswithcode.com/paper/cost-effective-hyperparameter-optimization</link>
+      <description><![CDATA[Large Language Models (LLMs) have sparked significant interest in their generative capabilities, leading to the development of various commercial applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cost-effective-hyperparameter-optimization</guid>
     </item>
   </channel>
 </rss>
