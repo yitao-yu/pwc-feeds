@@ -7,42 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Oct 2023 09:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Oct 2023 21:05:37 +0000</lastBuildDate>
     <item>
       <title>Efficient Streaming Language Models with Attention Sinks</title>
       <link>https://paperswithcode.com/paper/efficient-streaming-language-models-with</link>
       <description><![CDATA[In this paper, we first demonstrate that the emergence of attention sink is due to the strong attention scores towards initial tokens as a ``sink'' even if they are not semantically important.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-streaming-language-models-with</guid>
-    </item>
-    <item>
-      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
-      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
-      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
-    </item>
-    <item>
-      <title>Language Models Represent Space and Time</title>
-      <link>https://paperswithcode.com/paper/language-models-represent-space-and-time</link>
-      <description><![CDATA[The capabilities of large language models (LLMs) have sparked debate over whether such systems just learn an enormous collection of superficial statistics or a coherent model of the data generating process -- a world model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-represent-space-and-time</guid>
-    </item>
-    <item>
-      <title>Bayesian Flow Networks</title>
-      <link>https://paperswithcode.com/paper/bayesian-flow-networks</link>
-      <description><![CDATA[Notably, the network inputs for discrete data lie on the probability simplex, and are therefore natively differentiable, paving the way for gradient-based sample guidance and few-step generation in discrete domains such as language modelling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bayesian-flow-networks</guid>
-    </item>
-    <item>
-      <title>Representation Engineering: A Top-Down Approach to AI Transparency</title>
-      <link>https://paperswithcode.com/paper/representation-engineering-a-top-down</link>
-      <description><![CDATA[In this paper, we identify and characterize the emerging area of representation engineering (RepE), an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/representation-engineering-a-top-down</guid>
-    </item>
-    <item>
-      <title>Communicative Agents for Software Development</title>
-      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
-      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
     </item>
     <item>
       <title>Decoding speech perception from non-invasive brain recordings</title>
@@ -51,16 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/decoding-speech-from-non-invasive-brain</guid>
     </item>
     <item>
-      <title>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</title>
-      <link>https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</link>
-      <description><![CDATA[Large Language Models (LLMs) have garnered significant attention for their advancements in natural language processing, demonstrating unparalleled prowess in text comprehension and generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</guid>
+      <title>Aligning Text-to-Image Diffusion Models with Reward Backpropagation</title>
+      <link>https://paperswithcode.com/paper/aligning-text-to-image-diffusion-models-with</link>
+      <description><![CDATA[Due to their unsupervised training, controlling their behavior in downstream tasks, such as maximizing human-perceived image quality, image-text alignment, or ethical image generation, is difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-text-to-image-diffusion-models-with</guid>
     </item>
     <item>
-      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
-      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
-      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
+      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
+      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
+      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
     </item>
     <item>
       <title>Can large language models provide useful feedback on research papers? A large-scale empirical analysis</title>
@@ -69,28 +39,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-provide-useful</guid>
     </item>
     <item>
+      <title>Representation Engineering: A Top-Down Approach to AI Transparency</title>
+      <link>https://paperswithcode.com/paper/representation-engineering-a-top-down</link>
+      <description><![CDATA[In this paper, we identify and characterize the emerging area of representation engineering (RepE), an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/representation-engineering-a-top-down</guid>
+    </item>
+    <item>
+      <title>Language Models Represent Space and Time</title>
+      <link>https://paperswithcode.com/paper/language-models-represent-space-and-time</link>
+      <description><![CDATA[The capabilities of large language models (LLMs) have sparked debate over whether such systems just learn an enormous collection of superficial statistics or a coherent model of the data generating process -- a world model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-represent-space-and-time</guid>
+    </item>
+    <item>
+      <title>Communicative Agents for Software Development</title>
+      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
+      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
+    </item>
+    <item>
+      <title>GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction</title>
+      <link>https://paperswithcode.com/paper/gollie-annotation-guidelines-improve-zero</link>
+      <description><![CDATA[Previous attempts to leverage such information have failed, even with the largest models, as they are not able to follow the guidelines out-of-the-box.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gollie-annotation-guidelines-improve-zero</guid>
+    </item>
+    <item>
       <title>MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning</title>
       <link>https://paperswithcode.com/paper/mathcoder-seamless-code-integration-in-llms</link>
       <description><![CDATA[In this paper, we present a method to fine-tune open-source language models, enabling them to use code for modeling and deriving math equations and, consequently, enhancing their mathematical reasoning abilities.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mathcoder-seamless-code-integration-in-llms</guid>
     </item>
     <item>
-      <title>AutoAgents: A Framework for Automatic Agent Generation</title>
-      <link>https://paperswithcode.com/paper/autoagents-a-framework-for-automatic-agent</link>
-      <description><![CDATA[Therefore, we introduce AutoAgents, an innovative framework that adaptively generates and coordinates multiple specialized agents to build an AI team according to different tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autoagents-a-framework-for-automatic-agent</guid>
-    </item>
-    <item>
-      <title>Invisible Image Watermarks Are Provably Removable Using Generative AI</title>
-      <link>https://paperswithcode.com/paper/generative-autoencoders-as-watermark</link>
-      <description><![CDATA[However, if we do not require the watermarked image to look the same as the original one, watermarks that keep the image semantically similar can be an alternative defense against our attack.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-autoencoders-as-watermark</guid>
-    </item>
-    <item>
-      <title>RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/rolellm-benchmarking-eliciting-and-enhancing</link>
-      <description><![CDATA[The advent of Large Language Models (LLMs) has paved the way for complex tasks such as role-playing, which enhances user interactions by enabling models to imitate various characters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rolellm-benchmarking-eliciting-and-enhancing</guid>
+      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
+      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
+      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
     </item>
     <item>
       <title>InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists</title>
@@ -99,10 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instructcv-instruction-tuned-text-to-image</guid>
     </item>
     <item>
-      <title>ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving</title>
-      <link>https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</link>
-      <description><![CDATA[Large language models have made significant progress in various language tasks, yet they still struggle with complex mathematics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</guid>
+      <title>AutoAgents: A Framework for Automatic Agent Generation</title>
+      <link>https://paperswithcode.com/paper/autoagents-a-framework-for-automatic-agent</link>
+      <description><![CDATA[Therefore, we introduce AutoAgents, an innovative framework that adaptively generates and coordinates multiple specialized agents to build an AI team according to different tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autoagents-a-framework-for-automatic-agent</guid>
+    </item>
+    <item>
+      <title>Benchmarking Large Language Models As AI Research Agents</title>
+      <link>https://paperswithcode.com/paper/benchmarking-large-language-models-as-ai</link>
+      <description><![CDATA[Can we build AI research agents to perform these long-horizon tasks?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-large-language-models-as-ai</guid>
+    </item>
+    <item>
+      <title>Invisible Image Watermarks Are Provably Removable Using Generative AI</title>
+      <link>https://paperswithcode.com/paper/generative-autoencoders-as-watermark</link>
+      <description><![CDATA[However, if we do not require the watermarked image to look the same as the original one, watermarks that keep the image semantically similar can be an alternative defense against our attack.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-autoencoders-as-watermark</guid>
     </item>
     <item>
       <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
@@ -111,22 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
     </item>
     <item>
-      <title>Text-to-3D using Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</link>
-      <description><![CDATA[In this stage, we increase the number of Gaussians by compactness-based densification to enhance continuity and improve fidelity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-to-3d-using-gaussian-splatting</guid>
+      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
+      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
+      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
     </item>
     <item>
-      <title>Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP</title>
-      <link>https://paperswithcode.com/paper/demonstrate-search-predict-composing</link>
-      <description><![CDATA[Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demonstrate-search-predict-composing</guid>
+      <title>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</title>
+      <link>https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</link>
+      <description><![CDATA[Large Language Models (LLMs) have garnered significant attention for their advancements in natural language processing, demonstrating unparalleled prowess in text comprehension and generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</guid>
     </item>
     <item>
-      <title>DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines</title>
-      <link>https://paperswithcode.com/paper/dspy-compiling-declarative-language-model</link>
-      <description><![CDATA[The ML community is rapidly exploring techniques for prompting language models (LMs) and for stacking them into pipelines that solve complex tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dspy-compiling-declarative-language-model</guid>
+      <title>Bayesian Flow Networks</title>
+      <link>https://paperswithcode.com/paper/bayesian-flow-networks</link>
+      <description><![CDATA[Notably, the network inputs for discrete data lie on the probability simplex, and are therefore natively differentiable, paving the way for gradient-based sample guidance and few-step generation in discrete domains such as language modelling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bayesian-flow-networks</guid>
+    </item>
+    <item>
+      <title>FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation</title>
+      <link>https://paperswithcode.com/paper/freshllms-refreshing-large-language-models</link>
+      <description><![CDATA[Specifically, we introduce FreshQA, a novel dynamic QA benchmark encompassing a diverse range of question and answer types, including questions that require fast-changing world knowledge as well as questions with false premises that need to be debunked.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freshllms-refreshing-large-language-models</guid>
     </item>
   </channel>
 </rss>
