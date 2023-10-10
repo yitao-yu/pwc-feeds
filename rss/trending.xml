@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Oct 2023 09:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 21:06:40 +0000</lastBuildDate>
     <item>
       <title>Efficient Streaming Language Models with Attention Sinks</title>
       <link>https://paperswithcode.com/paper/efficient-streaming-language-models-with</link>
@@ -15,28 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-streaming-language-models-with</guid>
     </item>
     <item>
-      <title>Decoding speech perception from non-invasive brain recordings</title>
-      <link>https://paperswithcode.com/paper/decoding-speech-from-non-invasive-brain</link>
-      <description><![CDATA[Overall, this effective decoding of perceived speech from non-invasive recordings delineates a promising path to decode language from brain activity, without putting patients at risk for brain surgery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decoding-speech-from-non-invasive-brain</guid>
-    </item>
-    <item>
-      <title>Communicative Agents for Software Development</title>
-      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
-      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
-    </item>
-    <item>
-      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
-      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
-      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
-    </item>
-    <item>
-      <title>Can large language models provide useful feedback on research papers? A large-scale empirical analysis</title>
-      <link>https://paperswithcode.com/paper/can-large-language-models-provide-useful</link>
-      <description><![CDATA[We first quantitatively compared GPT-4's generated feedback with human peer reviewer feedback in 15 Nature family journals (3, 096 papers in total) and the ICLR machine learning conference (1, 709 papers).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-provide-useful</guid>
+      <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
+      <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
+      <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
     </item>
     <item>
       <title>Improved Baselines with Visual Instruction Tuning</title>
@@ -45,16 +27,76 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</guid>
     </item>
     <item>
+      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
+      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
+      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
+    </item>
+    <item>
+      <title>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</title>
+      <link>https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</link>
+      <description><![CDATA[Large Language Models (LLMs) have garnered significant attention for their advancements in natural language processing, demonstrating unparalleled prowess in text comprehension and generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</guid>
+    </item>
+    <item>
+      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
+      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
+      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
+    </item>
+    <item>
+      <title>ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving</title>
+      <link>https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</link>
+      <description><![CDATA[Large language models have made significant progress in various language tasks, yet they still struggle with complex mathematics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</guid>
+    </item>
+    <item>
+      <title>Can large language models provide useful feedback on research papers? A large-scale empirical analysis</title>
+      <link>https://paperswithcode.com/paper/can-large-language-models-provide-useful</link>
+      <description><![CDATA[We first quantitatively compared GPT-4's generated feedback with human peer reviewer feedback in 15 Nature family journals (3, 096 papers in total) and the ICLR machine learning conference (1, 709 papers).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-provide-useful</guid>
+    </item>
+    <item>
+      <title>Communicative Agents for Software Development</title>
+      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
+      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
+    </item>
+    <item>
+      <title>Decoding speech perception from non-invasive brain recordings</title>
+      <link>https://paperswithcode.com/paper/decoding-speech-from-non-invasive-brain</link>
+      <description><![CDATA[Overall, this effective decoding of perceived speech from non-invasive recordings delineates a promising path to decode language from brain activity, without putting patients at risk for brain surgery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decoding-speech-from-non-invasive-brain</guid>
+    </item>
+    <item>
+      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
+      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
+      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
+    </item>
+    <item>
       <title>InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists</title>
       <link>https://paperswithcode.com/paper/instructcv-instruction-tuned-text-to-image</link>
       <description><![CDATA[We then use a large language model to paraphrase prompt templates that convey the specific tasks to be conducted on each image, and through this process, we create a multi-modal and multi-task training dataset comprising input and output images along with annotated instructions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instructcv-instruction-tuned-text-to-image</guid>
     </item>
     <item>
+      <title>Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</title>
+      <link>https://paperswithcode.com/paper/language-agent-tree-search-unifies-reasoning</link>
+      <description><![CDATA[While large language models (LLMs) have demonstrated impressive performance on a range of decision-making tasks, they rely on simple acting processes and fall short of broad deployment as autonomous agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-agent-tree-search-unifies-reasoning</guid>
+    </item>
+    <item>
       <title>Representation Engineering: A Top-Down Approach to AI Transparency</title>
       <link>https://paperswithcode.com/paper/representation-engineering-a-top-down</link>
       <description><![CDATA[In this paper, we identify and characterize the emerging area of representation engineering (RepE), an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/representation-engineering-a-top-down</guid>
+    </item>
+    <item>
+      <title>PB-LLM: Partially Binarized Large Language Models</title>
+      <link>https://paperswithcode.com/paper/pb-llm-partially-binarized-large-language</link>
+      <description><![CDATA[This paper explores network binarization, a radical form of quantization, compressing model weights to a single bit, specifically for Large Language Models (LLMs) compression.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pb-llm-partially-binarized-large-language</guid>
     </item>
     <item>
       <title>FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec</title>
@@ -69,64 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
     </item>
     <item>
-      <title>Aligning Text-to-Image Diffusion Models with Reward Backpropagation</title>
-      <link>https://paperswithcode.com/paper/aligning-text-to-image-diffusion-models-with</link>
-      <description><![CDATA[Due to their unsupervised training, controlling their behavior in downstream tasks, such as maximizing human-perceived image quality, image-text alignment, or ethical image generation, is difficult.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-text-to-image-diffusion-models-with</guid>
-    </item>
-    <item>
-      <title>Invisible Image Watermarks Are Provably Removable Using Generative AI</title>
-      <link>https://paperswithcode.com/paper/generative-autoencoders-as-watermark</link>
-      <description><![CDATA[However, if we do not require the watermarked image to look the same as the original one, watermarks that keep the image semantically similar can be an alternative defense against our attack.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-autoencoders-as-watermark</guid>
-    </item>
-    <item>
-      <title>Language Models Represent Space and Time</title>
-      <link>https://paperswithcode.com/paper/language-models-represent-space-and-time</link>
-      <description><![CDATA[The capabilities of large language models (LLMs) have sparked debate over whether such systems just learn an enormous collection of superficial statistics or a coherent model of the data generating process -- a world model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-represent-space-and-time</guid>
-    </item>
-    <item>
-      <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
-      <link>https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</link>
-      <description><![CDATA[With the advance of text-to-image models (e. g., Stable Diffusion) and corresponding personalization techniques such as DreamBooth and LoRA, everyone can manifest their imagination into high-quality images at an affordable cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
-    </item>
-    <item>
-      <title>MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning</title>
-      <link>https://paperswithcode.com/paper/mathcoder-seamless-code-integration-in-llms</link>
-      <description><![CDATA[In this paper, we present a method to fine-tune open-source language models, enabling them to use code for modeling and deriving math equations and, consequently, enhancing their mathematical reasoning abilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mathcoder-seamless-code-integration-in-llms</guid>
-    </item>
-    <item>
-      <title>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</title>
-      <link>https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</link>
-      <description><![CDATA[Large Language Models (LLMs) have garnered significant attention for their advancements in natural language processing, demonstrating unparalleled prowess in text comprehension and generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</guid>
-    </item>
-    <item>
-      <title>ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving</title>
-      <link>https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</link>
-      <description><![CDATA[Large language models have made significant progress in various language tasks, yet they still struggle with complex mathematics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</guid>
-    </item>
-    <item>
       <title>Aggregated Contextual Transformations for High-Resolution Image Inpainting</title>
       <link>https://paperswithcode.com/paper/aggregated-contextual-transformations-for</link>
       <description><![CDATA[For improving texture synthesis, we enhance the discriminator of AOT-GAN by training it with a tailored mask-prediction task.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/aggregated-contextual-transformations-for</guid>
     </item>
     <item>
-      <title>Benchmarking Large Language Models As AI Research Agents</title>
-      <link>https://paperswithcode.com/paper/benchmarking-large-language-models-as-ai</link>
-      <description><![CDATA[Can we build AI research agents to perform these long-horizon tasks?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-large-language-models-as-ai</guid>
+      <title>Aligning Text-to-Image Diffusion Models with Reward Backpropagation</title>
+      <link>https://paperswithcode.com/paper/aligning-text-to-image-diffusion-models-with</link>
+      <description><![CDATA[Due to their unsupervised training, controlling their behavior in downstream tasks, such as maximizing human-perceived image quality, image-text alignment, or ethical image generation, is difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-text-to-image-diffusion-models-with</guid>
     </item>
     <item>
-      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
-      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
-      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
+      <title>MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning</title>
+      <link>https://paperswithcode.com/paper/mathcoder-seamless-code-integration-in-llms</link>
+      <description><![CDATA[In this paper, we present a method to fine-tune open-source language models, enabling them to use code for modeling and deriving math equations and, consequently, enhancing their mathematical reasoning abilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mathcoder-seamless-code-integration-in-llms</guid>
     </item>
   </channel>
 </rss>
