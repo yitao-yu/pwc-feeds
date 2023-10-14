@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 21:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 09:10:37 +0000</lastBuildDate>
     <item>
-      <title>Improved Baselines with Visual Instruction Tuning</title>
-      <link>https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</link>
-      <description><![CDATA[Large multimodal models (LMM) have recently shown encouraging progress with visual instruction tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</guid>
-    </item>
-    <item>
-      <title>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</title>
-      <link>https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</link>
-      <description><![CDATA[Large Language Models (LLMs) have garnered significant attention for their advancements in natural language processing, demonstrating unparalleled prowess in text comprehension and generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</guid>
+      <title>Ferret: Refer and Ground Anything Anywhere at Any Granularity</title>
+      <link>https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</link>
+      <description><![CDATA[We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</guid>
     </item>
     <item>
       <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
@@ -27,16 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
     </item>
     <item>
-      <title>Efficient Streaming Language Models with Attention Sinks</title>
-      <link>https://paperswithcode.com/paper/efficient-streaming-language-models-with</link>
-      <description><![CDATA[In this paper, we first demonstrate that the emergence of attention sink is due to the strong attention scores towards initial tokens as a ``sink'' even if they are not semantically important.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-streaming-language-models-with</guid>
-    </item>
-    <item>
-      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
-      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
-      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
+      <title>Improved Baselines with Visual Instruction Tuning</title>
+      <link>https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</link>
+      <description><![CDATA[Large multimodal models (LMM) have recently shown encouraging progress with visual instruction tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</guid>
     </item>
     <item>
       <title>ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving</title>
@@ -45,10 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tora-a-tool-integrated-reasoning-agent-for</guid>
     </item>
     <item>
-      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
-      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
-      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
+      <title>ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/scalecrafter-tuning-free-higher-resolution</link>
+      <description><![CDATA[Our work also suggests that a pre-trained diffusion model trained on low-resolution images can be directly used for high-resolution visual generation without further tuning, which may provide insights for future research on ultra-high-resolution image and video synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalecrafter-tuning-free-higher-resolution</guid>
+    </item>
+    <item>
+      <title>Efficient Streaming Language Models with Attention Sinks</title>
+      <link>https://paperswithcode.com/paper/efficient-streaming-language-models-with</link>
+      <description><![CDATA[In this paper, we first demonstrate that the emergence of attention sink is due to the strong attention scores towards initial tokens as a ``sink'' even if they are not semantically important.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-streaming-language-models-with</guid>
+    </item>
+    <item>
+      <title>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</title>
+      <link>https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</link>
+      <description><![CDATA[Large Language Models (LLMs) have garnered significant attention for their advancements in natural language processing, demonstrating unparalleled prowess in text comprehension and generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minigpt-5-interleaved-vision-and-language</guid>
     </item>
     <item>
       <title>InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition</title>
@@ -57,40 +57,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/internlm-xcomposer-a-vision-language-large</guid>
     </item>
     <item>
-      <title>Mistral 7B</title>
-      <link>https://paperswithcode.com/paper/mistral-7b</link>
-      <description><![CDATA[We introduce Mistral 7B v0. 1, a 7-billion-parameter language model engineered for superior performance and efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mistral-7b</guid>
-    </item>
-    <item>
-      <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
-      <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
-      <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
-    </item>
-    <item>
-      <title>Uni3D: Exploring Unified 3D Representation at Scale</title>
-      <link>https://paperswithcode.com/paper/uni3d-exploring-unified-3d-representation-at</link>
-      <description><![CDATA[Scaling up representations for images or text has been extensively investigated in the past few years and has led to revolutions in learning vision and language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uni3d-exploring-unified-3d-representation-at</guid>
-    </item>
-    <item>
       <title>Controlling Vision-Language Models for Universal Image Restoration</title>
       <link>https://paperswithcode.com/paper/controlling-vision-language-models-for</link>
       <description><![CDATA[In this paper, we present a degradation-aware vision-language model (DA-CLIP) to better transfer pretrained vision-language models to low-level vision tasks as a universal framework for image restoration.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/controlling-vision-language-models-for</guid>
     </item>
     <item>
-      <title>Can large language models provide useful feedback on research papers? A large-scale empirical analysis</title>
-      <link>https://paperswithcode.com/paper/can-large-language-models-provide-useful</link>
-      <description><![CDATA[We first quantitatively compared GPT-4's generated feedback with human peer reviewer feedback in 15 Nature family journals (3, 096 papers in total) and the ICLR machine learning conference (1, 709 papers).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-provide-useful</guid>
+      <title>ProPainter: Improving Propagation and Transformer for Video Inpainting</title>
+      <link>https://paperswithcode.com/paper/propainter-improving-propagation-and</link>
+      <description><![CDATA[We also propose a mask-guided sparse video Transformer, which achieves high efficiency by discarding unnecessary and redundant tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/propainter-improving-propagation-and</guid>
     </item>
     <item>
-      <title>Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models</title>
-      <link>https://paperswithcode.com/paper/language-agent-tree-search-unifies-reasoning</link>
-      <description><![CDATA[While large language models (LLMs) have demonstrated impressive performance on a range of decision-making tasks, they rely on simple acting processes and fall short of broad deployment as autonomous agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-agent-tree-search-unifies-reasoning</guid>
+      <title>Mistral 7B</title>
+      <link>https://paperswithcode.com/paper/mistral-7b</link>
+      <description><![CDATA[We introduce Mistral 7B v0. 1, a 7-billion-parameter language model engineered for superior performance and efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mistral-7b</guid>
+    </item>
+    <item>
+      <title>Separate Anything You Describe</title>
+      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
+      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
+    </item>
+    <item>
+      <title>LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models</title>
+      <link>https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</link>
+      <description><![CDATA[LongLoRA adopts LLaMA2 7B from 4k context to 100k, or LLaMA2 70B to 32k on a single 8x A100 machine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longlora-efficient-fine-tuning-of-long</guid>
+    </item>
+    <item>
+      <title>EasyPhoto: Your Smart AI Photo Generator</title>
+      <link>https://paperswithcode.com/paper/easyphoto-your-smart-ai-photo-generator</link>
+      <description><![CDATA[By training a digital doppelganger of a specific user ID using 5 to 20 relevant images, the finetuned model (according to the trained LoRA model) allows for the generation of AI photos using arbitrary templates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easyphoto-your-smart-ai-photo-generator</guid>
+    </item>
+    <item>
+      <title>PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments</title>
+      <link>https://paperswithcode.com/paper/pc-nerf-parent-child-neural-radiance-fields</link>
+      <description><![CDATA[Reconstructing large-scale 3D scenes is essential for autonomous vehicles, especially when partial sensor data is lost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pc-nerf-parent-child-neural-radiance-fields</guid>
+    </item>
+    <item>
+      <title>Uni3D: Exploring Unified 3D Representation at Scale</title>
+      <link>https://paperswithcode.com/paper/uni3d-exploring-unified-3d-representation-at</link>
+      <description><![CDATA[Scaling up representations for images or text has been extensively investigated in the past few years and has led to revolutions in learning vision and language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uni3d-exploring-unified-3d-representation-at</guid>
     </item>
     <item>
       <title>InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists</title>
@@ -105,28 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/whispering-llama-a-cross-modal-generative</guid>
     </item>
     <item>
-      <title>PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments</title>
-      <link>https://paperswithcode.com/paper/pc-nerf-parent-child-neural-radiance-fields</link>
-      <description><![CDATA[Reconstructing large-scale 3D scenes is essential for autonomous vehicles, especially when partial sensor data is lost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pc-nerf-parent-child-neural-radiance-fields</guid>
+      <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</link>
+      <description><![CDATA[In this paper, we are the first to propose a hybrid model, dubbed as Show-1, which marries pixel-based and latent-based VDMs for text-to-video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
     </item>
     <item>
-      <title>Communicative Agents for Software Development</title>
-      <link>https://paperswithcode.com/paper/communicative-agents-for-software-development</link>
-      <description><![CDATA[At the core of this paradigm lies ChatDev, a virtual chat-powered software development company that mirrors the established waterfall model, meticulously dividing the development process into four distinct chronological stages: designing, coding, testing, and documenting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/communicative-agents-for-software-development</guid>
-    </item>
-    <item>
-      <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
-      <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
-      <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
-    </item>
-    <item>
-      <title>DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior</title>
-      <link>https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</link>
-      <description><![CDATA[We present DiffBIR, which leverages pretrained text-to-image diffusion models for blind image restoration problem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffbir-towards-blind-image-restoration-with</guid>
+      <title>Can large language models provide useful feedback on research papers? A large-scale empirical analysis</title>
+      <link>https://paperswithcode.com/paper/can-large-language-models-provide-useful</link>
+      <description><![CDATA[We first quantitatively compared GPT-4's generated feedback with human peer reviewer feedback in 15 Nature family journals (3, 096 papers in total) and the ICLR machine learning conference (1, 709 papers).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-provide-useful</guid>
     </item>
   </channel>
 </rss>
