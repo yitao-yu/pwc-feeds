@@ -7,18 +7,36 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Oct 2023 21:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 09:12:09 +0000</lastBuildDate>
     <item>
-      <title>From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/from-clip-to-dino-visual-encoders-shout-in</link>
-      <description><![CDATA[By simply equipping it with an MLP layer for alignment, DINO surpasses CLIP in fine-grained related perception tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-clip-to-dino-visual-encoders-shout-in</guid>
+      <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
+      <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
+      <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
+    </item>
+    <item>
+      <title>PixArt-$α$: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</link>
+      <description><![CDATA[We hope PIXART-$\alpha$ will provide new insights to the AIGC community and startups to accelerate building their own high-quality yet low-cost generative models from scratch.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</guid>
+    </item>
+    <item>
+      <title>Llemma: An Open Language Model For Mathematics</title>
+      <link>https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</link>
+      <description><![CDATA[We present Llemma, a large language model for mathematics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</guid>
     </item>
     <item>
       <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
       <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
       <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
+    </item>
+    <item>
+      <title>From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/from-clip-to-dino-visual-encoders-shout-in</link>
+      <description><![CDATA[By simply equipping it with an MLP layer for alignment, DINO surpasses CLIP in fine-grained related perception tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/from-clip-to-dino-visual-encoders-shout-in</guid>
     </item>
     <item>
       <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
@@ -33,64 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
     </item>
     <item>
-      <title>Text Embeddings Reveal (Almost) As Much As Text</title>
-      <link>https://paperswithcode.com/paper/text-embeddings-reveal-almost-as-much-as-text</link>
-      <description><![CDATA[How much private information do text embeddings reveal about the original text?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text-embeddings-reveal-almost-as-much-as-text</guid>
+      <title>Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene</link>
+      <description><![CDATA[Reconstructing dynamic 3D scenes from 2D images and generating diverse views over time is challenging due to scene complexity and temporal dynamics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene</guid>
     </item>
     <item>
-      <title>ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/scalecrafter-tuning-free-higher-resolution</link>
-      <description><![CDATA[Our work also suggests that a pre-trained diffusion model trained on low-resolution images can be directly used for high-resolution visual generation without further tuning, which may provide insights for future research on ultra-high-resolution image and video synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalecrafter-tuning-free-higher-resolution</guid>
-    </item>
-    <item>
-      <title>UniPose: Detecting Any Keypoints</title>
-      <link>https://paperswithcode.com/paper/unipose-detecting-any-keypoints</link>
-      <description><![CDATA[This work proposes a unified framework called UniPose to detect keypoints of any articulated (e. g., human and animal), rigid, and soft objects via visual or textual prompts for fine-grained vision understanding and manipulation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unipose-detecting-any-keypoints</guid>
-    </item>
-    <item>
-      <title>Octopus: Embodied Vision-Language Programmer from Environmental Feedback</title>
-      <link>https://paperswithcode.com/paper/octopus-embodied-vision-language-programmer</link>
-      <description><![CDATA[Large vision-language models (VLMs) have achieved substantial progress in multimodal perception and reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/octopus-embodied-vision-language-programmer</guid>
-    </item>
-    <item>
-      <title>Large Language Models Are Zero-Shot Time Series Forecasters</title>
-      <link>https://paperswithcode.com/paper/large-language-models-are-zero-shot-time</link>
-      <description><![CDATA[By encoding time series as a string of numerical digits, we can frame time series forecasting as next-token prediction in text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-are-zero-shot-time</guid>
-    </item>
-    <item>
-      <title>Ferret: Refer and Ground Anything Anywhere at Any Granularity</title>
-      <link>https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</link>
-      <description><![CDATA[We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</guid>
-    </item>
-    <item>
-      <title>Prometheus: Inducing Fine-grained Evaluation Capability in Language Models</title>
-      <link>https://paperswithcode.com/paper/prometheus-inducing-fine-grained-evaluation</link>
-      <description><![CDATA[We first construct the Feedback Collection, a new dataset that consists of 1K fine-grained score rubrics, 20K instructions, and 100K responses and language feedback generated by GPT-4.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prometheus-inducing-fine-grained-evaluation</guid>
-    </item>
-    <item>
-      <title>Humanoid Agents: Platform for Simulating Human-like Generative Agents</title>
-      <link>https://paperswithcode.com/paper/humanoid-agents-platform-for-simulating-human</link>
-      <description><![CDATA[Just as computational simulations of atoms, molecules and cells have shaped the way we study the sciences, true-to-life simulations of human-like agents can be valuable tools for studying human behavior.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/humanoid-agents-platform-for-simulating-human</guid>
-    </item>
-    <item>
-      <title>AutoAgents: A Framework for Automatic Agent Generation</title>
-      <link>https://paperswithcode.com/paper/autoagents-a-framework-for-automatic-agent</link>
-      <description><![CDATA[Therefore, we introduce AutoAgents, an innovative framework that adaptively generates and coordinates multiple specialized agents to build an AI team according to different tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autoagents-a-framework-for-automatic-agent</guid>
-    </item>
-    <item>
-      <title>Improved Baselines with Visual Instruction Tuning</title>
-      <link>https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</link>
-      <description><![CDATA[Large multimodal models (LMM) have recently shown encouraging progress with visual instruction tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-baselines-with-visual-instruction</guid>
+      <title>GRID: A Platform for General Robot Intelligence Development</title>
+      <link>https://paperswithcode.com/paper/grid-a-platform-for-general-robot</link>
+      <description><![CDATA[In addition, the modular design enables various deep ML components and existing foundation models to be easily usable in a wider variety of robot-centric problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grid-a-platform-for-general-robot</guid>
     </item>
     <item>
       <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
@@ -99,10 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
     <item>
-      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
-      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
-      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
+      <title>Large Language Models Are Zero-Shot Time Series Forecasters</title>
+      <link>https://paperswithcode.com/paper/large-language-models-are-zero-shot-time</link>
+      <description><![CDATA[By encoding time series as a string of numerical digits, we can frame time series forecasting as next-token prediction in text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-are-zero-shot-time</guid>
+    </item>
+    <item>
+      <title>Humanoid Agents: Platform for Simulating Human-like Generative Agents</title>
+      <link>https://paperswithcode.com/paper/humanoid-agents-platform-for-simulating-human</link>
+      <description><![CDATA[Just as computational simulations of atoms, molecules and cells have shaped the way we study the sciences, true-to-life simulations of human-like agents can be valuable tools for studying human behavior.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/humanoid-agents-platform-for-simulating-human</guid>
     </item>
     <item>
       <title>MetaGPT: Meta Programming for Multi-Agent Collaborative Framework</title>
@@ -111,22 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/metagpt-meta-programming-for-multi-agent</guid>
     </item>
     <item>
-      <title>Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency</title>
-      <link>https://paperswithcode.com/paper/reason-for-future-act-for-now-a-principled</link>
-      <description><![CDATA[Specifically, we design a prompt template for reasoning that learns from the memory buffer and plans a future trajectory over a long horizon ("reason for future").]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reason-for-future-act-for-now-a-principled</guid>
+      <title>Ferret: Refer and Ground Anything Anywhere at Any Granularity</title>
+      <link>https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</link>
+      <description><![CDATA[We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</guid>
     </item>
     <item>
-      <title>Mistral 7B</title>
-      <link>https://paperswithcode.com/paper/mistral-7b</link>
-      <description><![CDATA[We introduce Mistral 7B v0. 1, a 7-billion-parameter language model engineered for superior performance and efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mistral-7b</guid>
+      <title>Octopus: Embodied Vision-Language Programmer from Environmental Feedback</title>
+      <link>https://paperswithcode.com/paper/octopus-embodied-vision-language-programmer</link>
+      <description><![CDATA[Large vision-language models (VLMs) have achieved substantial progress in multimodal perception and reasoning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/octopus-embodied-vision-language-programmer</guid>
     </item>
     <item>
-      <title>EasyPhoto: Your Smart AI Photo Generator</title>
-      <link>https://paperswithcode.com/paper/easyphoto-your-smart-ai-photo-generator</link>
-      <description><![CDATA[By training a digital doppelganger of a specific user ID using 5 to 20 relevant images, the finetuned model (according to the trained LoRA model) allows for the generation of AI photos using arbitrary templates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyphoto-your-smart-ai-photo-generator</guid>
+      <title>A Survey on Video Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-on-video-diffusion-models</link>
+      <description><![CDATA[However, existing surveys mainly focus on diffusion models in the context of image generation, with few up-to-date reviews on their application in the video domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-video-diffusion-models</guid>
+    </item>
+    <item>
+      <title>Prometheus: Inducing Fine-grained Evaluation Capability in Language Models</title>
+      <link>https://paperswithcode.com/paper/prometheus-inducing-fine-grained-evaluation</link>
+      <description><![CDATA[We first construct the Feedback Collection, a new dataset that consists of 1K fine-grained score rubrics, 20K instructions, and 100K responses and language feedback generated by GPT-4.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prometheus-inducing-fine-grained-evaluation</guid>
+    </item>
+    <item>
+      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
+      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
+      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
+    </item>
+    <item>
+      <title>UniPose: Detecting Any Keypoints</title>
+      <link>https://paperswithcode.com/paper/unipose-detecting-any-keypoints</link>
+      <description><![CDATA[This work proposes a unified framework called UniPose to detect keypoints of any articulated (e. g., human and animal), rigid, and soft objects via visual or textual prompts for fine-grained vision understanding and manipulation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unipose-detecting-any-keypoints</guid>
+    </item>
+    <item>
+      <title>Character-LLM: A Trainable Agent for Role-Playing</title>
+      <link>https://paperswithcode.com/paper/character-llm-a-trainable-agent-for-role</link>
+      <description><![CDATA[Large language models (LLMs) can be used to serve as agents to simulate human behaviors, given the powerful ability to understand human instructions and provide high-quality generated texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/character-llm-a-trainable-agent-for-role</guid>
     </item>
   </channel>
 </rss>
