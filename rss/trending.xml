@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Oct 2023 09:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 21:05:57 +0000</lastBuildDate>
+    <item>
+      <title>AgentTuning: Enabling Generalized Agent Abilities for LLMs</title>
+      <link>https://paperswithcode.com/paper/agenttuning-enabling-generalized-agent</link>
+      <description><![CDATA[Though many prompting methods have been proposed to complete particular agent tasks, there is lack of research focusing on improving the agent capabilities of LLMs themselves without compromising their general abilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agenttuning-enabling-generalized-agent</guid>
+    </item>
     <item>
       <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
       <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
@@ -21,28 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</guid>
     </item>
     <item>
-      <title>Putting the Object Back into Video Object Segmentation</title>
-      <link>https://paperswithcode.com/paper/putting-the-object-back-into-video-object</link>
-      <description><![CDATA[The object queries act as a high-level summary of the target object, while high-resolution feature maps are retained for accurate segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/putting-the-object-back-into-video-object</guid>
-    </item>
-    <item>
       <title>Llemma: An Open Language Model For Mathematics</title>
       <link>https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</link>
       <description><![CDATA[We present Llemma, a large language model for mathematics.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</guid>
-    </item>
-    <item>
-      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
-      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
-      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
-    </item>
-    <item>
-      <title>GRID: A Platform for General Robot Intelligence Development</title>
-      <link>https://paperswithcode.com/paper/grid-a-platform-for-general-robot</link>
-      <description><![CDATA[In addition, the modular design enables various deep ML components and existing foundation models to be easily usable in a wider variety of robot-centric problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/grid-a-platform-for-general-robot</guid>
     </item>
     <item>
       <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
@@ -51,40 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
     </item>
     <item>
-      <title>From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/from-clip-to-dino-visual-encoders-shout-in</link>
-      <description><![CDATA[By simply equipping it with an MLP layer for alignment, DINO surpasses CLIP in fine-grained related perception tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-clip-to-dino-visual-encoders-shout-in</guid>
+      <title>Putting the Object Back into Video Object Segmentation</title>
+      <link>https://paperswithcode.com/paper/putting-the-object-back-into-video-object</link>
+      <description><![CDATA[The object queries act as a high-level summary of the target object, while high-resolution feature maps are retained for accurate segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/putting-the-object-back-into-video-object</guid>
     </item>
     <item>
-      <title>BitNet: Scaling 1-bit Transformers for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</link>
-      <description><![CDATA[The increasing size of large language models has posed challenges for deployment and raised concerns about environmental impact due to high energy consumption.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</guid>
-    </item>
-    <item>
-      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
-      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
-      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
-    </item>
-    <item>
-      <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</link>
-      <description><![CDATA[In this paper, we are the first to propose a hybrid model, dubbed as Show-1, which marries pixel-based and latent-based VDMs for text-to-video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
-    </item>
-    <item>
-      <title>Character-LLM: A Trainable Agent for Role-Playing</title>
-      <link>https://paperswithcode.com/paper/character-llm-a-trainable-agent-for-role</link>
-      <description><![CDATA[Large language models (LLMs) can be used to serve as agents to simulate human behaviors, given the powerful ability to understand human instructions and provide high-quality generated texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/character-llm-a-trainable-agent-for-role</guid>
-    </item>
-    <item>
-      <title>Separate Anything You Describe</title>
-      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
-      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
+      <title>GRID: A Platform for General Robot Intelligence Development</title>
+      <link>https://paperswithcode.com/paper/grid-a-platform-for-general-robot</link>
+      <description><![CDATA[In addition, the modular design enables various deep ML components and existing foundation models to be easily usable in a wider variety of robot-centric problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grid-a-platform-for-general-robot</guid>
     </item>
     <item>
       <title>iTransformer: Inverted Transformers Are Effective for Time Series Forecasting</title>
@@ -93,10 +57,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/itransformer-inverted-transformers-are</guid>
     </item>
     <item>
-      <title>AutoMix: Automatically Mixing Language Models</title>
-      <link>https://paperswithcode.com/paper/automix-automatically-mixing-language-models</link>
-      <description><![CDATA[Large language models (LLMs) are now available in various sizes and configurations from cloud API providers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automix-automatically-mixing-language-models</guid>
+      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
+      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
+      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
+    </item>
+    <item>
+      <title>Sparse Fine-tuning for Inference Acceleration of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</link>
+      <description><![CDATA[While the standard approach is to leverage sparsity for computational reduction, we observe that in the case of memory-bound LLMs sparsity can also be leveraged for reducing memory bandwidth.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</guid>
+    </item>
+    <item>
+      <title>Separate Anything You Describe</title>
+      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
+      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
+    </item>
+    <item>
+      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
+      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
+      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
+    </item>
+    <item>
+      <title>BitNet: Scaling 1-bit Transformers for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</link>
+      <description><![CDATA[The increasing size of large language models has posed challenges for deployment and raised concerns about environmental impact due to high energy consumption.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</guid>
+    </item>
+    <item>
+      <title>Character-LLM: A Trainable Agent for Role-Playing</title>
+      <link>https://paperswithcode.com/paper/character-llm-a-trainable-agent-for-role</link>
+      <description><![CDATA[Large language models (LLMs) can be used to serve as agents to simulate human behaviors, given the powerful ability to understand human instructions and provide high-quality generated texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/character-llm-a-trainable-agent-for-role</guid>
+    </item>
+    <item>
+      <title>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</title>
+      <link>https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</link>
+      <description><![CDATA[In this paper, we are the first to propose a hybrid model, dubbed as Show-1, which marries pixel-based and latent-based VDMs for text-to-video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
     </item>
     <item>
       <title>MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion</title>
@@ -111,22 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
     </item>
     <item>
-      <title>Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene</link>
-      <description><![CDATA[Reconstructing dynamic 3D scenes from 2D images and generating diverse views over time is challenging due to scene complexity and temporal dynamics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene</guid>
+      <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
+      <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
+      <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
     </item>
     <item>
-      <title>LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation</title>
-      <link>https://paperswithcode.com/paper/lamp-learn-a-motion-pattern-for-few-shot</link>
-      <description><![CDATA[Specifically, we design a first-frame-conditioned pipeline that uses an off-the-shelf text-to-image model for content generation so that our tuned video diffusion model mainly focuses on motion learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lamp-learn-a-motion-pattern-for-few-shot</guid>
+      <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
+      <link>https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</link>
+      <description><![CDATA[With the advance of text-to-image models (e. g., Stable Diffusion) and corresponding personalization techniques such as DreamBooth and LoRA, everyone can manifest their imagination into high-quality images at an affordable cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
     </item>
     <item>
-      <title>A Survey on Video Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/a-survey-on-video-diffusion-models</link>
-      <description><![CDATA[However, existing surveys mainly focus on diffusion models in the context of image generation, with few up-to-date reviews on their application in the video domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-video-diffusion-models</guid>
+      <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
+      <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
+      <description><![CDATA[Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
     </item>
   </channel>
 </rss>
