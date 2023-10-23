@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 09:12:49 +0000</lastBuildDate>
-    <item>
-      <title>AgentTuning: Enabling Generalized Agent Abilities for LLMs</title>
-      <link>https://paperswithcode.com/paper/agenttuning-enabling-generalized-agent</link>
-      <description><![CDATA[Though many prompting methods have been proposed to complete particular agent tasks, there is lack of research focusing on improving the agent capabilities of LLMs themselves without compromising their general abilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agenttuning-enabling-generalized-agent</guid>
-    </item>
+    <lastBuildDate>Mon, 23 Oct 2023 21:06:26 +0000</lastBuildDate>
     <item>
       <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
       <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
@@ -21,10 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
     </item>
     <item>
-      <title>PixArt-$α$: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</link>
-      <description><![CDATA[We hope PIXART-$\alpha$ will provide new insights to the AIGC community and startups to accelerate building their own high-quality yet low-cost generative models from scratch.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</guid>
+      <title>AgentTuning: Enabling Generalized Agent Abilities for LLMs</title>
+      <link>https://paperswithcode.com/paper/agenttuning-enabling-generalized-agent</link>
+      <description><![CDATA[Though many prompting methods have been proposed to complete particular agent tasks, there is lack of research focusing on improving the agent capabilities of LLMs themselves without compromising their general abilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agenttuning-enabling-generalized-agent</guid>
+    </item>
+    <item>
+      <title>Eureka: Human-Level Reward Design via Coding Large Language Models</title>
+      <link>https://paperswithcode.com/paper/eureka-human-level-reward-design-via-coding</link>
+      <description><![CDATA[The generality of Eureka also enables a new gradient-free in-context learning approach to reinforcement learning from human feedback (RLHF), readily incorporating human inputs to improve the quality and the safety of the generated rewards without model updating.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eureka-human-level-reward-design-via-coding</guid>
     </item>
     <item>
       <title>Llemma: An Open Language Model For Mathematics</title>
@@ -33,46 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</guid>
     </item>
     <item>
+      <title>PixArt-$α$: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</link>
+      <description><![CDATA[We hope PIXART-$\alpha$ will provide new insights to the AIGC community and startups to accelerate building their own high-quality yet low-cost generative models from scratch.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixart-a-fast-training-of-diffusion</guid>
+    </item>
+    <item>
       <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
       <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
       <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
-    </item>
-    <item>
-      <title>Putting the Object Back into Video Object Segmentation</title>
-      <link>https://paperswithcode.com/paper/putting-the-object-back-into-video-object</link>
-      <description><![CDATA[The object queries act as a high-level summary of the target object, while high-resolution feature maps are retained for accurate segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/putting-the-object-back-into-video-object</guid>
-    </item>
-    <item>
-      <title>GRID: A Platform for General Robot Intelligence Development</title>
-      <link>https://paperswithcode.com/paper/grid-a-platform-for-general-robot</link>
-      <description><![CDATA[In addition, the modular design enables various deep ML components and existing foundation models to be easily usable in a wider variety of robot-centric problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/grid-a-platform-for-general-robot</guid>
-    </item>
-    <item>
-      <title>iTransformer: Inverted Transformers Are Effective for Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/itransformer-inverted-transformers-are</link>
-      <description><![CDATA[These forecasters leverage Transformers to model the global dependencies over temporal tokens of time series, with each token formed by multiple variates of the same timestamp.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/itransformer-inverted-transformers-are</guid>
-    </item>
-    <item>
-      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
-      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
-      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
-    </item>
-    <item>
-      <title>Sparse Fine-tuning for Inference Acceleration of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</link>
-      <description><![CDATA[While the standard approach is to leverage sparsity for computational reduction, we observe that in the case of memory-bound LLMs sparsity can also be leveraged for reducing memory bandwidth.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</guid>
-    </item>
-    <item>
-      <title>Separate Anything You Describe</title>
-      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
-      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
     </item>
     <item>
       <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
@@ -81,10 +51,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
     <item>
-      <title>BitNet: Scaling 1-bit Transformers for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</link>
-      <description><![CDATA[The increasing size of large language models has posed challenges for deployment and raised concerns about environmental impact due to high energy consumption.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</guid>
+      <title>Sparse Fine-tuning for Inference Acceleration of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</link>
+      <description><![CDATA[While the standard approach is to leverage sparsity for computational reduction, we observe that in the case of memory-bound LLMs sparsity can also be leveraged for reducing memory bandwidth.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</guid>
+    </item>
+    <item>
+      <title>iTransformer: Inverted Transformers Are Effective for Time Series Forecasting</title>
+      <link>https://paperswithcode.com/paper/itransformer-inverted-transformers-are</link>
+      <description><![CDATA[These forecasters leverage Transformers to model the global dependencies over temporal tokens of time series, with each token formed by multiple variates of the same timestamp.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/itransformer-inverted-transformers-are</guid>
+    </item>
+    <item>
+      <title>Putting the Object Back into Video Object Segmentation</title>
+      <link>https://paperswithcode.com/paper/putting-the-object-back-into-video-object</link>
+      <description><![CDATA[The object queries act as a high-level summary of the target object, while high-resolution feature maps are retained for accurate segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/putting-the-object-back-into-video-object</guid>
+    </item>
+    <item>
+      <title>Separate Anything You Describe</title>
+      <link>https://paperswithcode.com/paper/separate-anything-you-describe</link>
+      <description><![CDATA[In this work, we introduce AudioSep, a foundation model for open-domain audio source separation with natural language queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/separate-anything-you-describe</guid>
+    </item>
+    <item>
+      <title>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</title>
+      <link>https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</link>
+      <description><![CDATA[AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autogen-enabling-next-gen-llm-applications</guid>
     </item>
     <item>
       <title>Character-LLM: A Trainable Agent for Role-Playing</title>
@@ -99,34 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/show-1-marrying-pixel-and-latent-diffusion</guid>
     </item>
     <item>
-      <title>MEFLUT: Unsupervised 1D Lookup Tables for Multi-exposure Image Fusion</title>
-      <link>https://paperswithcode.com/paper/meflut-unsupervised-1d-lookup-tables-for</link>
-      <description><![CDATA[In this paper, we introduce a new approach for high-quality multi-exposure image fusion (MEF).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meflut-unsupervised-1d-lookup-tables-for</guid>
+      <title>BitNet: Scaling 1-bit Transformers for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</link>
+      <description><![CDATA[The increasing size of large language models has posed challenges for deployment and raised concerns about environmental impact due to high energy consumption.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</guid>
     </item>
     <item>
-      <title>DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation</title>
-      <link>https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</link>
-      <description><![CDATA[In contrast to the occupancy pruning used in Neural Radiance Fields, we demonstrate that the progressive densification of 3D Gaussians converges significantly faster for 3D generative tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian-generative-gaussian-splatting</guid>
+      <title>A Survey on Video Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/a-survey-on-video-diffusion-models</link>
+      <description><![CDATA[However, existing surveys mainly focus on diffusion models in the context of image generation, with few up-to-date reviews on their application in the video domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-video-diffusion-models</guid>
     </item>
     <item>
-      <title>CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X</title>
-      <link>https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</link>
-      <description><![CDATA[Large pre-trained code generation models, such as OpenAI Codex, can generate syntax- and function-correct code, making the coding of programmers more productive and our pursuit of artificial general intelligence closer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codegeex-a-pre-trained-model-for-code</guid>
+      <title>Alleviating Over-smoothing for Unsupervised Sentence Representation</title>
+      <link>https://paperswithcode.com/paper/alleviating-over-smoothing-for-unsupervised</link>
+      <description><![CDATA[Currently, learning better unsupervised sentence representations is the pursuit of many natural language processing communities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alleviating-over-smoothing-for-unsupervised</guid>
     </item>
     <item>
-      <title>AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning</title>
-      <link>https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</link>
-      <description><![CDATA[With the advance of text-to-image models (e. g., Stable Diffusion) and corresponding personalization techniques such as DreamBooth and LoRA, everyone can manifest their imagination into high-quality images at an affordable cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/animatediff-animate-your-personalized-text-to</guid>
+      <title>Orca: A Few-shot Benchmark for Chinese Conversational Machine Reading Comprehension</title>
+      <link>https://paperswithcode.com/paper/orca-a-few-shot-benchmark-for-chinese</link>
+      <description><![CDATA[Thus, model's comprehension ability towards real scenarios are hard to evaluate reasonably.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/orca-a-few-shot-benchmark-for-chinese</guid>
     </item>
     <item>
-      <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
-      <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
-      <description><![CDATA[Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
+      <title>Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene</link>
+      <description><![CDATA[Reconstructing dynamic 3D scenes from 2D images and generating diverse views over time is challenging due to scene complexity and temporal dynamics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-photorealistic-dynamic-scene</guid>
+    </item>
+    <item>
+      <title>EasyPhoto: Your Smart AI Photo Generator</title>
+      <link>https://paperswithcode.com/paper/easyphoto-your-smart-ai-photo-generator</link>
+      <description><![CDATA[By training a digital doppelganger of a specific user ID using 5 to 20 relevant images, the finetuned model (according to the trained LoRA model) allows for the generation of AI photos using arbitrary templates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easyphoto-your-smart-ai-photo-generator</guid>
     </item>
   </channel>
 </rss>
