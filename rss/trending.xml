@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Oct 2023 09:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2023 21:05:45 +0000</lastBuildDate>
     <item>
-      <title>Eureka: Human-Level Reward Design via Coding Large Language Models</title>
-      <link>https://paperswithcode.com/paper/eureka-human-level-reward-design-via-coding</link>
-      <description><![CDATA[The generality of Eureka also enables a new gradient-free in-context learning approach to reinforcement learning from human feedback (RLHF), readily incorporating human inputs to improve the quality and the safety of the generated rewards without model updating.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eureka-human-level-reward-design-via-coding</guid>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
       <title>DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior</title>
@@ -27,10 +27,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero123-a-single-image-to-consistent-multi</guid>
     </item>
     <item>
+      <title>Eureka: Human-Level Reward Design via Coding Large Language Models</title>
+      <link>https://paperswithcode.com/paper/eureka-human-level-reward-design-via-coding</link>
+      <description><![CDATA[The generality of Eureka also enables a new gradient-free in-context learning approach to reinforcement learning from human feedback (RLHF), readily incorporating human inputs to improve the quality and the safety of the generated rewards without model updating.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eureka-human-level-reward-design-via-coding</guid>
+    </item>
+    <item>
       <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
       <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
       <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
+    </item>
+    <item>
+      <title>Demystifying CLIP Data</title>
+      <link>https://paperswithcode.com/paper/demystifying-clip-data</link>
+      <description><![CDATA[We believe that the main ingredient to the success of CLIP is its data and not the model architecture or pre-training objective.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-clip-data</guid>
+    </item>
+    <item>
+      <title>Zephyr: Direct Distillation of LM Alignment</title>
+      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
+      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
+    </item>
+    <item>
+      <title>SALMONN: Towards Generic Hearing Abilities for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/salmonn-towards-generic-hearing-abilities-for</link>
+      <description><![CDATA[Hearing is arguably an essential ability of artificial intelligence (AI) agents in the physical world, which refers to the perception and understanding of general auditory information consisting of at least three types of sounds: speech, audio events, and music.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/salmonn-towards-generic-hearing-abilities-for</guid>
     </item>
     <item>
       <title>AgentTuning: Enabling Generalized Agent Abilities for LLMs</title>
@@ -45,46 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/qmoe-practical-sub-1-bit-compression-of</guid>
     </item>
     <item>
-      <title>Demystifying CLIP Data</title>
-      <link>https://paperswithcode.com/paper/demystifying-clip-data</link>
-      <description><![CDATA[We believe that the main ingredient to the success of CLIP is its data and not the model architecture or pre-training objective.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-clip-data</guid>
-    </item>
-    <item>
-      <title>SALMONN: Towards Generic Hearing Abilities for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/salmonn-towards-generic-hearing-abilities-for</link>
-      <description><![CDATA[Hearing is arguably an essential ability of artificial intelligence (AI) agents in the physical world, which refers to the perception and understanding of general auditory information consisting of at least three types of sounds: speech, audio events, and music.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/salmonn-towards-generic-hearing-abilities-for</guid>
-    </item>
-    <item>
-      <title>DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning</title>
-      <link>https://paperswithcode.com/paper/disc-finllm-a-chinese-financial-large</link>
-      <description><![CDATA[We propose Multiple Experts Fine-tuning Framework to build a financial large language model (LLM), DISC-FinLLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disc-finllm-a-chinese-financial-large</guid>
-    </item>
-    <item>
-      <title>PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm</title>
-      <link>https://paperswithcode.com/paper/ponderv2-pave-the-way-for-3d-foundataion</link>
-      <description><![CDATA[In this paper, we introduce a comprehensive 3D pre-training framework designed to facilitate the acquisition of efficient 3D representations, thereby establishing a pathway to 3D foundational models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ponderv2-pave-the-way-for-3d-foundataion</guid>
-    </item>
-    <item>
-      <title>Zephyr: Direct Distillation of LM Alignment</title>
-      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
-      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
-    </item>
-    <item>
       <title>FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling</title>
       <link>https://paperswithcode.com/paper/freenoise-tuning-free-longer-video-diffusion</link>
       <description><![CDATA[With the availability of large-scale video datasets and the advances of diffusion models, text-driven video generation has achieved substantial progress.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/freenoise-tuning-free-longer-video-diffusion</guid>
-    </item>
-    <item>
-      <title>JudgeLM: Fine-tuned Large Language Models are Scalable Judges</title>
-      <link>https://paperswithcode.com/paper/judgelm-fine-tuned-large-language-models-are</link>
-      <description><![CDATA[To address this problem, we propose to fine-tune LLMs as scalable judges (JudgeLM) to evaluate LLMs efficiently and effectively in open-ended benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/judgelm-fine-tuned-large-language-models-are</guid>
     </item>
     <item>
       <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
@@ -93,22 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
     <item>
+      <title>DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning</title>
+      <link>https://paperswithcode.com/paper/disc-finllm-a-chinese-financial-large</link>
+      <description><![CDATA[We propose Multiple Experts Fine-tuning Framework to build a financial large language model (LLM), DISC-FinLLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/disc-finllm-a-chinese-financial-large</guid>
+    </item>
+    <item>
+      <title>JudgeLM: Fine-tuned Large Language Models are Scalable Judges</title>
+      <link>https://paperswithcode.com/paper/judgelm-fine-tuned-large-language-models-are</link>
+      <description><![CDATA[To address this problem, we propose to fine-tune LLMs as scalable judges (JudgeLM) to evaluate LLMs efficiently and effectively in open-ended benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/judgelm-fine-tuned-large-language-models-are</guid>
+    </item>
+    <item>
       <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
       <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
       <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
-    </item>
-    <item>
-      <title>Data-Juicer: A One-Stop Data Processing System for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/data-juicer-a-one-stop-data-processing-system</link>
-      <description><![CDATA[A data recipe is a mixture of data from different sources for training LLMs, which plays a vital role in LLMs' performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-juicer-a-one-stop-data-processing-system</guid>
-    </item>
-    <item>
-      <title>Woodpecker: Hallucination Correction for Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/woodpecker-hallucination-correction-for</link>
-      <description><![CDATA[Hallucination is a big shadow hanging over the rapidly evolving Multimodal Large Language Models (MLLMs), referring to the phenomenon that the generated text is inconsistent with the image content.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/woodpecker-hallucination-correction-for</guid>
     </item>
     <item>
       <title>PLVS: A SLAM System with Points, Lines, Volumetric Mapping, and 3D Incremental Segmentation</title>
@@ -117,16 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/plvs-a-slam-system-with-points-lines</guid>
     </item>
     <item>
-      <title>SAM-Med3D</title>
-      <link>https://paperswithcode.com/paper/sam-med3d</link>
-      <description><![CDATA[These issues can hardly be addressed by fine-tuning SAM on medical data because the original 2D structure of SAM neglects 3D spatial information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sam-med3d</guid>
+      <title>Woodpecker: Hallucination Correction for Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/woodpecker-hallucination-correction-for</link>
+      <description><![CDATA[Hallucination is a big shadow hanging over the rapidly evolving Multimodal Large Language Models (MLLMs), referring to the phenomenon that the generated text is inconsistent with the image content.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/woodpecker-hallucination-correction-for</guid>
     </item>
     <item>
-      <title>Sparse Fine-tuning for Inference Acceleration of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</link>
-      <description><![CDATA[While the standard approach is to leverage sparsity for computational reduction, we observe that in the case of memory-bound LLMs sparsity can also be leveraged for reducing memory bandwidth.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-finetuning-for-inference-acceleration</guid>
+      <title>False Negative/Positive Control for SAM on Noisy Medical Images</title>
+      <link>https://paperswithcode.com/paper/false-negative-positive-control-for-sam-on</link>
+      <description><![CDATA[The method couples multi-box prompt augmentation and an aleatoric uncertainty-based false-negative (FN) and false-positive (FP) correction (FNPC) strategy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/false-negative-positive-control-for-sam-on</guid>
+    </item>
+    <item>
+      <title>iTransformer: Inverted Transformers Are Effective for Time Series Forecasting</title>
+      <link>https://paperswithcode.com/paper/itransformer-inverted-transformers-are</link>
+      <description><![CDATA[These forecasters leverage Transformers to model the global dependencies over temporal tokens of time series, with each token formed by multiple variates of the same timestamp.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/itransformer-inverted-transformers-are</guid>
+    </item>
+    <item>
+      <title>Data-Juicer: A One-Stop Data Processing System for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/data-juicer-a-one-stop-data-processing-system</link>
+      <description><![CDATA[A data recipe is a mixture of data from different sources for training LLMs, which plays a vital role in LLMs' performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-juicer-a-one-stop-data-processing-system</guid>
     </item>
   </channel>
 </rss>
