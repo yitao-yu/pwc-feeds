@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Oct 2023 09:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 21:05:36 +0000</lastBuildDate>
     <item>
-      <title>Factor Fitting, Rank Allocation, and Partitioning in Multilevel Low Rank Matrices</title>
-      <link>https://paperswithcode.com/paper/factor-fitting-rank-allocation-and</link>
-      <description><![CDATA[The second is rank allocation, where we choose the ranks of the blocks in each level, subject to the total rank having a given value, which preserves the total storage needed for the MLR matrix.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/factor-fitting-rank-allocation-and</guid>
+      <title>CHAMMI: A benchmark for channel-adaptive models in microscopy imaging</title>
+      <link>https://paperswithcode.com/paper/chammi-a-benchmark-for-channel-adaptive</link>
+      <description><![CDATA[In this paper, we present a benchmark for investigating channel-adaptive models in microscopy imaging, which consists of 1) a dataset of varied-channel single-cell images, and 2) a biologically relevant evaluation framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chammi-a-benchmark-for-channel-adaptive</guid>
     </item>
     <item>
       <title>LitCab: Lightweight Calibration of Language Models on Outputs of Varied Lengths</title>
@@ -21,16 +21,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/litcab-lightweight-calibration-of-language</guid>
     </item>
     <item>
+      <title>Factor Fitting, Rank Allocation, and Partitioning in Multilevel Low Rank Matrices</title>
+      <link>https://paperswithcode.com/paper/factor-fitting-rank-allocation-and</link>
+      <description><![CDATA[The second is rank allocation, where we choose the ranks of the blocks in each level, subject to the total rank having a given value, which preserves the total storage needed for the MLR matrix.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/factor-fitting-rank-allocation-and</guid>
+    </item>
+    <item>
+      <title>Learning to love diligent trolls: Accounting for rater effects in the dialogue safety task</title>
+      <link>https://paperswithcode.com/paper/learning-to-love-diligent-trolls-accounting</link>
+      <description><![CDATA[However, among users are trolls, who provide training examples with incorrect labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-love-diligent-trolls-accounting</guid>
+    </item>
+    <item>
       <title>Maximum Knowledge Orthogonality Reconstruction with Gradients in Federated Learning</title>
       <link>https://paperswithcode.com/paper/maximum-knowledge-orthogonality</link>
       <description><![CDATA[MKOR only requires the server to send secretly modified parameters to clients and can efficiently and inconspicuously reconstruct the input images from clients' gradient updates.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/maximum-knowledge-orthogonality</guid>
     </item>
     <item>
-      <title>CHAMMI: A benchmark for channel-adaptive models in microscopy imaging</title>
-      <link>https://paperswithcode.com/paper/chammi-a-benchmark-for-channel-adaptive</link>
-      <description><![CDATA[In this paper, we present a benchmark for investigating channel-adaptive models in microscopy imaging, which consists of 1) a dataset of varied-channel single-cell images, and 2) a biologically relevant evaluation framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chammi-a-benchmark-for-channel-adaptive</guid>
+      <title>Refining Diffusion Planner for Reliable Behavior Synthesis by Automatic Detection of Infeasible Plans</title>
+      <link>https://paperswithcode.com/paper/refining-diffusion-planner-for-reliable</link>
+      <description><![CDATA[We also illustrate that our approach presents explainability by presenting the attribution maps of the gap predictor and highlighting error-prone transitions, allowing for a deeper understanding of the generated plans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/refining-diffusion-planner-for-reliable</guid>
+    </item>
+    <item>
+      <title>Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity</title>
+      <link>https://paperswithcode.com/paper/emergence-of-shape-bias-in-convolutional</link>
+      <description><![CDATA[In this paper, we report that sparse coding, a ubiquitous principle in the brain, can in itself introduce shape bias into the network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/emergence-of-shape-bias-in-convolutional</guid>
+    </item>
+    <item>
+      <title>Roles of Scaling and Instruction Tuning in Language Perception: Model vs. Human Attention</title>
+      <link>https://paperswithcode.com/paper/roles-of-scaling-and-instruction-tuning-in</link>
+      <description><![CDATA[Recent large language models (LLMs) have revealed strong abilities to understand natural language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/roles-of-scaling-and-instruction-tuning-in</guid>
+    </item>
+    <item>
+      <title>Evaluating LLP Methods: Challenges and Approaches</title>
+      <link>https://paperswithcode.com/paper/evaluating-llp-methods-challenges-and</link>
+      <description><![CDATA[Fundamental complications arise because of the existence of different LLP variants, i. e., dependence structures that can exist between items, labels, and bags.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-llp-methods-challenges-and</guid>
+    </item>
+    <item>
+      <title>Does Invariant Graph Learning via Environment Augmentation Learn Invariance?</title>
+      <link>https://paperswithcode.com/paper/does-invariant-graph-learning-via-environment</link>
+      <description><![CDATA[Invariant graph representation learning aims to learn the invariance among data from different environments for out-of-distribution generalization on graphs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/does-invariant-graph-learning-via-environment</guid>
+    </item>
+    <item>
+      <title>BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping</title>
+      <link>https://paperswithcode.com/paper/birdsat-cross-view-contrastive-masked</link>
+      <description><![CDATA[We propose a metadata-aware self-supervised learning~(SSL)~framework useful for fine-grained classification and ecological mapping of bird species around the world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/birdsat-cross-view-contrastive-masked</guid>
     </item>
     <item>
       <title>Mask Propagation for Efficient Video Semantic Segmentation</title>
@@ -45,40 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/datasets-and-benchmarks-for-nanophotonic</guid>
     </item>
     <item>
-      <title>Proving Linear Mode Connectivity of Neural Networks via Optimal Transport</title>
-      <link>https://paperswithcode.com/paper/proving-linear-mode-connectivity-of-neural</link>
-      <description><![CDATA[The energy landscape of high-dimensional non-convex optimization problems is crucial to understanding the effectiveness of modern deep neural network architectures.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/proving-linear-mode-connectivity-of-neural</guid>
+      <title>Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender</title>
+      <link>https://paperswithcode.com/paper/women-wearing-lipstick-measuring-the-bias</link>
+      <description><![CDATA[In addition, we propose a visual semantic-based gender score that measures the degree of bias and can be used as a plug-in for any image captioning system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/women-wearing-lipstick-measuring-the-bias</guid>
     </item>
     <item>
-      <title>Counterfactually Probing Language Identity in Multilingual Models</title>
-      <link>https://paperswithcode.com/paper/counterfactually-probing-language-identity-in</link>
-      <description><![CDATA[We use one such technique, AlterRep, a method of counterfactual probing, to explore the internal structure of multilingual models (mBERT and XLM-R).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactually-probing-language-identity-in</guid>
+      <title>Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery</title>
+      <link>https://paperswithcode.com/paper/dynamic-task-and-weight-prioritization</link>
+      <description><![CDATA[Our primary objective is to develop a curriculum-trained multimodal deep learning model, with a particular focus on visual question answering (VQA) capable of jointly processing image and text data, in conjunction with semantic segmentation for disaster analytics using the FloodNet\footnote{https://github. com/BinaLab/FloodNet-Challenge-EARTHVISION2021} dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-task-and-weight-prioritization</guid>
     </item>
     <item>
-      <title>Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction</title>
-      <link>https://paperswithcode.com/paper/efficient-test-time-adaptation-for-super</link>
-      <description><![CDATA[Then, we adapt the SR model by implementing feature-level reconstruction learning from the initial test image to its second-order degraded counterparts, which helps the SR model generate plausible HR images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-test-time-adaptation-for-super</guid>
+      <title>AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection</title>
+      <link>https://paperswithcode.com/paper/anomalyclip-object-agnostic-prompt-learning</link>
+      <description><![CDATA[It is a crucial task when training data is not accessible due to various concerns, \eg, data privacy, yet it is challenging since the models need to generalize to anomalies across different domains where the appearance of foreground objects, abnormal regions, and background features, such as defects/tumors on different products/organs, can vary significantly.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/anomalyclip-object-agnostic-prompt-learning</guid>
     </item>
     <item>
-      <title>Pre-trained Speech Processing Models Contain Human-Like Biases that Propagate to Speech Emotion Recognition</title>
-      <link>https://paperswithcode.com/paper/pre-trained-speech-processing-models-contain</link>
-      <description><![CDATA[We compare biases found in pre-trained models to biases in downstream models adapted to the task of Speech Emotion Recognition (SER) and find that in 66 of the 96 tests performed (69%), the group that is more associated with positive valence as indicated by the SpEAT also tends to be predicted as speaking with higher valence by the downstream model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pre-trained-speech-processing-models-contain</guid>
+      <title>TIC-TAC: A Framework To Learn And Evaluate Your Covariance</title>
+      <link>https://paperswithcode.com/paper/tic-tac-a-framework-to-learn-and-evaluate</link>
+      <description><![CDATA[We study the problem of unsupervised heteroscedastic covariance estimation, where the goal is to learn the multivariate target distribution $\mathcal{N}(y, \Sigma_y | x )$ given an observation $x$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tic-tac-a-framework-to-learn-and-evaluate</guid>
     </item>
     <item>
-      <title>BERT Lost Patience Won't Be Robust to Adversarial Slowdown</title>
-      <link>https://paperswithcode.com/paper/bert-lost-patience-won-t-be-robust-to</link>
-      <description><![CDATA[In this paper, we systematically evaluate the robustness of multi-exit language models against adversarial slowdown.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bert-lost-patience-won-t-be-robust-to</guid>
+      <title>Estimating the Rate-Distortion Function by Wasserstein Gradient Descent</title>
+      <link>https://paperswithcode.com/paper/estimating-the-rate-distortion-function-by</link>
+      <description><![CDATA[In the theory of lossy compression, the rate-distortion (R-D) function $R(D)$ describes how much a data source can be compressed (in bit-rate) at any given level of fidelity (distortion).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/estimating-the-rate-distortion-function-by</guid>
     </item>
     <item>
-      <title>BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping</title>
-      <link>https://paperswithcode.com/paper/birdsat-cross-view-contrastive-masked</link>
-      <description><![CDATA[We propose a metadata-aware self-supervised learning~(SSL)~framework useful for fine-grained classification and ecological mapping of bird species around the world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/birdsat-cross-view-contrastive-masked</guid>
+      <title>The Utility of "Even if..." Semifactual Explanation to Optimise Positive Outcomes</title>
+      <link>https://paperswithcode.com/paper/the-utility-of-even-if-semifactual</link>
+      <description><![CDATA[When users receive either a positive or negative outcome from an automated system, Explainable AI (XAI) has almost exclusively focused on how to mutate negative outcomes into positive ones by crossing a decision boundary using counterfactuals (e. g., \textit{"If you earn 2k more, we will accept your loan application"}).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-utility-of-even-if-semifactual</guid>
+    </item>
+    <item>
+      <title>TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding</title>
+      <link>https://paperswithcode.com/paper/testa-temporal-spatial-token-aggregation-for</link>
+      <description><![CDATA[TESTA can reduce the number of visual tokens by 75% and thus accelerate video encoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/testa-temporal-spatial-token-aggregation-for</guid>
     </item>
     <item>
       <title>TRIAGE: Characterizing and auditing training data for improved regression</title>
@@ -99,10 +147,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/qwid-quantized-weed-identification-deep</guid>
     </item>
     <item>
-      <title>Emergence of Shape Bias in Convolutional Neural Networks through Activation Sparsity</title>
-      <link>https://paperswithcode.com/paper/emergence-of-shape-bias-in-convolutional</link>
-      <description><![CDATA[In this paper, we report that sparse coding, a ubiquitous principle in the brain, can in itself introduce shape bias into the network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/emergence-of-shape-bias-in-convolutional</guid>
+      <title>Proving Linear Mode Connectivity of Neural Networks via Optimal Transport</title>
+      <link>https://paperswithcode.com/paper/proving-linear-mode-connectivity-of-neural</link>
+      <description><![CDATA[The energy landscape of high-dimensional non-convex optimization problems is crucial to understanding the effectiveness of modern deep neural network architectures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/proving-linear-mode-connectivity-of-neural</guid>
+    </item>
+    <item>
+      <title>Identifiable Contrastive Learning with Automatic Feature Importance Discovery</title>
+      <link>https://paperswithcode.com/paper/identifiable-contrastive-learning-with</link>
+      <description><![CDATA[Theoretically, it lacks feature identifiability and different initialization may lead to totally different features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/identifiable-contrastive-learning-with</guid>
     </item>
     <item>
       <title>Simple and Asymmetric Graph Contrastive Learning without Augmentations</title>
@@ -117,58 +171,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/raifle-reconstruction-attacks-on-interaction</guid>
     </item>
     <item>
-      <title>Roles of Scaling and Instruction Tuning in Language Perception: Model vs. Human Attention</title>
-      <link>https://paperswithcode.com/paper/roles-of-scaling-and-instruction-tuning-in</link>
-      <description><![CDATA[Recent large language models (LLMs) have revealed strong abilities to understand natural language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/roles-of-scaling-and-instruction-tuning-in</guid>
-    </item>
-    <item>
-      <title>TESTA: Temporal-Spatial Token Aggregation for Long-form Video-Language Understanding</title>
-      <link>https://paperswithcode.com/paper/testa-temporal-spatial-token-aggregation-for</link>
-      <description><![CDATA[TESTA can reduce the number of visual tokens by 75% and thus accelerate video encoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/testa-temporal-spatial-token-aggregation-for</guid>
-    </item>
-    <item>
-      <title>Evaluating LLP Methods: Challenges and Approaches</title>
-      <link>https://paperswithcode.com/paper/evaluating-llp-methods-challenges-and</link>
-      <description><![CDATA[Fundamental complications arise because of the existence of different LLP variants, i. e., dependence structures that can exist between items, labels, and bags.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-llp-methods-challenges-and</guid>
-    </item>
-    <item>
-      <title>Women Wearing Lipstick: Measuring the Bias Between an Object and Its Related Gender</title>
-      <link>https://paperswithcode.com/paper/women-wearing-lipstick-measuring-the-bias</link>
-      <description><![CDATA[In addition, we propose a visual semantic-based gender score that measures the degree of bias and can be used as a plug-in for any image captioning system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/women-wearing-lipstick-measuring-the-bias</guid>
-    </item>
-    <item>
-      <title>Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V</title>
-      <link>https://paperswithcode.com/paper/multimodal-chatgpt-for-medical-applications</link>
-      <description><![CDATA[In this paper, we critically evaluate the capabilities of the state-of-the-art multimodal large language model, i. e., GPT-4 with Vision (GPT-4V), on Visual Question Answering (VQA) task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chatgpt-for-medical-applications</guid>
-    </item>
-    <item>
-      <title>Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery</title>
-      <link>https://paperswithcode.com/paper/dynamic-task-and-weight-prioritization</link>
-      <description><![CDATA[Our primary objective is to develop a curriculum-trained multimodal deep learning model, with a particular focus on visual question answering (VQA) capable of jointly processing image and text data, in conjunction with semantic segmentation for disaster analytics using the FloodNet\footnote{https://github. com/BinaLab/FloodNet-Challenge-EARTHVISION2021} dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-task-and-weight-prioritization</guid>
-    </item>
-    <item>
-      <title>Does Invariant Graph Learning via Environment Augmentation Learn Invariance?</title>
-      <link>https://paperswithcode.com/paper/does-invariant-graph-learning-via-environment</link>
-      <description><![CDATA[Invariant graph representation learning aims to learn the invariance among data from different environments for out-of-distribution generalization on graphs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/does-invariant-graph-learning-via-environment</guid>
-    </item>
-    <item>
-      <title>Adversarial Examples Are Not Real Features</title>
-      <link>https://paperswithcode.com/paper/adversarial-examples-are-not-real-features</link>
-      <description><![CDATA[A well-known theory by \citet{ilyas2019adversarial} explains adversarial vulnerability from a data perspective by showing that one can extract non-robust features from adversarial examples and these features alone are useful for classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-examples-are-not-real-features</guid>
-    </item>
-    <item>
-      <title>Identifiable Contrastive Learning with Automatic Feature Importance Discovery</title>
-      <link>https://paperswithcode.com/paper/identifiable-contrastive-learning-with</link>
-      <description><![CDATA[Theoretically, it lacks feature identifiability and different initialization may lead to totally different features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/identifiable-contrastive-learning-with</guid>
+      <title>Learning to Follow Object-Centric Image Editing Instructions Faithfully</title>
+      <link>https://paperswithcode.com/paper/learning-to-follow-object-centric-image</link>
+      <description><![CDATA[Current approaches focusing on image editing with natural language instructions rely on automatically generated paired data, which, as shown in our investigation, is noisy and sometimes nonsensical, exacerbating the above issues.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-follow-object-centric-image</guid>
     </item>
     <item>
       <title>Poisoning Retrieval Corpora by Injecting Adversarial Passages</title>
@@ -177,106 +183,106 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/poisoning-retrieval-corpora-by-injecting</guid>
     </item>
     <item>
+      <title>Adversarial Examples Are Not Real Features</title>
+      <link>https://paperswithcode.com/paper/adversarial-examples-are-not-real-features</link>
+      <description><![CDATA[A well-known theory by \citet{ilyas2019adversarial} explains adversarial vulnerability from a data perspective by showing that one can extract non-robust features from adversarial examples and these features alone are useful for classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-examples-are-not-real-features</guid>
+    </item>
+    <item>
       <title>Analyzing Vision Transformers for Image Classification in Class Embedding Space</title>
       <link>https://paperswithcode.com/paper/analyzing-vision-transformers-for-image</link>
       <description><![CDATA[Inspired by previous research in NLP, we demonstrate how the inner representations at any level of the hierarchy can be projected onto the learned class embedding space to uncover how these networks build categorical representations for their predictions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/analyzing-vision-transformers-for-image</guid>
     </item>
     <item>
-      <title>Learning to Follow Object-Centric Image Editing Instructions Faithfully</title>
-      <link>https://paperswithcode.com/paper/learning-to-follow-object-centric-image</link>
-      <description><![CDATA[Current approaches focusing on image editing with natural language instructions rely on automatically generated paired data, which, as shown in our investigation, is noisy and sometimes nonsensical, exacerbating the above issues.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-follow-object-centric-image</guid>
+      <title>Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V</title>
+      <link>https://paperswithcode.com/paper/multimodal-chatgpt-for-medical-applications</link>
+      <description><![CDATA[In this paper, we critically evaluate the capabilities of the state-of-the-art multimodal large language model, i. e., GPT-4 with Vision (GPT-4V), on Visual Question Answering (VQA) task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-chatgpt-for-medical-applications</guid>
     </item>
     <item>
-      <title>AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection</title>
-      <link>https://paperswithcode.com/paper/anomalyclip-object-agnostic-prompt-learning</link>
-      <description><![CDATA[It is a crucial task when training data is not accessible due to various concerns, \eg, data privacy, yet it is challenging since the models need to generalize to anomalies across different domains where the appearance of foreground objects, abnormal regions, and background features, such as defects/tumors on different products/organs, can vary significantly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anomalyclip-object-agnostic-prompt-learning</guid>
+      <title>Pre-trained Speech Processing Models Contain Human-Like Biases that Propagate to Speech Emotion Recognition</title>
+      <link>https://paperswithcode.com/paper/pre-trained-speech-processing-models-contain</link>
+      <description><![CDATA[We compare biases found in pre-trained models to biases in downstream models adapted to the task of Speech Emotion Recognition (SER) and find that in 66 of the 96 tests performed (69%), the group that is more associated with positive valence as indicated by the SpEAT also tends to be predicted as speaking with higher valence by the downstream model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pre-trained-speech-processing-models-contain</guid>
     </item>
     <item>
-      <title>Estimating the Rate-Distortion Function by Wasserstein Gradient Descent</title>
-      <link>https://paperswithcode.com/paper/estimating-the-rate-distortion-function-by</link>
-      <description><![CDATA[In the theory of lossy compression, the rate-distortion (R-D) function $R(D)$ describes how much a data source can be compressed (in bit-rate) at any given level of fidelity (distortion).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/estimating-the-rate-distortion-function-by</guid>
+      <title>Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction</title>
+      <link>https://paperswithcode.com/paper/efficient-test-time-adaptation-for-super</link>
+      <description><![CDATA[Then, we adapt the SR model by implementing feature-level reconstruction learning from the initial test image to its second-order degraded counterparts, which helps the SR model generate plausible HR images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-test-time-adaptation-for-super</guid>
     </item>
     <item>
-      <title>The Utility of "Even if..." Semifactual Explanation to Optimise Positive Outcomes</title>
-      <link>https://paperswithcode.com/paper/the-utility-of-even-if-semifactual</link>
-      <description><![CDATA[When users receive either a positive or negative outcome from an automated system, Explainable AI (XAI) has almost exclusively focused on how to mutate negative outcomes into positive ones by crossing a decision boundary using counterfactuals (e. g., \textit{"If you earn 2k more, we will accept your loan application"}).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-utility-of-even-if-semifactual</guid>
+      <title>Counterfactually Probing Language Identity in Multilingual Models</title>
+      <link>https://paperswithcode.com/paper/counterfactually-probing-language-identity-in</link>
+      <description><![CDATA[We use one such technique, AlterRep, a method of counterfactual probing, to explore the internal structure of multilingual models (mBERT and XLM-R).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactually-probing-language-identity-in</guid>
     </item>
     <item>
-      <title>TIC-TAC: A Framework To Learn And Evaluate Your Covariance</title>
-      <link>https://paperswithcode.com/paper/tic-tac-a-framework-to-learn-and-evaluate</link>
-      <description><![CDATA[We study the problem of unsupervised heteroscedastic covariance estimation, where the goal is to learn the multivariate target distribution $\mathcal{N}(y, \Sigma_y | x )$ given an observation $x$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tic-tac-a-framework-to-learn-and-evaluate</guid>
+      <title>BERT Lost Patience Won't Be Robust to Adversarial Slowdown</title>
+      <link>https://paperswithcode.com/paper/bert-lost-patience-won-t-be-robust-to</link>
+      <description><![CDATA[In this paper, we systematically evaluate the robustness of multi-exit language models against adversarial slowdown.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bert-lost-patience-won-t-be-robust-to</guid>
     </item>
     <item>
-      <title>Leveraging Multimodal Features and Item-level User Feedback for Bundle Construction</title>
-      <link>https://paperswithcode.com/paper/leveraging-multimodal-features-and-item-level</link>
-      <description><![CDATA[Specifically, we use self-attention modules to combine the multimodal and multi-item features, and then leverage both item- and bundle-level contrastive learning to enhance the representation learning, thus to counter the modality missing, noise, and sparsity problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-multimodal-features-and-item-level</guid>
+      <title>Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First</title>
+      <link>https://paperswithcode.com/paper/curriculum-learning-for-graph-neural-networks-1</link>
+      <description><![CDATA[To address these issues, we propose a novel CL strategy to gradually incorporate more edges into training according to their difficulty from easy to hard, where the degree of difficulty is measured by how well the edges are expected given the model training status.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/curriculum-learning-for-graph-neural-networks-1</guid>
     </item>
     <item>
-      <title>TorchDEQ: A Library for Deep Equilibrium Models</title>
-      <link>https://paperswithcode.com/paper/torchdeq-a-library-for-deep-equilibrium</link>
-      <description><![CDATA[Deep Equilibrium (DEQ) Models, an emerging class of implicit models that maps inputs to fixed points of neural networks, are of growing interest in the deep learning community.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/torchdeq-a-library-for-deep-equilibrium</guid>
+      <title>Punica: Multi-Tenant LoRA Serving</title>
+      <link>https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</link>
+      <description><![CDATA[Our scheduler consolidates multi-tenant LoRA serving workloads in a shared GPU cluster.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</guid>
     </item>
     <item>
-      <title>Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition</title>
-      <link>https://paperswithcode.com/paper/rethinking-semi-supervised-imbalanced-node</link>
-      <description><![CDATA[This work provides a novel theoretical perspective for addressing the problem of imbalanced node classification in GNNs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-semi-supervised-imbalanced-node</guid>
+      <title>Responsible AI (RAI) Games and Ensembles</title>
+      <link>https://paperswithcode.com/paper/responsible-ai-rai-games-and-ensembles</link>
+      <description><![CDATA[Several recent works have studied the societal effects of AI; these include issues such as fairness, robustness, and safety.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/responsible-ai-rai-games-and-ensembles</guid>
     </item>
     <item>
-      <title>Temporally Disentangled Representation Learning under Unknown Nonstationarity</title>
-      <link>https://paperswithcode.com/paper/temporally-disentangled-representation-1</link>
-      <description><![CDATA[In unsupervised causal representation learning for sequential data with time-delayed latent causal influences, strong identifiability results for the disentanglement of causally-related latent variables have been established in stationary settings by leveraging temporal structure.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/temporally-disentangled-representation-1</guid>
+      <title>When Reviewers Lock Horn: Finding Disagreement in Scientific Peer Reviews</title>
+      <link>https://paperswithcode.com/paper/when-reviewers-lock-horn-finding-disagreement</link>
+      <description><![CDATA[To the best of our knowledge, we make the first attempt to identify disagreements among peer reviewers automatically.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/when-reviewers-lock-horn-finding-disagreement</guid>
     </item>
     <item>
-      <title>Inverse distance weighting attention</title>
-      <link>https://paperswithcode.com/paper/inverse-distance-weighting-attention</link>
-      <description><![CDATA[We report the effects of replacing the scaled dot-product (within softmax) attention with the negative-log of Euclidean distance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inverse-distance-weighting-attention</guid>
+      <title>Self-Supervised Multi-Modality Learning for Multi-Label Skin Lesion Classification</title>
+      <link>https://paperswithcode.com/paper/self-supervised-multi-modality-learning-for</link>
+      <description><![CDATA[The clinical diagnosis of skin lesion involves the analysis of dermoscopic and clinical modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-multi-modality-learning-for</guid>
     </item>
     <item>
-      <title>Episodic Multi-Task Learning with Heterogeneous Neural Processes</title>
-      <link>https://paperswithcode.com/paper/episodic-multi-task-learning-with</link>
-      <description><![CDATA[This paper focuses on the data-insufficiency problem in multi-task learning within an episodic training setup.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/episodic-multi-task-learning-with</guid>
+      <title>Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning</title>
+      <link>https://paperswithcode.com/paper/breaking-the-trilemma-of-privacy-utility</link>
+      <description><![CDATA[Exploring the full spectrum of trade-offs between privacy, model utility, and runtime efficiency is critical for practical unlearning scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/breaking-the-trilemma-of-privacy-utility</guid>
     </item>
     <item>
-      <title>Local-Global Self-Supervised Visual Representation Learning</title>
-      <link>https://paperswithcode.com/paper/local-global-self-supervised-visual</link>
-      <description><![CDATA[The result is the generation of both image-level and patch-level representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/local-global-self-supervised-visual</guid>
+      <title>Laplacian Canonization: A Minimalist Approach to Sign and Basis Invariant Spectral Embedding</title>
+      <link>https://paperswithcode.com/paper/laplacian-canonization-a-minimalist-approach</link>
+      <description><![CDATA[However, from a theoretical perspective, the universal expressive power of spectral embedding comes at the price of losing two important invariance properties of graphs, sign and basis invariance, which also limits its effectiveness on graph data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/laplacian-canonization-a-minimalist-approach</guid>
     </item>
     <item>
-      <title>Successfully Applying Lottery Ticket Hypothesis to Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/successfully-applying-lottery-ticket</link>
-      <description><![CDATA[Therefore, we propose to find the winning ticket with varying sparsity along different layers in the model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/successfully-applying-lottery-ticket</guid>
+      <title>Electrical Impedance Tomography: A Fair Comparative Study on Deep Learning and Analytic-based Approaches</title>
+      <link>https://paperswithcode.com/paper/electrical-impedance-tomography-a-fair</link>
+      <description><![CDATA[A suite of performance metrics is employed to assess the efficacy of these methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/electrical-impedance-tomography-a-fair</guid>
     </item>
     <item>
-      <title>Adaptive Test-Time Personalization for Federated Learning</title>
-      <link>https://paperswithcode.com/paper/adaptive-test-time-personalization-for</link>
-      <description><![CDATA[To tackle this challenge, we propose a novel algorithm called ATP to adaptively learns the adaptation rates for each module in the model from distribution shifts among source domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adaptive-test-time-personalization-for</guid>
+      <title>Dense Retrieval as Indirect Supervision for Large-space Decision Making</title>
+      <link>https://paperswithcode.com/paper/dense-retrieval-as-indirect-supervision-for</link>
+      <description><![CDATA[Many discriminative natural language understanding (NLU) tasks have large label spaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dense-retrieval-as-indirect-supervision-for</guid>
     </item>
     <item>
-      <title>Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/customizing-360-degree-panoramas-through-text</link>
-      <description><![CDATA[To address this issue, we propose a method called StitchDiffusion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/customizing-360-degree-panoramas-through-text</guid>
-    </item>
-    <item>
-      <title>Anaphor Assisted Document-Level Relation Extraction</title>
-      <link>https://paperswithcode.com/paper/anaphor-assisted-document-level-relation</link>
-      <description><![CDATA[Existing methods focus on building a heterogeneous document graph to model the internal structure of an entity and the external interaction between entities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anaphor-assisted-document-level-relation</guid>
+      <title>Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition</title>
+      <link>https://paperswithcode.com/paper/optimization-free-test-time-adaptation-for</link>
+      <description><![CDATA[However, the high computational cost of optimization-based TTA algorithms makes it intractable to run on resource-constrained edge devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/optimization-free-test-time-adaptation-for</guid>
     </item>
     <item>
       <title>ALERTA-Net: A Temporal Distance-Aware Recurrent Networks for Stock Movement and Volatility Prediction</title>
@@ -285,28 +291,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/alerta-net-a-temporal-distance-aware</guid>
     </item>
     <item>
-      <title>Probing LLMs for Joint Encoding of Linguistic Categories</title>
-      <link>https://paperswithcode.com/paper/probing-llms-for-joint-encoding-of-linguistic</link>
-      <description><![CDATA[Large Language Models (LLMs) exhibit impressive performance on a range of NLP tasks, due to the general-purpose linguistic knowledge acquired during pretraining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/probing-llms-for-joint-encoding-of-linguistic</guid>
+      <title>Group Robust Classification Without Any Group Information</title>
+      <link>https://paperswithcode.com/paper/group-robust-classification-without-any-group</link>
+      <description><![CDATA[This study contends that current bias-unsupervised approaches to group robustness continue to rely on group information to achieve optimal performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/group-robust-classification-without-any-group</guid>
     </item>
     <item>
-      <title>Discourse Structures Guided Fine-grained Propaganda Identification</title>
-      <link>https://paperswithcode.com/paper/discourse-structures-guided-fine-grained</link>
-      <description><![CDATA[Hence, we propose to incorporate both local and global discourse structures for propaganda discovery and construct two teacher models for identifying PDTB-style discourse relations between nearby sentences and common discourse roles of sentences in a news article respectively.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/discourse-structures-guided-fine-grained</guid>
+      <title>Local-Global Self-Supervised Visual Representation Learning</title>
+      <link>https://paperswithcode.com/paper/local-global-self-supervised-visual</link>
+      <description><![CDATA[The result is the generation of both image-level and patch-level representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/local-global-self-supervised-visual</guid>
     </item>
     <item>
-      <title>MILDSum: A Novel Benchmark Dataset for Multilingual Summarization of Indian Legal Case Judgments</title>
-      <link>https://paperswithcode.com/paper/mildsum-a-novel-benchmark-dataset-for</link>
-      <description><![CDATA[Automatic summarization of legal case judgments is a practically important problem that has attracted substantial research efforts in many countries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mildsum-a-novel-benchmark-dataset-for</guid>
-    </item>
-    <item>
-      <title>EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images</title>
-      <link>https://paperswithcode.com/paper/ehrxqa-a-multi-modal-question-answering</link>
-      <description><![CDATA[To develop our dataset, we first construct two uni-modal resources: 1) The MIMIC- CXR-VQA dataset, our newly created medical visual question answering (VQA) benchmark, specifically designed to augment the imaging modality in EHR QA, and 2) EHRSQL (MIMIC-IV), a refashioned version of a previously established table-based EHR QA dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ehrxqa-a-multi-modal-question-answering</guid>
+      <title>Domain Generalisation via Risk Distribution Matching</title>
+      <link>https://paperswithcode.com/paper/domain-generalisation-via-risk-distribution</link>
+      <description><![CDATA[Hence, we propose a compelling proposition: Minimising the divergences between risk distributions across training domains leads to robust invariance for DG.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/domain-generalisation-via-risk-distribution</guid>
     </item>
   </channel>
 </rss>
