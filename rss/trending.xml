@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Nov 2023 21:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Nov 2023 09:10:25 +0000</lastBuildDate>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
       <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
@@ -15,82 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior</title>
-      <link>https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</link>
-      <description><![CDATA[The score distillation from this 3D-aware diffusion prior provides view-consistent guidance for the scene.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</guid>
+      <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
+      <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
+      <description><![CDATA[As the size of pre-trained speech recognition models increases, running these large models in low-latency or resource-constrained environments becomes challenging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
     </item>
     <item>
-      <title>FP8-LM: Training FP8 Large Language Models</title>
-      <link>https://paperswithcode.com/paper/fp8-lm-training-fp8-large-language-models</link>
-      <description><![CDATA[In this paper, we explore FP8 low-bit data formats for efficient training of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fp8-lm-training-fp8-large-language-models</guid>
-    </item>
-    <item>
-      <title>Zephyr: Direct Distillation of LM Alignment</title>
-      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
-      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
-    </item>
-    <item>
-      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
-      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
-      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
-    </item>
-    <item>
-      <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
-      <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
-      <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
-    </item>
-    <item>
-      <title>Natural Language is All a Graph Needs</title>
-      <link>https://paperswithcode.com/paper/natural-language-is-all-a-graph-needs</link>
-      <description><![CDATA[The emergence of large-scale pre-trained language models, such as ChatGPT, has revolutionized various research fields in artificial intelligence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/natural-language-is-all-a-graph-needs</guid>
-    </item>
-    <item>
-      <title>ControlLLM: Augment Language Models with Tools by Searching on Graphs</title>
-      <link>https://paperswithcode.com/paper/controlllm-augment-language-models-with-tools</link>
-      <description><![CDATA[We present ControlLLM, a novel framework that enables large language models (LLMs) to utilize multi-modal tools for solving complex real-world tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/controlllm-augment-language-models-with-tools</guid>
-    </item>
-    <item>
-      <title>GraphGPT: Graph Instruction Tuning for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/graphgpt-graph-instruction-tuning-for-large</link>
-      <description><![CDATA[In this work, we present the GraphGPT framework that aligns LLMs with graph structural knowledge with a graph instruction tuning paradigm.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graphgpt-graph-instruction-tuning-for-large</guid>
-    </item>
-    <item>
-      <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
-      <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
-      <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
-    </item>
-    <item>
-      <title>Woodpecker: Hallucination Correction for Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/woodpecker-hallucination-correction-for</link>
-      <description><![CDATA[Hallucination is a big shadow hanging over the rapidly evolving Multimodal Large Language Models (MLLMs), referring to the phenomenon that the generated text is inconsistent with the image content.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/woodpecker-hallucination-correction-for</guid>
-    </item>
-    <item>
-      <title>Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model</title>
-      <link>https://paperswithcode.com/paper/zero123-a-single-image-to-consistent-multi</link>
-      <description><![CDATA[We report Zero123++, an image-conditioned diffusion model for generating 3D-consistent multi-view images from a single input view.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero123-a-single-image-to-consistent-multi</guid>
-    </item>
-    <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
-    </item>
-    <item>
-      <title>JudgeLM: Fine-tuned Large Language Models are Scalable Judges</title>
-      <link>https://paperswithcode.com/paper/judgelm-fine-tuned-large-language-models-are</link>
-      <description><![CDATA[To address this problem, we propose to fine-tune LLMs as scalable judges (JudgeLM) to evaluate LLMs efficiently and effectively in open-ended benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/judgelm-fine-tuned-large-language-models-are</guid>
+      <title>Skywork: A More Open Bilingual Foundation Model</title>
+      <link>https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</link>
+      <description><![CDATA[In this technical report, we present Skywork-13B, a family of large language models (LLMs) trained on a corpus of over 3. 2 trillion tokens drawn from both English and Chinese texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</guid>
     </item>
     <item>
       <title>VideoCrafter1: Open Diffusion Models for High-Quality Video Generation</title>
@@ -99,34 +33,100 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videocrafter1-open-diffusion-models-for-high</guid>
     </item>
     <item>
-      <title>DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning</title>
-      <link>https://paperswithcode.com/paper/disc-finllm-a-chinese-financial-large</link>
-      <description><![CDATA[We propose Multiple Experts Fine-tuning Framework to build a financial large language model (LLM), DISC-FinLLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disc-finllm-a-chinese-financial-large</guid>
+      <title>DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors</title>
+      <link>https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</link>
+      <description><![CDATA[To supplement more precise image information, we further feed the full image to the diffusion model by concatenating it with the initial noises.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</guid>
     </item>
     <item>
-      <title>Llemma: An Open Language Model For Mathematics</title>
-      <link>https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</link>
-      <description><![CDATA[We present Llemma, a large language model for mathematics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llemma-an-open-language-model-for-mathematics</guid>
+      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
+      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
+      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
     <item>
-      <title>Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video</title>
-      <link>https://paperswithcode.com/paper/co-evolution-of-pose-and-mesh-for-3d-human</link>
-      <description><![CDATA[Despite significant progress in single image-based 3D human mesh recovery, accurately and smoothly recovering 3D human motion from a video remains challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/co-evolution-of-pose-and-mesh-for-3d-human</guid>
+      <title>Evaluating Large Language Models: A Comprehensive Survey</title>
+      <link>https://paperswithcode.com/paper/evaluating-large-language-models-a</link>
+      <description><![CDATA[We hope that this comprehensive overview will stimulate further research interests in the evaluation of LLMs, with the ultimate goal of making evaluation serve as a cornerstone in guiding the responsible development of LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-a</guid>
     </item>
     <item>
-      <title>iTransformer: Inverted Transformers Are Effective for Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/itransformer-inverted-transformers-are</link>
-      <description><![CDATA[These forecasters leverage Transformers to model the global dependencies over temporal tokens of time series, with each token formed by multiple variates of the same timestamp.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/itransformer-inverted-transformers-are</guid>
+      <title>FP8-LM: Training FP8 Large Language Models</title>
+      <link>https://paperswithcode.com/paper/fp8-lm-training-fp8-large-language-models</link>
+      <description><![CDATA[In this paper, we explore FP8 low-bit data formats for efficient training of large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fp8-lm-training-fp8-large-language-models</guid>
     </item>
     <item>
-      <title>Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture</title>
-      <link>https://paperswithcode.com/paper/monarch-mixer-a-simple-sub-quadratic-gemm</link>
-      <description><![CDATA[We ask: are there performant architectures that can scale sub-quadratically along sequence length and model dimension?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monarch-mixer-a-simple-sub-quadratic-gemm</guid>
+      <title>DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior</title>
+      <link>https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</link>
+      <description><![CDATA[The score distillation from this 3D-aware diffusion prior provides view-consistent guidance for the scene.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</guid>
+    </item>
+    <item>
+      <title>Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks</title>
+      <link>https://paperswithcode.com/paper/battle-of-the-backbones-a-large-scale</link>
+      <description><![CDATA[Battle of the Backbones (BoB) makes this choice easier by benchmarking a diverse suite of pretrained models, including vision-language models, those trained via self-supervised learning, and the Stable Diffusion backbone, across a diverse set of computer vision tasks ranging from classification to object detection to OOD generalization and more.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/battle-of-the-backbones-a-large-scale</guid>
+    </item>
+    <item>
+      <title>Natural Language is All a Graph Needs</title>
+      <link>https://paperswithcode.com/paper/natural-language-is-all-a-graph-needs</link>
+      <description><![CDATA[The emergence of large-scale pre-trained language models, such as ChatGPT, has revolutionized various research fields in artificial intelligence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/natural-language-is-all-a-graph-needs</guid>
+    </item>
+    <item>
+      <title>Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection</title>
+      <link>https://paperswithcode.com/paper/self-rag-learning-to-retrieve-generate-and</link>
+      <description><![CDATA[Our framework trains a single arbitrary LM that adaptively retrieves passages on-demand, and generates and reflects on retrieved passages and its own generations using special tokens, called reflection tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-rag-learning-to-retrieve-generate-and</guid>
+    </item>
+    <item>
+      <title>Diffusion Models for Reinforcement Learning: A Survey</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-for-reinforcement-learning-a</link>
+      <description><![CDATA[Diffusion models have emerged as a prominent class of generative models, surpassing previous methods regarding sample quality and training stability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-reinforcement-learning-a</guid>
+    </item>
+    <item>
+      <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
+      <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
+      <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
+    </item>
+    <item>
+      <title>Low-latency Real-time Voice Conversion on CPU</title>
+      <link>https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</link>
+      <description><![CDATA[To our knowledge LLVC achieves both the lowest resource usage as well as the lowest latency of any open-source voice conversion model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</guid>
+    </item>
+    <item>
+      <title>ManimML: Communicating Machine Learning Architectures with Animation</title>
+      <link>https://paperswithcode.com/paper/manimml-communicating-machine-learning</link>
+      <description><![CDATA[A user can take a preexisting neural network architecture and easily write a specification for an animation in ManimML, which will then automatically compose animations for different components of the system into a final animation of the entire neural network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/manimml-communicating-machine-learning</guid>
+    </item>
+    <item>
+      <title>Efficient LLM Inference on CPUs</title>
+      <link>https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</link>
+      <description><![CDATA[Large language models (LLMs) have demonstrated remarkable performance and tremendous potential across a wide range of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</guid>
+    </item>
+    <item>
+      <title>Zephyr: Direct Distillation of LM Alignment</title>
+      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
+      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
+    </item>
+    <item>
+      <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
+      <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
+      <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
+    </item>
+    <item>
+      <title>LLMRec: Large Language Models with Graph Augmentation for Recommendation</title>
+      <link>https://paperswithcode.com/paper/llmrec-large-language-models-with-graph</link>
+      <description><![CDATA[By employing these strategies, we address the challenges posed by sparse implicit feedback and low-quality side information in recommenders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llmrec-large-language-models-with-graph</guid>
     </item>
   </channel>
 </rss>
