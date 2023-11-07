@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Nov 2023 09:11:53 +0000</lastBuildDate>
-    <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
+    <lastBuildDate>Tue, 07 Nov 2023 21:06:15 +0000</lastBuildDate>
     <item>
       <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
       <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
@@ -21,10 +15,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
     </item>
     <item>
+      <title>OpenChat: Advancing Open-source Language Models with Mixed-Quality Data</title>
+      <link>https://paperswithcode.com/paper/openchat-advancing-open-source-language</link>
+      <description><![CDATA[Specifically, we consider the general SFT training data, consisting of a small amount of expert data mixed with a large proportion of sub-optimal data, without any preference labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openchat-advancing-open-source-language</guid>
+    </item>
+    <item>
       <title>Low-latency Real-time Voice Conversion on CPU</title>
       <link>https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</link>
       <description><![CDATA[To our knowledge LLVC achieves both the lowest resource usage as well as the lowest latency of any open-source voice conversion model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</guid>
+    </item>
+    <item>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
+      <title>GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond</title>
+      <link>https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</link>
+      <description><![CDATA[With the rapid advancement of large language models (LLMs), there is a pressing need for a comprehensive evaluation suite to assess their capabilities and limitations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</guid>
+    </item>
+    <item>
+      <title>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</link>
+      <description><![CDATA[While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</guid>
+    </item>
+    <item>
+      <title>A Survey of Large Language Models for Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/a-survey-of-large-language-models-for-1</link>
+      <description><![CDATA[Recently, large language models (LLMs) have demonstrated abilities including understanding context, logical reasoning, and generating answers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models-for-1</guid>
+    </item>
+    <item>
+      <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
+      <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
+      <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
+    </item>
+    <item>
+      <title>ManimML: Communicating Machine Learning Architectures with Animation</title>
+      <link>https://paperswithcode.com/paper/manimml-communicating-machine-learning</link>
+      <description><![CDATA[A user can take a preexisting neural network architecture and easily write a specification for an animation in ManimML, which will then automatically compose animations for different components of the system into a final animation of the entire neural network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/manimml-communicating-machine-learning</guid>
     </item>
     <item>
       <title>VideoCrafter1: Open Diffusion Models for High-Quality Video Generation</title>
@@ -39,76 +75,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
     </item>
     <item>
-      <title>Skywork: A More Open Bilingual Foundation Model</title>
-      <link>https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</link>
-      <description><![CDATA[In this technical report, we present Skywork-13B, a family of large language models (LLMs) trained on a corpus of over 3. 2 trillion tokens drawn from both English and Chinese texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</guid>
-    </item>
-    <item>
-      <title>Evaluating Large Language Models: A Comprehensive Survey</title>
-      <link>https://paperswithcode.com/paper/evaluating-large-language-models-a</link>
-      <description><![CDATA[We hope that this comprehensive overview will stimulate further research interests in the evaluation of LLMs, with the ultimate goal of making evaluation serve as a cornerstone in guiding the responsible development of LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-a</guid>
-    </item>
-    <item>
-      <title>A Survey of Large Language Models for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/a-survey-of-large-language-models-for-1</link>
-      <description><![CDATA[Recently, large language models (LLMs) have demonstrated abilities including understanding context, logical reasoning, and generating answers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models-for-1</guid>
-    </item>
-    <item>
-      <title>Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks</title>
-      <link>https://paperswithcode.com/paper/battle-of-the-backbones-a-large-scale</link>
-      <description><![CDATA[Battle of the Backbones (BoB) makes this choice easier by benchmarking a diverse suite of pretrained models, including vision-language models, those trained via self-supervised learning, and the Stable Diffusion backbone, across a diverse set of computer vision tasks ranging from classification to object detection to OOD generalization and more.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/battle-of-the-backbones-a-large-scale</guid>
-    </item>
-    <item>
-      <title>OpenChat: Advancing Open-source Language Models with Mixed-Quality Data</title>
-      <link>https://paperswithcode.com/paper/openchat-advancing-open-source-language</link>
-      <description><![CDATA[Specifically, we consider the general SFT training data, consisting of a small amount of expert data mixed with a large proportion of sub-optimal data, without any preference labels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openchat-advancing-open-source-language</guid>
-    </item>
-    <item>
-      <title>GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond</title>
-      <link>https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</link>
-      <description><![CDATA[With the rapid advancement of large language models (LLMs), there is a pressing need for a comprehensive evaluation suite to assess their capabilities and limitations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</guid>
-    </item>
-    <item>
-      <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
-      <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
-      <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
-    </item>
-    <item>
-      <title>Efficient LLM Inference on CPUs</title>
-      <link>https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</link>
-      <description><![CDATA[Large language models (LLMs) have demonstrated remarkable performance and tremendous potential across a wide range of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</guid>
-    </item>
-    <item>
-      <title>ManimML: Communicating Machine Learning Architectures with Animation</title>
-      <link>https://paperswithcode.com/paper/manimml-communicating-machine-learning</link>
-      <description><![CDATA[A user can take a preexisting neural network architecture and easily write a specification for an animation in ManimML, which will then automatically compose animations for different components of the system into a final animation of the entire neural network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/manimml-communicating-machine-learning</guid>
-    </item>
-    <item>
       <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
       <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
       <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
     <item>
-      <title>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</title>
-      <link>https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</link>
-      <description><![CDATA[While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</guid>
+      <title>DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale</title>
+      <link>https://paperswithcode.com/paper/deepspeed-inference-enabling-efficient</link>
+      <description><![CDATA[DeepSpeed Inference reduces latency by up to 7. 3X over the state-of-the-art for latency-oriented scenarios and increases throughput by over 1. 5x for throughput-oriented scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepspeed-inference-enabling-efficient</guid>
     </item>
     <item>
-      <title>Diffusion Models for Reinforcement Learning: A Survey</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-for-reinforcement-learning-a</link>
-      <description><![CDATA[Diffusion models have emerged as a prominent class of generative models, surpassing previous methods regarding sample quality and training stability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-reinforcement-learning-a</guid>
+      <title>Skywork: A More Open Bilingual Foundation Model</title>
+      <link>https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</link>
+      <description><![CDATA[In this technical report, we present Skywork-13B, a family of large language models (LLMs) trained on a corpus of over 3. 2 trillion tokens drawn from both English and Chinese texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</guid>
+    </item>
+    <item>
+      <title>Recognize Any Regions</title>
+      <link>https://paperswithcode.com/paper/recognize-any-regions</link>
+      <description><![CDATA[Understanding the semantics of individual regions or patches within unconstrained images, such as in open-world object detection, represents a critical yet challenging task in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/recognize-any-regions</guid>
     </item>
     <item>
       <title>Learning From Mistakes Makes LLM Better Reasoner</title>
@@ -117,16 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-from-mistakes-makes-llm-better</guid>
     </item>
     <item>
-      <title>FP8-LM: Training FP8 Large Language Models</title>
-      <link>https://paperswithcode.com/paper/fp8-lm-training-fp8-large-language-models</link>
-      <description><![CDATA[In this paper, we explore FP8 low-bit data formats for efficient training of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fp8-lm-training-fp8-large-language-models</guid>
+      <title>Evaluating Large Language Models: A Comprehensive Survey</title>
+      <link>https://paperswithcode.com/paper/evaluating-large-language-models-a</link>
+      <description><![CDATA[We hope that this comprehensive overview will stimulate further research interests in the evaluation of LLMs, with the ultimate goal of making evaluation serve as a cornerstone in guiding the responsible development of LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-a</guid>
     </item>
     <item>
-      <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title>
-      <link>https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</link>
-      <description><![CDATA[Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-consistency-models-synthesizing-high</guid>
+      <title>Diffusion Models for Reinforcement Learning: A Survey</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-for-reinforcement-learning-a</link>
+      <description><![CDATA[Diffusion models have emerged as a prominent class of generative models, surpassing previous methods regarding sample quality and training stability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-reinforcement-learning-a</guid>
+    </item>
+    <item>
+      <title>VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models</title>
+      <link>https://paperswithcode.com/paper/voxposer-composable-3d-value-maps-for-robotic</link>
+      <description><![CDATA[The composed value maps are then used in a model-based planning framework to zero-shot synthesize closed-loop robot trajectories with robustness to dynamic perturbations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/voxposer-composable-3d-value-maps-for-robotic</guid>
+    </item>
+    <item>
+      <title>Towards Foundation Models for Knowledge Graph Reasoning</title>
+      <link>https://paperswithcode.com/paper/towards-foundation-models-for-knowledge-graph</link>
+      <description><![CDATA[The key challenge of designing foundation models on KGs is to learn such transferable representations that enable inference on any graph with arbitrary entity and relation vocabularies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-foundation-models-for-knowledge-graph</guid>
     </item>
   </channel>
 </rss>
