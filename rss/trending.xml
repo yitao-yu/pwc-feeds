@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Nov 2023 21:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 09:11:46 +0000</lastBuildDate>
     <item>
       <title>PhoGPT: Generative Pre-training for Vietnamese</title>
       <link>https://paperswithcode.com/paper/phogpt-generative-pre-training-for-vietnamese</link>
@@ -21,28 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
     </item>
     <item>
-      <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
-      <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
-      <description><![CDATA[As the size of pre-trained speech recognition models increases, running these large models in low-latency or resource-constrained environments becomes challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
-    </item>
-    <item>
       <title>OpenChat: Advancing Open-source Language Models with Mixed-Quality Data</title>
       <link>https://paperswithcode.com/paper/openchat-advancing-open-source-language</link>
       <description><![CDATA[Specifically, we consider the general SFT training data, consisting of a small amount of expert data mixed with a large proportion of sub-optimal data, without any preference labels.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/openchat-advancing-open-source-language</guid>
-    </item>
-    <item>
-      <title>QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models</title>
-      <link>https://paperswithcode.com/paper/towards-end-to-end-4-bit-inference-on</link>
-      <description><![CDATA[We show, for the first time, that the majority of inference computations for large generative models such as LLaMA, OPT, and Falcon can be performed with both weights and activations being cast to 4 bits, in a way that leads to practical speedups, while at the same time maintaining good accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-end-to-end-4-bit-inference-on</guid>
-    </item>
-    <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
       <title>GLaMM: Pixel Grounding Large Multimodal Model</title>
@@ -51,10 +33,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</guid>
     </item>
     <item>
-      <title>Low-latency Real-time Voice Conversion on CPU</title>
-      <link>https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</link>
-      <description><![CDATA[To our knowledge LLVC achieves both the lowest resource usage as well as the lowest latency of any open-source voice conversion model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</guid>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
+      <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
+      <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
+      <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
+    </item>
+    <item>
+      <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
+      <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
+      <description><![CDATA[As the size of pre-trained speech recognition models increases, running these large models in low-latency or resource-constrained environments becomes challenging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
+    </item>
+    <item>
+      <title>QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models</title>
+      <link>https://paperswithcode.com/paper/towards-end-to-end-4-bit-inference-on</link>
+      <description><![CDATA[We show, for the first time, that the majority of inference computations for large generative models such as LLaMA, OPT, and Falcon can be performed with both weights and activations being cast to 4 bits, in a way that leads to practical speedups, while at the same time maintaining good accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-end-to-end-4-bit-inference-on</guid>
     </item>
     <item>
       <title>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</title>
@@ -63,22 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</guid>
     </item>
     <item>
+      <title>Low-latency Real-time Voice Conversion on CPU</title>
+      <link>https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</link>
+      <description><![CDATA[To our knowledge LLVC achieves both the lowest resource usage as well as the lowest latency of any open-source voice conversion model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/low-latency-real-time-voice-conversion-on-cpu</guid>
+    </item>
+    <item>
       <title>A Survey of Large Language Models for Autonomous Driving</title>
       <link>https://paperswithcode.com/paper/a-survey-of-large-language-models-for-1</link>
       <description><![CDATA[Recently, large language models (LLMs) have demonstrated abilities including understanding context, logical reasoning, and generating answers.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-large-language-models-for-1</guid>
-    </item>
-    <item>
-      <title>GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond</title>
-      <link>https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</link>
-      <description><![CDATA[With the rapid advancement of large language models (LLMs), there is a pressing need for a comprehensive evaluation suite to assess their capabilities and limitations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-fathom-benchmarking-large-language-models</guid>
-    </item>
-    <item>
-      <title>OpenAgents: An Open Platform for Language Agents in the Wild</title>
-      <link>https://paperswithcode.com/paper/openagents-an-open-platform-for-language</link>
-      <description><![CDATA[Language agents show potential in being capable of utilizing natural language for varied and intricate tasks in diverse environments, particularly when built upon large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openagents-an-open-platform-for-language</guid>
     </item>
     <item>
       <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
@@ -87,28 +81,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
     <item>
+      <title>Punica: Multi-Tenant LoRA Serving</title>
+      <link>https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</link>
+      <description><![CDATA[Our scheduler consolidates multi-tenant LoRA serving workloads in a shared GPU cluster.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</guid>
+    </item>
+    <item>
       <title>DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale</title>
       <link>https://paperswithcode.com/paper/deepspeed-inference-enabling-efficient</link>
       <description><![CDATA[DeepSpeed Inference reduces latency by up to 7. 3X over the state-of-the-art for latency-oriented scenarios and increases throughput by over 1. 5x for throughput-oriented scenarios.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepspeed-inference-enabling-efficient</guid>
-    </item>
-    <item>
-      <title>Skywork: A More Open Bilingual Foundation Model</title>
-      <link>https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</link>
-      <description><![CDATA[In this technical report, we present Skywork-13B, a family of large language models (LLMs) trained on a corpus of over 3. 2 trillion tokens drawn from both English and Chinese texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</guid>
-    </item>
-    <item>
-      <title>VideoCrafter1: Open Diffusion Models for High-Quality Video Generation</title>
-      <link>https://paperswithcode.com/paper/videocrafter1-open-diffusion-models-for-high</link>
-      <description><![CDATA[The I2V model is designed to produce videos that strictly adhere to the content of the provided reference image, preserving its content, structure, and style.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videocrafter1-open-diffusion-models-for-high</guid>
-    </item>
-    <item>
-      <title>Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs</title>
-      <link>https://paperswithcode.com/paper/tell-your-model-where-to-attend-post-hoc</link>
-      <description><![CDATA[In human-written articles, we often leverage the subtleties of text style, such as bold and italics, to guide the attention of readers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tell-your-model-where-to-attend-post-hoc</guid>
     </item>
     <item>
       <title>TopicGPT: A Prompt-based Topic Modeling Framework</title>
@@ -117,16 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/topicgpt-a-prompt-based-topic-modeling</guid>
     </item>
     <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+      <title>Skywork: A More Open Bilingual Foundation Model</title>
+      <link>https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</link>
+      <description><![CDATA[In this technical report, we present Skywork-13B, a family of large language models (LLMs) trained on a corpus of over 3. 2 trillion tokens drawn from both English and Chinese texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</guid>
+    </item>
+    <item>
+      <title>Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning</title>
+      <link>https://paperswithcode.com/paper/sheared-llama-accelerating-language-model-pre</link>
+      <description><![CDATA[In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sheared-llama-accelerating-language-model-pre</guid>
     </item>
     <item>
       <title>Recognize Any Regions</title>
       <link>https://paperswithcode.com/paper/recognize-any-regions</link>
       <description><![CDATA[Understanding the semantics of individual regions or patches within unconstrained images, such as in open-world object detection, represents a critical yet challenging task in computer vision.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/recognize-any-regions</guid>
+    </item>
+    <item>
+      <title>Stable Diffusion Reference Only: Image Prompt and Blueprint Jointly Guided Multi-Condition Diffusion Model for Secondary Painting</title>
+      <link>https://paperswithcode.com/paper/stable-diffusion-reference-only-image-prompt</link>
+      <description><![CDATA[Therefore, we present a new method in this paper, Stable Diffusion Reference Only, a images-to-image self-supervised model that uses only two types of conditional images for precise control generation to accelerate secondary painting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-diffusion-reference-only-image-prompt</guid>
+    </item>
+    <item>
+      <title>VideoCrafter1: Open Diffusion Models for High-Quality Video Generation</title>
+      <link>https://paperswithcode.com/paper/videocrafter1-open-diffusion-models-for-high</link>
+      <description><![CDATA[The I2V model is designed to produce videos that strictly adhere to the content of the provided reference image, preserving its content, structure, and style.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videocrafter1-open-diffusion-models-for-high</guid>
     </item>
   </channel>
 </rss>
