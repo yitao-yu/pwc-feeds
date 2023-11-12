@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Nov 2023 21:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2023 09:10:33 +0000</lastBuildDate>
     <item>
-      <title>OpenChat: Advancing Open-source Language Models with Mixed-Quality Data</title>
-      <link>https://paperswithcode.com/paper/openchat-advancing-open-source-language</link>
-      <description><![CDATA[Specifically, we consider the general SFT training data, consisting of a small amount of expert data mixed with a large proportion of sub-optimal data, without any preference labels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openchat-advancing-open-source-language</guid>
+      <title>Punica: Multi-Tenant LoRA Serving</title>
+      <link>https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</link>
+      <description><![CDATA[Our scheduler consolidates multi-tenant LoRA serving workloads in a shared GPU cluster.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</guid>
     </item>
     <item>
       <title>PhoGPT: Generative Pre-training for Vietnamese</title>
@@ -21,28 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/phogpt-generative-pre-training-for-vietnamese</guid>
     </item>
     <item>
-      <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
-      <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
-      <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
-    </item>
-    <item>
       <title>CogVLM: Visual Expert for Pretrained Language Models</title>
       <link>https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</link>
       <description><![CDATA[We introduce CogVLM, a powerful open-source visual language foundation model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
     </item>
     <item>
-      <title>Punica: Multi-Tenant LoRA Serving</title>
-      <link>https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</link>
-      <description><![CDATA[Our scheduler consolidates multi-tenant LoRA serving workloads in a shared GPU cluster.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</guid>
-    </item>
-    <item>
-      <title>GLaMM: Pixel Grounding Large Multimodal Model</title>
-      <link>https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</link>
-      <description><![CDATA[In this work, we present Grounding LMM (GLaMM), the first model that can generate natural language responses seamlessly intertwined with corresponding object segmentation masks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</guid>
+      <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
+      <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
+      <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
     </item>
     <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
@@ -51,10 +39,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
     </item>
     <item>
-      <title>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</title>
-      <link>https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</link>
-      <description><![CDATA[While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</guid>
+      <title>Zephyr: Direct Distillation of LM Alignment</title>
+      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
+      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
+    </item>
+    <item>
+      <title>GLaMM: Pixel Grounding Large Multimodal Model</title>
+      <link>https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</link>
+      <description><![CDATA[In this work, we present Grounding LMM (GLaMM), the first model that can generate natural language responses seamlessly intertwined with corresponding object segmentation masks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</guid>
+    </item>
+    <item>
+      <title>How Can Recommender Systems Benefit from Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/how-can-recommender-systems-benefit-from</link>
+      <description><![CDATA[For the "WHERE" question, we discuss the roles that LLM could play in different stages of the recommendation pipeline, i. e., feature engineering, feature encoder, scoring/ranking function, and pipeline controller.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-can-recommender-systems-benefit-from</guid>
+    </item>
+    <item>
+      <title>On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</link>
+      <description><![CDATA[This has been a significant bottleneck, particularly in the development of common sense reasoning and nuanced scene understanding necessary for safe and reliable autonomous driving.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</guid>
+    </item>
+    <item>
+      <title>OpenChat: Advancing Open-source Language Models with Mixed-Quality Data</title>
+      <link>https://paperswithcode.com/paper/openchat-advancing-open-source-language</link>
+      <description><![CDATA[Specifically, we consider the general SFT training data, consisting of a small amount of expert data mixed with a large proportion of sub-optimal data, without any preference labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openchat-advancing-open-source-language</guid>
     </item>
     <item>
       <title>QUIK: Towards End-to-End 4-Bit Inference on Generative Large Language Models</title>
@@ -63,22 +75,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-end-to-end-4-bit-inference-on</guid>
     </item>
     <item>
-      <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
-      <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
-      <description><![CDATA[As the size of pre-trained speech recognition models increases, running these large models in low-latency or resource-constrained environments becomes challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
+      <title>Multi-view Self-supervised Disentanglement for General Image Denoising</title>
+      <link>https://paperswithcode.com/paper/multi-view-self-supervised-disentanglement</link>
+      <description><![CDATA[It is understandable as the model is designed to learn paired mapping (e. g. from a noisy image to its clean version).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-view-self-supervised-disentanglement</guid>
     </item>
     <item>
-      <title>PP-LiteSeg: A Superior Real-Time Semantic Segmentation Model</title>
-      <link>https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</link>
-      <description><![CDATA[Real-world applications have high demands for semantic segmentation methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</guid>
+      <title>LCM-LoRA: A Universal Stable-Diffusion Acceleration Module</title>
+      <link>https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</link>
+      <description><![CDATA[Latent Consistency Models (LCMs) have achieved impressive performance in accelerating text-to-image generative tasks, producing high-quality images with minimal inference steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</guid>
     </item>
     <item>
       <title>Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V</title>
       <link>https://paperswithcode.com/paper/set-of-mark-prompting-unleashes-extraordinary</link>
       <description><![CDATA[We present Set-of-Mark (SoM), a new visual prompting method, to unleash the visual grounding abilities of large multimodal models (LMMs), such as GPT-4V.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/set-of-mark-prompting-unleashes-extraordinary</guid>
+    </item>
+    <item>
+      <title>nnMobileNe: Rethinking CNN for Retinopathy Research</title>
+      <link>https://paperswithcode.com/paper/nnmobile-net-rethinking-cnn-design-for-deep</link>
+      <description><![CDATA[Over the past few decades, convolutional neural networks (CNNs) have been at the forefront of the detection and tracking of various retinal diseases (RD).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nnmobile-net-rethinking-cnn-design-for-deep</guid>
     </item>
     <item>
       <title>VideoCrafter1: Open Diffusion Models for High-Quality Video Generation</title>
@@ -93,40 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</guid>
     </item>
     <item>
-      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
-      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
-      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
+      <title>PP-LiteSeg: A Superior Real-Time Semantic Segmentation Model</title>
+      <link>https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</link>
+      <description><![CDATA[Real-world applications have high demands for semantic segmentation methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</guid>
     </item>
     <item>
-      <title>nnMobileNe: Rethinking CNN for Retinopathy Research</title>
-      <link>https://paperswithcode.com/paper/nnmobile-net-rethinking-cnn-design-for-deep</link>
-      <description><![CDATA[Over the past few decades, convolutional neural networks (CNNs) have been at the forefront of the detection and tracking of various retinal diseases (RD).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nnmobile-net-rethinking-cnn-design-for-deep</guid>
+      <title>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</link>
+      <description><![CDATA[While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1</guid>
     </item>
     <item>
-      <title>On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</link>
-      <description><![CDATA[This has been a significant bottleneck, particularly in the development of common sense reasoning and nuanced scene understanding necessary for safe and reliable autonomous driving.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</guid>
-    </item>
-    <item>
-      <title>Skywork: A More Open Bilingual Foundation Model</title>
-      <link>https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</link>
-      <description><![CDATA[In this technical report, we present Skywork-13B, a family of large language models (LLMs) trained on a corpus of over 3. 2 trillion tokens drawn from both English and Chinese texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/skywork-a-more-open-bilingual-foundation</guid>
-    </item>
-    <item>
-      <title>TopicGPT: A Prompt-based Topic Modeling Framework</title>
-      <link>https://paperswithcode.com/paper/topicgpt-a-prompt-based-topic-modeling</link>
-      <description><![CDATA[Topic modeling is a well-established technique for exploring text corpora.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/topicgpt-a-prompt-based-topic-modeling</guid>
-    </item>
-    <item>
-      <title>LongQLoRA: Efficient and Effective Method to Extend Context Length of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/longqlora-efficient-and-effective-method-to</link>
-      <description><![CDATA[We present LongQLoRA, an efficient and effective method to extend context length of large language models with less training resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longqlora-efficient-and-effective-method-to</guid>
+      <title>Mirror: A Universal Framework for Various Information Extraction Tasks</title>
+      <link>https://paperswithcode.com/paper/mirror-a-universal-framework-for-various</link>
+      <description><![CDATA[Sharing knowledge between information extraction tasks has always been a challenge due to the diverse data formats and task variations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mirror-a-universal-framework-for-various</guid>
     </item>
   </channel>
 </rss>
