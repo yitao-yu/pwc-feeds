@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Nov 2023 21:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 09:12:08 +0000</lastBuildDate>
     <item>
       <title>Zephyr: Direct Distillation of LM Alignment</title>
       <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
       <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
-    </item>
-    <item>
-      <title>Punica: Multi-Tenant LoRA Serving</title>
-      <link>https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</link>
-      <description><![CDATA[Our scheduler consolidates multi-tenant LoRA serving workloads in a shared GPU cluster.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</guid>
     </item>
     <item>
       <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
@@ -27,22 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
     </item>
     <item>
+      <title>Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs</title>
+      <link>https://paperswithcode.com/paper/lumos-learning-agents-with-unified-data</link>
+      <description><![CDATA[Leveraging this unified data and modular design, Lumos not only achieves comparable or superior performance to current, state-of-the-art agents, but also exhibits several key advantages: (1) Lumos surpasses GPT-4/3. 5-based agents in complex question answering and web tasks, while equalling the performance of significantly larger LLM agents on math tasks; (2) Lumos outperforms open-source agents created through conventional training methods and those using chain-of-thoughts training; and (3) Lumos is capable of effectively generalizing to unseen interactive tasks, outperforming larger LLM-based agents and even exceeding performance of specialized agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lumos-learning-agents-with-unified-data</guid>
+    </item>
+    <item>
+      <title>Punica: Multi-Tenant LoRA Serving</title>
+      <link>https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</link>
+      <description><![CDATA[Our scheduler consolidates multi-tenant LoRA serving workloads in a shared GPU cluster.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/punica-multi-tenant-lora-serving</guid>
+    </item>
+    <item>
+      <title>LCM-LoRA: A Universal Stable-Diffusion Acceleration Module</title>
+      <link>https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</link>
+      <description><![CDATA[Latent Consistency Models (LCMs) have achieved impressive performance in accelerating text-to-image generative tasks, producing high-quality images with minimal inference steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</guid>
+    </item>
+    <item>
       <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
       <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
       <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
-      <title>PhoGPT: Generative Pre-training for Vietnamese</title>
-      <link>https://paperswithcode.com/paper/phogpt-generative-pre-training-for-vietnamese</link>
-      <description><![CDATA[We open-source a state-of-the-art 7. 5B-parameter generative model series named PhoGPT for Vietnamese, which includes the base pre-trained monolingual model PhoGPT-7B5 and its instruction-following variant, PhoGPT-7B5-Instruct.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/phogpt-generative-pre-training-for-vietnamese</guid>
-    </item>
-    <item>
-      <title>GLaMM: Pixel Grounding Large Multimodal Model</title>
-      <link>https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</link>
-      <description><![CDATA[In this work, we present Grounding LMM (GLaMM), the first model that can generate natural language responses seamlessly intertwined with corresponding object segmentation masks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</guid>
     </item>
     <item>
       <title>How Can Recommender Systems Benefit from Large Language Models: A Survey</title>
@@ -57,34 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</guid>
     </item>
     <item>
-      <title>LCM-LoRA: A Universal Stable-Diffusion Acceleration Module</title>
-      <link>https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</link>
-      <description><![CDATA[Latent Consistency Models (LCMs) have achieved impressive performance in accelerating text-to-image generative tasks, producing high-quality images with minimal inference steps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</guid>
-    </item>
-    <item>
-      <title>Contrastive Post-training Large Language Models on Data Curriculum</title>
-      <link>https://paperswithcode.com/paper/contrastive-post-training-large-language</link>
-      <description><![CDATA[We also explore a data curriculum learning scheme for contrastive post-training, which starts by learning from "easier" pairs and transitioning to "harder" ones, which further improves alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/contrastive-post-training-large-language</guid>
-    </item>
-    <item>
-      <title>CogVLM: Visual Expert for Pretrained Language Models</title>
-      <link>https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</link>
-      <description><![CDATA[We introduce CogVLM, a powerful open-source visual language foundation model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
-    </item>
-    <item>
       <title>LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion</title>
       <link>https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</link>
       <description><![CDATA[Imitation Learning (IL) holds great promise for enabling agile locomotion in embodied agents.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</guid>
-    </item>
-    <item>
-      <title>Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V</title>
-      <link>https://paperswithcode.com/paper/set-of-mark-prompting-unleashes-extraordinary</link>
-      <description><![CDATA[We present Set-of-Mark (SoM), a new visual prompting method, to unleash the visual grounding abilities of large multimodal models (LMMs), such as GPT-4V.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/set-of-mark-prompting-unleashes-extraordinary</guid>
     </item>
     <item>
       <title>PP-LiteSeg: A Superior Real-Time Semantic Segmentation Model</title>
@@ -93,16 +69,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pp-liteseg-a-superior-real-time-semantic</guid>
     </item>
     <item>
+      <title>GLaMM: Pixel Grounding Large Multimodal Model</title>
+      <link>https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</link>
+      <description><![CDATA[In this work, we present Grounding LMM (GLaMM), the first model that can generate natural language responses seamlessly intertwined with corresponding object segmentation masks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glamm-pixel-grounding-large-multimodal-model</guid>
+    </item>
+    <item>
       <title>Multi-view Self-supervised Disentanglement for General Image Denoising</title>
       <link>https://paperswithcode.com/paper/multi-view-self-supervised-disentanglement</link>
       <description><![CDATA[It is understandable as the model is designed to learn paired mapping (e. g. from a noisy image to its clean version).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-view-self-supervised-disentanglement</guid>
     </item>
     <item>
-      <title>nnMobileNe: Rethinking CNN for Retinopathy Research</title>
-      <link>https://paperswithcode.com/paper/nnmobile-net-rethinking-cnn-design-for-deep</link>
-      <description><![CDATA[Over the past few decades, convolutional neural networks (CNNs) have been at the forefront of the detection and tracking of various retinal diseases (RD).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nnmobile-net-rethinking-cnn-design-for-deep</guid>
+      <title>Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V</title>
+      <link>https://paperswithcode.com/paper/set-of-mark-prompting-unleashes-extraordinary</link>
+      <description><![CDATA[We present Set-of-Mark (SoM), a new visual prompting method, to unleash the visual grounding abilities of large multimodal models (LMMs), such as GPT-4V.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/set-of-mark-prompting-unleashes-extraordinary</guid>
+    </item>
+    <item>
+      <title>PhoGPT: Generative Pre-training for Vietnamese</title>
+      <link>https://paperswithcode.com/paper/phogpt-generative-pre-training-for-vietnamese</link>
+      <description><![CDATA[We open-source a state-of-the-art 7. 5B-parameter generative model series named PhoGPT for Vietnamese, which includes the base pre-trained monolingual model PhoGPT-7B5 and its instruction-following variant, PhoGPT-7B5-Instruct.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/phogpt-generative-pre-training-for-vietnamese</guid>
+    </item>
+    <item>
+      <title>CogVLM: Visual Expert for Pretrained Language Models</title>
+      <link>https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</link>
+      <description><![CDATA[We introduce CogVLM, a powerful open-source visual language foundation model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
     </item>
     <item>
       <title>VideoCrafter1: Open Diffusion Models for High-Quality Video Generation</title>
@@ -111,22 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videocrafter1-open-diffusion-models-for-high</guid>
     </item>
     <item>
-      <title>DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors</title>
-      <link>https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</link>
-      <description><![CDATA[To supplement more precise image information, we further feed the full image to the diffusion model by concatenating it with the initial noises.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</guid>
+      <title>LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day</title>
+      <link>https://paperswithcode.com/paper/llava-med-training-a-large-language-and</link>
+      <description><![CDATA[In this paper, we propose a cost-efficient approach for training a vision-language conversational assistant that can answer open-ended research questions of biomedical images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-med-training-a-large-language-and</guid>
     </item>
     <item>
-      <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
-      <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
-      <description><![CDATA[As the size of pre-trained speech recognition models increases, running these large models in low-latency or resource-constrained environments becomes challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
+      <title>Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch</title>
+      <link>https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</link>
+      <description><![CDATA[Based on this observation, we further sparsify delta parameters of multiple SFT homologous models with DARE and subsequently merge them into a single model by parameter averaging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</guid>
     </item>
     <item>
       <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
       <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
       <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
+    </item>
+    <item>
+      <title>Instruction Tuning with Human Curriculum</title>
+      <link>https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</link>
+      <description><![CDATA[The dominant paradigm for instruction tuning is the random-shuffled training of maximally diverse instruction-response pairs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</guid>
     </item>
   </channel>
 </rss>
