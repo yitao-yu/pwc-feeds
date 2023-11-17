@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Nov 2023 21:06:54 +0000</lastBuildDate>
-    <item>
-      <title>Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models</title>
-      <link>https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</link>
-      <description><![CDATA[Recently, instruction-following audio-language models have received broad attention for audio interaction with humans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Nov 2023 09:12:09 +0000</lastBuildDate>
     <item>
       <title>GraphCast: Learning skillful medium-range global weather forecasting</title>
       <link>https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</link>
       <description><![CDATA[Global medium-range weather forecasting is critical to decision-making across many social and economic domains.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</guid>
+    </item>
+    <item>
+      <title>Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models</title>
+      <link>https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</link>
+      <description><![CDATA[Recently, instruction-following audio-language models have received broad attention for audio interaction with humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</guid>
     </item>
     <item>
       <title>LCM-LoRA: A Universal Stable-Diffusion Acceleration Module</title>
@@ -33,10 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
     </item>
     <item>
+      <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
+      <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
+      <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
+    </item>
+    <item>
       <title>Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models</title>
       <link>https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are</link>
       <description><![CDATA[Large Multimodal Models have demonstrated impressive capabilities in understanding general vision-language tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are</guid>
+    </item>
+    <item>
+      <title>Learning to Filter Context for Retrieval-Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/learning-to-filter-context-for-retrieval</link>
+      <description><![CDATA[To alleviate these problems, we propose FILCO, a method that improves the quality of the context provided to the generator by (1) identifying useful context based on lexical and information-theoretic approaches, and (2) training context filtering models that can filter retrieved contexts at test time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-filter-context-for-retrieval</guid>
     </item>
     <item>
       <title>Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs</title>
@@ -45,28 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lumos-learning-agents-with-unified-data</guid>
     </item>
     <item>
-      <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
-      <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
-      <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
-    </item>
-    <item>
-      <title>Learning to Generate Better Than Your LLM</title>
-      <link>https://paperswithcode.com/paper/learning-to-generate-better-than-your-llm</link>
-      <description><![CDATA[In particular, we extend RL algorithms to allow them to interact with a dynamic black-box guide LLM and propose RL with guided feedback (RLGF), a suite of RL algorithms for LLM fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-generate-better-than-your-llm</guid>
-    </item>
-    <item>
       <title>A Survey on Language Models for Code</title>
       <link>https://paperswithcode.com/paper/a-survey-on-language-models-for-code</link>
       <description><![CDATA[In this work we systematically review the recent advancements in code processing with language models, covering 50+ models, 30+ evaluation tasks, and 500 related works.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-language-models-for-code</guid>
-    </item>
-    <item>
-      <title>GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</title>
-      <link>https://paperswithcode.com/paper/gpt-4v-in-wonderland-large-multimodal-models</link>
-      <description><![CDATA[We first benchmark MM-Navigator on our collected iOS screen dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-in-wonderland-large-multimodal-models</guid>
     </item>
     <item>
       <title>Learning to (Learn at Test Time)</title>
@@ -75,40 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-learn-at-test-time</guid>
     </item>
     <item>
+      <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
+      <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
+      <description><![CDATA[Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
+    </item>
+    <item>
       <title>To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning</title>
       <link>https://paperswithcode.com/paper/to-see-is-to-believe-prompting-gpt-4v-for</link>
       <description><![CDATA[Existing visual instruction tuning methods typically prompt large language models with textual descriptions to generate instruction-following data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/to-see-is-to-believe-prompting-gpt-4v-for</guid>
-    </item>
-    <item>
-      <title>On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</link>
-      <description><![CDATA[This has been a significant bottleneck, particularly in the development of common sense reasoning and nuanced scene understanding necessary for safe and reliable autonomous driving.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</guid>
-    </item>
-    <item>
-      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
-      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
-      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
-    </item>
-    <item>
-      <title>Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch</title>
-      <link>https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</link>
-      <description><![CDATA[Based on this observation, we further sparsify delta parameters of multiple SFT homologous models with DARE and subsequently merge them into a single model by parameter averaging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</guid>
-    </item>
-    <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
-    </item>
-    <item>
-      <title>LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion</title>
-      <link>https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</link>
-      <description><![CDATA[Imitation Learning (IL) holds great promise for enabling agile locomotion in embodied agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</guid>
     </item>
     <item>
       <title>NEFTune: Noisy Embeddings Improve Instruction Finetuning</title>
@@ -117,16 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</guid>
     </item>
     <item>
+      <title>On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</link>
+      <description><![CDATA[This has been a significant bottleneck, particularly in the development of common sense reasoning and nuanced scene understanding necessary for safe and reliable autonomous driving.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-road-with-gpt-4v-ision-early</guid>
+    </item>
+    <item>
+      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
+      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
+      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+    </item>
+    <item>
+      <title>GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</title>
+      <link>https://paperswithcode.com/paper/gpt-4v-in-wonderland-large-multimodal-models</link>
+      <description><![CDATA[We first benchmark MM-Navigator on our collected iOS screen dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-in-wonderland-large-multimodal-models</guid>
+    </item>
+    <item>
       <title>CogVLM: Visual Expert for Pretrained Language Models</title>
       <link>https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</link>
       <description><![CDATA[We introduce CogVLM, a powerful open-source visual language foundation model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
     </item>
     <item>
-      <title>InRank: Incremental Low-Rank Learning</title>
-      <link>https://paperswithcode.com/paper/inrank-incremental-low-rank-learning</link>
-      <description><![CDATA[To remedy this, we design a new training algorithm Incremental Low-Rank Learning (InRank), which explicitly expresses cumulative weight updates as low-rank matrices while incrementally augmenting their ranks during training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inrank-incremental-low-rank-learning</guid>
+      <title>Learning to Generate Better Than Your LLM</title>
+      <link>https://paperswithcode.com/paper/learning-to-generate-better-than-your-llm</link>
+      <description><![CDATA[In particular, we extend RL algorithms to allow them to interact with a dynamic black-box guide LLM and propose RL with guided feedback (RLGF), a suite of RL algorithms for LLM fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-generate-better-than-your-llm</guid>
+    </item>
+    <item>
+      <title>Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch</title>
+      <link>https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</link>
+      <description><![CDATA[Based on this observation, we further sparsify delta parameters of multiple SFT homologous models with DARE and subsequently merge them into a single model by parameter averaging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</guid>
+    </item>
+    <item>
+      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
+      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
+      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
     </item>
   </channel>
 </rss>
