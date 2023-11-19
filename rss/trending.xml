@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Nov 2023 09:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 21:06:05 +0000</lastBuildDate>
     <item>
       <title>GraphCast: Learning skillful medium-range global weather forecasting</title>
       <link>https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</link>
@@ -27,12 +27,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</guid>
     </item>
     <item>
-      <title>Zephyr: Direct Distillation of LM Alignment</title>
-      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
-      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
-    </item>
-    <item>
       <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
       <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
       <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
@@ -45,16 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are</guid>
     </item>
     <item>
-      <title>JaxMARL: Multi-Agent RL Environments in JAX</title>
-      <link>https://paperswithcode.com/paper/jaxmarl-multi-agent-rl-environments-in-jax</link>
-      <description><![CDATA[This not only enables GPU acceleration, but also provides a more flexible MARL environment, unlocking the potential for self-play, meta-learning, and other future applications in MARL.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/jaxmarl-multi-agent-rl-environments-in-jax</guid>
-    </item>
-    <item>
-      <title>Mustango: Toward Controllable Text-to-Music Generation</title>
-      <link>https://paperswithcode.com/paper/mustango-toward-controllable-text-to-music</link>
-      <description><![CDATA[With recent advancements in text-to-audio and text-to-music based on latent diffusion models, the quality of generated content has been reaching new heights.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mustango-toward-controllable-text-to-music</guid>
+      <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
+      <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
+      <description><![CDATA[Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
     </item>
     <item>
       <title>A Survey on Language Models for Code</title>
@@ -63,34 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-on-language-models-for-code</guid>
     </item>
     <item>
-      <title>Lumos: Learning Agents with Unified Data, Modular Design, and Open-Source LLMs</title>
-      <link>https://paperswithcode.com/paper/lumos-learning-agents-with-unified-data</link>
-      <description><![CDATA[Leveraging this unified data and modular design, Lumos not only achieves comparable or superior performance to current, state-of-the-art agents, but also exhibits several key advantages: (1) Lumos surpasses GPT-4/3. 5-based agents in complex question answering and web tasks, while equalling the performance of significantly larger LLM agents on math tasks; (2) Lumos outperforms open-source agents created through conventional training methods and those using chain-of-thoughts training; and (3) Lumos is capable of effectively generalizing to unseen interactive tasks, outperforming larger LLM-based agents and even exceeding performance of specialized agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lumos-learning-agents-with-unified-data</guid>
+      <title>The Song Describer Dataset: a Corpus of Audio Captions for Music-and-Language Evaluation</title>
+      <link>https://paperswithcode.com/paper/the-song-describer-dataset-a-corpus-of-audio</link>
+      <description><![CDATA[We introduce the Song Describer dataset (SDD), a new crowdsourced corpus of high-quality audio-caption pairs, designed for the evaluation of music-and-language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-song-describer-dataset-a-corpus-of-audio</guid>
     </item>
     <item>
-      <title>Learning to (Learn at Test Time)</title>
-      <link>https://paperswithcode.com/paper/learning-to-learn-at-test-time</link>
-      <description><![CDATA[Our inner loop turns out to be equivalent to linear attention when the inner-loop learner is only a linear model, and to self-attention when it is a kernel estimator.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-learn-at-test-time</guid>
-    </item>
-    <item>
-      <title>The Rise and Potential of Large Language Model Based Agents: A Survey</title>
-      <link>https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</link>
-      <description><![CDATA[Many efforts have been made to develop intelligent agents, but they mainly focus on advancement in algorithms or training strategies to enhance specific capabilities or performance on particular tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-rise-and-potential-of-large-language</guid>
-    </item>
-    <item>
-      <title>Learning to Filter Context for Retrieval-Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/learning-to-filter-context-for-retrieval</link>
-      <description><![CDATA[To alleviate these problems, we propose FILCO, a method that improves the quality of the context provided to the generator by (1) identifying useful context based on lexical and information-theoretic approaches, and (2) training context filtering models that can filter retrieved contexts at test time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-filter-context-for-retrieval</guid>
-    </item>
-    <item>
-      <title>NEFTune: Noisy Embeddings Improve Instruction Finetuning</title>
-      <link>https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</link>
-      <description><![CDATA[We show that language model finetuning can be improved, sometimes dramatically, with a simple augmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</guid>
+      <title>JaxMARL: Multi-Agent RL Environments in JAX</title>
+      <link>https://paperswithcode.com/paper/jaxmarl-multi-agent-rl-environments-in-jax</link>
+      <description><![CDATA[This not only enables GPU acceleration, but also provides a more flexible MARL environment, unlocking the potential for self-play, meta-learning, and other future applications in MARL.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/jaxmarl-multi-agent-rl-environments-in-jax</guid>
     </item>
     <item>
       <title>Plum: Prompt Learning using Metaheuristic</title>
@@ -99,10 +69,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/plum-prompt-learning-using-metaheuristic</guid>
     </item>
     <item>
-      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
-      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
-      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
+      <title>NEFTune: Noisy Embeddings Improve Instruction Finetuning</title>
+      <link>https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</link>
+      <description><![CDATA[We show that language model finetuning can be improved, sometimes dramatically, with a simple augmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</guid>
+    </item>
+    <item>
+      <title>Mustango: Toward Controllable Text-to-Music Generation</title>
+      <link>https://paperswithcode.com/paper/mustango-toward-controllable-text-to-music</link>
+      <description><![CDATA[With recent advancements in text-to-audio and text-to-music based on latent diffusion models, the quality of generated content has been reaching new heights.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mustango-toward-controllable-text-to-music</guid>
+    </item>
+    <item>
+      <title>Learning to Filter Context for Retrieval-Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/learning-to-filter-context-for-retrieval</link>
+      <description><![CDATA[To alleviate these problems, we propose FILCO, a method that improves the quality of the context provided to the generator by (1) identifying useful context based on lexical and information-theoretic approaches, and (2) training context filtering models that can filter retrieved contexts at test time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-filter-context-for-retrieval</guid>
+    </item>
+    <item>
+      <title>Instruction Tuning with Human Curriculum</title>
+      <link>https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</link>
+      <description><![CDATA[The dominant paradigm for instruction tuning is the random-shuffled training of maximally diverse instruction-response pairs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</guid>
+    </item>
+    <item>
+      <title>Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling</title>
+      <link>https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</link>
+      <description><![CDATA[As the size of pre-trained speech recognition models increases, running these large models in low-latency or resource-constrained environments becomes challenging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distil-whisper-robust-knowledge-distillation</guid>
     </item>
     <item>
       <title>To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning</title>
@@ -111,22 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/to-see-is-to-believe-prompting-gpt-4v-for</guid>
     </item>
     <item>
-      <title>Rethinking Benchmark and Contamination for Language Models with Rephrased Samples</title>
-      <link>https://paperswithcode.com/paper/rethinking-benchmark-and-contamination-for</link>
-      <description><![CDATA[Many have raised concerns about the trustworthiness of public benchmarks due to potential contamination in pre-training or fine-tuning datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-benchmark-and-contamination-for</guid>
+      <title>FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing</title>
+      <link>https://paperswithcode.com/paper/factual-a-benchmark-for-faithful-and</link>
+      <description><![CDATA[Textual scene graph parsing has become increasingly important in various vision-language applications, including image caption evaluation and image retrieval.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/factual-a-benchmark-for-faithful-and</guid>
     </item>
     <item>
-      <title>VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild</title>
-      <link>https://paperswithcode.com/paper/videoretalking-audio-based-lip</link>
-      <description><![CDATA[Our system disentangles this objective into three sequential tasks: (1) face video generation with a canonical expression; (2) audio-driven lip-sync; and (3) face enhancement for improving photo-realism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videoretalking-audio-based-lip</guid>
+      <title>Zephyr: Direct Distillation of LM Alignment</title>
+      <link>https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</link>
+      <description><![CDATA[Starting from a dataset of outputs ranked by a teacher model, we apply distilled direct preference optimization (dDPO) to learn a chat model with significantly improved intent alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zephyr-direct-distillation-of-lm-alignment</guid>
     </item>
     <item>
-      <title>GLM-130B: An Open Bilingual Pre-trained Model</title>
-      <link>https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</link>
-      <description><![CDATA[We introduce GLM-130B, a bilingual (English and Chinese) pre-trained language model with 130 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glm-130b-an-open-bilingual-pre-trained-model</guid>
+      <title>Aligning Language Models with Offline Reinforcement Learning from Human Feedback</title>
+      <link>https://paperswithcode.com/paper/aligning-language-models-with-offline</link>
+      <description><![CDATA[Learning from human preferences is crucial for language models (LMs) to effectively cater to human needs and societal values.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-language-models-with-offline</guid>
+    </item>
+    <item>
+      <title>GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</title>
+      <link>https://paperswithcode.com/paper/gpt-4v-in-wonderland-large-multimodal-models</link>
+      <description><![CDATA[We first benchmark MM-Navigator on our collected iOS screen dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-in-wonderland-large-multimodal-models</guid>
     </item>
   </channel>
 </rss>
