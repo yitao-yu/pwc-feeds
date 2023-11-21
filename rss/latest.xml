@@ -7,72 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Nov 2023 09:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 21:07:18 +0000</lastBuildDate>
     <item>
-      <title>Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</title>
-      <link>https://paperswithcode.com/paper/igniting-language-intelligence-the-hitchhiker</link>
-      <description><![CDATA[Large language models (LLMs) have dramatically enhanced the field of language intelligence, as demonstrably evidenced by their formidable empirical performance across a spectrum of complex reasoning tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/igniting-language-intelligence-the-hitchhiker</guid>
+      <title>Lung cancer detection from thoracic CT scans using an ensemble of deep learning models</title>
+      <link>https://paperswithcode.com/paper/lung-cancer-detection-from-thoracic-ct-scans</link>
+      <description><![CDATA[Our approach leverages deep transfer learning and adopts an ensemble learning approach.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lung-cancer-detection-from-thoracic-ct-scans</guid>
     </item>
     <item>
-      <title>Generalized Category Discovery in Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/generalized-category-discovery-in-semantic</link>
-      <description><![CDATA[This paper explores a novel setting called Generalized Category Discovery in Semantic Segmentation (GCDSS), aiming to segment unlabeled images given prior knowledge from a labeled set of base classes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-category-discovery-in-semantic</guid>
-    </item>
-    <item>
-      <title>AKConv: Convolutional Kernel with Arbitrary Sampled Shapes and Arbitrary Number of Parameters</title>
-      <link>https://paperswithcode.com/paper/akconv-convolutional-kernel-with-arbitrary</link>
-      <description><![CDATA[In response to the above questions, the Alterable Kernel Convolution (AKConv) is explored in this work, which gives the convolution kernel an arbitrary number of parameters and arbitrary sampled shapes to provide richer options for the trade-off between network overhead and performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/akconv-convolutional-kernel-with-arbitrary</guid>
-    </item>
-    <item>
-      <title>KBioXLM: A Knowledge-anchored Biomedical Multilingual Pretrained Language Model</title>
-      <link>https://paperswithcode.com/paper/kbioxlm-a-knowledge-anchored-biomedical</link>
-      <description><![CDATA[We achieve a biomedical multilingual corpus by incorporating three granularity knowledge alignments (entity, fact, and passage levels) into monolingual corpora.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kbioxlm-a-knowledge-anchored-biomedical</guid>
-    </item>
-    <item>
-      <title>How well ChatGPT understand Malaysian English? An Evaluation on Named Entity Recognition and Relation Extraction</title>
-      <link>https://paperswithcode.com/paper/how-well-chatgpt-understand-malaysian-english</link>
-      <description><![CDATA[Malaysian English is unique as it exhibits morphosyntactic and semantical adaptation from local contexts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-well-chatgpt-understand-malaysian-english</guid>
-    </item>
-    <item>
-      <title>Sparse Low-rank Adaptation of Pre-trained Language Models</title>
-      <link>https://paperswithcode.com/paper/sparse-low-rank-adaptation-of-pre-trained</link>
-      <description><![CDATA[Recognizing the need for more flexible adaptation, we extend the methodology of LoRA to an innovative approach we call sparse low-rank adaptation (SoRA) that enables dynamic adjustments to the intrinsic rank during the adaptation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-low-rank-adaptation-of-pre-trained</guid>
-    </item>
-    <item>
-      <title>Estimation of entropy-regularized optimal transport maps between non-compactly supported measures</title>
-      <link>https://paperswithcode.com/paper/estimation-of-entropy-regularized-optimal</link>
-      <description><![CDATA[In the case that the target measure is compactly supported or strongly log-concave, we show that for a recently proposed in-sample estimator, the expected squared $L^2$-error decays at least as fast as $O(n^{-1/3})$ where $n$ is the sample size.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/estimation-of-entropy-regularized-optimal</guid>
-    </item>
-    <item>
-      <title>LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning</title>
-      <link>https://paperswithcode.com/paper/lq-lora-low-rank-plus-quantized-matrix</link>
-      <description><![CDATA[Our approach uses an iterative algorithm to decompose each pretrained matrix into a high-precision low-rank component and a memory-efficient quantized component.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lq-lora-low-rank-plus-quantized-matrix</guid>
-    </item>
-    <item>
-      <title>Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images</title>
-      <link>https://paperswithcode.com/paper/fuzzy-information-seeded-region-growing-for</link>
-      <description><![CDATA[Designed to effectively delineate the complex and irregular boundaries of stroke lesions, the FISRG algorithm combines fuzzy logic with Seeded Region Growing (SRG) techniques, aiming to enhance segmentation accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fuzzy-information-seeded-region-growing-for</guid>
-    </item>
-    <item>
-      <title>Sparse4D v3: Advancing End-to-End 3D Detection and Tracking</title>
-      <link>https://paperswithcode.com/paper/sparse4d-v3-advancing-end-to-end-3d-detection</link>
-      <description><![CDATA[We introduce two auxiliary training tasks (Temporal Instance Denoising and Quality Estimation) and propose decoupled attention to make structural improvements, leading to significant enhancements in detection performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse4d-v3-advancing-end-to-end-3d-detection</guid>
-    </item>
-    <item>
-      <title>Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/reti-diff-illumination-degradation-image</link>
-      <description><![CDATA[These priors are subsequently utilized by RGformer to guide the decomposition of image features into their respective reflectance and illumination components.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reti-diff-illumination-degradation-image</guid>
+      <title>Filling the Image Information Gap for VQA: Prompting Large Language Models to Proactively Ask Questions</title>
+      <link>https://paperswithcode.com/paper/filling-the-image-information-gap-for-vqa</link>
+      <description><![CDATA[Large Language Models (LLMs) demonstrate impressive reasoning ability and the maintenance of world knowledge not only in natural language tasks, but also in some vision-language tasks such as open-domain knowledge-based visual question answering (OK-VQA).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/filling-the-image-information-gap-for-vqa</guid>
     </item>
     <item>
       <title>Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields</title>
@@ -81,28 +27,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/entangled-view-epipolar-information</guid>
     </item>
     <item>
-      <title>Causal Structure Learning Supervised by Large Language Model</title>
-      <link>https://paperswithcode.com/paper/causal-structure-learning-supervised-by-large</link>
-      <description><![CDATA[Causal discovery from observational data is pivotal for deciphering complex relationships.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/causal-structure-learning-supervised-by-large</guid>
-    </item>
-    <item>
       <title>Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks</title>
       <link>https://paperswithcode.com/paper/taiyi-a-bilingual-fine-tuned-large-language</link>
       <description><![CDATA[However, most biomedical LLMs focus on enhancing performance in monolingual biomedical question answering and conversation tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/taiyi-a-bilingual-fine-tuned-large-language</guid>
     </item>
     <item>
-      <title>Cross-View Graph Consistency Learning for Invariant Graph Representations</title>
-      <link>https://paperswithcode.com/paper/cross-view-graph-consistency-learning-for</link>
-      <description><![CDATA[In this paper, we propose a cross-view graph consistency learning (CGCL) method that learns invariant graph representations for link prediction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-view-graph-consistency-learning-for</guid>
+      <title>Causal Structure Learning Supervised by Large Language Model</title>
+      <link>https://paperswithcode.com/paper/causal-structure-learning-supervised-by-large</link>
+      <description><![CDATA[Causal discovery from observational data is pivotal for deciphering complex relationships.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/causal-structure-learning-supervised-by-large</guid>
     </item>
     <item>
       <title>GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark</title>
       <link>https://paperswithcode.com/paper/gpqa-a-graduate-level-google-proof-q-a</link>
       <description><![CDATA[We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gpqa-a-graduate-level-google-proof-q-a</guid>
+    </item>
+    <item>
+      <title>Cross-View Graph Consistency Learning for Invariant Graph Representations</title>
+      <link>https://paperswithcode.com/paper/cross-view-graph-consistency-learning-for</link>
+      <description><![CDATA[In this paper, we propose a cross-view graph consistency learning (CGCL) method that learns invariant graph representations for link prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-view-graph-consistency-learning-for</guid>
     </item>
     <item>
       <title>Establishing Central Sensitization Inventory Cut-off Values in patients with Chronic Low Back Pain by Unsupervised Machine Learning</title>
@@ -117,22 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sa-med2d-20m-dataset-segment-anything-in-2d</guid>
     </item>
     <item>
-      <title>Filling the Image Information Gap for VQA: Prompting Large Language Models to Proactively Ask Questions</title>
-      <link>https://paperswithcode.com/paper/filling-the-image-information-gap-for-vqa</link>
-      <description><![CDATA[Large Language Models (LLMs) demonstrate impressive reasoning ability and the maintenance of world knowledge not only in natural language tasks, but also in some vision-language tasks such as open-domain knowledge-based visual question answering (OK-VQA).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/filling-the-image-information-gap-for-vqa</guid>
-    </item>
-    <item>
       <title>Real-Time Surface-to-Air Missile Engagement Zone Prediction Using Simulation and Machine Learning</title>
       <link>https://paperswithcode.com/paper/real-time-surface-to-air-missile-engagement</link>
       <description><![CDATA[Surface-to-Air Missiles (SAMs) are crucial in modern air defense systems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-surface-to-air-missile-engagement</guid>
     </item>
     <item>
-      <title>Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning</title>
-      <link>https://paperswithcode.com/paper/can-we-infer-the-presence-of-differential</link>
-      <description><![CDATA[Thus, we face the challenge of determining whether a DL model has been trained with DP, according to the title question: Can we infer the presence of Differential Privacy in Deep Learning models' weights?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-we-infer-the-presence-of-differential</guid>
+      <title>LiDAR-HMR: 3D Human Mesh Recovery from LiDAR</title>
+      <link>https://paperswithcode.com/paper/lidar-hmr-3d-human-mesh-recovery-from-lidar</link>
+      <description><![CDATA[In recent years, point cloud perception tasks have been garnering increasing attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lidar-hmr-3d-human-mesh-recovery-from-lidar</guid>
     </item>
     <item>
       <title>Context-aware Neural Machine Translation for English-Japanese Business Scene Dialogues</title>
@@ -153,34 +93,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mila-memory-based-instance-level-adaptation</guid>
     </item>
     <item>
-      <title>LiDAR-HMR: 3D Human Mesh Recovery from LiDAR</title>
-      <link>https://paperswithcode.com/paper/lidar-hmr-3d-human-mesh-recovery-from-lidar</link>
-      <description><![CDATA[In recent years, point cloud perception tasks have been garnering increasing attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lidar-hmr-3d-human-mesh-recovery-from-lidar</guid>
+      <title>Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning</title>
+      <link>https://paperswithcode.com/paper/can-we-infer-the-presence-of-differential</link>
+      <description><![CDATA[Thus, we face the challenge of determining whether a DL model has been trained with DP, according to the title question: Can we infer the presence of Differential Privacy in Deep Learning models' weights?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-we-infer-the-presence-of-differential</guid>
     </item>
     <item>
-      <title>NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation</title>
-      <link>https://paperswithcode.com/paper/nng-mix-improving-semi-supervised-anomaly</link>
-      <description><![CDATA[While AD is typically treated as an unsupervised learning task due to the high cost of label annotation, it is more practical to assume access to a small set of labeled anomaly samples from domain experts, as is the case for semi-supervised anomaly detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nng-mix-improving-semi-supervised-anomaly</guid>
+      <title>Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</title>
+      <link>https://paperswithcode.com/paper/igniting-language-intelligence-the-hitchhiker</link>
+      <description><![CDATA[Large language models (LLMs) have dramatically enhanced the field of language intelligence, as demonstrably evidenced by their formidable empirical performance across a spectrum of complex reasoning tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/igniting-language-intelligence-the-hitchhiker</guid>
     </item>
     <item>
-      <title>Evil Geniuses: Delving into the Safety of LLM-based Agents</title>
-      <link>https://paperswithcode.com/paper/evil-geniuses-delving-into-the-safety-of-llm</link>
-      <description><![CDATA[3) the detection of the produced improper responses is more challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evil-geniuses-delving-into-the-safety-of-llm</guid>
+      <title>AKConv: Convolutional Kernel with Arbitrary Sampled Shapes and Arbitrary Number of Parameters</title>
+      <link>https://paperswithcode.com/paper/akconv-convolutional-kernel-with-arbitrary</link>
+      <description><![CDATA[In response to the above questions, the Alterable Kernel Convolution (AKConv) is explored in this work, which gives the convolution kernel an arbitrary number of parameters and arbitrary sampled shapes to provide richer options for the trade-off between network overhead and performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/akconv-convolutional-kernel-with-arbitrary</guid>
     </item>
     <item>
-      <title>Identifying the Defective: Detecting Damaged Grains for Cereal Appearance Inspection</title>
-      <link>https://paperswithcode.com/paper/identifying-the-defective-detecting-damaged</link>
-      <description><![CDATA[Cereal grain plays a crucial role in the human diet as a major source of essential nutrients.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/identifying-the-defective-detecting-damaged</guid>
+      <title>How well ChatGPT understand Malaysian English? An Evaluation on Named Entity Recognition and Relation Extraction</title>
+      <link>https://paperswithcode.com/paper/how-well-chatgpt-understand-malaysian-english</link>
+      <description><![CDATA[Malaysian English is unique as it exhibits morphosyntactic and semantical adaptation from local contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-well-chatgpt-understand-malaysian-english</guid>
     </item>
     <item>
-      <title>Exploring Prompting Large Language Models as Explainable Metrics</title>
-      <link>https://paperswithcode.com/paper/exploring-prompting-large-language-models-as</link>
-      <description><![CDATA[This paper describes the IUST NLP Lab submission to the Prompting Large Language Models as Explainable Metrics Shared Task at the Eval4NLP 2023 Workshop on Evaluation & Comparison of NLP Systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-prompting-large-language-models-as</guid>
+      <title>Sparse Low-rank Adaptation of Pre-trained Language Models</title>
+      <link>https://paperswithcode.com/paper/sparse-low-rank-adaptation-of-pre-trained</link>
+      <description><![CDATA[Recognizing the need for more flexible adaptation, we extend the methodology of LoRA to an innovative approach we call sparse low-rank adaptation (SoRA) that enables dynamic adjustments to the intrinsic rank during the adaptation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-low-rank-adaptation-of-pre-trained</guid>
+    </item>
+    <item>
+      <title>KBioXLM: A Knowledge-anchored Biomedical Multilingual Pretrained Language Model</title>
+      <link>https://paperswithcode.com/paper/kbioxlm-a-knowledge-anchored-biomedical</link>
+      <description><![CDATA[We achieve a biomedical multilingual corpus by incorporating three granularity knowledge alignments (entity, fact, and passage levels) into monolingual corpora.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kbioxlm-a-knowledge-anchored-biomedical</guid>
+    </item>
+    <item>
+      <title>Generalized Category Discovery in Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/generalized-category-discovery-in-semantic</link>
+      <description><![CDATA[This paper explores a novel setting called Generalized Category Discovery in Semantic Segmentation (GCDSS), aiming to segment unlabeled images given prior knowledge from a labeled set of base classes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generalized-category-discovery-in-semantic</guid>
+    </item>
+    <item>
+      <title>Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images</title>
+      <link>https://paperswithcode.com/paper/fuzzy-information-seeded-region-growing-for</link>
+      <description><![CDATA[Designed to effectively delineate the complex and irregular boundaries of stroke lesions, the FISRG algorithm combines fuzzy logic with Seeded Region Growing (SRG) techniques, aiming to enhance segmentation accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fuzzy-information-seeded-region-growing-for</guid>
+    </item>
+    <item>
+      <title>Estimation of entropy-regularized optimal transport maps between non-compactly supported measures</title>
+      <link>https://paperswithcode.com/paper/estimation-of-entropy-regularized-optimal</link>
+      <description><![CDATA[In the case that the target measure is compactly supported or strongly log-concave, we show that for a recently proposed in-sample estimator, the expected squared $L^2$-error decays at least as fast as $O(n^{-1/3})$ where $n$ is the sample size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/estimation-of-entropy-regularized-optimal</guid>
+    </item>
+    <item>
+      <title>LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning</title>
+      <link>https://paperswithcode.com/paper/lq-lora-low-rank-plus-quantized-matrix</link>
+      <description><![CDATA[Our approach uses an iterative algorithm to decompose each pretrained matrix into a high-precision low-rank component and a memory-efficient quantized component.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lq-lora-low-rank-plus-quantized-matrix</guid>
     </item>
     <item>
       <title>Risk-averse Batch Active Inverse Reward Design</title>
@@ -201,6 +171,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/training-robust-and-generalizable-quantum</guid>
     </item>
     <item>
+      <title>Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/reti-diff-illumination-degradation-image</link>
+      <description><![CDATA[These priors are subsequently utilized by RGformer to guide the decomposition of image features into their respective reflectance and illumination components.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reti-diff-illumination-degradation-image</guid>
+    </item>
+    <item>
       <title>Multi-Task Faces (MTF) Data Set: A Legally and Ethically Compliant Collection of Face Images for Various Classification Tasks</title>
       <link>https://paperswithcode.com/paper/multi-task-faces-mtf-data-set-a-legally-and</link>
       <description><![CDATA[To address these issues, we present the Multi-Task Faces (MTF) image data set, a meticulously curated collection of face images designed for various classification tasks, including face recognition, as well as race, gender, and age classification.]]></description>
@@ -213,46 +189,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/meta-prompting-for-agi-systems</guid>
     </item>
     <item>
-      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
-      <link>https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</link>
-      <description><![CDATA[The recent advancements in text-to-3D generation mark a significant milestone in generative models, unlocking new possibilities for creating imaginative 3D assets across various real-world scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</guid>
+      <title>NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation</title>
+      <link>https://paperswithcode.com/paper/nng-mix-improving-semi-supervised-anomaly</link>
+      <description><![CDATA[While AD is typically treated as an unsupervised learning task due to the high cost of label annotation, it is more practical to assume access to a small set of labeled anomaly samples from domain experts, as is the case for semi-supervised anomaly detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nng-mix-improving-semi-supervised-anomaly</guid>
     </item>
     <item>
-      <title>CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies</title>
-      <link>https://paperswithcode.com/paper/champ-efficient-annotation-and-consolidation</link>
-      <description><![CDATA[Various NLP tasks require a complex hierarchical structure over nodes, where each node is a cluster of items.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/champ-efficient-annotation-and-consolidation</guid>
+      <title>Identifying the Defective: Detecting Damaged Grains for Cereal Appearance Inspection</title>
+      <link>https://paperswithcode.com/paper/identifying-the-defective-detecting-damaged</link>
+      <description><![CDATA[Cereal grain plays a crucial role in the human diet as a major source of essential nutrients.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/identifying-the-defective-detecting-damaged</guid>
     </item>
     <item>
-      <title>A Universal Framework for Accurate and Efficient Geometric Deep Learning of Molecular Systems</title>
-      <link>https://paperswithcode.com/paper/a-universal-framework-for-accurate-and-1</link>
-      <description><![CDATA[Molecular sciences address a wide range of problems involving molecules of different types and sizes and their complexes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-universal-framework-for-accurate-and-1</guid>
+      <title>Evil Geniuses: Delving into the Safety of LLM-based Agents</title>
+      <link>https://paperswithcode.com/paper/evil-geniuses-delving-into-the-safety-of-llm</link>
+      <description><![CDATA[3) the detection of the produced improper responses is more challenging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evil-geniuses-delving-into-the-safety-of-llm</guid>
     </item>
     <item>
-      <title>Pair-wise Layer Attention with Spatial Masking for Video Prediction</title>
-      <link>https://paperswithcode.com/paper/pair-wise-layer-attention-with-spatial</link>
-      <description><![CDATA[To this end, we present a Pair-wise Layer Attention with Spatial Masking (PLA-SM) framework for video prediction to capture the spatiotemporal dynamics, which reflect the motion trend.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pair-wise-layer-attention-with-spatial</guid>
+      <title>Sparse4D v3: Advancing End-to-End 3D Detection and Tracking</title>
+      <link>https://paperswithcode.com/paper/sparse4d-v3-advancing-end-to-end-3d-detection</link>
+      <description><![CDATA[We introduce two auxiliary training tasks (Temporal Instance Denoising and Quality Estimation) and propose decoupled attention to make structural improvements, leading to significant enhancements in detection performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse4d-v3-advancing-end-to-end-3d-detection</guid>
     </item>
     <item>
-      <title>Appearance Codes using Joint Embedding Learning of Multiple Modalities</title>
-      <link>https://paperswithcode.com/paper/appearance-codes-using-joint-embedding</link>
-      <description><![CDATA[The use of appearance codes in recent work on generative modeling has enabled novel view renders with variable appearance and illumination, such as day-time and night-time renders of a scene.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/appearance-codes-using-joint-embedding</guid>
-    </item>
-    <item>
-      <title>FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients</title>
-      <link>https://paperswithcode.com/paper/fedra-a-random-allocation-strategy-for</link>
-      <description><![CDATA[The implementation of FedRA is straightforward and can be seamlessly integrated into any transformer-based model without the need for further modification to the original model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fedra-a-random-allocation-strategy-for</guid>
-    </item>
-    <item>
-      <title>Negotiated Representations for Machine Mearning Application</title>
-      <link>https://paperswithcode.com/paper/negotiated-representations-for-machine</link>
-      <description><![CDATA[Overfitting is a phenomenon that occurs when a machine learning model is trained for too long and focused too much on the exact fitness of the training samples to the provided training labels and cannot keep track of the predictive rules that would be useful on the test data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/negotiated-representations-for-machine</guid>
+      <title>Exploring Prompting Large Language Models as Explainable Metrics</title>
+      <link>https://paperswithcode.com/paper/exploring-prompting-large-language-models-as</link>
+      <description><![CDATA[This paper describes the IUST NLP Lab submission to the Prompting Large Language Models as Explainable Metrics Shared Task at the Eval4NLP 2023 Workshop on Evaluation & Comparison of NLP Systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-prompting-large-language-models-as</guid>
     </item>
     <item>
       <title>TextGuard: Provable Defense against Backdoor Attacks on Text Classification</title>
@@ -261,10 +225,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/textguard-provable-defense-against-backdoor</guid>
     </item>
     <item>
-      <title>Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons</title>
-      <link>https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation</link>
-      <description><![CDATA[The adaptive leaky integrate-and-fire (ALIF) model is fundamental within computational neuroscience and has been instrumental in studying our brains $\textit{in silico}$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation</guid>
+      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
+      <link>https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</link>
+      <description><![CDATA[The recent advancements in text-to-3D generation mark a significant milestone in generative models, unlocking new possibilities for creating imaginative 3D assets across various real-world scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</guid>
+    </item>
+    <item>
+      <title>A Universal Framework for Accurate and Efficient Geometric Deep Learning of Molecular Systems</title>
+      <link>https://paperswithcode.com/paper/a-universal-framework-for-accurate-and-1</link>
+      <description><![CDATA[Molecular sciences address a wide range of problems involving molecules of different types and sizes and their complexes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-universal-framework-for-accurate-and-1</guid>
+    </item>
+    <item>
+      <title>Evidential Uncertainty Quantification: A Variance-Based Perspective</title>
+      <link>https://paperswithcode.com/paper/evidential-uncertainty-quantification-a</link>
+      <description><![CDATA[Uncertainty quantification of deep neural networks has become an active field of research and plays a crucial role in various downstream tasks such as active learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evidential-uncertainty-quantification-a</guid>
     </item>
     <item>
       <title>Optimal Locally Private Nonparametric Classification with Public Data</title>
@@ -273,22 +249,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/optimal-locally-private-nonparametric</guid>
     </item>
     <item>
+      <title>Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons</title>
+      <link>https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation</link>
+      <description><![CDATA[The adaptive leaky integrate-and-fire (ALIF) model is fundamental within computational neuroscience and has been instrumental in studying our brains $\textit{in silico}$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation</guid>
+    </item>
+    <item>
       <title>Unmasking and Improving Data Credibility: A Study with Datasets for Training Harmless Language Models</title>
       <link>https://paperswithcode.com/paper/unmasking-and-improving-data-credibility-a</link>
       <description><![CDATA[Given the cost and difficulty of cleaning these datasets by humans, we introduce a systematic framework for evaluating the credibility of datasets, identifying label errors, and evaluating the influence of noisy labels in the curated language data, specifically focusing on unsafe comments and conversation classification.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/unmasking-and-improving-data-credibility-a</guid>
-    </item>
-    <item>
-      <title>LABCAT: Locally adaptive Bayesian optimization using principal component-aligned trust regions</title>
-      <link>https://paperswithcode.com/paper/labcat-locally-adaptive-bayesian-optimization</link>
-      <description><![CDATA[Bayesian optimization (BO) is a popular method for optimizing expensive black-box functions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/labcat-locally-adaptive-bayesian-optimization</guid>
-    </item>
-    <item>
-      <title>Evidential Uncertainty Quantification: A Variance-Based Perspective</title>
-      <link>https://paperswithcode.com/paper/evidential-uncertainty-quantification-a</link>
-      <description><![CDATA[Uncertainty quantification of deep neural networks has become an active field of research and plays a crucial role in various downstream tasks such as active learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evidential-uncertainty-quantification-a</guid>
     </item>
     <item>
       <title>A Cross-Attention Augmented Model for Event-Triggered Context-Aware Story Generation</title>
@@ -303,10 +273,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tensor-aware-energy-accounting</guid>
     </item>
     <item>
-      <title>Introducing NCL-SM: A Fully Annotated Dataset of Images from Human Skeletal Muscle Biopsies</title>
-      <link>https://paperswithcode.com/paper/introducing-ncl-sm-a-fully-annotated-dataset</link>
-      <description><![CDATA[There is currently no tool or pipeline that makes automatic and precise segmentation and curation of images of SM tissue cross-sections possible.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/introducing-ncl-sm-a-fully-annotated-dataset</guid>
+      <title>LABCAT: Locally adaptive Bayesian optimization using principal component-aligned trust regions</title>
+      <link>https://paperswithcode.com/paper/labcat-locally-adaptive-bayesian-optimization</link>
+      <description><![CDATA[Bayesian optimization (BO) is a popular method for optimizing expensive black-box functions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/labcat-locally-adaptive-bayesian-optimization</guid>
+    </item>
+    <item>
+      <title>FedRA: A Random Allocation Strategy for Federated Tuning to Unleash the Power of Heterogeneous Clients</title>
+      <link>https://paperswithcode.com/paper/fedra-a-random-allocation-strategy-for</link>
+      <description><![CDATA[The implementation of FedRA is straightforward and can be seamlessly integrated into any transformer-based model without the need for further modification to the original model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fedra-a-random-allocation-strategy-for</guid>
+    </item>
+    <item>
+      <title>Pair-wise Layer Attention with Spatial Masking for Video Prediction</title>
+      <link>https://paperswithcode.com/paper/pair-wise-layer-attention-with-spatial</link>
+      <description><![CDATA[To this end, we present a Pair-wise Layer Attention with Spatial Masking (PLA-SM) framework for video prediction to capture the spatiotemporal dynamics, which reflect the motion trend.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pair-wise-layer-attention-with-spatial</guid>
+    </item>
+    <item>
+      <title>Negotiated Representations for Machine Mearning Application</title>
+      <link>https://paperswithcode.com/paper/negotiated-representations-for-machine</link>
+      <description><![CDATA[Overfitting is a phenomenon that occurs when a machine learning model is trained for too long and focused too much on the exact fitness of the training samples to the provided training labels and cannot keep track of the predictive rules that would be useful on the test data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/negotiated-representations-for-machine</guid>
+    </item>
+    <item>
+      <title>Appearance Codes using Joint Embedding Learning of Multiple Modalities</title>
+      <link>https://paperswithcode.com/paper/appearance-codes-using-joint-embedding</link>
+      <description><![CDATA[The use of appearance codes in recent work on generative modeling has enabled novel view renders with variable appearance and illumination, such as day-time and night-time renders of a scene.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/appearance-codes-using-joint-embedding</guid>
+    </item>
+    <item>
+      <title>CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies</title>
+      <link>https://paperswithcode.com/paper/champ-efficient-annotation-and-consolidation</link>
+      <description><![CDATA[Various NLP tasks require a complex hierarchical structure over nodes, where each node is a cluster of items.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/champ-efficient-annotation-and-consolidation</guid>
     </item>
   </channel>
 </rss>
