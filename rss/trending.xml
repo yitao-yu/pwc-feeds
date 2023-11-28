@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Nov 2023 21:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 09:12:47 +0000</lastBuildDate>
     <item>
       <title>Video-LLaVA: Learning United Visual Representation by Alignment Before Projection</title>
       <link>https://paperswithcode.com/paper/video-llava-learning-united-visual-1</link>
@@ -16,15 +16,21 @@
     </item>
     <item>
       <title>Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets</title>
-      <link>https://paperswithcode.com/paper/stable-video-diffusion-scaling-latent-video</link>
-      <description><![CDATA[We present Stable Video Diffusion — a latent video diffusion model for high-resolution, state-of-the-art text-to-video and image-to-video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-video-diffusion-scaling-latent-video</guid>
+      <link>https://paperswithcode.com/paper/stable-video-diffusion-scaling-latent-video-1</link>
+      <description><![CDATA[We then explore the impact of finetuning our base model on high-quality data and train a text-to-video model that is competitive with closed-source video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-video-diffusion-scaling-latent-video-1</guid>
     </item>
     <item>
       <title>Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models</title>
       <link>https://paperswithcode.com/paper/concept-sliders-lora-adaptors-for-precise</link>
       <description><![CDATA[We present a method to create interpretable concept sliders that enable precise control over attributes in image generations from diffusion models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/concept-sliders-lora-adaptors-for-precise</guid>
+    </item>
+    <item>
+      <title>Efficient LLM Inference on CPUs</title>
+      <link>https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</link>
+      <description><![CDATA[Large language models (LLMs) have demonstrated remarkable performance and tremendous potential across a wide range of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</guid>
     </item>
     <item>
       <title>Exponentially Faster Language Modelling</title>
@@ -39,16 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/styletts-2-towards-human-level-text-to-speech</guid>
     </item>
     <item>
+      <title>LCM-LoRA: A Universal Stable-Diffusion Acceleration Module</title>
+      <link>https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</link>
+      <description><![CDATA[Latent Consistency Models (LCMs) have achieved impressive performance in accelerating text-to-image generative tasks, producing high-quality images with minimal inference steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</guid>
+    </item>
+    <item>
       <title>HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis</title>
       <link>https://paperswithcode.com/paper/hierspeech-bridging-the-gap-between-semantic</link>
       <description><![CDATA[Furthermore, we significantly improve the naturalness and speaker similarity of synthetic speech even in zero-shot speech synthesis scenarios.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/hierspeech-bridging-the-gap-between-semantic</guid>
-    </item>
-    <item>
-      <title>Efficient LLM Inference on CPUs</title>
-      <link>https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</link>
-      <description><![CDATA[Large language models (LLMs) have demonstrated remarkable performance and tremendous potential across a wide range of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-llm-inference-on-cpus</guid>
     </item>
     <item>
       <title>MagicDance: Realistic Human Dance Video Generation with Motions &amp; Facial Expressions Transfer</title>
@@ -57,28 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/magicdance-realistic-human-dance-video</guid>
     </item>
     <item>
-      <title>LCM-LoRA: A Universal Stable-Diffusion Acceleration Module</title>
-      <link>https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</link>
-      <description><![CDATA[Latent Consistency Models (LCMs) have achieved impressive performance in accelerating text-to-image generative tasks, producing high-quality images with minimal inference steps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lcm-lora-a-universal-stable-diffusion</guid>
-    </item>
-    <item>
-      <title>minimax: Efficient Baselines for Autocurricula in JAX</title>
-      <link>https://paperswithcode.com/paper/minimax-efficient-baselines-for-autocurricula</link>
-      <description><![CDATA[This compute requirement is a major obstacle to rapid innovation for the field.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minimax-efficient-baselines-for-autocurricula</guid>
-    </item>
-    <item>
-      <title>Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion</title>
-      <link>https://paperswithcode.com/paper/diffuse-attend-and-segment-unsupervised-zero</link>
-      <description><![CDATA[The proposed method does not require any training or language dependency to extract quality segmentation for any images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuse-attend-and-segment-unsupervised-zero</guid>
-    </item>
-    <item>
-      <title>Improving Sample Quality of Diffusion Models Using Self-Attention Guidance</title>
-      <link>https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</link>
-      <description><![CDATA[Denoising diffusion models (DDMs) have attracted attention for their exceptional generation quality and diversity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</guid>
+      <title>CogVLM: Visual Expert for Pretrained Language Models</title>
+      <link>https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</link>
+      <description><![CDATA[We introduce CogVLM, a powerful open-source visual language foundation model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
     </item>
     <item>
       <title>GraphCast: Learning skillful medium-range global weather forecasting</title>
@@ -87,22 +75,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</guid>
     </item>
     <item>
+      <title>Instruction Tuning with Human Curriculum</title>
+      <link>https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</link>
+      <description><![CDATA[The dominant paradigm for instruction tuning is the random-shuffled training of maximally diverse instruction-response pairs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</guid>
+    </item>
+    <item>
+      <title>InRank: Incremental Low-Rank Learning</title>
+      <link>https://paperswithcode.com/paper/inrank-incremental-low-rank-learning</link>
+      <description><![CDATA[To remedy this, we design a new training algorithm Incremental Low-Rank Learning (InRank), which explicitly expresses cumulative weight updates as low-rank matrices while incrementally augmenting their ranks during training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inrank-incremental-low-rank-learning</guid>
+    </item>
+    <item>
       <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
       <link>https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</link>
       <description><![CDATA[The recent advancements in text-to-3D generation mark a significant milestone in generative models, unlocking new possibilities for creating imaginative 3D assets across various real-world scenarios.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</guid>
     </item>
     <item>
-      <title>Saturn: An Optimized Data System for Large Model Deep Learning Workloads</title>
-      <link>https://paperswithcode.com/paper/saturn-an-optimized-data-system-for-large</link>
-      <description><![CDATA[Such models need multiple GPUs due to both their size and computational load, driving the development of a bevy of "model parallelism" techniques & tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/saturn-an-optimized-data-system-for-large</guid>
+      <title>Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion</title>
+      <link>https://paperswithcode.com/paper/diffuse-attend-and-segment-unsupervised-zero</link>
+      <description><![CDATA[The proposed method does not require any training or language dependency to extract quality segmentation for any images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffuse-attend-and-segment-unsupervised-zero</guid>
     </item>
     <item>
-      <title>CogVLM: Visual Expert for Pretrained Language Models</title>
-      <link>https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</link>
-      <description><![CDATA[We introduce CogVLM, a powerful open-source visual language foundation model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvlm-visual-expert-for-pretrained-language</guid>
+      <title>minimax: Efficient Baselines for Autocurricula in JAX</title>
+      <link>https://paperswithcode.com/paper/minimax-efficient-baselines-for-autocurricula</link>
+      <description><![CDATA[This compute requirement is a major obstacle to rapid innovation for the field.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minimax-efficient-baselines-for-autocurricula</guid>
     </item>
     <item>
       <title>Visual In-Context Prompting</title>
@@ -111,10 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-in-context-prompting</guid>
     </item>
     <item>
-      <title>Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch</title>
-      <link>https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</link>
-      <description><![CDATA[Based on this observation, we further sparsify delta parameters of multiple SFT homologous models with DARE and subsequently merge them into a single model by parameter averaging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</guid>
+      <title>Improving Sample Quality of Diffusion Models Using Self-Attention Guidance</title>
+      <link>https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</link>
+      <description><![CDATA[Denoising diffusion models (DDMs) have attracted attention for their exceptional generation quality and diversity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</guid>
     </item>
     <item>
       <title>A Survey of Graph Meets Large Language Model: Progress and Future Directions</title>
@@ -123,10 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-graph-meets-large-language-model</guid>
     </item>
     <item>
-      <title>PG-Video-LLaVA: Pixel Grounding Large Video-Language Models</title>
-      <link>https://paperswithcode.com/paper/pg-video-llava-pixel-grounding-large-video</link>
-      <description><![CDATA[Extending image-based Large Multimodal Models (LMM) to videos is challenging due to the inherent complexity of video data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pg-video-llava-pixel-grounding-large-video</guid>
+      <title>Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents</title>
+      <link>https://paperswithcode.com/paper/igniting-language-intelligence-the-hitchhiker</link>
+      <description><![CDATA[Large language models (LLMs) have dramatically enhanced the field of language intelligence, as demonstrably evidenced by their formidable empirical performance across a spectrum of complex reasoning tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/igniting-language-intelligence-the-hitchhiker</guid>
     </item>
   </channel>
 </rss>
