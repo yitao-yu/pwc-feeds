@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Dec 2023 21:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 09:11:03 +0000</lastBuildDate>
     <item>
       <title>MEDITRON-70B: Scaling Medical Pretraining for Large Language Models</title>
       <link>https://paperswithcode.com/paper/meditron-70b-scaling-medical-pretraining-for</link>
@@ -15,28 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/meditron-70b-scaling-medical-pretraining-for</guid>
     </item>
     <item>
-      <title>YUAN 2.0: A Large Language Model with Localized Filtering-based Attention</title>
-      <link>https://paperswithcode.com/paper/yuan-2-0-a-large-language-model-with</link>
-      <description><![CDATA[In this work, the Localized Filtering-based Attention (LFA) is introduced to incorporate prior knowledge of local dependencies of natural language into Attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yuan-2-0-a-large-language-model-with</guid>
-    </item>
-    <item>
-      <title>On Bringing Robots Home</title>
-      <link>https://paperswithcode.com/paper/on-bringing-robots-home</link>
-      <description><![CDATA[We use the Stick to collect 13 hours of data in 22 homes of New York City, and train Home Pretrained Representations (HPR).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-bringing-robots-home</guid>
-    </item>
-    <item>
-      <title>LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS</title>
-      <link>https://paperswithcode.com/paper/lightgaussian-unbounded-3d-gaussian</link>
-      <description><![CDATA[Recent advancements in real-time neural rendering using point-based techniques have paved the way for the widespread adoption of 3D representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lightgaussian-unbounded-3d-gaussian</guid>
-    </item>
-    <item>
-      <title>GS-IR: 3D Gaussian Splatting for Inverse Rendering</title>
-      <link>https://paperswithcode.com/paper/gs-ir-3d-gaussian-splatting-for-inverse</link>
-      <description><![CDATA[We propose GS-IR, a novel inverse rendering approach based on 3D Gaussian Splatting (GS) that leverages forward mapping volume rendering to achieve photorealistic novel view synthesis and relighting results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gs-ir-3d-gaussian-splatting-for-inverse</guid>
+      <title>GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation</title>
+      <link>https://paperswithcode.com/paper/geodream-disentangling-2d-and-geometric</link>
+      <description><![CDATA[We justify that the refined 3D geometric priors aid in the 3D-aware capability of 2D diffusion priors, which in turn provides superior guidance for the refinement of 3D geometric priors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/geodream-disentangling-2d-and-geometric</guid>
     </item>
     <item>
       <title>Improving Sample Quality of Diffusion Models Using Self-Attention Guidance</title>
@@ -45,10 +27,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</guid>
     </item>
     <item>
-      <title>LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</link>
-      <description><![CDATA[Current VLMs, while proficient in tasks like image captioning and visual question answering, face computational burdens when processing long videos due to the excessive visual tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</guid>
+      <title>On Bringing Robots Home</title>
+      <link>https://paperswithcode.com/paper/on-bringing-robots-home</link>
+      <description><![CDATA[We use the Stick to collect 13 hours of data in 22 homes of New York City, and train Home Pretrained Representations (HPR).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-bringing-robots-home</guid>
+    </item>
+    <item>
+      <title>TaskWeaver: A Code-First Agent Framework</title>
+      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
+      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
+    </item>
+    <item>
+      <title>YUAN 2.0: A Large Language Model with Localized Filtering-based Attention</title>
+      <link>https://paperswithcode.com/paper/yuan-2-0-a-large-language-model-with</link>
+      <description><![CDATA[In this work, the Localized Filtering-based Attention (LFA) is introduced to incorporate prior knowledge of local dependencies of natural language into Attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yuan-2-0-a-large-language-model-with</guid>
+    </item>
+    <item>
+      <title>LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS</title>
+      <link>https://paperswithcode.com/paper/lightgaussian-unbounded-3d-gaussian</link>
+      <description><![CDATA[Recent advancements in real-time neural rendering using point-based techniques have paved the way for the widespread adoption of 3D representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightgaussian-unbounded-3d-gaussian</guid>
+    </item>
+    <item>
+      <title>SeamlessM4T: Massively Multilingual &amp; Multimodal Machine Translation</title>
+      <link>https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</link>
+      <description><![CDATA[What does it take to create the Babel Fish, a tool that can help individuals translate speech between any two languages?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</guid>
+    </item>
+    <item>
+      <title>GS-IR: 3D Gaussian Splatting for Inverse Rendering</title>
+      <link>https://paperswithcode.com/paper/gs-ir-3d-gaussian-splatting-for-inverse</link>
+      <description><![CDATA[We propose GS-IR, a novel inverse rendering approach based on 3D Gaussian Splatting (GS) that leverages forward mapping volume rendering to achieve photorealistic novel view synthesis and relighting results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gs-ir-3d-gaussian-splatting-for-inverse</guid>
     </item>
     <item>
       <title>OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving</title>
@@ -57,22 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/occworld-learning-a-3d-occupancy-world-model</guid>
     </item>
     <item>
-      <title>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</title>
-      <link>https://paperswithcode.com/paper/animatable-gaussians-learning-pose-dependent</link>
-      <description><![CDATA[Overall, our method can create lifelike avatars with dynamic, realistic and generalized appearances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/animatable-gaussians-learning-pose-dependent</guid>
+      <title>Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models</title>
+      <link>https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</link>
+      <description><![CDATA[Recently, instruction-following audio-language models have received broad attention for audio interaction with humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-audio-advancing-universal-audio</guid>
     </item>
     <item>
-      <title>UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition</title>
-      <link>https://paperswithcode.com/paper/unireplknet-a-universal-perception-large</link>
-      <description><![CDATA[1) We propose four architectural guidelines for designing large-kernel ConvNets, the core of which is to exploit the essential characteristics of large kernels that distinguish them from small kernels - they can see wide without going deep.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unireplknet-a-universal-perception-large</guid>
-    </item>
-    <item>
-      <title>Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/driving-into-the-future-multiview-visual</link>
-      <description><![CDATA[In autonomous driving, predicting future events in advance and evaluating the foreseeable risks empowers autonomous vehicles to better plan their actions, enhancing safety and efficiency on the road.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/driving-into-the-future-multiview-visual</guid>
+      <title>LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</link>
+      <description><![CDATA[Current VLMs, while proficient in tasks like image captioning and visual question answering, face computational burdens when processing long videos due to the excessive visual tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</guid>
     </item>
     <item>
       <title>Adversarial Diffusion Distillation</title>
@@ -81,22 +87,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-diffusion-distillation</guid>
     </item>
     <item>
-      <title>Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch</title>
-      <link>https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</link>
-      <description><![CDATA[Based on this observation, we further sparsify delta parameters of multiple SFT homologous models with DARE and subsequently merge them into a single model by parameter averaging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</guid>
+      <title>UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition</title>
+      <link>https://paperswithcode.com/paper/unireplknet-a-universal-perception-large</link>
+      <description><![CDATA[1) We propose four architectural guidelines for designing large-kernel ConvNets, the core of which is to exploit the essential characteristics of large kernels that distinguish them from small kernels - they can see wide without going deep.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unireplknet-a-universal-perception-large</guid>
     </item>
     <item>
-      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
-      <link>https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</link>
-      <description><![CDATA[The recent advancements in text-to-3D generation mark a significant milestone in generative models, unlocking new possibilities for creating imaginative 3D assets across various real-world scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</guid>
-    </item>
-    <item>
-      <title>Pair then Relation: Pair-Net for Panoptic Scene Graph Generation</title>
-      <link>https://paperswithcode.com/paper/pair-then-relation-pair-net-for-panoptic</link>
-      <description><![CDATA[Panoptic Scene Graph (PSG) is a challenging task in Scene Graph Generation (SGG) that aims to create a more comprehensive scene graph representation using panoptic segmentation instead of boxes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pair-then-relation-pair-net-for-panoptic</guid>
+      <title>Qwen Technical Report</title>
+      <link>https://paperswithcode.com/paper/qwen-technical-report</link>
+      <description><![CDATA[Large language models (LLMs) have revolutionized the field of artificial intelligence, enabling natural language processing tasks that were previously thought to be exclusive to humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-technical-report</guid>
     </item>
     <item>
       <title>SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis</title>
@@ -105,28 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/synctalk-the-devil-is-in-the-synchronization</guid>
     </item>
     <item>
-      <title>Sketch Video Synthesis</title>
-      <link>https://paperswithcode.com/paper/sketch-video-synthesis</link>
-      <description><![CDATA[Understanding semantic intricacies and high-level concepts is essential in image sketch generation, and this challenge becomes even more formidable when applied to the domain of videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sketch-video-synthesis</guid>
+      <title>Pair then Relation: Pair-Net for Panoptic Scene Graph Generation</title>
+      <link>https://paperswithcode.com/paper/pair-then-relation-pair-net-for-panoptic</link>
+      <description><![CDATA[Panoptic Scene Graph (PSG) is a challenging task in Scene Graph Generation (SGG) that aims to create a more comprehensive scene graph representation using panoptic segmentation instead of boxes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pair-then-relation-pair-net-for-panoptic</guid>
     </item>
     <item>
-      <title>White-Box Transformers via Sparse Rate Reduction</title>
-      <link>https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</link>
-      <description><![CDATA[Particularly, we show that the standard transformer block can be derived from alternating optimization on complementary parts of this objective: the multi-head self-attention operator can be viewed as a gradient descent step to compress the token sets by minimizing their lossy coding rate, and the subsequent multi-layer perceptron can be viewed as attempting to sparsify the representation of the tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/white-box-transformers-via-sparse-rate</guid>
+      <title>Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding</title>
+      <link>https://paperswithcode.com/paper/chat-univi-unified-visual-representation</link>
+      <description><![CDATA[Large language models have demonstrated impressive universal capabilities across a wide range of open-ended tasks and have extended their utility to encompass multimodal conversations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chat-univi-unified-visual-representation</guid>
     </item>
     <item>
-      <title>LoRA: Low-Rank Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</link>
-      <description><![CDATA[We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lora-low-rank-adaptation-of-large-language</guid>
+      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
+      <link>https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</link>
+      <description><![CDATA[The recent advancements in text-to-3D generation mark a significant milestone in generative models, unlocking new possibilities for creating imaginative 3D assets across various real-world scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/luciddreamer-towards-high-fidelity-text-to-3d</guid>
     </item>
     <item>
-      <title>Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models</title>
-      <link>https://paperswithcode.com/paper/video-bench-a-comprehensive-benchmark-and</link>
-      <description><![CDATA[Video-based large language models (Video-LLMs) have been recently introduced, targeting both fundamental improvements in perception and comprehension, and a diverse range of user inquiries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/video-bench-a-comprehensive-benchmark-and</guid>
+      <title>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</title>
+      <link>https://paperswithcode.com/paper/animatable-gaussians-learning-pose-dependent</link>
+      <description><![CDATA[Overall, our method can create lifelike avatars with dynamic, realistic and generalized appearances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/animatable-gaussians-learning-pose-dependent</guid>
     </item>
   </channel>
 </rss>
