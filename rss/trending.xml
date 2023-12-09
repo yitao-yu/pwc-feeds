@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Dec 2023 09:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 21:06:00 +0000</lastBuildDate>
+    <item>
+      <title>Pearl: A Production-ready Reinforcement Learning Agent</title>
+      <link>https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</link>
+      <description><![CDATA[Reinforcement Learning (RL) offers a versatile framework for achieving long-term goals.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</guid>
+    </item>
     <item>
       <title>Mamba: Linear-Time Sequence Modeling with Selective State Spaces</title>
       <link>https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</link>
@@ -21,22 +27,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
     </item>
     <item>
-      <title>Magicoder: Source Code Is All You Need</title>
-      <link>https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</link>
-      <description><![CDATA[Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</guid>
-    </item>
-    <item>
       <title>Self-conditioned Image Generation via Generating Representations</title>
       <link>https://paperswithcode.com/paper/self-conditioned-image-generation-via</link>
       <description><![CDATA[During generation, RCG samples from such representation distribution using a representation diffusion model (RDM), and employs a pixel generator to craft image pixels conditioned on the sampled representation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/self-conditioned-image-generation-via</guid>
     </item>
     <item>
+      <title>Magicoder: Source Code Is All You Need</title>
+      <link>https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</link>
+      <description><![CDATA[Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</guid>
+    </item>
+    <item>
+      <title>Style Aligned Image Generation via Shared Attention</title>
+      <link>https://paperswithcode.com/paper/style-aligned-image-generation-via-shared</link>
+      <description><![CDATA[Large-scale Text-to-Image (T2I) models have rapidly gained prominence across creative fields, generating visually compelling outputs from textual prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/style-aligned-image-generation-via-shared</guid>
+    </item>
+    <item>
+      <title>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</title>
+      <link>https://paperswithcode.com/paper/gaussian-head-avatar-ultra-high-fidelity-head</link>
+      <description><![CDATA[Creating high-fidelity 3D head avatars has always been a research hotspot, but there remains a great challenge under lightweight sparse view setups.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussian-head-avatar-ultra-high-fidelity-head</guid>
+    </item>
+    <item>
       <title>Sequential Modeling Enables Scalable Learning for Large Vision Models</title>
       <link>https://paperswithcode.com/paper/sequential-modeling-enables-scalable-learning</link>
       <description><![CDATA[We introduce a novel sequential modeling approach which enables learning a Large Vision Model (LVM) without making use of any linguistic data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sequential-modeling-enables-scalable-learning</guid>
+    </item>
+    <item>
+      <title>DemoFusion: Democratising High-Resolution Image Generation With No $$$</title>
+      <link>https://paperswithcode.com/paper/demofusion-democratising-high-resolution</link>
+      <description><![CDATA[High-resolution image generation with Generative Artificial Intelligence (GenAI) has immense potential but, due to the enormous capital investment required for training, it is increasingly centralised to a few large corporations, and hidden behind paywalls.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demofusion-democratising-high-resolution</guid>
+    </item>
+    <item>
+      <title>Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation</title>
+      <link>https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</link>
+      <description><![CDATA[Monocular depth estimation is a fundamental computer vision task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</guid>
+    </item>
+    <item>
+      <title>OneLLM: One Framework to Align All Modalities with Language</title>
+      <link>https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</link>
+      <description><![CDATA[In detail, we first train an image projection module to connect a vision encoder with LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</guid>
     </item>
     <item>
       <title>HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis</title>
@@ -51,10 +87,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepcache-accelerating-diffusion-models-for</guid>
     </item>
     <item>
-      <title>Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians</title>
-      <link>https://paperswithcode.com/paper/gaussian-head-avatar-ultra-high-fidelity-head</link>
-      <description><![CDATA[Creating high-fidelity 3D head avatars has always been a research hotspot, but there remains a great challenge under lightweight sparse view setups.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussian-head-avatar-ultra-high-fidelity-head</guid>
+      <title>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</title>
+      <link>https://paperswithcode.com/paper/alpha-clip-a-clip-model-focusing-on-wherever</link>
+      <description><![CDATA[Alpha-CLIP not only preserves the visual recognition ability of CLIP but also enables precise control over the emphasis of image contents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpha-clip-a-clip-model-focusing-on-wherever</guid>
     </item>
     <item>
       <title>Aligning and Prompting Everything All at Once for Universal Visual Perception</title>
@@ -63,52 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-and-prompting-everything-all-at-once</guid>
     </item>
     <item>
-      <title>DemoFusion: Democratising High-Resolution Image Generation With No $$$</title>
-      <link>https://paperswithcode.com/paper/demofusion-democratising-high-resolution</link>
-      <description><![CDATA[High-resolution image generation with Generative Artificial Intelligence (GenAI) has immense potential but, due to the enormous capital investment required for training, it is increasingly centralised to a few large corporations, and hidden behind paywalls.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demofusion-democratising-high-resolution</guid>
+      <title>Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/smooth-diffusion-crafting-smooth-latent</link>
+      <description><![CDATA[Specifically, we introduce Step-wise Variation Regularization to enforce the proportion between the variations of an arbitrary input latent and that of the output image is a constant at any diffusion training step.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smooth-diffusion-crafting-smooth-latent</guid>
     </item>
     <item>
-      <title>DiffiT: Diffusion Vision Transformers for Image Generation</title>
-      <link>https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for</link>
-      <description><![CDATA[We also introduce latent DiffiT which consists of transformer model with the proposed self-attention layers, for high-resolution image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for</guid>
-    </item>
-    <item>
-      <title>OneLLM: One Framework to Align All Modalities with Language</title>
-      <link>https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</link>
-      <description><![CDATA[In detail, we first train an image projection module to connect a vision encoder with LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</guid>
-    </item>
-    <item>
-      <title>Gaussian Grouping: Segment and Edit Anything in 3D Scenes</title>
-      <link>https://paperswithcode.com/paper/gaussian-grouping-segment-and-edit-anything</link>
-      <description><![CDATA[To address this issue, we propose Gaussian Grouping, which extends Gaussian Splatting to jointly reconstruct and segment anything in open-world 3D scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussian-grouping-segment-and-edit-anything</guid>
-    </item>
-    <item>
-      <title>SeamlessM4T: Massively Multilingual &amp; Multimodal Machine Translation</title>
-      <link>https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</link>
-      <description><![CDATA[What does it take to create the Babel Fish, a tool that can help individuals translate speech between any two languages?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seamlessm4t-massively-multilingual-multimodal</guid>
-    </item>
-    <item>
-      <title>RETVec: Resilient and Efficient Text Vectorizer</title>
-      <link>https://paperswithcode.com/paper/retvec-resilient-and-efficient-text</link>
-      <description><![CDATA[The RETVec embedding model is pre-trained using pair-wise metric learning to be robust against typos and character-level adversarial attacks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/retvec-resilient-and-efficient-text</guid>
-    </item>
-    <item>
-      <title>GauHuman: Articulated Gaussian Splatting from Monocular Human Videos</title>
-      <link>https://paperswithcode.com/paper/gauhuman-articulated-gaussian-splatting-from</link>
-      <description><![CDATA[We present, GauHuman, a 3D human model with Gaussian Splatting for both fast training (1 ~ 2 minutes) and real-time rendering (up to 189 FPS), compared with existing NeRF-based implicit representation modelling frameworks demanding hours of training and seconds of rendering per frame.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gauhuman-articulated-gaussian-splatting-from</guid>
-    </item>
-    <item>
-      <title>Improving Sample Quality of Diffusion Models Using Self-Attention Guidance</title>
-      <link>https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</link>
-      <description><![CDATA[Denoising diffusion models (DDMs) have attracted attention for their exceptional generation quality and diversity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model</guid>
+      <title>AnimateZero: Video Diffusion Models are Zero-Shot Image Animators</title>
+      <link>https://paperswithcode.com/paper/animatezero-video-diffusion-models-are-zero</link>
+      <description><![CDATA[For appearance control, we borrow intermediate latents and their features from the text-to-image (T2I) generation for ensuring the generated first frame is equal to the given generated image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/animatezero-video-diffusion-models-are-zero</guid>
     </item>
     <item>
       <title>PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/patchfusion-an-end-to-end-tile-based</guid>
     </item>
     <item>
-      <title>Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models</title>
-      <link>https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are</link>
-      <description><![CDATA[Additionally, experiments on 18 datasets further demonstrate that Monkey surpasses existing LMMs in many tasks like Image Captioning and various Visual Question Answering formats.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are</guid>
+      <title>Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia</title>
+      <link>https://paperswithcode.com/paper/generative-agent-based-modeling-with-actions</link>
+      <description><![CDATA[Agent-based modeling has been around for decades, and applied widely across the social and natural sciences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-agent-based-modeling-with-actions</guid>
     </item>
     <item>
-      <title>MEDITRON-70B: Scaling Medical Pretraining for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/meditron-70b-scaling-medical-pretraining-for</link>
-      <description><![CDATA[Large language models (LLMs) can potentially democratize access to medical knowledge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meditron-70b-scaling-medical-pretraining-for</guid>
+      <title>DiffiT: Diffusion Vision Transformers for Image Generation</title>
+      <link>https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for</link>
+      <description><![CDATA[We also introduce latent DiffiT which consists of transformer model with the proposed self-attention layers, for high-resolution image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for</guid>
     </item>
   </channel>
 </rss>
