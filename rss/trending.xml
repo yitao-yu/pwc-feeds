@@ -7,19 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 09:12:34 +0000</lastBuildDate>
-    <item>
-      <title>Pearl: A Production-ready Reinforcement Learning Agent</title>
-      <link>https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</link>
-      <description><![CDATA[Reinforcement Learning (RL) offers a versatile framework for achieving long-term goals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</guid>
-    </item>
-    <item>
-      <title>An LLM Compiler for Parallel Function Calling</title>
-      <link>https://paperswithcode.com/paper/an-llm-compiler-for-parallel-function-calling</link>
-      <description><![CDATA[LLMCompiler automatically computes an optimized orchestration for the function calls and can be used with open-source models such as LLaMA-2.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-llm-compiler-for-parallel-function-calling</guid>
-    </item>
+    <lastBuildDate>Fri, 15 Dec 2023 21:06:37 +0000</lastBuildDate>
     <item>
       <title>EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM</title>
       <link>https://paperswithcode.com/paper/edgesam-prompt-in-the-loop-distillation-for</link>
@@ -31,6 +19,18 @@
       <link>https://paperswithcode.com/paper/demofusion-democratising-high-resolution</link>
       <description><![CDATA[High-resolution image generation with Generative Artificial Intelligence (GenAI) has immense potential but, due to the enormous capital investment required for training, it is increasingly centralised to a few large corporations, and hidden behind paywalls.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/demofusion-democratising-high-resolution</guid>
+    </item>
+    <item>
+      <title>Pearl: A Production-ready Reinforcement Learning Agent</title>
+      <link>https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</link>
+      <description><![CDATA[Reinforcement Learning (RL) offers a versatile framework for achieving long-term goals.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</guid>
+    </item>
+    <item>
+      <title>FreeInit: Bridging Initialization Gap in Video Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</link>
+      <description><![CDATA[Though diffusion-based video generation has witnessed rapid progress, the inference results of existing models still exhibit unsatisfactory temporal consistency and unnatural dynamics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</guid>
     </item>
     <item>
       <title>PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation</title>
@@ -45,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</guid>
     </item>
     <item>
-      <title>0.1% Data Makes Segment Anything Slim</title>
-      <link>https://paperswithcode.com/paper/0-1-data-makes-segment-anything-slim</link>
-      <description><![CDATA[To address this issue, this paper introduces SlimSAM, a novel SAM compression method that achieves superior performance with remarkably low training costs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/0-1-data-makes-segment-anything-slim</guid>
+      <title>An LLM Compiler for Parallel Function Calling</title>
+      <link>https://paperswithcode.com/paper/an-llm-compiler-for-parallel-function-calling</link>
+      <description><![CDATA[LLMCompiler automatically computes an optimized orchestration for the function calls and can be used with open-source models such as LLaMA-2.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-llm-compiler-for-parallel-function-calling</guid>
     </item>
     <item>
       <title>Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation</title>
@@ -57,58 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</guid>
     </item>
     <item>
-      <title>Magicoder: Source Code Is All You Need</title>
-      <link>https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</link>
-      <description><![CDATA[Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</guid>
-    </item>
-    <item>
-      <title>Self-conditioned Image Generation via Generating Representations</title>
-      <link>https://paperswithcode.com/paper/self-conditioned-image-generation-via</link>
-      <description><![CDATA[During generation, RCG samples from such representation distribution using a representation diffusion model (RDM), and employs a pixel generator to craft image pixels conditioned on the sampled representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-conditioned-image-generation-via</guid>
-    </item>
-    <item>
       <title>AnimateZero: Video Diffusion Models are Zero-Shot Image Animators</title>
       <link>https://paperswithcode.com/paper/animatezero-video-diffusion-models-are-zero</link>
       <description><![CDATA[For appearance control, we borrow intermediate latents and their features from the text-to-image (T2I) generation for ensuring the generated first frame is equal to the given generated image.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatezero-video-diffusion-models-are-zero</guid>
-    </item>
-    <item>
-      <title>Controlled Text Generation via Language Model Arithmetic</title>
-      <link>https://paperswithcode.com/paper/controlled-text-generation-via-language-model</link>
-      <description><![CDATA[In addition, the framework allows for more precise control of generated text than direct prompting and prior controlled text generation (CTG) techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/controlled-text-generation-via-language-model</guid>
-    </item>
-    <item>
-      <title>LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</link>
-      <description><![CDATA[Current VLMs, while proficient in tasks like image captioning and visual question answering, face computational burdens when processing long videos due to the excessive visual tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</guid>
-    </item>
-    <item>
-      <title>FreeInit: Bridging Initialization Gap in Video Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</link>
-      <description><![CDATA[Though diffusion-based video generation has witnessed rapid progress, the inference results of existing models still exhibit unsatisfactory temporal consistency and unnatural dynamics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</guid>
-    </item>
-    <item>
-      <title>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</title>
-      <link>https://paperswithcode.com/paper/alpha-clip-a-clip-model-focusing-on-wherever</link>
-      <description><![CDATA[Alpha-CLIP not only preserves the visual recognition ability of CLIP but also enables precise control over the emphasis of image contents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alpha-clip-a-clip-model-focusing-on-wherever</guid>
-    </item>
-    <item>
-      <title>Efficient Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/efficient-large-language-models-a-survey</link>
-      <description><![CDATA[Large Language Models (LLMs) have demonstrated remarkable capabilities in important tasks such as natural language understanding, language generation, and complex reasoning and have the potential to make a substantial impact on our society.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-large-language-models-a-survey</guid>
-    </item>
-    <item>
-      <title>TaskWeaver: A Code-First Agent Framework</title>
-      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
-      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
     </item>
     <item>
       <title>Mistral 7B</title>
@@ -117,16 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mistral-7b</guid>
     </item>
     <item>
-      <title>OneLLM: One Framework to Align All Modalities with Language</title>
-      <link>https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</link>
-      <description><![CDATA[In detail, we first train an image projection module to connect a vision encoder with LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</guid>
+      <title>Magicoder: Source Code Is All You Need</title>
+      <link>https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</link>
+      <description><![CDATA[Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</guid>
+    </item>
+    <item>
+      <title>TaskWeaver: A Code-First Agent Framework</title>
+      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
+      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
+    </item>
+    <item>
+      <title>LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</link>
+      <description><![CDATA[Current VLMs, while proficient in tasks like image captioning and visual question answering, face computational burdens when processing long videos due to the excessive visual tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-vid-an-image-is-worth-2-tokens-in-large</guid>
+    </item>
+    <item>
+      <title>0.1% Data Makes Segment Anything Slim</title>
+      <link>https://paperswithcode.com/paper/0-1-data-makes-segment-anything-slim</link>
+      <description><![CDATA[To address this issue, this paper introduces SlimSAM, a novel SAM compression method that achieves superior performance with remarkably low training costs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/0-1-data-makes-segment-anything-slim</guid>
+    </item>
+    <item>
+      <title>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</title>
+      <link>https://paperswithcode.com/paper/alpha-clip-a-clip-model-focusing-on-wherever</link>
+      <description><![CDATA[Alpha-CLIP not only preserves the visual recognition ability of CLIP but also enables precise control over the emphasis of image contents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alpha-clip-a-clip-model-focusing-on-wherever</guid>
+    </item>
+    <item>
+      <title>Self-conditioned Image Generation via Generating Representations</title>
+      <link>https://paperswithcode.com/paper/self-conditioned-image-generation-via</link>
+      <description><![CDATA[During generation, RCG samples from such representation distribution using a representation diffusion model (RDM), and employs a pixel generator to craft image pixels conditioned on the sampled representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-conditioned-image-generation-via</guid>
+    </item>
+    <item>
+      <title>Efficient Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/efficient-large-language-models-a-survey</link>
+      <description><![CDATA[Large Language Models (LLMs) have demonstrated remarkable capabilities in important tasks such as natural language understanding, language generation, and complex reasoning and have the potential to make a substantial impact on our society.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-large-language-models-a-survey</guid>
+    </item>
+    <item>
+      <title>Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation</title>
+      <link>https://paperswithcode.com/paper/let-s-think-outside-the-box-exploring-leap-of</link>
+      <description><![CDATA[To this end, we study LLMs on the popular Oogiri game which needs participants to have good creativity and strong associative thinking for responding unexpectedly and humorously to the given image, text, or both, and thus is suitable for LoT study.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/let-s-think-outside-the-box-exploring-leap-of</guid>
     </item>
     <item>
       <title>CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation</title>
       <link>https://paperswithcode.com/paper/critiquellm-scaling-llm-as-critic-for</link>
       <description><![CDATA[Since the natural language processing (NLP) community started to make large language models (LLMs), such as GPT-4, act as a critic to evaluate the quality of generated texts, most of them only train a critique generation model of a specific scale on specific datasets.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/critiquellm-scaling-llm-as-critic-for</guid>
+    </item>
+    <item>
+      <title>OneLLM: One Framework to Align All Modalities with Language</title>
+      <link>https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</link>
+      <description><![CDATA[In detail, we first train an image projection module to connect a vision encoder with LLM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/onellm-one-framework-to-align-all-modalities</guid>
     </item>
   </channel>
 </rss>
