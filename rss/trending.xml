@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 21:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 09:10:24 +0000</lastBuildDate>
     <item>
       <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
       <link>https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</link>
@@ -15,10 +15,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
     </item>
     <item>
-      <title>Stabilizing Transformer Training by Preventing Attention Entropy Collapse</title>
-      <link>https://paperswithcode.com/paper/stabilizing-transformer-training-by</link>
-      <description><![CDATA[We show that $\sigma$Reparam provides stability and robustness with respect to the choice of hyperparameters, going so far as enabling training (a) a Vision Transformer {to competitive performance} without warmup, weight decay, layer normalization or adaptive optimizers; (b) deep architectures in machine translation and (c) speech recognition to competitive performance without warmup and adaptive optimizers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stabilizing-transformer-training-by</guid>
+      <title>Point Transformer V3: Simpler, Faster, Stronger</title>
+      <link>https://paperswithcode.com/paper/point-transformer-v3-simpler-faster-stronger</link>
+      <description><![CDATA[This paper is not motivated to seek innovation within the attention mechanism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-transformer-v3-simpler-faster-stronger</guid>
+    </item>
+    <item>
+      <title>Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/faster-diffusion-rethinking-the-role-of-unet</link>
+      <description><![CDATA[This finding inspired us to omit the encoder at certain adjacent time-steps and reuse cyclically the encoder features in the previous time-steps for the decoder.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-diffusion-rethinking-the-role-of-unet</guid>
+    </item>
+    <item>
+      <title>Osprey: Pixel Understanding with Visual Instruction Tuning</title>
+      <link>https://paperswithcode.com/paper/osprey-pixel-understanding-with-visual</link>
+      <description><![CDATA[In this paper, we propose Osprey, a mask-text instruction tuning approach, to extend MLLMs by incorporating fine-grained mask regions into language instruction, aiming at achieving pixel-wise visual understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/osprey-pixel-understanding-with-visual</guid>
     </item>
     <item>
       <title>Pearl: A Production-ready Reinforcement Learning Agent</title>
@@ -27,64 +39,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</guid>
     </item>
     <item>
+      <title>Stabilizing Transformer Training by Preventing Attention Entropy Collapse</title>
+      <link>https://paperswithcode.com/paper/stabilizing-transformer-training-by</link>
+      <description><![CDATA[We show that $\sigma$Reparam provides stability and robustness with respect to the choice of hyperparameters, going so far as enabling training (a) a Vision Transformer {to competitive performance} without warmup, weight decay, layer normalization or adaptive optimizers; (b) deep architectures in machine translation and (c) speech recognition to competitive performance without warmup and adaptive optimizers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stabilizing-transformer-training-by</guid>
+    </item>
+    <item>
+      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
+      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
+      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
+    </item>
+    <item>
       <title>OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields</title>
       <link>https://paperswithcode.com/paper/occnerf-self-supervised-multi-camera</link>
       <description><![CDATA[Moreover, for semantic occupancy prediction, we design several strategies to polish the prompts and filter the outputs of a pretrained open-vocabulary 2D segmentation model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/occnerf-self-supervised-multi-camera</guid>
     </item>
     <item>
+      <title>SlimmeRF: Slimmable Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/slimmerf-slimmable-radiance-fields</link>
+      <description><![CDATA[To this end, we present SlimmeRF, a model that allows for instant test-time trade-offs between model size and accuracy through slimming, thus making the model simultaneously suitable for scenarios with different computing budgets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/slimmerf-slimmable-radiance-fields</guid>
+    </item>
+    <item>
       <title>Disentangling Writer and Character Styles for Handwriting Generation</title>
       <link>https://paperswithcode.com/paper/disentangling-writer-and-character-styles-for</link>
       <description><![CDATA[In light of this, we propose to disentangle the style representations at both writer and character levels from individual handwritings to synthesize realistic stylized online handwritten characters.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-writer-and-character-styles-for</guid>
-    </item>
-    <item>
-      <title>EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM</title>
-      <link>https://paperswithcode.com/paper/edgesam-prompt-in-the-loop-distillation-for</link>
-      <description><![CDATA[It is also the first SAM variant that can run at over 30 FPS on an iPhone 14.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/edgesam-prompt-in-the-loop-distillation-for</guid>
-    </item>
-    <item>
-      <title>MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention</title>
-      <link>https://paperswithcode.com/paper/mcanet-medical-image-segmentation-with-multi</link>
-      <description><![CDATA[To process the significant variations of lesion regions or organs in individual sizes and shapes, we also use multiple convolutions of strip-shape kernels with different kernel sizes in each axial attention path to improve the efficiency of the proposed MCA in encoding spatial information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mcanet-medical-image-segmentation-with-multi</guid>
-    </item>
-    <item>
-      <title>Mamba: Linear-Time Sequence Modeling with Selective State Spaces</title>
-      <link>https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</link>
-      <description><![CDATA[Foundation models, now powering most of the exciting applications in deep learning, are almost universally based on the Transformer architecture and its core attention module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</guid>
-    </item>
-    <item>
-      <title>UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/udifftext-a-unified-framework-for-high</link>
-      <description><![CDATA[Text-to-Image (T2I) generation methods based on diffusion model have garnered significant attention in the last few years.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/udifftext-a-unified-framework-for-high</guid>
-    </item>
-    <item>
-      <title>DemoFusion: Democratising High-Resolution Image Generation With No $$$</title>
-      <link>https://paperswithcode.com/paper/demofusion-democratising-high-resolution</link>
-      <description><![CDATA[High-resolution image generation with Generative Artificial Intelligence (GenAI) has immense potential but, due to the enormous capital investment required for training, it is increasingly centralised to a few large corporations, and hidden behind paywalls.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demofusion-democratising-high-resolution</guid>
-    </item>
-    <item>
-      <title>PromptBench: A Unified Library for Evaluation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</link>
-      <description><![CDATA[The evaluation of large language models (LLMs) is crucial to assess their performance and mitigate potential security risks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</guid>
-    </item>
-    <item>
-      <title>S-LoRA: Serving Thousands of Concurrent LoRA Adapters</title>
-      <link>https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</link>
-      <description><![CDATA[To capitalize on these opportunities, we present S-LoRA, a system designed for the scalable serving of many LoRA adapters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/s-lora-serving-thousands-of-concurrent-lora</guid>
-    </item>
-    <item>
-      <title>A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions</title>
-      <link>https://paperswithcode.com/paper/a-picture-is-worth-more-than-77-text-tokens</link>
-      <description><![CDATA[Curation methods for massive vision-language datasets trade off between dataset size and quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-picture-is-worth-more-than-77-text-tokens</guid>
     </item>
     <item>
       <title>LMDrive: Closed-Loop End-to-End Driving with Large Language Models</title>
@@ -99,34 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/natural-and-robust-walking-using</guid>
     </item>
     <item>
-      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
-      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
-      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
+      <title>PromptBench: A Unified Library for Evaluation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</link>
+      <description><![CDATA[The evaluation of large language models (LLMs) is crucial to assess their performance and mitigate potential security risks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</guid>
     </item>
     <item>
-      <title>FreeInit: Bridging Initialization Gap in Video Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</link>
-      <description><![CDATA[Though diffusion-based video generation has witnessed rapid progress, the inference results of existing models still exhibit unsatisfactory temporal consistency and unnatural dynamics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</guid>
+      <title>EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM</title>
+      <link>https://paperswithcode.com/paper/edgesam-prompt-in-the-loop-distillation-for</link>
+      <description><![CDATA[It is also the first SAM variant that can run at over 30 FPS on an iPhone 14.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/edgesam-prompt-in-the-loop-distillation-for</guid>
     </item>
     <item>
-      <title>Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation</title>
-      <link>https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</link>
-      <description><![CDATA[Monocular depth estimation is a fundamental computer vision task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</guid>
+      <title>DemoFusion: Democratising High-Resolution Image Generation With No $$$</title>
+      <link>https://paperswithcode.com/paper/demofusion-democratising-high-resolution</link>
+      <description><![CDATA[High-resolution image generation with Generative Artificial Intelligence (GenAI) has immense potential but, due to the enormous capital investment required for training, it is increasingly centralised to a few large corporations, and hidden behind paywalls.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demofusion-democratising-high-resolution</guid>
     </item>
     <item>
-      <title>OpenVoice: Versatile Instant Voice Cloning</title>
-      <link>https://paperswithcode.com/paper/openvoice-versatile-instant-voice-cloning</link>
-      <description><![CDATA[The voice styles are not directly copied from and constrained by the style of the reference speaker.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openvoice-versatile-instant-voice-cloning</guid>
+      <title>UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/udifftext-a-unified-framework-for-high</link>
+      <description><![CDATA[Text-to-Image (T2I) generation methods based on diffusion model have garnered significant attention in the last few years.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/udifftext-a-unified-framework-for-high</guid>
     </item>
     <item>
-      <title>Agent Attention: On the Integration of Softmax and Linear Attention</title>
-      <link>https://paperswithcode.com/paper/agent-attention-on-the-integration-of-softmax</link>
-      <description><![CDATA[Specifically, the Agent Attention, denoted as a quadruple $(Q, A, K, V)$, introduces an additional set of agent tokens $A$ into the conventional attention module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-attention-on-the-integration-of-softmax</guid>
+      <title>Mamba: Linear-Time Sequence Modeling with Selective State Spaces</title>
+      <link>https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</link>
+      <description><![CDATA[Foundation models, now powering most of the exciting applications in deep learning, are almost universally based on the Transformer architecture and its core attention module.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</guid>
+    </item>
+    <item>
+      <title>MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention</title>
+      <link>https://paperswithcode.com/paper/mcanet-medical-image-segmentation-with-multi</link>
+      <description><![CDATA[To process the significant variations of lesion regions or organs in individual sizes and shapes, we also use multiple convolutions of strip-shape kernels with different kernel sizes in each axial attention path to improve the efficiency of the proposed MCA in encoding spatial information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mcanet-medical-image-segmentation-with-multi</guid>
+    </item>
+    <item>
+      <title>Magicoder: Source Code Is All You Need</title>
+      <link>https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</link>
+      <description><![CDATA[Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</guid>
+    </item>
+    <item>
+      <title>PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation</title>
+      <link>https://paperswithcode.com/paper/patchfusion-an-end-to-end-tile-based</link>
+      <description><![CDATA[Single image depth estimation is a foundational task in computer vision and generative modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/patchfusion-an-end-to-end-tile-based</guid>
     </item>
   </channel>
 </rss>
