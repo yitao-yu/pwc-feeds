@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Dec 2023 09:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 21:06:21 +0000</lastBuildDate>
     <item>
       <title>T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation</title>
       <link>https://paperswithcode.com/paper/t-3-bench-benchmarking-current-progress-in</link>
@@ -21,28 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
     </item>
     <item>
-      <title>Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/faster-diffusion-rethinking-the-role-of-unet</link>
-      <description><![CDATA[This finding inspired us to omit the encoder at certain adjacent time-steps and reuse cyclically the encoder features in the previous time-steps for the decoder.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-diffusion-rethinking-the-role-of-unet</guid>
-    </item>
-    <item>
       <title>Osprey: Pixel Understanding with Visual Instruction Tuning</title>
       <link>https://paperswithcode.com/paper/osprey-pixel-understanding-with-visual</link>
       <description><![CDATA[In this paper, we propose Osprey, a mask-text instruction tuning approach, to extend MLLMs by incorporating fine-grained mask regions into language instruction, aiming at achieving pixel-wise visual understanding.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/osprey-pixel-understanding-with-visual</guid>
     </item>
     <item>
-      <title>Pearl: A Production-ready Reinforcement Learning Agent</title>
-      <link>https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</link>
-      <description><![CDATA[Reinforcement Learning (RL) offers a versatile framework for achieving long-term goals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</guid>
+      <title>Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting</title>
+      <link>https://paperswithcode.com/paper/repaint123-fast-and-high-quality-one-image-to</link>
+      <description><![CDATA[The core idea is to combine the powerful image generation capability of the 2D diffusion model and the texture alignment ability of the repainting strategy for generating high-quality multi-view images with consistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repaint123-fast-and-high-quality-one-image-to</guid>
     </item>
     <item>
-      <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
-      <link>https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</link>
-      <description><![CDATA[In comparison, VSD works well with various CFG weights as ancestral sampling from diffusion models and simultaneously improves the diversity and sample quality with a common CFG weight (i. e., $7. 5$).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
+      <title>Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/faster-diffusion-rethinking-the-role-of-unet</link>
+      <description><![CDATA[This finding inspired us to omit the encoder at certain adjacent time-steps and reuse cyclically the encoder features in the previous time-steps for the decoder.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/faster-diffusion-rethinking-the-role-of-unet</guid>
+    </item>
+    <item>
+      <title>Splatter Image: Ultra-Fast Single-View 3D Reconstruction</title>
+      <link>https://paperswithcode.com/paper/splatter-image-ultra-fast-single-view-3d</link>
+      <description><![CDATA[We introduce the Splatter Image, an ultra-fast approach for monocular 3D object reconstruction which operates at 38 FPS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/splatter-image-ultra-fast-single-view-3d</guid>
     </item>
     <item>
       <title>Point Transformer V3: Simpler, Faster, Stronger</title>
@@ -51,10 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/point-transformer-v3-simpler-faster-stronger</guid>
     </item>
     <item>
-      <title>SlimmeRF: Slimmable Radiance Fields</title>
-      <link>https://paperswithcode.com/paper/slimmerf-slimmable-radiance-fields</link>
-      <description><![CDATA[To this end, we present SlimmeRF, a model that allows for instant test-time trade-offs between model size and accuracy through slimming, thus making the model simultaneously suitable for scenarios with different computing budgets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/slimmerf-slimmable-radiance-fields</guid>
+      <title>ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation</title>
+      <link>https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</link>
+      <description><![CDATA[In comparison, VSD works well with various CFG weights as ancestral sampling from diffusion models and simultaneously improves the diversity and sample quality with a common CFG weight (i. e., $7. 5$).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prolificdreamer-high-fidelity-and-diverse</guid>
     </item>
     <item>
       <title>OpenVoice: Versatile Instant Voice Cloning</title>
@@ -63,52 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openvoice-versatile-instant-voice-cloning</guid>
     </item>
     <item>
-      <title>Polyper: Boundary Sensitive Polyp Segmentation</title>
-      <link>https://paperswithcode.com/paper/polyper-boundary-sensitive-polyp-segmentation</link>
-      <description><![CDATA[We present a new boundary sensitive framework for polyp segmentation, called Polyper.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/polyper-boundary-sensitive-polyp-segmentation</guid>
+      <title>SlimmeRF: Slimmable Radiance Fields</title>
+      <link>https://paperswithcode.com/paper/slimmerf-slimmable-radiance-fields</link>
+      <description><![CDATA[To this end, we present SlimmeRF, a model that allows for instant test-time trade-offs between model size and accuracy through slimming, thus making the model simultaneously suitable for scenarios with different computing budgets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/slimmerf-slimmable-radiance-fields</guid>
     </item>
     <item>
-      <title>Stabilizing Transformer Training by Preventing Attention Entropy Collapse</title>
-      <link>https://paperswithcode.com/paper/stabilizing-transformer-training-by</link>
-      <description><![CDATA[We show that $\sigma$Reparam provides stability and robustness with respect to the choice of hyperparameters, going so far as enabling training (a) a Vision Transformer {to competitive performance} without warmup, weight decay, layer normalization or adaptive optimizers; (b) deep architectures in machine translation and (c) speech recognition to competitive performance without warmup and adaptive optimizers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stabilizing-transformer-training-by</guid>
-    </item>
-    <item>
-      <title>Magicoder: Source Code Is All You Need</title>
-      <link>https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</link>
-      <description><![CDATA[Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magicoder-source-code-is-all-you-need</guid>
-    </item>
-    <item>
-      <title>Agent Attention: On the Integration of Softmax and Linear Attention</title>
-      <link>https://paperswithcode.com/paper/agent-attention-on-the-integration-of-softmax</link>
-      <description><![CDATA[Specifically, the Agent Attention, denoted as a quadruple $(Q, A, K, V)$, introduces an additional set of agent tokens $A$ into the conventional attention module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-attention-on-the-integration-of-softmax</guid>
-    </item>
-    <item>
-      <title>LMDrive: Closed-Loop End-to-End Driving with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lmdrive-closed-loop-end-to-end-driving-with</link>
-      <description><![CDATA[On the other hand, previous autonomous driving methods tend to rely on limited-format inputs (e. g. sensor data and navigation waypoints), restricting the vehicle's ability to understand language information and interact with humans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lmdrive-closed-loop-end-to-end-driving-with</guid>
-    </item>
-    <item>
-      <title>Disentangling Writer and Character Styles for Handwriting Generation</title>
-      <link>https://paperswithcode.com/paper/disentangling-writer-and-character-styles-for</link>
-      <description><![CDATA[In light of this, we propose to disentangle the style representations at both writer and character levels from individual handwritings to synthesize realistic stylized online handwritten characters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-writer-and-character-styles-for</guid>
-    </item>
-    <item>
-      <title>PromptBench: A Unified Library for Evaluation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</link>
-      <description><![CDATA[The evaluation of large language models (LLMs) is crucial to assess their performance and mitigate potential security risks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</guid>
-    </item>
-    <item>
-      <title>DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior</title>
-      <link>https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</link>
-      <description><![CDATA[The score distillation from this 3D-aware diffusion prior provides view-consistent guidance for the scene.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</guid>
+      <title>Using Sequences of Life-events to Predict Human Lives</title>
+      <link>https://paperswithcode.com/paper/using-sequences-of-life-events-to-predict</link>
+      <description><![CDATA[We can also represent human lives in a way that shares this structural similarity to language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/using-sequences-of-life-events-to-predict</guid>
     </item>
     <item>
       <title>Mamba: Linear-Time Sequence Modeling with Selective State Spaces</title>
@@ -117,16 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</guid>
     </item>
     <item>
-      <title>DemoFusion: Democratising High-Resolution Image Generation With No $$$</title>
-      <link>https://paperswithcode.com/paper/demofusion-democratising-high-resolution</link>
-      <description><![CDATA[High-resolution image generation with Generative Artificial Intelligence (GenAI) has immense potential but, due to the enormous capital investment required for training, it is increasingly centralised to a few large corporations, and hidden behind paywalls.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demofusion-democratising-high-resolution</guid>
+      <title>Pearl: A Production-ready Reinforcement Learning Agent</title>
+      <link>https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</link>
+      <description><![CDATA[Reinforcement Learning (RL) offers a versatile framework for achieving long-term goals.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pearl-a-production-ready-reinforcement</guid>
     </item>
     <item>
-      <title>DiffusionLight: Light Probes for Free by Painting a Chrome Ball</title>
-      <link>https://paperswithcode.com/paper/diffusionlight-light-probes-for-free-by</link>
-      <description><![CDATA[To address this problem, we leverage diffusion models trained on billions of standard images to render a chrome ball into the input image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusionlight-light-probes-for-free-by</guid>
+      <title>Polyper: Boundary Sensitive Polyp Segmentation</title>
+      <link>https://paperswithcode.com/paper/polyper-boundary-sensitive-polyp-segmentation</link>
+      <description><![CDATA[We present a new boundary sensitive framework for polyp segmentation, called Polyper.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/polyper-boundary-sensitive-polyp-segmentation</guid>
+    </item>
+    <item>
+      <title>The Chosen One: Consistent Characters in Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/the-chosen-one-consistent-characters-in-text</link>
+      <description><![CDATA[Our quantitative analysis demonstrates that our method strikes a better balance between prompt alignment and identity consistency compared to the baseline methods, and these findings are reinforced by a user study.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-chosen-one-consistent-characters-in-text</guid>
+    </item>
+    <item>
+      <title>Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation</title>
+      <link>https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</link>
+      <description><![CDATA[Monocular depth estimation is a fundamental computer vision task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</guid>
+    </item>
+    <item>
+      <title>Agent Attention: On the Integration of Softmax and Linear Attention</title>
+      <link>https://paperswithcode.com/paper/agent-attention-on-the-integration-of-softmax</link>
+      <description><![CDATA[Specifically, the Agent Attention, denoted as a quadruple $(Q, A, K, V)$, introduces an additional set of agent tokens $A$ into the conventional attention module.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-attention-on-the-integration-of-softmax</guid>
+    </item>
+    <item>
+      <title>Instruction Tuning with Human Curriculum</title>
+      <link>https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</link>
+      <description><![CDATA[The dominant paradigm for instruction tuning is the random-shuffled training of maximally diverse instruction-response pairs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-with-human-curriculum</guid>
+    </item>
+    <item>
+      <title>DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior</title>
+      <link>https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</link>
+      <description><![CDATA[The score distillation from this 3D-aware diffusion prior provides view-consistent guidance for the scene.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamcraft3d-hierarchical-3d-generation-with</guid>
+    </item>
+    <item>
+      <title>FreeInit: Bridging Initialization Gap in Video Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</link>
+      <description><![CDATA[Though diffusion-based video generation has witnessed rapid progress, the inference results of existing models still exhibit unsatisfactory temporal consistency and unnatural dynamics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freeinit-bridging-initialization-gap-in-video</guid>
     </item>
   </channel>
 </rss>
