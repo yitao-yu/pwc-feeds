@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Dec 2023 21:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 09:11:54 +0000</lastBuildDate>
     <item>
       <title>StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation</title>
       <link>https://paperswithcode.com/paper/streamdiffusion-a-pipeline-level-solution-for</link>
@@ -19,6 +19,12 @@
       <link>https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</link>
       <description><![CDATA[We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</guid>
+    </item>
+    <item>
+      <title>Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/paint3d-paint-anything-3d-with-lighting-less</link>
+      <description><![CDATA[This paper presents Paint3D, a novel coarse-to-fine generative framework that is capable of producing high-resolution, lighting-less, and diverse 2K UV texture maps for untextured 3D meshes conditioned on text or image inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paint3d-paint-anything-3d-with-lighting-less</guid>
     </item>
     <item>
       <title>PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU</title>
@@ -33,18 +39,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/splatter-image-ultra-fast-single-view-3d</guid>
     </item>
     <item>
-      <title>Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/paint3d-paint-anything-3d-with-lighting-less</link>
-      <description><![CDATA[This paper presents Paint3D, a novel coarse-to-fine generative framework that is capable of producing high-resolution, lighting-less, and diverse 2K UV texture maps for untextured 3D meshes conditioned on text or image inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paint3d-paint-anything-3d-with-lighting-less</guid>
-    </item>
-    <item>
-      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
-      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
-      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
-    </item>
-    <item>
       <title>Using Sequences of Life-events to Predict Human Lives</title>
       <link>https://paperswithcode.com/paper/using-sequences-of-life-events-to-predict</link>
       <description><![CDATA[We can also represent human lives in a way that shares this structural similarity to language.]]></description>
@@ -57,10 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/osprey-pixel-understanding-with-visual</guid>
     </item>
     <item>
-      <title>T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation</title>
-      <link>https://paperswithcode.com/paper/t-3-bench-benchmarking-current-progress-in</link>
-      <description><![CDATA[Recent methods in text-to-3D leverage powerful pretrained diffusion models to optimize NeRF.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t-3-bench-benchmarking-current-progress-in</guid>
+      <title>Simplifying and Empowering Transformers for Large-Graph Representations</title>
+      <link>https://paperswithcode.com/paper/simplifying-and-empowering-transformers-for-1</link>
+      <description><![CDATA[Learning representations on large-sized graphs is a long-standing challenge due to the inter-dependence nature involved in massive data points.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/simplifying-and-empowering-transformers-for-1</guid>
+    </item>
+    <item>
+      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
+      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
+      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
+    </item>
+    <item>
+      <title>Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation</title>
+      <link>https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</link>
+      <description><![CDATA[Monocular depth estimation is a fundamental computer vision task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</guid>
     </item>
     <item>
       <title>OpenVoice: Versatile Instant Voice Cloning</title>
@@ -75,42 +81,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/repaint123-fast-and-high-quality-one-image-to</guid>
     </item>
     <item>
-      <title>Generative Multimodal Models are In-Context Learners</title>
-      <link>https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</link>
-      <description><![CDATA[The human ability to easily solve multimodal tasks in context (i. e., with only a few demonstrations or simple instructions), is what current multimodal systems have largely struggled to imitate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</guid>
-    </item>
-    <item>
-      <title>Mamba: Linear-Time Sequence Modeling with Selective State Spaces</title>
-      <link>https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</link>
-      <description><![CDATA[Foundation models, now powering most of the exciting applications in deep learning, are almost universally based on the Transformer architecture and its core attention module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mamba-linear-time-sequence-modeling-with</guid>
-    </item>
-    <item>
-      <title>HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/hd-painter-high-resolution-and-prompt</link>
-      <description><![CDATA[Recent progress in text-guided image inpainting, based on the unprecedented success of text-to-image diffusion models, has led to exceptionally realistic and visually plausible results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hd-painter-high-resolution-and-prompt</guid>
-    </item>
-    <item>
-      <title>Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation</title>
-      <link>https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</link>
-      <description><![CDATA[Monocular depth estimation is a fundamental computer vision task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/repurposing-diffusion-based-image-generators</guid>
-    </item>
-    <item>
-      <title>Retrieval-Augmented Generation for Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/retrieval-augmented-generation-for-large</link>
-      <description><![CDATA[RAG effectively combines the parameterized knowledge of LLMs with non-parameterized external knowledge bases, making it one of the most important methods for implementing large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/retrieval-augmented-generation-for-large</guid>
-    </item>
-    <item>
-      <title>Simplifying and Empowering Transformers for Large-Graph Representations</title>
-      <link>https://paperswithcode.com/paper/simplifying-and-empowering-transformers-for-1</link>
-      <description><![CDATA[Learning representations on large-sized graphs is a long-standing challenge due to the inter-dependence nature involved in massive data points.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simplifying-and-empowering-transformers-for-1</guid>
-    </item>
-    <item>
       <title>TinySAM: Pushing the Envelope for Efficient Segment Anything Model</title>
       <link>https://paperswithcode.com/paper/tinysam-pushing-the-envelope-for-efficient</link>
       <description><![CDATA[We first propose a full-stage knowledge distillation method with online hard prompt sampling strategy to distill a lightweight student model.]]></description>
@@ -123,10 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/large-statistical-learning-models-effectively</guid>
     </item>
     <item>
-      <title>WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion</title>
-      <link>https://paperswithcode.com/paper/wham-reconstructing-world-grounded-humans</link>
-      <description><![CDATA[We address these limitations with WHAM (World-grounded Humans with Accurate Motion), which accurately and efficiently reconstructs 3D human motion in a global coordinate system from video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wham-reconstructing-world-grounded-humans</guid>
+      <title>An In-depth Look at Gemini's Language Abilities</title>
+      <link>https://paperswithcode.com/paper/an-in-depth-look-at-gemini-s-language</link>
+      <description><![CDATA[The recently released Google Gemini class of models are the first to comprehensively report results that rival the OpenAI GPT series across a wide variety of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-in-depth-look-at-gemini-s-language</guid>
+    </item>
+    <item>
+      <title>Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia</title>
+      <link>https://paperswithcode.com/paper/generative-agent-based-modeling-with-actions</link>
+      <description><![CDATA[Agent-based modeling has been around for decades, and applied widely across the social and natural sciences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-agent-based-modeling-with-actions</guid>
+    </item>
+    <item>
+      <title>Generative Multimodal Models are In-Context Learners</title>
+      <link>https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</link>
+      <description><![CDATA[The human ability to easily solve multimodal tasks in context (i. e., with only a few demonstrations or simple instructions), is what current multimodal systems have largely struggled to imitate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</guid>
+    </item>
+    <item>
+      <title>CLIP-DINOiser: Teaching CLIP a few DINO tricks</title>
+      <link>https://paperswithcode.com/paper/clip-dinoiser-teaching-clip-a-few-dino-tricks</link>
+      <description><![CDATA[We propose to locally improve dense MaskCLIP features, computed with a simple modification of CLIP's last pooling layer, by integrating localization priors extracted from self-supervised features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clip-dinoiser-teaching-clip-a-few-dino-tricks</guid>
+    </item>
+    <item>
+      <title>HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/hd-painter-high-resolution-and-prompt</link>
+      <description><![CDATA[Recent progress in text-guided image inpainting, based on the unprecedented success of text-to-image diffusion models, has led to exceptionally realistic and visually plausible results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hd-painter-high-resolution-and-prompt</guid>
+    </item>
+    <item>
+      <title>PromptBench: A Unified Library for Evaluation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</link>
+      <description><![CDATA[The evaluation of large language models (LLMs) is crucial to assess their performance and mitigate potential security risks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</guid>
     </item>
   </channel>
 </rss>
