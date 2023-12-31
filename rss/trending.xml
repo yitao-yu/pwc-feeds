@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Dec 2023 21:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 09:11:02 +0000</lastBuildDate>
     <item>
-      <title>StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation</title>
-      <link>https://paperswithcode.com/paper/streamdiffusion-a-pipeline-level-solution-for</link>
-      <description><![CDATA[We introduce StreamDiffusion, a real-time diffusion pipeline designed for interactive image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streamdiffusion-a-pipeline-level-solution-for</guid>
-    </item>
-    <item>
-      <title>Ferret: Refer and Ground Anything Anywhere at Any Granularity</title>
-      <link>https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</link>
-      <description><![CDATA[We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</guid>
+      <title>Fast Inference of Mixture-of-Experts Language Models with Offloading</title>
+      <link>https://paperswithcode.com/paper/fast-inference-of-mixture-of-experts-language</link>
+      <description><![CDATA[In this work, we study the problem of running large MoE language models on consumer hardware with limited accelerator memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-inference-of-mixture-of-experts-language</guid>
     </item>
     <item>
       <title>PromptBench: A Unified Library for Evaluation of Large Language Models</title>
@@ -27,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/promptbench-a-unified-library-for-evaluation</guid>
     </item>
     <item>
-      <title>Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization</title>
-      <link>https://paperswithcode.com/paper/pixel-aware-stable-diffusion-for-realistic</link>
-      <description><![CDATA[However, the existing methods along this line either fail to keep faithful pixel-wise image structures or resort to extra skipped connections to reproduce details, which requires additional training in image space and limits their extension to other related tasks in latent space such as image stylization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixel-aware-stable-diffusion-for-realistic</guid>
+      <title>TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones</title>
+      <link>https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</link>
+      <description><![CDATA[In the era of advanced multimodel learning, multimodal large language models (MLLMs) such as GPT-4V have made remarkable strides towards bridging language and visual elements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</guid>
     </item>
     <item>
       <title>KwaiAgents: Generalized Information-seeking Agent System with Large Language Models</title>
@@ -39,16 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/kwaiagents-generalized-information-seeking</guid>
     </item>
     <item>
-      <title>Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4</title>
-      <link>https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</link>
-      <description><![CDATA[This paper introduces 26 guiding principles designed to streamline the process of querying and prompting large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</guid>
+      <title>StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation</title>
+      <link>https://paperswithcode.com/paper/streamdiffusion-a-pipeline-level-solution-for</link>
+      <description><![CDATA[We introduce StreamDiffusion, a real-time diffusion pipeline designed for interactive image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/streamdiffusion-a-pipeline-level-solution-for</guid>
     </item>
     <item>
-      <title>InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks</title>
-      <link>https://paperswithcode.com/paper/internvl-scaling-up-vision-foundation-models</link>
-      <description><![CDATA[However, the progress in vision and vision-language foundation models, which are also critical elements of multi-modal AGI, has not kept pace with LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/internvl-scaling-up-vision-foundation-models</guid>
+      <title>Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math</title>
+      <link>https://paperswithcode.com/paper/generative-ai-for-math-part-i-mathpile-a</link>
+      <description><![CDATA[Our meticulous data collection and processing efforts included a complex suite of preprocessing, prefiltering, language identification, cleaning, filtering, and deduplication, ensuring the high quality of our corpus.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-ai-for-math-part-i-mathpile-a</guid>
+    </item>
+    <item>
+      <title>Ferret: Refer and Ground Anything Anywhere at Any Granularity</title>
+      <link>https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</link>
+      <description><![CDATA[We introduce Ferret, a new Multimodal Large Language Model (MLLM) capable of understanding spatial referring of any shape or granularity within an image and accurately grounding open-vocabulary descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ferret-refer-and-ground-anything-anywhere-at</guid>
     </item>
     <item>
       <title>Speaker Embedding-aware Neural Diarization for Flexible Number of Speakers with Textual Information</title>
@@ -63,28 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/seaco-paraformer-a-non-autoregressive-asr</guid>
     </item>
     <item>
-      <title>UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces</title>
-      <link>https://paperswithcode.com/paper/uniref-segment-every-reference-object-in</link>
-      <description><![CDATA[We evaluate our unified models on various benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uniref-segment-every-reference-object-in</guid>
-    </item>
-    <item>
-      <title>Generative Multimodal Models are In-Context Learners</title>
-      <link>https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</link>
-      <description><![CDATA[The human ability to easily solve multimodal tasks in context (i. e., with only a few demonstrations or simple instructions), is what current multimodal systems have largely struggled to imitate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</guid>
-    </item>
-    <item>
-      <title>PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models</title>
-      <link>https://paperswithcode.com/paper/pia-your-personalized-image-animator-via-plug</link>
-      <description><![CDATA[Recent advancements in personalized text-to-image (T2I) models have revolutionized content creation, empowering non-experts to generate stunning images with unique styles.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pia-your-personalized-image-animator-via-plug</guid>
-    </item>
-    <item>
-      <title>TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones</title>
-      <link>https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</link>
-      <description><![CDATA[In the era of advanced multimodel learning, multimodal large language models (MLLMs) such as GPT-4V have made remarkable strides towards bridging language and visual elements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</guid>
+      <title>InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks</title>
+      <link>https://paperswithcode.com/paper/internvl-scaling-up-vision-foundation-models</link>
+      <description><![CDATA[However, the progress in vision and vision-language foundation models, which are also critical elements of multi-modal AGI, has not kept pace with LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/internvl-scaling-up-vision-foundation-models</guid>
     </item>
     <item>
       <title>TinySAM: Pushing the Envelope for Efficient Segment Anything Model</title>
@@ -93,16 +75,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tinysam-pushing-the-envelope-for-efficient</guid>
     </item>
     <item>
+      <title>Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4</title>
+      <link>https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</link>
+      <description><![CDATA[This paper introduces 26 guiding principles designed to streamline the process of querying and prompting large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</guid>
+    </item>
+    <item>
+      <title>Generative Multimodal Models are In-Context Learners</title>
+      <link>https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</link>
+      <description><![CDATA[The human ability to easily solve multimodal tasks in context (i. e., with only a few demonstrations or simple instructions), is what current multimodal systems have largely struggled to imitate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-multimodal-models-are-in-context</guid>
+    </item>
+    <item>
+      <title>UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces</title>
+      <link>https://paperswithcode.com/paper/uniref-segment-every-reference-object-in</link>
+      <description><![CDATA[We evaluate our unified models on various benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uniref-segment-every-reference-object-in</guid>
+    </item>
+    <item>
       <title>DreamGaussian4D: Generative 4D Gaussian Splatting</title>
       <link>https://paperswithcode.com/paper/dreamgaussian4d-generative-4d-gaussian</link>
       <description><![CDATA[Remarkable progress has been made in 4D content generation recently.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dreamgaussian4d-generative-4d-gaussian</guid>
     </item>
     <item>
-      <title>Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math</title>
-      <link>https://paperswithcode.com/paper/generative-ai-for-math-part-i-mathpile-a</link>
-      <description><![CDATA[Our meticulous data collection and processing efforts included a complex suite of preprocessing, prefiltering, language identification, cleaning, filtering, and deduplication, ensuring the high quality of our corpus.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generative-ai-for-math-part-i-mathpile-a</guid>
+      <title>Unsupervised Universal Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/unsupervised-universal-image-segmentation</link>
+      <description><![CDATA[Several unsupervised image segmentation approaches have been proposed which eliminate the need for dense manually-annotated segmentation masks; current models separately handle either semantic segmentation (e. g., STEGO) or class-agnostic instance segmentation (e. g., CutLER), but not both (i. e., panoptic segmentation).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-universal-image-segmentation</guid>
+    </item>
+    <item>
+      <title>Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization</title>
+      <link>https://paperswithcode.com/paper/pixel-aware-stable-diffusion-for-realistic</link>
+      <description><![CDATA[However, the existing methods along this line either fail to keep faithful pixel-wise image structures or resort to extra skipped connections to reproduce details, which requires additional training in image space and limits their extension to other related tasks in latent space such as image stylization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixel-aware-stable-diffusion-for-realistic</guid>
+    </item>
+    <item>
+      <title>MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices</title>
+      <link>https://paperswithcode.com/paper/mobilevlm-a-fast-reproducible-and-strong</link>
+      <description><![CDATA[We present MobileVLM, a competent multimodal vision language model (MMVLM) targeted to run on mobile devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mobilevlm-a-fast-reproducible-and-strong</guid>
     </item>
     <item>
       <title>What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning</title>
@@ -111,22 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/what-makes-good-data-for-alignment-a</guid>
     </item>
     <item>
-      <title>EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI</title>
-      <link>https://paperswithcode.com/paper/embodiedscan-a-holistic-multi-modal-3d</link>
-      <description><![CDATA[In the realm of computer vision and robotics, embodied agents are expected to explore their environment and carry out human instructions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/embodiedscan-a-holistic-multi-modal-3d</guid>
-    </item>
-    <item>
-      <title>Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases</title>
-      <link>https://paperswithcode.com/paper/gemini-vs-gpt-4v-a-preliminary-comparison-and</link>
-      <description><![CDATA[We conducted a series of structured experiments to evaluate their performance in various industrial application scenarios, offering a comprehensive perspective on their practical utility.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gemini-vs-gpt-4v-a-preliminary-comparison-and</guid>
-    </item>
-    <item>
-      <title>Aurora:Activating Chinese chat capability for Mistral-8x7B sparse Mixture-of-Experts through Instruction-Tuning</title>
-      <link>https://paperswithcode.com/paper/aurora-activating-chinese-chat-capability-for</link>
-      <description><![CDATA[This work is pioneering in the execution of instruction fine-tuning on a sparse expert-mixed model, marking a significant breakthrough in enhancing the capabilities of this model architecture.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aurora-activating-chinese-chat-capability-for</guid>
+      <title>PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models</title>
+      <link>https://paperswithcode.com/paper/pia-your-personalized-image-animator-via-plug</link>
+      <description><![CDATA[Recent advancements in personalized text-to-image (T2I) models have revolutionized content creation, empowering non-experts to generate stunning images with unique styles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pia-your-personalized-image-animator-via-plug</guid>
     </item>
   </channel>
 </rss>
