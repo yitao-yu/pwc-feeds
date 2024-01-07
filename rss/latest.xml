@@ -7,12 +7,36 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jan 2024 21:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 09:11:24 +0000</lastBuildDate>
     <item>
-      <title>Location Aware Modular Biencoder for Tourism Question Answering</title>
-      <link>https://paperswithcode.com/paper/location-aware-modular-biencoder-for-tourism</link>
-      <description><![CDATA[To overcome this, we propose treating the QA task as a dense vector retrieval problem, where we encode questions and POIs separately and retrieve the most relevant POIs for a question by utilizing embedding space similarity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/location-aware-modular-biencoder-for-tourism</guid>
+      <title>GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation</title>
+      <link>https://paperswithcode.com/paper/guess-gradually-enriching-synthesis-for-text</link>
+      <description><![CDATA[The whole text-driven human motion synthesis problem is then divided into multiple abstraction levels and solved with a multi-stage generation framework with a cascaded latent diffusion model: an initial generator first generates the coarsest human motion guess from a given text description; then, a series of successive generators gradually enrich the motion details based on the textual description and the previous synthesized results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/guess-gradually-enriching-synthesis-for-text</guid>
+    </item>
+    <item>
+      <title>Policy-regularized Offline Multi-objective Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/policy-regularized-offline-multi-objective</link>
+      <description><![CDATA[In this paper, we aim to utilize only offline trajectory data to train a policy for multi-objective RL.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/policy-regularized-offline-multi-objective</guid>
+    </item>
+    <item>
+      <title>FairGridSearch: A Framework to Compare Fairness-Enhancing Models</title>
+      <link>https://paperswithcode.com/paper/fairgridsearch-a-framework-to-compare</link>
+      <description><![CDATA[While there are various bias mitigation methods and base estimators in the literature, selecting the optimal model for a specific application remains challenging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fairgridsearch-a-framework-to-compare</guid>
+    </item>
+    <item>
+      <title>Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training</title>
+      <link>https://paperswithcode.com/paper/mining-fine-grained-image-text-alignment-for</link>
+      <description><![CDATA[Firstly, we observe that the CLIP's visual feature of image subregions can achieve closer proximity to the paired caption due to the inherent information loss in text descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mining-fine-grained-image-text-alignment-for</guid>
+    </item>
+    <item>
+      <title>Simulation-Based Inference with Quantile Regression</title>
+      <link>https://paperswithcode.com/paper/simulation-based-inference-with-quantile</link>
+      <description><![CDATA[We present Neural Quantile Estimation (NQE), a novel Simulation-Based Inference (SBI) method based on conditional quantile regression.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/simulation-based-inference-with-quantile</guid>
     </item>
     <item>
       <title>An Open and Comprehensive Pipeline for Unified Object Grounding and Detection</title>
@@ -27,10 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gridformer-point-grid-transformer-for-surface</guid>
     </item>
     <item>
-      <title>Simulation-Based Inference with Quantile Regression</title>
-      <link>https://paperswithcode.com/paper/simulation-based-inference-with-quantile</link>
-      <description><![CDATA[We present Neural Quantile Estimation (NQE), a novel Simulation-Based Inference (SBI) method based on conditional quantile regression.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simulation-based-inference-with-quantile</guid>
+      <title>Location Aware Modular Biencoder for Tourism Question Answering</title>
+      <link>https://paperswithcode.com/paper/location-aware-modular-biencoder-for-tourism</link>
+      <description><![CDATA[To overcome this, we propose treating the QA task as a dense vector retrieval problem, where we encode questions and POIs separately and retrieve the most relevant POIs for a question by utilizing embedding space similarity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/location-aware-modular-biencoder-for-tourism</guid>
+    </item>
+    <item>
+      <title>TinyLlama: An Open-Source Small Language Model</title>
+      <link>https://paperswithcode.com/paper/tinyllama-an-open-source-small-language-model</link>
+      <description><![CDATA[We present TinyLlama, a compact 1. 1B language model pretrained on around 1 trillion tokens for approximately 3 epochs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tinyllama-an-open-source-small-language-model</guid>
     </item>
     <item>
       <title>Textron: Weakly Supervised Multilingual Text Detection Through Data Programming</title>
@@ -39,10 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/textron-weakly-supervised-multilingual-text</guid>
     </item>
     <item>
-      <title>TinyLlama: An Open-Source Small Language Model</title>
-      <link>https://paperswithcode.com/paper/tinyllama-an-open-source-small-language-model</link>
-      <description><![CDATA[We present TinyLlama, a compact 1. 1B language model pretrained on around 1 trillion tokens for approximately 3 epochs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tinyllama-an-open-source-small-language-model</guid>
+      <title>ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/classwise-sam-adapter-parameter-efficient</link>
+      <description><![CDATA[Compared to conventional state-of-the-art semantic segmentation algorithms by extensive experiments, CWSAM showcases enhanced performance with fewer computing resources, highlighting the potential of leveraging foundational models like SAM for specific downstream tasks in the SAR domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/classwise-sam-adapter-parameter-efficient</guid>
+    </item>
+    <item>
+      <title>Learning to Prompt with Text Only Supervision for Vision-Language Models</title>
+      <link>https://paperswithcode.com/paper/learning-to-prompt-with-text-only-supervision</link>
+      <description><![CDATA[While effective, most of these works require labeled data which is not practical, and often struggle to generalize towards new datasets due to over-fitting on the source data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-prompt-with-text-only-supervision</guid>
+    </item>
+    <item>
+      <title>DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/dcr-consistency-divide-conquer-reasoning-for</link>
+      <description><![CDATA[Evaluating the quality and variability of text generated by Large Language Models (LLMs) poses a significant, yet unresolved research challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dcr-consistency-divide-conquer-reasoning-for</guid>
     </item>
     <item>
       <title>Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance</title>
@@ -55,6 +97,12 @@
       <link>https://paperswithcode.com/paper/distillation-based-fabric-anomaly-detection</link>
       <description><![CDATA[Given the extensive variability in colors, textures, and defect types, fabric defect detection poses a complex and challenging problem in the field of patterned textures inspection.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/distillation-based-fabric-anomaly-detection</guid>
+    </item>
+    <item>
+      <title>A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/a-robust-quantile-huber-loss-with</link>
+      <description><![CDATA[Distributional Reinforcement Learning (RL) estimates return distribution mainly by learning quantile values via minimizing the quantile Huber loss function, entailing a threshold parameter often selected heuristically or via hyperparameter search, which may not generalize well and can be suboptimal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-robust-quantile-huber-loss-with</guid>
     </item>
     <item>
       <title>Explore Human Parsing Modality for Action Recognition</title>
@@ -75,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/view-based-explanations-for-graph-neural</guid>
     </item>
     <item>
-      <title>A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/a-robust-quantile-huber-loss-with</link>
-      <description><![CDATA[Distributional Reinforcement Learning (RL) estimates return distribution mainly by learning quantile values via minimizing the quantile Huber loss function, entailing a threshold parameter often selected heuristically or via hyperparameter search, which may not generalize well and can be suboptimal.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-robust-quantile-huber-loss-with</guid>
-    </item>
-    <item>
-      <title>DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection</title>
-      <link>https://paperswithcode.com/paper/diffusionedge-diffusion-probabilistic-model</link>
-      <description><![CDATA[With the recent success of the diffusion probabilistic model (DPM), we found it is especially suitable for accurate and crisp edge detection since the denoising process is directly applied to the original image size.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusionedge-diffusion-probabilistic-model</guid>
+      <title>BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model</title>
+      <link>https://paperswithcode.com/paper/ba-sam-scalable-bias-mode-attention-mask-for</link>
+      <description><![CDATA[In this paper, we reformulate this issue as a length extrapolation problem, where token sequence length varies while maintaining a consistent patch size for images of different sizes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ba-sam-scalable-bias-mode-attention-mask-for</guid>
     </item>
     <item>
       <title>Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation</title>
@@ -93,10 +135,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-sam-for-single-source-domain</guid>
     </item>
     <item>
-      <title>ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/classwise-sam-adapter-parameter-efficient</link>
-      <description><![CDATA[Compared to conventional state-of-the-art semantic segmentation algorithms by extensive experiments, CWSAM showcases enhanced performance with fewer computing resources, highlighting the potential of leveraging foundational models like SAM for specific downstream tasks in the SAR domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/classwise-sam-adapter-parameter-efficient</guid>
+      <title>DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection</title>
+      <link>https://paperswithcode.com/paper/diffusionedge-diffusion-probabilistic-model</link>
+      <description><![CDATA[With the recent success of the diffusion probabilistic model (DPM), we found it is especially suitable for accurate and crisp edge detection since the denoising process is directly applied to the original image size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusionedge-diffusion-probabilistic-model</guid>
     </item>
     <item>
       <title>LLaMA Pro: Progressive LLaMA with Block Expansion</title>
@@ -105,124 +147,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-pro-progressive-llama-with-block</guid>
     </item>
     <item>
-      <title>BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model</title>
-      <link>https://paperswithcode.com/paper/ba-sam-scalable-bias-mode-attention-mask-for</link>
-      <description><![CDATA[In this paper, we reformulate this issue as a length extrapolation problem, where token sequence length varies while maintaining a consistent patch size for images of different sizes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ba-sam-scalable-bias-mode-attention-mask-for</guid>
-    </item>
-    <item>
-      <title>GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation</title>
-      <link>https://paperswithcode.com/paper/guess-gradually-enriching-synthesis-for-text</link>
-      <description><![CDATA[The whole text-driven human motion synthesis problem is then divided into multiple abstraction levels and solved with a multi-stage generation framework with a cascaded latent diffusion model: an initial generator first generates the coarsest human motion guess from a given text description; then, a series of successive generators gradually enrich the motion details based on the textual description and the previous synthesized results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/guess-gradually-enriching-synthesis-for-text</guid>
-    </item>
-    <item>
-      <title>Policy-regularized Offline Multi-objective Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/policy-regularized-offline-multi-objective</link>
-      <description><![CDATA[In this paper, we aim to utilize only offline trajectory data to train a policy for multi-objective RL.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/policy-regularized-offline-multi-objective</guid>
-    </item>
-    <item>
-      <title>Learning to Prompt with Text Only Supervision for Vision-Language Models</title>
-      <link>https://paperswithcode.com/paper/learning-to-prompt-with-text-only-supervision</link>
-      <description><![CDATA[While effective, most of these works require labeled data which is not practical, and often struggle to generalize towards new datasets due to over-fitting on the source data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-prompt-with-text-only-supervision</guid>
-    </item>
-    <item>
-      <title>FairGridSearch: A Framework to Compare Fairness-Enhancing Models</title>
-      <link>https://paperswithcode.com/paper/fairgridsearch-a-framework-to-compare</link>
-      <description><![CDATA[While there are various bias mitigation methods and base estimators in the literature, selecting the optimal model for a specific application remains challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fairgridsearch-a-framework-to-compare</guid>
-    </item>
-    <item>
-      <title>Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training</title>
-      <link>https://paperswithcode.com/paper/mining-fine-grained-image-text-alignment-for</link>
-      <description><![CDATA[Firstly, we observe that the CLIP's visual feature of image subregions can achieve closer proximity to the paired caption due to the inherent information loss in text descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mining-fine-grained-image-text-alignment-for</guid>
-    </item>
-    <item>
-      <title>Context-Guided Spatio-Temporal Video Grounding</title>
-      <link>https://paperswithcode.com/paper/context-guided-spatio-temporal-video</link>
-      <description><![CDATA[The key of CG-STVG lies in two specially designed modules, including instance context generation (ICG), which focuses on discovering visual context information (in both appearance and motion) of the instance, and instance context refinement (ICR), which aims to improve the instance context from ICG by eliminating irrelevant or even harmful information from the context.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/context-guided-spatio-temporal-video</guid>
-    </item>
-    <item>
-      <title>Act as You Learn: Adaptive Decision-Making in Non-Stationary Markov Decision Processes</title>
-      <link>https://paperswithcode.com/paper/act-as-you-learn-adaptive-decision-making-in</link>
-      <description><![CDATA[However, existing approaches for decision-making in NSMDPs have two major shortcomings: first, they assume that the updated environmental dynamics at the current time are known (although future dynamics can change); and second, planning is largely pessimistic, i. e., the agent acts ``safely'' to account for the non-stationary evolution of the environment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/act-as-you-learn-adaptive-decision-making-in</guid>
-    </item>
-    <item>
-      <title>Investigating the Suitability of Concept Drift Detection for Detecting Leakages in Water Distribution Networks</title>
-      <link>https://paperswithcode.com/paper/investigating-the-suitability-of-concept</link>
-      <description><![CDATA[In this work, we explore the potential of model-loss-based and distribution-based drift detection methods to tackle leakage detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/investigating-the-suitability-of-concept</guid>
-    </item>
-    <item>
-      <title>S$^{2}$-DMs:Skip-Step Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/s-2-dms-skip-step-diffusion-models</link>
-      <description><![CDATA[On the CIFAR10 dataset, models trained using our algorithm showed an improvement of 3. 27% to 14. 06% over models trained with traditional methods across various sampling algorithms (DDIMs, PNDMs, DEIS) and different numbers of sampling steps (10, 20, ..., 1000).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/s-2-dms-skip-step-diffusion-models</guid>
-    </item>
-    <item>
-      <title>GPS-SSL: Guided Positive Sampling to Inject Prior Into Self-Supervised Learning</title>
-      <link>https://paperswithcode.com/paper/gps-ssl-guided-positive-sampling-to-inject</link>
-      <description><![CDATA[Any prior knowledge can now be embedded into that metric space independently from the employed DA.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gps-ssl-guided-positive-sampling-to-inject</guid>
-    </item>
-    <item>
-      <title>Graph Neural Networks for Surfactant Multi-Property Prediction</title>
-      <link>https://paperswithcode.com/paper/graph-neural-networks-for-surfactant-multi</link>
-      <description><![CDATA[A key factor in the predictive ability of QSPR and GNN models is the data available for training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-neural-networks-for-surfactant-multi</guid>
-    </item>
-    <item>
-      <title>Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction</title>
-      <link>https://paperswithcode.com/paper/prototypical-information-bottlenecking-and</link>
-      <description><![CDATA[Despite advantages of multimodal learning for cancer survival prediction, massive redundancy in multimodal data prevents it from extracting discriminative and compact information: (1) An extensive amount of intra-modal task-unrelated information blurs discriminability, especially for gigapixel whole slide images (WSIs) with many patches in pathology and thousands of pathways in genomic data, leading to an ``intra-modal redundancy" issue.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prototypical-information-bottlenecking-and</guid>
-    </item>
-    <item>
-      <title>Context-Aware Interaction Network for RGB-T Semantic Segmentation</title>
-      <link>https://paperswithcode.com/paper/context-aware-interaction-network-for-rgb-t</link>
-      <description><![CDATA[Specifically, we propose a Context-Aware Complementary Reasoning (CACR) module aimed at establishing the complementary relationship between multimodal features with the long-term context in both spatial and channel dimensions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/context-aware-interaction-network-for-rgb-t</guid>
-    </item>
-    <item>
-      <title>Poisoning Attacks against Recommender Systems: A Survey</title>
-      <link>https://paperswithcode.com/paper/poisoning-attacks-against-recommender-systems</link>
-      <description><![CDATA[This survey paper provides a systematic and up-to-date review of the research landscape on Poisoning Attacks against Recommendation (PAR).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/poisoning-attacks-against-recommender-systems</guid>
-    </item>
-    <item>
-      <title>Large Language Model Capabilities in Perioperative Risk Prediction and Prognostication</title>
-      <link>https://paperswithcode.com/paper/large-language-model-capabilities-in</link>
-      <description><![CDATA[We achieve F1 scores of 0. 50 for ASA Physical Status Classification, 0. 81 for ICU admission, and 0. 86 for hospital mortality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-model-capabilities-in</guid>
-    </item>
-    <item>
-      <title>Boosting of Implicit Neural Representation-based Image Denoiser</title>
-      <link>https://paperswithcode.com/paper/boosting-of-implicit-neural-representation</link>
-      <description><![CDATA[Implicit Neural Representation (INR) has emerged as an effective method for unsupervised image denoising.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/boosting-of-implicit-neural-representation</guid>
-    </item>
-    <item>
-      <title>ODTrack: Online Dense Temporal Token Learning for Visual Tracking</title>
-      <link>https://paperswithcode.com/paper/odtrack-online-dense-temporal-token-learning</link>
-      <description><![CDATA[To alleviate the above problem, we propose a simple, flexible and effective video-level tracking pipeline, named \textbf{ODTrack}, which densely associates the contextual relationships of video frames in an online token propagation manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/odtrack-online-dense-temporal-token-learning</guid>
-    </item>
-    <item>
       <title>CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers</title>
       <link>https://paperswithcode.com/paper/cra-pcn-point-cloud-completion-with-intra-and</link>
       <description><![CDATA[Point cloud completion is an indispensable task for recovering complete point clouds due to incompleteness caused by occlusion, limited sensor resolution, etc.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cra-pcn-point-cloud-completion-with-intra-and</guid>
-    </item>
-    <item>
-      <title>A First Look at Information Highlighting in Stack Overflow Answers</title>
-      <link>https://paperswithcode.com/paper/a-first-look-at-information-highlighting-in</link>
-      <description><![CDATA[For training recommendation models, we choose CNN and BERT models for each type of formatting (i. e., Bold, Italic, Code, and Heading) using the information highlighting dataset we collected from SO answers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-first-look-at-information-highlighting-in</guid>
     </item>
     <item>
       <title>A Mechanistic Understanding of Alignment Algorithms: A Case Study on DPO and Toxicity</title>
@@ -231,22 +159,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-mechanistic-understanding-of-alignment</guid>
     </item>
     <item>
-      <title>Concurrent Brainstorming &amp; Hypothesis Satisfying: An Iterative Framework for Enhanced Retrieval-Augmented Generation (R2CBR3H-SR)</title>
-      <link>https://paperswithcode.com/paper/concurrent-brainstorming-hypothesis</link>
-      <description><![CDATA[Addressing the complexity of comprehensive information retrieval, this study introduces an innovative, iterative retrieval-augmented generation system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/concurrent-brainstorming-hypothesis</guid>
-    </item>
-    <item>
-      <title>Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions</title>
-      <link>https://paperswithcode.com/paper/moonshot-towards-controllable-video</link>
-      <description><![CDATA[This work presents Moonshot, a new video generation model that conditions simultaneously on multimodal inputs of image and text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moonshot-towards-controllable-video</guid>
-    </item>
-    <item>
-      <title>GPT-4V(ision) is a Generalist Web Agent, if Grounded</title>
-      <link>https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</link>
-      <description><![CDATA[The recent development on large multimodal models (LMMs), especially GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries of multimodal models beyond traditional tasks like image captioning and visual question answering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</guid>
+      <title>Synthetic dataset of ID and Travel Document</title>
+      <link>https://paperswithcode.com/paper/synthetic-dataset-of-id-and-travel-document</link>
+      <description><![CDATA[This paper presents a new synthetic dataset of ID and travel documents, called SIDTD.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/synthetic-dataset-of-id-and-travel-document</guid>
     </item>
     <item>
       <title>Learning Prompt with Distribution-Based Feature Replay for Few-Shot Class-Incremental Learning</title>
@@ -255,28 +171,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-prompt-with-distribution-based</guid>
     </item>
     <item>
-      <title>Generalist embedding models are better at short-context clinical semantic search than specialized embedding models</title>
-      <link>https://paperswithcode.com/paper/generalist-embedding-models-are-better-at</link>
-      <description><![CDATA[The increasing use of tools and solutions based on Large Language Models (LLMs) for various tasks in the medical domain has become a prominent trend.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalist-embedding-models-are-better-at</guid>
-    </item>
-    <item>
-      <title>AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance</title>
-      <link>https://paperswithcode.com/paper/aupimo-redefining-visual-anomaly-detection</link>
-      <description><![CDATA[Recent advances in visual anomaly detection research have seen AUROC and AUPRO scores on public benchmark datasets such as MVTec and VisA converge towards perfect recall, giving the impression that these benchmarks are near-solved.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aupimo-redefining-visual-anomaly-detection</guid>
-    </item>
-    <item>
-      <title>Synthetic dataset of ID and Travel Document</title>
-      <link>https://paperswithcode.com/paper/synthetic-dataset-of-id-and-travel-document</link>
-      <description><![CDATA[This paper presents a new synthetic dataset of ID and travel documents, called SIDTD.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/synthetic-dataset-of-id-and-travel-document</guid>
-    </item>
-    <item>
-      <title>Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs</title>
-      <link>https://paperswithcode.com/paper/evaluating-large-language-models-in-semantic</link>
-      <description><![CDATA[Conversational question answering systems often rely on semantic parsing to enable interactive information retrieval, which involves the generation of structured database queries from a natural language input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-in-semantic</guid>
+      <title>Graph Neural Networks for Surfactant Multi-Property Prediction</title>
+      <link>https://paperswithcode.com/paper/graph-neural-networks-for-surfactant-multi</link>
+      <description><![CDATA[A key factor in the predictive ability of QSPR and GNN models is the data available for training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-neural-networks-for-surfactant-multi</guid>
     </item>
     <item>
       <title>DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction</title>
@@ -291,6 +189,96 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/glance-and-focus-memory-prompting-for-multi-1</guid>
     </item>
     <item>
+      <title>Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs</title>
+      <link>https://paperswithcode.com/paper/evaluating-large-language-models-in-semantic</link>
+      <description><![CDATA[Conversational question answering systems often rely on semantic parsing to enable interactive information retrieval, which involves the generation of structured database queries from a natural language input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-large-language-models-in-semantic</guid>
+    </item>
+    <item>
+      <title>Context-Aware Interaction Network for RGB-T Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/context-aware-interaction-network-for-rgb-t</link>
+      <description><![CDATA[Specifically, we propose a Context-Aware Complementary Reasoning (CACR) module aimed at establishing the complementary relationship between multimodal features with the long-term context in both spatial and channel dimensions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/context-aware-interaction-network-for-rgb-t</guid>
+    </item>
+    <item>
+      <title>MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries</title>
+      <link>https://paperswithcode.com/paper/medsumm-a-multimodal-approach-to-summarizing</link>
+      <description><![CDATA[This work introduces the task of multimodal medical question summarization for codemixed input in a low-resource setting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/medsumm-a-multimodal-approach-to-summarizing</guid>
+    </item>
+    <item>
+      <title>Generalist embedding models are better at short-context clinical semantic search than specialized embedding models</title>
+      <link>https://paperswithcode.com/paper/generalist-embedding-models-are-better-at</link>
+      <description><![CDATA[The increasing use of tools and solutions based on Large Language Models (LLMs) for various tasks in the medical domain has become a prominent trend.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generalist-embedding-models-are-better-at</guid>
+    </item>
+    <item>
+      <title>AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance</title>
+      <link>https://paperswithcode.com/paper/aupimo-redefining-visual-anomaly-detection</link>
+      <description><![CDATA[Recent advances in visual anomaly detection research have seen AUROC and AUPRO scores on public benchmark datasets such as MVTec and VisA converge towards perfect recall, giving the impression that these benchmarks are near-solved.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aupimo-redefining-visual-anomaly-detection</guid>
+    </item>
+    <item>
+      <title>Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions</title>
+      <link>https://paperswithcode.com/paper/moonshot-towards-controllable-video</link>
+      <description><![CDATA[This work presents Moonshot, a new video generation model that conditions simultaneously on multimodal inputs of image and text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moonshot-towards-controllable-video</guid>
+    </item>
+    <item>
+      <title>GPT-4V(ision) is a Generalist Web Agent, if Grounded</title>
+      <link>https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</link>
+      <description><![CDATA[The recent development on large multimodal models (LMMs), especially GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries of multimodal models beyond traditional tasks like image captioning and visual question answering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</guid>
+    </item>
+    <item>
+      <title>Context-Guided Spatio-Temporal Video Grounding</title>
+      <link>https://paperswithcode.com/paper/context-guided-spatio-temporal-video</link>
+      <description><![CDATA[The key of CG-STVG lies in two specially designed modules, including instance context generation (ICG), which focuses on discovering visual context information (in both appearance and motion) of the instance, and instance context refinement (ICR), which aims to improve the instance context from ICG by eliminating irrelevant or even harmful information from the context.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/context-guided-spatio-temporal-video</guid>
+    </item>
+    <item>
+      <title>Act as You Learn: Adaptive Decision-Making in Non-Stationary Markov Decision Processes</title>
+      <link>https://paperswithcode.com/paper/act-as-you-learn-adaptive-decision-making-in</link>
+      <description><![CDATA[However, existing approaches for decision-making in NSMDPs have two major shortcomings: first, they assume that the updated environmental dynamics at the current time are known (although future dynamics can change); and second, planning is largely pessimistic, i. e., the agent acts ``safely'' to account for the non-stationary evolution of the environment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/act-as-you-learn-adaptive-decision-making-in</guid>
+    </item>
+    <item>
+      <title>From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations</title>
+      <link>https://paperswithcode.com/paper/from-audio-to-photoreal-embodiment</link>
+      <description><![CDATA[We present a framework for generating full-bodied photorealistic avatars that gesture according to the conversational dynamics of a dyadic interaction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/from-audio-to-photoreal-embodiment</guid>
+    </item>
+    <item>
+      <title>Investigating the Suitability of Concept Drift Detection for Detecting Leakages in Water Distribution Networks</title>
+      <link>https://paperswithcode.com/paper/investigating-the-suitability-of-concept</link>
+      <description><![CDATA[In this work, we explore the potential of model-loss-based and distribution-based drift detection methods to tackle leakage detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/investigating-the-suitability-of-concept</guid>
+    </item>
+    <item>
+      <title>GPS-SSL: Guided Positive Sampling to Inject Prior Into Self-Supervised Learning</title>
+      <link>https://paperswithcode.com/paper/gps-ssl-guided-positive-sampling-to-inject</link>
+      <description><![CDATA[Any prior knowledge can now be embedded into that metric space independently from the employed DA.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gps-ssl-guided-positive-sampling-to-inject</guid>
+    </item>
+    <item>
+      <title>S$^{2}$-DMs:Skip-Step Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/s-2-dms-skip-step-diffusion-models</link>
+      <description><![CDATA[On the CIFAR10 dataset, models trained using our algorithm showed an improvement of 3. 27% to 14. 06% over models trained with traditional methods across various sampling algorithms (DDIMs, PNDMs, DEIS) and different numbers of sampling steps (10, 20, ..., 1000).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s-2-dms-skip-step-diffusion-models</guid>
+    </item>
+    <item>
+      <title>STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion</title>
+      <link>https://paperswithcode.com/paper/staf-3d-human-mesh-recovery-from-video-with</link>
+      <description><![CDATA[This method can remarkably improve the smoothness of recovery results from video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/staf-3d-human-mesh-recovery-from-video-with</guid>
+    </item>
+    <item>
+      <title>Boosting of Implicit Neural Representation-based Image Denoiser</title>
+      <link>https://paperswithcode.com/paper/boosting-of-implicit-neural-representation</link>
+      <description><![CDATA[Implicit Neural Representation (INR) has emerged as an effective method for unsupervised image denoising.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/boosting-of-implicit-neural-representation</guid>
+    </item>
+    <item>
       <title>Uncertainty Regularized Evidential Regression</title>
       <link>https://paperswithcode.com/paper/uncertainty-regularized-evidential-regression</link>
       <description><![CDATA[The Evidential Regression Network (ERN) represents a novel approach that integrates deep learning with Dempster-Shafer's theory to predict a target and quantify the associated uncertainty.]]></description>
@@ -303,10 +291,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/an-invariant-information-geometric-method-for</guid>
     </item>
     <item>
-      <title>MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries</title>
-      <link>https://paperswithcode.com/paper/medsumm-a-multimodal-approach-to-summarizing</link>
-      <description><![CDATA[This work introduces the task of multimodal medical question summarization for codemixed input in a low-resource setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/medsumm-a-multimodal-approach-to-summarizing</guid>
+      <title>Concurrent Brainstorming &amp; Hypothesis Satisfying: An Iterative Framework for Enhanced Retrieval-Augmented Generation (R2CBR3H-SR)</title>
+      <link>https://paperswithcode.com/paper/concurrent-brainstorming-hypothesis</link>
+      <description><![CDATA[Addressing the complexity of comprehensive information retrieval, this study introduces an innovative, iterative retrieval-augmented generation system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/concurrent-brainstorming-hypothesis</guid>
+    </item>
+    <item>
+      <title>A First Look at Information Highlighting in Stack Overflow Answers</title>
+      <link>https://paperswithcode.com/paper/a-first-look-at-information-highlighting-in</link>
+      <description><![CDATA[For training recommendation models, we choose CNN and BERT models for each type of formatting (i. e., Bold, Italic, Code, and Heading) using the information highlighting dataset we collected from SO answers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-first-look-at-information-highlighting-in</guid>
+    </item>
+    <item>
+      <title>Towards a Foundation Purchasing Model: Pretrained Generative Autoregression on Transaction Sequences</title>
+      <link>https://paperswithcode.com/paper/towards-a-foundation-purchasing-model</link>
+      <description><![CDATA[Machine learning models underpin many modern financial systems for use cases such as fraud detection and churn prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-foundation-purchasing-model</guid>
     </item>
   </channel>
 </rss>
