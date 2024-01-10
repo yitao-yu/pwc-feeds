@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jan 2024 21:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 09:12:55 +0000</lastBuildDate>
     <item>
       <title>From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations</title>
       <link>https://paperswithcode.com/paper/from-audio-to-photoreal-embodiment</link>
@@ -21,10 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/openvoice-versatile-instant-voice-cloning</guid>
     </item>
     <item>
-      <title>AnyText: Multilingual Visual Text Generation And Editing</title>
-      <link>https://paperswithcode.com/paper/anytext-multilingual-visual-text-generation</link>
-      <description><![CDATA[Based on AnyWord-3M dataset, we propose AnyText-benchmark for the evaluation of visual text generation accuracy and quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anytext-multilingual-visual-text-generation</guid>
+      <title>BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis</title>
+      <link>https://paperswithcode.com/paper/bakedavatar-baking-neural-fields-for-real</link>
+      <description><![CDATA[Synthesizing photorealistic 4D human head avatars from videos is essential for VR/AR, telepresence, and video game applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bakedavatar-baking-neural-fields-for-real</guid>
+    </item>
+    <item>
+      <title>Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</title>
+      <link>https://paperswithcode.com/paper/open-vocabulary-sam-segment-and-recognize</link>
+      <description><![CDATA[The CLIP and Segment Anything Model (SAM) are remarkable vision foundation models (VFMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-vocabulary-sam-segment-and-recognize</guid>
     </item>
     <item>
       <title>TinyLlama: An Open-Source Small Language Model</title>
@@ -33,22 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tinyllama-an-open-source-small-language-model</guid>
     </item>
     <item>
-      <title>TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones</title>
-      <link>https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</link>
-      <description><![CDATA[In the era of advanced multimodel learning, multimodal large language models (MLLMs) such as GPT-4V have made remarkable strides towards bridging language and visual elements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</guid>
-    </item>
-    <item>
-      <title>LLaMA Pro: Progressive LLaMA with Block Expansion</title>
-      <link>https://paperswithcode.com/paper/llama-pro-progressive-llama-with-block</link>
-      <description><![CDATA[Humans generally acquire new skills without compromising the old; however, the opposite holds for Large Language Models (LLMs), e. g., from LLaMA to CodeLLaMA.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-pro-progressive-llama-with-block</guid>
-    </item>
-    <item>
-      <title>Fast Inference of Mixture-of-Experts Language Models with Offloading</title>
-      <link>https://paperswithcode.com/paper/fast-inference-of-mixture-of-experts-language</link>
-      <description><![CDATA[In this work, we study the problem of running large MoE language models on consumer hardware with limited accelerator memory.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-inference-of-mixture-of-experts-language</guid>
+      <title>AnyText: Multilingual Visual Text Generation And Editing</title>
+      <link>https://paperswithcode.com/paper/anytext-multilingual-visual-text-generation</link>
+      <description><![CDATA[Based on AnyWord-3M dataset, we propose AnyText-benchmark for the evaluation of visual text generation accuracy and quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/anytext-multilingual-visual-text-generation</guid>
     </item>
     <item>
       <title>WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia</title>
@@ -57,46 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/wikichat-a-few-shot-llm-based-chatbot</guid>
     </item>
     <item>
+      <title>Fast Inference of Mixture-of-Experts Language Models with Offloading</title>
+      <link>https://paperswithcode.com/paper/fast-inference-of-mixture-of-experts-language</link>
+      <description><![CDATA[In this work, we study the problem of running large MoE language models on consumer hardware with limited accelerator memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-inference-of-mixture-of-experts-language</guid>
+    </item>
+    <item>
       <title>V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs</title>
       <link>https://paperswithcode.com/paper/textit-v-guided-visual-search-as-a-core</link>
       <description><![CDATA[However, the lack of this visual search mechanism in current multimodal LLMs (MLLMs) hinders their ability to focus on important visual details, especially when handling high-resolution and visually crowded images.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/textit-v-guided-visual-search-as-a-core</guid>
-    </item>
-    <item>
-      <title>GPT-4V(ision) is a Generalist Web Agent, if Grounded</title>
-      <link>https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</link>
-      <description><![CDATA[The recent development on large multimodal models (LMMs), especially GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries of multimodal models beyond traditional tasks like image captioning and visual question answering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</guid>
-    </item>
-    <item>
-      <title>Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4</title>
-      <link>https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</link>
-      <description><![CDATA[This paper introduces 26 guiding principles designed to streamline the process of querying and prompting large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</guid>
-    </item>
-    <item>
-      <title>MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices</title>
-      <link>https://paperswithcode.com/paper/mobilevlm-a-fast-reproducible-and-strong</link>
-      <description><![CDATA[We present MobileVLM, a competent multimodal vision language model (MMVLM) targeted to run on mobile devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mobilevlm-a-fast-reproducible-and-strong</guid>
-    </item>
-    <item>
-      <title>Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations</title>
-      <link>https://paperswithcode.com/paper/revisiting-auc-oriented-adversarial-training</link>
-      <description><![CDATA[On top of this, we can show that: 1) Under mild conditions, AdAUC can be optimized equivalently with score-based or instance-wise-loss-based perturbations, which is compatible with most of the popular adversarial example generation methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-auc-oriented-adversarial-training</guid>
-    </item>
-    <item>
-      <title>EasyVolcap: Accelerating Neural Volumetric Video Research</title>
-      <link>https://paperswithcode.com/paper/easyvolcap-accelerating-neural-volumetric</link>
-      <description><![CDATA[Volumetric video is a technology that digitally records dynamic events such as artistic performances, sporting events, and remote conversations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyvolcap-accelerating-neural-volumetric</guid>
-    </item>
-    <item>
-      <title>Retrieval-Augmented Generation for Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/retrieval-augmented-generation-for-large</link>
-      <description><![CDATA[Large Language Models (LLMs) demonstrate significant capabilities but face challenges such as hallucination, outdated knowledge, and non-transparent, untraceable reasoning processes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/retrieval-augmented-generation-for-large</guid>
     </item>
     <item>
       <title>Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch</title>
@@ -105,28 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-super-mario-absorbing</guid>
     </item>
     <item>
+      <title>GPT-4V(ision) is a Generalist Web Agent, if Grounded</title>
+      <link>https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</link>
+      <description><![CDATA[The recent development on large multimodal models (LMMs), especially GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries of multimodal models beyond traditional tasks like image captioning and visual question answering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-4v-ision-is-a-generalist-web-agent-if</guid>
+    </item>
+    <item>
+      <title>Retrieval-Augmented Generation for Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/retrieval-augmented-generation-for-large</link>
+      <description><![CDATA[Large Language Models (LLMs) demonstrate significant capabilities but face challenges such as hallucination, outdated knowledge, and non-transparent, untraceable reasoning processes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/retrieval-augmented-generation-for-large</guid>
+    </item>
+    <item>
+      <title>LLaMA Pro: Progressive LLaMA with Block Expansion</title>
+      <link>https://paperswithcode.com/paper/llama-pro-progressive-llama-with-block</link>
+      <description><![CDATA[Humans generally acquire new skills without compromising the old; however, the opposite holds for Large Language Models (LLMs), e. g., from LLaMA to CodeLLaMA.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-pro-progressive-llama-with-block</guid>
+    </item>
+    <item>
+      <title>Gated Linear Attention Transformers with Hardware-Efficient Training</title>
+      <link>https://paperswithcode.com/paper/gated-linear-attention-transformers-with</link>
+      <description><![CDATA[Recent works such as RetNet (Sun et al., 2023) and TransNormerLLM (Qin et al., 2023a) observe that adding a global decay term to the additive RNN update rule greatly improves performance, sometimes outperforming standard Transformers with softmax attention when trained at scale.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gated-linear-attention-transformers-with</guid>
+    </item>
+    <item>
+      <title>TorchRL: A data-driven decision-making library for PyTorch</title>
+      <link>https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</link>
+      <description><![CDATA[PyTorch has ascended as a premier machine learning framework, yet it lacks a native and comprehensive library for decision and control tasks suitable for large development teams dealing with complex real-world data and environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</guid>
+    </item>
+    <item>
+      <title>Machine Mindset: An MBTI Exploration of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/machine-mindset-an-mbti-exploration-of-large</link>
+      <description><![CDATA[We present a novel approach for integrating Myers-Briggs Type Indicator (MBTI) personality traits into large language models (LLMs), addressing the challenges of personality consistency in personalized AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/machine-mindset-an-mbti-exploration-of-large</guid>
+    </item>
+    <item>
+      <title>Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4</title>
+      <link>https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</link>
+      <description><![CDATA[This paper introduces 26 guiding principles designed to streamline the process of querying and prompting large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/principled-instructions-are-all-you-need-for</guid>
+    </item>
+    <item>
+      <title>Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots</title>
+      <link>https://paperswithcode.com/paper/habitat-3-0-a-co-habitat-for-humans-avatars</link>
+      <description><![CDATA[We present Habitat 3. 0: a simulation platform for studying collaborative human-robot tasks in home environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/habitat-3-0-a-co-habitat-for-humans-avatars</guid>
+    </item>
+    <item>
+      <title>TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones</title>
+      <link>https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</link>
+      <description><![CDATA[In the era of advanced multimodel learning, multimodal large language models (MLLMs) such as GPT-4V have made remarkable strides towards bridging language and visual elements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tinygpt-v-efficient-multimodal-large-language</guid>
+    </item>
+    <item>
       <title>KwaiAgents: Generalized Information-seeking Agent System with Large Language Models</title>
       <link>https://paperswithcode.com/paper/kwaiagents-generalized-information-seeking</link>
       <description><![CDATA[Driven by curiosity, humans have continually sought to explore and understand the world around them, leading to the invention of various tools to satiate this inquisitiveness.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/kwaiagents-generalized-information-seeking</guid>
-    </item>
-    <item>
-      <title>Large Language Models for Generative Information Extraction: A Survey</title>
-      <link>https://paperswithcode.com/paper/large-language-models-for-generative-1</link>
-      <description><![CDATA[Information extraction (IE) aims to extract structural knowledge (such as entities, relations, and events) from plain natural language texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-for-generative-1</guid>
-    </item>
-    <item>
-      <title>Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning</title>
-      <link>https://paperswithcode.com/paper/music-understanding-llama-advancing-text-to</link>
-      <description><![CDATA[To fill this gap, we present a methodology for generating question-answer pairs from existing audio captioning datasets and introduce the MusicQA Dataset designed for answering open-ended music-related questions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/music-understanding-llama-advancing-text-to</guid>
-    </item>
-    <item>
-      <title>DiffusionLight: Light Probes for Free by Painting a Chrome Ball</title>
-      <link>https://paperswithcode.com/paper/diffusionlight-light-probes-for-free-by</link>
-      <description><![CDATA[To address this problem, we leverage diffusion models trained on billions of standard images to render a chrome ball into the input image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusionlight-light-probes-for-free-by</guid>
     </item>
   </channel>
 </rss>
