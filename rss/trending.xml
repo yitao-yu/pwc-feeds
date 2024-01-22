@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 09:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 21:06:51 +0000</lastBuildDate>
     <item>
       <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
       <link>https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</link>
@@ -33,6 +33,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
     </item>
     <item>
+      <title>Efficiently Programming Large Language Models using SGLang</title>
+      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
+      <description><![CDATA[SGLang is designed for the efficient programming of LLMs and incorporates primitives for common LLM programming patterns.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
+    </item>
+    <item>
       <title>Scalable Pre-training of Large Autoregressive Image Models</title>
       <link>https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</link>
       <description><![CDATA[Specifically, we highlight two key findings: (1) the performance of the visual features scale with both the model capacity and the quantity of data, (2) the value of the objective function correlates with the performance of the model on downstream tasks.]]></description>
@@ -45,40 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
     </item>
     <item>
-      <title>Efficiently Programming Large Language Models using SGLang</title>
-      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
-      <description><![CDATA[SGLang is designed for the efficient programming of LLMs and incorporates primitives for common LLM programming patterns.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
-    </item>
-    <item>
-      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
-      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
-      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
-    </item>
-    <item>
       <title>TaskWeaver: A Code-First Agent Framework</title>
       <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
       <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
-    </item>
-    <item>
-      <title>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception</title>
-      <link>https://paperswithcode.com/paper/aesbench-an-expert-benchmark-for-multimodal</link>
-      <description><![CDATA[An obvious obstacle lies in the absence of a specific benchmark to evaluate the effectiveness of MLLMs on aesthetic perception.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aesbench-an-expert-benchmark-for-multimodal</guid>
-    </item>
-    <item>
-      <title>Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/inferflow-an-efficient-and-highly</link>
-      <description><![CDATA[We present Inferflow, an efficient and highly configurable inference engine for large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inferflow-an-efficient-and-highly</guid>
-    </item>
-    <item>
-      <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
-      <link>https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</link>
-      <description><![CDATA[In this work, we address various segmentation tasks, each traditionally tackled by distinct or partially unified models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
     </item>
     <item>
       <title>Honeybee: Locality-enhanced Projector for Multimodal LLM</title>
@@ -87,10 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</guid>
     </item>
     <item>
-      <title>Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications</title>
-      <link>https://paperswithcode.com/paper/efficient-deformable-convnets-rethinking</link>
-      <description><![CDATA[The advancements in speed and efficiency of DCNv4, combined with its robust performance across diverse vision tasks, show its potential as a foundational building block for future vision models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-deformable-convnets-rethinking</guid>
+      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
+      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
+      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
+    </item>
+    <item>
+      <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
+      <link>https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</link>
+      <description><![CDATA[In this work, we address various segmentation tasks, each traditionally tackled by distinct or partially unified models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
     </item>
     <item>
       <title>Vlogger: Make Your Dream A Vlog</title>
@@ -99,16 +81,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vlogger-make-your-dream-a-vlog</guid>
     </item>
     <item>
+      <title>Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/inferflow-an-efficient-and-highly</link>
+      <description><![CDATA[We present Inferflow, an efficient and highly configurable inference engine for large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inferflow-an-efficient-and-highly</guid>
+    </item>
+    <item>
       <title>DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders</title>
       <link>https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</link>
       <description><![CDATA[Image colorization is a challenging problem due to multi-modal uncertainty and high ill-posedness.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</guid>
-    </item>
-    <item>
-      <title>Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy</title>
-      <link>https://paperswithcode.com/paper/lookahead-an-inference-acceleration-framework</link>
-      <description><![CDATA[Hence, this paper presents a generic framework for accelerating the inference process, resulting in a substantial increase in speed and cost reduction for our RAG system, with lossless generation accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lookahead-an-inference-acceleration-framework</guid>
     </item>
     <item>
       <title>HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance</title>
@@ -121,6 +103,24 @@
       <link>https://paperswithcode.com/paper/rap-sam-towards-real-time-all-purpose-segment</link>
       <description><![CDATA[Segment Anything Model (SAM) is one remarkable model that can achieve generalized segmentation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/rap-sam-towards-real-time-all-purpose-segment</guid>
+    </item>
+    <item>
+      <title>Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</title>
+      <link>https://paperswithcode.com/paper/eyes-wide-shut-exploring-the-visual</link>
+      <description><![CDATA[To understand the roots of these errors, we explore the gap between the visual embedding space of CLIP and vision-only self-supervised learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eyes-wide-shut-exploring-the-visual</guid>
+    </item>
+    <item>
+      <title>Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications</title>
+      <link>https://paperswithcode.com/paper/efficient-deformable-convnets-rethinking</link>
+      <description><![CDATA[The advancements in speed and efficiency of DCNv4, combined with its robust performance across diverse vision tasks, show its potential as a foundational building block for future vision models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-deformable-convnets-rethinking</guid>
+    </item>
+    <item>
+      <title>Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks</title>
+      <link>https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</link>
+      <description><![CDATA[In recent years, visual recognition on challenging long-tailed distributions, where classes often exhibit extremely imbalanced frequencies, has made great progress mostly based on various complex paradigms (e. g., meta learning).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</guid>
     </item>
     <item>
       <title>PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency</title>
