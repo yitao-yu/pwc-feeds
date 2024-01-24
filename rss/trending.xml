@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 21:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 09:12:53 +0000</lastBuildDate>
+    <item>
+      <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
+      <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
+      <description><![CDATA[To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</guid>
+    </item>
     <item>
       <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
       <link>https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</link>
@@ -15,16 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</guid>
     </item>
     <item>
-      <title>PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding</title>
-      <link>https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</link>
-      <description><![CDATA[Recent advances in text-to-image generation have made remarkable progress in synthesizing realistic human photos conditioned on given text prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</guid>
-    </item>
-    <item>
       <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
       <link>https://paperswithcode.com/paper/instantid-zero-shot-identity-preserving</link>
       <description><![CDATA[There has been significant progress in personalized image synthesis with methods such as Textual Inversion, DreamBooth, and LoRA.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instantid-zero-shot-identity-preserving</guid>
+    </item>
+    <item>
+      <title>Self-Rewarding Language Models</title>
+      <link>https://paperswithcode.com/paper/self-rewarding-language-models</link>
+      <description><![CDATA[We posit that to achieve superhuman agents, future models require superhuman feedback in order to provide an adequate training signal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-language-models</guid>
     </item>
     <item>
       <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
@@ -39,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
     </item>
     <item>
-      <title>Scalable Pre-training of Large Autoregressive Image Models</title>
-      <link>https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</link>
-      <description><![CDATA[Specifically, we highlight two key findings: (1) the performance of the visual features scale with both the model capacity and the quantity of data, (2) the value of the objective function correlates with the performance of the model on downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</guid>
+      <title>TaskWeaver: A Code-First Agent Framework</title>
+      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
+      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
     </item>
     <item>
       <title>VMamba: Visual State Space Model</title>
@@ -51,28 +57,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
     </item>
     <item>
-      <title>TaskWeaver: A Code-First Agent Framework</title>
-      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
-      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
+      <title>PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding</title>
+      <link>https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</link>
+      <description><![CDATA[Recent advances in text-to-image generation have made remarkable progress in synthesizing realistic human photos conditioned on given text prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</guid>
     </item>
     <item>
-      <title>Honeybee: Locality-enhanced Projector for Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</link>
-      <description><![CDATA[In Multimodal Large Language Models (MLLMs), a visual projector plays a crucial role in bridging pre-trained vision encoders with LLMs, enabling profound visual understanding while harnessing the LLMs' robust capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</guid>
-    </item>
-    <item>
-      <title>LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression</title>
-      <link>https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</link>
-      <description><![CDATA[Inspired by these findings, we propose LongLLMLingua for prompt compression towards improving LLMs' perception of the key information to simultaneously address the three challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms</guid>
-    </item>
-    <item>
-      <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
-      <link>https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</link>
-      <description><![CDATA[In this work, we address various segmentation tasks, each traditionally tackled by distinct or partially unified models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
+      <title>Scalable Pre-training of Large Autoregressive Image Models</title>
+      <link>https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</link>
+      <description><![CDATA[Specifically, we highlight two key findings: (1) the performance of the visual features scale with both the model capacity and the quantity of data, (2) the value of the objective function correlates with the performance of the model on downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</guid>
     </item>
     <item>
       <title>Vlogger: Make Your Dream A Vlog</title>
@@ -81,22 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vlogger-make-your-dream-a-vlog</guid>
     </item>
     <item>
-      <title>Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/inferflow-an-efficient-and-highly</link>
-      <description><![CDATA[We present Inferflow, an efficient and highly configurable inference engine for large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inferflow-an-efficient-and-highly</guid>
+      <title>Honeybee: Locality-enhanced Projector for Multimodal LLM</title>
+      <link>https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</link>
+      <description><![CDATA[In Multimodal Large Language Models (MLLMs), a visual projector plays a crucial role in bridging pre-trained vision encoders with LLMs, enabling profound visual understanding while harnessing the LLMs' robust capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</guid>
     </item>
     <item>
-      <title>DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders</title>
-      <link>https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</link>
-      <description><![CDATA[Image colorization is a challenging problem due to multi-modal uncertainty and high ill-posedness.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</guid>
+      <title>Zero Bubble Pipeline Parallelism</title>
+      <link>https://paperswithcode.com/paper/zero-bubble-pipeline-parallelism</link>
+      <description><![CDATA[Pipeline parallelism is one of the key components for large-scale distributed training, yet its efficiency suffers from pipeline bubbles which were deemed inevitable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-bubble-pipeline-parallelism</guid>
     </item>
     <item>
-      <title>HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance</title>
-      <link>https://paperswithcode.com/paper/huixiangdou-overcoming-group-chat-scenarios</link>
-      <description><![CDATA[In this work, we present HuixiangDou, a technical assistant powered by Large Language Models (LLM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/huixiangdou-overcoming-group-chat-scenarios</guid>
+      <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
+      <link>https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</link>
+      <description><![CDATA[In this work, we address various segmentation tasks, each traditionally tackled by distinct or partially unified models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
     </item>
     <item>
       <title>RAP-SAM: Towards Real-Time All-Purpose Segment Anything</title>
@@ -105,16 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/rap-sam-towards-real-time-all-purpose-segment</guid>
     </item>
     <item>
-      <title>Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</title>
-      <link>https://paperswithcode.com/paper/eyes-wide-shut-exploring-the-visual</link>
-      <description><![CDATA[To understand the roots of these errors, we explore the gap between the visual embedding space of CLIP and vision-only self-supervised learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eyes-wide-shut-exploring-the-visual</guid>
+      <title>DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders</title>
+      <link>https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</link>
+      <description><![CDATA[Image colorization is a challenging problem due to multi-modal uncertainty and high ill-posedness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</guid>
     </item>
     <item>
-      <title>Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications</title>
-      <link>https://paperswithcode.com/paper/efficient-deformable-convnets-rethinking</link>
-      <description><![CDATA[The advancements in speed and efficiency of DCNv4, combined with its robust performance across diverse vision tasks, show its potential as a foundational building block for future vision models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-deformable-convnets-rethinking</guid>
+      <title>Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning</title>
+      <link>https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</link>
+      <description><![CDATA[However, the absence of a unified open-source software library covering various paradigms in FGIR poses a significant challenge for researchers and practitioners in the field.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</guid>
     </item>
     <item>
       <title>Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</guid>
     </item>
     <item>
-      <title>PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency</title>
-      <link>https://paperswithcode.com/paper/pin-slam-lidar-slam-using-a-point-based</link>
-      <description><![CDATA[In this paper, we propose a SLAM system for building globally consistent maps, called PIN-SLAM, that is based on an elastic and compact point-based implicit neural map representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pin-slam-lidar-slam-using-a-point-based</guid>
+      <title>Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security</title>
+      <link>https://paperswithcode.com/paper/personal-llm-agents-insights-and-survey-about</link>
+      <description><![CDATA[Next, we discuss several key challenges to achieve intelligent, efficient and secure Personal LLM Agents, followed by a comprehensive survey of representative solutions to address these challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/personal-llm-agents-insights-and-survey-about</guid>
+    </item>
+    <item>
+      <title>Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/compose-and-conquer-diffusion-based-3d-depth</link>
+      <description><![CDATA[Addressing the limitations of text as a source of accurate layout representation in text-conditional diffusion models, many works incorporate additional signals to condition certain attributes within a generated image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/compose-and-conquer-diffusion-based-3d-depth</guid>
     </item>
   </channel>
 </rss>

@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jan 2024 21:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 09:12:52 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
       <description><![CDATA[An Open Source Machine Learning Framework for Everyone]]></description>
       <guid isPermaLink="true">https://github.com/tensorflow/tensorflow</guid>
-    </item>
-    <item>
-      <title>transformers</title>
-      <link>https://github.com/huggingface/transformers</link>
-      <description><![CDATA[ Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.]]></description>
-      <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
     </item>
     <item>
       <title>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</title>
@@ -31,6 +25,12 @@
       <link>https://paperswithcode.com/paper/parsing-as-pretraining</link>
       <description><![CDATA[We first cast constituent and dependency parsing as sequence tagging.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/parsing-as-pretraining</guid>
+    </item>
+    <item>
+      <title>transformers</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <description><![CDATA[ Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.]]></description>
+      <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
     </item>
     <item>
       <title>models</title>
@@ -93,6 +93,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/masknet-introducing-feature-wise</guid>
     </item>
     <item>
+      <title>GPT4All: An Ecosystem of Open Source Compressed Language Models</title>
+      <link>https://paperswithcode.com/paper/gpt4all-an-ecosystem-of-open-source</link>
+      <description><![CDATA[It is our hope that this paper acts as both a technical overview of the original GPT4All models as well as a case study on the subsequent growth of the GPT4All open source ecosystem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt4all-an-ecosystem-of-open-source</guid>
+    </item>
+    <item>
       <title>A ConvNet for the 2020s</title>
       <link>https://paperswithcode.com/paper/a-convnet-for-the-2020s</link>
       <description><![CDATA[The "Roaring 20s" of visual recognition began with the introduction of Vision Transformers (ViTs), which quickly superseded ConvNets as the state-of-the-art image classification model.]]></description>
@@ -103,12 +109,6 @@
       <link>https://paperswithcode.com/paper/regnet-self-regulated-network-for-image</link>
       <description><![CDATA[The ResNet and its variants have achieved remarkable successes in various computer vision tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/regnet-self-regulated-network-for-image</guid>
-    </item>
-    <item>
-      <title>GPT4All: An Ecosystem of Open Source Compressed Language Models</title>
-      <link>https://paperswithcode.com/paper/gpt4all-an-ecosystem-of-open-source</link>
-      <description><![CDATA[It is our hope that this paper acts as both a technical overview of the original GPT4All models as well as a case study on the subsequent growth of the GPT4All open source ecosystem.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt4all-an-ecosystem-of-open-source</guid>
     </item>
     <item>
       <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
@@ -145,12 +145,6 @@
       <link>https://github.com/CorentinJ/Real-Time-Voice-Cloning</link>
       <description><![CDATA[Clone a voice in 5 seconds to generate arbitrary speech in real-time]]></description>
       <guid isPermaLink="true">https://github.com/CorentinJ/Real-Time-Voice-Cloning</guid>
-    </item>
-    <item>
-      <title>Training language models to follow instructions with human feedback</title>
-      <link>https://paperswithcode.com/paper/training-language-models-to-follow</link>
-      <description><![CDATA[In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-language-models-to-follow</guid>
     </item>
   </channel>
 </rss>
