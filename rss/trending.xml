@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jan 2024 09:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 21:07:01 +0000</lastBuildDate>
     <item>
       <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
       <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
       <description><![CDATA[To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</guid>
-    </item>
-    <item>
-      <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
-      <link>https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</link>
-      <description><![CDATA[Hence, many of the optimizations and tricks that have been successful in natural language generation may not be effective for code tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</guid>
     </item>
     <item>
       <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
@@ -27,28 +21,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instantid-zero-shot-identity-preserving</guid>
     </item>
     <item>
+      <title>Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs</title>
+      <link>https://paperswithcode.com/paper/mastering-text-to-image-diffusion</link>
+      <description><![CDATA[In this paper, we propose a brand new training-free text-to-image generation/editing framework, namely Recaption, Plan and Generate (RPG), harnessing the powerful chain-of-thought reasoning ability of multimodal LLMs to enhance the compositionality of text-to-image diffusion models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-text-to-image-diffusion</guid>
+    </item>
+    <item>
       <title>Self-Rewarding Language Models</title>
       <link>https://paperswithcode.com/paper/self-rewarding-language-models</link>
       <description><![CDATA[We posit that to achieve superhuman agents, future models require superhuman feedback in order to provide an adequate training signal.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-language-models</guid>
     </item>
     <item>
-      <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
-      <link>https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</link>
-      <description><![CDATA[The results demonstrate that Vim is capable of overcoming the computation & memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
+      <title>Orion-14B: Open-source Multilingual Large Language Models</title>
+      <link>https://paperswithcode.com/paper/orion-14b-open-source-multilingual-large</link>
+      <description><![CDATA[In this study, we introduce Orion-14B, a collection of multilingual large language models with 14 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/orion-14b-open-source-multilingual-large</guid>
     </item>
     <item>
-      <title>Efficiently Programming Large Language Models using SGLang</title>
-      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
-      <description><![CDATA[SGLang is designed for the efficient programming of LLMs and incorporates primitives for common LLM programming patterns.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
+      <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
+      <link>https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</link>
+      <description><![CDATA[Hence, many of the optimizations and tricks that have been successful in natural language generation may not be effective for code tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</guid>
     </item>
     <item>
-      <title>TaskWeaver: A Code-First Agent Framework</title>
-      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
-      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
+      <title>HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance</title>
+      <link>https://paperswithcode.com/paper/huixiangdou-overcoming-group-chat-scenarios</link>
+      <description><![CDATA[In this work, we present HuixiangDou, a technical assistant powered by Large Language Models (LLM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/huixiangdou-overcoming-group-chat-scenarios</guid>
     </item>
     <item>
       <title>VMamba: Visual State Space Model</title>
@@ -57,34 +57,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
     </item>
     <item>
-      <title>PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding</title>
-      <link>https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</link>
-      <description><![CDATA[Recent advances in text-to-image generation have made remarkable progress in synthesizing realistic human photos conditioned on given text prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</guid>
+      <title>Benchmarking LLMs via Uncertainty Quantification</title>
+      <link>https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</link>
+      <description><![CDATA[The proliferation of open-source Large Language Models (LLMs) from various institutions has highlighted the urgent need for comprehensive evaluation methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</guid>
     </item>
     <item>
-      <title>Scalable Pre-training of Large Autoregressive Image Models</title>
-      <link>https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</link>
-      <description><![CDATA[Specifically, we highlight two key findings: (1) the performance of the visual features scale with both the model capacity and the quantity of data, (2) the value of the objective function correlates with the performance of the model on downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-pre-training-of-large-autoregressive</guid>
+      <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
+      <link>https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</link>
+      <description><![CDATA[The results demonstrate that Vim is capable of overcoming the computation & memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
     </item>
     <item>
-      <title>Vlogger: Make Your Dream A Vlog</title>
-      <link>https://paperswithcode.com/paper/vlogger-make-your-dream-a-vlog</link>
-      <description><![CDATA[More importantly, Vlogger can generate over 5-minute vlogs from open-world descriptions, without loss of video coherence on script and actor.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vlogger-make-your-dream-a-vlog</guid>
+      <title>TaskWeaver: A Code-First Agent Framework</title>
+      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
+      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
     </item>
     <item>
-      <title>Honeybee: Locality-enhanced Projector for Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</link>
-      <description><![CDATA[In Multimodal Large Language Models (MLLMs), a visual projector plays a crucial role in bridging pre-trained vision encoders with LLMs, enabling profound visual understanding while harnessing the LLMs' robust capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/honeybee-locality-enhanced-projector-for</guid>
+      <title>DrugAssist: A Large Language Model for Molecule Optimization</title>
+      <link>https://paperswithcode.com/paper/drugassist-a-large-language-model-for</link>
+      <description><![CDATA[Recently, the impressive performance of large language models (LLMs) on a wide range of tasks has attracted an increasing number of attempts to apply LLMs in drug discovery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/drugassist-a-large-language-model-for</guid>
     </item>
     <item>
-      <title>Zero Bubble Pipeline Parallelism</title>
-      <link>https://paperswithcode.com/paper/zero-bubble-pipeline-parallelism</link>
-      <description><![CDATA[Pipeline parallelism is one of the key components for large-scale distributed training, yet its efficiency suffers from pipeline bubbles which were deemed inevitable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-bubble-pipeline-parallelism</guid>
+      <title>AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents</title>
+      <link>https://paperswithcode.com/paper/agentboard-an-analytical-evaluation-board-of</link>
+      <description><![CDATA[Evaluating large language models (LLMs) as general-purpose agents is essential for understanding their capabilities and facilitating their integration into practical applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentboard-an-analytical-evaluation-board-of</guid>
+    </item>
+    <item>
+      <title>Segment Anything in Medical Images</title>
+      <link>https://paperswithcode.com/paper/segment-anything-in-medical-images</link>
+      <description><![CDATA[Medical image segmentation is a critical component in clinical practice, facilitating accurate diagnosis, treatment planning, and disease monitoring.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-in-medical-images</guid>
+    </item>
+    <item>
+      <title>TorchRL: A data-driven decision-making library for PyTorch</title>
+      <link>https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</link>
+      <description><![CDATA[PyTorch has ascended as a premier machine learning framework, yet it lacks a native and comprehensive library for decision and control tasks suitable for large development teams dealing with complex real-world data and environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</guid>
+    </item>
+    <item>
+      <title>DiffMoog: a Differentiable Modular Synthesizer for Sound Matching</title>
+      <link>https://paperswithcode.com/paper/diffmoog-a-differentiable-modular-synthesizer</link>
+      <description><![CDATA[We introduce an open-source platform that comprises DiffMoog and an end-to-end sound matching framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffmoog-a-differentiable-modular-synthesizer</guid>
     </item>
     <item>
       <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
@@ -93,40 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
     </item>
     <item>
-      <title>RAP-SAM: Towards Real-Time All-Purpose Segment Anything</title>
-      <link>https://paperswithcode.com/paper/rap-sam-towards-real-time-all-purpose-segment</link>
-      <description><![CDATA[Segment Anything Model (SAM) is one remarkable model that can achieve generalized segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rap-sam-towards-real-time-all-purpose-segment</guid>
+      <title>PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding</title>
+      <link>https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</link>
+      <description><![CDATA[Recent advances in text-to-image generation have made remarkable progress in synthesizing realistic human photos conditioned on given text prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</guid>
     </item>
     <item>
-      <title>DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders</title>
-      <link>https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</link>
-      <description><![CDATA[Image colorization is a challenging problem due to multi-modal uncertainty and high ill-posedness.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ddcolor-towards-photo-realistic-and-semantic</guid>
+      <title>SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/segmamba-long-range-sequential-modeling-mamba</link>
+      <description><![CDATA[Our SegMamba, in contrast to Transformer-based methods, excels in whole volume feature modeling from a state space model standpoint, maintaining superior processing speed, even with volume features at a resolution of {$64\times 64\times 64$}.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segmamba-long-range-sequential-modeling-mamba</guid>
     </item>
     <item>
-      <title>Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning</title>
-      <link>https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</link>
-      <description><![CDATA[However, the absence of a unified open-source software library covering various paradigms in FGIR poses a significant challenge for researchers and practitioners in the field.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</guid>
-    </item>
-    <item>
-      <title>Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks</title>
-      <link>https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</link>
-      <description><![CDATA[In recent years, visual recognition on challenging long-tailed distributions, where classes often exhibit extremely imbalanced frequencies, has made great progress mostly based on various complex paradigms (e. g., meta learning).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</guid>
-    </item>
-    <item>
-      <title>Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security</title>
-      <link>https://paperswithcode.com/paper/personal-llm-agents-insights-and-survey-about</link>
-      <description><![CDATA[Next, we discuss several key challenges to achieve intelligent, efficient and secure Personal LLM Agents, followed by a comprehensive survey of representative solutions to address these challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/personal-llm-agents-insights-and-survey-about</guid>
-    </item>
-    <item>
-      <title>Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/compose-and-conquer-diffusion-based-3d-depth</link>
-      <description><![CDATA[Addressing the limitations of text as a source of accurate layout representation in text-conditional diffusion models, many works incorporate additional signals to condition certain attributes within a generated image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/compose-and-conquer-diffusion-based-3d-depth</guid>
+      <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
+      <link>https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</link>
+      <description><![CDATA[We argue that the theory and practice of diffusion-based generative models are currently unnecessarily convoluted and seek to remedy the situation by presenting a design space that clearly separates the concrete design choices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/elucidating-the-design-space-of-diffusion</guid>
     </item>
   </channel>
 </rss>
