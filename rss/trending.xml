@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jan 2024 09:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 21:05:53 +0000</lastBuildDate>
     <item>
       <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
       <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
@@ -39,22 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/orion-14b-open-source-multilingual-large</guid>
     </item>
     <item>
-      <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
-      <link>https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</link>
-      <description><![CDATA[Hence, many of the optimizations and tricks that have been successful in natural language generation may not be effective for code tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</guid>
-    </item>
-    <item>
       <title>HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance</title>
       <link>https://paperswithcode.com/paper/huixiangdou-overcoming-group-chat-scenarios</link>
       <description><![CDATA[In this work, we present HuixiangDou, a technical assistant powered by Large Language Models (LLM).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/huixiangdou-overcoming-group-chat-scenarios</guid>
-    </item>
-    <item>
-      <title>VMamba: Visual State Space Model</title>
-      <link>https://paperswithcode.com/paper/vmamba-visual-state-space-model</link>
-      <description><![CDATA[Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) stand as the two most popular foundation models for visual representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
     </item>
     <item>
       <title>Benchmarking LLMs via Uncertainty Quantification</title>
@@ -63,16 +51,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</guid>
     </item>
     <item>
-      <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
-      <link>https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</link>
-      <description><![CDATA[The results demonstrate that Vim is capable of overcoming the computation & memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
+      <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
+      <link>https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</link>
+      <description><![CDATA[Hence, many of the optimizations and tricks that have been successful in natural language generation may not be effective for code tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</guid>
     </item>
     <item>
-      <title>TaskWeaver: A Code-First Agent Framework</title>
-      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
-      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
+      <title>VMamba: Visual State Space Model</title>
+      <link>https://paperswithcode.com/paper/vmamba-visual-state-space-model</link>
+      <description><![CDATA[Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) stand as the two most popular foundation models for visual representation learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
+    </item>
+    <item>
+      <title>TorchRL: A data-driven decision-making library for PyTorch</title>
+      <link>https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</link>
+      <description><![CDATA[PyTorch has ascended as a premier machine learning framework, yet it lacks a native and comprehensive library for decision and control tasks suitable for large development teams dealing with complex real-world data and environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</guid>
+    </item>
+    <item>
+      <title>Efficiently Programming Large Language Models using SGLang</title>
+      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
+      <description><![CDATA[SGLang is designed for the efficient programming of LLMs and incorporates primitives for common LLM programming patterns.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
     </item>
     <item>
       <title>DrugAssist: A Large Language Model for Molecule Optimization</title>
@@ -93,16 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-in-medical-images</guid>
     </item>
     <item>
-      <title>TorchRL: A data-driven decision-making library for PyTorch</title>
-      <link>https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</link>
-      <description><![CDATA[PyTorch has ascended as a premier machine learning framework, yet it lacks a native and comprehensive library for decision and control tasks suitable for large development teams dealing with complex real-world data and environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</guid>
-    </item>
-    <item>
-      <title>DiffMoog: a Differentiable Modular Synthesizer for Sound Matching</title>
-      <link>https://paperswithcode.com/paper/diffmoog-a-differentiable-modular-synthesizer</link>
-      <description><![CDATA[We introduce an open-source platform that comprises DiffMoog and an end-to-end sound matching framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffmoog-a-differentiable-modular-synthesizer</guid>
+      <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
+      <link>https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</link>
+      <description><![CDATA[The results demonstrate that Vim is capable of overcoming the computation & memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
     </item>
     <item>
       <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
@@ -121,6 +115,12 @@
       <link>https://paperswithcode.com/paper/segmamba-long-range-sequential-modeling-mamba</link>
       <description><![CDATA[Our SegMamba, in contrast to Transformer-based methods, excels in whole volume feature modeling from a state space model standpoint, maintaining superior processing speed, even with volume features at a resolution of {$64\times 64\times 64$}.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/segmamba-long-range-sequential-modeling-mamba</guid>
+    </item>
+    <item>
+      <title>DiffMoog: a Differentiable Modular Synthesizer for Sound Matching</title>
+      <link>https://paperswithcode.com/paper/diffmoog-a-differentiable-modular-synthesizer</link>
+      <description><![CDATA[We introduce an open-source platform that comprises DiffMoog and an end-to-end sound matching framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffmoog-a-differentiable-modular-synthesizer</guid>
     </item>
     <item>
       <title>Elucidating the Design Space of Diffusion-Based Generative Models</title>
