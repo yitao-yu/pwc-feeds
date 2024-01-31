@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jan 2024 21:07:08 +0000</lastBuildDate>
-    <item>
-      <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
-      <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
-      <description><![CDATA[To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</guid>
-    </item>
+    <lastBuildDate>Wed, 31 Jan 2024 09:11:33 +0000</lastBuildDate>
     <item>
       <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
       <link>https://paperswithcode.com/paper/instantid-zero-shot-identity-preserving</link>
@@ -21,10 +15,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instantid-zero-shot-identity-preserving</guid>
     </item>
     <item>
-      <title>Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs</title>
-      <link>https://paperswithcode.com/paper/mastering-text-to-image-diffusion</link>
-      <description><![CDATA[In this paper, we propose a brand new training-free text-to-image generation/editing framework, namely Recaption, Plan and Generate (RPG), harnessing the powerful chain-of-thought reasoning ability of multimodal LLMs to enhance the compositionality of text-to-image diffusion models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-text-to-image-diffusion</guid>
+      <title>SliceGPT: Compress Large Language Models by Deleting Rows and Columns</title>
+      <link>https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</link>
+      <description><![CDATA[Large language models have become the cornerstone of natural language processing, but their use comes with substantial costs in terms of compute and memory resources.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</guid>
+    </item>
+    <item>
+      <title>MoE-LLaVA: Mixture of Experts for Large Vision-Language Models</title>
+      <link>https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</link>
+      <description><![CDATA[In this work, we propose a novel training strategy MoE-tuning for LVLMs, which can constructing a sparse model with an outrageous number of parameter but a constant computational cost, and effectively addresses the performance degradation typically associated with multi-modal learning and model sparsity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</guid>
+    </item>
+    <item>
+      <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
+      <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
+      <description><![CDATA[To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</guid>
     </item>
     <item>
       <title>Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering</title>
@@ -33,40 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/code-generation-with-alphacodium-from-prompt</guid>
     </item>
     <item>
-      <title>Self-Rewarding Language Models</title>
-      <link>https://paperswithcode.com/paper/self-rewarding-language-models</link>
-      <description><![CDATA[We posit that to achieve superhuman agents, future models require superhuman feedback in order to provide an adequate training signal.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-language-models</guid>
-    </item>
-    <item>
-      <title>Benchmarking LLMs via Uncertainty Quantification</title>
-      <link>https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</link>
-      <description><![CDATA[The proliferation of open-source Large Language Models (LLMs) from various institutions has highlighted the urgent need for comprehensive evaluation methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</guid>
-    </item>
-    <item>
-      <title>VMamba: Visual State Space Model</title>
-      <link>https://paperswithcode.com/paper/vmamba-visual-state-space-model</link>
-      <description><![CDATA[Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) stand as the two most popular foundation models for visual representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
-    </item>
-    <item>
-      <title>Orion-14B: Open-source Multilingual Large Language Models</title>
-      <link>https://paperswithcode.com/paper/orion-14b-open-source-multilingual-large</link>
-      <description><![CDATA[In this study, we introduce Orion-14B, a collection of multilingual large language models with 14 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/orion-14b-open-source-multilingual-large</guid>
-    </item>
-    <item>
-      <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
-      <link>https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</link>
-      <description><![CDATA[The results demonstrate that Vim is capable of overcoming the computation & memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
-    </item>
-    <item>
-      <title>Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks</title>
-      <link>https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</link>
-      <description><![CDATA[In recent years, visual recognition on challenging long-tailed distributions, where classes often exhibit extremely imbalanced frequencies, has made great progress mostly based on various complex paradigms (e. g., meta learning).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</guid>
+      <title>Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs</title>
+      <link>https://paperswithcode.com/paper/mastering-text-to-image-diffusion</link>
+      <description><![CDATA[In this paper, we propose a brand new training-free text-to-image generation/editing framework, namely Recaption, Plan and Generate (RPG), harnessing the powerful chain-of-thought reasoning ability of multimodal LLMs to enhance the compositionality of text-to-image diffusion models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mastering-text-to-image-diffusion</guid>
     </item>
     <item>
       <title>Matryoshka Representation Learning</title>
@@ -75,22 +51,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/matryoshka-representations-for-adaptive</guid>
     </item>
     <item>
-      <title>AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents</title>
-      <link>https://paperswithcode.com/paper/agentboard-an-analytical-evaluation-board-of</link>
-      <description><![CDATA[Evaluating large language models (LLMs) as general-purpose agents is essential for understanding their capabilities and facilitating their integration into practical applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentboard-an-analytical-evaluation-board-of</guid>
+      <title>In-Context Learning for Extreme Multi-Label Classification</title>
+      <link>https://paperswithcode.com/paper/in-context-learning-for-extreme-multi-label</link>
+      <description><![CDATA[Multi-label classification problems with thousands of classes are hard to solve with in-context learning alone, as language models (LMs) might lack prior knowledge about the precise classes or how to assign them, and it is generally infeasible to demonstrate every class in a prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-learning-for-extreme-multi-label</guid>
     </item>
     <item>
-      <title>AnyText: Multilingual Visual Text Generation And Editing</title>
-      <link>https://paperswithcode.com/paper/anytext-multilingual-visual-text-generation</link>
-      <description><![CDATA[Based on AnyWord-3M dataset, we propose AnyText-benchmark for the evaluation of visual text generation accuracy and quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anytext-multilingual-visual-text-generation</guid>
+      <title>Benchmarking LLMs via Uncertainty Quantification</title>
+      <link>https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</link>
+      <description><![CDATA[The proliferation of open-source Large Language Models (LLMs) from various institutions has highlighted the urgent need for comprehensive evaluation methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-llms-via-uncertainty</guid>
     </item>
     <item>
-      <title>Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning</title>
-      <link>https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</link>
-      <description><![CDATA[However, the absence of a unified open-source software library covering various paradigms in FGIR poses a significant challenge for researchers and practitioners in the field.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</guid>
+      <title>Flexibly Scaling Large Language Models Contexts Through Extensible Tokenization</title>
+      <link>https://paperswithcode.com/paper/flexibly-scaling-large-language-models</link>
+      <description><![CDATA[Extensible Tokenization stands as a midware in between of the tokenized context and the LLM, which transforms the raw token embeddings into the extensible embeddings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flexibly-scaling-large-language-models</guid>
+    </item>
+    <item>
+      <title>Bag of Tricks for Long-Tailed Visual Recognition with Deep Convolutional Neural Networks</title>
+      <link>https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</link>
+      <description><![CDATA[In recent years, visual recognition on challenging long-tailed distributions, where classes often exhibit extremely imbalanced frequencies, has made great progress mostly based on various complex paradigms (e. g., meta learning).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bag-of-tricks-for-long-tailed-visual</guid>
+    </item>
+    <item>
+      <title>Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model</title>
+      <link>https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</link>
+      <description><![CDATA[The results demonstrate that Vim is capable of overcoming the computation & memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-mamba-efficient-visual-representation</guid>
+    </item>
+    <item>
+      <title>Self-Rewarding Language Models</title>
+      <link>https://paperswithcode.com/paper/self-rewarding-language-models</link>
+      <description><![CDATA[We posit that to achieve superhuman agents, future models require superhuman feedback in order to provide an adequate training signal.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-language-models</guid>
+    </item>
+    <item>
+      <title>VMamba: Visual State Space Model</title>
+      <link>https://paperswithcode.com/paper/vmamba-visual-state-space-model</link>
+      <description><![CDATA[Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) stand as the two most popular foundation models for visual representation learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vmamba-visual-state-space-model</guid>
     </item>
     <item>
       <title>Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively</title>
@@ -99,34 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/open-vocabulary-sam-segment-and-recognize</guid>
     </item>
     <item>
-      <title>TaskWeaver: A Code-First Agent Framework</title>
-      <link>https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</link>
-      <description><![CDATA[TaskWeaver provides support for rich data structures, flexible plugin usage, and dynamic plugin selection, and leverages LLM coding capabilities for complex logic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taskweaver-a-code-first-agent-framework</guid>
+      <title>Hawkeye: A PyTorch-based Library for Fine-Grained Image Recognition with Deep Learning</title>
+      <link>https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</link>
+      <description><![CDATA[However, the absence of a unified open-source software library covering various paradigms in FGIR poses a significant challenge for researchers and practitioners in the field.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hawkeye-a-pytorch-based-library-for-fine</guid>
     </item>
     <item>
-      <title>SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/segmamba-long-range-sequential-modeling-mamba</link>
-      <description><![CDATA[Our SegMamba, in contrast to Transformer-based methods, excels in whole volume feature modeling from a state space model standpoint, maintaining superior processing speed, even with volume features at a resolution of {$64\times 64\times 64$}.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segmamba-long-range-sequential-modeling-mamba</guid>
+      <title>AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents</title>
+      <link>https://paperswithcode.com/paper/agentboard-an-analytical-evaluation-board-of</link>
+      <description><![CDATA[Evaluating large language models (LLMs) as general-purpose agents is essential for understanding their capabilities and facilitating their integration into practical applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentboard-an-analytical-evaluation-board-of</guid>
     </item>
     <item>
-      <title>SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation</title>
-      <link>https://paperswithcode.com/paper/speechgpt-gen-scaling-chain-of-information</link>
-      <description><![CDATA[It comprises an autoregressive model based on LLM for semantic information modeling and a non-autoregressive model employing flow matching for perceptual information modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/speechgpt-gen-scaling-chain-of-information</guid>
+      <title>DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines</title>
+      <link>https://paperswithcode.com/paper/dspy-compiling-declarative-language-model</link>
+      <description><![CDATA[The ML community is rapidly exploring techniques for prompting language models (LMs) and for stacking them into pipelines that solve complex tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dspy-compiling-declarative-language-model</guid>
     </item>
     <item>
-      <title>PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding</title>
-      <link>https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</link>
-      <description><![CDATA[Recent advances in text-to-image generation have made remarkable progress in synthesizing realistic human photos conditioned on given text prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/photomaker-customizing-realistic-human-photos</guid>
+      <title>LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model</title>
+      <link>https://paperswithcode.com/paper/llava-ph-efficient-multi-modal-assistant-with</link>
+      <description><![CDATA[In this paper, we introduce LLaVA-$\phi$ (LLaVA-Phi), an efficient multi-modal assistant that harnesses the power of the recently advanced small language model, Phi-2, to facilitate multi-modal dialogues.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-ph-efficient-multi-modal-assistant-with</guid>
     </item>
     <item>
-      <title>Deep Regression on Manifolds: A 3D Rotation Case Study</title>
-      <link>https://paperswithcode.com/paper/deep-regression-on-manifolds-a-3d-rotation</link>
-      <description><![CDATA[Many machine learning problems involve regressing variables on a non-Euclidean manifold -- e. g. a discrete probability distribution, or the 6D pose of an object.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-regression-on-manifolds-a-3d-rotation</guid>
+      <title>DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines</title>
+      <link>https://paperswithcode.com/paper/dspy-assertions-computational-constraints-for</link>
+      <description><![CDATA[Our reference implementation of LM Assertions is integrated into DSPy at https://github. com/stanfordnlp/dspy]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dspy-assertions-computational-constraints-for</guid>
     </item>
   </channel>
 </rss>
