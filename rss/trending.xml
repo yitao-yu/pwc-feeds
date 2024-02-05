@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 09:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 21:06:21 +0000</lastBuildDate>
     <item>
       <title>OLMo: Accelerating the Science of Language Models</title>
       <link>https://paperswithcode.com/paper/olmo-accelerating-the-science-of-language</link>
@@ -19,12 +19,6 @@
       <link>https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</link>
       <description><![CDATA[In this work, we propose a novel training strategy MoE-tuning for LVLMs, which can constructing a sparse model with an outrageous number of parameter but a constant computational cost, and effectively addresses the performance degradation typically associated with multi-modal learning and model sparsity.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</guid>
-    </item>
-    <item>
-      <title>YOLO-World: Real-Time Open-Vocabulary Object Detection</title>
-      <link>https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</link>
-      <description><![CDATA[The You Only Look Once (YOLO) series of detectors have established themselves as efficient and practical tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</guid>
     </item>
     <item>
       <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
@@ -39,6 +33,24 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mobile-agent-autonomous-multi-modal-mobile</guid>
     </item>
     <item>
+      <title>YOLO-World: Real-Time Open-Vocabulary Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</link>
+      <description><![CDATA[The You Only Look Once (YOLO) series of detectors have established themselves as efficient and practical tools.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</guid>
+    </item>
+    <item>
+      <title>Guiding Instruction-based Image Editing via Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</link>
+      <description><![CDATA[Extensive experimental results demonstrate that expressive instructions are crucial to instruction-based image editing, and our MGIE can lead to a notable improvement in automatic metrics and human evaluation while maintaining competitive inference efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</guid>
+    </item>
+    <item>
+      <title>AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning</title>
+      <link>https://paperswithcode.com/paper/animatelcm-accelerating-the-animation-of</link>
+      <description><![CDATA[We validate the proposed strategy in image-conditioned video generation and layout-conditioned video generation, all achieving top-performing results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/animatelcm-accelerating-the-animation-of</guid>
+    </item>
+    <item>
       <title>High-Quality Image Restoration Following Human Instructions</title>
       <link>https://paperswithcode.com/paper/high-quality-image-restoration-following</link>
       <description><![CDATA[All-In-One image restoration models can effectively restore images from various types and levels of degradation using degradation-specific information as prompts to guide the restoration model.]]></description>
@@ -51,6 +63,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</guid>
     </item>
     <item>
+      <title>Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research</title>
+      <link>https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</link>
+      <description><![CDATA[Language models have become a critical technology to tackling a wide range of natural language processing tasks, yet many details about how the best-performing language models were developed are not reported.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</guid>
+    </item>
+    <item>
       <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
       <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
       <description><![CDATA[To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error.]]></description>
@@ -61,36 +79,6 @@
       <link>https://paperswithcode.com/paper/flexibly-scaling-large-language-models</link>
       <description><![CDATA[Extensible Tokenization stands as a midware in between of the tokenized context and the LLM, which transforms the raw token embeddings into the extensible embeddings.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/flexibly-scaling-large-language-models</guid>
-    </item>
-    <item>
-      <title>AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning</title>
-      <link>https://paperswithcode.com/paper/animatelcm-accelerating-the-animation-of</link>
-      <description><![CDATA[We validate the proposed strategy in image-conditioned video generation and layout-conditioned video generation, all achieving top-performing results.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/animatelcm-accelerating-the-animation-of</guid>
-    </item>
-    <item>
-      <title>SliceGPT: Compress Large Language Models by Deleting Rows and Columns</title>
-      <link>https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</link>
-      <description><![CDATA[Large language models have become the cornerstone of natural language processing, but their use comes with substantial costs in terms of compute and memory resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</guid>
-    </item>
-    <item>
-      <title>Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research</title>
-      <link>https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</link>
-      <description><![CDATA[Language models have become a critical technology to tackling a wide range of natural language processing tasks, yet many details about how the best-performing language models were developed are not reported.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</guid>
-    </item>
-    <item>
-      <title>ShareGPT4V: Improving Large Multi-Modal Models with Better Captions</title>
-      <link>https://paperswithcode.com/paper/sharegpt4v-improving-large-multi-modal-models</link>
-      <description><![CDATA[In the realm of large multi-modal models (LMMs), efficient modality alignment is crucial yet often constrained by the scarcity of high-quality image-text data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sharegpt4v-improving-large-multi-modal-models</guid>
-    </item>
-    <item>
-      <title>InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model</title>
-      <link>https://paperswithcode.com/paper/internlm-xcomposer2-mastering-free-form-text</link>
-      <description><![CDATA[We introduce InternLM-XComposer2, a cutting-edge vision-language model excelling in free-form text-image composition and comprehension.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/internlm-xcomposer2-mastering-free-form-text</guid>
     </item>
     <item>
       <title>Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook</title>
@@ -111,10 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
     </item>
     <item>
-      <title>Proactive Detection of Voice Cloning with Localized Watermarking</title>
-      <link>https://paperswithcode.com/paper/proactive-detection-of-voice-cloning-with</link>
-      <description><![CDATA[In the rapidly evolving field of speech generative models, there is a pressing need to ensure audio authenticity against the risks of voice cloning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/proactive-detection-of-voice-cloning-with</guid>
+      <title>Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2</title>
+      <link>https://paperswithcode.com/paper/camels-in-a-changing-climate-enhancing-lm</link>
+      <description><![CDATA[Since the release of T\"ULU [Wang et al., 2023b], open resources for instruction tuning have developed quickly, from better base models to new finetuning techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/camels-in-a-changing-climate-enhancing-lm</guid>
     </item>
     <item>
       <title>Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation</title>
@@ -123,10 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hi-sam-marrying-segment-anything-model-for</guid>
     </item>
     <item>
-      <title>Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond</title>
-      <link>https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</link>
-      <description><![CDATA[In this work, we introduce the Qwen-VL series, a set of large-scale vision-language models (LVLMs) designed to perceive and understand both texts and images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen-vl-a-frontier-large-vision-language</guid>
+      <title>Proactive Detection of Voice Cloning with Localized Watermarking</title>
+      <link>https://paperswithcode.com/paper/proactive-detection-of-voice-cloning-with</link>
+      <description><![CDATA[In the rapidly evolving field of speech generative models, there is a pressing need to ensure audio authenticity against the risks of voice cloning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/proactive-detection-of-voice-cloning-with</guid>
+    </item>
+    <item>
+      <title>SliceGPT: Compress Large Language Models by Deleting Rows and Columns</title>
+      <link>https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</link>
+      <description><![CDATA[Large language models have become the cornerstone of natural language processing, but their use comes with substantial costs in terms of compute and memory resources.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</guid>
+    </item>
+    <item>
+      <title>KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization</title>
+      <link>https://paperswithcode.com/paper/kvquant-towards-10-million-context-length-llm</link>
+      <description><![CDATA[LLMs are seeing growing use for applications such as document analysis and summarization which require large context windows, and with these large context windows KV cache activations surface as the dominant contributor to memory consumption during inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kvquant-towards-10-million-context-length-llm</guid>
     </item>
   </channel>
 </rss>
