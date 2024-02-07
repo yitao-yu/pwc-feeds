@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Feb 2024 09:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 21:06:28 +0000</lastBuildDate>
     <item>
       <title>OLMo: Accelerating the Science of Language Models</title>
       <link>https://paperswithcode.com/paper/olmo-accelerating-the-science-of-language</link>
       <description><![CDATA[Given the importance of these details in scientifically studying these models, including their biases and potential risks, we believe it is essential for the research community to have access to powerful, truly open LMs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/olmo-accelerating-the-science-of-language</guid>
+    </item>
+    <item>
+      <title>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</title>
+      <link>https://paperswithcode.com/paper/deepseekmath-pushing-the-limits-of</link>
+      <description><![CDATA[Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseekmath-pushing-the-limits-of</guid>
     </item>
     <item>
       <title>Guiding Instruction-based Image Editing via Multimodal Large Language Models</title>
@@ -21,16 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</guid>
     </item>
     <item>
-      <title>MoE-LLaVA: Mixture of Experts for Large Vision-Language Models</title>
-      <link>https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</link>
-      <description><![CDATA[In this work, we propose a simple yet effective training strategy MoE-Tuning for LVLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</guid>
-    </item>
-    <item>
       <title>Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception</title>
       <link>https://paperswithcode.com/paper/mobile-agent-autonomous-multi-modal-mobile</link>
       <description><![CDATA[To assess the performance of Mobile-Agent, we introduced Mobile-Eval, a benchmark for evaluating mobile device operations.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mobile-agent-autonomous-multi-modal-mobile</guid>
+    </item>
+    <item>
+      <title>Nomic Embed: Training a Reproducible Long Context Text Embedder</title>
+      <link>https://paperswithcode.com/paper/nomic-embed-training-a-reproducible-long</link>
+      <description><![CDATA[This technical report describes the training of nomic-embed-text-v1, the first fully reproducible, open-source, open-weights, open-data, 8192 context length English text embedding model that outperforms both OpenAI Ada-002 and OpenAI text-embedding-3-small on short and long-context tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nomic-embed-training-a-reproducible-long</guid>
     </item>
     <item>
       <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
@@ -45,76 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</guid>
     </item>
     <item>
-      <title>Nomic Embed: Training a Reproducible Long Context Text Embedder</title>
-      <link>https://paperswithcode.com/paper/nomic-embed-training-a-reproducible-long</link>
-      <description><![CDATA[This technical report describes the training of nomic-embed-text-v1, the first fully reproducible, open-source, open-weights, open-data, 8192 context length English text embedding model that outperforms both OpenAI Ada-002 and OpenAI text-embedding-3-small on short and long-context tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nomic-embed-training-a-reproducible-long</guid>
-    </item>
-    <item>
-      <title>A Comprehensive Survey on 3D Content Generation</title>
-      <link>https://paperswithcode.com/paper/a-comprehensive-survey-on-3d-content</link>
-      <description><![CDATA[Recent years have witnessed remarkable advances in artificial intelligence generated content(AIGC), with diverse input modalities, e. g., text, image, video, audio and 3D.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comprehensive-survey-on-3d-content</guid>
-    </item>
-    <item>
-      <title>High-Quality Image Restoration Following Human Instructions</title>
-      <link>https://paperswithcode.com/paper/high-quality-image-restoration-following</link>
-      <description><![CDATA[All-In-One image restoration models can effectively restore images from various types and levels of degradation using degradation-specific information as prompts to guide the restoration model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/high-quality-image-restoration-following</guid>
-    </item>
-    <item>
-      <title>PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/pokellmon-a-human-parity-agent-for-pokemon</link>
-      <description><![CDATA[We introduce \textsc{Pok\'eLLMon}, the first LLM-embodied agent that achieves human-parity performance in tactical battle games, as demonstrated in Pok\'emon battles.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pokellmon-a-human-parity-agent-for-pokemon</guid>
-    </item>
-    <item>
       <title>AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning</title>
       <link>https://paperswithcode.com/paper/animatelcm-accelerating-the-animation-of</link>
       <description><![CDATA[We validate the proposed strategy in image-conditioned video generation and layout-conditioned video generation, all achieving top-performing results.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatelcm-accelerating-the-animation-of</guid>
-    </item>
-    <item>
-      <title>Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research</title>
-      <link>https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</link>
-      <description><![CDATA[Language models have become a critical technology to tackling a wide range of natural language processing tasks, yet many details about how the best-performing language models were developed are not reported.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</guid>
-    </item>
-    <item>
-      <title>DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence</title>
-      <link>https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</link>
-      <description><![CDATA[The rapid development of large language models has revolutionized code intelligence in software development.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</guid>
-    </item>
-    <item>
-      <title>GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/games-mesh-based-adapting-and-modification-of</link>
-      <description><![CDATA[Furthermore, we demonstrate that in the absence of a predefined mesh, it is possible to fine-tune the initial mesh during the learning process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/games-mesh-based-adapting-and-modification-of</guid>
-    </item>
-    <item>
-      <title>BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation</title>
-      <link>https://paperswithcode.com/paper/bge-m3-embedding-multi-lingual-multi</link>
-      <description><![CDATA[It can simultaneously perform the three common retrieval functionalities of embedding model: dense retrieval, multi-vector retrieval, and sparse retrieval, which provides a unified model foundation for real-world IR applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bge-m3-embedding-multi-lingual-multi</guid>
-    </item>
-    <item>
-      <title>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</title>
-      <link>https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</link>
-      <description><![CDATA[To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/depth-anything-unleashing-the-power-of-large</guid>
-    </item>
-    <item>
-      <title>Efficiently Programming Large Language Models using SGLang</title>
-      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
-      <description><![CDATA[SGLang is designed for the efficient programming of LLMs and incorporates primitives for common LLM programming patterns.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
-    </item>
-    <item>
-      <title>Proactive Detection of Voice Cloning with Localized Watermarking</title>
-      <link>https://paperswithcode.com/paper/proactive-detection-of-voice-cloning-with</link>
-      <description><![CDATA[In the rapidly evolving field of speech generative models, there is a pressing need to ensure audio authenticity against the risks of voice cloning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/proactive-detection-of-voice-cloning-with</guid>
     </item>
     <item>
       <title>DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors</title>
@@ -123,10 +63,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</guid>
     </item>
     <item>
-      <title>SliceGPT: Compress Large Language Models by Deleting Rows and Columns</title>
-      <link>https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</link>
-      <description><![CDATA[Large language models have become the cornerstone of natural language processing, but their use comes with substantial costs in terms of compute and memory resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/slicegpt-compress-large-language-models-by</guid>
+      <title>MoE-LLaVA: Mixture of Experts for Large Vision-Language Models</title>
+      <link>https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</link>
+      <description><![CDATA[In this work, we propose a simple yet effective training strategy MoE-Tuning for LVLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moe-llava-mixture-of-experts-for-large-vision</guid>
+    </item>
+    <item>
+      <title>A Comprehensive Survey on 3D Content Generation</title>
+      <link>https://paperswithcode.com/paper/a-comprehensive-survey-on-3d-content</link>
+      <description><![CDATA[Recent years have witnessed remarkable advances in artificial intelligence generated content(AIGC), with diverse input modalities, e. g., text, image, video, audio and 3D.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comprehensive-survey-on-3d-content</guid>
+    </item>
+    <item>
+      <title>BlackMamba: Mixture of Experts for State-Space Models</title>
+      <link>https://paperswithcode.com/paper/blackmamba-mixture-of-experts-for-state-space</link>
+      <description><![CDATA[In this paper, we present BlackMamba, a novel architecture that combines the Mamba SSM with MoE to obtain the benefits of both.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blackmamba-mixture-of-experts-for-state-space</guid>
+    </item>
+    <item>
+      <title>InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions</title>
+      <link>https://paperswithcode.com/paper/interactivevideo-user-centric-controllable</link>
+      <description><![CDATA[We introduce $\textit{InteractiveVideo}$, a user-centric framework for video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interactivevideo-user-centric-controllable</guid>
+    </item>
+    <item>
+      <title>PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/pokellmon-a-human-parity-agent-for-pokemon</link>
+      <description><![CDATA[We introduce \textsc{Pok\'eLLMon}, the first LLM-embodied agent that achieves human-parity performance in tactical battle games, as demonstrated in Pok\'emon battles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pokellmon-a-human-parity-agent-for-pokemon</guid>
+    </item>
+    <item>
+      <title>Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research</title>
+      <link>https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</link>
+      <description><![CDATA[Language models have become a critical technology to tackling a wide range of natural language processing tasks, yet many details about how the best-performing language models were developed are not reported.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dolma-an-open-corpus-of-three-trillion-tokens</guid>
+    </item>
+    <item>
+      <title>Efficiently Programming Large Language Models using SGLang</title>
+      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
+      <description><![CDATA[SGLang is designed for the efficient programming of LLMs and incorporates primitives for common LLM programming patterns.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
+    </item>
+    <item>
+      <title>GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/games-mesh-based-adapting-and-modification-of</link>
+      <description><![CDATA[Furthermore, we demonstrate that in the absence of a predefined mesh, it is possible to fine-tune the initial mesh during the learning process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/games-mesh-based-adapting-and-modification-of</guid>
+    </item>
+    <item>
+      <title>High-Quality Image Restoration Following Human Instructions</title>
+      <link>https://paperswithcode.com/paper/high-quality-image-restoration-following</link>
+      <description><![CDATA[All-In-One image restoration models can effectively restore images from various types and levels of degradation using degradation-specific information as prompts to guide the restoration model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/high-quality-image-restoration-following</guid>
+    </item>
+    <item>
+      <title>DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence</title>
+      <link>https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</link>
+      <description><![CDATA[The rapid development of large language models has revolutionized code intelligence in software development.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</guid>
+    </item>
+    <item>
+      <title>Intent-based Prompt Calibration: Enhancing prompt optimization with synthetic boundary cases</title>
+      <link>https://paperswithcode.com/paper/intent-based-prompt-calibration-enhancing</link>
+      <description><![CDATA[Recent studies have demonstrated the capabilities of LLMs to automatically conduct prompt engineering by employing a meta-prompt that incorporates the outcomes of the last trials and proposes an improved prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/intent-based-prompt-calibration-enhancing</guid>
     </item>
   </channel>
 </rss>
