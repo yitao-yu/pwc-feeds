@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Feb 2024 09:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 21:06:26 +0000</lastBuildDate>
     <item>
       <title>World Model on Million-Length Video And Language With RingAttention</title>
       <link>https://paperswithcode.com/paper/world-model-on-million-length-video-and</link>
@@ -19,6 +19,18 @@
       <link>https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</link>
       <description><![CDATA[We introduce UFO, an innovative UI-Focused agent to fulfill user requests tailored to applications on Windows OS, harnessing the capabilities of GPT-Vision.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</guid>
+    </item>
+    <item>
+      <title>Revisiting Feature Prediction for Learning Visual Representations from Video</title>
+      <link>https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</link>
+      <description><![CDATA[This paper explores feature prediction as a stand-alone objective for unsupervised learning from video and introduces V-JEPA, a collection of vision models trained solely using a feature prediction objective, without the use of pretrained image encoders, text, negative examples, reconstruction, or other sources of supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</guid>
+    </item>
+    <item>
+      <title>Scalable Diffusion Models with Transformers</title>
+      <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
+      <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
     </item>
     <item>
       <title>YOLO-World: Real-Time Open-Vocabulary Object Detection</title>
@@ -33,16 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dora-weight-decomposed-low-rank-adaptation</guid>
     </item>
     <item>
+      <title>DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows</title>
+      <link>https://paperswithcode.com/paper/datadreamer-a-tool-for-synthetic-data</link>
+      <description><![CDATA[The rapid rise to prominence of these models and these unique challenges has had immediate adverse impacts on open science and on the reproducibility of work that uses them.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/datadreamer-a-tool-for-synthetic-data</guid>
+    </item>
+    <item>
+      <title>OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning</title>
+      <link>https://paperswithcode.com/paper/openfedllm-training-large-language-models-on</link>
+      <description><![CDATA[Trained on massive publicly available data, large language models (LLMs) have demonstrated tremendous success across various fields.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openfedllm-training-large-language-models-on</guid>
+    </item>
+    <item>
       <title>Generative Representational Instruction Tuning</title>
       <link>https://paperswithcode.com/paper/generative-representational-instruction</link>
       <description><![CDATA[Notably, we find that GRIT matches training on only generative or embedding data, thus we can unify both at no performance loss.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/generative-representational-instruction</guid>
-    </item>
-    <item>
-      <title>Scalable Diffusion Models with Transformers</title>
-      <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
-      <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
     </item>
     <item>
       <title>GraphCast: Learning skillful medium-range global weather forecasting</title>
@@ -51,16 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</guid>
     </item>
     <item>
+      <title>MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion</title>
+      <link>https://paperswithcode.com/paper/magicdance-realistic-human-dance-video</link>
+      <description><![CDATA[In this work, we propose MagicPose, a diffusion-based model for 2D human pose and facial expression retargeting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magicdance-realistic-human-dance-video</guid>
+    </item>
+    <item>
       <title>BitDelta: Your Fine-Tune May Only Be Worth One Bit</title>
       <link>https://paperswithcode.com/paper/bitdelta-your-fine-tune-may-only-be-worth-one</link>
       <description><![CDATA[Large Language Models (LLMs) are typically trained in two phases: pre-training on large internet-scale datasets, and fine-tuning for downstream tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/bitdelta-your-fine-tune-may-only-be-worth-one</guid>
-    </item>
-    <item>
-      <title>Revisiting Feature Prediction for Learning Visual Representations from Video</title>
-      <link>https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</link>
-      <description><![CDATA[This paper explores feature prediction as a stand-alone objective for unsupervised learning from video and introduces V-JEPA, a collection of vision models trained solely using a feature prediction objective, without the use of pretrained image encoders, text, negative examples, reconstruction, or other sources of supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</guid>
     </item>
     <item>
       <title>Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting</title>
@@ -69,22 +87,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lag-llama-towards-foundation-models-for-time</guid>
     </item>
     <item>
-      <title>MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion</title>
-      <link>https://paperswithcode.com/paper/magicdance-realistic-human-dance-video</link>
-      <description><![CDATA[In this work, we propose MagicPose, a diffusion-based model for 2D human pose and facial expression retargeting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magicdance-realistic-human-dance-video</guid>
+      <title>SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers</title>
+      <link>https://paperswithcode.com/paper/sit-exploring-flow-and-diffusion-based</link>
+      <description><![CDATA[We present Scalable Interpolant Transformers (SiT), a family of generative models built on the backbone of Diffusion Transformers (DiT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sit-exploring-flow-and-diffusion-based</guid>
     </item>
     <item>
-      <title>Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models</title>
-      <link>https://paperswithcode.com/paper/fiddler-cpu-gpu-orchestration-for-fast</link>
-      <description><![CDATA[Large Language Models (LLMs) based on Mixture-of-Experts (MoE) architecture are showing promising performance on various tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fiddler-cpu-gpu-orchestration-for-fast</guid>
-    </item>
-    <item>
-      <title>Guiding Instruction-based Image Editing via Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</link>
-      <description><![CDATA[Extensive experimental results demonstrate that expressive instructions are crucial to instruction-based image editing, and our MGIE can lead to a notable improvement in automatic metrics and human evaluation while maintaining competitive inference efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</guid>
+      <title>MaskNet: Introducing Feature-Wise Multiplication to CTR Ranking Models by Instance-Guided Mask</title>
+      <link>https://paperswithcode.com/paper/masknet-introducing-feature-wise</link>
+      <description><![CDATA[We also turn the feed-forward layer in DNN model into a mixture of addictive and multiplicative feature interactions by proposing MaskBlock in this paper.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masknet-introducing-feature-wise</guid>
     </item>
     <item>
       <title>Magic-Me: Identity-Specific Video Customized Diffusion</title>
@@ -93,40 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/magic-me-identity-specific-video-customized</guid>
     </item>
     <item>
+      <title>MotionCtrl: A Unified and Flexible Motion Controller for Video Generation</title>
+      <link>https://paperswithcode.com/paper/motionctrl-a-unified-and-flexible-motion</link>
+      <description><![CDATA[Therefore, this paper presents MotionCtrl, a unified and flexible motion controller for video generation designed to effectively and independently control camera and object motion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/motionctrl-a-unified-and-flexible-motion</guid>
+    </item>
+    <item>
+      <title>Guiding Instruction-based Image Editing via Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</link>
+      <description><![CDATA[Extensive experimental results demonstrate that expressive instructions are crucial to instruction-based image editing, and our MGIE can lead to a notable improvement in automatic metrics and human evaluation while maintaining competitive inference efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/guiding-instruction-based-image-editing-via</guid>
+    </item>
+    <item>
       <title>Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception</title>
       <link>https://paperswithcode.com/paper/mobile-agent-autonomous-multi-modal-mobile</link>
       <description><![CDATA[To assess the performance of Mobile-Agent, we introduced Mobile-Eval, a benchmark for evaluating mobile device operations.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mobile-agent-autonomous-multi-modal-mobile</guid>
     </item>
     <item>
-      <title>Forgedit: Text Guided Image Editing via Learning and Forgetting</title>
-      <link>https://paperswithcode.com/paper/forgedit-text-guided-image-editing-via</link>
-      <description><![CDATA[Text guided image editing on real images given only the image and the target text prompt as inputs, is a very general and challenging problem, which requires the editing model to reason by itself which part of the image should be edited, to preserve the characteristics of original image, and also to perform complicated non-rigid editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/forgedit-text-guided-image-editing-via</guid>
-    </item>
-    <item>
-      <title>GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators</title>
-      <link>https://paperswithcode.com/paper/gentranslate-large-language-models-are</link>
-      <description><![CDATA[Leveraging the rich linguistic knowledge and strong reasoning abilities of LLMs, our new paradigm can integrate the rich information in N-best candidates to generate a higher-quality translation result.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gentranslate-large-language-models-are</guid>
-    </item>
-    <item>
-      <title>The boundary of neural network trainability is fractal</title>
-      <link>https://paperswithcode.com/paper/the-boundary-of-neural-network-trainability</link>
-      <description><![CDATA[Some fractals -- for instance those associated with the Mandelbrot and quadratic Julia sets -- are computed by iterating a function, and identifying the boundary between hyperparameters for which the resulting series diverges or remains bounded.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-boundary-of-neural-network-trainability</guid>
-    </item>
-    <item>
-      <title>GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information</title>
-      <link>https://paperswithcode.com/paper/genegpt-teaching-large-language-models-to-use</link>
-      <description><![CDATA[In this paper, we present GeneGPT, a novel method for teaching LLMs to use the Web APIs of the National Center for Biotechnology Information (NCBI) for answering genomics questions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/genegpt-teaching-large-language-models-to-use</guid>
-    </item>
-    <item>
-      <title>Data Engineering for Scaling Language Models to 128K Context</title>
-      <link>https://paperswithcode.com/paper/data-engineering-for-scaling-language-models</link>
-      <description><![CDATA[We demonstrate that continual pretraining of the full model on 1B-5B tokens of such data is an effective and affordable strategy for scaling the context length of language models to 128K.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-engineering-for-scaling-language-models</guid>
+      <title>Ring Attention with Blockwise Transformers for Near-Infinite Context</title>
+      <link>https://paperswithcode.com/paper/ring-attention-with-blockwise-transformers</link>
+      <description><![CDATA[Transformers have emerged as the architecture of choice for many state-of-the-art AI models, showcasing exceptional performance across a wide range of AI applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ring-attention-with-blockwise-transformers</guid>
     </item>
   </channel>
 </rss>
