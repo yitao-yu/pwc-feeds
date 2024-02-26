@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Feb 2024 09:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 21:08:35 +0000</lastBuildDate>
     <item>
       <title>YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information</title>
       <link>https://paperswithcode.com/paper/yolov9-learning-what-you-want-to-learn-using</link>
@@ -27,6 +27,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neural-network-diffusion</guid>
     </item>
     <item>
+      <title>Intent-based Prompt Calibration: Enhancing prompt optimization with synthetic boundary cases</title>
+      <link>https://paperswithcode.com/paper/intent-based-prompt-calibration-enhancing</link>
+      <description><![CDATA[Recent studies have demonstrated the capabilities of LLMs to automatically conduct prompt engineering by employing a meta-prompt that incorporates the outcomes of the last trials and proposes an improved prompt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/intent-based-prompt-calibration-enhancing</guid>
+    </item>
+    <item>
       <title>GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting</title>
       <link>https://paperswithcode.com/paper/gaussianobject-just-taking-four-images-to-get</link>
       <description><![CDATA[Then we construct a Gaussian repair model based on diffusion models to supplement the omitted object information, where Gaussians are further refined.]]></description>
@@ -39,10 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</guid>
     </item>
     <item>
-      <title>Revisiting Feature Prediction for Learning Visual Representations from Video</title>
-      <link>https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</link>
-      <description><![CDATA[This paper explores feature prediction as a stand-alone objective for unsupervised learning from video and introduces V-JEPA, a collection of vision models trained solely using a feature prediction objective, without the use of pretrained image encoders, text, negative examples, reconstruction, or other sources of supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</guid>
+      <title>Cleaner Pretraining Corpus Curation with Neural Web Scraping</title>
+      <link>https://paperswithcode.com/paper/cleaner-pretraining-corpus-curation-with</link>
+      <description><![CDATA[The web contains large-scale, diverse, and abundant information to satisfy the information-seeking needs of humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cleaner-pretraining-corpus-curation-with</guid>
     </item>
     <item>
       <title>FiT: Flexible Vision Transformer for Diffusion Model</title>
@@ -51,10 +57,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fit-flexible-vision-transformer-for-diffusion</guid>
     </item>
     <item>
-      <title>SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers</title>
-      <link>https://paperswithcode.com/paper/sit-exploring-flow-and-diffusion-based</link>
-      <description><![CDATA[We present Scalable Interpolant Transformers (SiT), a family of generative models built on the backbone of Diffusion Transformers (DiT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sit-exploring-flow-and-diffusion-based</guid>
+      <title>YOLO-World: Real-Time Open-Vocabulary Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</link>
+      <description><![CDATA[The You Only Look Once (YOLO) series of detectors have established themselves as efficient and practical tools.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</guid>
+    </item>
+    <item>
+      <title>Revisiting Feature Prediction for Learning Visual Representations from Video</title>
+      <link>https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</link>
+      <description><![CDATA[This paper explores feature prediction as a stand-alone objective for unsupervised learning from video and introduces V-JEPA, a collection of vision models trained solely using a feature prediction objective, without the use of pretrained image encoders, text, negative examples, reconstruction, or other sources of supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning</guid>
     </item>
     <item>
       <title>World Model on Million-Length Video And Language With RingAttention</title>
@@ -63,22 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/world-model-on-million-length-video-and</guid>
     </item>
     <item>
-      <title>YOLO-World: Real-Time Open-Vocabulary Object Detection</title>
-      <link>https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</link>
-      <description><![CDATA[The You Only Look Once (YOLO) series of detectors have established themselves as efficient and practical tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-world-real-time-open-vocabulary-object</guid>
-    </item>
-    <item>
-      <title>Data Engineering for Scaling Language Models to 128K Context</title>
-      <link>https://paperswithcode.com/paper/data-engineering-for-scaling-language-models</link>
-      <description><![CDATA[We demonstrate that continual pretraining of the full model on 1B-5B tokens of such data is an effective and affordable strategy for scaling the context length of language models to 128K.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-engineering-for-scaling-language-models</guid>
-    </item>
-    <item>
-      <title>T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching</title>
-      <link>https://paperswithcode.com/paper/t-stitch-accelerating-sampling-in-pre-trained</link>
-      <description><![CDATA[Sampling from diffusion probabilistic models (DPMs) is often expensive for high-quality image generation and typically requires many steps with a large model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t-stitch-accelerating-sampling-in-pre-trained</guid>
+      <title>Differential Diffusion: Giving Each Pixel Its Strength</title>
+      <link>https://paperswithcode.com/paper/differential-diffusion-giving-each-pixel-its</link>
+      <description><![CDATA[With the rise of diffusion models, image editing via textual instructions has become ubiquitous.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/differential-diffusion-giving-each-pixel-its</guid>
     </item>
     <item>
       <title>TinyLLaVA: A Framework of Small-scale Large Multimodal Models</title>
@@ -87,10 +87,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tinyllava-a-framework-of-small-scale-large</guid>
     </item>
     <item>
-      <title>Cleaner Pretraining Corpus Curation with Neural Web Scraping</title>
-      <link>https://paperswithcode.com/paper/cleaner-pretraining-corpus-curation-with</link>
-      <description><![CDATA[The web contains large-scale, diverse, and abundant information to satisfy the information-seeking needs of humans.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cleaner-pretraining-corpus-curation-with</guid>
+      <title>SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers</title>
+      <link>https://paperswithcode.com/paper/sit-exploring-flow-and-diffusion-based</link>
+      <description><![CDATA[We present Scalable Interpolant Transformers (SiT), a family of generative models built on the backbone of Diffusion Transformers (DiT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sit-exploring-flow-and-diffusion-based</guid>
+    </item>
+    <item>
+      <title>T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching</title>
+      <link>https://paperswithcode.com/paper/t-stitch-accelerating-sampling-in-pre-trained</link>
+      <description><![CDATA[Sampling from diffusion probabilistic models (DPMs) is often expensive for high-quality image generation and typically requires many steps with a large model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/t-stitch-accelerating-sampling-in-pre-trained</guid>
+    </item>
+    <item>
+      <title>Data Engineering for Scaling Language Models to 128K Context</title>
+      <link>https://paperswithcode.com/paper/data-engineering-for-scaling-language-models</link>
+      <description><![CDATA[We demonstrate that continual pretraining of the full model on 1B-5B tokens of such data is an effective and affordable strategy for scaling the context length of language models to 128K.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-engineering-for-scaling-language-models</guid>
+    </item>
+    <item>
+      <title>Vectorized and performance-portable Quicksort</title>
+      <link>https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</link>
+      <description><![CDATA[Recent works showed that implementations of Quicksort using vector CPU instructions can outperform the non-vectorized algorithms in widespread use.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vectorized-and-performance-portable-quicksort</guid>
+    </item>
+    <item>
+      <title>AlphaFold Meets Flow Matching for Generating Protein Ensembles</title>
+      <link>https://paperswithcode.com/paper/alphafold-meets-flow-matching-for-generating</link>
+      <description><![CDATA[When trained and evaluated on the PDB, our method provides a superior combination of precision and diversity compared to AlphaFold with MSA subsampling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alphafold-meets-flow-matching-for-generating</guid>
     </item>
     <item>
       <title>Large Language Models for Data Annotation: A Survey</title>
@@ -99,34 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-for-data-annotation-a</guid>
     </item>
     <item>
-      <title>Differential Diffusion: Giving Each Pixel Its Strength</title>
-      <link>https://paperswithcode.com/paper/differential-diffusion-giving-each-pixel-its</link>
-      <description><![CDATA[With the rise of diffusion models, image editing via textual instructions has become ubiquitous.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/differential-diffusion-giving-each-pixel-its</guid>
-    </item>
-    <item>
-      <title>PALO: A Polyglot Large Multimodal Model for 5B People</title>
-      <link>https://paperswithcode.com/paper/palo-a-polyglot-large-multimodal-model-for-5b</link>
-      <description><![CDATA[\textsc{Palo} offers visual reasoning capabilities in 10 major languages, including English, Chinese, Hindi, Spanish, French, Arabic, Bengali, Russian, Urdu, and Japanese, that span a total of $\sim$5B people (65\% of the world population).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/palo-a-polyglot-large-multimodal-model-for-5b</guid>
-    </item>
-    <item>
       <title>Towards Building Multilingual Language Model for Medicine</title>
       <link>https://paperswithcode.com/paper/towards-building-multilingual-language-model</link>
       <description><![CDATA[In this paper, we aim to develop an open-source, multilingual language model for medicine, that the benefits a wider, linguistically diverse audience from different regions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-building-multilingual-language-model</guid>
-    </item>
-    <item>
-      <title>ChartX &amp; ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning</title>
-      <link>https://paperswithcode.com/paper/chartx-chartvlm-a-versatile-benchmark-and</link>
-      <description><![CDATA[Recently, many versatile Multi-modal Large Language Models (MLLMs) have emerged continuously.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chartx-chartvlm-a-versatile-benchmark-and</guid>
-    </item>
-    <item>
-      <title>AgentScope: A Flexible yet Robust Multi-Agent Platform</title>
-      <link>https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</link>
-      <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</guid>
     </item>
   </channel>
 </rss>
