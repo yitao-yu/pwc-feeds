@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Mar 2024 09:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 21:06:51 +0000</lastBuildDate>
     <item>
       <title>Transparent Image Layer Diffusion using Latent Transparency</title>
       <link>https://paperswithcode.com/paper/transparent-image-layer-diffusion-using</link>
@@ -15,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/transparent-image-layer-diffusion-using</guid>
     </item>
     <item>
-      <title>YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information</title>
-      <link>https://paperswithcode.com/paper/yolov9-learning-what-you-want-to-learn-using</link>
-      <description><![CDATA[It can be used to obtain complete information, so that train-from-scratch models can achieve better results than state-of-the-art models pre-trained using large datasets, the comparison results are shown in Figure 1.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov9-learning-what-you-want-to-learn-using</guid>
+      <title>DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/distrifusion-distributed-parallel-inference</link>
+      <description><![CDATA[To overcome this dilemma, we observe the high similarity between the input from adjacent diffusion steps and propose displaced patch parallelism, which takes advantage of the sequential nature of the diffusion process by reusing the pre-computed feature maps from the previous timestep to provide context for the current step.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distrifusion-distributed-parallel-inference</guid>
     </item>
     <item>
       <title>Intent-based Prompt Calibration: Enhancing prompt optimization with synthetic boundary cases</title>
@@ -33,10 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sora-a-review-on-background-technology</guid>
     </item>
     <item>
-      <title>DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/distrifusion-distributed-parallel-inference</link>
-      <description><![CDATA[To overcome this dilemma, we observe the high similarity between the input from adjacent diffusion steps and propose displaced patch parallelism, which takes advantage of the sequential nature of the diffusion process by reusing the pre-computed feature maps from the previous timestep to provide context for the current step.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distrifusion-distributed-parallel-inference</guid>
+      <title>YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information</title>
+      <link>https://paperswithcode.com/paper/yolov9-learning-what-you-want-to-learn-using</link>
+      <description><![CDATA[It can be used to obtain complete information, so that train-from-scratch models can achieve better results than state-of-the-art models pre-trained using large datasets, the comparison results are shown in Figure 1.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolov9-learning-what-you-want-to-learn-using</guid>
     </item>
     <item>
       <title>Datasets for Large Language Models: A Comprehensive Survey</title>
@@ -45,22 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/datasets-for-large-language-models-a</guid>
     </item>
     <item>
+      <title>Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation</title>
+      <link>https://paperswithcode.com/paper/learning-to-generate-instruction-tuning</link>
+      <description><![CDATA[Overall, we show that learning with synthetic instruction tuning datasets is an effective way to adapt language models to new domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-generate-instruction-tuning</guid>
+    </item>
+    <item>
       <title>MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT</title>
       <link>https://paperswithcode.com/paper/mobillama-towards-accurate-and-lightweight</link>
       <description><![CDATA["Bigger the better" has been the predominant trend in recent Large Language Models (LLMs) development.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mobillama-towards-accurate-and-lightweight</guid>
     </item>
     <item>
-      <title>Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing</title>
-      <link>https://paperswithcode.com/paper/where-visual-speech-meets-language-vsp-llm</link>
-      <description><![CDATA[In visual speech processing, context modeling capability is one of the most important requirements due to the ambiguous nature of lip movements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/where-visual-speech-meets-language-vsp-llm</guid>
-    </item>
-    <item>
       <title>Training-Free Long-Context Scaling of Large Language Models</title>
       <link>https://paperswithcode.com/paper/training-free-long-context-scaling-of-large</link>
       <description><![CDATA[The ability of Large Language Models (LLMs) to process and generate coherent text is markedly weakened when the number of input tokens exceeds their pretraining length.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-long-context-scaling-of-large</guid>
+    </item>
+    <item>
+      <title>BitNet: Scaling 1-bit Transformers for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</link>
+      <description><![CDATA[The increasing size of large language models has posed challenges for deployment and raised concerns about environmental impact due to high energy consumption.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bitnet-scaling-1-bit-transformers-for-large</guid>
     </item>
     <item>
       <title>The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA</title>
@@ -75,28 +81,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</guid>
     </item>
     <item>
+      <title>EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</title>
+      <link>https://paperswithcode.com/paper/efficientsam-leveraged-masked-image</link>
+      <description><![CDATA[On segment anything task such as zero-shot instance segmentation, our EfficientSAMs with SAMI-pretrained lightweight image encoders perform favorably with a significant gain (e. g., ~4 AP on COCO/LVIS) over other fast SAM models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientsam-leveraged-masked-image</guid>
+    </item>
+    <item>
+      <title>Where Visual Speech Meets Language: VSP-LLM Framework for Efficient and Context-Aware Visual Speech Processing</title>
+      <link>https://paperswithcode.com/paper/where-visual-speech-meets-language-vsp-llm</link>
+      <description><![CDATA[In visual speech processing, context modeling capability is one of the most important requirements due to the ambiguous nature of lip movements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/where-visual-speech-meets-language-vsp-llm</guid>
+    </item>
+    <item>
       <title>Language Agents as Optimizable Graphs</title>
       <link>https://paperswithcode.com/paper/language-agents-as-optimizable-graphs</link>
       <description><![CDATA[Various human-designed prompt engineering techniques have been proposed to improve problem solvers based on Large Language Models (LLMs), yielding many disparate code bases.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-agents-as-optimizable-graphs</guid>
     </item>
     <item>
-      <title>Neural Network Diffusion</title>
-      <link>https://paperswithcode.com/paper/neural-network-diffusion</link>
-      <description><![CDATA[The autoencoder extracts latent representations of a subset of the trained network parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-network-diffusion</guid>
-    </item>
-    <item>
-      <title>Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/coarse-to-fine-latent-diffusion-for-pose</link>
-      <description><![CDATA[While existing methods simply align the person appearance to the target pose, they are prone to overfitting due to the lack of a high-level semantic understanding on the source person image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/coarse-to-fine-latent-diffusion-for-pose</guid>
+      <title>Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution</title>
+      <link>https://paperswithcode.com/paper/discrete-diffusion-language-modeling-by</link>
+      <description><![CDATA[Experimentally, we test our Score Entropy Discrete Diffusion models (SEDD) on standard language modeling tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/discrete-diffusion-language-modeling-by</guid>
     </item>
     <item>
       <title>Diffusion Model-Based Image Editing: A Survey</title>
       <link>https://paperswithcode.com/paper/diffusion-model-based-image-editing-a-survey</link>
       <description><![CDATA[In this survey, we provide an exhaustive overview of existing methods using diffusion models for image editing, covering both theoretical and practical aspects in the field.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-model-based-image-editing-a-survey</guid>
+    </item>
+    <item>
+      <title>Neural Network Diffusion</title>
+      <link>https://paperswithcode.com/paper/neural-network-diffusion</link>
+      <description><![CDATA[The autoencoder extracts latent representations of a subset of the trained network parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-network-diffusion</guid>
     </item>
     <item>
       <title>Craftax: A Lightning-Fast Benchmark for Open-Ended Reinforcement Learning</title>
@@ -109,24 +127,6 @@
       <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
       <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
-    </item>
-    <item>
-      <title>MambaIR: A Simple Baseline for Image Restoration with State-Space Model</title>
-      <link>https://paperswithcode.com/paper/mambair-a-simple-baseline-for-image</link>
-      <description><![CDATA[Recent years have witnessed great progress in image restoration thanks to the advancements in modern deep neural networks e. g. Convolutional Neural Network and Transformer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mambair-a-simple-baseline-for-image</guid>
-    </item>
-    <item>
-      <title>EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</title>
-      <link>https://paperswithcode.com/paper/efficientsam-leveraged-masked-image</link>
-      <description><![CDATA[On segment anything task such as zero-shot instance segmentation, our EfficientSAMs with SAMI-pretrained lightweight image encoders perform favorably with a significant gain (e. g., ~4 AP on COCO/LVIS) over other fast SAM models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficientsam-leveraged-masked-image</guid>
-    </item>
-    <item>
-      <title>Long-Context Language Modeling with Parallel Context Encoding</title>
-      <link>https://paperswithcode.com/paper/long-context-language-modeling-with-parallel</link>
-      <description><![CDATA[We further introduce a CEPE variant that can extend the context window of instruction-tuned models with only unlabeled data, and showcase its effectiveness on LLAMA-2-CHAT, leading to a strong instruction-following model that can leverage very long context on downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/long-context-language-modeling-with-parallel</guid>
     </item>
   </channel>
 </rss>
