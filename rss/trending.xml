@@ -7,18 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Mar 2024 11:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 21:07:31 +0000</lastBuildDate>
     <item>
       <title>Transparent Image Layer Diffusion using Latent Transparency</title>
       <link>https://paperswithcode.com/paper/transparent-image-layer-diffusion-using</link>
       <description><![CDATA[We show that latent transparency can be applied to different open source image generators, or be adapted to various conditional control systems to achieve applications like foreground/background-conditioned layer generation, joint layer generation, structural control of layer contents, etc.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/transparent-image-layer-diffusion-using</guid>
-    </item>
-    <item>
-      <title>DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/distrifusion-distributed-parallel-inference</link>
-      <description><![CDATA[To overcome this dilemma, we observe the high similarity between the input from adjacent diffusion steps and propose displaced patch parallelism, which takes advantage of the sequential nature of the diffusion process by reusing the pre-computed feature maps from the previous timestep to provide context for the current step.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distrifusion-distributed-parallel-inference</guid>
     </item>
     <item>
       <title>Intent-based Prompt Calibration: Enhancing prompt optimization with synthetic boundary cases</title>
@@ -127,6 +121,12 @@
       <link>https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</link>
       <description><![CDATA[We explore a new class of diffusion models based on the transformer architecture.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers</guid>
+    </item>
+    <item>
+      <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
+      <link>https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</link>
+      <description><![CDATA[In this work, we address various segmentation tasks, each traditionally tackled by distinct or partially unified models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
     </item>
   </channel>
 </rss>
