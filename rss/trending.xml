@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Mar 2024 21:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 09:12:09 +0000</lastBuildDate>
+    <item>
+      <title>Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small</title>
+      <link>https://paperswithcode.com/paper/interpretability-in-the-wild-a-circuit-for</link>
+      <description><![CDATA[Research in mechanistic interpretability seeks to explain behaviors of machine learning models in terms of their internal components.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interpretability-in-the-wild-a-circuit-for</guid>
+    </item>
     <item>
       <title>DeepSeek-VL: Towards Real-World Vision-Language Understanding</title>
       <link>https://paperswithcode.com/paper/deepseek-vl-towards-real-world-vision</link>
@@ -15,22 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-vl-towards-real-world-vision</guid>
     </item>
     <item>
-      <title>TripoSR: Fast 3D Object Reconstruction from a Single Image</title>
-      <link>https://paperswithcode.com/paper/triposr-fast-3d-object-reconstruction-from-a</link>
-      <description><![CDATA[This technical report introduces TripoSR, a 3D reconstruction model leveraging transformer architecture for fast feed-forward 3D generation, producing 3D mesh from a single image in under 0. 5 seconds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/triposr-fast-3d-object-reconstruction-from-a</guid>
-    </item>
-    <item>
       <title>VideoMamba: State Space Model for Efficient Video Understanding</title>
       <link>https://paperswithcode.com/paper/videomamba-state-space-model-for-efficient</link>
       <description><![CDATA[Addressing the dual challenges of local redundancy and global dependencies in video understanding, this work innovatively adapts the Mamba to the video domain.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/videomamba-state-space-model-for-efficient</guid>
-    </item>
-    <item>
-      <title>GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection</title>
-      <link>https://paperswithcode.com/paper/galore-memory-efficient-llm-training-by</link>
-      <description><![CDATA[Our approach reduces memory usage by up to 65. 5% in optimizer states while maintaining both efficiency and performance for pre-training on LLaMA 1B and 7B architectures with C4 dataset with up to 19. 7B tokens, and on fine-tuning RoBERTa on GLUE tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/galore-memory-efficient-llm-training-by</guid>
     </item>
     <item>
       <title>V3D: Video Diffusion Models are Effective 3D Generators</title>
@@ -45,10 +39,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/extreme-compression-of-large-language-models</guid>
     </item>
     <item>
+      <title>TripoSR: Fast 3D Object Reconstruction from a Single Image</title>
+      <link>https://paperswithcode.com/paper/triposr-fast-3d-object-reconstruction-from-a</link>
+      <description><![CDATA[This technical report introduces TripoSR, a 3D reconstruction model leveraging transformer architecture for fast feed-forward 3D generation, producing 3D mesh from a single image in under 0. 5 seconds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/triposr-fast-3d-object-reconstruction-from-a</guid>
+    </item>
+    <item>
+      <title>DragAnything: Motion Control for Anything using Entity Representation</title>
+      <link>https://paperswithcode.com/paper/draganything-motion-control-for-anything</link>
+      <description><![CDATA[We introduce DragAnything, which utilizes a entity representation to achieve motion control for any object in controllable video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/draganything-motion-control-for-anything</guid>
+    </item>
+    <item>
+      <title>GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection</title>
+      <link>https://paperswithcode.com/paper/galore-memory-efficient-llm-training-by</link>
+      <description><![CDATA[Our approach reduces memory usage by up to 65. 5% in optimizer states while maintaining both efficiency and performance for pre-training on LLaMA 1B and 7B architectures with C4 dataset with up to 19. 7B tokens, and on fine-tuning RoBERTa on GLUE tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/galore-memory-efficient-llm-training-by</guid>
+    </item>
+    <item>
       <title>SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting</title>
       <link>https://paperswithcode.com/paper/splattingavatar-realistic-real-time-human</link>
       <description><![CDATA[We present SplattingAvatar, a hybrid 3D representation of photorealistic human avatars with Gaussian Splatting embedded on a triangle mesh, which renders over 300 FPS on a modern GPU and 30 FPS on a mobile device.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/splattingavatar-realistic-real-time-human</guid>
+    </item>
+    <item>
+      <title>SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection</title>
+      <link>https://paperswithcode.com/paper/sardet-100k-towards-open-source-benchmark-and</link>
+      <description><![CDATA[To the best of our knowledge, SARDet-100K is the first COCO-level large-scale multi-class SAR object detection dataset ever created.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sardet-100k-towards-open-source-benchmark-and</guid>
     </item>
     <item>
       <title>Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling</title>
@@ -57,16 +75,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/animatable-gaussians-learning-pose-dependent</guid>
     </item>
     <item>
-      <title>VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/videoelevator-elevating-video-generation</link>
-      <description><![CDATA[Different from conventional T2V sampling (i. e., temporal and spatial modeling), VideoElevator explicitly decomposes each sampling step into temporal motion refining and spatial quality elevating.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videoelevator-elevating-video-generation</guid>
-    </item>
-    <item>
-      <title>NEFTune: Noisy Embeddings Improve Instruction Finetuning</title>
-      <link>https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</link>
-      <description><![CDATA[We show that language model finetuning can be improved, sometimes dramatically, with a simple augmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</guid>
+      <title>Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study</title>
+      <link>https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</link>
+      <description><![CDATA[Despite the success in specific tasks and scenarios, existing foundation agents, empowered by large models (LMs) and advanced tools, still cannot generalize to different scenarios, mainly due to dramatic differences in the observations and actions across scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</guid>
     </item>
     <item>
       <title>OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on</title>
@@ -75,22 +87,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ootdiffusion-outfitting-fusion-based-latent</guid>
     </item>
     <item>
+      <title>MoAI: Mixture of All Intelligence for Large Language and Vision Models</title>
+      <link>https://paperswithcode.com/paper/moai-mixture-of-all-intelligence-for-large</link>
+      <description><![CDATA[Therefore, we present a new LLVM, Mixture of All Intelligence (MoAI), which leverages auxiliary visual information obtained from the outputs of external segmentation, detection, SGG, and OCR models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moai-mixture-of-all-intelligence-for-large</guid>
+    </item>
+    <item>
       <title>VeCLIP: Improving CLIP Training via Visual-enriched Captions</title>
       <link>https://paperswithcode.com/paper/from-scarcity-to-efficiency-improving-clip</link>
       <description><![CDATA[For example, VeCLIP achieves up to +25. 2% gain in COCO and Flickr30k retrieval tasks under the 12M setting.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/from-scarcity-to-efficiency-improving-clip</guid>
     </item>
     <item>
-      <title>GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer</title>
-      <link>https://paperswithcode.com/paper/gliner-generalist-model-for-named-entity</link>
-      <description><![CDATA[Named Entity Recognition (NER) is essential in various Natural Language Processing (NLP) applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gliner-generalist-model-for-named-entity</guid>
+      <title>NEFTune: Noisy Embeddings Improve Instruction Finetuning</title>
+      <link>https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</link>
+      <description><![CDATA[We show that language model finetuning can be improved, sometimes dramatically, with a simple augmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neftune-noisy-embeddings-improve-instruction</guid>
     </item>
     <item>
-      <title>Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study</title>
-      <link>https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</link>
-      <description><![CDATA[Despite the success in specific tasks and scenarios, existing foundation agents, empowered by large models (LMs) and advanced tools, still cannot generalize to different scenarios, mainly due to dramatic differences in the observations and actions across scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</guid>
+      <title>An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models</title>
+      <link>https://paperswithcode.com/paper/an-image-is-worth-1-2-tokens-after-layer-2</link>
+      <description><![CDATA[To this end, we introduce FastV, a versatile plug-and-play method designed to optimize computational efficiency by learning adaptive attention patterns in early layers and pruning visual tokens in subsequent ones.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-image-is-worth-1-2-tokens-after-layer-2</guid>
     </item>
     <item>
       <title>MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis</title>
@@ -99,34 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/migc-multi-instance-generation-controller-for</guid>
     </item>
     <item>
-      <title>3D Diffusion Policy</title>
-      <link>https://paperswithcode.com/paper/3d-diffusion-policy</link>
-      <description><![CDATA[Imitation learning provides an efficient way to teach robots dexterous skills; however, learning complex skills robustly and generalizablely usually consumes large amounts of human demonstrations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-diffusion-policy</guid>
-    </item>
-    <item>
       <title>DUSt3R: Geometric 3D Vision Made Easy</title>
       <link>https://paperswithcode.com/paper/dust3r-geometric-3d-vision-made-easy</link>
       <description><![CDATA[Our formulation directly provides a 3D model of the scene as well as depth information, but interestingly, we can seamlessly recover from it, pixel matches, relative and absolute camera.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dust3r-geometric-3d-vision-made-easy</guid>
     </item>
     <item>
-      <title>ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/resadapter-domain-consistent-resolution</link>
-      <description><![CDATA[Especially, after learning a deep understanding of pure resolution priors, ResAdapter trained on the general dataset, generates resolution-free images with personalized diffusion models while preserving their original style domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/resadapter-domain-consistent-resolution</guid>
-    </item>
-    <item>
-      <title>GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM</title>
-      <link>https://paperswithcode.com/paper/gear-an-efficient-kv-cache-compression</link>
-      <description><![CDATA[Key-value (KV) caching has become the de-facto to accelerate generation speed for large language models (LLMs) inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gear-an-efficient-kv-cache-compression</guid>
-    </item>
-    <item>
-      <title>Accelerating Self-Play Learning in Go</title>
-      <link>https://paperswithcode.com/paper/accelerating-self-play-learning-in-go</link>
-      <description><![CDATA[By introducing several improvements to the AlphaZero process and architecture, we greatly accelerate self-play learning in Go, achieving a 50x reduction in computation over comparable methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/accelerating-self-play-learning-in-go</guid>
+      <title>VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/videoelevator-elevating-video-generation</link>
+      <description><![CDATA[Different from conventional T2V sampling (i. e., temporal and spatial modeling), VideoElevator explicitly decomposes each sampling step into temporal motion refining and spatial quality elevating.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videoelevator-elevating-video-generation</guid>
     </item>
   </channel>
 </rss>
