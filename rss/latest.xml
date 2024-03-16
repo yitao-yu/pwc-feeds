@@ -7,126 +7,54 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Mar 2024 09:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 21:06:01 +0000</lastBuildDate>
     <item>
-      <title>Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision</title>
-      <link>https://paperswithcode.com/paper/easy-to-hard-generalization-scalable</link>
-      <description><![CDATA[This paper answers this question in the context of tackling hard reasoning tasks (e. g., level 4-5 MATH problems) via learning from human annotations on easier tasks (e. g., level 1-3 MATH problems), which we term as \textit{easy-to-hard generalization}.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easy-to-hard-generalization-scalable</guid>
+      <title>LocalMamba: Visual State Space Model with Windowed Selective Scan</title>
+      <link>https://paperswithcode.com/paper/localmamba-visual-state-space-model-with</link>
+      <description><![CDATA[This paper posits that the key to enhancing Vision Mamba (ViM) lies in optimizing scan directions for sequence modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/localmamba-visual-state-space-model-with</guid>
     </item>
     <item>
-      <title>Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing</title>
-      <link>https://paperswithcode.com/paper/eta-inversion-designing-an-optimal-eta</link>
-      <description><![CDATA[A commonly adopted strategy for editing real images involves inverting the diffusion process to obtain a noisy representation of the original image, which is then denoised to achieve the desired edits.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eta-inversion-designing-an-optimal-eta</guid>
+      <title>Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training</title>
+      <link>https://paperswithcode.com/paper/reawakening-knowledge-anticipatory-recovery</link>
+      <description><![CDATA[We explore the training dynamics of neural networks in a structured non-IID setting where documents are presented cyclically in a fixed, repeated sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reawakening-knowledge-anticipatory-recovery</guid>
     </item>
     <item>
-      <title>Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency</title>
-      <link>https://paperswithcode.com/paper/adversarial-fine-tuning-of-compressed-neural</link>
-      <description><![CDATA[We present experiments on two benchmark datasets showing that adversarial fine-tuning of compressed models can achieve robustness performance comparable to adversarially trained models, while also improving computational efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-fine-tuning-of-compressed-neural</guid>
+      <title>Unveiling the Generalization Power of Fine-Tuned Large Language Models</title>
+      <link>https://paperswithcode.com/paper/unveiling-the-generalization-power-of-fine</link>
+      <description><![CDATA[While Large Language Models (LLMs) have demonstrated exceptional multitasking abilities, fine-tuning these models on downstream, domain-specific datasets is often necessary to yield superior performance on test sets compared to their counterparts without fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unveiling-the-generalization-power-of-fine</guid>
     </item>
     <item>
-      <title>Score-Guided Diffusion for 3D Human Recovery</title>
-      <link>https://paperswithcode.com/paper/score-guided-diffusion-for-3d-human-recovery</link>
-      <description><![CDATA[We present Score-Guided Human Mesh Recovery (ScoreHMR), an approach for solving inverse problems for 3D human pose and shape reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/score-guided-diffusion-for-3d-human-recovery</guid>
+      <title>Uncertainty Quantification for cross-subject Motor Imagery classification</title>
+      <link>https://paperswithcode.com/paper/uncertainty-quantification-for-cross-subject</link>
+      <description><![CDATA[We applied a variety of Uncertainty Quantification methods to predict misclassifications for a Motor Imagery Brain Computer Interface.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uncertainty-quantification-for-cross-subject</guid>
     </item>
     <item>
-      <title>TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Sematic Tasks</title>
-      <link>https://paperswithcode.com/paper/taxollama-wordnet-based-model-for-solving</link>
-      <description><![CDATA[It achieves 11 SotA results, 4 top-2 results out of 16 tasks for the Taxonomy Enrichment, Hypernym Discovery, Taxonomy Construction, and Lexical Entailment tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taxollama-wordnet-based-model-for-solving</guid>
+      <title>BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences</title>
+      <link>https://paperswithcode.com/paper/burstattention-an-efficient-distributed</link>
+      <description><![CDATA[Effective attention modules have played a crucial role in the success of Transformer-based large language models (LLMs), but the quadratic time and memory complexities of these attention modules also pose a challenge when processing long sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/burstattention-an-efficient-distributed</guid>
     </item>
     <item>
-      <title>VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/vm-unet-v2-rethinking-vision-mamba-unet-for</link>
-      <description><![CDATA[In the field of medical image segmentation, models based on both CNN and Transformer have been thoroughly investigated.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vm-unet-v2-rethinking-vision-mamba-unet-for</guid>
-    </item>
-    <item>
-      <title>Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability</title>
-      <link>https://paperswithcode.com/paper/breast-cancer-classification-using-gradient</link>
-      <description><![CDATA[The main objective of this study is to use state-of-the-art boosting algorithms such as AdaBoost, XGBoost, CatBoost and LightGBM to predict and diagnose breast cancer and to find the most effective metric regarding recall, ROC-AUC, and confusion matrix.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/breast-cancer-classification-using-gradient</guid>
-    </item>
-    <item>
-      <title>EventRPG: Event Data Augmentation with Relevance Propagation Guidance</title>
-      <link>https://paperswithcode.com/paper/eventrpg-event-data-augmentation-with</link>
-      <description><![CDATA[Based on this, we propose EventRPG, which leverages relevance propagation on the spiking neural network for more efficient augmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eventrpg-event-data-augmentation-with</guid>
-    </item>
-    <item>
-      <title>uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures</title>
-      <link>https://paperswithcode.com/paper/uamix-mae-efficient-tuning-of-pretrained</link>
-      <description><![CDATA[Masked Autoencoders (MAEs) learn rich low-level representations from unlabeled data but require substantial labeled data to effectively adapt to downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uamix-mae-efficient-tuning-of-pretrained</guid>
-    </item>
-    <item>
-      <title>OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments</title>
-      <link>https://paperswithcode.com/paper/opengraph-open-vocabulary-hierarchical-3d</link>
-      <description><![CDATA[Environment maps endowed with sophisticated semantics are pivotal for facilitating seamless interaction between robots and humans, enabling them to effectively carry out various tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/opengraph-open-vocabulary-hierarchical-3d</guid>
-    </item>
-    <item>
-      <title>Counterfactual contrastive learning: robust representations via causal image synthesis</title>
-      <link>https://paperswithcode.com/paper/counterfactual-contrastive-learning-robust</link>
-      <description><![CDATA[Contrastive pretraining is well-known to improve downstream task performance and model generalisation, especially in limited label settings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactual-contrastive-learning-robust</guid>
-    </item>
-    <item>
-      <title>CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification</title>
-      <link>https://paperswithcode.com/paper/cardiocaps-attention-based-capsule-network</link>
-      <description><![CDATA[In this paper, we explore the potential of DR-CapsNets and propose CardioCaps, a novel attention-based DR-CapsNet architecture for class-imbalanced echocardiogram classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cardiocaps-attention-based-capsule-network</guid>
-    </item>
-    <item>
-      <title>Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</link>
-      <description><![CDATA[Through extensive analysis of SfM initialization in the frequency domain and analysis of a 1D regression task with multiple 1D Gaussians, we propose a novel optimization strategy dubbed RAIN-GS (Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting), that successfully trains 3D Gaussians from random point clouds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</guid>
-    </item>
-    <item>
-      <title>Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition</title>
-      <link>https://paperswithcode.com/paper/don-t-judge-by-the-look-a-motion-coherent</link>
-      <description><![CDATA[Current training pipelines in object recognition neglect Hue Jittering when doing data augmentation as it not only brings appearance changes that are detrimental to classification, but also the implementation is inefficient in practice.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/don-t-judge-by-the-look-a-motion-coherent</guid>
-    </item>
-    <item>
-      <title>Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection</title>
-      <link>https://paperswithcode.com/paper/knowledge-distillation-in-yolox-vit-for-side</link>
-      <description><![CDATA[In this paper we present YOLOX-ViT, a novel object detection model, and investigate the efficacy of knowledge distillation for model size reduction without sacrificing performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/knowledge-distillation-in-yolox-vit-for-side</guid>
-    </item>
-    <item>
-      <title>D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection</title>
-      <link>https://paperswithcode.com/paper/d3t-distinctive-dual-domain-teacher</link>
-      <description><![CDATA[However, there are limited studies on adapting from the visible to the thermal domain, because the domain gap between the visible and thermal domains is much larger than expected, and traditional domain adaptation can not successfully facilitate learning in this situation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/d3t-distinctive-dual-domain-teacher</guid>
-    </item>
-    <item>
-      <title>SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams</title>
-      <link>https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from</link>
-      <description><![CDATA[Our approach begins with the formulation of a spike-guided deblurring model that explores the theoretical relationships among spike streams, blurry images, and their corresponding sharp sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from</guid>
-    </item>
-    <item>
-      <title>SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios</title>
-      <link>https://paperswithcode.com/paper/sd-net-symmetric-aware-keypoint-prediction</link>
-      <description><![CDATA[Specifically, at the keypoint prediction stage, we designe a robust 3D keypoints selection strategy considering the symmetry class of objects and equivalent keypoints, which facilitate locating 3D keypoints even in highly occluded scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sd-net-symmetric-aware-keypoint-prediction</guid>
-    </item>
-    <item>
-      <title>Single Domain Generalization for Crowd Counting</title>
-      <link>https://paperswithcode.com/paper/single-domain-generalization-for-crowd</link>
-      <description><![CDATA[We propose MPCount, a novel SDG approach effective even for narrow source distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/single-domain-generalization-for-crowd</guid>
+      <title>Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring</title>
+      <link>https://paperswithcode.com/paper/griffon-v2-advancing-multimodal-perception</link>
+      <description><![CDATA[Large Vision Language Models have achieved fine-grained object perception, but the limitation of image resolution remains a significant obstacle to surpass the performance of task-specific experts in complex and dense scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/griffon-v2-advancing-multimodal-perception</guid>
     </item>
     <item>
       <title>DiTMoS: Delving into Diverse Tiny-Model Selection on Microcontrollers</title>
       <link>https://paperswithcode.com/paper/ditmos-delving-into-diverse-tiny-model</link>
       <description><![CDATA[Enabling efficient and accurate deep neural network (DNN) inference on microcontrollers is non-trivial due to the constrained on-chip resources.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ditmos-delving-into-diverse-tiny-model</guid>
+    </item>
+    <item>
+      <title>Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models</title>
+      <link>https://paperswithcode.com/paper/transformers-get-stable-an-end-to-end-signal</link>
+      <description><![CDATA[In spite of their huge success, transformer models remain difficult to scale in depth.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-get-stable-an-end-to-end-signal</guid>
     </item>
     <item>
       <title>Explorations in Texture Learning</title>
@@ -141,22 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/git-towards-generalist-vision-transformer</guid>
     </item>
     <item>
-      <title>Gradient-Aware Logit Adjustment Loss for Long-tailed Classifier</title>
-      <link>https://paperswithcode.com/paper/gradient-aware-logit-adjustment-loss-for-long</link>
-      <description><![CDATA[Additionally, We find that most of the solutions to long-tailed problems are still biased towards head classes in the end, and we propose a simple and post hoc prediction re-balancing strategy to further mitigate the basis toward head class.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gradient-aware-logit-adjustment-loss-for-long</guid>
-    </item>
-    <item>
-      <title>S^2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering</title>
-      <link>https://paperswithcode.com/paper/s-2mvtc-a-simple-yet-efficient-scalable-multi</link>
-      <description><![CDATA[Specifically, we first construct the embedding feature tensor by stacking the embedding features of different views into a tensor and rotating it.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/s-2mvtc-a-simple-yet-efficient-scalable-multi</guid>
-    </item>
-    <item>
-      <title>Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models</title>
-      <link>https://paperswithcode.com/paper/transformers-get-stable-an-end-to-end-signal</link>
-      <description><![CDATA[In spite of their huge success, transformer models remain difficult to scale in depth.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-get-stable-an-end-to-end-signal</guid>
+      <title>Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding</title>
+      <link>https://paperswithcode.com/paper/video-mamba-suite-state-space-model-as-a</link>
+      <description><![CDATA[We categorize Mamba into four roles for modeling videos, deriving a Video Mamba Suite composed of 14 models/modules, and evaluating them on 12 video understanding tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/video-mamba-suite-state-space-model-as-a</guid>
     </item>
     <item>
       <title>When Semantic Segmentation Meets Frequency Aliasing</title>
@@ -165,28 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/when-semantic-segmentation-meets-frequency</guid>
     </item>
     <item>
-      <title>Unveiling the Generalization Power of Fine-Tuned Large Language Models</title>
-      <link>https://paperswithcode.com/paper/unveiling-the-generalization-power-of-fine</link>
-      <description><![CDATA[While Large Language Models (LLMs) have demonstrated exceptional multitasking abilities, fine-tuning these models on downstream, domain-specific datasets is often necessary to yield superior performance on test sets compared to their counterparts without fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unveiling-the-generalization-power-of-fine</guid>
-    </item>
-    <item>
-      <title>Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training</title>
-      <link>https://paperswithcode.com/paper/reawakening-knowledge-anticipatory-recovery</link>
-      <description><![CDATA[We explore the training dynamics of neural networks in a structured non-IID setting where documents are presented cyclically in a fixed, repeated sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reawakening-knowledge-anticipatory-recovery</guid>
-    </item>
-    <item>
-      <title>Uncertainty Quantification for cross-subject Motor Imagery classification</title>
-      <link>https://paperswithcode.com/paper/uncertainty-quantification-for-cross-subject</link>
-      <description><![CDATA[We applied a variety of Uncertainty Quantification methods to predict misclassifications for a Motor Imagery Brain Computer Interface.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uncertainty-quantification-for-cross-subject</guid>
-    </item>
-    <item>
-      <title>LocalMamba: Visual State Space Model with Windowed Selective Scan</title>
-      <link>https://paperswithcode.com/paper/localmamba-visual-state-space-model-with</link>
-      <description><![CDATA[This paper posits that the key to enhancing Vision Mamba (ViM) lies in optimizing scan directions for sequence modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/localmamba-visual-state-space-model-with</guid>
+      <title>S^2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering</title>
+      <link>https://paperswithcode.com/paper/s-2mvtc-a-simple-yet-efficient-scalable-multi</link>
+      <description><![CDATA[Specifically, we first construct the embedding feature tensor by stacking the embedding features of different views into a tensor and rotating it.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s-2mvtc-a-simple-yet-efficient-scalable-multi</guid>
     </item>
     <item>
       <title>CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences</title>
@@ -195,16 +93,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/codeultrafeedback-an-llm-as-a-judge-dataset</guid>
     </item>
     <item>
-      <title>Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding</title>
-      <link>https://paperswithcode.com/paper/video-mamba-suite-state-space-model-as-a</link>
-      <description><![CDATA[We categorize Mamba into four roles for modeling videos, deriving a Video Mamba Suite composed of 14 models/modules, and evaluating them on 12 video understanding tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/video-mamba-suite-state-space-model-as-a</guid>
+      <title>Are Vision Language Models Texture or Shape Biased and Can We Steer Them?</title>
+      <link>https://paperswithcode.com/paper/are-vision-language-models-texture-or-shape</link>
+      <description><![CDATA[If text does indeed influence visual biases, this suggests that we may be able to steer visual biases not just through visual input but also through language: a hypothesis that we confirm through extensive experiments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/are-vision-language-models-texture-or-shape</guid>
     </item>
     <item>
-      <title>BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences</title>
-      <link>https://paperswithcode.com/paper/burstattention-an-efficient-distributed</link>
-      <description><![CDATA[Effective attention modules have played a crucial role in the success of Transformer-based large language models (LLMs), but the quadratic time and memory complexities of these attention modules also pose a challenge when processing long sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/burstattention-an-efficient-distributed</guid>
+      <title>EventRPG: Event Data Augmentation with Relevance Propagation Guidance</title>
+      <link>https://paperswithcode.com/paper/eventrpg-event-data-augmentation-with</link>
+      <description><![CDATA[Based on this, we propose EventRPG, which leverages relevance propagation on the spiking neural network for more efficient augmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eventrpg-event-data-augmentation-with</guid>
+    </item>
+    <item>
+      <title>Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision</title>
+      <link>https://paperswithcode.com/paper/easy-to-hard-generalization-scalable</link>
+      <description><![CDATA[This paper answers this question in the context of tackling hard reasoning tasks (e. g., level 4-5 MATH problems) via learning from human annotations on easier tasks (e. g., level 1-3 MATH problems), which we term as \textit{easy-to-hard generalization}.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easy-to-hard-generalization-scalable</guid>
+    </item>
+    <item>
+      <title>Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing</title>
+      <link>https://paperswithcode.com/paper/eta-inversion-designing-an-optimal-eta</link>
+      <description><![CDATA[A commonly adopted strategy for editing real images involves inverting the diffusion process to obtain a noisy representation of the original image, which is then denoised to achieve the desired edits.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eta-inversion-designing-an-optimal-eta</guid>
+    </item>
+    <item>
+      <title>CardioCaps: Attention-based Capsule Network for Class-Imbalanced Echocardiogram Classification</title>
+      <link>https://paperswithcode.com/paper/cardiocaps-attention-based-capsule-network</link>
+      <description><![CDATA[In this paper, we explore the potential of DR-CapsNets and propose CardioCaps, a novel attention-based DR-CapsNet architecture for class-imbalanced echocardiogram classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cardiocaps-attention-based-capsule-network</guid>
     </item>
     <item>
       <title>SELECTOR: Heterogeneous graph network with convolutional masked autoencoder for multimodal robust prediction of cancer survival</title>
@@ -213,16 +129,88 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/selector-heterogeneous-graph-network-with</guid>
     </item>
     <item>
+      <title>Recursive Causal Discovery</title>
+      <link>https://paperswithcode.com/paper/recursive-causal-discovery</link>
+      <description><![CDATA[Presence and identification of removable variables allow recursive approaches for causal discovery, a promising solution that helps to address the aforementioned challenges by reducing the problem size successively.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/recursive-causal-discovery</guid>
+    </item>
+    <item>
       <title>Towards a theory of model distillation</title>
       <link>https://paperswithcode.com/paper/towards-a-theory-of-model-distillation</link>
       <description><![CDATA[Distillation is the task of replacing a complicated machine learning model with a simpler model that approximates the original [BCNM06, HVD15].]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-theory-of-model-distillation</guid>
     </item>
     <item>
-      <title>Recursive Causal Discovery</title>
-      <link>https://paperswithcode.com/paper/recursive-causal-discovery</link>
-      <description><![CDATA[Presence and identification of removable variables allow recursive approaches for causal discovery, a promising solution that helps to address the aforementioned challenges by reducing the problem size successively.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/recursive-causal-discovery</guid>
+      <title>Faceptor: A Generalist Model for Face Perception</title>
+      <link>https://paperswithcode.com/paper/faceptor-a-generalist-model-for-face</link>
+      <description><![CDATA[This design enhances the unification of model structure while improving application efficiency in terms of storage overhead.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/faceptor-a-generalist-model-for-face</guid>
+    </item>
+    <item>
+      <title>Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency</title>
+      <link>https://paperswithcode.com/paper/adversarial-fine-tuning-of-compressed-neural</link>
+      <description><![CDATA[We present experiments on two benchmark datasets showing that adversarial fine-tuning of compressed models can achieve robustness performance comparable to adversarially trained models, while also improving computational efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adversarial-fine-tuning-of-compressed-neural</guid>
+    </item>
+    <item>
+      <title>Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition</title>
+      <link>https://paperswithcode.com/paper/don-t-judge-by-the-look-a-motion-coherent</link>
+      <description><![CDATA[Current training pipelines in object recognition neglect Hue Jittering when doing data augmentation as it not only brings appearance changes that are detrimental to classification, but also the implementation is inefficient in practice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/don-t-judge-by-the-look-a-motion-coherent</guid>
+    </item>
+    <item>
+      <title>Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</link>
+      <description><![CDATA[Through extensive analysis of SfM initialization in the frequency domain and analysis of a 1D regression task with multiple 1D Gaussians, we propose a novel optimization strategy dubbed RAIN-GS (Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting), that successfully trains 3D Gaussians from random point clouds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</guid>
+    </item>
+    <item>
+      <title>Single Domain Generalization for Crowd Counting</title>
+      <link>https://paperswithcode.com/paper/single-domain-generalization-for-crowd</link>
+      <description><![CDATA[We propose MPCount, a novel SDG approach effective even for narrow source distribution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/single-domain-generalization-for-crowd</guid>
+    </item>
+    <item>
+      <title>D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection</title>
+      <link>https://paperswithcode.com/paper/d3t-distinctive-dual-domain-teacher</link>
+      <description><![CDATA[However, there are limited studies on adapting from the visible to the thermal domain, because the domain gap between the visible and thermal domains is much larger than expected, and traditional domain adaptation can not successfully facilitate learning in this situation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/d3t-distinctive-dual-domain-teacher</guid>
+    </item>
+    <item>
+      <title>SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams</title>
+      <link>https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from</link>
+      <description><![CDATA[Our approach begins with the formulation of a spike-guided deblurring model that explores the theoretical relationships among spike streams, blurry images, and their corresponding sharp sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from</guid>
+    </item>
+    <item>
+      <title>Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection</title>
+      <link>https://paperswithcode.com/paper/knowledge-distillation-in-yolox-vit-for-side</link>
+      <description><![CDATA[In this paper we present YOLOX-ViT, a novel object detection model, and investigate the efficacy of knowledge distillation for model size reduction without sacrificing performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/knowledge-distillation-in-yolox-vit-for-side</guid>
+    </item>
+    <item>
+      <title>SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios</title>
+      <link>https://paperswithcode.com/paper/sd-net-symmetric-aware-keypoint-prediction</link>
+      <description><![CDATA[Specifically, at the keypoint prediction stage, we designe a robust 3D keypoints selection strategy considering the symmetry class of objects and equivalent keypoints, which facilitate locating 3D keypoints even in highly occluded scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sd-net-symmetric-aware-keypoint-prediction</guid>
+    </item>
+    <item>
+      <title>VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/vm-unet-v2-rethinking-vision-mamba-unet-for</link>
+      <description><![CDATA[In the field of medical image segmentation, models based on both CNN and Transformer have been thoroughly investigated.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vm-unet-v2-rethinking-vision-mamba-unet-for</guid>
+    </item>
+    <item>
+      <title>Score-Guided Diffusion for 3D Human Recovery</title>
+      <link>https://paperswithcode.com/paper/score-guided-diffusion-for-3d-human-recovery</link>
+      <description><![CDATA[We present Score-Guided Human Mesh Recovery (ScoreHMR), an approach for solving inverse problems for 3D human pose and shape reconstruction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/score-guided-diffusion-for-3d-human-recovery</guid>
+    </item>
+    <item>
+      <title>TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Sematic Tasks</title>
+      <link>https://paperswithcode.com/paper/taxollama-wordnet-based-model-for-solving</link>
+      <description><![CDATA[It achieves 11 SotA results, 4 top-2 results out of 16 tasks for the Taxonomy Enrichment, Hypernym Discovery, Taxonomy Construction, and Lexical Entailment tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taxollama-wordnet-based-model-for-solving</guid>
     </item>
     <item>
       <title>StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control</title>
@@ -237,76 +225,88 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pantypes-diverse-representatives-for-self</guid>
     </item>
     <item>
-      <title>Faceptor: A Generalist Model for Face Perception</title>
-      <link>https://paperswithcode.com/paper/faceptor-a-generalist-model-for-face</link>
-      <description><![CDATA[This design enhances the unification of model structure while improving application efficiency in terms of storage overhead.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/faceptor-a-generalist-model-for-face</guid>
+      <title>Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability</title>
+      <link>https://paperswithcode.com/paper/breast-cancer-classification-using-gradient</link>
+      <description><![CDATA[The main objective of this study is to use state-of-the-art boosting algorithms such as AdaBoost, XGBoost, CatBoost and LightGBM to predict and diagnose breast cancer and to find the most effective metric regarding recall, ROC-AUC, and confusion matrix.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/breast-cancer-classification-using-gradient</guid>
     </item>
     <item>
-      <title>Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring</title>
-      <link>https://paperswithcode.com/paper/griffon-v2-advancing-multimodal-perception</link>
-      <description><![CDATA[Large Vision Language Models have achieved fine-grained object perception, but the limitation of image resolution remains a significant obstacle to surpass the performance of task-specific experts in complex and dense scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/griffon-v2-advancing-multimodal-perception</guid>
+      <title>Gradient-Aware Logit Adjustment Loss for Long-tailed Classifier</title>
+      <link>https://paperswithcode.com/paper/gradient-aware-logit-adjustment-loss-for-long</link>
+      <description><![CDATA[Additionally, We find that most of the solutions to long-tailed problems are still biased towards head classes in the end, and we propose a simple and post hoc prediction re-balancing strategy to further mitigate the basis toward head class.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gradient-aware-logit-adjustment-loss-for-long</guid>
     </item>
     <item>
-      <title>AcademiaOS: Automating Grounded Theory Development in Qualitative Research with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/academiaos-automating-grounded-theory</link>
-      <description><![CDATA[AcademiaOS is a first attempt to automate grounded theory development in qualitative research with large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/academiaos-automating-grounded-theory</guid>
+      <title>uaMix-MAE: Efficient Tuning of Pretrained Audio Transformers with Unsupervised Audio Mixtures</title>
+      <link>https://paperswithcode.com/paper/uamix-mae-efficient-tuning-of-pretrained</link>
+      <description><![CDATA[Masked Autoencoders (MAEs) learn rich low-level representations from unlabeled data but require substantial labeled data to effectively adapt to downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uamix-mae-efficient-tuning-of-pretrained</guid>
     </item>
     <item>
-      <title>PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models</title>
-      <link>https://paperswithcode.com/paper/paperclip-associating-astronomical</link>
-      <description><![CDATA[We present PAPERCLIP (Proposal Abstracts Provide an Effective Representation for Contrastive Language-Image Pre-training), a method which associates astronomical observations imaged by telescopes with natural language using a neural network model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paperclip-associating-astronomical</guid>
+      <title>SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition</title>
+      <link>https://paperswithcode.com/paper/skateformer-skeletal-temporal-transformer-for</link>
+      <description><![CDATA[We categorize the key skeletal-temporal relations for action recognition into a total of four distinct types.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skateformer-skeletal-temporal-transformer-for</guid>
     </item>
     <item>
-      <title>7T MRI Synthesization from 3T Acquisitions</title>
-      <link>https://paperswithcode.com/paper/7t-mri-synthesization-from-3t-acquisitions</link>
-      <description><![CDATA[We demonstrate that the V-Net based model has superior performance in enhancing both single-site and multi-site MRI datasets compared to the existing benchmark model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/7t-mri-synthesization-from-3t-acquisitions</guid>
+      <title>OpenGraph: Open-Vocabulary Hierarchical 3D Graph Representation in Large-Scale Outdoor Environments</title>
+      <link>https://paperswithcode.com/paper/opengraph-open-vocabulary-hierarchical-3d</link>
+      <description><![CDATA[Environment maps endowed with sophisticated semantics are pivotal for facilitating seamless interaction between robots and humans, enabling them to effectively carry out various tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/opengraph-open-vocabulary-hierarchical-3d</guid>
     </item>
     <item>
-      <title>Multiscale Low-Frequency Memory Network for Improved Feature Extraction in Convolutional Neural Networks</title>
-      <link>https://paperswithcode.com/paper/multiscale-low-frequency-memory-network-for</link>
-      <description><![CDATA[Responding to these complexities, we introduce a novel framework, the Multiscale Low-Frequency Memory (MLFM) Network, with the goal to harness the full potential of CNNs while keeping their complexity unchanged.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiscale-low-frequency-memory-network-for</guid>
+      <title>Counterfactual contrastive learning: robust representations via causal image synthesis</title>
+      <link>https://paperswithcode.com/paper/counterfactual-contrastive-learning-robust</link>
+      <description><![CDATA[Contrastive pretraining is well-known to improve downstream task performance and model generalisation, especially in limited label settings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactual-contrastive-learning-robust</guid>
     </item>
     <item>
-      <title>Mean-Field Microcanonical Gradient Descent</title>
-      <link>https://paperswithcode.com/paper/mean-field-microcanonical-gradient-descent</link>
-      <description><![CDATA[Microcanonical gradient descent is a sampling procedure for energy-based models allowing for efficient sampling of distributions in high dimension.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mean-field-microcanonical-gradient-descent</guid>
+      <title>LAFS: Landmark-based Facial Self-supervised Learning for Face Recognition</title>
+      <link>https://paperswithcode.com/paper/lafs-landmark-based-facial-self-supervised</link>
+      <description><![CDATA[This enables our method - namely LAndmark-based Facial Self-supervised learning LAFS), to learn key representation that is more critical for face recognition.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lafs-landmark-based-facial-self-supervised</guid>
     </item>
     <item>
-      <title>Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling</title>
-      <link>https://paperswithcode.com/paper/moments-of-clarity-streamlining-latent-spaces</link>
-      <description><![CDATA[Moment Pooling generalizes the summation in Deep Sets to arbitrary multivariate moments, which enables the model to achieve a much higher effective latent dimensionality for a fixed latent dimension.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moments-of-clarity-streamlining-latent-spaces</guid>
+      <title>MolBind: Multimodal Alignment of Language, Molecules, and Proteins</title>
+      <link>https://paperswithcode.com/paper/molbind-multimodal-alignment-of-language</link>
+      <description><![CDATA[Recent advancements in biology and chemistry have leveraged multi-modal learning, integrating molecules and their natural language descriptions to enhance drug discovery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/molbind-multimodal-alignment-of-language</guid>
     </item>
     <item>
-      <title>NLQxform-UI: A Natural Language Interface for Querying DBLP Interactively</title>
-      <link>https://paperswithcode.com/paper/nlqxform-ui-a-natural-language-interface-for</link>
-      <description><![CDATA[In recent years, the DBLP computer science bibliography has been prominently used for searching scholarly information, such as publications, scholars, and venues.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nlqxform-ui-a-natural-language-interface-for</guid>
+      <title>Can Large Language Models Identify Authorship?</title>
+      <link>https://paperswithcode.com/paper/can-large-language-models-identify-authorship</link>
+      <description><![CDATA[(3) How can LLMs provide explainability in authorship analysis, particularly through the role of linguistic features?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-large-language-models-identify-authorship</guid>
     </item>
     <item>
-      <title>Bugs in Large Language Models Generated Code</title>
-      <link>https://paperswithcode.com/paper/bugs-in-large-language-models-generated-code</link>
-      <description><![CDATA[The bug patterns are presented in the form of a taxonomy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bugs-in-large-language-models-generated-code</guid>
+      <title>CART: Caltech Aerial RGB-Thermal Dataset in the Wild</title>
+      <link>https://paperswithcode.com/paper/cart-caltech-aerial-rgb-thermal-dataset-in</link>
+      <description><![CDATA[We present the first publicly available RGB-thermal dataset designed for aerial robotics operating in natural environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cart-caltech-aerial-rgb-thermal-dataset-in</guid>
     </item>
     <item>
-      <title>FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders</title>
-      <link>https://paperswithcode.com/paper/focusmae-gallbladder-cancer-detection-from</link>
-      <description><![CDATA[We validate the proposed methods on the curated dataset, and report a new state-of-the-art (SOTA) accuracy of 96. 4% for the GBC detection problem, against an accuracy of 84% by current Image-based SOTA - GBCNet, and RadFormer, and 94. 7% by Video-based SOTA - AdaMAE.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/focusmae-gallbladder-cancer-detection-from</guid>
+      <title>JAXbind: Bind any function to JAX</title>
+      <link>https://paperswithcode.com/paper/jaxbind-bind-any-function-to-jax</link>
+      <description><![CDATA[JAX is widely used in machine learning and scientific computing, the latter of which often relies on existing high-performance code that we would ideally like to incorporate into JAX.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/jaxbind-bind-any-function-to-jax</guid>
     </item>
     <item>
-      <title>Diffusion Models with Implicit Guidance for Medical Anomaly Detection</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-with-implicit-guidance-for</link>
-      <description><![CDATA[Diffusion models have advanced unsupervised anomaly detection by improving the transformation of pathological images into pseudo-healthy equivalents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-with-implicit-guidance-for</guid>
+      <title>Structural Positional Encoding for knowledge integration in transformer-based medical process monitoring</title>
+      <link>https://paperswithcode.com/paper/structural-positional-encoding-for-knowledge</link>
+      <description><![CDATA[Predictive process monitoring is a process mining task aimed at forecasting information about a running process trace, such as the most correct next activity to be executed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/structural-positional-encoding-for-knowledge</guid>
+    </item>
+    <item>
+      <title>Autoregressive Score Generation for Multi-trait Essay Scoring</title>
+      <link>https://paperswithcode.com/paper/autoregressive-score-generation-for-multi</link>
+      <description><![CDATA[Recently, encoder-only pre-trained models such as BERT have been successfully applied in automated essay scoring (AES) to predict a single overall score.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-score-generation-for-multi</guid>
+    </item>
+    <item>
+      <title>MoleculeQA: A Dataset to Evaluate Factual Accuracy in Molecular Comprehension</title>
+      <link>https://paperswithcode.com/paper/moleculeqa-a-dataset-to-evaluate-factual</link>
+      <description><![CDATA[Large language models are playing an increasingly significant role in molecular research, yet existing models often generate erroneous information, posing challenges to accurate molecular comprehension.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moleculeqa-a-dataset-to-evaluate-factual</guid>
     </item>
   </channel>
 </rss>
