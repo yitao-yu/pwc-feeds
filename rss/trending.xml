@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 21:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 09:12:55 +0000</lastBuildDate>
     <item>
       <title>Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets</title>
       <link>https://paperswithcode.com/paper/grokking-generalization-beyond-overfitting-on</link>
@@ -33,28 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/follow-your-click-open-domain-regional-image</guid>
     </item>
     <item>
-      <title>Fast Inner-Product Algorithms and Architectures for Deep Neural Network Accelerators</title>
-      <link>https://paperswithcode.com/paper/fast-inner-product-algorithms-and</link>
-      <description><![CDATA[We introduce a new algorithm called the Free-pipeline Fast Inner Product (FFIP) and its hardware architecture that improve an under-explored fast inner-product algorithm (FIP) proposed by Winograd in 1968.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-inner-product-algorithms-and</guid>
-    </item>
-    <item>
-      <title>DeepSeek-VL: Towards Real-World Vision-Language Understanding</title>
-      <link>https://paperswithcode.com/paper/deepseek-vl-towards-real-world-vision</link>
-      <description><![CDATA[The DeepSeek-VL family (both 1. 3B and 7B models) showcases superior user experiences as a vision-language chatbot in real-world applications, achieving state-of-the-art or competitive performance across a wide range of visual-language benchmarks at the same model size while maintaining robust performance on language-centric benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-vl-towards-real-world-vision</guid>
-    </item>
-    <item>
-      <title>GiT: Towards Generalist Vision Transformer through Universal Language Interface</title>
-      <link>https://paperswithcode.com/paper/git-towards-generalist-vision-transformer</link>
-      <description><![CDATA[Due to its simple design, this paradigm holds promise for narrowing the architectural gap between vision and language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/git-towards-generalist-vision-transformer</guid>
-    </item>
-    <item>
-      <title>StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control</title>
-      <link>https://paperswithcode.com/paper/streammultidiffusion-real-time-interactive</link>
-      <description><![CDATA[The enormous success of diffusion models in text-to-image synthesis has made them promising candidates for the next generation of end-user applications for image generation and editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streammultidiffusion-real-time-interactive</guid>
+      <title>Less is More: Removing Text-regions Improves CLIP Training Efficiency and Robustness</title>
+      <link>https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</link>
+      <description><![CDATA[In this paper, we discuss two effective approaches to improve the efficiency and robustness of CLIP training: (1) augmenting the training dataset while maintaining the same number of optimization steps, and (2) filtering out samples that contain text regions in the image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</guid>
     </item>
     <item>
       <title>GSPMD: General and Scalable Parallelization for ML Computation Graphs</title>
@@ -63,28 +45,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gspmd-general-and-scalable-parallelization</guid>
     </item>
     <item>
-      <title>Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small</title>
-      <link>https://paperswithcode.com/paper/interpretability-in-the-wild-a-circuit-for</link>
-      <description><![CDATA[Research in mechanistic interpretability seeks to explain behaviors of machine learning models in terms of their internal components.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/interpretability-in-the-wild-a-circuit-for</guid>
-    </item>
-    <item>
-      <title>Less is More: Removing Text-regions Improves CLIP Training Efficiency and Robustness</title>
-      <link>https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</link>
-      <description><![CDATA[In this paper, we discuss two effective approaches to improve the efficiency and robustness of CLIP training: (1) augmenting the training dataset while maintaining the same number of optimization steps, and (2) filtering out samples that contain text regions in the image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</guid>
-    </item>
-    <item>
-      <title>pyvene: A Library for Understanding and Improving PyTorch Models via Interventions</title>
-      <link>https://paperswithcode.com/paper/pyvene-a-library-for-understanding-and</link>
-      <description><![CDATA[Interventions on model-internal states are fundamental operations in many areas of AI, including model editing, steering, robustness, and interpretability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pyvene-a-library-for-understanding-and</guid>
-    </item>
-    <item>
-      <title>Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</link>
-      <description><![CDATA[Through extensive analysis of SfM initialization in the frequency domain and analysis of a 1D regression task with multiple 1D Gaussians, we propose a novel optimization strategy dubbed RAIN-GS (Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting), that successfully trains 3D Gaussians from random point clouds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</guid>
+      <title>GiT: Towards Generalist Vision Transformer through Universal Language Interface</title>
+      <link>https://paperswithcode.com/paper/git-towards-generalist-vision-transformer</link>
+      <description><![CDATA[Due to its simple design, this paradigm holds promise for narrowing the architectural gap between vision and language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/git-towards-generalist-vision-transformer</guid>
     </item>
     <item>
       <title>Score-Guided Diffusion for 3D Human Recovery</title>
@@ -93,22 +57,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/score-guided-diffusion-for-3d-human-recovery</guid>
     </item>
     <item>
-      <title>OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on</title>
-      <link>https://paperswithcode.com/paper/ootdiffusion-outfitting-fusion-based-latent</link>
-      <description><![CDATA[We present OOTDiffusion, a novel network architecture for realistic and controllable image-based virtual try-on (VTON).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ootdiffusion-outfitting-fusion-based-latent</guid>
+      <title>pyvene: A Library for Understanding and Improving PyTorch Models via Interventions</title>
+      <link>https://paperswithcode.com/paper/pyvene-a-library-for-understanding-and</link>
+      <description><![CDATA[Interventions on model-internal states are fundamental operations in many areas of AI, including model editing, steering, robustness, and interpretability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pyvene-a-library-for-understanding-and</guid>
     </item>
     <item>
-      <title>GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer</title>
-      <link>https://paperswithcode.com/paper/gliner-generalist-model-for-named-entity</link>
-      <description><![CDATA[Named Entity Recognition (NER) is essential in various Natural Language Processing (NLP) applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gliner-generalist-model-for-named-entity</guid>
+      <title>Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small</title>
+      <link>https://paperswithcode.com/paper/interpretability-in-the-wild-a-circuit-for</link>
+      <description><![CDATA[Research in mechanistic interpretability seeks to explain behaviors of machine learning models in terms of their internal components.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interpretability-in-the-wild-a-circuit-for</guid>
     </item>
     <item>
-      <title>Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study</title>
-      <link>https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</link>
-      <description><![CDATA[Despite the success in specific tasks and scenarios, existing foundation agents, empowered by large models (LMs) and advanced tools, still cannot generalize to different scenarios, mainly due to dramatic differences in the observations and actions across scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</guid>
+      <title>Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</link>
+      <description><![CDATA[Through extensive analysis of SfM initialization in the frequency domain and analysis of a 1D regression task with multiple 1D Gaussians, we propose a novel optimization strategy dubbed RAIN-GS (Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting), that successfully trains 3D Gaussians from random point clouds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/relaxing-accurate-initialization-constraint</guid>
+    </item>
+    <item>
+      <title>Fast Inner-Product Algorithms and Architectures for Deep Neural Network Accelerators</title>
+      <link>https://paperswithcode.com/paper/fast-inner-product-algorithms-and</link>
+      <description><![CDATA[We introduce a new algorithm called the Free-pipeline Fast Inner Product (FFIP) and its hardware architecture that improve an under-explored fast inner-product algorithm (FIP) proposed by Winograd in 1968.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-inner-product-algorithms-and</guid>
     </item>
     <item>
       <title>DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors</title>
@@ -117,16 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dynamicrafter-animating-open-domain-images</guid>
     </item>
     <item>
+      <title>DeepSeek-VL: Towards Real-World Vision-Language Understanding</title>
+      <link>https://paperswithcode.com/paper/deepseek-vl-towards-real-world-vision</link>
+      <description><![CDATA[The DeepSeek-VL family (both 1. 3B and 7B models) showcases superior user experiences as a vision-language chatbot in real-world applications, achieving state-of-the-art or competitive performance across a wide range of visual-language benchmarks at the same model size while maintaining robust performance on language-centric benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-vl-towards-real-world-vision</guid>
+    </item>
+    <item>
+      <title>Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding</title>
+      <link>https://paperswithcode.com/paper/isotropic3d-image-to-3d-generation-based-on-a</link>
+      <description><![CDATA[As a result, with a single image CLIP embedding, Isotropic3D is capable of generating multi-view mutually consistent images and also a 3D model with more symmetrical and neat content, well-proportioned geometry, rich colored texture, and less distortion compared with existing image-to-3D methods while still preserving the similarity to the reference image to a large extent.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/isotropic3d-image-to-3d-generation-based-on-a</guid>
+    </item>
+    <item>
       <title>ORPO: Monolithic Preference Optimization without Reference Model</title>
       <link>https://paperswithcode.com/paper/reference-free-monolithic-preference</link>
       <description><![CDATA[While recent preference alignment algorithms for language models have demonstrated promising results, supervised fine-tuning (SFT) remains imperative for achieving successful convergence.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/reference-free-monolithic-preference</guid>
     </item>
     <item>
+      <title>GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer</title>
+      <link>https://paperswithcode.com/paper/gliner-generalist-model-for-named-entity</link>
+      <description><![CDATA[Named Entity Recognition (NER) is essential in various Natural Language Processing (NLP) applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gliner-generalist-model-for-named-entity</guid>
+    </item>
+    <item>
       <title>Data Interpreter: An LLM Agent For Data Science</title>
       <link>https://paperswithcode.com/paper/data-interpreter-an-llm-agent-for-data</link>
       <description><![CDATA[Large Language Model (LLM)-based agents have demonstrated remarkable effectiveness.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/data-interpreter-an-llm-agent-for-data</guid>
+    </item>
+    <item>
+      <title>DragAnything: Motion Control for Anything using Entity Representation</title>
+      <link>https://paperswithcode.com/paper/draganything-motion-control-for-anything</link>
+      <description><![CDATA[We introduce DragAnything, which utilizes a entity representation to achieve motion control for any object in controllable video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/draganything-motion-control-for-anything</guid>
+    </item>
+    <item>
+      <title>FeatUp: A Model-Agnostic Framework for Features at Any Resolution</title>
+      <link>https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for</link>
+      <description><![CDATA[Deep features are a cornerstone of computer vision research, capturing image semantics and enabling the community to solve downstream tasks even in the zero- or few-shot regime.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for</guid>
     </item>
   </channel>
 </rss>
