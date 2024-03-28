@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Mar 2024 21:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 09:12:41 +0000</lastBuildDate>
     <item>
       <title>Mora: Enabling Generalist Video Generation via A Multi-Agent Framework</title>
       <link>https://paperswithcode.com/paper/mora-enabling-generalist-video-generation-via</link>
       <description><![CDATA[Sora is the first large-scale generalist video generation model that garnered significant attention across society.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mora-enabling-generalist-video-generation-via</guid>
+    </item>
+    <item>
+      <title>SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions</title>
+      <link>https://paperswithcode.com/paper/sdxs-real-time-one-step-latent-diffusion</link>
+      <description><![CDATA[Recent advancements in diffusion models have positioned them at the forefront of image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sdxs-real-time-one-step-latent-diffusion</guid>
+    </item>
+    <item>
+      <title>StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text</title>
+      <link>https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</link>
+      <description><![CDATA[To overcome these limitations, we introduce StreamingT2V, an autoregressive approach for long video generation of 80, 240, 600, 1200 or more frames with smooth transitions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</guid>
     </item>
     <item>
       <title>Evolutionary Optimization of Model Merging Recipes</title>
@@ -21,34 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/evolutionary-optimization-of-model-merging</guid>
     </item>
     <item>
-      <title>FeatUp: A Model-Agnostic Framework for Features at Any Resolution</title>
-      <link>https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for</link>
-      <description><![CDATA[Deep features are a cornerstone of computer vision research, capturing image semantics and enabling the community to solve downstream tasks even in the zero- or few-shot regime.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for</guid>
-    </item>
-    <item>
-      <title>One-Step Image Translation with Text-to-Image Models</title>
-      <link>https://paperswithcode.com/paper/one-step-image-translation-with-text-to-image</link>
-      <description><![CDATA[In this work, we address two limitations of existing conditional diffusion models: their slow inference speed due to the iterative denoising process and their reliance on paired data for model fine-tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-step-image-translation-with-text-to-image</guid>
-    </item>
-    <item>
-      <title>MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images</title>
-      <link>https://paperswithcode.com/paper/mvsplat-efficient-3d-gaussian-splatting-from</link>
-      <description><![CDATA[We propose MVSplat, an efficient feed-forward 3D Gaussian Splatting model learned from sparse multi-view images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mvsplat-efficient-3d-gaussian-splatting-from</guid>
-    </item>
-    <item>
-      <title>GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation</title>
-      <link>https://paperswithcode.com/paper/grm-large-gaussian-reconstruction-model-for</link>
-      <description><![CDATA[We introduce GRM, a large-scale reconstructor capable of recovering a 3D asset from sparse-view images in around 0. 1s.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/grm-large-gaussian-reconstruction-model-for</guid>
-    </item>
-    <item>
       <title>T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy</title>
       <link>https://paperswithcode.com/paper/t-rex2-towards-generic-object-detection-via</link>
       <description><![CDATA[Recognizing the complementary strengths and weaknesses of both text and visual prompts, we introduce T-Rex2 that synergizes both prompts within a single model through contrastive learning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/t-rex2-towards-generic-object-detection-via</guid>
+    </item>
+    <item>
+      <title>FeatUp: A Model-Agnostic Framework for Features at Any Resolution</title>
+      <link>https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for</link>
+      <description><![CDATA[Deep features are a cornerstone of computer vision research, capturing image semantics and enabling the community to solve downstream tasks even in the zero- or few-shot regime.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for</guid>
     </item>
     <item>
       <title>Analyzing and Improving the Training Dynamics of Diffusion Models</title>
@@ -57,16 +51,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/analyzing-and-improving-the-training-dynamics</guid>
     </item>
     <item>
-      <title>LLM4Decompile: Decompiling Binary Code with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with</link>
-      <description><![CDATA[Therefore, we release the first open-access decompilation LLMs ranging from 1B to 33B pre-trained on 4 billion tokens of C source code and the corresponding assembly code.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with</guid>
+      <title>General Object Foundation Model for Images and Videos at Scale</title>
+      <link>https://paperswithcode.com/paper/general-object-foundation-model-for-images</link>
+      <description><![CDATA[We present GLEE in this work, an object-level foundation model for locating and identifying objects in images and videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/general-object-foundation-model-for-images</guid>
+    </item>
+    <item>
+      <title>One-Step Image Translation with Text-to-Image Models</title>
+      <link>https://paperswithcode.com/paper/one-step-image-translation-with-text-to-image</link>
+      <description><![CDATA[In this work, we address two limitations of existing conditional diffusion models: their slow inference speed due to the iterative denoising process and their reliance on paired data for model fine-tuning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/one-step-image-translation-with-text-to-image</guid>
     </item>
     <item>
       <title>LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression</title>
       <link>https://paperswithcode.com/paper/llmlingua-2-data-distillation-for-efficient</link>
       <description><![CDATA[The challenge is that information entropy may be a suboptimal compression metric: (i) it only leverages unidirectional context and may fail to capture all essential information needed for prompt compression; (ii) it is not aligned with the prompt compression objective.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llmlingua-2-data-distillation-for-efficient</guid>
+    </item>
+    <item>
+      <title>Long-CLIP: Unlocking the Long-Text Capability of CLIP</title>
+      <link>https://paperswithcode.com/paper/long-clip-unlocking-the-long-text-capability</link>
+      <description><![CDATA[Contrastive Language-Image Pre-training (CLIP) has been the cornerstone for zero-shot classification, text-image retrieval, and text-image generation by aligning image and text modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/long-clip-unlocking-the-long-text-capability</guid>
+    </item>
+    <item>
+      <title>A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond</title>
+      <link>https://paperswithcode.com/paper/a-survey-of-neural-code-intelligence</link>
+      <description><![CDATA[Building on our examination of the developmental trajectories, we further investigate the emerging synergies between code intelligence and broader machine intelligence, uncovering new cross-domain opportunities and illustrating the substantial influence of code intelligence across various domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-neural-code-intelligence</guid>
+    </item>
+    <item>
+      <title>MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images</title>
+      <link>https://paperswithcode.com/paper/mvsplat-efficient-3d-gaussian-splatting-from</link>
+      <description><![CDATA[We propose MVSplat, an efficient feed-forward 3D Gaussian Splatting model learned from sparse multi-view images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mvsplat-efficient-3d-gaussian-splatting-from</guid>
     </item>
     <item>
       <title>FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation</title>
@@ -81,52 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cobra-extending-mamba-to-multi-modal-large</guid>
     </item>
     <item>
-      <title>APISR: Anime Production Inspired Real-World Anime Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/apisr-anime-production-inspired-real-world</link>
-      <description><![CDATA[In addition, we identify two anime-specific challenges of distorted and faint hand-drawn lines and unwanted color artifacts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/apisr-anime-production-inspired-real-world</guid>
+      <title>LLM4Decompile: Decompiling Binary Code with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with</link>
+      <description><![CDATA[Therefore, we release the first open-access decompilation LLMs ranging from 1B to 33B pre-trained on 4 billion tokens of C source code and the corresponding assembly code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with</guid>
     </item>
     <item>
-      <title>General Object Foundation Model for Images and Videos at Scale</title>
-      <link>https://paperswithcode.com/paper/general-object-foundation-model-for-images</link>
-      <description><![CDATA[We present GLEE in this work, an object-level foundation model for locating and identifying objects in images and videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/general-object-foundation-model-for-images</guid>
-    </item>
-    <item>
-      <title>OMG-Seg: Is One Model Good Enough For All Segmentation?</title>
-      <link>https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</link>
-      <description><![CDATA[In this work, we address various segmentation tasks, each traditionally tackled by distinct or partially unified models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omg-seg-is-one-model-good-enough-for-all</guid>
-    </item>
-    <item>
-      <title>Chronos: Learning the Language of Time Series</title>
-      <link>https://paperswithcode.com/paper/chronos-learning-the-language-of-time-series</link>
-      <description><![CDATA[We introduce Chronos, a simple yet effective framework for pretrained probabilistic time series models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chronos-learning-the-language-of-time-series</guid>
-    </item>
-    <item>
-      <title>Aggregated Contextual Transformations for High-Resolution Image Inpainting</title>
-      <link>https://paperswithcode.com/paper/aggregated-contextual-transformations-for</link>
-      <description><![CDATA[For improving texture synthesis, we enhance the discriminator of AOT-GAN by training it with a tailored mask-prediction task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aggregated-contextual-transformations-for</guid>
-    </item>
-    <item>
-      <title>RewardBench: Evaluating Reward Models for Language Modeling</title>
-      <link>https://paperswithcode.com/paper/rewardbench-evaluating-reward-models-for</link>
-      <description><![CDATA[In this paper, we present RewardBench, a benchmark dataset and code-base for evaluation, to enhance scientific understanding of reward models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rewardbench-evaluating-reward-models-for</guid>
-    </item>
-    <item>
-      <title>Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction</title>
-      <link>https://paperswithcode.com/paper/leveraging-enhanced-queries-of-point-sets-for</link>
-      <description><![CDATA[Although the map construction is essentially a point set prediction task, MapQR utilizes instance queries rather than point queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-enhanced-queries-of-point-sets-for</guid>
+      <title>InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding</title>
+      <link>https://paperswithcode.com/paper/internvideo2-scaling-video-foundation-models</link>
+      <description><![CDATA[We introduce InternVideo2, a new video foundation model (ViFM) that achieves the state-of-the-art performance in action recognition, video-text tasks, and video-centric dialogue.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/internvideo2-scaling-video-foundation-models</guid>
     </item>
     <item>
       <title>LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models</title>
       <link>https://paperswithcode.com/paper/llamafactory-unified-efficient-fine-tuning-of</link>
       <description><![CDATA[Efficient fine-tuning is vital for adapting large language models (LLMs) to downstream tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llamafactory-unified-efficient-fine-tuning-of</guid>
+    </item>
+    <item>
+      <title>ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation</title>
+      <link>https://paperswithcode.com/paper/esrl-efficient-sampling-based-reinforcement</link>
+      <description><![CDATA[Applying Reinforcement Learning (RL) to sequence generation models enables the direct optimization of long-term rewards (\textit{e. g.,} BLEU and human feedback), but typically requires large-scale sampling over a space of action sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/esrl-efficient-sampling-based-reinforcement</guid>
+    </item>
+    <item>
+      <title>GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation</title>
+      <link>https://paperswithcode.com/paper/grm-large-gaussian-reconstruction-model-for</link>
+      <description><![CDATA[We introduce GRM, a large-scale reconstructor capable of recovering a 3D asset from sparse-view images in around 0. 1s.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grm-large-gaussian-reconstruction-model-for</guid>
     </item>
   </channel>
 </rss>
