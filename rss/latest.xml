@@ -7,114 +7,48 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Apr 2024 21:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 09:12:51 +0000</lastBuildDate>
     <item>
-      <title>Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation</title>
-      <link>https://paperswithcode.com/paper/mol-air-molecular-reinforcement-learning-with</link>
-      <description><![CDATA[We believe that Mol-AIR represents a significant advancement in drug discovery, offering a more efficient path to discovering novel therapeutics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mol-air-molecular-reinforcement-learning-with</guid>
+      <title>Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/self-demos-eliciting-out-of-demonstration</link>
+      <description><![CDATA[The generated demos strategically interpolate between existing demos and the given query, transforming the query from OOD to ID.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-demos-eliciting-out-of-demonstration</guid>
     </item>
     <item>
-      <title>An Efficient Approach for Studying Cross-Lingual Transfer in Multilingual Language Models</title>
-      <link>https://paperswithcode.com/paper/an-efficient-approach-for-studying-cross</link>
-      <description><![CDATA[The capacity and effectiveness of pre-trained multilingual models (MLMs) for zero-shot cross-lingual transfer is well established.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-efficient-approach-for-studying-cross</guid>
+      <title>KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation</title>
+      <link>https://paperswithcode.com/paper/ktpformer-kinematics-and-trajectory-prior</link>
+      <description><![CDATA[This paper presents a novel Kinematics and Trajectory Prior Knowledge-Enhanced Transformer (KTPFormer), which overcomes the weakness in existing transformer-based methods for 3D human pose estimation that the derivation of Q, K, V vectors in their self-attention mechanisms are all based on simple linear mapping.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ktpformer-kinematics-and-trajectory-prior</guid>
     </item>
     <item>
-      <title>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting</title>
-      <link>https://paperswithcode.com/paper/structure-matters-tackling-the-semantic</link>
-      <description><![CDATA[Denoising diffusion probabilistic models for image inpainting aim to add the noise to the texture of image during the forward process and recover masked regions with unmasked ones of the texture via the reverse denoising process. Despite the meaningful semantics generation, the existing arts suffer from the semantic discrepancy between masked and unmasked regions, since the semantically dense unmasked texture fails to be completely degraded while the masked regions turn to the pure noise in diffusion process, leading to the large discrepancy between them. In this paper, we aim to answer how unmasked semantics guide texture denoising process;together with how to tackle the semantic discrepancy, to facilitate the consistent and meaningful semantics generation. To this end, we propose a novel structure-guided diffusion model named StrDiffusion, to reformulate the conventional texture denoising process under structure guidance to derive a simplified denoising objective for image inpainting, while revealing:1) the semantically sparse structure is beneficial to tackle semantic discrepancy in early stage, while dense texture generates reasonable semantics in late stage;2) the semantics from unmasked regions essentially offer the time-dependent structure guidance for the texture denoising process, benefiting from the time-dependent sparsity of the structure semantics. For the denoising process, a structure-guided neural network is trained to estimate the simplified denoising objective by exploiting the consistency of the denoised structure between masked and unmasked regions. Besides, we devise an adaptive resampling strategy as a formal criterion as whether structure is competent to guide the texture denoising process, while regulate their semantic correlations. Extensive experiments validate the merits of StrDiffusion over the state-of-the-arts. Our code is available at https://github. com/htyjers/StrDiffusion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/structure-matters-tackling-the-semantic</guid>
+      <title>Learning the mechanisms of network growth</title>
+      <link>https://paperswithcode.com/paper/learning-the-mechanisms-of-network-growth</link>
+      <description><![CDATA[We propose a novel model-selection method for dynamic real-life networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-the-mechanisms-of-network-growth</guid>
     </item>
     <item>
-      <title>ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning</title>
-      <link>https://paperswithcode.com/paper/eclipse-efficient-continual-learning-in</link>
-      <description><![CDATA[Panoptic segmentation, combining semantic and instance segmentation, stands as a cutting-edge computer vision task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eclipse-efficient-continual-learning-in</guid>
+      <title>TACO -- Twitter Arguments from COnversations</title>
+      <link>https://paperswithcode.com/paper/taco-twitter-arguments-from-conversations</link>
+      <description><![CDATA[Twitter has emerged as a global hub for engaging in online conversations and as a research corpus for various disciplines that have recognized the significance of its user-generated content.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taco-twitter-arguments-from-conversations</guid>
     </item>
     <item>
-      <title>Shallow Cross-Encoders for Low-Latency Retrieval</title>
-      <link>https://paperswithcode.com/paper/shallow-cross-encoders-for-low-latency</link>
-      <description><![CDATA[However, Cross-Encoders based on large transformer models (such as BERT or T5) are computationally expensive and allow for scoring only a small number of documents within a reasonably small latency window.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/shallow-cross-encoders-for-low-latency</guid>
+      <title>TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias</title>
+      <link>https://paperswithcode.com/paper/ttd-text-tag-self-distillation-enhancing</link>
+      <description><![CDATA[We identify a critical bias in contemporary CLIP-based models, which we denote as \textit{single tag bias}.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ttd-text-tag-self-distillation-enhancing</guid>
     </item>
     <item>
-      <title>TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods</title>
-      <link>https://paperswithcode.com/paper/tfb-towards-comprehensive-and-fair</link>
-      <description><![CDATA[Next, we employ TFB to perform a thorough evaluation of 21 Univariate Time Series Forecasting (UTSF) methods on 8, 068 univariate time series and 14 Multivariate Time Series Forecasting (MTSF) methods on 25 datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tfb-towards-comprehensive-and-fair</guid>
+      <title>DHR: Dual Features-Driven Hierarchical Rebalancing in Inter- and Intra-Class Regions for Weakly-Supervised Semantic Segmentation</title>
+      <link>https://paperswithcode.com/paper/dhr-dual-features-driven-hierarchical</link>
+      <description><![CDATA[Weakly-supervised semantic segmentation (WSS) ensures high-quality segmentation with limited data and excels when employed as input seed masks for large-scale vision models such as Segment Anything.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dhr-dual-features-driven-hierarchical</guid>
     </item>
     <item>
-      <title>U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation</title>
-      <link>https://paperswithcode.com/paper/u-vap-user-specified-visual-appearance</link>
-      <description><![CDATA[Extensive experiments on various kinds of visual attributes with SOTA personalization methods show the ability of the proposed method to mimic target visual appearance in novel contexts, thus improving the controllability and flexibility of personalization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/u-vap-user-specified-visual-appearance</guid>
-    </item>
-    <item>
-      <title>UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation</title>
-      <link>https://paperswithcode.com/paper/ultralight-vm-unet-parallel-vision-mamba</link>
-      <description><![CDATA[In this paper, we deeply explore the key elements of parameter influence in Mamba and propose an UltraLight Vision Mamba UNet (UltraLight VM-UNet) based on this.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ultralight-vm-unet-parallel-vision-mamba</guid>
-    </item>
-    <item>
-      <title>Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer</title>
-      <link>https://paperswithcode.com/paper/localising-the-seizure-onset-zone-from-single</link>
-      <description><![CDATA[Secondly, we demonstrate the efficacy of the Transformer models in handling heterogeneous electrode placements, increasing the AUROC to 0. 730.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/localising-the-seizure-onset-zone-from-single</guid>
-    </item>
-    <item>
-      <title>Enhancing Dimension-Reduced Scatter Plots with Class and Feature Centroids</title>
-      <link>https://paperswithcode.com/paper/enhancing-dimension-reduced-scatter-plots</link>
-      <description><![CDATA[We illustrate the utility of this approach with data derived from the phenotypes of three neurogenetic diseases and demonstrate how the addition of class and feature centroids increases the interpretability of scatter plots.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-dimension-reduced-scatter-plots</guid>
-    </item>
-    <item>
-      <title>The Impact of Prompts on Zero-Shot Detection of AI-Generated Text</title>
-      <link>https://paperswithcode.com/paper/the-impact-of-prompts-on-zero-shot-detection</link>
-      <description><![CDATA[In this paper, we introduce an evaluative framework to empirically analyze the impact of prompts on the detection accuracy of AI-generated text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-impact-of-prompts-on-zero-shot-detection</guid>
-    </item>
-    <item>
-      <title>SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects</title>
-      <link>https://paperswithcode.com/paper/seabird-segmentation-in-bird-s-view-with-dice</link>
-      <description><![CDATA[We argue that the cause of failure is the sensitivity of depth regression losses to noise of larger objects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seabird-segmentation-in-bird-s-view-with-dice</guid>
-    </item>
-    <item>
-      <title>Negative Label Guided OOD Detection with Pretrained Vision-Language Models</title>
-      <link>https://paperswithcode.com/paper/negative-label-guided-ood-detection-with</link>
-      <description><![CDATA[In this paper, we propose a novel post hoc OOD detection method, called NegLabel, which takes a vast number of negative labels from extensive corpus databases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/negative-label-guided-ood-detection-with</guid>
-    </item>
-    <item>
-      <title>Latxa: An Open Language Model and Evaluation Suite for Basque</title>
-      <link>https://paperswithcode.com/paper/latxa-an-open-language-model-and-evaluation</link>
-      <description><![CDATA[We introduce Latxa, a family of large language models for Basque ranging from 7 to 70 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latxa-an-open-language-model-and-evaluation</guid>
-    </item>
-    <item>
-      <title>FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation</title>
-      <link>https://paperswithcode.com/paper/fabind-enhancing-molecular-docking-through</link>
-      <description><![CDATA[Molecular docking is a pivotal process in drug discovery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fabind-enhancing-molecular-docking-through</guid>
-    </item>
-    <item>
-      <title>MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning</title>
-      <link>https://paperswithcode.com/paper/mtlora-a-low-rank-adaptation-approach-for</link>
-      <description><![CDATA[Adapting models pre-trained on large-scale datasets to a variety of downstream tasks is a common strategy in deep learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mtlora-a-low-rank-adaptation-approach-for</guid>
-    </item>
-    <item>
-      <title>Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models</title>
-      <link>https://paperswithcode.com/paper/unsolvable-problem-detection-evaluating</link>
-      <description><![CDATA[This paper introduces a novel and significant challenge for Vision Language Models (VLMs), termed Unsolvable Problem Detection (UPD).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unsolvable-problem-detection-evaluating</guid>
-    </item>
-    <item>
-      <title>Enhancing Lithological Mapping with Spatially Constrained Bayesian Network (SCB-Net): An Approach for Field Data-Constrained Predictions with Uncertainty Evaluation</title>
-      <link>https://paperswithcode.com/paper/enhancing-lithological-mapping-with-spatially</link>
-      <description><![CDATA[The SCB-Net aims to effectively exploit the information from auxiliary variables while producing spatially constrained predictions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-lithological-mapping-with-spatially</guid>
+      <title>InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning</title>
+      <link>https://paperswithcode.com/paper/inflora-interference-free-low-rank-adaptation</link>
+      <description><![CDATA[Furthermore, InfLoRA designs this subspace to eliminate the interference of the new task on the old tasks, making a good trade-off between stability and plasticity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inflora-interference-free-low-rank-adaptation</guid>
     </item>
     <item>
       <title>Towards a Framework for Evaluating Explanations in Automated Fact Verification</title>
@@ -123,106 +57,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-framework-for-evaluating</guid>
     </item>
     <item>
-      <title>NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising</title>
-      <link>https://paperswithcode.com/paper/neslam-neural-implicit-mapping-and-self</link>
-      <description><![CDATA[Second, the occupancy scene representation is replaced with Signed Distance Field (SDF) hierarchical scene representation for high-quality reconstruction and view synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neslam-neural-implicit-mapping-and-self</guid>
-    </item>
-    <item>
-      <title>Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces</title>
-      <link>https://paperswithcode.com/paper/decision-mamba-reinforcement-learning-via</link>
-      <description><![CDATA[Decision Transformer, a promising approach that applies Transformer architectures to reinforcement learning, relies on causal self-attention to model sequences of states, actions, and rewards.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decision-mamba-reinforcement-learning-via</guid>
-    </item>
-    <item>
-      <title>Video-Based Human Pose Regression via Decoupled Space-Time Aggregation</title>
-      <link>https://paperswithcode.com/paper/video-based-human-pose-regression-via</link>
-      <description><![CDATA[In light of this, we propose a novel Decoupled Space-Time Aggregation network (DSTA) to separately capture the spatial contexts between adjacent joints and the temporal cues of each individual joint, thereby avoiding the conflation of spatiotemporal dimensions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/video-based-human-pose-regression-via</guid>
-    </item>
-    <item>
-      <title>Binarized Low-light Raw Video Enhancement</title>
-      <link>https://paperswithcode.com/paper/binarized-low-light-raw-video-enhancement</link>
-      <description><![CDATA[For the second issue, we present a distribution-aware binary convolution, which captures the distribution characteristics of real-valued input and incorporates them into plain binary convolutions to alleviate the degradation in performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/binarized-low-light-raw-video-enhancement</guid>
-    </item>
-    <item>
-      <title>Automated Identification and Segmentation of Hi Sources in CRAFTS Using Deep Learning Method</title>
-      <link>https://paperswithcode.com/paper/automated-identification-and-segmentation-of</link>
-      <description><![CDATA[We introduce a machine learning-based method for extracting HI sources from 3D spectral data, and construct a dedicated dataset of HI sources from CRAFTS.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automated-identification-and-segmentation-of</guid>
-    </item>
-    <item>
-      <title>SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image</title>
-      <link>https://paperswithcode.com/paper/scinerf-neural-radiance-fields-from-a</link>
-      <description><![CDATA[SCI is a cost-effective method that enables the recording of high-dimensional data, such as hyperspectral or temporal information, into a single image using low-cost 2D imaging sensors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scinerf-neural-radiance-fields-from-a</guid>
-    </item>
-    <item>
       <title>Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets</title>
       <link>https://paperswithcode.com/paper/cross-lingual-transfer-robustness-to-lower</link>
       <description><![CDATA[Multilingual Language Models (MLLMs) exhibit robust cross-lingual transfer capabilities, or the ability to leverage information acquired in a source language and apply it to a target language.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cross-lingual-transfer-robustness-to-lower</guid>
     </item>
     <item>
-      <title>Efficient Modulation for Vision Networks</title>
-      <link>https://paperswithcode.com/paper/efficient-modulation-for-vision-networks</link>
-      <description><![CDATA[We demonstrate that the modulation mechanism is particularly well suited for efficient networks and further tailor the modulation design by proposing the efficient modulation (EfficientMod) block, which is considered the essential building block for our networks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-modulation-for-vision-networks</guid>
-    </item>
-    <item>
-      <title>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation</title>
-      <link>https://paperswithcode.com/paper/emotion-anchored-contrastive-learning</link>
-      <description><![CDATA[To achieve this, we utilize label encodings as anchors to guide the learning of utterance representations and design an auxiliary loss to ensure the effective separation of anchors for similar emotions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/emotion-anchored-contrastive-learning</guid>
-    </item>
-    <item>
-      <title>Towards a Robust Retrieval-Based Summarization System</title>
-      <link>https://paperswithcode.com/paper/towards-a-robust-retrieval-based</link>
-      <description><![CDATA[SummRAG is an example of our goal of defining structured methods to test the capabilities of an LLM, rather than addressing issues in a one-off fashion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-robust-retrieval-based</guid>
-    </item>
-    <item>
-      <title>Voice Signal Processing for Machine Learning. The Case of Speaker Isolation</title>
-      <link>https://paperswithcode.com/paper/voice-signal-processing-for-machine-learning</link>
-      <description><![CDATA[However, ML engineers who work on such tasks might not have a background in signal processing which is an entirely different area of expertise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/voice-signal-processing-for-machine-learning</guid>
-    </item>
-    <item>
-      <title>Benchmarking Counterfactual Image Generation</title>
-      <link>https://paperswithcode.com/paper/benchmarking-counterfactual-image-generation</link>
-      <description><![CDATA[Counterfactual image generation is pivotal for understanding the causal relations of variables, with applications in interpretability and generation of unbiased synthetic data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-counterfactual-image-generation</guid>
-    </item>
-    <item>
-      <title>Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations</title>
-      <link>https://paperswithcode.com/paper/learn-no-to-say-yes-better-improving-vision</link>
-      <description><![CDATA[Using CC-Neg along with modifications to the contrastive loss of CLIP, our proposed CoN-CLIP framework, has an improved understanding of negations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learn-no-to-say-yes-better-improving-vision</guid>
-    </item>
-    <item>
-      <title>Unsupervised Tumor-Aware Distillation for Multi-Modal Brain Image Translation</title>
-      <link>https://paperswithcode.com/paper/unsupervised-tumor-aware-distillation-for</link>
-      <description><![CDATA[Existing methods suffer from the problem of brain tumor deformation during translation, as they fail to focus on the tumor areas when translating the whole images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-tumor-aware-distillation-for</guid>
-    </item>
-    <item>
-      <title>Rewrite the Stars</title>
-      <link>https://paperswithcode.com/paper/rewrite-the-stars</link>
-      <description><![CDATA[Recent studies have drawn attention to the untapped potential of the "star operation" (element-wise multiplication) in network design.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rewrite-the-stars</guid>
-    </item>
-    <item>
-      <title>Dual Simplex Volume Maximization for Simplex-Structured Matrix Factorization</title>
-      <link>https://paperswithcode.com/paper/dual-simplex-volume-maximization-for-simplex</link>
-      <description><![CDATA[Simplex-structured matrix factorization (SSMF) is a generalization of nonnegative matrix factorization, a fundamental interpretable data analysis model, and has applications in hyperspectral unmixing and topic modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dual-simplex-volume-maximization-for-simplex</guid>
-    </item>
-    <item>
-      <title>Embracing Unknown Step by Step: Towards Reliable Sparse Training in Real World</title>
-      <link>https://paperswithcode.com/paper/embracing-unknown-step-by-step-towards</link>
-      <description><![CDATA[Sparse training has emerged as a promising method for resource-efficient deep neural networks (DNNs) in real-world applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/embracing-unknown-step-by-step-towards</guid>
+      <title>SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects</title>
+      <link>https://paperswithcode.com/paper/seabird-segmentation-in-bird-s-view-with-dice</link>
+      <description><![CDATA[We argue that the cause of failure is the sensitivity of depth regression losses to noise of larger objects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seabird-segmentation-in-bird-s-view-with-dice</guid>
     </item>
     <item>
       <title>Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want</title>
@@ -231,10 +75,214 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/draw-and-understand-leveraging-visual-prompts</guid>
     </item>
     <item>
-      <title>Heterogeneous Network Based Contrastive Learning Method for PolSAR Land Cover Classification</title>
-      <link>https://paperswithcode.com/paper/heterogeneous-network-based-contrastive</link>
-      <description><![CDATA[Besides, this work has implications for how to efficiently utilize the multi-features of PolSAR data to learn better high-level representation in CL and how to construct networks suitable for PolSAR data better.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/heterogeneous-network-based-contrastive</guid>
+      <title>DiJiang: Efficient Large Language Models through Compact Kernelization</title>
+      <link>https://paperswithcode.com/paper/dijiang-efficient-large-language-models</link>
+      <description><![CDATA[In an effort to reduce the computational load of Transformers, research on linear attention has gained significant momentum.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dijiang-efficient-large-language-models</guid>
+    </item>
+    <item>
+      <title>MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning</title>
+      <link>https://paperswithcode.com/paper/mtlora-a-low-rank-adaptation-approach-for</link>
+      <description><![CDATA[Adapting models pre-trained on large-scale datasets to a variety of downstream tasks is a common strategy in deep learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mtlora-a-low-rank-adaptation-approach-for</guid>
+    </item>
+    <item>
+      <title>FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation</title>
+      <link>https://paperswithcode.com/paper/fabind-enhancing-molecular-docking-through</link>
+      <description><![CDATA[Molecular docking is a pivotal process in drug discovery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fabind-enhancing-molecular-docking-through</guid>
+    </item>
+    <item>
+      <title>Enhancing Lithological Mapping with Spatially Constrained Bayesian Network (SCB-Net): An Approach for Field Data-Constrained Predictions with Uncertainty Evaluation</title>
+      <link>https://paperswithcode.com/paper/enhancing-lithological-mapping-with-spatially</link>
+      <description><![CDATA[The SCB-Net aims to effectively exploit the information from auxiliary variables while producing spatially constrained predictions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-lithological-mapping-with-spatially</guid>
+    </item>
+    <item>
+      <title>Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models</title>
+      <link>https://paperswithcode.com/paper/unsolvable-problem-detection-evaluating</link>
+      <description><![CDATA[This paper introduces a novel and significant challenge for Vision Language Models (VLMs), termed Unsolvable Problem Detection (UPD).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsolvable-problem-detection-evaluating</guid>
+    </item>
+    <item>
+      <title>TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods</title>
+      <link>https://paperswithcode.com/paper/tfb-towards-comprehensive-and-fair</link>
+      <description><![CDATA[Next, we employ TFB to perform a thorough evaluation of 21 Univariate Time Series Forecasting (UTSF) methods on 8, 068 univariate time series and 14 Multivariate Time Series Forecasting (MTSF) methods on 25 datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tfb-towards-comprehensive-and-fair</guid>
+    </item>
+    <item>
+      <title>Latxa: An Open Language Model and Evaluation Suite for Basque</title>
+      <link>https://paperswithcode.com/paper/latxa-an-open-language-model-and-evaluation</link>
+      <description><![CDATA[We introduce Latxa, a family of large language models for Basque ranging from 7 to 70 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latxa-an-open-language-model-and-evaluation</guid>
+    </item>
+    <item>
+      <title>SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image</title>
+      <link>https://paperswithcode.com/paper/scinerf-neural-radiance-fields-from-a</link>
+      <description><![CDATA[SCI is a cost-effective method that enables the recording of high-dimensional data, such as hyperspectral or temporal information, into a single image using low-cost 2D imaging sensors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scinerf-neural-radiance-fields-from-a</guid>
+    </item>
+    <item>
+      <title>Automated Identification and Segmentation of Hi Sources in CRAFTS Using Deep Learning Method</title>
+      <link>https://paperswithcode.com/paper/automated-identification-and-segmentation-of</link>
+      <description><![CDATA[We introduce a machine learning-based method for extracting HI sources from 3D spectral data, and construct a dedicated dataset of HI sources from CRAFTS.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/automated-identification-and-segmentation-of</guid>
+    </item>
+    <item>
+      <title>Binarized Low-light Raw Video Enhancement</title>
+      <link>https://paperswithcode.com/paper/binarized-low-light-raw-video-enhancement</link>
+      <description><![CDATA[For the second issue, we present a distribution-aware binary convolution, which captures the distribution characteristics of real-valued input and incorporates them into plain binary convolutions to alleviate the degradation in performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/binarized-low-light-raw-video-enhancement</guid>
+    </item>
+    <item>
+      <title>U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation</title>
+      <link>https://paperswithcode.com/paper/u-vap-user-specified-visual-appearance</link>
+      <description><![CDATA[Extensive experiments on various kinds of visual attributes with SOTA personalization methods show the ability of the proposed method to mimic target visual appearance in novel contexts, thus improving the controllability and flexibility of personalization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/u-vap-user-specified-visual-appearance</guid>
+    </item>
+    <item>
+      <title>Enhancing Dimension-Reduced Scatter Plots with Class and Feature Centroids</title>
+      <link>https://paperswithcode.com/paper/enhancing-dimension-reduced-scatter-plots</link>
+      <description><![CDATA[We illustrate the utility of this approach with data derived from the phenotypes of three neurogenetic diseases and demonstrate how the addition of class and feature centroids increases the interpretability of scatter plots.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-dimension-reduced-scatter-plots</guid>
+    </item>
+    <item>
+      <title>Negative Label Guided OOD Detection with Pretrained Vision-Language Models</title>
+      <link>https://paperswithcode.com/paper/negative-label-guided-ood-detection-with</link>
+      <description><![CDATA[In this paper, we propose a novel post hoc OOD detection method, called NegLabel, which takes a vast number of negative labels from extensive corpus databases.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/negative-label-guided-ood-detection-with</guid>
+    </item>
+    <item>
+      <title>The Impact of Prompts on Zero-Shot Detection of AI-Generated Text</title>
+      <link>https://paperswithcode.com/paper/the-impact-of-prompts-on-zero-shot-detection</link>
+      <description><![CDATA[In this paper, we introduce an evaluative framework to empirically analyze the impact of prompts on the detection accuracy of AI-generated text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-impact-of-prompts-on-zero-shot-detection</guid>
+    </item>
+    <item>
+      <title>Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer</title>
+      <link>https://paperswithcode.com/paper/localising-the-seizure-onset-zone-from-single</link>
+      <description><![CDATA[Secondly, we demonstrate the efficacy of the Transformer models in handling heterogeneous electrode placements, increasing the AUROC to 0. 730.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/localising-the-seizure-onset-zone-from-single</guid>
+    </item>
+    <item>
+      <title>UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation</title>
+      <link>https://paperswithcode.com/paper/ultralight-vm-unet-parallel-vision-mamba</link>
+      <description><![CDATA[In this paper, we deeply explore the key elements of parameter influence in Mamba and propose an UltraLight Vision Mamba UNet (UltraLight VM-UNet) based on this.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ultralight-vm-unet-parallel-vision-mamba</guid>
+    </item>
+    <item>
+      <title>Shallow Cross-Encoders for Low-Latency Retrieval</title>
+      <link>https://paperswithcode.com/paper/shallow-cross-encoders-for-low-latency</link>
+      <description><![CDATA[However, Cross-Encoders based on large transformer models (such as BERT or T5) are computationally expensive and allow for scoring only a small number of documents within a reasonably small latency window.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/shallow-cross-encoders-for-low-latency</guid>
+    </item>
+    <item>
+      <title>An Efficient Approach for Studying Cross-Lingual Transfer in Multilingual Language Models</title>
+      <link>https://paperswithcode.com/paper/an-efficient-approach-for-studying-cross</link>
+      <description><![CDATA[The capacity and effectiveness of pre-trained multilingual models (MLMs) for zero-shot cross-lingual transfer is well established.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-efficient-approach-for-studying-cross</guid>
+    </item>
+    <item>
+      <title>ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning</title>
+      <link>https://paperswithcode.com/paper/eclipse-efficient-continual-learning-in</link>
+      <description><![CDATA[Panoptic segmentation, combining semantic and instance segmentation, stands as a cutting-edge computer vision task.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eclipse-efficient-continual-learning-in</guid>
+    </item>
+    <item>
+      <title>Emotion-Anchored Contrastive Learning Framework for Emotion Recognition in Conversation</title>
+      <link>https://paperswithcode.com/paper/emotion-anchored-contrastive-learning</link>
+      <description><![CDATA[To achieve this, we utilize label encodings as anchors to guide the learning of utterance representations and design an auxiliary loss to ensure the effective separation of anchors for similar emotions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/emotion-anchored-contrastive-learning</guid>
+    </item>
+    <item>
+      <title>Benchmarking Counterfactual Image Generation</title>
+      <link>https://paperswithcode.com/paper/benchmarking-counterfactual-image-generation</link>
+      <description><![CDATA[Counterfactual image generation is pivotal for understanding the causal relations of variables, with applications in interpretability and generation of unbiased synthetic data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-counterfactual-image-generation</guid>
+    </item>
+    <item>
+      <title>Towards a Robust Retrieval-Based Summarization System</title>
+      <link>https://paperswithcode.com/paper/towards-a-robust-retrieval-based</link>
+      <description><![CDATA[SummRAG is an example of our goal of defining structured methods to test the capabilities of an LLM, rather than addressing issues in a one-off fashion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-robust-retrieval-based</guid>
+    </item>
+    <item>
+      <title>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting</title>
+      <link>https://paperswithcode.com/paper/structure-matters-tackling-the-semantic</link>
+      <description><![CDATA[Denoising diffusion probabilistic models for image inpainting aim to add the noise to the texture of image during the forward process and recover masked regions with unmasked ones of the texture via the reverse denoising process. Despite the meaningful semantics generation, the existing arts suffer from the semantic discrepancy between masked and unmasked regions, since the semantically dense unmasked texture fails to be completely degraded while the masked regions turn to the pure noise in diffusion process, leading to the large discrepancy between them.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/structure-matters-tackling-the-semantic</guid>
+    </item>
+    <item>
+      <title>Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation</title>
+      <link>https://paperswithcode.com/paper/mol-air-molecular-reinforcement-learning-with</link>
+      <description><![CDATA[We believe that Mol-AIR represents a significant advancement in drug discovery, offering a more efficient path to discovering novel therapeutics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mol-air-molecular-reinforcement-learning-with</guid>
+    </item>
+    <item>
+      <title>AgileFormer: Spatially Agile Transformer UNet for Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/agileformer-spatially-agile-transformer-unet</link>
+      <description><![CDATA[However, we argue that the current design of the vision transformer-based UNet (ViT-UNet) segmentation models may not effectively handle the heterogeneous appearance (e. g., varying shapes and sizes) of objects of interest in medical image segmentation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agileformer-spatially-agile-transformer-unet</guid>
+    </item>
+    <item>
+      <title>Efficient Modulation for Vision Networks</title>
+      <link>https://paperswithcode.com/paper/efficient-modulation-for-vision-networks</link>
+      <description><![CDATA[We demonstrate that the modulation mechanism is particularly well suited for efficient networks and further tailor the modulation design by proposing the efficient modulation (EfficientMod) block, which is considered the essential building block for our networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-modulation-for-vision-networks</guid>
+    </item>
+    <item>
+      <title>Dual Simplex Volume Maximization for Simplex-Structured Matrix Factorization</title>
+      <link>https://paperswithcode.com/paper/dual-simplex-volume-maximization-for-simplex</link>
+      <description><![CDATA[Simplex-structured matrix factorization (SSMF) is a generalization of nonnegative matrix factorization, a fundamental interpretable data analysis model, and has applications in hyperspectral unmixing and topic modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dual-simplex-volume-maximization-for-simplex</guid>
+    </item>
+    <item>
+      <title>NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising</title>
+      <link>https://paperswithcode.com/paper/neslam-neural-implicit-mapping-and-self</link>
+      <description><![CDATA[Second, the occupancy scene representation is replaced with Signed Distance Field (SDF) hierarchical scene representation for high-quality reconstruction and view synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neslam-neural-implicit-mapping-and-self</guid>
+    </item>
+    <item>
+      <title>Video-Based Human Pose Regression via Decoupled Space-Time Aggregation</title>
+      <link>https://paperswithcode.com/paper/video-based-human-pose-regression-via</link>
+      <description><![CDATA[In light of this, we propose a novel Decoupled Space-Time Aggregation network (DSTA) to separately capture the spatial contexts between adjacent joints and the temporal cues of each individual joint, thereby avoiding the conflation of spatiotemporal dimensions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/video-based-human-pose-regression-via</guid>
+    </item>
+    <item>
+      <title>Embracing Unknown Step by Step: Towards Reliable Sparse Training in Real World</title>
+      <link>https://paperswithcode.com/paper/embracing-unknown-step-by-step-towards</link>
+      <description><![CDATA[Sparse training has emerged as a promising method for resource-efficient deep neural networks (DNNs) in real-world applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/embracing-unknown-step-by-step-towards</guid>
+    </item>
+    <item>
+      <title>Rewrite the Stars</title>
+      <link>https://paperswithcode.com/paper/rewrite-the-stars</link>
+      <description><![CDATA[Recent studies have drawn attention to the untapped potential of the "star operation" (element-wise multiplication) in network design.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rewrite-the-stars</guid>
+    </item>
+    <item>
+      <title>Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces</title>
+      <link>https://paperswithcode.com/paper/decision-mamba-reinforcement-learning-via</link>
+      <description><![CDATA[Decision Transformer, a promising approach that applies Transformer architectures to reinforcement learning, relies on causal self-attention to model sequences of states, actions, and rewards.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decision-mamba-reinforcement-learning-via</guid>
+    </item>
+    <item>
+      <title>Unsupervised Tumor-Aware Distillation for Multi-Modal Brain Image Translation</title>
+      <link>https://paperswithcode.com/paper/unsupervised-tumor-aware-distillation-for</link>
+      <description><![CDATA[Existing methods suffer from the problem of brain tumor deformation during translation, as they fail to focus on the tumor areas when translating the whole images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-tumor-aware-distillation-for</guid>
+    </item>
+    <item>
+      <title>Voice Signal Processing for Machine Learning. The Case of Speaker Isolation</title>
+      <link>https://paperswithcode.com/paper/voice-signal-processing-for-machine-learning</link>
+      <description><![CDATA[However, ML engineers who work on such tasks might not have a background in signal processing which is an entirely different area of expertise.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/voice-signal-processing-for-machine-learning</guid>
+    </item>
+    <item>
+      <title>Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations</title>
+      <link>https://paperswithcode.com/paper/learn-no-to-say-yes-better-improving-vision</link>
+      <description><![CDATA[Using CC-Neg along with modifications to the contrastive loss of CLIP, our proposed CoN-CLIP framework, has an improved understanding of negations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learn-no-to-say-yes-better-improving-vision</guid>
     </item>
     <item>
       <title>KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering</title>
@@ -243,34 +291,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/kguf-simple-knowledge-aware-graph-based</guid>
     </item>
     <item>
-      <title>New Semantic Task for the French Spoken Language Understanding MEDIA Benchmark</title>
-      <link>https://paperswithcode.com/paper/new-semantic-task-for-the-french-spoken</link>
-      <description><![CDATA[A combination ofmultiple datasets, including the MEDIA dataset, was suggested for training this joint model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/new-semantic-task-for-the-french-spoken</guid>
-    </item>
-    <item>
-      <title>Improving Clinical NLP Performance through Language Model-Generated Synthetic Clinical Data</title>
-      <link>https://paperswithcode.com/paper/improving-clinical-nlp-performance-through</link>
-      <description><![CDATA[Generative models have been showing potential for producing data in mass.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-clinical-nlp-performance-through</guid>
-    </item>
-    <item>
-      <title>Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/dataverse-open-source-etl-extract-transform</link>
-      <description><![CDATA[To address the challenges associated with data processing at scale, we propose Dataverse, a unified open-source Extract-Transform-Load (ETL) pipeline for large language models (LLMs) with a user-friendly design at its core.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dataverse-open-source-etl-extract-transform</guid>
-    </item>
-    <item>
-      <title>Detecting Financial Bots on the Ethereum Blockchain</title>
-      <link>https://paperswithcode.com/paper/detecting-financial-bots-on-the-ethereum</link>
-      <description><![CDATA[In this study, we present a novel approach that utilizes machine learning for the detection of financial bots on the Ethereum platform.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-financial-bots-on-the-ethereum</guid>
-    </item>
-    <item>
-      <title>JIST: Joint Image and Sequence Training for Sequential Visual Place Recognition</title>
-      <link>https://paperswithcode.com/paper/jist-joint-image-and-sequence-training-for</link>
-      <description><![CDATA[As a mitigation to this problem, we propose a novel Joint Image and Sequence Training protocol (JIST) that leverages large uncurated sets of images through a multi-task learning framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/jist-joint-image-and-sequence-training-for</guid>
+      <title>Heterogeneous Network Based Contrastive Learning Method for PolSAR Land Cover Classification</title>
+      <link>https://paperswithcode.com/paper/heterogeneous-network-based-contrastive</link>
+      <description><![CDATA[Besides, this work has implications for how to efficiently utilize the multi-features of PolSAR data to learn better high-level representation in CL and how to construct networks suitable for PolSAR data better.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/heterogeneous-network-based-contrastive</guid>
     </item>
     <item>
       <title>SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks</title>
@@ -279,34 +303,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sg-pgm-partial-graph-matching-network-with</guid>
     </item>
     <item>
-      <title>Model Stock: All we need is just a few fine-tuned models</title>
-      <link>https://paperswithcode.com/paper/model-stock-all-we-need-is-just-a-few-fine</link>
-      <description><![CDATA[This paper introduces an efficient fine-tuning method for large pre-trained models, offering strong in-distribution (ID) and out-of-distribution (OOD) performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/model-stock-all-we-need-is-just-a-few-fine</guid>
-    </item>
-    <item>
-      <title>An Interactive Human-Machine Learning Interface for Collecting and Learning from Complex Annotations</title>
-      <link>https://paperswithcode.com/paper/an-interactive-human-machine-learning</link>
-      <description><![CDATA[Human-Computer Interaction has been shown to lead to improvements in machine learning systems by boosting model performance, accelerating learning and building user confidence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-interactive-human-machine-learning</guid>
-    </item>
-    <item>
-      <title>Phonetic Segmentation of the UCLA Phonetics Lab Archive</title>
-      <link>https://paperswithcode.com/paper/phonetic-segmentation-of-the-ucla-phonetics</link>
-      <description><![CDATA[We also discuss the utility of the VoxAngeles corpus for general research and pedagogy in crosslinguistic phonetics, as well as for low-resource and multilingual speech technologies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/phonetic-segmentation-of-the-ucla-phonetics</guid>
-    </item>
-    <item>
-      <title>MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation</title>
-      <link>https://paperswithcode.com/paper/moditalker-motion-disentangled-diffusion</link>
-      <description><![CDATA[AToM excels in capturing subtle lip movements by leveraging an audio attention mechanism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moditalker-motion-disentangled-diffusion</guid>
-    </item>
-    <item>
-      <title>Flexible Analysis of Individual Heterogeneity in Event Studies: Application to the Child Penalty</title>
-      <link>https://paperswithcode.com/paper/flexible-analysis-of-individual-heterogeneity</link>
-      <description><![CDATA[Third, we use the individual-level estimates as a regressor on the right-hand side to study the intergenerational elasticity of the CP between mothers and daughters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flexible-analysis-of-individual-heterogeneity</guid>
+      <title>Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/dataverse-open-source-etl-extract-transform</link>
+      <description><![CDATA[To address the challenges associated with data processing at scale, we propose Dataverse, a unified open-source Extract-Transform-Load (ETL) pipeline for large language models (LLMs) with a user-friendly design at its core.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dataverse-open-source-etl-extract-transform</guid>
     </item>
   </channel>
 </rss>
