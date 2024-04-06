@@ -7,91 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Apr 2024 09:11:55 +0000</lastBuildDate>
-    <item>
-      <title>AI and the Problem of Knowledge Collapse</title>
-      <link>https://paperswithcode.com/paper/ai-and-the-problem-of-knowledge-collapse</link>
-      <description><![CDATA[While large language models are trained on vast amounts of diverse data, they naturally generate output towards the 'center' of the distribution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ai-and-the-problem-of-knowledge-collapse</guid>
-    </item>
-    <item>
-      <title>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction</title>
-      <link>https://paperswithcode.com/paper/evaluating-generative-language-models-in</link>
-      <description><![CDATA[(1) The imprecision of existing evaluation metrics that struggle to effectively gauge semantic consistency between model outputs and ground truth, and (2) The inherent incompleteness of evaluation benchmarks, primarily due to restrictive human annotation schemas, resulting in underestimated LLM performances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-generative-language-models-in</guid>
-    </item>
-    <item>
-      <title>Is CLIP the main roadblock for fine-grained open-world perception?</title>
-      <link>https://paperswithcode.com/paper/is-clip-the-main-roadblock-for-fine-grained</link>
-      <description><![CDATA[Modern applications increasingly demand flexible computer vision models that adapt to novel concepts not encountered during training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-clip-the-main-roadblock-for-fine-grained</guid>
-    </item>
-    <item>
-      <title>MonoCD: Monocular 3D Object Detection with Complementary Depths</title>
-      <link>https://paperswithcode.com/paper/monocd-monocular-3d-object-detection-with</link>
-      <description><![CDATA[Monocular 3D object detection has attracted widespread attention due to its potential to accurately obtain object 3D localization from a single image at a low cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/monocd-monocular-3d-object-detection-with</guid>
-    </item>
-    <item>
-      <title>EASSE-DE: Easier Automatic Sentence Simplification Evaluation for German</title>
-      <link>https://paperswithcode.com/paper/easse-de-easier-automatic-sentence</link>
-      <description><![CDATA[In this work, we propose EASSE-multi, a framework for easier automatic sentence evaluation for languages other than English.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easse-de-easier-automatic-sentence</guid>
-    </item>
-    <item>
-      <title>Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning</title>
-      <link>https://paperswithcode.com/paper/sparse-concept-bottleneck-models-gumbel</link>
-      <description><![CDATA[We propose a novel architecture and method of explainable classification with Concept Bottleneck Models (CBMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-concept-bottleneck-models-gumbel</guid>
-    </item>
-    <item>
-      <title>To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process</title>
-      <link>https://paperswithcode.com/paper/to-search-or-to-recommend-predicting-open-app</link>
-      <description><![CDATA[The model, referred to as Neural Hawkes Process-based Open-App Motivation prediction model (NHP-OAM), employs a hierarchical transformer and a novel intensity function to encode multiple factors, and open-app motivation prediction layer to integrate time and user-specific information for predicting users' open-app motivations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/to-search-or-to-recommend-predicting-open-app</guid>
-    </item>
-    <item>
-      <title>A Comparative Analysis of Word-Level Metric Differential Privacy: Benchmarking The Privacy-Utility Trade-off</title>
-      <link>https://paperswithcode.com/paper/a-comparative-analysis-of-word-level-metric</link>
-      <description><![CDATA[The application of Differential Privacy to Natural Language Processing techniques has emerged in relevance in recent years, with an increasing number of studies published in established NLP outlets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comparative-analysis-of-word-level-metric</guid>
-    </item>
-    <item>
-      <title>Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning</title>
-      <link>https://paperswithcode.com/paper/know-your-neighbors-improving-single-view</link>
-      <description><![CDATA[We propose KYN, a novel method for single-view scene reconstruction that reasons about semantic and spatial context to predict each point's density.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/know-your-neighbors-improving-single-view</guid>
-    </item>
-    <item>
-      <title>A Comprehensive Survey on Self-Supervised Learning for Recommendation</title>
-      <link>https://paperswithcode.com/paper/a-comprehensive-survey-on-self-supervised</link>
-      <description><![CDATA[Recommender systems play a crucial role in tackling the challenge of information overload by delivering personalized recommendations based on individual user preferences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comprehensive-survey-on-self-supervised</guid>
-    </item>
-    <item>
-      <title>ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model</title>
-      <link>https://paperswithcode.com/paper/changemamba-remote-sensing-change-detection</link>
-      <description><![CDATA[For the change decoder, which is available in all three architectures, we propose three spatio-temporal relationship modeling mechanisms, which can be naturally combined with the Mamba architecture and fully utilize its attribute to achieve spatio-temporal interaction of multi-temporal features and obtain accurate change information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/changemamba-remote-sensing-change-detection</guid>
-    </item>
-    <item>
-      <title>Edisum: Summarizing and Explaining Wikipedia Edits at Scale</title>
-      <link>https://paperswithcode.com/paper/edisum-summarizing-and-explaining-wikipedia</link>
-      <description><![CDATA[To overcome this problem and help editors write useful edit summaries, we propose a model for recommending edit summaries generated by a language model trained to produce good edit summaries given the representation of an edit diff.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/edisum-summarizing-and-explaining-wikipedia</guid>
-    </item>
-    <item>
-      <title>Schroedinger's Threshold: When the AUC doesn't predict Accuracy</title>
-      <link>https://paperswithcode.com/paper/schroedinger-s-threshold-when-the-auc-doesn-t</link>
-      <description><![CDATA[The Area Under Curve measure (AUC) seems apt to evaluate and compare diverse models, possibly without calibration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/schroedinger-s-threshold-when-the-auc-doesn-t</guid>
-    </item>
-    <item>
-      <title>Intent Detection and Entity Extraction from BioMedical Literature</title>
-      <link>https://paperswithcode.com/paper/intent-detection-and-entity-extraction-from</link>
-      <description><![CDATA[Biomedical queries have become increasingly prevalent in web searches, reflecting the growing interest in accessing biomedical literature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/intent-detection-and-entity-extraction-from</guid>
-    </item>
+    <lastBuildDate>Sat, 06 Apr 2024 21:07:04 +0000</lastBuildDate>
     <item>
       <title>On the Surprising Efficacy of Distillation as an Alternative to Pre-Training Small Models</title>
       <link>https://paperswithcode.com/paper/on-the-surprising-efficacy-of-distillation-as</link>
@@ -103,6 +19,24 @@
       <link>https://paperswithcode.com/paper/reft-representation-finetuning-for-language</link>
       <description><![CDATA[LoReFT is a drop-in replacement for existing PEFTs and learns interventions that are 10x-50x more parameter-efficient than prior state-of-the-art PEFTs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/reft-representation-finetuning-for-language</guid>
+    </item>
+    <item>
+      <title>Intent Detection and Entity Extraction from BioMedical Literature</title>
+      <link>https://paperswithcode.com/paper/intent-detection-and-entity-extraction-from</link>
+      <description><![CDATA[Biomedical queries have become increasingly prevalent in web searches, reflecting the growing interest in accessing biomedical literature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/intent-detection-and-entity-extraction-from</guid>
+    </item>
+    <item>
+      <title>Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?</title>
+      <link>https://paperswithcode.com/paper/robust-pronoun-use-fidelity-with-english-llms</link>
+      <description><![CDATA[We find that while models can mostly faithfully reuse previously-specified pronouns in the presence of no distractors, they are significantly worse at processing she/her/her, singular they and neopronouns.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-pronoun-use-fidelity-with-english-llms</guid>
+    </item>
+    <item>
+      <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</title>
+      <link>https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</link>
+      <description><![CDATA[Large language models (LLMs) have fueled many intelligent agent tasks, such as web navigation -- but most existing agents perform far from satisfying in real-world webpages due to three factors: (1) the versatility of actions on webpages, (2) HTML text exceeding model processing capacity, and (3) the complexity of decision-making due to the open-domain nature of web.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</guid>
     </item>
     <item>
       <title>SP$^2$OT: Semantic-Regularized Progressive Partial Optimal Transport for Imbalanced Clustering</title>
@@ -123,12 +57,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/locating-and-editing-factual-associations-in</guid>
     </item>
     <item>
-      <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</title>
-      <link>https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</link>
-      <description><![CDATA[Large language models (LLMs) have fueled many intelligent agent tasks, such as web navigation -- but most existing agents perform far from satisfying in real-world webpages due to three factors: (1) the versatility of actions on webpages, (2) HTML text exceeding model processing capacity, and (3) the complexity of decision-making due to the open-domain nature of web.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</guid>
-    </item>
-    <item>
       <title>DiffDet4SAR: Diffusion-based Aircraft Target Detection Network for SAR Images</title>
       <link>https://paperswithcode.com/paper/diffdet4sar-diffusion-based-aircraft-target</link>
       <description><![CDATA[Aircraft target detection in SAR images is a challenging task due to the discrete scattering points and severe background clutter interference.]]></description>
@@ -141,10 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/legrad-an-explainability-method-for-vision</guid>
     </item>
     <item>
-      <title>Laser Learning Environment: A new environment for coordination-critical multi-agent tasks</title>
-      <link>https://paperswithcode.com/paper/laser-learning-environment-a-new-environment</link>
-      <description><![CDATA[We introduce the Laser Learning Environment (LLE), a collaborative multi-agent reinforcement learning environment in which coordination is central.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/laser-learning-environment-a-new-environment</guid>
+      <title>Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization</title>
+      <link>https://paperswithcode.com/paper/benchmarking-parameter-control-methods-in</link>
+      <description><![CDATA[Although the PCM of SHADE is state-of-the-art for numerical black-box optimization, our results show its poor performance for mixed-integer black-box optimization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-parameter-control-methods-in</guid>
     </item>
     <item>
       <title>Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions</title>
@@ -153,28 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/foundation-model-for-advancing-healthcare</guid>
     </item>
     <item>
-      <title>Benchmarking Parameter Control Methods in Differential Evolution for Mixed-Integer Black-Box Optimization</title>
-      <link>https://paperswithcode.com/paper/benchmarking-parameter-control-methods-in</link>
-      <description><![CDATA[Although the PCM of SHADE is state-of-the-art for numerical black-box optimization, our results show its poor performance for mixed-integer black-box optimization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-parameter-control-methods-in</guid>
-    </item>
-    <item>
-      <title>LongVLM: Efficient Long Video Understanding via Large Language Models</title>
-      <link>https://paperswithcode.com/paper/longvlm-efficient-long-video-understanding</link>
-      <description><![CDATA[In this way, we encode video representations that incorporate both local and global information, enabling the LLM to generate comprehensive responses for long-term videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longvlm-efficient-long-video-understanding</guid>
-    </item>
-    <item>
       <title>BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering</title>
       <link>https://paperswithcode.com/paper/banglaautokg-automatic-bangla-knowledge-graph</link>
       <description><![CDATA[Knowledge Graphs (KGs) have proven essential in information processing and reasoning applications because they link related entities and give context-rich information, supporting efficient information retrieval and knowledge discovery; presenting information flow in a very effective manner.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/banglaautokg-automatic-bangla-knowledge-graph</guid>
     </item>
     <item>
-      <title>Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?</title>
-      <link>https://paperswithcode.com/paper/robust-pronoun-use-fidelity-with-english-llms</link>
-      <description><![CDATA[We find that while models can mostly faithfully reuse previously-specified pronouns in the presence of no distractors, they are significantly worse at processing she/her/her, singular they and neopronouns.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-pronoun-use-fidelity-with-english-llms</guid>
+      <title>Laser Learning Environment: A new environment for coordination-critical multi-agent tasks</title>
+      <link>https://paperswithcode.com/paper/laser-learning-environment-a-new-environment</link>
+      <description><![CDATA[We introduce the Laser Learning Environment (LLE), a collaborative multi-agent reinforcement learning environment in which coordination is central.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/laser-learning-environment-a-new-environment</guid>
+    </item>
+    <item>
+      <title>Sailor: Open Language Models for South-East Asia</title>
+      <link>https://paperswithcode.com/paper/sailor-open-language-models-for-south-east</link>
+      <description><![CDATA[We present Sailor, a family of open language models ranging from 0. 5B to 7B parameters, tailored for South-East Asian (SEA) languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sailor-open-language-models-for-south-east</guid>
     </item>
     <item>
       <title>NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA</title>
@@ -189,22 +111,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adaglimpse-active-visual-exploration-with</guid>
     </item>
     <item>
-      <title>Sailor: Open Language Models for South-East Asia</title>
-      <link>https://paperswithcode.com/paper/sailor-open-language-models-for-south-east</link>
-      <description><![CDATA[We present Sailor, a family of open language models ranging from 0. 5B to 7B parameters, tailored for South-East Asian (SEA) languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sailor-open-language-models-for-south-east</guid>
-    </item>
-    <item>
       <title>Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation</title>
       <link>https://paperswithcode.com/paper/decoupling-static-and-hierarchical-motion</link>
       <description><![CDATA[In fact, static cues can sometimes interfere with temporal perception by overshadowing motion cues.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/decoupling-static-and-hierarchical-motion</guid>
-    </item>
-    <item>
-      <title>Does Knowledge Graph Really Matter for Recommender Systems?</title>
-      <link>https://paperswithcode.com/paper/does-knowledge-graph-really-matter-for</link>
-      <description><![CDATA[We consider the scenarios where knowledge in a KG gets completely removed, randomly distorted and decreased, and also where recommendations are for cold-start users.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/does-knowledge-graph-really-matter-for</guid>
     </item>
     <item>
       <title>HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud</title>
@@ -213,16 +123,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/handdiff-3d-hand-pose-estimation-with</guid>
     </item>
     <item>
-      <title>Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks</title>
-      <link>https://paperswithcode.com/paper/theoretical-and-empirical-insights-into-the</link>
-      <description><![CDATA[Throughout our analysis, we connect our findings to previously-proposed hypotheses for the origins of degree bias, supporting and unifying some while drawing doubt to others.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/theoretical-and-empirical-insights-into-the</guid>
+      <title>Does Knowledge Graph Really Matter for Recommender Systems?</title>
+      <link>https://paperswithcode.com/paper/does-knowledge-graph-really-matter-for</link>
+      <description><![CDATA[We consider the scenarios where knowledge in a KG gets completely removed, randomly distorted and decreased, and also where recommendations are for cold-start users.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/does-knowledge-graph-really-matter-for</guid>
     </item>
     <item>
       <title>BodyMAP -- Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed</title>
       <link>https://paperswithcode.com/paper/bodymap-jointly-predicting-body-mesh-and-3d</link>
       <description><![CDATA[In contrast, we introduce BodyMAP, which jointly predicts the human body mesh and 3D applied pressure map across the entire human body.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/bodymap-jointly-predicting-body-mesh-and-3d</guid>
+    </item>
+    <item>
+      <title>Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks</title>
+      <link>https://paperswithcode.com/paper/theoretical-and-empirical-insights-into-the</link>
+      <description><![CDATA[Throughout our analysis, we connect our findings to previously-proposed hypotheses for the origins of degree bias, supporting and unifying some while drawing doubt to others.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/theoretical-and-empirical-insights-into-the</guid>
+    </item>
+    <item>
+      <title>Okay, Let's Do This! Modeling Event Coreference with Generated Rationales and Knowledge Distillation</title>
+      <link>https://paperswithcode.com/paper/okay-let-s-do-this-modeling-event-coreference</link>
+      <description><![CDATA[In NLP, Event Coreference Resolution (ECR) is the task of connecting event clusters that refer to the same underlying real-life event, usually via neural systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/okay-let-s-do-this-modeling-event-coreference</guid>
+    </item>
+    <item>
+      <title>A Comparative Analysis of Word-Level Metric Differential Privacy: Benchmarking The Privacy-Utility Trade-off</title>
+      <link>https://paperswithcode.com/paper/a-comparative-analysis-of-word-level-metric</link>
+      <description><![CDATA[The application of Differential Privacy to Natural Language Processing techniques has emerged in relevance in recent years, with an increasing number of studies published in established NLP outlets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comparative-analysis-of-word-level-metric</guid>
+    </item>
+    <item>
+      <title>Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning</title>
+      <link>https://paperswithcode.com/paper/know-your-neighbors-improving-single-view</link>
+      <description><![CDATA[We propose KYN, a novel method for single-view scene reconstruction that reasons about semantic and spatial context to predict each point's density.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/know-your-neighbors-improving-single-view</guid>
+    </item>
+    <item>
+      <title>Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/untangle-the-knot-interweaving-conflicting</link>
+      <description><![CDATA[However, knowledge in the document may conflict with the memory of LLMs due to outdated or incorrect knowledge in the LLMs' parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/untangle-the-knot-interweaving-conflicting</guid>
+    </item>
+    <item>
+      <title>Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization</title>
+      <link>https://paperswithcode.com/paper/mitigating-the-impact-of-outlier-channels-for</link>
+      <description><![CDATA[We show that regularizing both the inputs and outputs is crucial for preventing a model's "migrating" the difficulty in input quantization to the weights, which makes post-training quantization (PTQ) of weights more difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mitigating-the-impact-of-outlier-channels-for</guid>
+    </item>
+    <item>
+      <title>Leveraging Interpolation Models and Error Bounds for Verifiable Scientific Machine Learning</title>
+      <link>https://paperswithcode.com/paper/leveraging-interpolation-models-and-error</link>
+      <description><![CDATA[In this work, we present a best-of-both-worlds approach to verifiable scientific machine learning by demonstrating that (1) multiple standard interpolation techniques have informative error bounds that can be computed or estimated efficiently; (2) comparative performance among distinct interpolants can aid in validation goals; (3) deploying interpolation methods on latent spaces generated by deep learning techniques enables some interpretability for black-box models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-interpolation-models-and-error</guid>
     </item>
     <item>
       <title>Probing Large Language Models for Scalar Adjective Lexical Semantics and Scalar Diversity Pragmatics</title>
@@ -235,48 +187,6 @@
       <link>https://paperswithcode.com/paper/how-easily-do-irrelevant-inputs-skew-the</link>
       <description><![CDATA[By leveraging the retrieval of information from external knowledge databases, Large Language Models (LLMs) exhibit enhanced capabilities for accomplishing many knowledge-intensive tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/how-easily-do-irrelevant-inputs-skew-the</guid>
-    </item>
-    <item>
-      <title>Learning From Simplicial Data Based on Random Walks and 1D Convolutions</title>
-      <link>https://paperswithcode.com/paper/learning-from-simplicial-data-based-on-random</link>
-      <description><![CDATA[Triggered by limitations of graph-based deep learning methods in terms of computational expressivity and model flexibility, recent years have seen a surge of interest in computational models that operate on higher-order topological domains such as hypergraphs and simplicial complexes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-from-simplicial-data-based-on-random</guid>
-    </item>
-    <item>
-      <title>Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data</title>
-      <link>https://paperswithcode.com/paper/approximate-gradient-coding-for-privacy</link>
-      <description><![CDATA[This work focuses on the challenges of non-IID data and stragglers/dropouts in federated learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/approximate-gradient-coding-for-privacy</guid>
-    </item>
-    <item>
-      <title>Real-time Noise Source Estimation of a Camera System from an Image and Metadata</title>
-      <link>https://paperswithcode.com/paper/real-time-noise-source-estimation-of-a-camera</link>
-      <description><![CDATA[It also serves as a basis to include more advanced noise sources, or as part of an automatic countermeasure feedback-loop to approach fully reliable machines.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-noise-source-estimation-of-a-camera</guid>
-    </item>
-    <item>
-      <title>nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States</title>
-      <link>https://paperswithcode.com/paper/nicolay-r-at-semeval-2024-task-3-using-flan</link>
-      <description><![CDATA[Inspired by the most recent advances in Chain-of-Thought, in this work, we exploit the existing three-hop reasoning approach (THOR) to perform large language model instruction-tuning for answering: emotion states (THOR-state), and emotion caused by one speaker to the other (THOR-cause).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nicolay-r-at-semeval-2024-task-3-using-flan</guid>
-    </item>
-    <item>
-      <title>HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion</title>
-      <link>https://paperswithcode.com/paper/hapnet-toward-superior-rgb-thermal-scene</link>
-      <description><![CDATA[In this study, we take one step toward this new research area by exploring a feasible strategy to fully exploit VFM features for RGB-thermal scene parsing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hapnet-toward-superior-rgb-thermal-scene</guid>
-    </item>
-    <item>
-      <title>How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes</title>
-      <link>https://paperswithcode.com/paper/how-does-multi-task-training-affect</link>
-      <description><![CDATA[Large language models (LLM) have recently shown the extraordinary ability to perform unseen tasks based on few-shot examples provided as text, also known as in-context learning (ICL).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-does-multi-task-training-affect</guid>
-    </item>
-    <item>
-      <title>Learning Transferable Negative Prompts for Out-of-Distribution Detection</title>
-      <link>https://paperswithcode.com/paper/learning-transferable-negative-prompts-for</link>
-      <description><![CDATA[Existing prompt learning methods have shown certain capabilities in Out-of-Distribution (OOD) detection, but the lack of OOD images in the target dataset in their training can lead to mismatches between OOD images and In-Distribution (ID) categories, resulting in a high false positive rate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-transferable-negative-prompts-for</guid>
     </item>
     <item>
       <title>AdaBM: On-the-Fly Adaptive Bit Mapping for Image Super-Resolution</title>
@@ -297,16 +207,106 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-llms-at-detecting-errors-in-llm</guid>
     </item>
     <item>
-      <title>Untangle the KNOT: Interweaving Conflicting Knowledge and Reasoning Skills in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/untangle-the-knot-interweaving-conflicting</link>
-      <description><![CDATA[However, knowledge in the document may conflict with the memory of LLMs due to outdated or incorrect knowledge in the LLMs' parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/untangle-the-knot-interweaving-conflicting</guid>
+      <title>AI and the Problem of Knowledge Collapse</title>
+      <link>https://paperswithcode.com/paper/ai-and-the-problem-of-knowledge-collapse</link>
+      <description><![CDATA[While large language models are trained on vast amounts of diverse data, they naturally generate output towards the 'center' of the distribution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ai-and-the-problem-of-knowledge-collapse</guid>
     </item>
     <item>
-      <title>Okay, Let's Do This! Modeling Event Coreference with Generated Rationales and Knowledge Distillation</title>
-      <link>https://paperswithcode.com/paper/okay-let-s-do-this-modeling-event-coreference</link>
-      <description><![CDATA[In NLP, Event Coreference Resolution (ECR) is the task of connecting event clusters that refer to the same underlying real-life event, usually via neural systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/okay-let-s-do-this-modeling-event-coreference</guid>
+      <title>Is CLIP the main roadblock for fine-grained open-world perception?</title>
+      <link>https://paperswithcode.com/paper/is-clip-the-main-roadblock-for-fine-grained</link>
+      <description><![CDATA[Modern applications increasingly demand flexible computer vision models that adapt to novel concepts not encountered during training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/is-clip-the-main-roadblock-for-fine-grained</guid>
+    </item>
+    <item>
+      <title>Evaluating Generative Language Models in Information Extraction as Subjective Question Correction</title>
+      <link>https://paperswithcode.com/paper/evaluating-generative-language-models-in</link>
+      <description><![CDATA[(1) The imprecision of existing evaluation metrics that struggle to effectively gauge semantic consistency between model outputs and ground truth, and (2) The inherent incompleteness of evaluation benchmarks, primarily due to restrictive human annotation schemas, resulting in underestimated LLM performances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-generative-language-models-in</guid>
+    </item>
+    <item>
+      <title>Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning</title>
+      <link>https://paperswithcode.com/paper/sparse-concept-bottleneck-models-gumbel</link>
+      <description><![CDATA[We propose a novel architecture and method of explainable classification with Concept Bottleneck Models (CBMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparse-concept-bottleneck-models-gumbel</guid>
+    </item>
+    <item>
+      <title>EASSE-DE: Easier Automatic Sentence Simplification Evaluation for German</title>
+      <link>https://paperswithcode.com/paper/easse-de-easier-automatic-sentence</link>
+      <description><![CDATA[In this work, we propose EASSE-multi, a framework for easier automatic sentence evaluation for languages other than English.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easse-de-easier-automatic-sentence</guid>
+    </item>
+    <item>
+      <title>A Comprehensive Survey on Self-Supervised Learning for Recommendation</title>
+      <link>https://paperswithcode.com/paper/a-comprehensive-survey-on-self-supervised</link>
+      <description><![CDATA[Recommender systems play a crucial role in tackling the challenge of information overload by delivering personalized recommendations based on individual user preferences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-comprehensive-survey-on-self-supervised</guid>
+    </item>
+    <item>
+      <title>ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model</title>
+      <link>https://paperswithcode.com/paper/changemamba-remote-sensing-change-detection</link>
+      <description><![CDATA[For the change decoder, which is available in all three architectures, we propose three spatio-temporal relationship modeling mechanisms, which can be naturally combined with the Mamba architecture and fully utilize its attribute to achieve spatio-temporal interaction of multi-temporal features and obtain accurate change information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/changemamba-remote-sensing-change-detection</guid>
+    </item>
+    <item>
+      <title>nicolay-r at SemEval-2024 Task 3: Using Flan-T5 for Reasoning Emotion Cause in Conversations with Chain-of-Thought on Emotion States</title>
+      <link>https://paperswithcode.com/paper/nicolay-r-at-semeval-2024-task-3-using-flan</link>
+      <description><![CDATA[Inspired by the most recent advances in Chain-of-Thought, in this work, we exploit the existing three-hop reasoning approach (THOR) to perform large language model instruction-tuning for answering: emotion states (THOR-state), and emotion caused by one speaker to the other (THOR-cause).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nicolay-r-at-semeval-2024-task-3-using-flan</guid>
+    </item>
+    <item>
+      <title>Learning From Simplicial Data Based on Random Walks and 1D Convolutions</title>
+      <link>https://paperswithcode.com/paper/learning-from-simplicial-data-based-on-random</link>
+      <description><![CDATA[Triggered by limitations of graph-based deep learning methods in terms of computational expressivity and model flexibility, recent years have seen a surge of interest in computational models that operate on higher-order topological domains such as hypergraphs and simplicial complexes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-from-simplicial-data-based-on-random</guid>
+    </item>
+    <item>
+      <title>To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process</title>
+      <link>https://paperswithcode.com/paper/to-search-or-to-recommend-predicting-open-app</link>
+      <description><![CDATA[The model, referred to as Neural Hawkes Process-based Open-App Motivation prediction model (NHP-OAM), employs a hierarchical transformer and a novel intensity function to encode multiple factors, and open-app motivation prediction layer to integrate time and user-specific information for predicting users' open-app motivations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/to-search-or-to-recommend-predicting-open-app</guid>
+    </item>
+    <item>
+      <title>Real-time Noise Source Estimation of a Camera System from an Image and Metadata</title>
+      <link>https://paperswithcode.com/paper/real-time-noise-source-estimation-of-a-camera</link>
+      <description><![CDATA[It also serves as a basis to include more advanced noise sources, or as part of an automatic countermeasure feedback-loop to approach fully reliable machines.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-noise-source-estimation-of-a-camera</guid>
+    </item>
+    <item>
+      <title>HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion</title>
+      <link>https://paperswithcode.com/paper/hapnet-toward-superior-rgb-thermal-scene</link>
+      <description><![CDATA[In this study, we take one step toward this new research area by exploring a feasible strategy to fully exploit VFM features for RGB-thermal scene parsing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hapnet-toward-superior-rgb-thermal-scene</guid>
+    </item>
+    <item>
+      <title>How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes</title>
+      <link>https://paperswithcode.com/paper/how-does-multi-task-training-affect</link>
+      <description><![CDATA[Large language models (LLM) have recently shown the extraordinary ability to perform unseen tasks based on few-shot examples provided as text, also known as in-context learning (ICL).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-does-multi-task-training-affect</guid>
+    </item>
+    <item>
+      <title>Learning Transferable Negative Prompts for Out-of-Distribution Detection</title>
+      <link>https://paperswithcode.com/paper/learning-transferable-negative-prompts-for</link>
+      <description><![CDATA[Existing prompt learning methods have shown certain capabilities in Out-of-Distribution (OOD) detection, but the lack of OOD images in the target dataset in their training can lead to mismatches between OOD images and In-Distribution (ID) categories, resulting in a high false positive rate.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-transferable-negative-prompts-for</guid>
+    </item>
+    <item>
+      <title>Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data</title>
+      <link>https://paperswithcode.com/paper/approximate-gradient-coding-for-privacy</link>
+      <description><![CDATA[This work focuses on the challenges of non-IID data and stragglers/dropouts in federated learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/approximate-gradient-coding-for-privacy</guid>
+    </item>
+    <item>
+      <title>LongVLM: Efficient Long Video Understanding via Large Language Models</title>
+      <link>https://paperswithcode.com/paper/longvlm-efficient-long-video-understanding</link>
+      <description><![CDATA[In this way, we encode video representations that incorporate both local and global information, enabling the LLM to generate comprehensive responses for long-term videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longvlm-efficient-long-video-understanding</guid>
+    </item>
+    <item>
+      <title>Edisum: Summarizing and Explaining Wikipedia Edits at Scale</title>
+      <link>https://paperswithcode.com/paper/edisum-summarizing-and-explaining-wikipedia</link>
+      <description><![CDATA[To overcome this problem and help editors write useful edit summaries, we propose a model for recommending edit summaries generated by a language model trained to produce good edit summaries given the representation of an edit diff.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/edisum-summarizing-and-explaining-wikipedia</guid>
     </item>
   </channel>
 </rss>
