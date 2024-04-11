@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Apr 2024 21:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:13:06 +0000</lastBuildDate>
+    <item>
+      <title>AutoCodeRover: Autonomous Program Improvement</title>
+      <link>https://paperswithcode.com/paper/autocoderover-autonomous-program-improvement</link>
+      <description><![CDATA[Recent progress in Large Language Models (LLMs) has significantly impacted the development process, where developers can use LLM-based programming assistants to achieve automated coding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autocoderover-autonomous-program-improvement</guid>
+    </item>
     <item>
       <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
       <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
@@ -21,46 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instantstyle-free-lunch-towards-style</guid>
     </item>
     <item>
-      <title>ReFT: Representation Finetuning for Language Models</title>
-      <link>https://paperswithcode.com/paper/reft-representation-finetuning-for-language</link>
-      <description><![CDATA[LoReFT is a drop-in replacement for existing PEFTs and learns interventions that are 10x-50x more parameter-efficient than prior state-of-the-art PEFTs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reft-representation-finetuning-for-language</guid>
-    </item>
-    <item>
       <title>AIOS: LLM Agent Operating System</title>
       <link>https://paperswithcode.com/paper/llm-agent-operating-system</link>
       <description><![CDATA[Inspired by these challenges, this paper presents AIOS, an LLM agent operating system, which embeds large language model into operating systems (OS) as the brain of the OS, enabling an operating system "with soul" -- an important step towards AGI.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llm-agent-operating-system</guid>
     </item>
     <item>
-      <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</title>
-      <link>https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</link>
-      <description><![CDATA[Large language models (LLMs) have fueled many intelligent agent tasks, such as web navigation -- but most existing agents perform far from satisfying in real-world webpages due to three factors: (1) the versatility of actions on webpages, (2) HTML text exceeding model processing capacity, and (3) the complexity of decision-making due to the open-domain nature of web.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</guid>
-    </item>
-    <item>
-      <title>AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation</title>
-      <link>https://paperswithcode.com/paper/aniportrait-audio-driven-synthesis-of</link>
-      <description><![CDATA[In this study, we propose AniPortrait, a novel framework for generating high-quality animation driven by audio and a reference portrait image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aniportrait-audio-driven-synthesis-of</guid>
-    </item>
-    <item>
-      <title>VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild</title>
-      <link>https://paperswithcode.com/paper/voicecraft-zero-shot-speech-editing-and-text</link>
-      <description><![CDATA[We introduce VoiceCraft, a token infilling neural codec language model, that achieves state-of-the-art performance on both speech editing and zero-shot text-to-speech (TTS) on audiobooks, internet videos, and podcasts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/voicecraft-zero-shot-speech-editing-and-text</guid>
-    </item>
-    <item>
-      <title>DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing</title>
-      <link>https://paperswithcode.com/paper/dn-splatter-depth-and-normal-priors-for</link>
-      <description><![CDATA[3D Gaussian splatting, a novel differentiable rendering technique, has achieved state-of-the-art novel view synthesis results with high rendering speeds and relatively low training times.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dn-splatter-depth-and-normal-priors-for</guid>
-    </item>
-    <item>
-      <title>PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/pissa-principal-singular-values-and-singular</link>
-      <description><![CDATA[However, LoRA approximates Delta W through the product of two matrices, A, initialized with Gaussian noise, and B, initialized with zeros, while PiSSA initializes A and B with principal singular values and vectors of the original matrix W. PiSSA can better approximate the outcomes of full-parameter fine-tuning at the beginning by changing the essential parts while freezing the "noisy" parts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pissa-principal-singular-values-and-singular</guid>
+      <title>ReFT: Representation Finetuning for Language Models</title>
+      <link>https://paperswithcode.com/paper/reft-representation-finetuning-for-language</link>
+      <description><![CDATA[LoReFT is a drop-in replacement for existing PEFTs and learns interventions that are 10x-50x more parameter-efficient than prior state-of-the-art PEFTs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reft-representation-finetuning-for-language</guid>
     </item>
     <item>
       <title>HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach</title>
@@ -69,22 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hairfastgan-realistic-and-robust-hair</guid>
     </item>
     <item>
-      <title>StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text</title>
-      <link>https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</link>
-      <description><![CDATA[To overcome these limitations, we introduce StreamingT2V, an autoregressive approach for long video generation of 80, 240, 600, 1200 or more frames with smooth transitions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</guid>
-    </item>
-    <item>
-      <title>FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects</title>
-      <link>https://paperswithcode.com/paper/foundationpose-unified-6d-pose-estimation-and</link>
-      <description><![CDATA[We present FoundationPose, a unified foundation model for 6D object pose estimation and tracking, supporting both model-based and model-free setups.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/foundationpose-unified-6d-pose-estimation-and</guid>
-    </item>
-    <item>
       <title>SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System</title>
       <link>https://paperswithcode.com/paper/schurvins-schur-complement-based-lightweight</link>
       <description><![CDATA[To this end, we propose a novel filter-based VINS framework named SchurVINS, which could guarantee both high accuracy by building a complete residual model and low computational complexity with Schur complement.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/schurvins-schur-complement-based-lightweight</guid>
+    </item>
+    <item>
+      <title>AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation</title>
+      <link>https://paperswithcode.com/paper/aniportrait-audio-driven-synthesis-of</link>
+      <description><![CDATA[In this study, we propose AniPortrait, a novel framework for generating high-quality animation driven by audio and a reference portrait image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aniportrait-audio-driven-synthesis-of</guid>
     </item>
     <item>
       <title>Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models</title>
@@ -93,28 +63,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cross-attention-makes-inference-cumbersome-in</guid>
     </item>
     <item>
-      <title>Advancing LLM Reasoning Generalists with Preference Trees</title>
-      <link>https://paperswithcode.com/paper/advancing-llm-reasoning-generalists-with</link>
-      <description><![CDATA[We introduce Eurus, a suite of large language models (LLMs) optimized for reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/advancing-llm-reasoning-generalists-with</guid>
+      <title>PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/pissa-principal-singular-values-and-singular</link>
+      <description><![CDATA[However, LoRA approximates Delta W through the product of two matrices, A, initialized with Gaussian noise, and B, initialized with zeros, while PiSSA initializes A and B with principal singular values and vectors of the original matrix W. PiSSA can better approximate the outcomes of full-parameter fine-tuning at the beginning by changing the essential parts while freezing the "noisy" parts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pissa-principal-singular-values-and-singular</guid>
     </item>
     <item>
-      <title>CameraCtrl: Enabling Camera Control for Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/cameractrl-enabling-camera-control-for-text</link>
-      <description><![CDATA[Controllability plays a crucial role in video generation since it allows users to create desired content.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cameractrl-enabling-camera-control-for-text</guid>
+      <title>DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing</title>
+      <link>https://paperswithcode.com/paper/dn-splatter-depth-and-normal-priors-for</link>
+      <description><![CDATA[3D Gaussian splatting, a novel differentiable rendering technique, has achieved state-of-the-art novel view synthesis results with high rendering speeds and relatively low training times.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dn-splatter-depth-and-normal-priors-for</guid>
     </item>
     <item>
-      <title>ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model</title>
-      <link>https://paperswithcode.com/paper/changemamba-remote-sensing-change-detection</link>
-      <description><![CDATA[For the change decoder, which is available in all three architectures, we propose three spatio-temporal relationship modeling mechanisms, which can be naturally combined with the Mamba architecture and fully utilize its attribute to achieve spatio-temporal interaction of multi-temporal features and obtain accurate change information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/changemamba-remote-sensing-change-detection</guid>
+      <title>StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text</title>
+      <link>https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</link>
+      <description><![CDATA[To overcome these limitations, we introduce StreamingT2V, an autoregressive approach for long video generation of 80, 240, 600, 1200 or more frames with smooth transitions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</guid>
     </item>
     <item>
-      <title>Position Paper: What Can Large Language Models Tell Us about Time Series Analysis</title>
-      <link>https://paperswithcode.com/paper/position-paper-what-can-large-language-models</link>
-      <description><![CDATA[Time series analysis is essential for comprehending the complexities inherent in various real-world systems and applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/position-paper-what-can-large-language-models</guid>
+      <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</title>
+      <link>https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</link>
+      <description><![CDATA[Large language models (LLMs) have fueled many intelligent agent tasks, such as web navigation -- but most existing agents perform far from satisfying in real-world webpages due to three factors: (1) the versatility of actions on webpages, (2) HTML text exceeding model processing capacity, and (3) the complexity of decision-making due to the open-domain nature of web.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</guid>
+    </item>
+    <item>
+      <title>VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild</title>
+      <link>https://paperswithcode.com/paper/voicecraft-zero-shot-speech-editing-and-text</link>
+      <description><![CDATA[We introduce VoiceCraft, a token infilling neural codec language model, that achieves state-of-the-art performance on both speech editing and zero-shot text-to-speech (TTS) on audiobooks, internet videos, and podcasts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/voicecraft-zero-shot-speech-editing-and-text</guid>
+    </item>
+    <item>
+      <title>Document-Level Machine Translation with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/document-level-machine-translation-with-large</link>
+      <description><![CDATA[Large language models (LLMs) such as ChatGPT can produce coherent, cohesive, relevant, and fluent answers for various natural language processing (NLP) tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/document-level-machine-translation-with-large</guid>
+    </item>
+    <item>
+      <title>FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects</title>
+      <link>https://paperswithcode.com/paper/foundationpose-unified-6d-pose-estimation-and</link>
+      <description><![CDATA[We present FoundationPose, a unified foundation model for 6D object pose estimation and tracking, supporting both model-based and model-free setups.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/foundationpose-unified-6d-pose-estimation-and</guid>
     </item>
     <item>
       <title>UniTable: Towards a Unified Framework for Table Structure Recognition via Self-Supervised Pretraining</title>
@@ -123,10 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unitable-towards-a-unified-framework-for</guid>
     </item>
     <item>
-      <title>SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation</title>
-      <link>https://paperswithcode.com/paper/ssr-encoder-encoding-selective-subject</link>
-      <description><![CDATA[Recent advancements in subject-driven image generation have led to zero-shot generation, yet precise selection and focus on crucial subject representations remain challenging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ssr-encoder-encoding-selective-subject</guid>
+      <title>Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM</title>
+      <link>https://paperswithcode.com/paper/branch-train-mix-mixing-expert-llms-into-a</link>
+      <description><![CDATA[We investigate efficient methods for training Large Language Models (LLMs) to possess capabilities in multiple specialized domains, such as coding, math reasoning and world knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/branch-train-mix-mixing-expert-llms-into-a</guid>
+    </item>
+    <item>
+      <title>Position Paper: What Can Large Language Models Tell Us about Time Series Analysis</title>
+      <link>https://paperswithcode.com/paper/position-paper-what-can-large-language-models</link>
+      <description><![CDATA[Time series analysis is essential for comprehending the complexities inherent in various real-world systems and applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/position-paper-what-can-large-language-models</guid>
+    </item>
+    <item>
+      <title>OLMo: Accelerating the Science of Language Models</title>
+      <link>https://paperswithcode.com/paper/olmo-accelerating-the-science-of-language</link>
+      <description><![CDATA[Given the importance of these details in scientifically studying these models, including their biases and potential risks, we believe it is essential for the research community to have access to powerful, truly open LMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/olmo-accelerating-the-science-of-language</guid>
     </item>
   </channel>
 </rss>
