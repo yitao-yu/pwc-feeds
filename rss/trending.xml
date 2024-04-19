@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 21:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 09:13:24 +0000</lastBuildDate>
     <item>
       <title>Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models</title>
       <link>https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</link>
@@ -21,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mini-gemini-mining-the-potential-of-multi</guid>
     </item>
     <item>
-      <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
-      <link>https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</link>
-      <description><![CDATA[To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</guid>
+      <title>InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models</title>
+      <link>https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</link>
+      <description><![CDATA[We present InstantMesh, a feed-forward framework for instant 3D mesh generation from a single image, featuring state-of-the-art generation quality and significant training scalability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</guid>
     </item>
     <item>
       <title>Magic Clothing: Controllable Garment-Driven Image Synthesis</title>
@@ -33,40 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/magic-clothing-controllable-garment-driven</guid>
     </item>
     <item>
-      <title>InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models</title>
-      <link>https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</link>
-      <description><![CDATA[We present InstantMesh, a feed-forward framework for instant 3D mesh generation from a single image, featuring state-of-the-art generation quality and significant training scalability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</guid>
-    </item>
-    <item>
-      <title>MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators</title>
-      <link>https://paperswithcode.com/paper/magictime-time-lapse-video-generation-models</link>
-      <description><![CDATA[Recent advances in Text-to-Video generation (T2V) have achieved remarkable success in synthesizing high-quality general videos from textual descriptions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magictime-time-lapse-video-generation-models</guid>
-    </item>
-    <item>
-      <title>Probing the 3D Awareness of Visual Foundation Models</title>
-      <link>https://paperswithcode.com/paper/probing-the-3d-awareness-of-visual-foundation</link>
-      <description><![CDATA[Given that such models can classify, delineate, and localize objects in 2D, we ask whether they also represent their 3D structure?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/probing-the-3d-awareness-of-visual-foundation</guid>
-    </item>
-    <item>
-      <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
-      <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
-      <description><![CDATA[We present Visual AutoRegressive modeling (VAR), a new generation paradigm that redefines the autoregressive learning on images as coarse-to-fine "next-scale prediction" or "next-resolution prediction", diverging from the standard raster-scan "next-token prediction".]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
-    </item>
-    <item>
-      <title>State Space Model for New-Generation Network Alternative to Transformers: A Survey</title>
-      <link>https://paperswithcode.com/paper/state-space-model-for-new-generation-network</link>
-      <description><![CDATA[In this paper, we give the first comprehensive review of these works and also provide experimental comparisons and analysis to better demonstrate the features and advantages of SSM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/state-space-model-for-new-generation-network</guid>
-    </item>
-    <item>
-      <title>MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion</title>
-      <link>https://paperswithcode.com/paper/mygo-discrete-modality-information-as-fine</link>
-      <description><![CDATA[To overcome their inherent incompleteness, multi-modal knowledge graph completion (MMKGC) aims to discover unobserved knowledge from given MMKGs, leveraging both structural information from the triples and multi-modal information of the entities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mygo-discrete-modality-information-as-fine</guid>
+      <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
+      <link>https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</link>
+      <description><![CDATA[To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</guid>
     </item>
     <item>
       <title>Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length</title>
@@ -75,22 +45,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/megalodon-efficient-llm-pretraining-and</guid>
     </item>
     <item>
-      <title>LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding</title>
-      <link>https://paperswithcode.com/paper/layoutllm-layout-instruction-tuning-with</link>
-      <description><![CDATA[The core of LayoutLLM is a layout instruction tuning strategy, which is specially designed to enhance the comprehension and utilization of document layouts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/layoutllm-layout-instruction-tuning-with</guid>
+      <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
+      <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
+      <description><![CDATA[We present Visual AutoRegressive modeling (VAR), a new generation paradigm that redefines the autoregressive learning on images as coarse-to-fine "next-scale prediction" or "next-resolution prediction", diverging from the standard raster-scan "next-token prediction".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
     </item>
     <item>
-      <title>Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM</title>
-      <link>https://paperswithcode.com/paper/branch-train-mix-mixing-expert-llms-into-a</link>
-      <description><![CDATA[We investigate efficient methods for training Large Language Models (LLMs) to possess capabilities in multiple specialized domains, such as coding, math reasoning and world knowledge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/branch-train-mix-mixing-expert-llms-into-a</guid>
+      <title>Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations</title>
+      <link>https://paperswithcode.com/paper/actions-speak-louder-than-words-trillion</link>
+      <description><![CDATA[Large-scale recommendation systems are characterized by their reliance on high cardinality, heterogeneous features and the need to handle tens of billions of user actions on a daily basis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/actions-speak-louder-than-words-trillion</guid>
     </item>
     <item>
-      <title>Prepacking: A Simple Method for Fast Prefilling and Increased Throughput in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/prepacking-a-simple-method-for-fast</link>
-      <description><![CDATA[In this work, we highlight the following pitfall of prefilling: for batches containing high-varying prompt lengths, significant computation is wasted by the standard practice of padding sequences to the maximum length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prepacking-a-simple-method-for-fast</guid>
+      <title>MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion</title>
+      <link>https://paperswithcode.com/paper/mygo-discrete-modality-information-as-fine</link>
+      <description><![CDATA[To overcome their inherent incompleteness, multi-modal knowledge graph completion (MMKGC) aims to discover unobserved knowledge from given MMKGs, leveraging both structural information from the triples and multi-modal information of the entities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mygo-discrete-modality-information-as-fine</guid>
+    </item>
+    <item>
+      <title>State Space Model for New-Generation Network Alternative to Transformers: A Survey</title>
+      <link>https://paperswithcode.com/paper/state-space-model-for-new-generation-network</link>
+      <description><![CDATA[In this paper, we give the first comprehensive review of these works and also provide experimental comparisons and analysis to better demonstrate the features and advantages of SSM.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/state-space-model-for-new-generation-network</guid>
+    </item>
+    <item>
+      <title>Probing the 3D Awareness of Visual Foundation Models</title>
+      <link>https://paperswithcode.com/paper/probing-the-3d-awareness-of-visual-foundation</link>
+      <description><![CDATA[Given that such models can classify, delineate, and localize objects in 2D, we ask whether they also represent their 3D structure?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/probing-the-3d-awareness-of-visual-foundation</guid>
+    </item>
+    <item>
+      <title>LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models</title>
+      <link>https://paperswithcode.com/paper/lm-transparency-tool-interactive-tool-for</link>
+      <description><![CDATA[We present the LM Transparency Tool (LM-TT), an open-source interactive toolkit for analyzing the internal workings of Transformer-based language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lm-transparency-tool-interactive-tool-for</guid>
+    </item>
+    <item>
+      <title>MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators</title>
+      <link>https://paperswithcode.com/paper/magictime-time-lapse-video-generation-models</link>
+      <description><![CDATA[Recent advances in Text-to-Video generation (T2V) have achieved remarkable success in synthesizing high-quality general videos from textual descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magictime-time-lapse-video-generation-models</guid>
+    </item>
+    <item>
+      <title>Solving Data Quality Problems with Desbordante: a Demo</title>
+      <link>https://paperswithcode.com/paper/solving-data-quality-problems-with</link>
+      <description><![CDATA[However, most existing data profiling systems that focus on complex statistics do not provide proper integration with the tools used by contemporary data scientists.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/solving-data-quality-problems-with</guid>
     </item>
     <item>
       <title>Arc2Face: A Foundation Model of Human Faces</title>
@@ -99,22 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/arc2face-a-foundation-model-of-human-faces</guid>
     </item>
     <item>
-      <title>Rho-1: Not All Tokens Are What You Need</title>
-      <link>https://paperswithcode.com/paper/rho-1-not-all-tokens-are-what-you-need</link>
-      <description><![CDATA[After fine-tuning, Rho-1-1B and 7B achieved state-of-the-art results of 40. 6% and 51. 8% on MATH dataset, respectively - matching DeepSeekMath with only 3% of the pretraining tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rho-1-not-all-tokens-are-what-you-need</guid>
-    </item>
-    <item>
-      <title>Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance</title>
-      <link>https://paperswithcode.com/paper/champ-controllable-and-consistent-human-image</link>
-      <description><![CDATA[In this study, we introduce a methodology for human image animation by leveraging a 3D human parametric model within a latent diffusion framework to enhance shape alignment and motion guidance in curernt human generative techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/champ-controllable-and-consistent-human-image</guid>
-    </item>
-    <item>
-      <title>LAFS: Landmark-based Facial Self-supervised Learning for Face Recognition</title>
-      <link>https://paperswithcode.com/paper/lafs-landmark-based-facial-self-supervised</link>
-      <description><![CDATA[This enables our method - namely LAndmark-based Facial Self-supervised learning LAFS), to learn key representation that is more critical for face recognition.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lafs-landmark-based-facial-self-supervised</guid>
+      <title>Unrecognizable Yet Identifiable: Image Distortion with Preserved Embeddings</title>
+      <link>https://paperswithcode.com/paper/unrecognizable-yet-identifiable-image</link>
+      <description><![CDATA[In the realm of security applications, biometric authentication systems play a crucial role, yet one often encounters challenges concerning privacy and security while developing one.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unrecognizable-yet-identifiable-image</guid>
     </item>
     <item>
       <title>Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention</title>
@@ -123,10 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/leave-no-context-behind-efficient-infinite</guid>
     </item>
     <item>
-      <title>StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text</title>
-      <link>https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</link>
-      <description><![CDATA[To overcome these limitations, we introduce StreamingT2V, an autoregressive approach for long video generation of 80, 240, 600, 1200 or more frames with smooth transitions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</guid>
+      <title>Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance</title>
+      <link>https://paperswithcode.com/paper/champ-controllable-and-consistent-human-image</link>
+      <description><![CDATA[In this study, we introduce a methodology for human image animation by leveraging a 3D human parametric model within a latent diffusion framework to enhance shape alignment and motion guidance in curernt human generative techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/champ-controllable-and-consistent-human-image</guid>
+    </item>
+    <item>
+      <title>ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback</title>
+      <link>https://paperswithcode.com/paper/controlnet-improving-conditional-controls</link>
+      <description><![CDATA[To this end, we propose ControlNet++, a novel approach that improves controllable generation by explicitly optimizing pixel-level cycle consistency between generated images and conditional controls.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/controlnet-improving-conditional-controls</guid>
+    </item>
+    <item>
+      <title>Joint Physical-Digital Facial Attack Detection Via Simulating Spoofing Clues</title>
+      <link>https://paperswithcode.com/paper/joint-physical-digital-facial-attack</link>
+      <description><![CDATA[SPSC and SDSC augment live samples into simulated attack samples by simulating spoofing clues of physical and digital attacks, respectively, which significantly improve the capability of the model to detect "unseen" attack types.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/joint-physical-digital-facial-attack</guid>
     </item>
   </channel>
 </rss>
