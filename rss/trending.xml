@@ -7,18 +7,54 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 09:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 21:08:17 +0000</lastBuildDate>
     <item>
-      <title>Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</link>
-      <description><![CDATA[We study how to apply large language models to write grounded and organized long-form articles from scratch, with comparable breadth and depth to Wikipedia pages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</guid>
+      <title>OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework</title>
+      <link>https://paperswithcode.com/paper/openelm-an-efficient-language-model-family</link>
+      <description><![CDATA[To this end, we release OpenELM, a state-of-the-art open language model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openelm-an-efficient-language-model-family</guid>
     </item>
     <item>
-      <title>Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models</title>
-      <link>https://paperswithcode.com/paper/mini-gemini-mining-the-potential-of-multi</link>
-      <description><![CDATA[We try to narrow the gap by mining the potential of VLMs for better performance and any-to-any workflow from three aspects, i. e., high-resolution visual tokens, high-quality data, and VLM-guided generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mini-gemini-mining-the-potential-of-multi</guid>
+      <title>CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/cyberseceval-2-a-wide-ranging-cybersecurity</link>
+      <description><![CDATA[We present BenchmarkName, a novel benchmark to quantify LLM security risks and capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cyberseceval-2-a-wide-ranging-cybersecurity</guid>
+    </item>
+    <item>
+      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
+      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
+      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
+    </item>
+    <item>
+      <title>Improving Diffusion Models for Virtual Try-on</title>
+      <link>https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</link>
+      <description><![CDATA[Finally, we present a customization method using a pair of person-garment images, which significantly improves fidelity and authenticity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</guid>
+    </item>
+    <item>
+      <title>ID-Animator: Zero-Shot Identity-Preserving Human Video Generation</title>
+      <link>https://paperswithcode.com/paper/id-animator-zero-shot-identity-preserving</link>
+      <description><![CDATA[Based on this pipeline, a random face reference training method is further devised to precisely capture the ID-relevant embeddings from reference images, thus improving the fidelity and generalization capacity of our model for ID-specific video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/id-animator-zero-shot-identity-preserving</guid>
+    </item>
+    <item>
+      <title>ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation</title>
+      <link>https://paperswithcode.com/paper/esrl-efficient-sampling-based-reinforcement</link>
+      <description><![CDATA[Applying Reinforcement Learning (RL) to sequence generation models enables the direct optimization of long-term rewards (\textit{e. g.,} BLEU and human feedback), but typically requires large-scale sampling over a space of action sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/esrl-efficient-sampling-based-reinforcement</guid>
+    </item>
+    <item>
+      <title>Dynamic Generation of Personalities with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/dynamic-generation-of-personalities-with</link>
+      <description><![CDATA[We propose a new metric to assess personality generation capability based on this evaluation method.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-generation-of-personalities-with</guid>
+    </item>
+    <item>
+      <title>AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation</title>
+      <link>https://paperswithcode.com/paper/autocrawler-a-progressive-understanding-web</link>
+      <description><![CDATA[We propose AutoCrawler, a two-stage framework that leverages the hierarchical structure of HTML for progressive understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autocrawler-a-progressive-understanding-web</guid>
     </item>
     <item>
       <title>InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models</title>
@@ -27,10 +63,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</guid>
     </item>
     <item>
-      <title>LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models</title>
-      <link>https://paperswithcode.com/paper/lm-transparency-tool-interactive-tool-for</link>
-      <description><![CDATA[We present the LM Transparency Tool (LM-TT), an open-source interactive toolkit for analyzing the internal workings of Transformer-based language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lm-transparency-tool-interactive-tool-for</guid>
+      <title>SnapKV: LLM Knows What You are Looking for Before Generation</title>
+      <link>https://paperswithcode.com/paper/snapkv-llm-knows-what-you-are-looking-for</link>
+      <description><![CDATA[Specifically, SnapKV achieves a consistent decoding speed with a 3. 6x increase in generation speed and an 8. 2x enhancement in memory efficiency compared to baseline when processing inputs of 16K tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/snapkv-llm-knows-what-you-are-looking-for</guid>
+    </item>
+    <item>
+      <title>Moving Object Segmentation: All You Need Is SAM (and Flow)</title>
+      <link>https://paperswithcode.com/paper/moving-object-segmentation-all-you-need-is</link>
+      <description><![CDATA[The objective of this paper is motion segmentation -- discovering and segmenting the moving objects in a video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moving-object-segmentation-all-you-need-is</guid>
+    </item>
+    <item>
+      <title>SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation</title>
+      <link>https://paperswithcode.com/paper/seed-x-multimodal-models-with-unified-multi</link>
+      <description><![CDATA[We hope that our work will inspire future research into what can be achieved by versatile multimodal foundation models in real-world applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seed-x-multimodal-models-with-unified-multi</guid>
+    </item>
+    <item>
+      <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</title>
+      <link>https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</link>
+      <description><![CDATA[Large language models (LLMs) have fueled many intelligent agent tasks, such as web navigation -- but most existing agents perform far from satisfying in real-world webpages due to three factors: (1) the versatility of actions on webpages, (2) HTML text exceeding model processing capacity, and (3) the complexity of decision-making due to the open-domain nature of web.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</guid>
     </item>
     <item>
       <title>Magic Clothing: Controllable Garment-Driven Image Synthesis</title>
@@ -39,94 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/magic-clothing-controllable-garment-driven</guid>
     </item>
     <item>
-      <title>Solving Data Quality Problems with Desbordante: a Demo</title>
-      <link>https://paperswithcode.com/paper/solving-data-quality-problems-with</link>
-      <description><![CDATA[However, most existing data profiling systems that focus on complex statistics do not provide proper integration with the tools used by contemporary data scientists.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/solving-data-quality-problems-with</guid>
-    </item>
-    <item>
-      <title>Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length</title>
-      <link>https://paperswithcode.com/paper/megalodon-efficient-llm-pretraining-and</link>
-      <description><![CDATA[The quadratic complexity and weak length extrapolation of Transformers limits their ability to scale to long sequences, and while sub-quadratic solutions like linear attention and state space models exist, they empirically underperform Transformers in pretraining efficiency and downstream task accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/megalodon-efficient-llm-pretraining-and</guid>
-    </item>
-    <item>
-      <title>Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations</title>
-      <link>https://paperswithcode.com/paper/actions-speak-louder-than-words-trillion</link>
-      <description><![CDATA[Large-scale recommendation systems are characterized by their reliance on high cardinality, heterogeneous features and the need to handle tens of billions of user actions on a daily basis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/actions-speak-louder-than-words-trillion</guid>
-    </item>
-    <item>
-      <title>MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion</title>
-      <link>https://paperswithcode.com/paper/mygo-discrete-modality-information-as-fine</link>
-      <description><![CDATA[To overcome their inherent incompleteness, multi-modal knowledge graph completion (MMKGC) aims to discover unobserved knowledge from given MMKGs, leveraging both structural information from the triples and multi-modal information of the entities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mygo-discrete-modality-information-as-fine</guid>
-    </item>
-    <item>
       <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
       <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
       <description><![CDATA[We present Visual AutoRegressive modeling (VAR), a new generation paradigm that redefines the autoregressive learning on images as coarse-to-fine "next-scale prediction" or "next-resolution prediction", diverging from the standard raster-scan "next-token prediction".]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
     </item>
     <item>
-      <title>Arc2Face: A Foundation Model of Human Faces</title>
-      <link>https://paperswithcode.com/paper/arc2face-a-foundation-model-of-human-faces</link>
-      <description><![CDATA[This paper presents Arc2Face, an identity-conditioned face foundation model, which, given the ArcFace embedding of a person, can generate diverse photo-realistic images with an unparalleled degree of face similarity than existing models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/arc2face-a-foundation-model-of-human-faces</guid>
+      <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
+      <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
+      <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
     </item>
     <item>
-      <title>State Space Model for New-Generation Network Alternative to Transformers: A Survey</title>
-      <link>https://paperswithcode.com/paper/state-space-model-for-new-generation-network</link>
-      <description><![CDATA[In this paper, we give the first comprehensive review of these works and also provide experimental comparisons and analysis to better demonstrate the features and advantages of SSM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/state-space-model-for-new-generation-network</guid>
+      <title>Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</link>
+      <description><![CDATA[We study how to apply large language models to write grounded and organized long-form articles from scratch, with comparable breadth and depth to Wikipedia pages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</guid>
     </item>
     <item>
-      <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
-      <link>https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</link>
-      <description><![CDATA[To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</guid>
+      <title>AgentKit: Flow Engineering with Graphs, not Coding</title>
+      <link>https://paperswithcode.com/paper/agentkit-flow-engineering-with-graphs-not</link>
+      <description><![CDATA[The chains of nodes can be designed to explicitly enforce a naturally structured "thought process".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentkit-flow-engineering-with-graphs-not</guid>
     </item>
     <item>
-      <title>Unrecognizable Yet Identifiable: Image Distortion with Preserved Embeddings</title>
-      <link>https://paperswithcode.com/paper/unrecognizable-yet-identifiable-image</link>
-      <description><![CDATA[In the realm of security applications, biometric authentication systems play a crucial role, yet one often encounters challenges concerning privacy and security while developing one.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unrecognizable-yet-identifiable-image</guid>
+      <title>Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization</title>
+      <link>https://paperswithcode.com/paper/multi-session-slam-with-differentiable-wide</link>
+      <description><![CDATA[The backbone is trained end-to-end using a novel differentiable solver for wide-baseline two-view pose.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-session-slam-with-differentiable-wide</guid>
     </item>
     <item>
-      <title>RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems</title>
-      <link>https://paperswithcode.com/paper/recai-leveraging-large-language-models-for</link>
-      <description><![CDATA[This paper introduces RecAI, a practical toolkit designed to augment or even revolutionize recommender systems with the advanced capabilities of Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/recai-leveraging-large-language-models-for</guid>
-    </item>
-    <item>
-      <title>ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback</title>
-      <link>https://paperswithcode.com/paper/controlnet-improving-conditional-controls</link>
-      <description><![CDATA[To this end, we propose ControlNet++, a novel approach that improves controllable generation by explicitly optimizing pixel-level cycle consistency between generated images and conditional controls.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/controlnet-improving-conditional-controls</guid>
-    </item>
-    <item>
-      <title>Joint Physical-Digital Facial Attack Detection Via Simulating Spoofing Clues</title>
-      <link>https://paperswithcode.com/paper/joint-physical-digital-facial-attack</link>
-      <description><![CDATA[SPSC and SDSC augment live samples into simulated attack samples by simulating spoofing clues of physical and digital attacks, respectively, which significantly improve the capability of the model to detect "unseen" attack types.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/joint-physical-digital-facial-attack</guid>
-    </item>
-    <item>
-      <title>TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding</title>
-      <link>https://paperswithcode.com/paper/triforce-lossless-acceleration-of-long</link>
-      <description><![CDATA[However, key-value (KV) cache, which is stored to avoid re-computation, has emerged as a critical bottleneck by growing linearly in size with the sequence length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/triforce-lossless-acceleration-of-long</guid>
-    </item>
-    <item>
-      <title>Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance</title>
-      <link>https://paperswithcode.com/paper/champ-controllable-and-consistent-human-image</link>
-      <description><![CDATA[In this study, we introduce a methodology for human image animation by leveraging a 3D human parametric model within a latent diffusion framework to enhance shape alignment and motion guidance in curernt human generative techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/champ-controllable-and-consistent-human-image</guid>
-    </item>
-    <item>
-      <title>AutoCodeRover: Autonomous Program Improvement</title>
-      <link>https://paperswithcode.com/paper/autocoderover-autonomous-program-improvement</link>
-      <description><![CDATA[Recent progress in Large Language Models (LLMs) has significantly impacted the development process, where developers can use LLM-based programming assistants to achieve automated coding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autocoderover-autonomous-program-improvement</guid>
+      <title>Towards Large Language Models as Copilots for Theorem Proving in Lean</title>
+      <link>https://paperswithcode.com/paper/towards-large-language-models-as-copilots-for</link>
+      <description><![CDATA[In this paper, we explore LLMs as copilots that assist humans in proving theorems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-large-language-models-as-copilots-for</guid>
     </item>
   </channel>
 </rss>
