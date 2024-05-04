@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 May 2024 09:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:07:37 +0000</lastBuildDate>
     <item>
-      <title>CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data</title>
-      <link>https://paperswithcode.com/paper/catlip-clip-level-visual-recognition-accuracy</link>
-      <description><![CDATA[Contrastive learning has emerged as a transformative method for learning effective visual representations through the alignment of image and text embeddings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/catlip-clip-level-visual-recognition-accuracy</guid>
+      <title>KAN: Kolmogorov-Arnold Networks</title>
+      <link>https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</link>
+      <description><![CDATA[Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</guid>
+    </item>
+    <item>
+      <title>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</title>
+      <link>https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</link>
+      <description><![CDATA[This module converts the generated sequence of images into videos with smooth transitions and consistent subjects that are significantly more stable than the modules based on latent spaces only, especially in the context of long video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</guid>
+    </item>
+    <item>
+      <title>Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models</title>
+      <link>https://paperswithcode.com/paper/prometheus-2-an-open-source-language-model</link>
+      <description><![CDATA[Proprietary LMs such as GPT-4 are often employed to assess the quality of responses from various LMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prometheus-2-an-open-source-language-model</guid>
     </item>
     <item>
       <title>X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design</title>
@@ -27,34 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</guid>
     </item>
     <item>
-      <title>AgentScope: A Flexible yet Robust Multi-Agent Platform</title>
-      <link>https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</link>
-      <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</guid>
-    </item>
-    <item>
-      <title>OpenVoice: Versatile Instant Voice Cloning</title>
-      <link>https://paperswithcode.com/paper/openvoice-versatile-instant-voice-cloning</link>
-      <description><![CDATA[The voice styles are not directly copied from and constrained by the style of the reference speaker.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openvoice-versatile-instant-voice-cloning</guid>
-    </item>
-    <item>
-      <title>FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent</title>
-      <link>https://paperswithcode.com/paper/flowmap-high-quality-camera-poses-intrinsics</link>
-      <description><![CDATA[This paper introduces FlowMap, an end-to-end differentiable method that solves for precise camera poses, camera intrinsics, and per-frame dense depth of a video sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flowmap-high-quality-camera-poses-intrinsics</guid>
-    </item>
-    <item>
-      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
-      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
-      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
-    </item>
-    <item>
-      <title>PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning</title>
-      <link>https://paperswithcode.com/paper/pllava-parameter-free-llava-extension-from-1</link>
-      <description><![CDATA[PLLaVA achieves new state-of-the-art performance on modern benchmark datasets for both video question-answer and captioning tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pllava-parameter-free-llava-extension-from-1</guid>
+      <title>Lightplane: Highly-Scalable Components for Neural 3D Fields</title>
+      <link>https://paperswithcode.com/paper/lightplane-highly-scalable-components-for</link>
+      <description><![CDATA[Contemporary 3D research, particularly in reconstruction and generation, heavily relies on 2D images for inputs or supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightplane-highly-scalable-components-for</guid>
     </item>
     <item>
       <title>ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving</title>
@@ -63,52 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/consistentid-portrait-generation-with</guid>
     </item>
     <item>
-      <title>Make Your LLM Fully Utilize the Context</title>
-      <link>https://paperswithcode.com/paper/make-your-llm-fully-utilize-the-context</link>
-      <description><![CDATA[While many contemporary large language models (LLMs) can process lengthy input, they still struggle to fully utilize information within the long context, known as the lost-in-the-middle challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/make-your-llm-fully-utilize-the-context</guid>
-    </item>
-    <item>
-      <title>InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models</title>
-      <link>https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</link>
-      <description><![CDATA[We present InstantMesh, a feed-forward framework for instant 3D mesh generation from a single image, featuring state-of-the-art generation quality and significant training scalability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instantmesh-efficient-3d-mesh-generation-from</guid>
-    </item>
-    <item>
-      <title>MolTC: Towards Molecular Relational Modeling In Language Models</title>
-      <link>https://paperswithcode.com/paper/moltc-towards-molecular-relational-modeling</link>
-      <description><![CDATA[Molecular Relational Learning (MRL), aiming to understand interactions between molecular pairs, plays a pivotal role in advancing biochemical research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moltc-towards-molecular-relational-modeling</guid>
-    </item>
-    <item>
-      <title>STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases</title>
-      <link>https://paperswithcode.com/paper/stark-benchmarking-llm-retrieval-on-textual</link>
-      <description><![CDATA[Answering real-world user queries, such as product search, often requires accurate retrieval of information from semi-structured knowledge bases or databases that involve blend of unstructured (e. g., textual descriptions of products) and structured (e. g., entity relations of products) information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stark-benchmarking-llm-retrieval-on-textual</guid>
-    </item>
-    <item>
-      <title>Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models</title>
-      <link>https://paperswithcode.com/paper/groma-localized-visual-tokenization-for</link>
-      <description><![CDATA[We introduce Groma, a Multimodal Large Language Model (MLLM) with grounded and fine-grained visual perception ability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/groma-localized-visual-tokenization-for</guid>
-    </item>
-    <item>
-      <title>QLoRA: Efficient Finetuning of Quantized LLMs</title>
-      <link>https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</link>
-      <description><![CDATA[Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99. 3% of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qlora-efficient-finetuning-of-quantized-llms</guid>
-    </item>
-    <item>
-      <title>AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation</title>
-      <link>https://paperswithcode.com/paper/autocrawler-a-progressive-understanding-web</link>
-      <description><![CDATA[We propose AutoCrawler, a two-stage framework that leverages the hierarchical structure of HTML for progressive understanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autocrawler-a-progressive-understanding-web</guid>
-    </item>
-    <item>
-      <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
-      <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
-      <description><![CDATA[We present Visual AutoRegressive modeling (VAR), a new generation paradigm that redefines the autoregressive learning on images as coarse-to-fine "next-scale prediction" or "next-resolution prediction", diverging from the standard raster-scan "next-token prediction".]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
+      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
+      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
     </item>
     <item>
       <title>PuLID: Pure and Lightning ID Customization via Contrastive Alignment</title>
@@ -117,16 +63,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pulid-pure-and-lightning-id-customization-via</guid>
     </item>
     <item>
-      <title>MultiBooth: Towards Generating All Your Concepts in an Image from Text</title>
-      <link>https://paperswithcode.com/paper/multibooth-towards-generating-all-your</link>
-      <description><![CDATA[MultiBooth addresses these issues by dividing the multi-concept generation process into two phases: a single-concept learning phase and a multi-concept integration phase.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multibooth-towards-generating-all-your</guid>
+      <title>RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing</title>
+      <link>https://paperswithcode.com/paper/rag-and-rau-a-survey-on-retrieval-augmented</link>
+      <description><![CDATA[Large Language Models (LLMs) have catalyzed significant advancements in Natural Language Processing (NLP), yet they encounter challenges such as hallucination and the need for domain-specific knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rag-and-rau-a-survey-on-retrieval-augmented</guid>
     </item>
     <item>
-      <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
-      <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
-      <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
+      <title>AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One</title>
+      <link>https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</link>
+      <description><![CDATA[A handful of visual foundation models (VFMs) have recently emerged as the backbones for numerous downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</guid>
+    </item>
+    <item>
+      <title>Spectrally Pruned Gaussian Fields with Neural Compensation</title>
+      <link>https://paperswithcode.com/paper/spectrally-pruned-gaussian-fields-with-neural</link>
+      <description><![CDATA[However, this comes with high memory consumption, e. g., a well-trained Gaussian field may utilize three million Gaussian primitives and over 700 MB of memory.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spectrally-pruned-gaussian-fields-with-neural</guid>
+    </item>
+    <item>
+      <title>WavCraft: Audio Editing and Generation with Natural Language Prompts</title>
+      <link>https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</link>
+      <description><![CDATA[We introduce WavCraft, a collective system that leverages large language models (LLMs) to connect diverse task-specific models for audio content creation and editing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</guid>
+    </item>
+    <item>
+      <title>PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning</title>
+      <link>https://paperswithcode.com/paper/pllava-parameter-free-llava-extension-from-1</link>
+      <description><![CDATA[PLLaVA achieves new state-of-the-art performance on modern benchmark datasets for both video question-answer and captioning tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pllava-parameter-free-llava-extension-from-1</guid>
+    </item>
+    <item>
+      <title>Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding</title>
+      <link>https://paperswithcode.com/paper/meta-prompting-enhancing-language-models-with</link>
+      <description><![CDATA[This collaborative prompting approach empowers a single LM to simultaneously act as a comprehensive orchestrator and a panel of diverse experts, significantly enhancing its performance across a wide array of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-prompting-enhancing-language-models-with</guid>
+    </item>
+    <item>
+      <title>FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent</title>
+      <link>https://paperswithcode.com/paper/flowmap-high-quality-camera-poses-intrinsics</link>
+      <description><![CDATA[This paper introduces FlowMap, an end-to-end differentiable method that solves for precise camera poses, camera intrinsics, and per-frame dense depth of a video sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flowmap-high-quality-camera-poses-intrinsics</guid>
+    </item>
+    <item>
+      <title>MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction</title>
+      <link>https://paperswithcode.com/paper/microdreamer-zero-shot-3d-generation-in-sim</link>
+      <description><![CDATA[In this paper, we introduce score-based iterative reconstruction (SIR), an efficient and general algorithm for 3D generation with a multi-view score-based diffusion model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/microdreamer-zero-shot-3d-generation-in-sim</guid>
+    </item>
+    <item>
+      <title>CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data</title>
+      <link>https://paperswithcode.com/paper/catlip-clip-level-visual-recognition-accuracy</link>
+      <description><![CDATA[Contrastive learning has emerged as a transformative method for learning effective visual representations through the alignment of image and text embeddings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/catlip-clip-level-visual-recognition-accuracy</guid>
+    </item>
+    <item>
+      <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
+      <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
+      <description><![CDATA[We present Visual AutoRegressive modeling (VAR), a new generation paradigm that redefines the autoregressive learning on images as coarse-to-fine "next-scale prediction" or "next-resolution prediction", diverging from the standard raster-scan "next-token prediction".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
+    </item>
+    <item>
+      <title>MemGPT: Towards LLMs as Operating Systems</title>
+      <link>https://paperswithcode.com/paper/memgpt-towards-llms-as-operating-systems</link>
+      <description><![CDATA[Large language models (LLMs) have revolutionized AI, but are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memgpt-towards-llms-as-operating-systems</guid>
     </item>
   </channel>
 </rss>
