@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 May 2024 09:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:07:32 +0000</lastBuildDate>
     <item>
       <title>KAN: Kolmogorov-Arnold Networks</title>
       <link>https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</link>
@@ -27,10 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/prometheus-2-an-open-source-language-model</guid>
     </item>
     <item>
-      <title>X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design</title>
-      <link>https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</link>
-      <description><![CDATA[Starting with a set of pre-trained LoRA adapters, our gating strategy uses the hidden states to dynamically mix adapted layers, allowing the resulting X-LoRA model to draw upon different capabilities and create never-before-used deep layer-wise combinations to solve tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</guid>
+      <title>AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One</title>
+      <link>https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</link>
+      <description><![CDATA[A handful of visual foundation models (VFMs) have recently emerged as the backbones for numerous downstream tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</guid>
     </item>
     <item>
       <title>Improving Diffusion Models for Virtual Try-on</title>
@@ -39,22 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</guid>
     </item>
     <item>
-      <title>Lightplane: Highly-Scalable Components for Neural 3D Fields</title>
-      <link>https://paperswithcode.com/paper/lightplane-highly-scalable-components-for</link>
-      <description><![CDATA[Contemporary 3D research, particularly in reconstruction and generation, heavily relies on 2D images for inputs or supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lightplane-highly-scalable-components-for</guid>
-    </item>
-    <item>
-      <title>ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving</title>
-      <link>https://paperswithcode.com/paper/consistentid-portrait-generation-with</link>
-      <description><![CDATA[ConsistentID comprises two key components: a multimodal facial prompt generator that combines facial features, corresponding facial descriptions and the overall facial context to enhance precision in facial details, and an ID-preservation network optimized through the facial attention localization strategy, aimed at preserving ID consistency in facial regions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/consistentid-portrait-generation-with</guid>
-    </item>
-    <item>
-      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
-      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
-      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
+      <title>VILA: On Pre-training for Visual Language Models</title>
+      <link>https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</link>
+      <description><![CDATA[Visual language models (VLMs) rapidly progressed with the recent success of large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</guid>
     </item>
     <item>
       <title>PuLID: Pure and Lightning ID Customization via Contrastive Alignment</title>
@@ -69,52 +57,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/rag-and-rau-a-survey-on-retrieval-augmented</guid>
     </item>
     <item>
-      <title>AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One</title>
-      <link>https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</link>
-      <description><![CDATA[A handful of visual foundation models (VFMs) have recently emerged as the backbones for numerous downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</guid>
-    </item>
-    <item>
       <title>Spectrally Pruned Gaussian Fields with Neural Compensation</title>
       <link>https://paperswithcode.com/paper/spectrally-pruned-gaussian-fields-with-neural</link>
       <description><![CDATA[However, this comes with high memory consumption, e. g., a well-trained Gaussian field may utilize three million Gaussian primitives and over 700 MB of memory.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/spectrally-pruned-gaussian-fields-with-neural</guid>
     </item>
     <item>
-      <title>WavCraft: Audio Editing and Generation with Natural Language Prompts</title>
-      <link>https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</link>
-      <description><![CDATA[We introduce WavCraft, a collective system that leverages large language models (LLMs) to connect diverse task-specific models for audio content creation and editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</guid>
+      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
+      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
     </item>
     <item>
-      <title>PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning</title>
-      <link>https://paperswithcode.com/paper/pllava-parameter-free-llava-extension-from-1</link>
-      <description><![CDATA[PLLaVA achieves new state-of-the-art performance on modern benchmark datasets for both video question-answer and captioning tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pllava-parameter-free-llava-extension-from-1</guid>
+      <title>DoRA: Weight-Decomposed Low-Rank Adaptation</title>
+      <link>https://paperswithcode.com/paper/dora-weight-decomposed-low-rank-adaptation</link>
+      <description><![CDATA[By employing DoRA, we enhance both the learning capacity and training stability of LoRA while avoiding any additional inference overhead.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dora-weight-decomposed-low-rank-adaptation</guid>
     </item>
     <item>
-      <title>Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding</title>
-      <link>https://paperswithcode.com/paper/meta-prompting-enhancing-language-models-with</link>
-      <description><![CDATA[This collaborative prompting approach empowers a single LM to simultaneously act as a comprehensive orchestrator and a panel of diverse experts, significantly enhancing its performance across a wide array of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-prompting-enhancing-language-models-with</guid>
-    </item>
-    <item>
-      <title>FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent</title>
-      <link>https://paperswithcode.com/paper/flowmap-high-quality-camera-poses-intrinsics</link>
-      <description><![CDATA[This paper introduces FlowMap, an end-to-end differentiable method that solves for precise camera poses, camera intrinsics, and per-frame dense depth of a video sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flowmap-high-quality-camera-poses-intrinsics</guid>
-    </item>
-    <item>
-      <title>MicroDreamer: Zero-shot 3D Generation in $\sim$20 Seconds by Score-based Iterative Reconstruction</title>
-      <link>https://paperswithcode.com/paper/microdreamer-zero-shot-3d-generation-in-sim</link>
-      <description><![CDATA[In this paper, we introduce score-based iterative reconstruction (SIR), an efficient and general algorithm for 3D generation with a multi-view score-based diffusion model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/microdreamer-zero-shot-3d-generation-in-sim</guid>
-    </item>
-    <item>
-      <title>CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data</title>
-      <link>https://paperswithcode.com/paper/catlip-clip-level-visual-recognition-accuracy</link>
-      <description><![CDATA[Contrastive learning has emerged as a transformative method for learning effective visual representations through the alignment of image and text embeddings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/catlip-clip-level-visual-recognition-accuracy</guid>
+      <title>MemGPT: Towards LLMs as Operating Systems</title>
+      <link>https://paperswithcode.com/paper/memgpt-towards-llms-as-operating-systems</link>
+      <description><![CDATA[Large language models (LLMs) have revolutionized AI, but are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memgpt-towards-llms-as-operating-systems</guid>
     </item>
     <item>
       <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
@@ -123,10 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
     </item>
     <item>
-      <title>MemGPT: Towards LLMs as Operating Systems</title>
-      <link>https://paperswithcode.com/paper/memgpt-towards-llms-as-operating-systems</link>
-      <description><![CDATA[Large language models (LLMs) have revolutionized AI, but are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/memgpt-towards-llms-as-operating-systems</guid>
+      <title>WavCraft: Audio Editing and Generation with Natural Language Prompts</title>
+      <link>https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</link>
+      <description><![CDATA[We introduce WavCraft, a collective system that leverages large language models (LLMs) to connect diverse task-specific models for audio content creation and editing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</guid>
+    </item>
+    <item>
+      <title>TensorIR: An Abstraction for Automatic Tensorized Program Optimization</title>
+      <link>https://paperswithcode.com/paper/tensorir-an-abstraction-for-automatic</link>
+      <description><![CDATA[Finally, we build an end-to-end framework on top of our abstraction to automatically optimize deep learning models for given tensor computation primitives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tensorir-an-abstraction-for-automatic</guid>
+    </item>
+    <item>
+      <title>SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/suql-conversational-search-over-structured</link>
+      <description><![CDATA[This paper presents the first conversational agent that supports the full generality of hybrid data access for large knowledge corpora, through a language we developed called SUQL (Structured and Unstructured Query Language).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/suql-conversational-search-over-structured</guid>
+    </item>
+    <item>
+      <title>Lightplane: Highly-Scalable Components for Neural 3D Fields</title>
+      <link>https://paperswithcode.com/paper/lightplane-highly-scalable-components-for</link>
+      <description><![CDATA[Contemporary 3D research, particularly in reconstruction and generation, heavily relies on 2D images for inputs or supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightplane-highly-scalable-components-for</guid>
+    </item>
+    <item>
+      <title>Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection</title>
+      <link>https://paperswithcode.com/paper/transcending-forgery-specificity-with-latent</link>
+      <description><![CDATA[Deepfake detection faces a critical generalization hurdle, with performance deteriorating when there is a mismatch between the distributions of training and testing data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transcending-forgery-specificity-with-latent</guid>
+    </item>
+    <item>
+      <title>Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models</title>
+      <link>https://paperswithcode.com/paper/groma-localized-visual-tokenization-for</link>
+      <description><![CDATA[We introduce Groma, a Multimodal Large Language Model (MLLM) with grounded and fine-grained visual perception ability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/groma-localized-visual-tokenization-for</guid>
+    </item>
+    <item>
+      <title>AgentScope: A Flexible yet Robust Multi-Agent Platform</title>
+      <link>https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</link>
+      <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</guid>
     </item>
   </channel>
 </rss>
