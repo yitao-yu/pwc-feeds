@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 May 2024 21:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 09:13:58 +0000</lastBuildDate>
     <item>
       <title>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</title>
       <link>https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</link>
@@ -21,70 +21,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-v2-a-strong-economical-and-efficient</guid>
     </item>
     <item>
+      <title>A decoder-only foundation model for time-series forecasting</title>
+      <link>https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</link>
+      <description><![CDATA[Motivated by recent advances in large language models for Natural Language Processing (NLP), we design a time-series foundation model for forecasting whose out-of-the-box zero-shot performance on a variety of public datasets comes close to the accuracy of state-of-the-art supervised forecasting models for each individual dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</guid>
+    </item>
+    <item>
+      <title>Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</link>
+      <description><![CDATA[Sora unveils the potential of scaling Diffusion Transformer for generating photorealistic images and videos at arbitrary resolutions, aspect ratios, and durations, yet it still lacks sufficient implementation details.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</guid>
+    </item>
+    <item>
       <title>Granite Code Models: A Family of Open Foundation Models for Code Intelligence</title>
       <link>https://paperswithcode.com/paper/granite-code-models-a-family-of-open</link>
       <description><![CDATA[Increasingly, code LLMs are being integrated into software development environments to improve the productivity of human programmers, and LLM-based agents are beginning to show promise for handling complex tasks autonomously.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/granite-code-models-a-family-of-open</guid>
-    </item>
-    <item>
-      <title>KAN: Kolmogorov-Arnold Networks</title>
-      <link>https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</link>
-      <description><![CDATA[Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</guid>
-    </item>
-    <item>
-      <title>QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving</title>
-      <link>https://paperswithcode.com/paper/qserve-w4a8kv4-quantization-and-system-co</link>
-      <description><![CDATA[The key insight driving QServe is that the efficiency of LLM serving on GPUs is critically influenced by operations on low-throughput CUDA cores.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qserve-w4a8kv4-quantization-and-system-co</guid>
-    </item>
-    <item>
-      <title>Improving Diffusion Models for Virtual Try-on</title>
-      <link>https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</link>
-      <description><![CDATA[Finally, we present a customization method using a pair of person-garment images, which significantly improves fidelity and authenticity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</guid>
-    </item>
-    <item>
-      <title>Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models</title>
-      <link>https://paperswithcode.com/paper/prometheus-2-an-open-source-language-model</link>
-      <description><![CDATA[Proprietary LMs such as GPT-4 are often employed to assess the quality of responses from various LMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prometheus-2-an-open-source-language-model</guid>
-    </item>
-    <item>
-      <title>ImageInWords: Unlocking Hyper-Detailed Image Descriptions</title>
-      <link>https://paperswithcode.com/paper/imageinwords-unlocking-hyper-detailed-image</link>
-      <description><![CDATA[To address these issues, we introduce ImageInWords (IIW), a carefully designed human-in-the-loop annotation framework for curating hyper-detailed image descriptions and a new dataset resulting from this process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/imageinwords-unlocking-hyper-detailed-image</guid>
-    </item>
-    <item>
-      <title>Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models</title>
-      <link>https://paperswithcode.com/paper/plan-and-solve-prompting-improving-zero-shot</link>
-      <description><![CDATA[To address the calculation errors and improve the quality of generated reasoning steps, we extend PS prompting with more detailed instructions and derive PS+ prompting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/plan-and-solve-prompting-improving-zero-shot</guid>
-    </item>
-    <item>
-      <title>Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer</title>
-      <link>https://paperswithcode.com/paper/inf-dit-upsampling-any-resolution-image-with</link>
-      <description><![CDATA[However, due to a quadratic increase in memory during generating ultra-high-resolution images (e. g. 4096*4096), the resolution of generated images is often limited to 1024*1024.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/inf-dit-upsampling-any-resolution-image-with</guid>
-    </item>
-    <item>
-      <title>DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks</title>
-      <link>https://paperswithcode.com/paper/docres-a-generalist-model-toward-unifying</link>
-      <description><![CDATA[This underscores the potential of DocRes across a broader spectrum of document image restoration tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/docres-a-generalist-model-toward-unifying</guid>
-    </item>
-    <item>
-      <title>CLLMs: Consistency Large Language Models</title>
-      <link>https://paperswithcode.com/paper/cllms-consistency-large-language-models</link>
-      <description><![CDATA[Parallel decoding methods such as Jacobi decoding show promise for more efficient LLM inference as it breaks the sequential nature of the LLM decoding process and transforms it into parallelizable computation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cllms-consistency-large-language-models</guid>
-    </item>
-    <item>
-      <title>PuLID: Pure and Lightning ID Customization via Contrastive Alignment</title>
-      <link>https://paperswithcode.com/paper/pulid-pure-and-lightning-id-customization-via</link>
-      <description><![CDATA[We propose Pure and Lightning ID customization (PuLID), a novel tuning-free ID customization method for text-to-image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pulid-pure-and-lightning-id-customization-via</guid>
     </item>
     <item>
       <title>AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding</title>
@@ -93,40 +45,88 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/anitalker-animate-vivid-and-diverse-talking</guid>
     </item>
     <item>
-      <title>VILA: On Pre-training for Visual Language Models</title>
-      <link>https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</link>
-      <description><![CDATA[Visual language models (VLMs) rapidly progressed with the recent success of large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</guid>
-    </item>
-    <item>
       <title>AgentScope: A Flexible yet Robust Multi-Agent Platform</title>
       <link>https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</link>
       <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</guid>
     </item>
     <item>
-      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
-      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
-      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
+      <title>CLLMs: Consistency Large Language Models</title>
+      <link>https://paperswithcode.com/paper/cllms-consistency-large-language-models</link>
+      <description><![CDATA[Parallel decoding methods such as Jacobi decoding show promise for more efficient LLM inference as it breaks the sequential nature of the LLM decoding process and transforms it into parallelizable computation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cllms-consistency-large-language-models</guid>
     </item>
     <item>
-      <title>AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent</title>
-      <link>https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</link>
-      <description><![CDATA[Large language models (LLMs) have fueled many intelligent agent tasks, such as web navigation -- but most existing agents perform far from satisfying in real-world webpages due to three factors: (1) the versatility of actions on webpages, (2) HTML text exceeding model processing capacity, and (3) the complexity of decision-making due to the open-domain nature of web.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autowebglm-bootstrap-and-reinforce-a-large</guid>
+      <title>A Multi-Level Superoptimizer for Tensor Programs</title>
+      <link>https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</link>
+      <description><![CDATA[We introduce Mirage, the first multi-level superoptimizer for tensor programs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</guid>
     </item>
     <item>
-      <title>LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders</title>
-      <link>https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</link>
-      <description><![CDATA[We outperform encoder-only models by a large margin on word-level tasks and reach a new unsupervised state-of-the-art performance on the Massive Text Embeddings Benchmark (MTEB).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</guid>
+      <title>FiT: Flexible Vision Transformer for Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/fit-flexible-vision-transformer-for-diffusion</link>
+      <description><![CDATA[Nature is infinitely resolution-free.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fit-flexible-vision-transformer-for-diffusion</guid>
     </item>
     <item>
-      <title>AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One</title>
-      <link>https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</link>
-      <description><![CDATA[A handful of visual foundation models (VFMs) have recently emerged as the backbones for numerous downstream tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/am-radio-agglomerative-model-reduce-all</guid>
+      <title>Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets</title>
+      <link>https://paperswithcode.com/paper/stable-video-diffusion-scaling-latent-video-1</link>
+      <description><![CDATA[We then explore the impact of finetuning our base model on high-quality data and train a text-to-video model that is competitive with closed-source video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-video-diffusion-scaling-latent-video-1</guid>
+    </item>
+    <item>
+      <title>QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving</title>
+      <link>https://paperswithcode.com/paper/qserve-w4a8kv4-quantization-and-system-co</link>
+      <description><![CDATA[The key insight driving QServe is that the efficiency of LLM serving on GPUs is critically influenced by operations on low-throughput CUDA cores.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qserve-w4a8kv4-quantization-and-system-co</guid>
+    </item>
+    <item>
+      <title>Autonomous LLM-driven research from data to human-verifiable research papers</title>
+      <link>https://paperswithcode.com/paper/autonomous-llm-driven-research-from-data-to</link>
+      <description><![CDATA[As AI promises to accelerate scientific discovery, it remains unclear whether fully AI-driven research is possible and whether it can adhere to key scientific values, such as transparency, traceability and verifiability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autonomous-llm-driven-research-from-data-to</guid>
+    </item>
+    <item>
+      <title>Improving Diffusion Models for Virtual Try-on</title>
+      <link>https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</link>
+      <description><![CDATA[Finally, we present a customization method using a pair of person-garment images, which significantly improves fidelity and authenticity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</guid>
+    </item>
+    <item>
+      <title>OS-Copilot: Towards Generalist Computer Agents with Self-Improvement</title>
+      <link>https://paperswithcode.com/paper/os-copilot-towards-generalist-computer-agents</link>
+      <description><![CDATA[Autonomous interaction with the computer has been a longstanding challenge with great potential, and the recent proliferation of large language models (LLMs) has markedly accelerated progress in building digital agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/os-copilot-towards-generalist-computer-agents</guid>
+    </item>
+    <item>
+      <title>KAN: Kolmogorov-Arnold Networks</title>
+      <link>https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</link>
+      <description><![CDATA[Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</guid>
+    </item>
+    <item>
+      <title>DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks</title>
+      <link>https://paperswithcode.com/paper/docres-a-generalist-model-toward-unifying</link>
+      <description><![CDATA[This underscores the potential of DocRes across a broader spectrum of document image restoration tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/docres-a-generalist-model-toward-unifying</guid>
+    </item>
+    <item>
+      <title>TimeGPT-1</title>
+      <link>https://paperswithcode.com/paper/timegpt-1</link>
+      <description><![CDATA[In this paper, we introduce TimeGPT, the first foundation model for time series, capable of generating accurate predictions for diverse datasets not seen during training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/timegpt-1</guid>
+    </item>
+    <item>
+      <title>Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer</title>
+      <link>https://paperswithcode.com/paper/inf-dit-upsampling-any-resolution-image-with</link>
+      <description><![CDATA[However, due to a quadratic increase in memory during generating ultra-high-resolution images (e. g. 4096*4096), the resolution of generated images is often limited to 1024*1024.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/inf-dit-upsampling-any-resolution-image-with</guid>
+    </item>
+    <item>
+      <title>X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design</title>
+      <link>https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</link>
+      <description><![CDATA[Starting with a set of pre-trained LoRA adapters, our gating strategy uses the hidden states to dynamically mix adapted layers, allowing the resulting X-LoRA model to draw upon different capabilities and create never-before-used deep layer-wise combinations to solve tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</guid>
     </item>
   </channel>
 </rss>
