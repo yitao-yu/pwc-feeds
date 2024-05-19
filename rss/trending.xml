@@ -7,12 +7,30 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 May 2024 21:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 09:13:36 +0000</lastBuildDate>
     <item>
       <title>MambaOut: Do We Really Need Mamba for Vision?</title>
       <link>https://paperswithcode.com/paper/mambaout-do-we-really-need-mamba-for-vision</link>
       <description><![CDATA[For vision tasks, as image classification does not align with either characteristic, we hypothesize that Mamba is not necessary for this task; Detection and segmentation tasks are also not autoregressive, yet they adhere to the long-sequence characteristic, so we believe it is still worthwhile to explore Mamba's potential for these tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mambaout-do-we-really-need-mamba-for-vision</guid>
+    </item>
+    <item>
+      <title>Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding</title>
+      <link>https://paperswithcode.com/paper/hunyuan-dit-a-powerful-multi-resolution</link>
+      <description><![CDATA[For fine-grained language understanding, we train a Multimodal Large Language Model to refine the captions of the images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuan-dit-a-powerful-multi-resolution</guid>
+    </item>
+    <item>
+      <title>Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection</title>
+      <link>https://paperswithcode.com/paper/grounding-dino-1-5-advance-the-edge-of-open</link>
+      <description><![CDATA[Empirical results demonstrate the effectiveness of Grounding DINO 1. 5, with the Grounding DINO 1. 5 Pro model attaining a 54. 3 AP on the COCO detection benchmark and a 55. 7 AP on the LVIS-minival zero-shot transfer benchmark, setting new records for open-set object detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grounding-dino-1-5-advance-the-edge-of-open</guid>
+    </item>
+    <item>
+      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
+      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
     </item>
     <item>
       <title>A decoder-only foundation model for time-series forecasting</title>
@@ -21,28 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</guid>
     </item>
     <item>
+      <title>How Far Are We From AGI</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-from-agi</link>
+      <description><![CDATA[The evolution of artificial intelligence (AI) has profoundly impacted human society, driving significant advancements in multiple sectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-from-agi</guid>
+    </item>
+    <item>
       <title>AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding</title>
       <link>https://paperswithcode.com/paper/anitalker-animate-vivid-and-diverse-talking</link>
       <description><![CDATA[The paper introduces AniTalker, an innovative framework designed to generate lifelike talking faces from a single portrait.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/anitalker-animate-vivid-and-diverse-talking</guid>
-    </item>
-    <item>
-      <title>AgentScope: A Flexible yet Robust Multi-Agent Platform</title>
-      <link>https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</link>
-      <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</guid>
-    </item>
-    <item>
-      <title>Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</link>
-      <description><![CDATA[Sora unveils the potential of scaling Diffusion Transformer for generating photorealistic images and videos at arbitrary resolutions, aspect ratios, and durations, yet it still lacks sufficient implementation details.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</guid>
-    </item>
-    <item>
-      <title>Autonomous LLM-driven research from data to human-verifiable research papers</title>
-      <link>https://paperswithcode.com/paper/autonomous-llm-driven-research-from-data-to</link>
-      <description><![CDATA[As AI promises to accelerate scientific discovery, it remains unclear whether fully AI-driven research is possible and whether it can adhere to key scientific values, such as transparency, traceability and verifiability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autonomous-llm-driven-research-from-data-to</guid>
     </item>
     <item>
       <title>Sakuga-42M Dataset: Scaling Up Cartoon Research</title>
@@ -51,28 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sakuga-42m-dataset-scaling-up-cartoon</guid>
     </item>
     <item>
-      <title>DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model</title>
-      <link>https://paperswithcode.com/paper/deepseek-v2-a-strong-economical-and-efficient</link>
-      <description><![CDATA[MLA guarantees efficient inference through significantly compressing the Key-Value (KV) cache into a latent vector, while DeepSeekMoE enables training strong models at an economical cost through sparse computation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-v2-a-strong-economical-and-efficient</guid>
-    </item>
-    <item>
-      <title>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</title>
-      <link>https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</link>
-      <description><![CDATA[This module converts the generated sequence of images into videos with smooth transitions and consistent subjects that are significantly more stable than the modules based on latent spaces only, especially in the context of long video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</guid>
-    </item>
-    <item>
-      <title>OS-Copilot: Towards Generalist Computer Agents with Self-Improvement</title>
-      <link>https://paperswithcode.com/paper/os-copilot-towards-generalist-computer-agents</link>
-      <description><![CDATA[Autonomous interaction with the computer has been a longstanding challenge with great potential, and the recent proliferation of large language models (LLMs) has markedly accelerated progress in building digital agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/os-copilot-towards-generalist-computer-agents</guid>
-    </item>
-    <item>
-      <title>Granite Code Models: A Family of Open Foundation Models for Code Intelligence</title>
-      <link>https://paperswithcode.com/paper/granite-code-models-a-family-of-open</link>
-      <description><![CDATA[Increasingly, code LLMs are being integrated into software development environments to improve the productivity of human programmers, and LLM-based agents are beginning to show promise for handling complex tasks autonomously.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/granite-code-models-a-family-of-open</guid>
+      <title>Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</link>
+      <description><![CDATA[Sora unveils the potential of scaling Diffusion Transformer for generating photorealistic images and videos at arbitrary resolutions, aspect ratios, and durations, yet it still lacks sufficient implementation details.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</guid>
     </item>
     <item>
       <title>KAN: Kolmogorov-Arnold Networks</title>
@@ -81,52 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</guid>
     </item>
     <item>
+      <title>The Platonic Representation Hypothesis</title>
+      <link>https://paperswithcode.com/paper/the-platonic-representation-hypothesis</link>
+      <description><![CDATA[We argue that representations in AI models, particularly deep networks, are converging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-platonic-representation-hypothesis</guid>
+    </item>
+    <item>
+      <title>StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation</title>
+      <link>https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</link>
+      <description><![CDATA[This module converts the generated sequence of images into videos with smooth transitions and consistent subjects that are significantly more stable than the modules based on latent spaces only, especially in the context of long video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/storydiffusion-consistent-self-attention-for</guid>
+    </item>
+    <item>
       <title>RLHF Workflow: From Reward Modeling to Online RLHF</title>
       <link>https://paperswithcode.com/paper/rlhf-workflow-from-reward-modeling-to-online</link>
       <description><![CDATA[We present the workflow of Online Iterative Reinforcement Learning from Human Feedback (RLHF) in this technical report, which is widely reported to outperform its offline counterpart by a large margin in the recent large language model (LLM) literature.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/rlhf-workflow-from-reward-modeling-to-online</guid>
     </item>
     <item>
-      <title>A Multi-Level Superoptimizer for Tensor Programs</title>
-      <link>https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</link>
-      <description><![CDATA[We introduce Mirage, the first multi-level superoptimizer for tensor programs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</guid>
+      <title>AgentScope: A Flexible yet Robust Multi-Agent Platform</title>
+      <link>https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</link>
+      <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentscope-a-flexible-yet-robust-multi-agent</guid>
     </item>
     <item>
-      <title>Improving Diffusion Models for Virtual Try-on</title>
-      <link>https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</link>
-      <description><![CDATA[Finally, we present a customization method using a pair of person-garment images, which significantly improves fidelity and authenticity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-diffusion-models-for-virtual-try-on</guid>
+      <title>Kolmogorov-Arnold Networks are Radial Basis Function Networks</title>
+      <link>https://paperswithcode.com/paper/kolmogorov-arnold-networks-are-radial-basis</link>
+      <description><![CDATA[This short paper is a fast proof-of-concept that the 3-order B-splines used in Kolmogorov-Arnold Networks (KANs) can be well approximated by Gaussian radial basis functions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kolmogorov-arnold-networks-are-radial-basis</guid>
     </item>
     <item>
-      <title>MS MARCO Web Search: a Large-scale Information-rich Web Dataset with Millions of Real Click Labels</title>
-      <link>https://paperswithcode.com/paper/ms-marco-web-search-a-large-scale-information</link>
-      <description><![CDATA[Recent breakthroughs in large models have highlighted the critical significance of data scale, labels and modals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ms-marco-web-search-a-large-scale-information</guid>
+      <title>UFO: A UI-Focused Agent for Windows OS Interaction</title>
+      <link>https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</link>
+      <description><![CDATA[We introduce UFO, an innovative UI-Focused agent to fulfill user requests tailored to applications on Windows OS, harnessing the capabilities of GPT-Vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</guid>
     </item>
     <item>
-      <title>Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/fishing-for-magikarp-automatically-detecting</link>
-      <description><![CDATA[The disconnect between tokenizer creation and model training in language models has been known to allow for certain inputs, such as the infamous SolidGoldMagikarp token, to induce unwanted behaviour.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fishing-for-magikarp-automatically-detecting</guid>
+      <title>MarkLLM: An Open-Source Toolkit for LLM Watermarking</title>
+      <link>https://paperswithcode.com/paper/markllm-an-open-source-toolkit-for-llm</link>
+      <description><![CDATA[However, the abundance of LLM watermarking algorithms, their intricate mechanisms, and the complex evaluation procedures and perspectives pose challenges for researchers and the community to easily experiment with, understand, and assess the latest advancements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/markllm-an-open-source-toolkit-for-llm</guid>
     </item>
     <item>
-      <title>Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/time-evidence-fusion-network-multi-source</link>
-      <description><![CDATA[TEFN is not a model that achieves the ultimate in single aspect, but a model that balances performance, accuracy, stability, and interpretability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/time-evidence-fusion-network-multi-source</guid>
+      <title>DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model</title>
+      <link>https://paperswithcode.com/paper/deepseek-v2-a-strong-economical-and-efficient</link>
+      <description><![CDATA[MLA guarantees efficient inference through significantly compressing the Key-Value (KV) cache into a latent vector, while DeepSeekMoE enables training strong models at an economical cost through sparse computation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-v2-a-strong-economical-and-efficient</guid>
     </item>
     <item>
-      <title>Linearizing Large Language Models</title>
-      <link>https://paperswithcode.com/paper/linearizing-large-language-models</link>
-      <description><![CDATA[Linear transformers have emerged as a subquadratic-time alternative to softmax attention and have garnered significant interest due to their fixed-size recurrent state that lowers inference cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/linearizing-large-language-models</guid>
+      <title>GIVT: Generative Infinite-Vocabulary Transformers</title>
+      <link>https://paperswithcode.com/paper/givt-generative-infinite-vocabulary</link>
+      <description><![CDATA[We introduce generative infinite-vocabulary transformers (GIVT) which generate vector sequences with real-valued entries, instead of discrete tokens from a finite vocabulary.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/givt-generative-infinite-vocabulary</guid>
     </item>
     <item>
-      <title>Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond</title>
-      <link>https://paperswithcode.com/paper/is-sora-a-world-simulator-a-comprehensive</link>
-      <description><![CDATA[General world models represent a crucial pathway toward achieving Artificial General Intelligence (AGI), serving as the cornerstone for various applications ranging from virtual environments to decision-making systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-sora-a-world-simulator-a-comprehensive</guid>
+      <title>Fundus: A Simple-to-Use News Scraper Optimized for High Quality Extractions</title>
+      <link>https://paperswithcode.com/paper/fundus-a-simple-to-use-news-scraper-optimized</link>
+      <description><![CDATA[This paper introduces Fundus, a user-friendly news scraper that enables users to obtain millions of high-quality news articles with just a few lines of code.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fundus-a-simple-to-use-news-scraper-optimized</guid>
     </item>
   </channel>
 </rss>
