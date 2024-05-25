@@ -7,36 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 21:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:12:36 +0000</lastBuildDate>
     <item>
       <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
       <link>https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</link>
       <description><![CDATA[To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</guid>
-    </item>
-    <item>
-      <title>A decoder-only foundation model for time-series forecasting</title>
-      <link>https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</link>
-      <description><![CDATA[Motivated by recent advances in large language models for Natural Language Processing (NLP), we design a time-series foundation model for forecasting whose out-of-the-box zero-shot performance on a variety of public datasets comes close to the accuracy of state-of-the-art supervised forecasting models for each individual dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</guid>
-    </item>
-    <item>
-      <title>Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection</title>
-      <link>https://paperswithcode.com/paper/grounding-dino-1-5-advance-the-edge-of-open</link>
-      <description><![CDATA[Empirical results demonstrate the effectiveness of Grounding DINO 1. 5, with the Grounding DINO 1. 5 Pro model attaining a 54. 3 AP on the COCO detection benchmark and a 55. 7 AP on the LVIS-minival zero-shot transfer benchmark, setting new records for open-set object detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/grounding-dino-1-5-advance-the-edge-of-open</guid>
-    </item>
-    <item>
-      <title>Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding</title>
-      <link>https://paperswithcode.com/paper/hunyuan-dit-a-powerful-multi-resolution</link>
-      <description><![CDATA[For fine-grained language understanding, we train a Multimodal Large Language Model to refine the captions of the images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuan-dit-a-powerful-multi-resolution</guid>
-    </item>
-    <item>
-      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
-      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
-      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
     </item>
     <item>
       <title>LightAutoML: AutoML Solution for a Large Financial Services Ecosystem</title>
@@ -45,76 +21,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lightautoml-automl-solution-for-a-large</guid>
     </item>
     <item>
-      <title>How Far Are We From AGI</title>
-      <link>https://paperswithcode.com/paper/how-far-are-we-from-agi</link>
-      <description><![CDATA[The evolution of artificial intelligence (AI) has profoundly impacted human society, driving significant advancements in multiple sectors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-from-agi</guid>
-    </item>
-    <item>
-      <title>KAN: Kolmogorov-Arnold Networks</title>
-      <link>https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</link>
-      <description><![CDATA[Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</guid>
-    </item>
-    <item>
-      <title>Layer-Condensed KV Cache for Efficient Inference of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/layer-condensed-kv-cache-for-efficient</link>
-      <description><![CDATA[In this paper, we propose a novel method that only computes and caches the KVs of a small number of layers, thus significantly saving memory consumption and improving inference throughput.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/layer-condensed-kv-cache-for-efficient</guid>
-    </item>
-    <item>
-      <title>Efficient Multimodal Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/efficient-multimodal-large-language-models-a</link>
-      <description><![CDATA[In the past year, Multimodal Large Language Models (MLLMs) have demonstrated remarkable performance in tasks such as visual question answering, visual understanding and reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-multimodal-large-language-models-a</guid>
-    </item>
-    <item>
-      <title>The Platonic Representation Hypothesis</title>
-      <link>https://paperswithcode.com/paper/the-platonic-representation-hypothesis</link>
-      <description><![CDATA[We argue that representations in AI models, particularly deep networks, are converging.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-platonic-representation-hypothesis</guid>
-    </item>
-    <item>
-      <title>MarkLLM: An Open-Source Toolkit for LLM Watermarking</title>
-      <link>https://paperswithcode.com/paper/markllm-an-open-source-toolkit-for-llm</link>
-      <description><![CDATA[However, the abundance of LLM watermarking algorithms, their intricate mechanisms, and the complex evaluation procedures and perspectives pose challenges for researchers and the community to easily experiment with, understand, and assess the latest advancements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/markllm-an-open-source-toolkit-for-llm</guid>
-    </item>
-    <item>
-      <title>MambaOut: Do We Really Need Mamba for Vision?</title>
-      <link>https://paperswithcode.com/paper/mambaout-do-we-really-need-mamba-for-vision</link>
-      <description><![CDATA[For vision tasks, as image classification does not align with either characteristic, we hypothesize that Mamba is not necessary for this task; Detection and segmentation tasks are also not autoregressive, yet they adhere to the long-sequence characteristic, so we believe it is still worthwhile to explore Mamba's potential for these tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mambaout-do-we-really-need-mamba-for-vision</guid>
-    </item>
-    <item>
-      <title>UFO: A UI-Focused Agent for Windows OS Interaction</title>
-      <link>https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</link>
-      <description><![CDATA[We introduce UFO, an innovative UI-Focused agent to fulfill user requests tailored to applications on Windows OS, harnessing the capabilities of GPT-Vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ufo-a-ui-focused-agent-for-windows-os</guid>
-    </item>
-    <item>
-      <title>LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion</title>
-      <link>https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</link>
-      <description><![CDATA[Imitation Learning (IL) holds great promise for enabling agile locomotion in embodied agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</guid>
-    </item>
-    <item>
-      <title>VILA: On Pre-training for Visual Language Models</title>
-      <link>https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</link>
-      <description><![CDATA[Visual language models (VLMs) rapidly progressed with the recent success of large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</guid>
-    </item>
-    <item>
-      <title>From Sora What We Can See: A Survey of Text-to-Video Generation</title>
-      <link>https://paperswithcode.com/paper/from-sora-what-we-can-see-a-survey-of-text-to</link>
-      <description><![CDATA[With impressive achievements made, artificial intelligence is on the path forward to artificial general intelligence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-sora-what-we-can-see-a-survey-of-text-to</guid>
-    </item>
-    <item>
       <title>MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning</title>
       <link>https://paperswithcode.com/paper/mora-high-rank-updating-for-parameter</link>
       <description><![CDATA[Low-rank adaptation is a popular parameter-efficient fine-tuning method for large language models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mora-high-rank-updating-for-parameter</guid>
+    </item>
+    <item>
+      <title>Diffusion for World Modeling: Visual Details Matter in Atari</title>
+      <link>https://paperswithcode.com/paper/diffusion-for-world-modeling-visual-details</link>
+      <description><![CDATA[Motivated by this paradigm shift, we introduce DIAMOND (DIffusion As a Model Of eNvironment Dreams), a reinforcement learning agent trained in a diffusion world model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-for-world-modeling-visual-details</guid>
+    </item>
+    <item>
+      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
+      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
+    </item>
+    <item>
+      <title>Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding</title>
+      <link>https://paperswithcode.com/paper/hunyuan-dit-a-powerful-multi-resolution</link>
+      <description><![CDATA[For fine-grained language understanding, we train a Multimodal Large Language Model to refine the captions of the images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuan-dit-a-powerful-multi-resolution</guid>
+    </item>
+    <item>
+      <title>Retrieval-Augmented Generation for AI-Generated Content: A Survey</title>
+      <link>https://paperswithcode.com/paper/retrieval-augmented-generation-for-ai</link>
+      <description><![CDATA[We first classify RAG foundations according to how the retriever augments the generator, distilling the fundamental abstractions of the augmentation methodologies for various retrievers and generators.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/retrieval-augmented-generation-for-ai</guid>
+    </item>
+    <item>
+      <title>Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection</title>
+      <link>https://paperswithcode.com/paper/grounding-dino-1-5-advance-the-edge-of-open</link>
+      <description><![CDATA[Empirical results demonstrate the effectiveness of Grounding DINO 1. 5, with the Grounding DINO 1. 5 Pro model attaining a 54. 3 AP on the COCO detection benchmark and a 55. 7 AP on the LVIS-minival zero-shot transfer benchmark, setting new records for open-set object detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grounding-dino-1-5-advance-the-edge-of-open</guid>
+    </item>
+    <item>
+      <title>A decoder-only foundation model for time-series forecasting</title>
+      <link>https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</link>
+      <description><![CDATA[Motivated by recent advances in large language models for Natural Language Processing (NLP), we design a time-series foundation model for forecasting whose out-of-the-box zero-shot performance on a variety of public datasets comes close to the accuracy of state-of-the-art supervised forecasting models for each individual dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-decoder-only-foundation-model-for-time</guid>
     </item>
     <item>
       <title>EasySpider: A No-Code Visual System for Crawling the Web</title>
@@ -123,10 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/easyspider-a-no-code-visual-system-for</guid>
     </item>
     <item>
-      <title>WavCraft: Audio Editing and Generation with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</link>
-      <description><![CDATA[We introduce WavCraft, a collective system that leverages large language models (LLMs) to connect diverse task-specific models for audio content creation and editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wavcraft-audio-editing-and-generation-with</guid>
+      <title>MarkLLM: An Open-Source Toolkit for LLM Watermarking</title>
+      <link>https://paperswithcode.com/paper/markllm-an-open-source-toolkit-for-llm</link>
+      <description><![CDATA[However, the abundance of LLM watermarking algorithms, their intricate mechanisms, and the complex evaluation procedures and perspectives pose challenges for researchers and the community to easily experiment with, understand, and assess the latest advancements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/markllm-an-open-source-toolkit-for-llm</guid>
+    </item>
+    <item>
+      <title>Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts</title>
+      <link>https://paperswithcode.com/paper/uni-moe-scaling-unified-multimodal-llms-with</link>
+      <description><![CDATA[Although the Mixture of Experts (MoE) architecture has been employed to efficiently scale large language and image-text models, these efforts typically involve fewer experts and limited modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uni-moe-scaling-unified-multimodal-llms-with</guid>
+    </item>
+    <item>
+      <title>KAN: Kolmogorov-Arnold Networks</title>
+      <link>https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</link>
+      <description><![CDATA[Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kan-kolmogorov-arnold-networks</guid>
+    </item>
+    <item>
+      <title>Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head</title>
+      <link>https://paperswithcode.com/paper/real-time-transformer-based-open-vocabulary</link>
+      <description><![CDATA[End-to-end transformer-based detectors (DETRs) have shown exceptional performance in both closed-set and open-vocabulary object detection (OVD) tasks through the integration of language modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-transformer-based-open-vocabulary</guid>
+    </item>
+    <item>
+      <title>OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework</title>
+      <link>https://paperswithcode.com/paper/openrlhf-an-easy-to-use-scalable-and-high</link>
+      <description><![CDATA[However, unlike pretraining or fine-tuning a single model, scaling reinforcement learning from human feedback (RLHF) for training large language models poses coordination challenges across four models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openrlhf-an-easy-to-use-scalable-and-high</guid>
+    </item>
+    <item>
+      <title>MambaOut: Do We Really Need Mamba for Vision?</title>
+      <link>https://paperswithcode.com/paper/mambaout-do-we-really-need-mamba-for-vision</link>
+      <description><![CDATA[For vision tasks, as image classification does not align with either characteristic, we hypothesize that Mamba is not necessary for this task; Detection and segmentation tasks are also not autoregressive, yet they adhere to the long-sequence characteristic, so we believe it is still worthwhile to explore Mamba's potential for these tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mambaout-do-we-really-need-mamba-for-vision</guid>
+    </item>
+    <item>
+      <title>How Far Are We From AGI</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-from-agi</link>
+      <description><![CDATA[The evolution of artificial intelligence (AI) has profoundly impacted human society, driving significant advancements in multiple sectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-from-agi</guid>
+    </item>
+    <item>
+      <title>TensorIR: An Abstraction for Automatic Tensorized Program Optimization</title>
+      <link>https://paperswithcode.com/paper/tensorir-an-abstraction-for-automatic</link>
+      <description><![CDATA[Finally, we build an end-to-end framework on top of our abstraction to automatically optimize deep learning models for given tensor computation primitives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tensorir-an-abstraction-for-automatic</guid>
+    </item>
+    <item>
+      <title>Efficient Multimodal Large Language Models: A Survey</title>
+      <link>https://paperswithcode.com/paper/efficient-multimodal-large-language-models-a</link>
+      <description><![CDATA[In the past year, Multimodal Large Language Models (MLLMs) have demonstrated remarkable performance in tasks such as visual question answering, visual understanding and reasoning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-multimodal-large-language-models-a</guid>
+    </item>
+    <item>
+      <title>Your Transformer is Secretly Linear</title>
+      <link>https://paperswithcode.com/paper/your-transformer-is-secretly-linear</link>
+      <description><![CDATA[This regularization improves performance metrics on benchmarks like Tiny Stories and SuperGLUE and as well successfully decreases the linearity of the models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/your-transformer-is-secretly-linear</guid>
     </item>
   </channel>
 </rss>
