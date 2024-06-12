@@ -7,48 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 21:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 09:14:34 +0000</lastBuildDate>
     <item>
-      <title>Matching Anything by Segmenting Anything</title>
-      <link>https://paperswithcode.com/paper/matching-anything-by-segmenting-anything</link>
-      <description><![CDATA[The robust association of the same objects across video frames in complex scenes is crucial for many applications, especially Multiple Object Tracking (MOT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/matching-anything-by-segmenting-anything</guid>
-    </item>
-    <item>
-      <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
-      <link>https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</link>
-      <description><![CDATA[To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</guid>
-    </item>
-    <item>
-      <title>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/buffer-of-thoughts-thought-augmented</link>
-      <description><![CDATA[We introduce Buffer of Thoughts (BoT), a novel and versatile thought-augmented reasoning approach for enhancing accuracy, efficiency and robustness of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/buffer-of-thoughts-thought-augmented</guid>
-    </item>
-    <item>
-      <title>Vision-LSTM: xLSTM as Generic Vision Backbone</title>
-      <link>https://paperswithcode.com/paper/vision-lstm-xlstm-as-generic-vision-backbone</link>
-      <description><![CDATA[Transformers are widely used as generic backbones in computer vision, despite initially introduced for natural language processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-lstm-xlstm-as-generic-vision-backbone</guid>
-    </item>
-    <item>
-      <title>Fast Timing-Conditioned Latent Audio Diffusion</title>
-      <link>https://paperswithcode.com/paper/fast-timing-conditioned-latent-audio</link>
-      <description><![CDATA[Generating long-form 44. 1kHz stereo audio from text prompts can be computationally demanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-timing-conditioned-latent-audio</guid>
-    </item>
-    <item>
-      <title>StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning</title>
-      <link>https://paperswithcode.com/paper/streamspeech-simultaneous-speech-to-speech</link>
-      <description><![CDATA[Simultaneous speech-to-speech translation (Simul-S2ST, a. k. a streaming speech translation) outputs target speech while receiving streaming speech inputs, which is critical for real-time communication.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streamspeech-simultaneous-speech-to-speech</guid>
-    </item>
-    <item>
-      <title>DeTikZify: Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ</title>
-      <link>https://paperswithcode.com/paper/detikzify-synthesizing-graphics-programs-for</link>
-      <description><![CDATA[Creating high-quality scientific figures can be time-consuming and challenging, even though sketching ideas on paper is relatively easy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detikzify-synthesizing-graphics-programs-for</guid>
+      <title>Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation</title>
+      <link>https://paperswithcode.com/paper/autoregressive-model-beats-diffusion-llama</link>
+      <description><![CDATA[(3) A text-conditional image generation model with 775M parameters, from two-stage training on LAION-COCO and high aesthetics quality images, demonstrating competitive performance of visual quality and text alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-model-beats-diffusion-llama</guid>
     </item>
     <item>
       <title>Scalable MatMul-free Language Modeling</title>
@@ -57,64 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-matmul-free-language-modeling</guid>
     </item>
     <item>
-      <title>AgentGym: Evolving Large Language Model-based Agents across Diverse Environments</title>
-      <link>https://paperswithcode.com/paper/agentgym-evolving-large-language-model-based</link>
-      <description><![CDATA[Building generalist agents that can handle diverse tasks and evolve themselves across different environments is a long-term goal in the AI community.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentgym-evolving-large-language-model-based</guid>
+      <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
+      <link>https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</link>
+      <description><![CDATA[We hope that our study can facilitate the research community and LLM vendors in promoting safer and regulated LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</guid>
     </item>
     <item>
-      <title>Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation</title>
-      <link>https://paperswithcode.com/paper/flash-diffusion-accelerating-any-conditional</link>
-      <description><![CDATA[In this paper, we propose an efficient, fast, and versatile distillation method to accelerate the generation of pre-trained diffusion models: Flash Diffusion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flash-diffusion-accelerating-any-conditional</guid>
-    </item>
-    <item>
-      <title>Blind Image Restoration via Fast Diffusion Inversion</title>
-      <link>https://paperswithcode.com/paper/blind-image-restoration-via-fast-diffusion-2</link>
-      <description><![CDATA[This is ultimately equivalent to casting the IR task as an optimization problem in the space of the input noise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blind-image-restoration-via-fast-diffusion-2</guid>
-    </item>
-    <item>
-      <title>Scaling and evaluating sparse autoencoders</title>
-      <link>https://paperswithcode.com/paper/scaling-and-evaluating-sparse-autoencoders</link>
-      <description><![CDATA[Using these techniques, we find clean scaling laws with respect to autoencoder size and sparsity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-and-evaluating-sparse-autoencoders</guid>
-    </item>
-    <item>
-      <title>Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments</title>
-      <link>https://paperswithcode.com/paper/orbit-a-unified-simulation-framework-for</link>
-      <description><![CDATA[We present Orbit, a unified and modular framework for robot learning powered by NVIDIA Isaac Sim.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/orbit-a-unified-simulation-framework-for</guid>
-    </item>
-    <item>
-      <title>HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/hipporag-neurobiologically-inspired-long-term</link>
-      <description><![CDATA[In order to thrive in hostile and ever-changing natural environments, mammalian brains evolved to store large amounts of knowledge about the world and continually integrate new information while avoiding catastrophic forgetting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hipporag-neurobiologically-inspired-long-term</guid>
-    </item>
-    <item>
-      <title>Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head</title>
-      <link>https://paperswithcode.com/paper/real-time-transformer-based-open-vocabulary</link>
-      <description><![CDATA[End-to-end transformer-based detectors (DETRs) have shown exceptional performance in both closed-set and open-vocabulary object detection (OVD) tasks through the integration of language modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/real-time-transformer-based-open-vocabulary</guid>
-    </item>
-    <item>
-      <title>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</title>
-      <link>https://paperswithcode.com/paper/switch-transformers-scaling-to-trillion</link>
-      <description><![CDATA[We design models based off T5-Base and T5-Large to obtain up to 7x increases in pre-training speed with the same computational resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/switch-transformers-scaling-to-trillion</guid>
-    </item>
-    <item>
-      <title>EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture</title>
-      <link>https://paperswithcode.com/paper/easyanimate-a-high-performance-long-video</link>
-      <description><![CDATA[The motion module can be adapted to various DiT baseline methods to generate video with different styles.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyanimate-a-high-performance-long-video</guid>
-    </item>
-    <item>
-      <title>Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration</title>
-      <link>https://paperswithcode.com/paper/mobile-agent-v2-mobile-device-operation</link>
-      <description><![CDATA[However, the two major navigation challenges in mobile device operation tasks, task progress navigation and focus content navigation, are significantly complicated under the single-agent architecture of existing work.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mobile-agent-v2-mobile-device-operation</guid>
+      <title>Matching Anything by Segmenting Anything</title>
+      <link>https://paperswithcode.com/paper/matching-anything-by-segmenting-anything</link>
+      <description><![CDATA[The robust association of the same objects across video frames in complex scenes is crucial for many applications, especially Multiple Object Tracking (MOT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/matching-anything-by-segmenting-anything</guid>
     </item>
     <item>
       <title>X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design</title>
@@ -123,10 +39,94 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</guid>
     </item>
     <item>
-      <title>A-Bench: Are LMMs Masters at Evaluating AI-generated Images?</title>
-      <link>https://paperswithcode.com/paper/a-bench-are-lmms-masters-at-evaluating-ai</link>
-      <description><![CDATA[How to accurately and efficiently assess AI-generated images (AIGIs) remains a critical challenge for generative models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-bench-are-lmms-masters-at-evaluating-ai</guid>
+      <title>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/buffer-of-thoughts-thought-augmented</link>
+      <description><![CDATA[We introduce Buffer of Thoughts (BoT), a novel and versatile thought-augmented reasoning approach for enhancing accuracy, efficiency and robustness of large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/buffer-of-thoughts-thought-augmented</guid>
+    </item>
+    <item>
+      <title>Blind Image Restoration via Fast Diffusion Inversion</title>
+      <link>https://paperswithcode.com/paper/blind-image-restoration-via-fast-diffusion-2</link>
+      <description><![CDATA[This is ultimately equivalent to casting the IR task as an optimization problem in the space of the input noise.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blind-image-restoration-via-fast-diffusion-2</guid>
+    </item>
+    <item>
+      <title>StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning</title>
+      <link>https://paperswithcode.com/paper/streamspeech-simultaneous-speech-to-speech</link>
+      <description><![CDATA[Simultaneous speech-to-speech translation (Simul-S2ST, a. k. a streaming speech translation) outputs target speech while receiving streaming speech inputs, which is critical for real-time communication.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/streamspeech-simultaneous-speech-to-speech</guid>
+    </item>
+    <item>
+      <title>Vision-LSTM: xLSTM as Generic Vision Backbone</title>
+      <link>https://paperswithcode.com/paper/vision-lstm-xlstm-as-generic-vision-backbone</link>
+      <description><![CDATA[Transformers are widely used as generic backbones in computer vision, despite initially introduced for natural language processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-lstm-xlstm-as-generic-vision-backbone</guid>
+    </item>
+    <item>
+      <title>Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis</title>
+      <link>https://paperswithcode.com/paper/lighting-every-darkness-with-3dgs-fast</link>
+      <description><![CDATA[Volumetric rendering based methods, like NeRF, excel in HDR view synthesis from RAWimages, especially for nighttime scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lighting-every-darkness-with-3dgs-fast</guid>
+    </item>
+    <item>
+      <title>Multi-Head RAG: Solving Multi-Aspect Problems with LLMs</title>
+      <link>https://paperswithcode.com/paper/multi-head-rag-solving-multi-aspect-problems</link>
+      <description><![CDATA[Retrieval Augmented Generation (RAG) enhances the abilities of Large Language Models (LLMs) by enabling the retrieval of documents into the LLM context to provide more accurate and relevant responses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-head-rag-solving-multi-aspect-problems</guid>
+    </item>
+    <item>
+      <title>Mathematical Supplement for the $\texttt{gsplat}$ Library</title>
+      <link>https://paperswithcode.com/paper/mathematical-supplement-for-the-texttt-gsplat</link>
+      <description><![CDATA[This report provides the mathematical details of the gsplat library, a modular toolbox for efficient differentiable Gaussian splatting, as proposed by Kerbl et al.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mathematical-supplement-for-the-texttt-gsplat</guid>
+    </item>
+    <item>
+      <title>Fast Timing-Conditioned Latent Audio Diffusion</title>
+      <link>https://paperswithcode.com/paper/fast-timing-conditioned-latent-audio</link>
+      <description><![CDATA[Generating long-form 44. 1kHz stereo audio from text prompts can be computationally demanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-timing-conditioned-latent-audio</guid>
+    </item>
+    <item>
+      <title>Less is More: Removing Text-regions Improves CLIP Training Efficiency and Robustness</title>
+      <link>https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</link>
+      <description><![CDATA[In this paper, we discuss two effective approaches to improve the efficiency and robustness of CLIP training: (1) augmenting the training dataset while maintaining the same number of optimization steps, and (2) filtering out samples that contain text regions in the image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</guid>
+    </item>
+    <item>
+      <title>Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training</title>
+      <link>https://paperswithcode.com/paper/revisiting-moe-and-dense-speed-accuracy</link>
+      <description><![CDATA[In this work, we revisit the settings by adopting step time as a more accurate measure of model complexity, and by determining the total compute budget under the Chinchilla compute-optimal settings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-moe-and-dense-speed-accuracy</guid>
+    </item>
+    <item>
+      <title>Scaling and evaluating sparse autoencoders</title>
+      <link>https://paperswithcode.com/paper/scaling-and-evaluating-sparse-autoencoders</link>
+      <description><![CDATA[Using these techniques, we find clean scaling laws with respect to autoencoder size and sparsity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-and-evaluating-sparse-autoencoders</guid>
+    </item>
+    <item>
+      <title>Seed-TTS: A Family of High-Quality Versatile Speech Generation Models</title>
+      <link>https://paperswithcode.com/paper/seed-tts-a-family-of-high-quality-versatile</link>
+      <description><![CDATA[Seed-TTS offers superior controllability over various speech attributes such as emotion and is capable of generating highly expressive and diverse speech for speakers in the wild.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seed-tts-a-family-of-high-quality-versatile</guid>
+    </item>
+    <item>
+      <title>AgentGym: Evolving Large Language Model-based Agents across Diverse Environments</title>
+      <link>https://paperswithcode.com/paper/agentgym-evolving-large-language-model-based</link>
+      <description><![CDATA[Building generalist agents that can handle diverse tasks and evolve themselves across different environments is a long-term goal in the AI community.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentgym-evolving-large-language-model-based</guid>
+    </item>
+    <item>
+      <title>Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning</title>
+      <link>https://paperswithcode.com/paper/husky-a-unified-open-source-language-agent</link>
+      <description><![CDATA[Despite using 7B models, Husky matches or even exceeds frontier LMs such as GPT-4 on these tasks, showcasing the efficacy of our holistic approach in addressing complex reasoning problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/husky-a-unified-open-source-language-agent</guid>
+    </item>
+    <item>
+      <title>Recurrent Context Compression: Efficiently Expanding the Context Window of LLM</title>
+      <link>https://paperswithcode.com/paper/recurrent-context-compression-efficiently</link>
+      <description><![CDATA[To extend the context length of Transformer-based large language models (LLMs) and improve comprehension capabilities, we often face limitations due to computational resources and bounded memory storage capacity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/recurrent-context-compression-efficiently</guid>
     </item>
   </channel>
 </rss>
