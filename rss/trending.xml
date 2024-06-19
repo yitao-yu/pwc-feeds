@@ -7,24 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 21:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 09:17:35 +0000</lastBuildDate>
     <item>
-      <title>Scalable MatMul-free Language Modeling</title>
-      <link>https://paperswithcode.com/paper/scalable-matmul-free-language-modeling</link>
-      <description><![CDATA[Our experiments show that our proposed MatMul-free models achieve performance on-par with state-of-the-art Transformers that require far more memory during inference at a scale up to at least 2. 7B parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-matmul-free-language-modeling</guid>
+      <title>MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers</title>
+      <link>https://paperswithcode.com/paper/meshanything-artist-created-mesh-generation</link>
+      <description><![CDATA[Recently, 3D assets created via reconstruction and generation have matched the quality of manually crafted assets, highlighting their potential for replacement.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meshanything-artist-created-mesh-generation</guid>
     </item>
     <item>
-      <title>Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation</title>
-      <link>https://paperswithcode.com/paper/autoregressive-model-beats-diffusion-llama</link>
-      <description><![CDATA[(3) A text-conditional image generation model with 775M parameters, from two-stage training on LAION-COCO and high aesthetics quality images, demonstrating competitive performance of visual quality and text alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-model-beats-diffusion-llama</guid>
-    </item>
-    <item>
-      <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
-      <link>https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</link>
-      <description><![CDATA[We hope that our study can facilitate the research community and LLM vendors in promoting safer and regulated LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</guid>
+      <title>Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B</title>
+      <link>https://paperswithcode.com/paper/accessing-gpt-4-level-mathematical-olympiad</link>
+      <description><![CDATA[This paper introduces the MCT Self-Refine (MCTSr) algorithm, an innovative integration of Large Language Models (LLMs) with Monte Carlo Tree Search (MCTS), designed to enhance performance in complex mathematical reasoning tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/accessing-gpt-4-level-mathematical-olympiad</guid>
     </item>
     <item>
       <title>TextGrad: Automatic "Differentiation" via Text</title>
@@ -33,52 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/textgrad-automatic-differentiation-via-text</guid>
     </item>
     <item>
-      <title>Matching Anything by Segmenting Anything</title>
-      <link>https://paperswithcode.com/paper/matching-anything-by-segmenting-anything</link>
-      <description><![CDATA[The robust association of the same objects across video frames in complex scenes is crucial for many applications, especially Multiple Object Tracking (MOT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/matching-anything-by-segmenting-anything</guid>
-    </item>
-    <item>
-      <title>X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design</title>
-      <link>https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</link>
-      <description><![CDATA[Starting with a set of pre-trained LoRA adapters, our gating strategy uses the hidden states to dynamically mix adapted layers, allowing the resulting X-LoRA model to draw upon different capabilities and create never-before-used deep layer-wise combinations to solve tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</guid>
-    </item>
-    <item>
-      <title>Less is More: Removing Text-regions Improves CLIP Training Efficiency and Robustness</title>
-      <link>https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</link>
-      <description><![CDATA[In this paper, we discuss two effective approaches to improve the efficiency and robustness of CLIP training: (1) augmenting the training dataset while maintaining the same number of optimization steps, and (2) filtering out samples that contain text regions in the image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/less-is-more-removing-text-regions-improves</guid>
-    </item>
-    <item>
-      <title>Revisiting MoE and Dense Speed-Accuracy Comparisons for LLM Training</title>
-      <link>https://paperswithcode.com/paper/revisiting-moe-and-dense-speed-accuracy</link>
-      <description><![CDATA[In this work, we revisit the settings by adopting step time as a more accurate measure of model complexity, and by determining the total compute budget under the Chinchilla compute-optimal settings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-moe-and-dense-speed-accuracy</guid>
-    </item>
-    <item>
-      <title>LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts for Text-to-Speech and Style Captioning</title>
-      <link>https://paperswithcode.com/paper/libritts-p-a-corpus-with-speaking-style-and</link>
-      <description><![CDATA[We employ a hybrid approach to construct prompt annotations: (1) manual annotations that capture human perceptions of speaker characteristics and (2) synthetic annotations on speaking style.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/libritts-p-a-corpus-with-speaking-style-and</guid>
-    </item>
-    <item>
-      <title>OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text</title>
-      <link>https://paperswithcode.com/paper/omnicorpus-an-unified-multimodal-corpus-of-10</link>
-      <description><![CDATA[In this paper, we introduce OmniCorpus, a 10 billion-scale image-text interleaved dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omnicorpus-an-unified-multimodal-corpus-of-10</guid>
-    </item>
-    <item>
-      <title>Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/buffer-of-thoughts-thought-augmented</link>
-      <description><![CDATA[We introduce Buffer of Thoughts (BoT), a novel and versatile thought-augmented reasoning approach for enhancing accuracy, efficiency and robustness of large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/buffer-of-thoughts-thought-augmented</guid>
-    </item>
-    <item>
-      <title>Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning</title>
-      <link>https://paperswithcode.com/paper/husky-a-unified-open-source-language-agent</link>
-      <description><![CDATA[Despite using 7B models, Husky matches or even exceeds frontier LMs such as GPT-4 on these tasks, showcasing the efficacy of our holistic approach in addressing complex reasoning problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/husky-a-unified-open-source-language-agent</guid>
+      <title>Scalable MatMul-free Language Modeling</title>
+      <link>https://paperswithcode.com/paper/scalable-matmul-free-language-modeling</link>
+      <description><![CDATA[Our experiments show that our proposed MatMul-free models achieve performance on-par with state-of-the-art Transformers that require far more memory during inference at a scale up to at least 2. 7B parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-matmul-free-language-modeling</guid>
     </item>
     <item>
       <title>VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs</title>
@@ -87,22 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/videollama-2-advancing-spatial-temporal</guid>
     </item>
     <item>
-      <title>Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image</title>
-      <link>https://paperswithcode.com/paper/unique3d-high-quality-and-efficient-3d-mesh</link>
-      <description><![CDATA[In this work, we introduce Unique3D, a novel image-to-3D framework for efficiently generating high-quality 3D meshes from single-view images, featuring state-of-the-art generation fidelity and strong generalizability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unique3d-high-quality-and-efficient-3d-mesh</guid>
+      <title>Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling</title>
+      <link>https://paperswithcode.com/paper/samba-simple-hybrid-state-space-models-for</link>
+      <description><![CDATA[When trained on 4K length sequences, Samba can be efficiently extrapolated to 256K context length with perfect memory recall and show improved token predictions up to 1M context length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/samba-simple-hybrid-state-space-models-for</guid>
     </item>
     <item>
-      <title>Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis</title>
-      <link>https://paperswithcode.com/paper/lighting-every-darkness-with-3dgs-fast</link>
-      <description><![CDATA[Volumetric rendering based methods, like NeRF, excel in HDR view synthesis from RAWimages, especially for nighttime scenes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lighting-every-darkness-with-3dgs-fast</guid>
+      <title>Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation</title>
+      <link>https://paperswithcode.com/paper/autoregressive-model-beats-diffusion-llama</link>
+      <description><![CDATA[(3) A text-conditional image generation model with 775M parameters, from two-stage training on LAION-COCO and high aesthetics quality images, demonstrating competitive performance of visual quality and text alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-model-beats-diffusion-llama</guid>
     </item>
     <item>
-      <title>AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising</title>
-      <link>https://paperswithcode.com/paper/asyncdiff-parallelizing-diffusion-models-by</link>
-      <description><![CDATA[To address this, we introduce AsyncDiff, a universal and plug-and-play acceleration scheme that enables model parallelism across multiple devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/asyncdiff-parallelizing-diffusion-models-by</guid>
+      <title>OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation</title>
+      <link>https://paperswithcode.com/paper/omnitokenizer-a-joint-image-video-tokenizer</link>
+      <description><![CDATA[To exploit the complementary nature of image and video data, we further propose a progressive training strategy, where OmniTokenizer is first trained on image data on a fixed resolution to develop the spatial encoding capacity and then jointly trained on image and video data on multiple resolutions to learn the temporal dynamics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnitokenizer-a-joint-image-video-tokenizer</guid>
+    </item>
+    <item>
+      <title>X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Molecular Design</title>
+      <link>https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</link>
+      <description><![CDATA[Starting with a set of pre-trained LoRA adapters, our gating strategy uses the hidden states to dynamically mix adapted layers, allowing the resulting X-LoRA model to draw upon different capabilities and create never-before-used deep layer-wise combinations to solve tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/x-lora-mixture-of-low-rank-adapter-experts-a</guid>
     </item>
     <item>
       <title>Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers</title>
@@ -111,22 +69,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lumina-t2x-transforming-text-into-any</guid>
     </item>
     <item>
-      <title>Seed-TTS: A Family of High-Quality Versatile Speech Generation Models</title>
-      <link>https://paperswithcode.com/paper/seed-tts-a-family-of-high-quality-versatile</link>
-      <description><![CDATA[Seed-TTS offers superior controllability over various speech attributes such as emotion and is capable of generating highly expressive and diverse speech for speakers in the wild.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seed-tts-a-family-of-high-quality-versatile</guid>
+      <title>VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding</title>
+      <link>https://paperswithcode.com/paper/videogpt-integrating-image-and-video-encoders</link>
+      <description><![CDATA[Building on the advances of language models, Large Multimodal Models (LMMs) have contributed significant improvements in video understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videogpt-integrating-image-and-video-encoders</guid>
     </item>
     <item>
-      <title>Mathematical Supplement for the $\texttt{gsplat}$ Library</title>
-      <link>https://paperswithcode.com/paper/mathematical-supplement-for-the-texttt-gsplat</link>
-      <description><![CDATA[This report provides the mathematical details of the gsplat library, a modular toolbox for efficient differentiable Gaussian splatting, as proposed by Kerbl et al.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mathematical-supplement-for-the-texttt-gsplat</guid>
+      <title>On the Measure of Intelligence</title>
+      <link>https://paperswithcode.com/paper/the-measure-of-intelligence</link>
+      <description><![CDATA[To make deliberate progress towards more intelligent and more human-like artificial systems, we need to be following an appropriate feedback signal: we need to be able to define and evaluate intelligence in a way that enables comparisons between two systems, as well as comparisons with humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-measure-of-intelligence</guid>
     </item>
     <item>
-      <title>Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions</title>
-      <link>https://paperswithcode.com/paper/image-textualization-an-automatic-framework</link>
-      <description><![CDATA[Image description datasets play a crucial role in the advancement of various applications such as image understanding, text-to-image generation, and text-image retrieval.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/image-textualization-an-automatic-framework</guid>
+      <title>OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text</title>
+      <link>https://paperswithcode.com/paper/omnicorpus-an-unified-multimodal-corpus-of-10</link>
+      <description><![CDATA[In this paper, we introduce OmniCorpus, a 10 billion-scale image-text interleaved dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnicorpus-an-unified-multimodal-corpus-of-10</guid>
+    </item>
+    <item>
+      <title>ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code</title>
+      <link>https://paperswithcode.com/paper/ml-bench-large-language-models-leverage-open</link>
+      <description><![CDATA[Despite Large Language Models (LLMs) like GPT-4 achieving impressive results in function-level code generation, they struggle with repository-scale code understanding (e. g., coming up with the right arguments for calling routines), requiring a deeper comprehension of complex file interactions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ml-bench-large-language-models-leverage-open</guid>
+    </item>
+    <item>
+      <title>CleanDiffuser: An Easy-to-use Modularized Library for Diffusion Models in Decision Making</title>
+      <link>https://paperswithcode.com/paper/cleandiffuser-an-easy-to-use-modularized</link>
+      <description><![CDATA[By revisiting the roles of DMs in the decision-making domain, we identify a set of essential sub-modules that constitute the core of CleanDiffuser, allowing for the implementation of various DM algorithms with simple and flexible building blocks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cleandiffuser-an-easy-to-use-modularized</guid>
+    </item>
+    <item>
+      <title>MegActor: Harness the Power of Raw Video for Vivid Portrait Animation</title>
+      <link>https://paperswithcode.com/paper/megactor-harness-the-power-of-raw-video-for</link>
+      <description><![CDATA[Despite raw driving videos contain richer information on facial expressions than intermediate representations such as landmarks in the field of portrait animation, they are seldom the subject of research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/megactor-harness-the-power-of-raw-video-for</guid>
+    </item>
+    <item>
+      <title>AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation</title>
+      <link>https://paperswithcode.com/paper/autostudio-crafting-consistent-subjects-in</link>
+      <description><![CDATA[As cutting-edge Text-to-Image (T2I) generation models already excel at producing remarkable single images, an even more challenging task, i. e., multi-turn interactive image generation begins to attract the attention of related research communities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autostudio-crafting-consistent-subjects-in</guid>
+    </item>
+    <item>
+      <title>LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts for Text-to-Speech and Style Captioning</title>
+      <link>https://paperswithcode.com/paper/libritts-p-a-corpus-with-speaking-style-and</link>
+      <description><![CDATA[We employ a hybrid approach to construct prompt annotations: (1) manual annotations that capture human perceptions of speaker characteristics and (2) synthetic annotations on speaking style.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/libritts-p-a-corpus-with-speaking-style-and</guid>
+    </item>
+    <item>
+      <title>ProG: A Graph Prompt Learning Benchmark</title>
+      <link>https://paperswithcode.com/paper/prog-a-graph-prompt-learning-benchmark</link>
+      <description><![CDATA[Artificial general intelligence on graphs has shown significant advancements across various applications, yet the traditional 'Pre-train & Fine-tune' paradigm faces inefficiencies and negative transfer issues, particularly in complex and few-shot settings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prog-a-graph-prompt-learning-benchmark</guid>
+    </item>
+    <item>
+      <title>Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image</title>
+      <link>https://paperswithcode.com/paper/unique3d-high-quality-and-efficient-3d-mesh</link>
+      <description><![CDATA[In this work, we introduce Unique3D, a novel image-to-3D framework for efficiently generating high-quality 3D meshes from single-view images, featuring state-of-the-art generation fidelity and strong generalizability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unique3d-high-quality-and-efficient-3d-mesh</guid>
     </item>
   </channel>
 </rss>
