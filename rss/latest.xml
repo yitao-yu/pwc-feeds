@@ -7,108 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 09:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 21:08:06 +0000</lastBuildDate>
     <item>
-      <title>Reducing Fine-Tuning Memory Overhead by Approximate and Memory-Sharing Backpropagation</title>
-      <link>https://paperswithcode.com/paper/reducing-fine-tuning-memory-overhead-by</link>
-      <description><![CDATA[Fine-tuning pretrained large models to downstream tasks is an important problem, which however suffers from huge memory overhead due to large-scale parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reducing-fine-tuning-memory-overhead-by</guid>
-    </item>
-    <item>
-      <title>UBiSS: A Unified Framework for Bimodal Semantic Summarization of Videos</title>
-      <link>https://paperswithcode.com/paper/ubiss-a-unified-framework-for-bimodal</link>
-      <description><![CDATA[With the surge in the amount of video data, video summarization techniques, including visual-modal(VM) and textual-modal(TM) summarization, are attracting more and more attention.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ubiss-a-unified-framework-for-bimodal</guid>
-    </item>
-    <item>
-      <title>RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale</title>
-      <link>https://paperswithcode.com/paper/res-q-evaluating-code-editing-large-language</link>
-      <description><![CDATA[The instruction-following ability of Large Language Models (LLMs) has cultivated a class of LLM-based systems capable of approaching complex tasks such as making edits to large code repositories.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/res-q-evaluating-code-editing-large-language</guid>
-    </item>
-    <item>
-      <title>Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach</title>
-      <link>https://paperswithcode.com/paper/cross-domain-transfer-of-valence-preferences</link>
-      <description><![CDATA[Furthermore, in addition to the supervised loss for overlapping users, we design contrastive tasks for non-overlapping users from both group and individual-levels to avoid model skew and enhance the semantics of representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-domain-transfer-of-valence-preferences</guid>
-    </item>
-    <item>
-      <title>Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Physical Dynamics Learning</title>
-      <link>https://paperswithcode.com/paper/relaxing-continuous-constraints-of</link>
-      <description><![CDATA[Moreover, we show that DEGNN is data efficient, learning with less data, and can generalize across scenarios such as unobserved orientation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relaxing-continuous-constraints-of</guid>
-    </item>
-    <item>
-      <title>GeoMFormer: A General Architecture for Geometric Molecular Representation Learning</title>
-      <link>https://paperswithcode.com/paper/geomformer-a-general-architecture-for</link>
-      <description><![CDATA[We argue that there is a strong need for a general and flexible framework for learning both invariant and equivariant features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/geomformer-a-general-architecture-for</guid>
-    </item>
-    <item>
-      <title>FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/freetraj-tuning-free-trajectory-control-in</link>
-      <description><![CDATA[Diffusion model has demonstrated remarkable capability in video generation, which further sparks interest in introducing trajectory control into the generation process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/freetraj-tuning-free-trajectory-control-in</guid>
-    </item>
-    <item>
-      <title>LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training</title>
-      <link>https://paperswithcode.com/paper/llama-moe-building-mixture-of-experts-from</link>
-      <description><![CDATA[Motivated by this limit, we investigate building MoE models from existing dense large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-moe-building-mixture-of-experts-from</guid>
-    </item>
-    <item>
-      <title>Learning in Wilson-Cowan model for metapopulation</title>
-      <link>https://paperswithcode.com/paper/learning-in-wilson-cowan-model-for</link>
-      <description><![CDATA[The Wilson-Cowan model for metapopulation, a Neural Mass Network Model, treats different subcortical regions of the brain as connected nodes, with connections representing various types of structural, functional, or effective neuronal connectivity between these regions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-in-wilson-cowan-model-for</guid>
-    </item>
-    <item>
-      <title>EvalAlign: Evaluating Text-to-Image Models through Precision Alignment of Multimodal Large Models with Supervised Fine-Tuning to Human Annotations</title>
-      <link>https://paperswithcode.com/paper/evalalign-evaluating-text-to-image-models</link>
-      <description><![CDATA[Our comprehensive tests across 24 text-to-image generation models demonstrate that EvalAlign not only provides superior metric stability but also aligns more closely with human preferences than existing metrics, confirming its effectiveness and utility in model assessment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evalalign-evaluating-text-to-image-models</guid>
-    </item>
-    <item>
-      <title>Towards Better Graph-based Cross-document Relation Extraction via Non-bridge Entity Enhancement and Prediction Debiasing</title>
-      <link>https://paperswithcode.com/paper/towards-better-graph-based-cross-document</link>
-      <description><![CDATA[However, these studies ignore the non-bridge entities, each of which co-occurs with only one target entity and offers the semantic association between target entities for relation prediction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-better-graph-based-cross-document</guid>
-    </item>
-    <item>
-      <title>SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments</title>
-      <link>https://paperswithcode.com/paper/segnet4d-effective-and-efficient-4d-lidar</link>
-      <description><![CDATA[It entails identifying the semantic category of each point in the LiDAR scan and distinguishing whether it is dynamic, a critical aspect in downstream tasks such as path planning and autonomous navigation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segnet4d-effective-and-efficient-4d-lidar</guid>
-    </item>
-    <item>
-      <title>C-LLM: Learn to Check Chinese Spelling Errors Character by Character</title>
-      <link>https://paperswithcode.com/paper/c-llm-learn-to-check-chinese-spelling-errors</link>
-      <description><![CDATA[To address this issue, we propose C-LLM, a Large Language Model-based Chinese Spell Checking method that learns to check errors Character by Character.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/c-llm-learn-to-check-chinese-spelling-errors</guid>
-    </item>
-    <item>
-      <title>CLEAR: Can Language Models Really Understand Causal Graphs?</title>
-      <link>https://paperswithcode.com/paper/clear-can-language-models-really-understand</link>
-      <description><![CDATA[Causal reasoning is a cornerstone of how humans interpret the world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clear-can-language-models-really-understand</guid>
-    </item>
-    <item>
-      <title>Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings</title>
-      <link>https://paperswithcode.com/paper/evaluation-of-language-models-in-the-medical</link>
-      <description><![CDATA[In addition, we selected a subset of these models for thorough evaluation, focusing on classification and text generation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluation-of-language-models-in-the-medical</guid>
-    </item>
-    <item>
-      <title>From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking</title>
-      <link>https://paperswithcode.com/paper/from-perfect-to-noisy-world-simulation</link>
-      <description><![CDATA[Embodied agents require robust navigation systems to operate in unstructured environments, making the robustness of Simultaneous Localization and Mapping (SLAM) models critical to embodied agent autonomy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-perfect-to-noisy-world-simulation</guid>
-    </item>
-    <item>
-      <title>CAVE: Controllable Authorship Verification Explanations</title>
-      <link>https://paperswithcode.com/paper/cave-controllable-authorship-verification</link>
-      <description><![CDATA[In this work, we take the first step to address the above challenges with our model CAVE (Controllable Authorship Verification Explanations): CAVE generates free-text AV explanations that are controlled to be 1) structured (can be decomposed into sub-explanations with respect to relevant linguistic features), and 2) easily verified for explanation-label consistency (via intermediate labels in sub-explanations).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cave-controllable-authorship-verification</guid>
+      <title>GC-Bench: A Benchmark Framework for Graph Condensation with New Insights</title>
+      <link>https://paperswithcode.com/paper/gc-bench-a-benchmark-framework-for-graph</link>
+      <description><![CDATA[Our experimental findings provide a deeper insights into the GC process and the characteristics of condensed graphs, guiding future efforts in enhancing performance and exploring new applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gc-bench-a-benchmark-framework-for-graph</guid>
     </item>
     <item>
       <title>LOGCAN++: Local-global class-aware network for semantic segmentation of remote sensing images</title>
@@ -123,22 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/user-story-tutor-ust-to-support-agile</guid>
     </item>
     <item>
-      <title>LangSuitE: Planning, Controlling and Interacting with Large Language Models in Embodied Text Environments</title>
-      <link>https://paperswithcode.com/paper/langsuite-planning-controlling-and</link>
-      <description><![CDATA[Recent advances in Large Language Models (LLMs) have shown inspiring achievements in constructing autonomous agents that rely on language descriptions as inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/langsuite-planning-controlling-and</guid>
-    </item>
-    <item>
       <title>The GPT-WritingPrompts Dataset: A Comparative Analysis of Character Portrayal in Short Stories</title>
       <link>https://paperswithcode.com/paper/the-gpt-writingprompts-dataset-a-comparative</link>
       <description><![CDATA[We find that generated stories differ significantly from human stories along all six dimensions, and that human and machine generations display similar biases when grouped according to the narrative point-of-view and gender of the main protagonist.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-gpt-writingprompts-dataset-a-comparative</guid>
     </item>
     <item>
-      <title>GC-Bench: A Benchmark Framework for Graph Condensation with New Insights</title>
-      <link>https://paperswithcode.com/paper/gc-bench-a-benchmark-framework-for-graph</link>
-      <description><![CDATA[Our experimental findings provide a deeper insights into the GC process and the characteristics of condensed graphs, guiding future efforts in enhancing performance and exploring new applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gc-bench-a-benchmark-framework-for-graph</guid>
+      <title>LangSuitE: Planning, Controlling and Interacting with Large Language Models in Embodied Text Environments</title>
+      <link>https://paperswithcode.com/paper/langsuite-planning-controlling-and</link>
+      <description><![CDATA[Recent advances in Large Language Models (LLMs) have shown inspiring achievements in constructing autonomous agents that rely on language descriptions as inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/langsuite-planning-controlling-and</guid>
     </item>
     <item>
       <title>EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records</title>
@@ -153,10 +51,82 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/long-context-transfer-from-language-to-vision</guid>
     </item>
     <item>
+      <title>Finding Transformer Circuits with Edge Pruning</title>
+      <link>https://paperswithcode.com/paper/finding-transformer-circuits-with-edge</link>
+      <description><![CDATA[Our method finds circuits in GPT-2 that use less than half the number of edges compared to circuits found by previous methods while being equally faithful to the full model predictions on standard circuit-finding tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/finding-transformer-circuits-with-edge</guid>
+    </item>
+    <item>
       <title>Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting</title>
       <link>https://paperswithcode.com/paper/exploring-cross-domain-few-shot</link>
       <description><![CDATA[However, most existing methods pay more attention to learning domain-adaptive inductive bias (meta-knowledge) through feature-wise manipulation or task diversity improvement while neglecting the phenomenon that deep networks tend to rely more on high-frequency cues to make the classification decision, which thus degenerates the robustness of learned inductive bias since high-frequency information is vulnerable and easy to be disturbed by noisy information.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-cross-domain-few-shot</guid>
+    </item>
+    <item>
+      <title>DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation</title>
+      <link>https://paperswithcode.com/paper/dreambench-a-human-aligned-benchmark-for</link>
+      <description><![CDATA[Personalized image generation holds great promise in assisting humans in everyday work and life due to its impressive function in creatively generating personalized content.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambench-a-human-aligned-benchmark-for</guid>
+    </item>
+    <item>
+      <title>CausalFormer: An Interpretable Transformer for Temporal Causal Discovery</title>
+      <link>https://paperswithcode.com/paper/causalformer-an-interpretable-transformer-for</link>
+      <description><![CDATA[To facilitate the utilization of the whole deep learning models in temporal causal discovery, we proposed an interpretable transformer-based causal discovery model termed CausalFormer, which consists of the causality-aware transformer and the decomposition-based causality detector.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/causalformer-an-interpretable-transformer-for</guid>
+    </item>
+    <item>
+      <title>UBiSS: A Unified Framework for Bimodal Semantic Summarization of Videos</title>
+      <link>https://paperswithcode.com/paper/ubiss-a-unified-framework-for-bimodal</link>
+      <description><![CDATA[With the surge in the amount of video data, video summarization techniques, including visual-modal(VM) and textual-modal(TM) summarization, are attracting more and more attention.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ubiss-a-unified-framework-for-bimodal</guid>
+    </item>
+    <item>
+      <title>Cross-domain Transfer of Valence Preferences via a Meta-optimization Approach</title>
+      <link>https://paperswithcode.com/paper/cross-domain-transfer-of-valence-preferences</link>
+      <description><![CDATA[Furthermore, in addition to the supervised loss for overlapping users, we design contrastive tasks for non-overlapping users from both group and individual-levels to avoid model skew and enhance the semantics of representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-domain-transfer-of-valence-preferences</guid>
+    </item>
+    <item>
+      <title>Differentiable Distributionally Robust Optimization Layers</title>
+      <link>https://paperswithcode.com/paper/differentiable-distributionally-robust</link>
+      <description><![CDATA[As an application of the proposed differentiable DRO layers, we develop a novel decision-focused learning pipeline for contextual distributionally robust decision-making tasks and compare it with the prediction-focused approach in experiments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/differentiable-distributionally-robust</guid>
+    </item>
+    <item>
+      <title>RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale</title>
+      <link>https://paperswithcode.com/paper/res-q-evaluating-code-editing-large-language</link>
+      <description><![CDATA[The instruction-following ability of Large Language Models (LLMs) has cultivated a class of LLM-based systems capable of approaching complex tasks such as making edits to large code repositories.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/res-q-evaluating-code-editing-large-language</guid>
+    </item>
+    <item>
+      <title>GeoMFormer: A General Architecture for Geometric Molecular Representation Learning</title>
+      <link>https://paperswithcode.com/paper/geomformer-a-general-architecture-for</link>
+      <description><![CDATA[We argue that there is a strong need for a general and flexible framework for learning both invariant and equivariant features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/geomformer-a-general-architecture-for</guid>
+    </item>
+    <item>
+      <title>Learning in Wilson-Cowan model for metapopulation</title>
+      <link>https://paperswithcode.com/paper/learning-in-wilson-cowan-model-for</link>
+      <description><![CDATA[The Wilson-Cowan model for metapopulation, a Neural Mass Network Model, treats different subcortical regions of the brain as connected nodes, with connections representing various types of structural, functional, or effective neuronal connectivity between these regions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-in-wilson-cowan-model-for</guid>
+    </item>
+    <item>
+      <title>FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/freetraj-tuning-free-trajectory-control-in</link>
+      <description><![CDATA[Diffusion model has demonstrated remarkable capability in video generation, which further sparks interest in introducing trajectory control into the generation process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/freetraj-tuning-free-trajectory-control-in</guid>
+    </item>
+    <item>
+      <title>Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation</title>
+      <link>https://paperswithcode.com/paper/instance-consistency-regularization-for-semi</link>
+      <description><![CDATA[To leverage unlabeled data, previous semi-supervised 3D instance segmentation approaches have explored self-training frameworks, which rely on high-quality pseudo labels for consistency regularization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instance-consistency-regularization-for-semi</guid>
+    </item>
+    <item>
+      <title>Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs</title>
+      <link>https://paperswithcode.com/paper/lottery-ticket-adaptation-mitigating</link>
+      <description><![CDATA[We evaluate LoTA on a wide range of challenging tasks such as instruction following, reasoning, math, and summarization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lottery-ticket-adaptation-mitigating</guid>
     </item>
     <item>
       <title>Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing</title>
@@ -171,58 +141,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/interclip-mep-interactive-clip-and-memory</guid>
     </item>
     <item>
-      <title>DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation</title>
-      <link>https://paperswithcode.com/paper/dreambench-a-human-aligned-benchmark-for</link>
-      <description><![CDATA[Personalized image generation holds great promise in assisting humans in everyday work and life due to its impressive function in creatively generating personalized content.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreambench-a-human-aligned-benchmark-for</guid>
-    </item>
-    <item>
-      <title>Multimodal Graph Benchmark</title>
-      <link>https://paperswithcode.com/paper/multimodal-graph-benchmark</link>
-      <description><![CDATA[Associating unstructured data with structured information is crucial for real-world tasks that require relevance search.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-graph-benchmark</guid>
-    </item>
-    <item>
-      <title>CausalFormer: An Interpretable Transformer for Temporal Causal Discovery</title>
-      <link>https://paperswithcode.com/paper/causalformer-an-interpretable-transformer-for</link>
-      <description><![CDATA[To facilitate the utilization of the whole deep learning models in temporal causal discovery, we proposed an interpretable transformer-based causal discovery model termed CausalFormer, which consists of the causality-aware transformer and the decomposition-based causality detector.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/causalformer-an-interpretable-transformer-for</guid>
-    </item>
-    <item>
-      <title>Differentiable Distributionally Robust Optimization Layers</title>
-      <link>https://paperswithcode.com/paper/differentiable-distributionally-robust</link>
-      <description><![CDATA[As an application of the proposed differentiable DRO layers, we develop a novel decision-focused learning pipeline for contextual distributionally robust decision-making tasks and compare it with the prediction-focused approach in experiments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/differentiable-distributionally-robust</guid>
-    </item>
-    <item>
-      <title>Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs</title>
-      <link>https://paperswithcode.com/paper/lottery-ticket-adaptation-mitigating</link>
-      <description><![CDATA[We evaluate LoTA on a wide range of challenging tasks such as instruction following, reasoning, math, and summarization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lottery-ticket-adaptation-mitigating</guid>
-    </item>
-    <item>
-      <title>Uncertainty-Aware Reward-Free Exploration with General Function Approximation</title>
-      <link>https://paperswithcode.com/paper/uncertainty-aware-reward-free-exploration</link>
-      <description><![CDATA[The key idea behind our algorithm is an uncertainty-aware intrinsic reward for exploring the environment and an uncertainty-weighted learning process to handle heterogeneous uncertainty in different samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uncertainty-aware-reward-free-exploration</guid>
-    </item>
-    <item>
-      <title>Finding Transformer Circuits with Edge Pruning</title>
-      <link>https://paperswithcode.com/paper/finding-transformer-circuits-with-edge</link>
-      <description><![CDATA[Our method finds circuits in GPT-2 that use less than half the number of edges compared to circuits found by previous methods while being equally faithful to the full model predictions on standard circuit-finding tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/finding-transformer-circuits-with-edge</guid>
-    </item>
-    <item>
-      <title>OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?</title>
-      <link>https://paperswithcode.com/paper/olympicarena-medal-ranks-who-is-the-most</link>
-      <description><![CDATA[In this report, we pose the following question: Who is the most intelligent AI model to date, as measured by the OlympicArena (an Olympic-level, multi-discipline, multi-modal benchmark for superintelligent AI)?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/olympicarena-medal-ranks-who-is-the-most</guid>
-    </item>
-    <item>
-      <title>FASTC: A Fast Attentional Framework for Semantic Traversability Classification Using Point Cloud</title>
-      <link>https://paperswithcode.com/paper/fastc-a-fast-attentional-framework-for</link>
-      <description><![CDATA[Producing traversability maps and understanding the surroundings are crucial prerequisites for autonomous navigation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fastc-a-fast-attentional-framework-for</guid>
+      <title>OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser</title>
+      <link>https://paperswithcode.com/paper/otce-hybrid-ssm-and-attention-with-cross</link>
+      <description><![CDATA[Recent research has shown that combining Mamba with Transformer architecture, which has selective state space and quadratic self-attention mechanism, outperforms using Mamba or Transformer architecture alone in language modeling tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/otce-hybrid-ssm-and-attention-with-cross</guid>
     </item>
     <item>
       <title>ShadowLLM: Predictor-based Contextual Sparsity for Large Language Models</title>
@@ -231,10 +153,106 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/shadowllm-predictor-based-contextual-sparsity</guid>
     </item>
     <item>
-      <title>OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser</title>
-      <link>https://paperswithcode.com/paper/otce-hybrid-ssm-and-attention-with-cross</link>
-      <description><![CDATA[Recent research has shown that combining Mamba with Transformer architecture, which has selective state space and quadratic self-attention mechanism, outperforms using Mamba or Transformer architecture alone in language modeling tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/otce-hybrid-ssm-and-attention-with-cross</guid>
+      <title>OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?</title>
+      <link>https://paperswithcode.com/paper/olympicarena-medal-ranks-who-is-the-most</link>
+      <description><![CDATA[In this report, we pose the following question: Who is the most intelligent AI model to date, as measured by the OlympicArena (an Olympic-level, multi-discipline, multi-modal benchmark for superintelligent AI)?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/olympicarena-medal-ranks-who-is-the-most</guid>
+    </item>
+    <item>
+      <title>Multimodal Graph Benchmark</title>
+      <link>https://paperswithcode.com/paper/multimodal-graph-benchmark</link>
+      <description><![CDATA[Associating unstructured data with structured information is crucial for real-world tasks that require relevance search.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-graph-benchmark</guid>
+    </item>
+    <item>
+      <title>FASTC: A Fast Attentional Framework for Semantic Traversability Classification Using Point Cloud</title>
+      <link>https://paperswithcode.com/paper/fastc-a-fast-attentional-framework-for</link>
+      <description><![CDATA[Producing traversability maps and understanding the surroundings are crucial prerequisites for autonomous navigation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastc-a-fast-attentional-framework-for</guid>
+    </item>
+    <item>
+      <title>Uncertainty-Aware Reward-Free Exploration with General Function Approximation</title>
+      <link>https://paperswithcode.com/paper/uncertainty-aware-reward-free-exploration</link>
+      <description><![CDATA[The key idea behind our algorithm is an uncertainty-aware intrinsic reward for exploring the environment and an uncertainty-weighted learning process to handle heterogeneous uncertainty in different samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uncertainty-aware-reward-free-exploration</guid>
+    </item>
+    <item>
+      <title>CAVE: Controllable Authorship Verification Explanations</title>
+      <link>https://paperswithcode.com/paper/cave-controllable-authorship-verification</link>
+      <description><![CDATA[In this work, we take the first step to address the above challenges with our model CAVE (Controllable Authorship Verification Explanations): CAVE generates free-text AV explanations that are controlled to be 1) structured (can be decomposed into sub-explanations with respect to relevant linguistic features), and 2) easily verified for explanation-label consistency (via intermediate labels in sub-explanations).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cave-controllable-authorship-verification</guid>
+    </item>
+    <item>
+      <title>LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training</title>
+      <link>https://paperswithcode.com/paper/llama-moe-building-mixture-of-experts-from</link>
+      <description><![CDATA[Motivated by this limit, we investigate building MoE models from existing dense large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-moe-building-mixture-of-experts-from</guid>
+    </item>
+    <item>
+      <title>Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models</title>
+      <link>https://paperswithcode.com/paper/revisiting-referring-expression-comprehension</link>
+      <description><![CDATA[Recent advancements in REC have been driven by large multimodal models (LMMs) like CogVLM, which achieved 92. 44% accuracy on RefCOCO.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-referring-expression-comprehension</guid>
+    </item>
+    <item>
+      <title>Reducing Fine-Tuning Memory Overhead by Approximate and Memory-Sharing Backpropagation</title>
+      <link>https://paperswithcode.com/paper/reducing-fine-tuning-memory-overhead-by</link>
+      <description><![CDATA[Fine-tuning pretrained large models to downstream tasks is an important problem, which however suffers from huge memory overhead due to large-scale parameters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reducing-fine-tuning-memory-overhead-by</guid>
+    </item>
+    <item>
+      <title>Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Physical Dynamics Learning</title>
+      <link>https://paperswithcode.com/paper/relaxing-continuous-constraints-of</link>
+      <description><![CDATA[Moreover, we show that DEGNN is data efficient, learning with less data, and can generalize across scenarios such as unobserved orientation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/relaxing-continuous-constraints-of</guid>
+    </item>
+    <item>
+      <title>Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs</title>
+      <link>https://paperswithcode.com/paper/cambrian-1-a-fully-open-vision-centric</link>
+      <description><![CDATA[We introduce Cambrian-1, a family of multimodal LLMs (MLLMs) designed with a vision-centric approach.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cambrian-1-a-fully-open-vision-centric</guid>
+    </item>
+    <item>
+      <title>Towards Better Graph-based Cross-document Relation Extraction via Non-bridge Entity Enhancement and Prediction Debiasing</title>
+      <link>https://paperswithcode.com/paper/towards-better-graph-based-cross-document</link>
+      <description><![CDATA[However, these studies ignore the non-bridge entities, each of which co-occurs with only one target entity and offers the semantic association between target entities for relation prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-better-graph-based-cross-document</guid>
+    </item>
+    <item>
+      <title>C-LLM: Learn to Check Chinese Spelling Errors Character by Character</title>
+      <link>https://paperswithcode.com/paper/c-llm-learn-to-check-chinese-spelling-errors</link>
+      <description><![CDATA[To address this issue, we propose C-LLM, a Large Language Model-based Chinese Spell Checking method that learns to check errors Character by Character.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/c-llm-learn-to-check-chinese-spelling-errors</guid>
+    </item>
+    <item>
+      <title>CLEAR: Can Language Models Really Understand Causal Graphs?</title>
+      <link>https://paperswithcode.com/paper/clear-can-language-models-really-understand</link>
+      <description><![CDATA[Causal reasoning is a cornerstone of how humans interpret the world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clear-can-language-models-really-understand</guid>
+    </item>
+    <item>
+      <title>EvalAlign: Evaluating Text-to-Image Models through Precision Alignment of Multimodal Large Models with Supervised Fine-Tuning to Human Annotations</title>
+      <link>https://paperswithcode.com/paper/evalalign-evaluating-text-to-image-models</link>
+      <description><![CDATA[Our comprehensive tests across 24 text-to-image generation models demonstrate that EvalAlign not only provides superior metric stability but also aligns more closely with human preferences than existing metrics, confirming its effectiveness and utility in model assessment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evalalign-evaluating-text-to-image-models</guid>
+    </item>
+    <item>
+      <title>SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments</title>
+      <link>https://paperswithcode.com/paper/segnet4d-effective-and-efficient-4d-lidar</link>
+      <description><![CDATA[It entails identifying the semantic category of each point in the LiDAR scan and distinguishing whether it is dynamic, a critical aspect in downstream tasks such as path planning and autonomous navigation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segnet4d-effective-and-efficient-4d-lidar</guid>
+    </item>
+    <item>
+      <title>From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking</title>
+      <link>https://paperswithcode.com/paper/from-perfect-to-noisy-world-simulation</link>
+      <description><![CDATA[Embodied agents require robust navigation systems to operate in unstructured environments, making the robustness of Simultaneous Localization and Mapping (SLAM) models critical to embodied agent autonomy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/from-perfect-to-noisy-world-simulation</guid>
+    </item>
+    <item>
+      <title>Evaluation of Language Models in the Medical Context Under Resource-Constrained Settings</title>
+      <link>https://paperswithcode.com/paper/evaluation-of-language-models-in-the-medical</link>
+      <description><![CDATA[In addition, we selected a subset of these models for thorough evaluation, focusing on classification and text generation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluation-of-language-models-in-the-medical</guid>
     </item>
     <item>
       <title>AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models</title>
@@ -249,64 +267,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-alpha-2-discovering-logical-formulaic</guid>
     </item>
     <item>
-      <title>Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs</title>
-      <link>https://paperswithcode.com/paper/cambrian-1-a-fully-open-vision-centric</link>
-      <description><![CDATA[We introduce Cambrian-1, a family of multimodal LLMs (MLLMs) designed with a vision-centric approach.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cambrian-1-a-fully-open-vision-centric</guid>
-    </item>
-    <item>
-      <title>Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation</title>
-      <link>https://paperswithcode.com/paper/instance-consistency-regularization-for-semi</link>
-      <description><![CDATA[To leverage unlabeled data, previous semi-supervised 3D instance segmentation approaches have explored self-training frameworks, which rely on high-quality pseudo labels for consistency regularization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instance-consistency-regularization-for-semi</guid>
-    </item>
-    <item>
-      <title>Revisiting Referring Expression Comprehension Evaluation in the Era of Large Multimodal Models</title>
-      <link>https://paperswithcode.com/paper/revisiting-referring-expression-comprehension</link>
-      <description><![CDATA[Recent advancements in REC have been driven by large multimodal models (LMMs) like CogVLM, which achieved 92. 44% accuracy on RefCOCO.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/revisiting-referring-expression-comprehension</guid>
-    </item>
-    <item>
-      <title>RepNeXt: A Fast Multi-Scale CNN using Structural Reparameterization</title>
-      <link>https://paperswithcode.com/paper/repnext-a-fast-multi-scale-cnn-using</link>
-      <description><![CDATA[In the realm of resource-constrained mobile vision tasks, the pursuit of efficiency and performance consistently drives innovation in lightweight Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/repnext-a-fast-multi-scale-cnn-using</guid>
-    </item>
-    <item>
-      <title>Preference Tuning For Toxicity Mitigation Generalizes Across Languages</title>
-      <link>https://paperswithcode.com/paper/preference-tuning-for-toxicity-mitigation</link>
-      <description><![CDATA[Finally, we show that bilingual sentence retrieval can predict the cross-lingual transferability of DPO preference tuning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/preference-tuning-for-toxicity-mitigation</guid>
-    </item>
-    <item>
-      <title>HEST-1k: A Dataset for Spatial Transcriptomics and Histology Image Analysis</title>
-      <link>https://paperswithcode.com/paper/hest-1k-a-dataset-for-spatial-transcriptomics</link>
-      <description><![CDATA[Spatial transcriptomics (ST) enables interrogating the molecular composition of tissue with ever-increasing resolution, depth, and sensitivity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hest-1k-a-dataset-for-spatial-transcriptomics</guid>
-    </item>
-    <item>
-      <title>SimCE: Simplifying Cross-Entropy Loss for Collaborative Filtering</title>
-      <link>https://paperswithcode.com/paper/simce-simplifying-cross-entropy-loss-for</link>
-      <description><![CDATA[The learning objective is integral to collaborative filtering systems, where the Bayesian Personalized Ranking (BPR) loss is widely used for learning informative backbones.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simce-simplifying-cross-entropy-loss-for</guid>
-    </item>
-    <item>
       <title>VICatMix: variational Bayesian clustering and variable selection for discrete biomedical data</title>
       <link>https://paperswithcode.com/paper/vicatmix-variational-bayesian-clustering-and</link>
       <description><![CDATA[Effective clustering of biomedical data is crucial in precision medicine, enabling accurate stratifiction of patients or samples.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/vicatmix-variational-bayesian-clustering-and</guid>
     </item>
     <item>
-      <title>Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking</title>
-      <link>https://paperswithcode.com/paper/towards-open-respiratory-acoustic-foundation</link>
-      <description><![CDATA[Our pretrained models demonstrate superior performance (against existing acoustic models pretrained with general audio on 16 out of 19 tasks) and generalizability (to unseen datasets and new respiratory audio modalities).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-open-respiratory-acoustic-foundation</guid>
-    </item>
-    <item>
       <title>Leveraging LDA Feature Extraction to Augment Human Activity Recognition Accuracy</title>
       <link>https://paperswithcode.com/paper/leveraging-lda-feature-extraction-to-augment</link>
       <description><![CDATA[This research introduces a hybrid feature extraction approach that combines Linear Discriminant Analysis (LDA) and Multilayer Perceptron (MLP) methods to address the challenges of reducing feature vector dimensionality and accurately classifying smartphone-based human activities.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-lda-feature-extraction-to-augment</guid>
+    </item>
+    <item>
+      <title>Wound Tissue Segmentation in Diabetic Foot Ulcer Images Using Deep Learning: A Pilot Study</title>
+      <link>https://paperswithcode.com/paper/wound-tissue-segmentation-in-diabetic-foot</link>
+      <description><![CDATA[Additionally, our hybrid model outperforms the state-of-the-art methods with a 92. 99% DSC in performing binary segmentation of DFU wound areas when tested on the Chronic Wound dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wound-tissue-segmentation-in-diabetic-foot</guid>
+    </item>
+    <item>
+      <title>Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method</title>
+      <link>https://paperswithcode.com/paper/gradual-divergence-for-seamless-adaptation-a</link>
+      <description><![CDATA[Domain incremental learning (DIL) poses a significant challenge in real-world scenarios, as models need to be sequentially trained on diverse domains over time, all the while avoiding catastrophic forgetting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gradual-divergence-for-seamless-adaptation-a</guid>
+    </item>
+    <item>
+      <title>DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation</title>
+      <link>https://paperswithcode.com/paper/dv-3dlane-end-to-end-multi-modal-3d-lane</link>
+      <description><![CDATA[3) A 3D dual-view deformable attention mechanism, which aggregates discriminative features from both PV and BEV spaces into queries for accurate 3D lane detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dv-3dlane-end-to-end-multi-modal-3d-lane</guid>
+    </item>
+    <item>
+      <title>Harvesting Events from Multiple Sources: Towards a Cross-Document Event Extraction Paradigm</title>
+      <link>https://paperswithcode.com/paper/harvesting-events-from-multiple-sources</link>
+      <description><![CDATA[Document-level event extraction aims to extract structured event information from unstructured text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/harvesting-events-from-multiple-sources</guid>
+    </item>
+    <item>
+      <title>FastMem: Fast Memorization of Prompt Improves Context Awareness of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/fastmem-fast-memorization-of-prompt-improves</link>
+      <description><![CDATA[Large language models (LLMs) excel in generating coherent text, but they often struggle with context awareness, leading to inaccuracies in tasks requiring faithful adherence to provided information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastmem-fast-memorization-of-prompt-improves</guid>
     </item>
   </channel>
 </rss>
