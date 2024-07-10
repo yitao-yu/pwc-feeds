@@ -7,42 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 21:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 09:14:23 +0000</lastBuildDate>
     <item>
       <title>LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control</title>
       <link>https://paperswithcode.com/paper/liveportrait-efficient-portrait-animation</link>
       <description><![CDATA[Instead of following mainstream diffusion-based methods, we explore and extend the potential of the implicit-keypoint-based framework, which effectively balances computational efficiency and controllability.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/liveportrait-efficient-portrait-animation</guid>
-    </item>
-    <item>
-      <title>VILA: On Pre-training for Visual Language Models</title>
-      <link>https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</link>
-      <description><![CDATA[Visual language models (VLMs) rapidly progressed with the recent success of large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vila-on-pre-training-for-visual-language</guid>
-    </item>
-    <item>
-      <title>RouteLLM: Learning to Route LLMs with Preference Data</title>
-      <link>https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</link>
-      <description><![CDATA[Large language models (LLMs) exhibit impressive capabilities across a wide range of tasks, yet the choice of which model to use often involves a trade-off between performance and cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</guid>
-    </item>
-    <item>
-      <title>Agentless: Demystifying LLM-based Software Engineering Agents</title>
-      <link>https://paperswithcode.com/paper/agentless-demystifying-llm-based-software</link>
-      <description><![CDATA[However, the complexity of these agent-based approaches, together with the limited abilities of current LLMs, raises the following question: Do we really have to employ complex autonomous software agents?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agentless-demystifying-llm-based-software</guid>
-    </item>
-    <item>
-      <title>Segment Anything without Supervision</title>
-      <link>https://paperswithcode.com/paper/segment-anything-without-supervision</link>
-      <description><![CDATA[By integrating our unsupervised pseudo masks into SA-1B's ground-truth masks and training UnSAM with only 1% of SA-1B, a lightly semi-supervised UnSAM can often segment entities overlooked by supervised SAM, exceeding SAM's AR by over 6. 7% and AP by 3. 9% on SA-1B.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-anything-without-supervision</guid>
-    </item>
-    <item>
-      <title>Scaling Synthetic Data Creation with 1,000,000,000 Personas</title>
-      <link>https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</link>
-      <description><![CDATA[We propose a novel persona-driven data synthesis methodology that leverages various perspectives within a large language model (LLM) to create diverse synthetic data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</guid>
     </item>
     <item>
       <title>MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention</title>
@@ -51,10 +21,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/minference-1-0-accelerating-pre-filling-for</guid>
     </item>
     <item>
-      <title>Measuring Taiwanese Mandarin Language Understanding</title>
-      <link>https://paperswithcode.com/paper/measuring-taiwanese-mandarin-language</link>
-      <description><![CDATA[We present TMLU, a holistic evaluation suit tailored for assessing the advanced knowledge and reasoning capability in LLMs, under the context of Taiwanese Mandarin.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/measuring-taiwanese-mandarin-language</guid>
+      <title>RouteLLM: Learning to Route LLMs with Preference Data</title>
+      <link>https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</link>
+      <description><![CDATA[Large language models (LLMs) exhibit impressive capabilities across a wide range of tasks, yet the choice of which model to use often involves a trade-off between performance and cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</guid>
+    </item>
+    <item>
+      <title>Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion</title>
+      <link>https://paperswithcode.com/paper/diffusion-forcing-next-token-prediction-meets</link>
+      <description><![CDATA[This paper presents Diffusion Forcing, a new training paradigm where a diffusion model is trained to denoise a set of tokens with independent per-token noise levels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-forcing-next-token-prediction-meets</guid>
+    </item>
+    <item>
+      <title>Agentless: Demystifying LLM-based Software Engineering Agents</title>
+      <link>https://paperswithcode.com/paper/agentless-demystifying-llm-based-software</link>
+      <description><![CDATA[However, the complexity of these agent-based approaches, together with the limited abilities of current LLMs, raises the following question: Do we really have to employ complex autonomous software agents?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentless-demystifying-llm-based-software</guid>
+    </item>
+    <item>
+      <title>Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation</title>
+      <link>https://paperswithcode.com/paper/be-your-outpainter-mastering-video</link>
+      <description><![CDATA[We introduce MOTIA Mastering Video Outpainting Through Input-Specific Adaptation, a diffusion-based pipeline that leverages both the intrinsic data-specific patterns of the source video and the image/video generative prior for effective outpainting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/be-your-outpainter-mastering-video</guid>
+    </item>
+    <item>
+      <title>HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/hipporag-neurobiologically-inspired-long-term</link>
+      <description><![CDATA[In order to thrive in hostile and ever-changing natural environments, mammalian brains evolved to store large amounts of knowledge about the world and continually integrate new information while avoiding catastrophic forgetting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hipporag-neurobiologically-inspired-long-term</guid>
+    </item>
+    <item>
+      <title>Occupancy as Set of Points</title>
+      <link>https://paperswithcode.com/paper/occupancy-as-set-of-points</link>
+      <description><![CDATA[Owing to the inherent flexibility of the point-based representation, OSP achieves strong performance compared with existing methods and excels in terms of training and inference adaptability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/occupancy-as-set-of-points</guid>
     </item>
     <item>
       <title>Self-Play Preference Optimization for Language Model Alignment</title>
@@ -63,34 +63,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/self-play-preference-optimization-for</guid>
     </item>
     <item>
-      <title>LLaRA: Supercharging Robot Learning Data for Vision-Language Policy</title>
-      <link>https://paperswithcode.com/paper/llara-supercharging-robot-learning-data-for</link>
-      <description><![CDATA[Large Language Models (LLMs) equipped with extensive world knowledge and strong reasoning skills can tackle diverse tasks across domains, often by posing them as conversation-style instruction-response pairs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llara-supercharging-robot-learning-data-for</guid>
+      <title>Scaling Synthetic Data Creation with 1,000,000,000 Personas</title>
+      <link>https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</link>
+      <description><![CDATA[We propose a novel persona-driven data synthesis methodology that leverages various perspectives within a large language model (LLM) to create diverse synthetic data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</guid>
     </item>
     <item>
-      <title>TokenPacker: Efficient Visual Projector for Multimodal LLM</title>
-      <link>https://paperswithcode.com/paper/tokenpacker-efficient-visual-projector-for</link>
-      <description><![CDATA[However, the visual tokens are redundant and can be considerably increased when dealing with high-resolution images, impairing the efficiency of MLLMs significantly.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tokenpacker-efficient-visual-projector-for</guid>
+      <title>Isomorphic Pruning for Vision Models</title>
+      <link>https://paperswithcode.com/paper/isomorphic-pruning-for-vision-models</link>
+      <description><![CDATA[For instance, we improve the accuracy of DeiT-Tiny from 74. 52% to 77. 50% by pruning an off-the-shelf DeiT-Base model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/isomorphic-pruning-for-vision-models</guid>
     </item>
     <item>
-      <title>ShareGPT4V: Improving Large Multi-Modal Models with Better Captions</title>
-      <link>https://paperswithcode.com/paper/sharegpt4v-improving-large-multi-modal-models</link>
-      <description><![CDATA[In the realm of large multi-modal models (LMMs), efficient modality alignment is crucial yet often constrained by the scarcity of high-quality image-text data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sharegpt4v-improving-large-multi-modal-models</guid>
+      <title>Learning to (Learn at Test Time): RNNs with Expressive Hidden States</title>
+      <link>https://paperswithcode.com/paper/learning-to-learn-at-test-time-rnns-with</link>
+      <description><![CDATA[We evaluate our instantiations at the scale of 125M to 1. 3B parameters, comparing with a strong Transformer and Mamba, a modern RNN.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-learn-at-test-time-rnns-with</guid>
     </item>
     <item>
-      <title>InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output</title>
-      <link>https://paperswithcode.com/paper/internlm-xcomposer-2-5-a-versatile-large</link>
-      <description><![CDATA[This long-context capability allows IXC-2. 5 to excel in tasks requiring extensive input and output contexts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/internlm-xcomposer-2-5-a-versatile-large</guid>
+      <title>Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image</title>
+      <link>https://paperswithcode.com/paper/unique3d-high-quality-and-efficient-3d-mesh</link>
+      <description><![CDATA[In this work, we introduce Unique3D, a novel image-to-3D framework for efficiently generating high-quality 3D meshes from single-view images, featuring state-of-the-art generation fidelity and strong generalizability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unique3d-high-quality-and-efficient-3d-mesh</guid>
     </item>
     <item>
-      <title>MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers</title>
-      <link>https://paperswithcode.com/paper/meshanything-artist-created-mesh-generation</link>
-      <description><![CDATA[Recently, 3D assets created via reconstruction and generation have matched the quality of manually crafted assets, highlighting their potential for replacement.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meshanything-artist-created-mesh-generation</guid>
+      <title>FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds</title>
+      <link>https://paperswithcode.com/paper/foleycrafter-bring-silent-videos-to-life-with</link>
+      <description><![CDATA[Meanwhile, the temporal controller incorporates an onset detector and a timestampbased adapter to achieve precise audio-video alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/foleycrafter-bring-silent-videos-to-life-with</guid>
+    </item>
+    <item>
+      <title>Model Predictive Optimized Path Integral Strategies</title>
+      <link>https://paperswithcode.com/paper/model-predictive-optimized-path-integral</link>
+      <description><![CDATA[We generalize the derivation of model predictive path integral control (MPPI) to allow for a single joint distribution across controls in the control sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/model-predictive-optimized-path-integral</guid>
     </item>
     <item>
       <title>DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models</title>
@@ -99,34 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dualfocus-integrating-macro-and-micro</guid>
     </item>
     <item>
-      <title>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</title>
-      <link>https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</link>
-      <description><![CDATA[Compared to the baseline method, Mooncake can achieve up to a 525% increase in throughput in certain simulated scenarios while adhering to SLOs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</guid>
+      <title>InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output</title>
+      <link>https://paperswithcode.com/paper/internlm-xcomposer-2-5-a-versatile-large</link>
+      <description><![CDATA[This long-context capability allows IXC-2. 5 to excel in tasks requiring extensive input and output contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/internlm-xcomposer-2-5-a-versatile-large</guid>
     </item>
     <item>
-      <title>EvTexture: Event-driven Texture Enhancement for Video Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/evtexture-event-driven-texture-enhancement</link>
-      <description><![CDATA[Our method, called EvTexture, leverages high-frequency details of events to better recover texture regions in VSR.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evtexture-event-driven-texture-enhancement</guid>
+      <title>ShareGPT4V: Improving Large Multi-Modal Models with Better Captions</title>
+      <link>https://paperswithcode.com/paper/sharegpt4v-improving-large-multi-modal-models</link>
+      <description><![CDATA[In the realm of large multi-modal models (LMMs), efficient modality alignment is crucial yet often constrained by the scarcity of high-quality image-text data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sharegpt4v-improving-large-multi-modal-models</guid>
     </item>
     <item>
-      <title>Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs</title>
-      <link>https://paperswithcode.com/paper/cambrian-1-a-fully-open-vision-centric</link>
-      <description><![CDATA[We introduce Cambrian-1, a family of multimodal LLMs (MLLMs) designed with a vision-centric approach.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cambrian-1-a-fully-open-vision-centric</guid>
+      <title>MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers</title>
+      <link>https://paperswithcode.com/paper/meshanything-artist-created-mesh-generation</link>
+      <description><![CDATA[Recently, 3D assets created via reconstruction and generation have matched the quality of manually crafted assets, highlighting their potential for replacement.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meshanything-artist-created-mesh-generation</guid>
     </item>
     <item>
-      <title>Consistency Flow Matching: Defining Straight Flows with Velocity Consistency</title>
-      <link>https://paperswithcode.com/paper/consistency-flow-matching-defining-straight</link>
-      <description><![CDATA[Additionally, we propose a multi-segment training approach for Consistency-FM to enhance expressiveness, achieving a better trade-off between sampling quality and speed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/consistency-flow-matching-defining-straight</guid>
-    </item>
-    <item>
-      <title>HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/hipporag-neurobiologically-inspired-long-term</link>
-      <description><![CDATA[In order to thrive in hostile and ever-changing natural environments, mammalian brains evolved to store large amounts of knowledge about the world and continually integrate new information while avoiding catastrophic forgetting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hipporag-neurobiologically-inspired-long-term</guid>
+      <title>BM25S: Orders of magnitude faster lexical search via eager sparse scoring</title>
+      <link>https://paperswithcode.com/paper/bm25s-orders-of-magnitude-faster-lexical</link>
+      <description><![CDATA[We introduce BM25S, an efficient Python-based implementation of BM25 that only depends on Numpy and Scipy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bm25s-orders-of-magnitude-faster-lexical</guid>
     </item>
   </channel>
 </rss>
