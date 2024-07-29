@@ -7,25 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 21:09:05 +0000</lastBuildDate>
-    <item>
-      <title>On the Design and Analysis of LLM-Based Algorithms</title>
-      <link>https://paperswithcode.com/paper/on-the-design-and-analysis-of-llm-based</link>
-      <description><![CDATA[We initiate a formal investigation into the design and analysis of LLM-based algorithms, i. e. algorithms that contain one or multiple calls of large language models (LLMs) as sub-routines and critically rely on the capabilities of LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-design-and-analysis-of-llm-based</guid>
-    </item>
-    <item>
-      <title>DataComp-LM: In search of the next generation of training sets for language models</title>
-      <link>https://paperswithcode.com/paper/datacomp-lm-in-search-of-the-next-generation</link>
-      <description><![CDATA[We introduce DataComp for Language Models (DCLM), a testbed for controlled dataset experiments with the goal of improving language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/datacomp-lm-in-search-of-the-next-generation</guid>
-    </item>
-    <item>
-      <title>IMAGDressing-v1: Customizable Virtual Dressing</title>
-      <link>https://paperswithcode.com/paper/imagdressing-v1-customizable-virtual-dressing</link>
-      <description><![CDATA[Latest advances have achieved realistic virtual try-on (VTON) through localized garment inpainting using latent diffusion models, significantly enhancing consumers' online shopping experience.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/imagdressing-v1-customizable-virtual-dressing</guid>
-    </item>
+    <lastBuildDate>Mon, 29 Jul 2024 09:15:37 +0000</lastBuildDate>
     <item>
       <title>MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens</title>
       <link>https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data</link>
@@ -33,22 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data</guid>
     </item>
     <item>
-      <title>Odyssey: Empowering Agents with Open-World Skills</title>
-      <link>https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</link>
-      <description><![CDATA[In this work, we introduce ODYSSEY, a new framework that empowers Large Language Model (LLM)-based agents with open-world skills to explore the vast Minecraft world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</guid>
-    </item>
-    <item>
-      <title>Neural General Circulation Models for Weather and Climate</title>
-      <link>https://paperswithcode.com/paper/neural-general-circulation-models</link>
-      <description><![CDATA[Here we present the first GCM that combines a differentiable solver for atmospheric dynamics with ML components, and show that it can generate forecasts of deterministic weather, ensemble weather and climate on par with the best ML and physics-based methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-general-circulation-models</guid>
-    </item>
-    <item>
-      <title>HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation</title>
-      <link>https://paperswithcode.com/paper/humanvid-demystifying-training-data-for</link>
-      <description><![CDATA[Moreover, these approaches prioritize 2D human motion and overlook the significance of camera motions in videos, leading to limited control and unstable video generation. To demystify the training data, we present HumanVid, the first large-scale high-quality dataset tailored for human image animation, which combines crafted real-world and synthetic data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/humanvid-demystifying-training-data-for</guid>
+      <title>SGLang: Efficient Execution of Structured Language Model Programs</title>
+      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
+      <description><![CDATA[SGLang consists of a frontend language and a runtime.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
     </item>
     <item>
       <title>LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control</title>
@@ -57,10 +27,82 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/liveportrait-efficient-portrait-animation</guid>
     </item>
     <item>
+      <title>Odyssey: Empowering Agents with Open-World Skills</title>
+      <link>https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</link>
+      <description><![CDATA[In this work, we introduce ODYSSEY, a new framework that empowers Large Language Model (LLM)-based agents with open-world skills to explore the vast Minecraft world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</guid>
+    </item>
+    <item>
+      <title>IMAGDressing-v1: Customizable Virtual Dressing</title>
+      <link>https://paperswithcode.com/paper/imagdressing-v1-customizable-virtual-dressing</link>
+      <description><![CDATA[Latest advances have achieved realistic virtual try-on (VTON) through localized garment inpainting using latent diffusion models, significantly enhancing consumers' online shopping experience.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/imagdressing-v1-customizable-virtual-dressing</guid>
+    </item>
+    <item>
+      <title>Stable-Hair: Real-World Hair Transfer via Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</link>
+      <description><![CDATA[In the first stage, we train a Bald Converter alongside stable diffusion to remove hair from the user-provided face images, resulting in bald images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</guid>
+    </item>
+    <item>
+      <title>HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation</title>
+      <link>https://paperswithcode.com/paper/humanvid-demystifying-training-data-for</link>
+      <description><![CDATA[Moreover, these approaches prioritize 2D human motion and overlook the significance of camera motions in videos, leading to limited control and unstable video generation. To demystify the training data, we present HumanVid, the first large-scale high-quality dataset tailored for human image animation, which combines crafted real-world and synthetic data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/humanvid-demystifying-training-data-for</guid>
+    </item>
+    <item>
+      <title>Very Large-Scale Multi-Agent Simulation in AgentScope</title>
+      <link>https://paperswithcode.com/paper/very-large-scale-multi-agent-simulation-in</link>
+      <description><![CDATA[Recent advances in large language models (LLMs) have opened new avenues for applying multi-agent systems in very large-scale simulations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/very-large-scale-multi-agent-simulation-in</guid>
+    </item>
+    <item>
       <title>FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs</title>
       <link>https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</link>
       <description><![CDATA[This report introduces FunAudioLLM, a model family designed to enhance natural voice interactions between humans and large language models (LLMs).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</guid>
+    </item>
+    <item>
+      <title>FinanceBench: A New Benchmark for Financial Question Answering</title>
+      <link>https://paperswithcode.com/paper/financebench-a-new-benchmark-for-financial</link>
+      <description><![CDATA[We test 16 state of the art model configurations (including GPT-4-Turbo, Llama2 and Claude2, with vector stores and long context prompts) on a sample of 150 cases from FinanceBench, and manually review their answers (n=2, 400).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/financebench-a-new-benchmark-for-financial</guid>
+    </item>
+    <item>
+      <title>Neural General Circulation Models for Weather and Climate</title>
+      <link>https://paperswithcode.com/paper/neural-general-circulation-models</link>
+      <description><![CDATA[Here we present the first GCM that combines a differentiable solver for atmospheric dynamics with ML components, and show that it can generate forecasts of deterministic weather, ensemble weather and climate on par with the best ML and physics-based methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-general-circulation-models</guid>
+    </item>
+    <item>
+      <title>LION: Linear Group RNN for 3D Object Detection in Point Clouds</title>
+      <link>https://paperswithcode.com/paper/lion-linear-group-rnn-for-3d-object-detection</link>
+      <description><![CDATA[To tackle this problem, we simply introduce a 3D spatial feature descriptor and integrate it into the linear group RNN operators to enhance their spatial features rather than blindly increasing the number of scanning orders for voxel features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lion-linear-group-rnn-for-3d-object-detection</guid>
+    </item>
+    <item>
+      <title>Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems</title>
+      <link>https://paperswithcode.com/paper/agent-e-from-autonomous-web-navigation-to</link>
+      <description><![CDATA[AI Agents are changing the way work gets done, both in consumer and enterprise domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-e-from-autonomous-web-navigation-to</guid>
+    </item>
+    <item>
+      <title>Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI</title>
+      <link>https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</link>
+      <description><![CDATA[In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</guid>
+    </item>
+    <item>
+      <title>Dynamic 3D Point Cloud Sequences as 2D Videos</title>
+      <link>https://paperswithcode.com/paper/dynamic-3d-point-cloud-sequences-as-2d-videos</link>
+      <description><![CDATA[The structured nature of our SPCV representation allows for the seamless adaptation of well-established 2D image/video techniques, enabling efficient and effective processing and analysis of 3D point cloud sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-3d-point-cloud-sequences-as-2d-videos</guid>
+    </item>
+    <item>
+      <title>N-Dimensional Gaussians for Fitting of High Dimensional Functions</title>
+      <link>https://paperswithcode.com/paper/n-dimensional-gaussians-for-fitting-of-high</link>
+      <description><![CDATA[In the wake of many new ML-inspired approaches for reconstructing and representing high-quality 3D content, recent hybrid and explicitly learned representations exhibit promising performance and quality characteristics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/n-dimensional-gaussians-for-fitting-of-high</guid>
     </item>
     <item>
       <title>RouteLLM: Learning to Route LLMs with Preference Data</title>
@@ -75,58 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-tempest-using-deep-learning-to-eavesdrop</guid>
     </item>
     <item>
-      <title>Stable-Hair: Real-World Hair Transfer via Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</link>
-      <description><![CDATA[In the first stage, we train a Bald Converter alongside stable diffusion to remove hair from the user-provided face images, resulting in bald images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</guid>
-    </item>
-    <item>
-      <title>Cradle: Empowering Foundation Agents Towards General Computer Control</title>
-      <link>https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</link>
-      <description><![CDATA[To handle this issue, we propose the General Computer Control (GCC) setting to restrict foundation agents to interact with software through the most unified and standardized interface, i. e., using screenshots as input and keyboard and mouse actions as output.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-general-computer-control-a-multimodal</guid>
-    </item>
-    <item>
-      <title>Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</link>
-      <description><![CDATA[We study how to apply large language models to write grounded and organized long-form articles from scratch, with comparable breadth and depth to Wikipedia pages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</guid>
-    </item>
-    <item>
       <title>KAN or MLP: A Fairer Comparison</title>
       <link>https://paperswithcode.com/paper/kan-or-mlp-a-fairer-comparison</link>
       <description><![CDATA[This paper does not introduce a novel method.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/kan-or-mlp-a-fairer-comparison</guid>
     </item>
     <item>
-      <title>Compact Language Models via Pruning and Knowledge Distillation</title>
-      <link>https://paperswithcode.com/paper/compact-language-models-via-pruning-and</link>
-      <description><![CDATA[Large language models (LLMs) targeting different deployment scales and sizes are currently produced by training each variant from scratch; this is extremely compute-intensive.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/compact-language-models-via-pruning-and</guid>
-    </item>
-    <item>
-      <title>GRUtopia: Dream General Robots in a City at Scale</title>
-      <link>https://paperswithcode.com/paper/grutopia-dream-general-robots-in-a-city-at</link>
-      <description><![CDATA[Recent works have been exploring the scaling laws in the field of Embodied AI.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/grutopia-dream-general-robots-in-a-city-at</guid>
-    </item>
-    <item>
-      <title>VGGSfM: Visual Geometry Grounded Deep Structure From Motion</title>
-      <link>https://paperswithcode.com/paper/vggsfm-visual-geometry-grounded-deep</link>
-      <description><![CDATA[Finally we optimise the cameras and triangulate 3D points via a differentiable bundle adjustment layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vggsfm-visual-geometry-grounded-deep</guid>
-    </item>
-    <item>
-      <title>Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-for-monocular-depth</link>
-      <description><![CDATA[We present a novel approach designed to address the complexities posed by challenging, out-of-distribution data in the single-image depth estimation task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-for-monocular-depth</guid>
-    </item>
-    <item>
-      <title>FinanceBench: A New Benchmark for Financial Question Answering</title>
-      <link>https://paperswithcode.com/paper/financebench-a-new-benchmark-for-financial</link>
-      <description><![CDATA[We test 16 state of the art model configurations (including GPT-4-Turbo, Llama2 and Claude2, with vector stores and long context prompts) on a sample of 150 cases from FinanceBench, and manually review their answers (n=2, 400).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/financebench-a-new-benchmark-for-financial</guid>
+      <title>Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/cinemo-consistent-and-controllable-image</link>
+      <description><![CDATA[Diffusion models have achieved great progress in image animation due to powerful generative capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cinemo-consistent-and-controllable-image</guid>
     </item>
   </channel>
 </rss>
