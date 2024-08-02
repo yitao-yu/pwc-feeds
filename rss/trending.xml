@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 21:08:58 +0000</lastBuildDate>
-    <item>
-      <title>Global Structure-from-Motion Revisited</title>
-      <link>https://paperswithcode.com/paper/global-structure-from-motion-revisited</link>
-      <description><![CDATA[Recovering 3D structure and camera motion from images has been a long-standing focus of computer vision research and is known as Structure-from-Motion (SfM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/global-structure-from-motion-revisited</guid>
-    </item>
+    <lastBuildDate>Fri, 02 Aug 2024 09:15:25 +0000</lastBuildDate>
     <item>
       <title>MindSearch: Mimicking Human Minds Elicits Deep AI Searcher</title>
       <link>https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</link>
@@ -21,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</guid>
     </item>
     <item>
-      <title>Autoregressive Image Generation without Vector Quantization</title>
-      <link>https://paperswithcode.com/paper/autoregressive-image-generation-without</link>
-      <description><![CDATA[In this work, we propose to model the per-token probability distribution using a diffusion procedure, which allows us to apply autoregressive models in a continuous-valued space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-image-generation-without</guid>
+      <title>Global Structure-from-Motion Revisited</title>
+      <link>https://paperswithcode.com/paper/global-structure-from-motion-revisited</link>
+      <description><![CDATA[Recovering 3D structure and camera motion from images has been a long-standing focus of computer vision research and is known as Structure-from-Motion (SfM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/global-structure-from-motion-revisited</guid>
     </item>
     <item>
       <title>SGLang: Efficient Execution of Structured Language Model Programs</title>
@@ -39,16 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</guid>
     </item>
     <item>
-      <title>Theia: Distilling Diverse Vision Foundation Models for Robot Learning</title>
-      <link>https://paperswithcode.com/paper/theia-distilling-diverse-vision-foundation</link>
-      <description><![CDATA[Vision-based robot policy learning, which maps visual inputs to actions, necessitates a holistic understanding of diverse visual tasks beyond single-task needs like classification or segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/theia-distilling-diverse-vision-foundation</guid>
-    </item>
-    <item>
-      <title>Stable-Hair: Real-World Hair Transfer via Diffusion Model</title>
-      <link>https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</link>
-      <description><![CDATA[In the first stage, we train a Bald Converter alongside stable diffusion to remove hair from the user-provided face images, resulting in bald images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</guid>
+      <title>Autoregressive Image Generation without Vector Quantization</title>
+      <link>https://paperswithcode.com/paper/autoregressive-image-generation-without</link>
+      <description><![CDATA[In this work, we propose to model the per-token probability distribution using a diffusion procedure, which allows us to apply autoregressive models in a continuous-valued space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-image-generation-without</guid>
     </item>
     <item>
       <title>FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs</title>
@@ -57,10 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</guid>
     </item>
     <item>
-      <title>MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens</title>
-      <link>https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data</link>
-      <description><![CDATA[Multimodal interleaved datasets featuring free-form interleaved sequences of images and text are crucial for training frontier large multimodal models (LMMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data</guid>
+      <title>Stable-Hair: Real-World Hair Transfer via Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</link>
+      <description><![CDATA[In the first stage, we train a Bald Converter alongside stable diffusion to remove hair from the user-provided face images, resulting in bald images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</guid>
+    </item>
+    <item>
+      <title>Theia: Distilling Diverse Vision Foundation Models for Robot Learning</title>
+      <link>https://paperswithcode.com/paper/theia-distilling-diverse-vision-foundation</link>
+      <description><![CDATA[Vision-based robot policy learning, which maps visual inputs to actions, necessitates a holistic understanding of diverse visual tasks beyond single-task needs like classification or segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/theia-distilling-diverse-vision-foundation</guid>
+    </item>
+    <item>
+      <title>DataComp-LM: In search of the next generation of training sets for language models</title>
+      <link>https://paperswithcode.com/paper/datacomp-lm-in-search-of-the-next-generation</link>
+      <description><![CDATA[We introduce DataComp for Language Models (DCLM), a testbed for controlled dataset experiments with the goal of improving language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/datacomp-lm-in-search-of-the-next-generation</guid>
     </item>
     <item>
       <title>Very Large-Scale Multi-Agent Simulation in AgentScope</title>
@@ -69,40 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/very-large-scale-multi-agent-simulation-in</guid>
     </item>
     <item>
-      <title>Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/cinemo-consistent-and-controllable-image</link>
-      <description><![CDATA[Diffusion models have achieved great progress in image animation due to powerful generative capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cinemo-consistent-and-controllable-image</guid>
-    </item>
-    <item>
       <title>Deep-TEMPEST: Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations</title>
       <link>https://paperswithcode.com/paper/deep-tempest-using-deep-learning-to-eavesdrop</link>
       <description><![CDATA[As a result, eavesdropping systems designed for the analog case obtain unclear and difficult-to-read images when applied to digital video.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/deep-tempest-using-deep-learning-to-eavesdrop</guid>
     </item>
     <item>
-      <title>Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI</title>
-      <link>https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</link>
-      <description><![CDATA[In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</guid>
+      <title>MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens</title>
+      <link>https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data</link>
+      <description><![CDATA[Multimodal interleaved datasets featuring free-form interleaved sequences of images and text are crucial for training frontier large multimodal models (LMMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data</guid>
     </item>
     <item>
-      <title>Dynamic 3D Point Cloud Sequences as 2D Videos</title>
-      <link>https://paperswithcode.com/paper/dynamic-3d-point-cloud-sequences-as-2d-videos</link>
-      <description><![CDATA[The structured nature of our SPCV representation allows for the seamless adaptation of well-established 2D image/video techniques, enabling efficient and effective processing and analysis of 3D point cloud sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-3d-point-cloud-sequences-as-2d-videos</guid>
-    </item>
-    <item>
-      <title>Unlocking the Potential of Multimodal Unified Discrete Representation through Training-Free Codebook Optimization and Hierarchical Alignment</title>
-      <link>https://paperswithcode.com/paper/unlocking-the-potential-of-multimodal-unified</link>
-      <description><![CDATA[The Dual Cross-modal Information Disentanglement (DCID) model, utilizing a unified codebook, shows promising results in achieving fine-grained representation and cross-modal generalization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlocking-the-potential-of-multimodal-unified</guid>
-    </item>
-    <item>
-      <title>Odyssey: Empowering Agents with Open-World Skills</title>
-      <link>https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</link>
-      <description><![CDATA[In this work, we introduce ODYSSEY, a new framework that empowers Large Language Model (LLM)-based agents with open-world skills to explore the vast Minecraft world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</guid>
+      <title>Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/cinemo-consistent-and-controllable-image</link>
+      <description><![CDATA[Diffusion models have achieved great progress in image animation due to powerful generative capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cinemo-consistent-and-controllable-image</guid>
     </item>
     <item>
       <title>LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control</title>
@@ -111,22 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/liveportrait-efficient-portrait-animation</guid>
     </item>
     <item>
+      <title>Odyssey: Empowering Agents with Open-World Skills</title>
+      <link>https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</link>
+      <description><![CDATA[In this work, we introduce ODYSSEY, a new framework that empowers Large Language Model (LLM)-based agents with open-world skills to explore the vast Minecraft world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/odyssey-empowering-agents-with-open-world</guid>
+    </item>
+    <item>
       <title>Efficient Matrix Profile Computation Using Different Distance Functions</title>
       <link>https://paperswithcode.com/paper/efficient-matrix-profile-computation-using</link>
       <description><![CDATA[The results also show that the ACAMP algorithm is significantly faster than SCRIMP++ (the state of the art matrix profile algorithm) for the case of z-normalized Euclidean distance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-matrix-profile-computation-using</guid>
     </item>
     <item>
-      <title>Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems</title>
-      <link>https://paperswithcode.com/paper/agent-e-from-autonomous-web-navigation-to</link>
-      <description><![CDATA[AI Agents are changing the way work gets done, both in consumer and enterprise domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-e-from-autonomous-web-navigation-to</guid>
+      <title>Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval</title>
+      <link>https://paperswithcode.com/paper/prior-knowledge-integration-via-llm-encoding</link>
+      <description><![CDATA[Through a feasibility study, we demonstrate that LLM encoders effectively refine inter-concept relations in multimodal embeddings, even without being trained on textual embeddings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prior-knowledge-integration-via-llm-encoding</guid>
     </item>
     <item>
-      <title>VSSD: Vision Mamba with Non-Casual State Space Duality</title>
-      <link>https://paperswithcode.com/paper/vssd-vision-mamba-with-non-casual-state-space</link>
-      <description><![CDATA[Recently, State Space Duality (SSD), an improved variant of SSMs, was introduced in Mamba2 to enhance model performance and efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vssd-vision-mamba-with-non-casual-state-space</guid>
+      <title>Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI</title>
+      <link>https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</link>
+      <description><![CDATA[In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</guid>
+    </item>
+    <item>
+      <title>Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/diffree-text-guided-shape-free-object</link>
+      <description><![CDATA[To tackle this challenge, we introduce Diffree, a Text-to-Image (T2I) model that facilitates text-guided object addition with only text control.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffree-text-guided-shape-free-object</guid>
+    </item>
+    <item>
+      <title>GS2Mesh: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views</title>
+      <link>https://paperswithcode.com/paper/surface-reconstruction-from-gaussian</link>
+      <description><![CDATA[Recently, 3D Gaussian Splatting (3DGS) has emerged as an efficient approach for accurately representing scenes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/surface-reconstruction-from-gaussian</guid>
     </item>
   </channel>
 </rss>
