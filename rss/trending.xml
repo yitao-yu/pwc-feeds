@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Aug 2024 09:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 21:08:20 +0000</lastBuildDate>
     <item>
       <title>MindSearch: Mimicking Human Minds Elicits Deep AI Searcher</title>
       <link>https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</link>
@@ -33,16 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</guid>
     </item>
     <item>
-      <title>CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</link>
-      <description><![CDATA[Virtual try-on methods based on diffusion models achieve realistic try-on effects but often replicate the backbone network as a ReferenceNet or use additional image encoders to process condition inputs, leading to high training and inference costs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</guid>
-    </item>
-    <item>
       <title>Autoregressive Image Generation without Vector Quantization</title>
       <link>https://paperswithcode.com/paper/autoregressive-image-generation-without</link>
       <description><![CDATA[In this work, we propose to model the per-token probability distribution using a diffusion procedure, which allows us to apply autoregressive models in a continuous-valued space.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-image-generation-without</guid>
+    </item>
+    <item>
+      <title>CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</link>
+      <description><![CDATA[Virtual try-on methods based on diffusion models achieve realistic try-on effects but often replicate the backbone network as a ReferenceNet or use additional image encoders to process condition inputs, leading to high training and inference costs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</guid>
     </item>
     <item>
       <title>DataComp-LM: In search of the next generation of training sets for language models</title>
@@ -69,22 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</guid>
     </item>
     <item>
-      <title>Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors</title>
-      <link>https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</link>
-      <description><![CDATA[Arbitrary-scale video super-resolution (AVSR) aims to enhance the resolution of video frames, potentially at various scaling factors, which presents several challenges regarding spatial detail reproduction, temporal consistency, and computational complexity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</guid>
-    </item>
-    <item>
       <title>Theia: Distilling Diverse Vision Foundation Models for Robot Learning</title>
       <link>https://paperswithcode.com/paper/theia-distilling-diverse-vision-foundation</link>
       <description><![CDATA[Vision-based robot policy learning, which maps visual inputs to actions, necessitates a holistic understanding of diverse visual tasks beyond single-task needs like classification or segmentation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/theia-distilling-diverse-vision-foundation</guid>
     </item>
     <item>
+      <title>Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors</title>
+      <link>https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</link>
+      <description><![CDATA[Arbitrary-scale video super-resolution (AVSR) aims to enhance the resolution of video frames, potentially at various scaling factors, which presents several challenges regarding spatial detail reproduction, temporal consistency, and computational complexity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</guid>
+    </item>
+    <item>
       <title>EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model</title>
       <link>https://paperswithcode.com/paper/evf-sam-early-vision-language-fusion-for-text</link>
       <description><![CDATA[Surprisingly, we observe that: (1) multimodal prompts and (2) vision-language models with early fusion (e. g., BEIT-3) are beneficial for prompting SAM for accurate referring segmentation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/evf-sam-early-vision-language-fusion-for-text</guid>
+    </item>
+    <item>
+      <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
+      <link>https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</link>
+      <description><![CDATA[We hope that our study can facilitate the research community and LLM vendors in promoting safer and regulated LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</guid>
     </item>
     <item>
       <title>Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/stable-hair-real-world-hair-transfer-via</guid>
     </item>
     <item>
-      <title>RouteLLM: Learning to Route LLMs with Preference Data</title>
-      <link>https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</link>
-      <description><![CDATA[Large language models (LLMs) exhibit impressive capabilities across a wide range of tasks, yet the choice of which model to use often involves a trade-off between performance and cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</guid>
-    </item>
-    <item>
-      <title>RelBench: A Benchmark for Deep Learning on Relational Databases</title>
-      <link>https://paperswithcode.com/paper/relbench-a-benchmark-for-deep-learning-on</link>
-      <description><![CDATA[We use RelBench to conduct the first comprehensive study of Relational Deep Learning (RDL) (Fey et al., 2024), which combines graph neural network predictive models with (deep) tabular models that extract initial entity-level representations from raw tables.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/relbench-a-benchmark-for-deep-learning-on</guid>
+      <title>Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/diffree-text-guided-shape-free-object</link>
+      <description><![CDATA[To tackle this challenge, we introduce Diffree, a Text-to-Image (T2I) model that facilitates text-guided object addition with only text control.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffree-text-guided-shape-free-object</guid>
     </item>
   </channel>
 </rss>
