@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 09:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 21:09:49 +0000</lastBuildDate>
+    <item>
+      <title>CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers</title>
+      <link>https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</link>
+      <description><![CDATA[Large-scale pretrained transformers have created milestones in text (GPT-3) and text-to-image (DALL-E and CogView) generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideo-large-scale-pretraining-for-text-to</guid>
+    </item>
     <item>
       <title>MindSearch: Mimicking Human Minds Elicits Deep AI Searcher</title>
       <link>https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</link>
       <description><![CDATA[Inspired by the cognitive process when humans solve these problems, we introduce MindSearch to mimic the human minds in web information seeking and integration, which can be instantiated by a simple yet effective LLM-based multi-agent framework.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</guid>
+    </item>
+    <item>
+      <title>CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</link>
+      <description><![CDATA[Virtual try-on methods based on diffusion models achieve realistic try-on effects but often replicate the backbone network as a ReferenceNet or use additional image encoders to process condition inputs, leading to high training and inference costs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</guid>
     </item>
     <item>
       <title>FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs</title>
@@ -21,22 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</guid>
     </item>
     <item>
-      <title>Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors</title>
-      <link>https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</link>
-      <description><![CDATA[Arbitrary-scale video super-resolution (AVSR) aims to enhance the resolution of video frames, potentially at various scaling factors, which presents several challenges regarding spatial detail reproduction, temporal consistency, and computational complexity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</guid>
-    </item>
-    <item>
-      <title>LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders</title>
-      <link>https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</link>
-      <description><![CDATA[We outperform encoder-only models by a large margin on word-level tasks and reach a new unsupervised state-of-the-art performance on the Massive Text Embeddings Benchmark (MTEB).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</guid>
-    </item>
-    <item>
-      <title>Global Structure-from-Motion Revisited</title>
-      <link>https://paperswithcode.com/paper/global-structure-from-motion-revisited</link>
-      <description><![CDATA[Recovering 3D structure and camera motion from images has been a long-standing focus of computer vision research and is known as Structure-from-Motion (SfM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/global-structure-from-motion-revisited</guid>
+      <title>Neural General Circulation Models for Weather and Climate</title>
+      <link>https://paperswithcode.com/paper/neural-general-circulation-models</link>
+      <description><![CDATA[Here we present the first GCM that combines a differentiable solver for atmospheric dynamics with ML components, and show that it can generate forecasts of deterministic weather, ensemble weather and climate on par with the best ML and physics-based methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-general-circulation-models</guid>
     </item>
     <item>
       <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
@@ -51,34 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
     </item>
     <item>
-      <title>CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</link>
-      <description><![CDATA[Virtual try-on methods based on diffusion models achieve realistic try-on effects but often replicate the backbone network as a ReferenceNet or use additional image encoders to process condition inputs, leading to high training and inference costs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/catvton-concatenation-is-all-you-need-for</guid>
-    </item>
-    <item>
-      <title>TorchRL: A data-driven decision-making library for PyTorch</title>
-      <link>https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</link>
-      <description><![CDATA[PyTorch has ascended as a premier machine learning framework, yet it lacks a native and comprehensive library for decision and control tasks suitable for large development teams dealing with complex real-world data and environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/torchrl-a-data-driven-decision-making-library</guid>
-    </item>
-    <item>
-      <title>OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion</title>
-      <link>https://paperswithcode.com/paper/ov-dino-unified-open-vocabulary-detection</link>
-      <description><![CDATA[To address these challenges, we propose a novel unified open-vocabulary detection method called OV-DINO, which is pre-trained on diverse large-scale datasets with language-aware selective fusion in a unified framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ov-dino-unified-open-vocabulary-detection</guid>
-    </item>
-    <item>
-      <title>AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls</title>
-      <link>https://paperswithcode.com/paper/anytool-self-reflective-hierarchical-agents</link>
-      <description><![CDATA[We also revisit the evaluation protocol introduced by previous works and identify a limitation in this protocol that leads to an artificially high pass rate.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anytool-self-reflective-hierarchical-agents</guid>
-    </item>
-    <item>
-      <title>LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit</title>
-      <link>https://paperswithcode.com/paper/llm-qbench-a-benchmark-towards-the-best</link>
-      <description><![CDATA[Recent advancements in large language models (LLMs) are propelling us toward artificial general intelligence with their remarkable emergent abilities and reasoning capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-qbench-a-benchmark-towards-the-best</guid>
+      <title>Global Structure-from-Motion Revisited</title>
+      <link>https://paperswithcode.com/paper/global-structure-from-motion-revisited</link>
+      <description><![CDATA[Recovering 3D structure and camera motion from images has been a long-standing focus of computer vision research and is known as Structure-from-Motion (SfM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/global-structure-from-motion-revisited</guid>
     </item>
     <item>
       <title>Autoregressive Image Generation without Vector Quantization</title>
@@ -87,22 +63,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-image-generation-without</guid>
     </item>
     <item>
+      <title>LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders</title>
+      <link>https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</link>
+      <description><![CDATA[We outperform encoder-only models by a large margin on word-level tasks and reach a new unsupervised state-of-the-art performance on the Massive Text Embeddings Benchmark (MTEB).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm2vec-large-language-models-are-secretly</guid>
+    </item>
+    <item>
       <title>LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control</title>
       <link>https://paperswithcode.com/paper/liveportrait-efficient-portrait-animation</link>
       <description><![CDATA[Instead of following mainstream diffusion-based methods, we explore and extend the potential of the implicit-keypoint-based framework, which effectively balances computational efficiency and controllability.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/liveportrait-efficient-portrait-animation</guid>
     </item>
     <item>
-      <title>XHand: Real-time Expressive Hand Avatar</title>
-      <link>https://paperswithcode.com/paper/xhand-real-time-expressive-hand-avatar</link>
-      <description><![CDATA[Hand avatars play a pivotal role in a wide array of digital interfaces, enhancing user immersion and facilitating natural interaction within virtual environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xhand-real-time-expressive-hand-avatar</guid>
-    </item>
-    <item>
-      <title>RouteLLM: Learning to Route LLMs with Preference Data</title>
-      <link>https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</link>
-      <description><![CDATA[Large language models (LLMs) exhibit impressive capabilities across a wide range of tasks, yet the choice of which model to use often involves a trade-off between performance and cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</guid>
+      <title>Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors</title>
+      <link>https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</link>
+      <description><![CDATA[Arbitrary-scale video super-resolution (AVSR) aims to enhance the resolution of video frames, potentially at various scaling factors, which presents several challenges regarding spatial detail reproduction, temporal consistency, and computational complexity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/arbitrary-scale-video-super-resolution-with</guid>
     </item>
     <item>
       <title>AudioLCM: Text-to-Audio Generation with Latent Consistency Models</title>
@@ -111,10 +87,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/audiolcm-text-to-audio-generation-with-latent</guid>
     </item>
     <item>
-      <title>RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text</title>
-      <link>https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</link>
-      <description><![CDATA[In addition to producing AI-generated content (AIGC), we also demonstrate the possibility of using RecurrentGPT as an interactive fiction that directly interacts with consumers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/recurrentgpt-interactive-generation-of</guid>
+      <title>LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images</title>
+      <link>https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</link>
+      <description><![CDATA[To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-uhd-an-lmm-perceiving-any-aspect-ratio</guid>
+    </item>
+    <item>
+      <title>RouteLLM: Learning to Route LLMs with Preference Data</title>
+      <link>https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</link>
+      <description><![CDATA[Large language models (LLMs) exhibit impressive capabilities across a wide range of tasks, yet the choice of which model to use often involves a trade-off between performance and cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/routellm-learning-to-route-llms-with</guid>
+    </item>
+    <item>
+      <title>Data-Juicer Sandbox: A Comprehensive Suite for Multimodal Data-Model Co-development</title>
+      <link>https://paperswithcode.com/paper/data-juicer-sandbox-a-comprehensive-suite-for</link>
+      <description><![CDATA[The emergence of large-scale multi-modal generative models has drastically advanced artificial intelligence, introducing unprecedented levels of performance and functionality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-juicer-sandbox-a-comprehensive-suite-for</guid>
+    </item>
+    <item>
+      <title>Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</link>
+      <description><![CDATA[We study how to apply large language models to write grounded and organized long-form articles from scratch, with comparable breadth and depth to Wikipedia pages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</guid>
     </item>
     <item>
       <title>Very Large-Scale Multi-Agent Simulation in AgentScope</title>
@@ -123,10 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/very-large-scale-multi-agent-simulation-in</guid>
     </item>
     <item>
-      <title>Winning the Lottery Ahead of Time: Efficient Early Network Pruning</title>
-      <link>https://paperswithcode.com/paper/winning-the-lottery-ahead-of-time-efficient</link>
-      <description><![CDATA[Pruning, the task of sparsifying deep neural networks, received increasing attention recently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/winning-the-lottery-ahead-of-time-efficient</guid>
+      <title>How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites</title>
+      <link>https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</link>
+      <description><![CDATA[Compared to both open-source and proprietary models, InternVL 1. 5 shows competitive performance, achieving state-of-the-art results in 8 of 18 benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-far-are-we-to-gpt-4v-closing-the-gap-to</guid>
+    </item>
+    <item>
+      <title>Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI</title>
+      <link>https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</link>
+      <description><![CDATA[In this survey, we give a comprehensive exploration of the latest advancements in Embodied AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-cyber-space-with-physical-world-a</guid>
     </item>
   </channel>
 </rss>
