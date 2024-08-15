@@ -7,18 +7,36 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Aug 2024 09:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 21:09:01 +0000</lastBuildDate>
+    <item>
+      <title>Improved transferability of self-supervised learning models through batch normalization finetuning</title>
+      <link>https://paperswithcode.com/paper/improved-transferability-of-self-supervised</link>
+      <description><![CDATA[At a cost of extra training of only 0. 16% model parameters, in case of ResNet-50, we acquire a proxy task that (i) has a stronger correlation with end-to-end finetuned performance, (ii) improves the linear probing performance in the many- and few-shot learning regimes and (iii) in some cases, outperforms both linear probing and end-to-end finetuning, reaching the state-of-the-art performance on a pathology dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improved-transferability-of-self-supervised</guid>
+    </item>
+    <item>
+      <title>Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach</title>
+      <link>https://paperswithcode.com/paper/cross-platform-video-person-reid-a-new</link>
+      <description><![CDATA[In this paper, we construct a large-scale benchmark dataset for Ground-to-Aerial Video-based person Re-Identification, named G2A-VReID, which comprises 185, 907 images and 5, 576 tracklets, featuring 2, 788 distinct identities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-platform-video-person-reid-a-new</guid>
+    </item>
+    <item>
+      <title>Towards Few-shot Self-explaining Graph Neural Networks</title>
+      <link>https://paperswithcode.com/paper/towards-few-shot-self-explaining-graph-neural</link>
+      <description><![CDATA[Subsequently, the predictor mimics the decision-making process, which makes predictions based on the generated explanation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-few-shot-self-explaining-graph-neural</guid>
+    </item>
+    <item>
+      <title>TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases</title>
+      <link>https://paperswithcode.com/paper/tabularbench-benchmarking-adversarial</link>
+      <description><![CDATA[In addition to our open benchmark (https://github. com/serval-uni-lu/tabularbench) where we welcome submissions of new models and defenses, we implement 7 robustification mechanisms inspired by state-of-the-art defenses in computer vision and propose the largest benchmark of robust tabular deep learning over 200 models across five critical scenarios in finance, healthcare and security.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tabularbench-benchmarking-adversarial</guid>
+    </item>
     <item>
       <title>Adaptive Basis Function Selection for Computationally Efficient Predictions</title>
       <link>https://paperswithcode.com/paper/adaptive-basis-function-selection-for</link>
       <description><![CDATA[Basis Function (BF) expansions are a cornerstone of any engineer's toolbox for computational function approximation which shares connections with both neural networks and Gaussian processes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/adaptive-basis-function-selection-for</guid>
-    </item>
-    <item>
-      <title>Graph Triple Attention Network: A Decoupled Perspective</title>
-      <link>https://paperswithcode.com/paper/graph-triple-attention-network-a-decoupled</link>
-      <description><![CDATA[To address these challenges, we propose a high-level decoupled perspective of GTs, breaking them down into three components and two interaction levels: positional attention, structural attention, and attribute attention, alongside local and global interaction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-triple-attention-network-a-decoupled</guid>
     </item>
     <item>
       <title>Aquila2 Technical Report</title>
@@ -27,16 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/aquila2-technical-report</guid>
     </item>
     <item>
-      <title>q-exponential family for policy optimization</title>
-      <link>https://paperswithcode.com/paper/q-exponential-family-for-policy-optimization</link>
-      <description><![CDATA[In this paper, we consider a broader policy family that remains tractable: the $q$-exponential family.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/q-exponential-family-for-policy-optimization</guid>
-    </item>
-    <item>
       <title>LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models</title>
       <link>https://paperswithcode.com/paper/lipcot-linear-predictive-coding-based</link>
       <description><![CDATA[In particular, we utilize LiPCoT to encode EEG data into a small vocabulary of tokens and then use BERT for self-supervised learning and the downstream task of PD classification.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lipcot-linear-predictive-coding-based</guid>
+    </item>
+    <item>
+      <title>Graph Triple Attention Network: A Decoupled Perspective</title>
+      <link>https://paperswithcode.com/paper/graph-triple-attention-network-a-decoupled</link>
+      <description><![CDATA[To address these challenges, we propose a high-level decoupled perspective of GTs, breaking them down into three components and two interaction levels: positional attention, structural attention, and attribute attention, alongside local and global interaction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-triple-attention-network-a-decoupled</guid>
+    </item>
+    <item>
+      <title>q-exponential family for policy optimization</title>
+      <link>https://paperswithcode.com/paper/q-exponential-family-for-policy-optimization</link>
+      <description><![CDATA[In this paper, we consider a broader policy family that remains tractable: the $q$-exponential family.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/q-exponential-family-for-policy-optimization</guid>
     </item>
     <item>
       <title>Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification</title>
@@ -57,10 +81,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/grif-dm-generation-of-rich-impression-fonts</guid>
     </item>
     <item>
-      <title>Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach</title>
-      <link>https://paperswithcode.com/paper/cross-platform-video-person-reid-a-new</link>
-      <description><![CDATA[In this paper, we construct a large-scale benchmark dataset for Ground-to-Aerial Video-based person Re-Identification, named G2A-VReID, which comprises 185, 907 images and 5, 576 tracklets, featuring 2, 788 distinct identities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-platform-video-person-reid-a-new</guid>
+      <title>Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities</title>
+      <link>https://paperswithcode.com/paper/model-merging-in-llms-mllms-and-beyond</link>
+      <description><![CDATA[Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/model-merging-in-llms-mllms-and-beyond</guid>
     </item>
     <item>
       <title>Optimising Dynamic Traffic Distribution for Urban Networks with Answer Set Programming</title>
@@ -69,64 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/optimising-dynamic-traffic-distribution-for</guid>
     </item>
     <item>
-      <title>PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation</title>
-      <link>https://paperswithcode.com/paper/periodwave-multi-period-flow-matching-for</link>
-      <description><![CDATA[Additionally, we utilize a multi-period estimator that avoids overlaps to capture different periodic features of waveform signals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/periodwave-multi-period-flow-matching-for</guid>
-    </item>
-    <item>
-      <title>Ensemble architecture in polyp segmentation</title>
-      <link>https://paperswithcode.com/paper/ensemble-architecture-in-polyp-segmentation</link>
-      <description><![CDATA[In this research, we revisit the architecture of semantic segmentation and evaluate the models excelling in polyp segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ensemble-architecture-in-polyp-segmentation</guid>
-    </item>
-    <item>
-      <title>Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction</title>
-      <link>https://paperswithcode.com/paper/unsupervised-stereo-matching-network-for-vhr</link>
-      <description><![CDATA[In contrast, unsupervised learning methods can leverage the increasing availability of very-high-resolution (VHR) remote sensing images, offering considerable potential in the realm of stereo matching.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-stereo-matching-network-for-vhr</guid>
-    </item>
-    <item>
-      <title>Detecting Near-Duplicate Face Images</title>
-      <link>https://paperswithcode.com/paper/detecting-near-duplicate-face-images</link>
-      <description><![CDATA[Near-duplicate images are often generated when applying repeated photometric and geometric transformations that produce imperceptible variants of the original image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-near-duplicate-face-images</guid>
-    </item>
-    <item>
-      <title>GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/grformer-grouped-residual-self-attention-for</link>
-      <description><![CDATA[The code is available at \url{https://github. com/sisrformer/GRFormer}.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/grformer-grouped-residual-self-attention-for</guid>
-    </item>
-    <item>
-      <title>TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases</title>
-      <link>https://paperswithcode.com/paper/tabularbench-benchmarking-adversarial</link>
-      <description><![CDATA[In addition to our open benchmark (https://github. com/serval-uni-lu/tabularbench) where we welcome submissions of new models and defenses, we implement 7 robustification mechanisms inspired by state-of-the-art defenses in computer vision and propose the largest benchmark of robust tabular deep learning over 200 models across five critical scenarios in finance, healthcare and security.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tabularbench-benchmarking-adversarial</guid>
-    </item>
-    <item>
-      <title>Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities</title>
-      <link>https://paperswithcode.com/paper/model-merging-in-llms-mllms-and-beyond</link>
-      <description><![CDATA[Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/model-merging-in-llms-mllms-and-beyond</guid>
-    </item>
-    <item>
       <title>MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation</title>
       <link>https://paperswithcode.com/paper/metaseg-metaformer-based-global-contexts</link>
       <description><![CDATA[We propose a powerful semantic segmentation network, MetaSeg, which leverages the Metaformer architecture from the backbone to the decoder.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/metaseg-metaformer-based-global-contexts</guid>
-    </item>
-    <item>
-      <title>Towards Few-shot Self-explaining Graph Neural Networks</title>
-      <link>https://paperswithcode.com/paper/towards-few-shot-self-explaining-graph-neural</link>
-      <description><![CDATA[Subsequently, the predictor mimics the decision-making process, which makes predictions based on the generated explanation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-few-shot-self-explaining-graph-neural</guid>
-    </item>
-    <item>
-      <title>Achieving Data Efficient Neural Networks with Hybrid Concept-based Models</title>
-      <link>https://paperswithcode.com/paper/achieving-data-efficient-neural-networks-with</link>
-      <description><![CDATA[Most datasets used for supervised machine learning consist of a single label per data point.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/achieving-data-efficient-neural-networks-with</guid>
     </item>
     <item>
       <title>CNN-JEPA: Self-Supervised Pretraining Convolutional Neural Networks Using Joint Embedding Predictive Architecture</title>
@@ -141,16 +111,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/one-step-diffusion-based-super-resolution</guid>
     </item>
     <item>
-      <title>BadMerging: Backdoor Attacks Against Model Merging</title>
-      <link>https://paperswithcode.com/paper/badmerging-backdoor-attacks-against-model</link>
-      <description><![CDATA[Considering that a merged model may incorporate tasks from different domains, BadMerging can jointly compromise the tasks provided by the adversary (on-task attack) and other contributors (off-task attack) and solve the corresponding unique challenges with novel attack designs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/badmerging-backdoor-attacks-against-model</guid>
+      <title>PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation</title>
+      <link>https://paperswithcode.com/paper/periodwave-multi-period-flow-matching-for</link>
+      <description><![CDATA[Additionally, we utilize a multi-period estimator that avoids overlaps to capture different periodic features of waveform signals.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/periodwave-multi-period-flow-matching-for</guid>
     </item>
     <item>
-      <title>Wasserstein Gradient Flows of MMD Functionals with Distance Kernel and Cauchy Problems on Quantile Functions</title>
-      <link>https://paperswithcode.com/paper/wasserstein-gradient-flows-of-mmd-functionals</link>
-      <description><![CDATA[We give a comprehensive description of Wasserstein gradient flows of maximum mean discrepancy (MMD) functionals $\mathcal F_\nu := \text{MMD}_K^2(\cdot, \nu)$ towards given target measures $\nu$ on the real line, where we focus on the negative distance kernel $K(x, y) := -|x-y|$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wasserstein-gradient-flows-of-mmd-functionals</guid>
+      <title>Achieving Data Efficient Neural Networks with Hybrid Concept-based Models</title>
+      <link>https://paperswithcode.com/paper/achieving-data-efficient-neural-networks-with</link>
+      <description><![CDATA[Most datasets used for supervised machine learning consist of a single label per data point.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/achieving-data-efficient-neural-networks-with</guid>
+    </item>
+    <item>
+      <title>Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction</title>
+      <link>https://paperswithcode.com/paper/unsupervised-stereo-matching-network-for-vhr</link>
+      <description><![CDATA[In contrast, unsupervised learning methods can leverage the increasing availability of very-high-resolution (VHR) remote sensing images, offering considerable potential in the realm of stereo matching.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unsupervised-stereo-matching-network-for-vhr</guid>
+    </item>
+    <item>
+      <title>Detecting Near-Duplicate Face Images</title>
+      <link>https://paperswithcode.com/paper/detecting-near-duplicate-face-images</link>
+      <description><![CDATA[Near-duplicate images are often generated when applying repeated photometric and geometric transformations that produce imperceptible variants of the original image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-near-duplicate-face-images</guid>
+    </item>
+    <item>
+      <title>Ensemble architecture in polyp segmentation</title>
+      <link>https://paperswithcode.com/paper/ensemble-architecture-in-polyp-segmentation</link>
+      <description><![CDATA[In this research, we revisit the architecture of semantic segmentation and evaluate the models excelling in polyp segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ensemble-architecture-in-polyp-segmentation</guid>
+    </item>
+    <item>
+      <title>Knowledge Distillation with Refined Logits</title>
+      <link>https://paperswithcode.com/paper/knowledge-distillation-with-refined-logits</link>
+      <description><![CDATA[Recent research on knowledge distillation has increasingly focused on logit distillation because of its simplicity, effectiveness, and versatility in model compression.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/knowledge-distillation-with-refined-logits</guid>
     </item>
     <item>
       <title>Robust Semi-supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration</title>
@@ -159,10 +153,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/robust-semi-supervised-multimodal-medical</guid>
     </item>
     <item>
-      <title>Knowledge Distillation with Refined Logits</title>
-      <link>https://paperswithcode.com/paper/knowledge-distillation-with-refined-logits</link>
-      <description><![CDATA[Recent research on knowledge distillation has increasingly focused on logit distillation because of its simplicity, effectiveness, and versatility in model compression.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/knowledge-distillation-with-refined-logits</guid>
+      <title>Wasserstein Gradient Flows of MMD Functionals with Distance Kernel and Cauchy Problems on Quantile Functions</title>
+      <link>https://paperswithcode.com/paper/wasserstein-gradient-flows-of-mmd-functionals</link>
+      <description><![CDATA[We give a comprehensive description of Wasserstein gradient flows of maximum mean discrepancy (MMD) functionals $\mathcal F_\nu := \text{MMD}_K^2(\cdot, \nu)$ towards given target measures $\nu$ on the real line, where we focus on the negative distance kernel $K(x, y) := -|x-y|$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wasserstein-gradient-flows-of-mmd-functionals</guid>
+    </item>
+    <item>
+      <title>BadMerging: Backdoor Attacks Against Model Merging</title>
+      <link>https://paperswithcode.com/paper/badmerging-backdoor-attacks-against-model</link>
+      <description><![CDATA[Considering that a merged model may incorporate tasks from different domains, BadMerging can jointly compromise the tasks provided by the adversary (on-task attack) and other contributors (off-task attack) and solve the corresponding unique challenges with novel attack designs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/badmerging-backdoor-attacks-against-model</guid>
+    </item>
+    <item>
+      <title>A Spitting Image: Modular Superpixel Tokenization in Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/a-spitting-image-modular-superpixel</link>
+      <description><![CDATA[Vision Transformer (ViT) architectures traditionally employ a grid-based approach to tokenization independent of the semantic content of an image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-spitting-image-modular-superpixel</guid>
     </item>
     <item>
       <title>Knowledge in Superposition: Unveiling the Failures of Lifelong Knowledge Editing for Large Language Models</title>
@@ -177,22 +183,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pattern-matching-dynamic-memory-network-for</guid>
     </item>
     <item>
-      <title>A Spitting Image: Modular Superpixel Tokenization in Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/a-spitting-image-modular-superpixel</link>
-      <description><![CDATA[Vision Transformer (ViT) architectures traditionally employ a grid-based approach to tokenization independent of the semantic content of an image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-spitting-image-modular-superpixel</guid>
+      <title>Sum-Product-Set Networks</title>
+      <link>https://paperswithcode.com/paper/sum-product-set-networks</link>
+      <description><![CDATA[Daily internet communication relies heavily on tree-structured graphs, embodied by popular data formats such as XML and JSON.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sum-product-set-networks</guid>
     </item>
     <item>
       <title>BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning</title>
       <link>https://paperswithcode.com/paper/baple-backdoor-attacks-on-medical</link>
       <description><![CDATA[Inspired by the latest developments in learnable prompts, this work introduces a method to embed a backdoor into the medical foundation model during the prompt learning phase.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/baple-backdoor-attacks-on-medical</guid>
-    </item>
-    <item>
-      <title>Sum-Product-Set Networks</title>
-      <link>https://paperswithcode.com/paper/sum-product-set-networks</link>
-      <description><![CDATA[Daily internet communication relies heavily on tree-structured graphs, embodied by popular data formats such as XML and JSON.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sum-product-set-networks</guid>
     </item>
     <item>
       <title>SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning</title>
@@ -213,28 +213,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lesion-aware-network-for-diabetic-retinopathy</guid>
     </item>
     <item>
-      <title>Towards Real-time Video Compressive Sensing on Mobile Devices</title>
-      <link>https://paperswithcode.com/paper/towards-real-time-video-compressive-sensing</link>
-      <description><![CDATA[The fast evolving mobile devices and existing high-performance video SCI reconstruction algorithms motivate us to develop mobile reconstruction methods for real-world applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-real-time-video-compressive-sensing</guid>
-    </item>
-    <item>
       <title>Improved 3D Whole Heart Geometry from Sparse CMR Slices</title>
       <link>https://paperswithcode.com/paper/improved-3d-whole-heart-geometry-from-sparse</link>
       <description><![CDATA[In this study, we explore the combination of Slice Shifting Algorithm (SSA), Spatial Transformer Network (STN), and Label Transformer Network (LTN) to: 1) correct respiratory motion between segmented slices, and 2) transform sparse segmentation data into dense segmentation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/improved-3d-whole-heart-geometry-from-sparse</guid>
     </item>
     <item>
-      <title>The News Comment Gap and Algorithmic Agenda Setting in Online Forums</title>
-      <link>https://paperswithcode.com/paper/the-news-comment-gap-and-algorithmic-agenda</link>
-      <description><![CDATA[It is thus important to understand journalist vs reader comment preferences and how these are served by various comment ranking algorithms that represent discussions differently.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-news-comment-gap-and-algorithmic-agenda</guid>
+      <title>Towards Real-time Video Compressive Sensing on Mobile Devices</title>
+      <link>https://paperswithcode.com/paper/towards-real-time-video-compressive-sensing</link>
+      <description><![CDATA[The fast evolving mobile devices and existing high-performance video SCI reconstruction algorithms motivate us to develop mobile reconstruction methods for real-world applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-real-time-video-compressive-sensing</guid>
     </item>
     <item>
-      <title>Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching</title>
-      <link>https://paperswithcode.com/paper/flexible-3d-lane-detection-by-hierarchical</link>
-      <description><![CDATA[As one of the basic while vital technologies for HD map construction, 3D lane detection is still an open problem due to varying visual conditions, complex typologies, and strict demands for precision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flexible-3d-lane-detection-by-hierarchical</guid>
+      <title>GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/grformer-grouped-residual-self-attention-for</link>
+      <description><![CDATA[The code is available at \url{https://github. com/sisrformer/GRFormer}.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/grformer-grouped-residual-self-attention-for</guid>
     </item>
     <item>
       <title>ReCLIP++: Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation</title>
@@ -243,34 +237,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reclip-learn-to-rectify-the-bias-of-clip-for</guid>
     </item>
     <item>
-      <title>EE3P3D: Event-based Estimation of Periodic Phenomena Frequency using 3D Correlation</title>
-      <link>https://paperswithcode.com/paper/ee3p3d-event-based-estimation-of-periodic</link>
-      <description><![CDATA[We present a novel method for measuring the frequency of periodic phenomena, e. g., rotation, flicker and vibration, by an event camera, a device asynchronously reporting brightness changes at independently operating pixels with high temporal resolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ee3p3d-event-based-estimation-of-periodic</guid>
+      <title>Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching</title>
+      <link>https://paperswithcode.com/paper/flexible-3d-lane-detection-by-hierarchical</link>
+      <description><![CDATA[As one of the basic while vital technologies for HD map construction, 3D lane detection is still an open problem due to varying visual conditions, complex typologies, and strict demands for precision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flexible-3d-lane-detection-by-hierarchical</guid>
     </item>
     <item>
-      <title>Causal Agent based on Large Language Model</title>
-      <link>https://paperswithcode.com/paper/causal-agent-based-on-large-language-model</link>
-      <description><![CDATA[In the tools module, the causal agent applies causal methods to align tabular data with natural language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/causal-agent-based-on-large-language-model</guid>
-    </item>
-    <item>
-      <title>HDRGS: High Dynamic Range Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/hdrgs-high-dynamic-range-gaussian-splatting</link>
-      <description><![CDATA[In this paper, we introduce Gaussian Splatting-a recent, high-quality, real-time 3D reconstruction technique-into this domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hdrgs-high-dynamic-range-gaussian-splatting</guid>
-    </item>
-    <item>
-      <title>Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection</title>
-      <link>https://paperswithcode.com/paper/integrating-saliency-ranking-and</link>
-      <description><![CDATA[With the ever-growing variety of object detection approaches, this study explores a series of experiments that combine reinforcement learning (RL)-based visual attention methods with saliency ranking techniques to investigate transparent and sustainable solutions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/integrating-saliency-ranking-and</guid>
-    </item>
-    <item>
-      <title>Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors</title>
-      <link>https://paperswithcode.com/paper/integration-of-genetic-algorithms-and-deep</link>
-      <description><![CDATA[The intersection of artificial intelligence and bioinformatics has enabled significant advancements in drug discovery, particularly through the application of machine learning models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/integration-of-genetic-algorithms-and-deep</guid>
+      <title>Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective</title>
+      <link>https://paperswithcode.com/paper/improving-synthetic-image-detection-towards</link>
+      <description><![CDATA[In this paper, we re-examine the SID problem and identify two prevalent biases in current training paradigms, i. e., weakened artifact features and overfitted artifact features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-synthetic-image-detection-towards</guid>
     </item>
     <item>
       <title>Unified-IoU: For High-Quality Object Detection</title>
@@ -285,6 +261,18 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/aquilamoe-efficient-training-for-moe-models</guid>
     </item>
     <item>
+      <title>Integration of Genetic Algorithms and Deep Learning for the Generation and Bioactivity Prediction of Novel Tyrosine Kinase Inhibitors</title>
+      <link>https://paperswithcode.com/paper/integration-of-genetic-algorithms-and-deep</link>
+      <description><![CDATA[The intersection of artificial intelligence and bioinformatics has enabled significant advancements in drug discovery, particularly through the application of machine learning models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/integration-of-genetic-algorithms-and-deep</guid>
+    </item>
+    <item>
+      <title>The News Comment Gap and Algorithmic Agenda Setting in Online Forums</title>
+      <link>https://paperswithcode.com/paper/the-news-comment-gap-and-algorithmic-agenda</link>
+      <description><![CDATA[It is thus important to understand journalist vs reader comment preferences and how these are served by various comment ranking algorithms that represent discussions differently.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-news-comment-gap-and-algorithmic-agenda</guid>
+    </item>
+    <item>
       <title>Multi-Agent Continuous Control with Generative Flow Networks</title>
       <link>https://paperswithcode.com/paper/multi-agent-continuous-control-with</link>
       <description><![CDATA[Generative Flow Networks (GFlowNets) aim to generate diverse trajectories from a distribution in which the final states of the trajectories are proportional to the reward, serving as a powerful alternative to reinforcement learning for exploratory control tasks.]]></description>
@@ -297,16 +285,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-cross-domain-single-blood-cell-image</guid>
     </item>
     <item>
-      <title>ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection</title>
-      <link>https://paperswithcode.com/paper/activenerf-learning-accurate-3d-geometry-by</link>
-      <description><![CDATA[We design a learnable active pattern rendering pipeline which jointly learns the scene geometry and the active pattern.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/activenerf-learning-accurate-3d-geometry-by</guid>
+      <title>OpenResearcher: Unleashing AI for Accelerated Scientific Research</title>
+      <link>https://paperswithcode.com/paper/openresearcher-unleashing-ai-for-accelerated</link>
+      <description><![CDATA[The rapid growth of scientific literature imposes significant challenges for researchers endeavoring to stay updated with the latest advancements in their fields and delve into new areas.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openresearcher-unleashing-ai-for-accelerated</guid>
     </item>
     <item>
-      <title>Unlocking Efficiency: Adaptive Masking for Gene Transformer Models</title>
-      <link>https://paperswithcode.com/paper/unlocking-efficiency-adaptive-masking-for</link>
-      <description><![CDATA[Our findings reveal that CM-GEMS outperforms state-of-the-art models (DNABert-2, Nucleotide transformer, DNABert) trained at 120K steps, achieving similar results in just 10K and 1K steps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlocking-efficiency-adaptive-masking-for</guid>
+      <title>GLGait: A Global-Local Temporal Receptive Field Network for Gait Recognition in the Wild</title>
+      <link>https://paperswithcode.com/paper/glgait-a-global-local-temporal-receptive</link>
+      <description><![CDATA[Recently, some Convolution Neural Networks (ConvNets) based methods have been proposed to address the issue of gait recognition in the wild.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glgait-a-global-local-temporal-receptive</guid>
+    </item>
+    <item>
+      <title>Causal Agent based on Large Language Model</title>
+      <link>https://paperswithcode.com/paper/causal-agent-based-on-large-language-model</link>
+      <description><![CDATA[In the tools module, the causal agent applies causal methods to align tabular data with natural language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/causal-agent-based-on-large-language-model</guid>
+    </item>
+    <item>
+      <title>HDRGS: High Dynamic Range Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/hdrgs-high-dynamic-range-gaussian-splatting</link>
+      <description><![CDATA[In this paper, we introduce Gaussian Splatting-a recent, high-quality, real-time 3D reconstruction technique-into this domain.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hdrgs-high-dynamic-range-gaussian-splatting</guid>
     </item>
   </channel>
 </rss>
