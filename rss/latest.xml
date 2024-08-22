@@ -7,90 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Aug 2024 09:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 21:09:23 +0000</lastBuildDate>
     <item>
-      <title>Personality Alignment of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/personality-alignment-of-large-language</link>
-      <description><![CDATA[This dataset allows us to quantitatively evaluate the extent to which LLMs can align with each subject's behavioral patterns.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/personality-alignment-of-large-language</guid>
-    </item>
-    <item>
-      <title>TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models</title>
-      <link>https://paperswithcode.com/paper/twlv-i-analysis-and-insights-from-holistic</link>
-      <description><![CDATA[Based on the average top-1 accuracy of linear probing on five action recognition benchmarks, pretrained only on publicly accessible datasets, our model shows a 4. 6%p improvement compared to V-JEPA (ViT-L) and a 7. 7%p improvement compared to UMT (ViT-L).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/twlv-i-analysis-and-insights-from-holistic</guid>
-    </item>
-    <item>
-      <title>FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/fedgs-federated-gradient-scaling-for</link>
-      <description><![CDATA[Federated Learning (FL) in Deep Learning (DL)-automated medical image segmentation helps preserving privacy by enabling collaborative model training without sharing patient data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fedgs-federated-gradient-scaling-for</guid>
-    </item>
-    <item>
-      <title>The Vizier Gaussian Process Bandit Algorithm</title>
-      <link>https://paperswithcode.com/paper/the-vizier-gaussian-process-bandit-algorithm</link>
-      <description><![CDATA[Google Vizier has performed millions of optimizations and accelerated numerous research and production systems at Google, demonstrating the success of Bayesian optimization as a large-scale service.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-vizier-gaussian-process-bandit-algorithm</guid>
-    </item>
-    <item>
-      <title>biorecap: an R package for summarizing bioRxiv preprints with a local LLM</title>
-      <link>https://paperswithcode.com/paper/biorecap-an-r-package-for-summarizing-biorxiv</link>
-      <description><![CDATA[The establishment of bioRxiv facilitated the rapid adoption of preprints in the life sciences, accelerating the dissemination of new research findings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/biorecap-an-r-package-for-summarizing-biorxiv</guid>
-    </item>
-    <item>
-      <title>RePair: Automated Program Repair with Process-based Feedback</title>
-      <link>https://paperswithcode.com/paper/repair-automated-program-repair-with-process</link>
-      <description><![CDATA[The gap between the trepidation of program reliability and the expense of repairs underscores the indispensability of Automated Program Repair (APR).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/repair-automated-program-repair-with-process</guid>
-    </item>
-    <item>
-      <title>RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/raglab-a-modular-and-research-oriented</link>
-      <description><![CDATA[Leveraging RAGLAB, we conduct a fair comparison of 6 RAG algorithms across 10 benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/raglab-a-modular-and-research-oriented</guid>
-    </item>
-    <item>
-      <title>Enhancing Cross-Modal Medical Image Segmentation through Compositionality</title>
-      <link>https://paperswithcode.com/paper/enhancing-cross-modal-medical-image</link>
-      <description><![CDATA[We introduce compositionality as an inductive bias in a cross-modal segmentation network to improve segmentation performance and interpretability while reducing complexity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-cross-modal-medical-image</guid>
-    </item>
-    <item>
-      <title>Great Memory, Shallow Reasoning: Limits of $k$NN-LMs</title>
-      <link>https://paperswithcode.com/paper/great-memory-shallow-reasoning-limits-of-k-nn</link>
-      <description><![CDATA[$K$-nearest neighbor language models ($k$NN-LMs), which integrate retrieval with next-word prediction, have demonstrated strong performance in language modeling as well as downstream NLP benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/great-memory-shallow-reasoning-limits-of-k-nn</guid>
-    </item>
-    <item>
-      <title>RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs</title>
-      <link>https://paperswithcode.com/paper/rcone-rough-cone-embedding-for-multi-hop</link>
-      <description><![CDATA[However, to our knowledge, we are the first to introduce logical constructs in querying MMKGs and to answer queries that involve sub-entities of multi-modal entities as the answer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rcone-rough-cone-embedding-for-multi-hop</guid>
-    </item>
-    <item>
-      <title>T2VIndexer: A Generative Video Indexer for Efficient Text-Video Retrieval</title>
-      <link>https://paperswithcode.com/paper/t2vindexer-a-generative-video-indexer-for</link>
-      <description><![CDATA[To enhance retrieval efficiency, in this paper, we introduce a model-based video indexer named T2VIndexer, which is a sequence-to-sequence generative model directly generating video identifiers and retrieving candidate videos with constant time complexity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/t2vindexer-a-generative-video-indexer-for</guid>
-    </item>
-    <item>
-      <title>Critique-out-Loud Reward Models</title>
-      <link>https://paperswithcode.com/paper/critique-out-loud-reward-models</link>
-      <description><![CDATA[To enable reward models to reason explicitly about the quality of a response, we introduce Critique-out-Loud (CLoud) reward models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/critique-out-loud-reward-models</guid>
-    </item>
-    <item>
-      <title>Timeline and Boundary Guided Diffusion Network for Video Shadow Detection</title>
-      <link>https://paperswithcode.com/paper/timeline-and-boundary-guided-diffusion</link>
-      <description><![CDATA[Moreover, we are the first to introduce the Diffusion model for VSD in which we explore a Space-Time Encoded Embedding (STEE) to inject the temporal guidance for Diffusion to conduct shadow detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/timeline-and-boundary-guided-diffusion</guid>
-    </item>
-    <item>
-      <title>Pano2Room: Novel View Synthesis from a Single Indoor Panorama</title>
-      <link>https://paperswithcode.com/paper/pano2room-novel-view-synthesis-from-a-single</link>
-      <description><![CDATA[The key idea is to initially construct a preliminary mesh from the input panorama, and iteratively refine this mesh using a panoramic RGBD inpainter while collecting photo-realistic 3D-consistent pseudo novel views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pano2room-novel-view-synthesis-from-a-single</guid>
+      <title>GSTran: Joint Geometric and Semantic Coherence for Point Cloud Segmentation</title>
+      <link>https://paperswithcode.com/paper/gstran-joint-geometric-and-semantic-coherence</link>
+      <description><![CDATA[The proposed network mainly consists of two principal components: a local geometric transformer and a global semantic transformer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gstran-joint-geometric-and-semantic-coherence</guid>
     </item>
     <item>
       <title>Learning Deep Dissipative Dynamics</title>
@@ -99,28 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-deep-dissipative-dynamics</guid>
     </item>
     <item>
-      <title>GSTran: Joint Geometric and Semantic Coherence for Point Cloud Segmentation</title>
-      <link>https://paperswithcode.com/paper/gstran-joint-geometric-and-semantic-coherence</link>
-      <description><![CDATA[The proposed network mainly consists of two principal components: a local geometric transformer and a global semantic transformer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gstran-joint-geometric-and-semantic-coherence</guid>
-    </item>
-    <item>
       <title>Embedding Ordinality to Binary Loss Function for Improving Solar Flare Forecasting</title>
       <link>https://paperswithcode.com/paper/embedding-ordinality-to-binary-loss-function</link>
       <description><![CDATA[In this paper, we propose a novel loss function aimed at optimizing the binary flare prediction problem by embedding the intrinsic ordinal flare characteristics into the binary cross-entropy (BCE) loss function.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/embedding-ordinality-to-binary-loss-function</guid>
     </item>
     <item>
-      <title>Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer</title>
-      <link>https://paperswithcode.com/paper/unlocking-adversarial-suffix-optimization</link>
-      <description><![CDATA[Moreover, ECLIPSE is on par with template-based methods in ASR while offering superior attack efficiency, reducing the average attack overhead by 83%.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlocking-adversarial-suffix-optimization</guid>
-    </item>
-    <item>
       <title>Improving Out-of-Distribution Data Handling and Corruption Resistance via Modern Hopfield Networks</title>
       <link>https://paperswithcode.com/paper/improving-out-of-distribution-data-handling</link>
       <description><![CDATA[Additionally, we investigate the capability of MHN to converge to the original non-corrupted data.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-out-of-distribution-data-handling</guid>
+    </item>
+    <item>
+      <title>Classification of Mitral Regurgitation from Cardiac Cine MRI using Clinically-Interpretable Morphological Features</title>
+      <link>https://paperswithcode.com/paper/classification-of-mitral-regurgitation-from</link>
+      <description><![CDATA[We propose a new approach to identify MR which automatically extracts 4-dimensional (3D + Time) morphological features from the reconstructed mitral annulus (MA) using Cine long-axis (LAX) views MRI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/classification-of-mitral-regurgitation-from</guid>
+    </item>
+    <item>
+      <title>Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer</title>
+      <link>https://paperswithcode.com/paper/unlocking-adversarial-suffix-optimization</link>
+      <description><![CDATA[Moreover, ECLIPSE is on par with template-based methods in ASR while offering superior attack efficiency, reducing the average attack overhead by 83%.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unlocking-adversarial-suffix-optimization</guid>
     </item>
     <item>
       <title>Optimizing Interpretable Decision Tree Policies for Reinforcement Learning</title>
@@ -135,46 +57,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unifashion-a-unified-vision-language-model</guid>
     </item>
     <item>
-      <title>Improving Calibration by Relating Focal Loss, Temperature Scaling, and Properness</title>
-      <link>https://paperswithcode.com/paper/improving-calibration-by-relating-focal-loss</link>
-      <description><![CDATA[Thirdly, we propose focal temperature scaling - a new post-hoc calibration method combining focal calibration and temperature scaling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-calibration-by-relating-focal-loss</guid>
+      <title>Critique-out-Loud Reward Models</title>
+      <link>https://paperswithcode.com/paper/critique-out-loud-reward-models</link>
+      <description><![CDATA[To enable reward models to reason explicitly about the quality of a response, we introduce Critique-out-Loud (CLoud) reward models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/critique-out-loud-reward-models</guid>
     </item>
     <item>
-      <title>Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors</title>
-      <link>https://paperswithcode.com/paper/robust-3d-gaussian-splatting-for-novel-view</link>
-      <description><![CDATA[Our goal is to identify and ignore such distractors during the 3D Gaussian optimization to obtain a clean reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-3d-gaussian-splatting-for-novel-view</guid>
+      <title>Estimated Audio-Caption Correspondences Improve Language-Based Audio Retrieval</title>
+      <link>https://paperswithcode.com/paper/estimated-audio-caption-correspondences</link>
+      <description><![CDATA[We evaluate our method on the ClothoV2 and the AudioCaps benchmark and show that it improves retrieval performance, even in a restricting self-distillation setting where a single model generates and then learns from the estimated correspondences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/estimated-audio-caption-correspondences</guid>
     </item>
     <item>
-      <title>SelfDRSC++: Self-Supervised Learning for Dual Reversed Rolling Shutter Correction</title>
-      <link>https://paperswithcode.com/paper/selfdrsc-self-supervised-learning-for-dual</link>
-      <description><![CDATA[Subsequently, to effectively train the DRSC network, we propose a self-supervised learning strategy that ensures cycle consistency between input and reconstructed dual reversed RS images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/selfdrsc-self-supervised-learning-for-dual</guid>
-    </item>
-    <item>
-      <title>Positional Prompt Tuning for Efficient 3D Representation Learning</title>
-      <link>https://paperswithcode.com/paper/positional-prompt-tuning-for-efficient-3d</link>
-      <description><![CDATA[Together with the sequential Transformer, the whole module with position encoding comprehensively constructs a multi-scale feature abstraction module that considers both the local parts from the patch and the global parts from center points as position encoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/positional-prompt-tuning-for-efficient-3d</guid>
-    </item>
-    <item>
-      <title>GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/gaussianocc-fully-self-supervised-and</link>
-      <description><![CDATA[We propose Gaussian Splatting from Voxel space (GSV) to leverage the fast rendering properties of Gaussian splatting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussianocc-fully-self-supervised-and</guid>
-    </item>
-    <item>
-      <title>AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion</title>
-      <link>https://paperswithcode.com/paper/anydesign-versatile-area-fashion-editing-via</link>
-      <description><![CDATA[Moreover, these methods are limited in the variety of clothing types they can handle, as most datasets focus on people in clean backgrounds and only include generic garments such as tops, pants, and dresses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/anydesign-versatile-area-fashion-editing-via</guid>
-    </item>
-    <item>
-      <title>Linear-time One-Class Classification with Repeated Element-wise Folding</title>
-      <link>https://paperswithcode.com/paper/linear-time-one-class-classification-with</link>
-      <description><![CDATA[This paper proposes an easy-to-use method for one-class classification: Repeated Element-wise Folding (REF).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/linear-time-one-class-classification-with</guid>
+      <title>Oh, Behave! Country Representation Dynamics Created by Feedback Loops in Music Recommender Systems</title>
+      <link>https://paperswithcode.com/paper/oh-behave-country-representation-dynamics</link>
+      <description><![CDATA[In addition, users from less represented countries (e. g., Finland) are, in the long term, most affected by the under-representation of their local music in recommendations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/oh-behave-country-representation-dynamics</guid>
     </item>
     <item>
       <title>CHOTA: A Higher Order Accuracy Metric for Cell Tracking</title>
@@ -183,40 +81,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/chota-a-higher-order-accuracy-metric-for-cell</guid>
     </item>
     <item>
-      <title>Differentiating Choices via Commonality for Multiple-Choice Question Answering</title>
-      <link>https://paperswithcode.com/paper/differentiating-choices-via-commonality-for</link>
-      <description><![CDATA[Our model captures token-level attention of each choice to the question, and separates tokens of the question attended to by all the choices (i. e., commonalities) from those by individual choices (i. e., nuances).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/differentiating-choices-via-commonality-for</guid>
-    </item>
-    <item>
       <title>NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation</title>
       <link>https://paperswithcode.com/paper/nusegdg-integration-of-heterogeneous-space</link>
       <description><![CDATA[To alleviate the labor-intensive requirement of manual prompts, we introduce a Gaussian-Kernel Prompt Encoder (GKP-Encoder) to generate density maps driven by a single point, which guides segmentation predictions by mixing position prompts and semantic prompts.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nusegdg-integration-of-heterogeneous-space</guid>
     </item>
     <item>
-      <title>KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?</title>
-      <link>https://paperswithcode.com/paper/kan4tsf-are-kan-and-kan-based-models</link>
-      <description><![CDATA[To this end, we introduce the Kolmogorov-Arnold Network (KAN) into time series forecasting research, which has better mathematical properties and interpretability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kan4tsf-are-kan-and-kan-based-models</guid>
-    </item>
-    <item>
-      <title>First line of defense: A robust first layer mitigates adversarial attacks</title>
-      <link>https://paperswithcode.com/paper/first-line-of-defense-a-robust-first-layer</link>
-      <description><![CDATA[We demonstrate that a carefully designed first layer of the neural network can serve as an implicit adversarial noise filter (ANF).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/first-line-of-defense-a-robust-first-layer</guid>
+      <title>Differentiating Choices via Commonality for Multiple-Choice Question Answering</title>
+      <link>https://paperswithcode.com/paper/differentiating-choices-via-commonality-for</link>
+      <description><![CDATA[Our model captures token-level attention of each choice to the question, and separates tokens of the question attended to by all the choices (i. e., commonalities) from those by individual choices (i. e., nuances).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/differentiating-choices-via-commonality-for</guid>
     </item>
     <item>
       <title>OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal</title>
       <link>https://paperswithcode.com/paper/oapt-offset-aware-partition-transformer-for</link>
       <description><![CDATA[Specifically, the predictor estimates pixel offsets between the first and second compression, which are then utilized to divide different patterns.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/oapt-offset-aware-partition-transformer-for</guid>
-    </item>
-    <item>
-      <title>EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning</title>
-      <link>https://paperswithcode.com/paper/emo-llama-enhancing-facial-emotion</link>
-      <description><![CDATA[However, current FER paradigms face challenges in generalization, lack semantic information aligned with natural language, and struggle to process both images and videos within a unified framework, making their application in multimodal emotion understanding and human-computer interaction difficult.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/emo-llama-enhancing-facial-emotion</guid>
     </item>
     <item>
       <title>Persistent Homology via Ellipsoids</title>
@@ -231,16 +111,118 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/e-bench-subjective-aligned-benchmark-suite</guid>
     </item>
     <item>
-      <title>XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays</title>
-      <link>https://paperswithcode.com/paper/xdt-cxr-investigating-cross-disease</link>
-      <description><![CDATA[This study explores the concept of cross-disease transferability (XDT) in medical imaging, focusing on the potential of binary classifiers trained on one disease to perform zero-shot classification on another disease affecting the same organ.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xdt-cxr-investigating-cross-disease</guid>
+      <title>TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models</title>
+      <link>https://paperswithcode.com/paper/twlv-i-analysis-and-insights-from-holistic</link>
+      <description><![CDATA[Based on the average top-1 accuracy of linear probing on five action recognition benchmarks, pretrained only on publicly accessible datasets, our model shows a 4. 6%p improvement compared to V-JEPA (ViT-L) and a 7. 7%p improvement compared to UMT (ViT-L).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/twlv-i-analysis-and-insights-from-holistic</guid>
     </item>
     <item>
-      <title>Interpretable Long-term Action Quality Assessment</title>
-      <link>https://paperswithcode.com/paper/interpretable-long-term-action-quality</link>
-      <description><![CDATA[Long-term Action Quality Assessment (AQA) evaluates the execution of activities in videos.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/interpretable-long-term-action-quality</guid>
+      <title>biorecap: an R package for summarizing bioRxiv preprints with a local LLM</title>
+      <link>https://paperswithcode.com/paper/biorecap-an-r-package-for-summarizing-biorxiv</link>
+      <description><![CDATA[The establishment of bioRxiv facilitated the rapid adoption of preprints in the life sciences, accelerating the dissemination of new research findings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/biorecap-an-r-package-for-summarizing-biorxiv</guid>
+    </item>
+    <item>
+      <title>Personality Alignment of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/personality-alignment-of-large-language</link>
+      <description><![CDATA[This dataset allows us to quantitatively evaluate the extent to which LLMs can align with each subject's behavioral patterns.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/personality-alignment-of-large-language</guid>
+    </item>
+    <item>
+      <title>FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/fedgs-federated-gradient-scaling-for</link>
+      <description><![CDATA[Federated Learning (FL) in Deep Learning (DL)-automated medical image segmentation helps preserving privacy by enabling collaborative model training without sharing patient data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fedgs-federated-gradient-scaling-for</guid>
+    </item>
+    <item>
+      <title>The Vizier Gaussian Process Bandit Algorithm</title>
+      <link>https://paperswithcode.com/paper/the-vizier-gaussian-process-bandit-algorithm</link>
+      <description><![CDATA[Google Vizier has performed millions of optimizations and accelerated numerous research and production systems at Google, demonstrating the success of Bayesian optimization as a large-scale service.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-vizier-gaussian-process-bandit-algorithm</guid>
+    </item>
+    <item>
+      <title>Linear-time One-Class Classification with Repeated Element-wise Folding</title>
+      <link>https://paperswithcode.com/paper/linear-time-one-class-classification-with</link>
+      <description><![CDATA[This paper proposes an easy-to-use method for one-class classification: Repeated Element-wise Folding (REF).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/linear-time-one-class-classification-with</guid>
+    </item>
+    <item>
+      <title>AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion</title>
+      <link>https://paperswithcode.com/paper/anydesign-versatile-area-fashion-editing-via</link>
+      <description><![CDATA[Moreover, these methods are limited in the variety of clothing types they can handle, as most datasets focus on people in clean backgrounds and only include generic garments such as tops, pants, and dresses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/anydesign-versatile-area-fashion-editing-via</guid>
+    </item>
+    <item>
+      <title>First line of defense: A robust first layer mitigates adversarial attacks</title>
+      <link>https://paperswithcode.com/paper/first-line-of-defense-a-robust-first-layer</link>
+      <description><![CDATA[We demonstrate that a carefully designed first layer of the neural network can serve as an implicit adversarial noise filter (ANF).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/first-line-of-defense-a-robust-first-layer</guid>
+    </item>
+    <item>
+      <title>Positional Prompt Tuning for Efficient 3D Representation Learning</title>
+      <link>https://paperswithcode.com/paper/positional-prompt-tuning-for-efficient-3d</link>
+      <description><![CDATA[Together with the sequential Transformer, the whole module with position encoding comprehensively constructs a multi-scale feature abstraction module that considers both the local parts from the patch and the global parts from center points as position encoding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/positional-prompt-tuning-for-efficient-3d</guid>
+    </item>
+    <item>
+      <title>KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?</title>
+      <link>https://paperswithcode.com/paper/kan4tsf-are-kan-and-kan-based-models</link>
+      <description><![CDATA[To this end, we introduce the Kolmogorov-Arnold Network (KAN) into time series forecasting research, which has better mathematical properties and interpretability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kan4tsf-are-kan-and-kan-based-models</guid>
+    </item>
+    <item>
+      <title>GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/gaussianocc-fully-self-supervised-and</link>
+      <description><![CDATA[We propose Gaussian Splatting from Voxel space (GSV) to leverage the fast rendering properties of Gaussian splatting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussianocc-fully-self-supervised-and</guid>
+    </item>
+    <item>
+      <title>Improving Calibration by Relating Focal Loss, Temperature Scaling, and Properness</title>
+      <link>https://paperswithcode.com/paper/improving-calibration-by-relating-focal-loss</link>
+      <description><![CDATA[Thirdly, we propose focal temperature scaling - a new post-hoc calibration method combining focal calibration and temperature scaling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-calibration-by-relating-focal-loss</guid>
+    </item>
+    <item>
+      <title>Timeline and Boundary Guided Diffusion Network for Video Shadow Detection</title>
+      <link>https://paperswithcode.com/paper/timeline-and-boundary-guided-diffusion</link>
+      <description><![CDATA[Moreover, we are the first to introduce the Diffusion model for VSD in which we explore a Space-Time Encoded Embedding (STEE) to inject the temporal guidance for Diffusion to conduct shadow detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/timeline-and-boundary-guided-diffusion</guid>
+    </item>
+    <item>
+      <title>Pano2Room: Novel View Synthesis from a Single Indoor Panorama</title>
+      <link>https://paperswithcode.com/paper/pano2room-novel-view-synthesis-from-a-single</link>
+      <description><![CDATA[The key idea is to initially construct a preliminary mesh from the input panorama, and iteratively refine this mesh using a panoramic RGBD inpainter while collecting photo-realistic 3D-consistent pseudo novel views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pano2room-novel-view-synthesis-from-a-single</guid>
+    </item>
+    <item>
+      <title>Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors</title>
+      <link>https://paperswithcode.com/paper/robust-3d-gaussian-splatting-for-novel-view</link>
+      <description><![CDATA[Our goal is to identify and ignore such distractors during the 3D Gaussian optimization to obtain a clean reconstruction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-3d-gaussian-splatting-for-novel-view</guid>
+    </item>
+    <item>
+      <title>SelfDRSC++: Self-Supervised Learning for Dual Reversed Rolling Shutter Correction</title>
+      <link>https://paperswithcode.com/paper/selfdrsc-self-supervised-learning-for-dual</link>
+      <description><![CDATA[Subsequently, to effectively train the DRSC network, we propose a self-supervised learning strategy that ensures cycle consistency between input and reconstructed dual reversed RS images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/selfdrsc-self-supervised-learning-for-dual</guid>
+    </item>
+    <item>
+      <title>RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/raglab-a-modular-and-research-oriented</link>
+      <description><![CDATA[Leveraging RAGLAB, we conduct a fair comparison of 6 RAG algorithms across 10 benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/raglab-a-modular-and-research-oriented</guid>
+    </item>
+    <item>
+      <title>RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs</title>
+      <link>https://paperswithcode.com/paper/rcone-rough-cone-embedding-for-multi-hop</link>
+      <description><![CDATA[However, to our knowledge, we are the first to introduce logical constructs in querying MMKGs and to answer queries that involve sub-entities of multi-modal entities as the answer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rcone-rough-cone-embedding-for-multi-hop</guid>
+    </item>
+    <item>
+      <title>Enhancing Cross-Modal Medical Image Segmentation through Compositionality</title>
+      <link>https://paperswithcode.com/paper/enhancing-cross-modal-medical-image</link>
+      <description><![CDATA[We introduce compositionality as an inductive bias in a cross-modal segmentation network to improve segmentation performance and interpretability while reducing complexity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-cross-modal-medical-image</guid>
     </item>
     <item>
       <title>DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation</title>
@@ -249,10 +231,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dabench-a-benchmark-dataset-for-data-driven</guid>
     </item>
     <item>
+      <title>Interpretable Long-term Action Quality Assessment</title>
+      <link>https://paperswithcode.com/paper/interpretable-long-term-action-quality</link>
+      <description><![CDATA[Long-term Action Quality Assessment (AQA) evaluates the execution of activities in videos.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interpretable-long-term-action-quality</guid>
+    </item>
+    <item>
+      <title>EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning</title>
+      <link>https://paperswithcode.com/paper/emo-llama-enhancing-facial-emotion</link>
+      <description><![CDATA[However, current FER paradigms face challenges in generalization, lack semantic information aligned with natural language, and struggle to process both images and videos within a unified framework, making their application in multimodal emotion understanding and human-computer interaction difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/emo-llama-enhancing-facial-emotion</guid>
+    </item>
+    <item>
       <title>A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph</title>
       <link>https://paperswithcode.com/paper/a-novel-evaluation-perspective-on-gnns-based</link>
       <description><![CDATA[Recently, graph neural networks (GNNs)-based recommender systems have encountered great success in recommendation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-novel-evaluation-perspective-on-gnns-based</guid>
+    </item>
+    <item>
+      <title>XDT-CXR: Investigating Cross-Disease Transferability in Zero-Shot Binary Classification of Chest X-Rays</title>
+      <link>https://paperswithcode.com/paper/xdt-cxr-investigating-cross-disease</link>
+      <description><![CDATA[This study explores the concept of cross-disease transferability (XDT) in medical imaging, focusing on the potential of binary classifiers trained on one disease to perform zero-shot classification on another disease affecting the same organ.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/xdt-cxr-investigating-cross-disease</guid>
     </item>
     <item>
       <title>LAHAJA: A Robust Multi-accent Benchmark for Evaluating Hindi ASR Systems</title>
@@ -285,22 +285,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fate-focal-modulated-attention-encoder-for</guid>
     </item>
     <item>
-      <title>Estimated Audio-Caption Correspondences Improve Language-Based Audio Retrieval</title>
-      <link>https://paperswithcode.com/paper/estimated-audio-caption-correspondences</link>
-      <description><![CDATA[We evaluate our method on the ClothoV2 and the AudioCaps benchmark and show that it improves retrieval performance, even in a restricting self-distillation setting where a single model generates and then learns from the estimated correspondences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/estimated-audio-caption-correspondences</guid>
+      <title>RePair: Automated Program Repair with Process-based Feedback</title>
+      <link>https://paperswithcode.com/paper/repair-automated-program-repair-with-process</link>
+      <description><![CDATA[The gap between the trepidation of program reliability and the expense of repairs underscores the indispensability of Automated Program Repair (APR).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repair-automated-program-repair-with-process</guid>
     </item>
     <item>
-      <title>Oh, Behave! Country Representation Dynamics Created by Feedback Loops in Music Recommender Systems</title>
-      <link>https://paperswithcode.com/paper/oh-behave-country-representation-dynamics</link>
-      <description><![CDATA[In addition, users from less represented countries (e. g., Finland) are, in the long term, most affected by the under-representation of their local music in recommendations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oh-behave-country-representation-dynamics</guid>
+      <title>Great Memory, Shallow Reasoning: Limits of $k$NN-LMs</title>
+      <link>https://paperswithcode.com/paper/great-memory-shallow-reasoning-limits-of-k-nn</link>
+      <description><![CDATA[$K$-nearest neighbor language models ($k$NN-LMs), which integrate retrieval with next-word prediction, have demonstrated strong performance in language modeling as well as downstream NLP benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/great-memory-shallow-reasoning-limits-of-k-nn</guid>
     </item>
     <item>
-      <title>Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards</title>
-      <link>https://paperswithcode.com/paper/leveraging-fine-tuned-retrieval-augmented</link>
-      <description><![CDATA[Recent studies show that large language models (LLMs) struggle with technical standards in telecommunications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-fine-tuned-retrieval-augmented</guid>
+      <title>Improving Query-by-Vocal Imitation with Contrastive Learning and Audio Pretraining</title>
+      <link>https://paperswithcode.com/paper/improving-query-by-vocal-imitation-with</link>
+      <description><![CDATA[Query-by-Vocal Imitation (QBV) is about searching audio files within databases using vocal imitations created by the user's voice.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/improving-query-by-vocal-imitation-with</guid>
     </item>
     <item>
       <title>BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation</title>
