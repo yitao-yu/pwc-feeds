@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 09:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 21:07:59 +0000</lastBuildDate>
     <item>
-      <title>Sapiens: Foundation for Human Vision Models</title>
-      <link>https://paperswithcode.com/paper/sapiens-foundation-for-human-vision-models</link>
-      <description><![CDATA[We present Sapiens, a family of models for four fundamental human-centric vision tasks -- 2D pose estimation, body-part segmentation, depth estimation, and surface normal prediction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sapiens-foundation-for-human-vision-models</guid>
+      <title>WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling</title>
+      <link>https://paperswithcode.com/paper/wavtokenizer-an-efficient-acoustic-discrete</link>
+      <description><![CDATA[Despite the reduced number of tokens, WavTokenizer achieves state-of-the-art reconstruction quality with outstanding UTMOS scores and inherently contains richer semantic information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wavtokenizer-an-efficient-acoustic-discrete</guid>
     </item>
     <item>
       <title>Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders</title>
@@ -21,22 +21,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/eagle-exploring-the-design-space-for</guid>
     </item>
     <item>
-      <title>Show-o: One Single Transformer to Unify Multimodal Understanding and Generation</title>
-      <link>https://paperswithcode.com/paper/show-o-one-single-transformer-to-unify</link>
-      <description><![CDATA[We present a unified transformer, i. e., Show-o, that unifies multimodal understanding and generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/show-o-one-single-transformer-to-unify</guid>
+      <title>Sapiens: Foundation for Human Vision Models</title>
+      <link>https://paperswithcode.com/paper/sapiens-foundation-for-human-vision-models</link>
+      <description><![CDATA[We present Sapiens, a family of models for four fundamental human-centric vision tasks -- 2D pose estimation, body-part segmentation, depth estimation, and surface normal prediction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sapiens-foundation-for-human-vision-models</guid>
+    </item>
+    <item>
+      <title>Text2SQL is Not Enough: Unifying AI and Databases with TAG</title>
+      <link>https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</link>
+      <description><![CDATA[Such systems would allow users to leverage the powerful reasoning and knowledge capabilities of language models (LMs) alongside the scalable computational power of data management systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</guid>
+    </item>
+    <item>
+      <title>SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners</title>
+      <link>https://paperswithcode.com/paper/sam2point-segment-any-3d-as-videos-in-zero</link>
+      <description><![CDATA[We introduce SAM2Point, a preliminary exploration adapting Segment Anything Model 2 (SAM 2) for zero-shot and promptable 3D segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sam2point-segment-any-3d-as-videos-in-zero</guid>
+    </item>
+    <item>
+      <title>LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset</title>
+      <link>https://paperswithcode.com/paper/lmsys-chat-1m-a-large-scale-real-world-llm</link>
+      <description><![CDATA[Studying how people interact with large language models (LLMs) in real-world scenarios is increasingly important due to their widespread use in various applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lmsys-chat-1m-a-large-scale-real-world-llm</guid>
+    </item>
+    <item>
+      <title>Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer</title>
+      <link>https://paperswithcode.com/paper/beyond-alignment-blind-video-face-restoration</link>
+      <description><![CDATA[Multiple complex degradations are coupled in low-quality video faces in the real world.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-alignment-blind-video-face-restoration</guid>
     </item>
     <item>
       <title>OctFusion: Octree-based Diffusion Models for 3D Shape Generation</title>
       <link>https://paperswithcode.com/paper/octfusion-octree-based-diffusion-models-for</link>
       <description><![CDATA[Diffusion models have emerged as a popular method for 3D generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/octfusion-octree-based-diffusion-models-for</guid>
-    </item>
-    <item>
-      <title>SGLang: Efficient Execution of Structured Language Model Programs</title>
-      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
-      <description><![CDATA[SGLang consists of a frontend language and a runtime.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
     </item>
     <item>
       <title>The Mamba in the Llama: Distilling and Accelerating Hybrid Models</title>
@@ -51,16 +69,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/writing-in-the-margins-better-inference</guid>
     </item>
     <item>
-      <title>Conformal prediction under ambiguous ground truth</title>
-      <link>https://paperswithcode.com/paper/conformal-prediction-under-ambiguous-ground</link>
-      <description><![CDATA[However, in many real-world scenarios, the labels $Y_1,..., Y_n$ are obtained by aggregating expert opinions using a voting procedure, resulting in a one-hot distribution $\mathbb{P}_{vote}^{Y|X}$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/conformal-prediction-under-ambiguous-ground</guid>
+      <title>Training-Free Activation Sparsity in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/training-free-activation-sparsity-in-large</link>
+      <description><![CDATA[Activation sparsity can enable practical inference speedups in large language models (LLMs) by reducing the compute and memory-movement required for matrix multiplications during the forward pass.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-activation-sparsity-in-large</guid>
     </item>
     <item>
-      <title>Foundation Models for Music: A Survey</title>
-      <link>https://paperswithcode.com/paper/foundation-models-for-music-a-survey</link>
-      <description><![CDATA[In recent years, foundation models (FMs) such as large language models (LLMs) and latent diffusion models (LDMs) have profoundly impacted diverse sectors, including music.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/foundation-models-for-music-a-survey</guid>
+      <title>CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer</title>
+      <link>https://paperswithcode.com/paper/cogvideox-text-to-video-diffusion-models-with</link>
+      <description><![CDATA[To improve the text-video alignment, we propose an expert transformer with the expert adaptive LayerNorm to facilitate the deep fusion between the two modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideox-text-to-video-diffusion-models-with</guid>
+    </item>
+    <item>
+      <title>OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer</title>
+      <link>https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</link>
+      <description><![CDATA[Recent advancements in Large Language Models (LLMs) have expanded their capabilities to multimodal contexts, including comprehensive video understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</guid>
     </item>
     <item>
       <title>FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance</title>
@@ -69,64 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fancyvideo-towards-dynamic-and-consistent</guid>
     </item>
     <item>
-      <title>Text2SQL is Not Enough: Unifying AI and Databases with TAG</title>
-      <link>https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</link>
-      <description><![CDATA[Such systems would allow users to leverage the powerful reasoning and knowledge capabilities of language models (LMs) alongside the scalable computational power of data management systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</guid>
-    </item>
-    <item>
-      <title>RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/raglab-a-modular-and-research-oriented</link>
-      <description><![CDATA[Leveraging RAGLAB, we conduct a fair comparison of 6 RAG algorithms across 10 benchmarks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/raglab-a-modular-and-research-oriented</guid>
-    </item>
-    <item>
       <title>Automated Design of Agentic Systems</title>
       <link>https://paperswithcode.com/paper/automated-design-of-agentic-systems</link>
       <description><![CDATA[Researchers are investing substantial effort in developing powerful general-purpose agents, wherein Foundation Models are used as modules within agentic systems (e. g. Chain-of-Thought, Self-Reflection, Toolformer).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/automated-design-of-agentic-systems</guid>
     </item>
     <item>
-      <title>Superposition Prompting: Improving and Accelerating Retrieval-Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/superposition-prompting-improving-and</link>
-      <description><![CDATA[Despite the successes of large language models (LLMs), they exhibit significant drawbacks, particularly when processing long contexts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/superposition-prompting-improving-and</guid>
+      <title>Show-o: One Single Transformer to Unify Multimodal Understanding and Generation</title>
+      <link>https://paperswithcode.com/paper/show-o-one-single-transformer-to-unify</link>
+      <description><![CDATA[We present a unified transformer, i. e., Show-o, that unifies multimodal understanding and generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/show-o-one-single-transformer-to-unify</guid>
     </item>
     <item>
-      <title>LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs</title>
-      <link>https://paperswithcode.com/paper/longwriter-unleashing-10000-word-generation</link>
-      <description><![CDATA[By incorporating this dataset into model training, we successfully scale the output length of existing models to over 10, 000 words while maintaining output quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longwriter-unleashing-10000-word-generation</guid>
+      <title>Explainable Person Re-Identification with Attribute-guided Metric Distillation</title>
+      <link>https://paperswithcode.com/paper/attrimeter-an-attribute-guided-metric</link>
+      <description><![CDATA[In this paper, we propose a post-hoc method, named Attribute-guided Metric Distillation (AMD), to explain existing ReID models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attrimeter-an-attribute-guided-metric</guid>
     </item>
     <item>
-      <title>Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer</title>
-      <link>https://paperswithcode.com/paper/beyond-alignment-blind-video-face-restoration</link>
-      <description><![CDATA[Multiple complex degradations are coupled in low-quality video faces in the real world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-alignment-blind-video-face-restoration</guid>
+      <title>Law of Vision Representation in MLLMs</title>
+      <link>https://paperswithcode.com/paper/law-of-vision-representation-in-mllms</link>
+      <description><![CDATA[We present the "Law of Vision Representation" in multimodal large language models (MLLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/law-of-vision-representation-in-mllms</guid>
     </item>
     <item>
-      <title>The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery</title>
-      <link>https://paperswithcode.com/paper/the-ai-scientist-towards-fully-automated-open</link>
-      <description><![CDATA[This approach signifies the beginning of a new era in scientific discovery in machine learning: bringing the transformative benefits of AI agents to the entire research process of AI itself, and taking us closer to a world where endless affordable creativity and innovation can be unleashed on the world's most challenging problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-ai-scientist-towards-fully-automated-open</guid>
+      <title>StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text</title>
+      <link>https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</link>
+      <description><![CDATA[To overcome these limitations, we introduce StreamingT2V, an autoregressive approach for long video generation of 80, 240, 600, 1200 or more frames with smooth transitions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</guid>
     </item>
     <item>
-      <title>GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/gaussianocc-fully-self-supervised-and</link>
-      <description><![CDATA[We propose Gaussian Splatting from Voxel space (GSV) to leverage the fast rendering properties of Gaussian splatting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gaussianocc-fully-self-supervised-and</guid>
-    </item>
-    <item>
-      <title>MindSearch: Mimicking Human Minds Elicits Deep AI Searcher</title>
-      <link>https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</link>
-      <description><![CDATA[Inspired by the cognitive process when humans solve these problems, we introduce MindSearch to mimic the human minds in web information seeking and integration, which can be instantiated by a simple yet effective LLM-based multi-agent framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mindsearch-mimicking-human-minds-elicits-deep</guid>
-    </item>
-    <item>
-      <title>Bilateral Reference for High-Resolution Dichotomous Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/bilateral-reference-for-high-resolution</link>
-      <description><![CDATA[It comprises two essential components: the localization module (LM) and the reconstruction module (RM) with our proposed bilateral reference (BiRef).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bilateral-reference-for-high-resolution</guid>
+      <title>LLM4CP: Adapting Large Language Models for Channel Prediction</title>
+      <link>https://paperswithcode.com/paper/llm4cp-adapting-large-language-models-for</link>
+      <description><![CDATA[Channel prediction is an effective approach for reducing the feedback or estimation overhead in massive multi-input multi-output (m-MIMO) systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm4cp-adapting-large-language-models-for</guid>
     </item>
   </channel>
 </rss>
