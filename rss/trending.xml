@@ -7,7 +7,19 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 09:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 21:08:12 +0000</lastBuildDate>
+    <item>
+      <title>Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming</title>
+      <link>https://paperswithcode.com/paper/mini-omni-language-models-can-hear-talk-while</link>
+      <description><![CDATA[We also introduce the VoiceAssistant-400K dataset to fine-tune models optimized for speech output.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mini-omni-language-models-can-hear-talk-while</guid>
+    </item>
+    <item>
+      <title>FLUX that Plays Music</title>
+      <link>https://paperswithcode.com/paper/flux-that-plays-music</link>
+      <description><![CDATA[This paper explores a simple extension of diffusion-based rectified flow Transformers for text-to-music generation, termed as FluxMusic.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flux-that-plays-music</guid>
+    </item>
     <item>
       <title>WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling</title>
       <link>https://paperswithcode.com/paper/wavtokenizer-an-efficient-acoustic-discrete</link>
@@ -15,10 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/wavtokenizer-an-efficient-acoustic-discrete</guid>
     </item>
     <item>
-      <title>Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders</title>
-      <link>https://paperswithcode.com/paper/eagle-exploring-the-design-space-for</link>
-      <description><![CDATA[We discover that simply concatenating visual tokens from a set of complementary vision encoders is as effective as more complex mixing architectures or strategies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eagle-exploring-the-design-space-for</guid>
+      <title>rerankers: A Lightweight Python Library to Unify Ranking Methods</title>
+      <link>https://paperswithcode.com/paper/rerankers-a-lightweight-python-library-to</link>
+      <description><![CDATA[This paper presents rerankers, a Python library which provides an easy-to-use interface to the most commonly used re-ranking approaches.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rerankers-a-lightweight-python-library-to</guid>
+    </item>
+    <item>
+      <title>DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification</title>
+      <link>https://paperswithcode.com/paper/dgr-mil-exploring-diverse-global</link>
+      <description><![CDATA[Second, we propose two mechanisms to enforce the diversity among the global vectors to be more descriptive of the entire bag: (i) positive instance alignment and (ii) a novel, efficient, and theoretically guaranteed diversification learning paradigm.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dgr-mil-exploring-diverse-global</guid>
     </item>
     <item>
       <title>Sapiens: Foundation for Human Vision Models</title>
@@ -27,10 +45,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sapiens-foundation-for-human-vision-models</guid>
     </item>
     <item>
+      <title>LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture</title>
+      <link>https://paperswithcode.com/paper/longllava-scaling-multi-modal-llms-to-1000</link>
+      <description><![CDATA[Expanding the long-context capabilities of Multi-modal Large Language Models~(MLLMs) is crucial for video understanding, high-resolution image understanding, and multi-modal agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longllava-scaling-multi-modal-llms-to-1000</guid>
+    </item>
+    <item>
+      <title>NTIRE 2024 Challenge on Low Light Image Enhancement: Methods and Results</title>
+      <link>https://paperswithcode.com/paper/ntire-2024-challenge-on-low-light-image</link>
+      <description><![CDATA[This paper reviews the NTIRE 2024 low light image enhancement challenge, highlighting the proposed solutions and results.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ntire-2024-challenge-on-low-light-image</guid>
+    </item>
+    <item>
+      <title>Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders</title>
+      <link>https://paperswithcode.com/paper/eagle-exploring-the-design-space-for</link>
+      <description><![CDATA[We discover that simply concatenating visual tokens from a set of complementary vision encoders is as effective as more complex mixing architectures or strategies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eagle-exploring-the-design-space-for</guid>
+    </item>
+    <item>
+      <title>VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters</title>
+      <link>https://paperswithcode.com/paper/visionts-visual-masked-autoencoders-are-free</link>
+      <description><![CDATA[Surprisingly, without further adaptation in the time-series domain, the proposed VisionTS could achieve superior zero-shot forecasting performance compared to existing TSF foundation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visionts-visual-masked-autoencoders-are-free</guid>
+    </item>
+    <item>
       <title>Text2SQL is Not Enough: Unifying AI and Databases with TAG</title>
       <link>https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</link>
       <description><![CDATA[Such systems would allow users to leverage the powerful reasoning and knowledge capabilities of language models (LMs) alongside the scalable computational power of data management systems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</guid>
+    </item>
+    <item>
+      <title>Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation</title>
+      <link>https://paperswithcode.com/paper/unleashing-the-temporal-spatial-reasoning</link>
+      <description><![CDATA[In this paper, we propose an Audio-Language-Referenced SAM 2 (AL-Ref-SAM 2) pipeline to explore the training-free paradigm for audio and language-referenced video object segmentation, namely AVS and RVOS tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-the-temporal-spatial-reasoning</guid>
+    </item>
+    <item>
+      <title>Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX</title>
+      <link>https://paperswithcode.com/paper/unifying-sequences-structures-and</link>
+      <description><![CDATA[The experimental results affirm the advanced capabilities of HelixProtX, not only in generating functional descriptions from amino acid sequences but also in executing critical tasks such as designing protein sequences and structures from textual descriptions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unifying-sequences-structures-and</guid>
+    </item>
+    <item>
+      <title>Distance-aware Molecule Graph Attention Network for Drug-Target Binding Affinity Prediction</title>
+      <link>https://paperswithcode.com/paper/distance-aware-molecule-graph-attention</link>
+      <description><![CDATA[The hierarchical attentive aggregation can capture spatial dependencies among atoms, as well as fuse the position-enhanced information with the capability of discriminating multiple spatial relations among atoms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distance-aware-molecule-graph-attention</guid>
+    </item>
+    <item>
+      <title>Automated Design of Agentic Systems</title>
+      <link>https://paperswithcode.com/paper/automated-design-of-agentic-systems</link>
+      <description><![CDATA[Researchers are investing substantial effort in developing powerful general-purpose agents, wherein Foundation Models are used as modules within agentic systems (e. g. Chain-of-Thought, Self-Reflection, Toolformer).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/automated-design-of-agentic-systems</guid>
+    </item>
+    <item>
+      <title>Autonomous LLM-driven research from data to human-verifiable research papers</title>
+      <link>https://paperswithcode.com/paper/autonomous-llm-driven-research-from-data-to</link>
+      <description><![CDATA[As AI promises to accelerate scientific discovery, it remains unclear whether fully AI-driven research is possible and whether it can adhere to key scientific values, such as transparency, traceability and verifiability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autonomous-llm-driven-research-from-data-to</guid>
+    </item>
+    <item>
+      <title>Highly accurate protein structure prediction with AlphaFold</title>
+      <link>https://paperswithcode.com/paper/highly-accurate-protein-structure-prediction</link>
+      <description><![CDATA[Accurate computational approaches are needed to address this gap and to enable large-scale structural bioinformatics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/highly-accurate-protein-structure-prediction</guid>
     </item>
     <item>
       <title>SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners</title>
@@ -45,88 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lmsys-chat-1m-a-large-scale-real-world-llm</guid>
     </item>
     <item>
-      <title>Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer</title>
-      <link>https://paperswithcode.com/paper/beyond-alignment-blind-video-face-restoration</link>
-      <description><![CDATA[Multiple complex degradations are coupled in low-quality video faces in the real world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-alignment-blind-video-face-restoration</guid>
-    </item>
-    <item>
-      <title>OctFusion: Octree-based Diffusion Models for 3D Shape Generation</title>
-      <link>https://paperswithcode.com/paper/octfusion-octree-based-diffusion-models-for</link>
-      <description><![CDATA[Diffusion models have emerged as a popular method for 3D generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/octfusion-octree-based-diffusion-models-for</guid>
-    </item>
-    <item>
-      <title>The Mamba in the Llama: Distilling and Accelerating Hybrid Models</title>
-      <link>https://paperswithcode.com/paper/the-mamba-in-the-llama-distilling-and</link>
-      <description><![CDATA[Linear RNN architectures, like Mamba, can be competitive with Transformer models in language modeling while having advantageous deployment characteristics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-mamba-in-the-llama-distilling-and</guid>
-    </item>
-    <item>
-      <title>Writing in the Margins: Better Inference Pattern for Long Context Retrieval</title>
-      <link>https://paperswithcode.com/paper/writing-in-the-margins-better-inference</link>
-      <description><![CDATA[In this paper, we introduce Writing in the Margins (WiM), a new inference pattern for Large Language Models designed to optimize the handling of long input sequences in retrieval-oriented tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/writing-in-the-margins-better-inference</guid>
-    </item>
-    <item>
-      <title>Training-Free Activation Sparsity in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/training-free-activation-sparsity-in-large</link>
-      <description><![CDATA[Activation sparsity can enable practical inference speedups in large language models (LLMs) by reducing the compute and memory-movement required for matrix multiplications during the forward pass.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-activation-sparsity-in-large</guid>
-    </item>
-    <item>
-      <title>CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer</title>
-      <link>https://paperswithcode.com/paper/cogvideox-text-to-video-diffusion-models-with</link>
-      <description><![CDATA[To improve the text-video alignment, we propose an expert transformer with the expert adaptive LayerNorm to facilitate the deep fusion between the two modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideox-text-to-video-diffusion-models-with</guid>
-    </item>
-    <item>
-      <title>OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer</title>
-      <link>https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</link>
-      <description><![CDATA[Recent advancements in Large Language Models (LLMs) have expanded their capabilities to multimodal contexts, including comprehensive video understanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</guid>
-    </item>
-    <item>
-      <title>FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance</title>
-      <link>https://paperswithcode.com/paper/fancyvideo-towards-dynamic-and-consistent</link>
-      <description><![CDATA[Then, TAR refines the correlation matrix between cross-frame textual conditions and latent features along the time dimension.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fancyvideo-towards-dynamic-and-consistent</guid>
-    </item>
-    <item>
-      <title>Automated Design of Agentic Systems</title>
-      <link>https://paperswithcode.com/paper/automated-design-of-agentic-systems</link>
-      <description><![CDATA[Researchers are investing substantial effort in developing powerful general-purpose agents, wherein Foundation Models are used as modules within agentic systems (e. g. Chain-of-Thought, Self-Reflection, Toolformer).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automated-design-of-agentic-systems</guid>
-    </item>
-    <item>
-      <title>Show-o: One Single Transformer to Unify Multimodal Understanding and Generation</title>
-      <link>https://paperswithcode.com/paper/show-o-one-single-transformer-to-unify</link>
-      <description><![CDATA[We present a unified transformer, i. e., Show-o, that unifies multimodal understanding and generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/show-o-one-single-transformer-to-unify</guid>
-    </item>
-    <item>
-      <title>Explainable Person Re-Identification with Attribute-guided Metric Distillation</title>
-      <link>https://paperswithcode.com/paper/attrimeter-an-attribute-guided-metric</link>
-      <description><![CDATA[In this paper, we propose a post-hoc method, named Attribute-guided Metric Distillation (AMD), to explain existing ReID models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attrimeter-an-attribute-guided-metric</guid>
-    </item>
-    <item>
-      <title>Law of Vision Representation in MLLMs</title>
-      <link>https://paperswithcode.com/paper/law-of-vision-representation-in-mllms</link>
-      <description><![CDATA[We present the "Law of Vision Representation" in multimodal large language models (MLLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/law-of-vision-representation-in-mllms</guid>
-    </item>
-    <item>
-      <title>StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text</title>
-      <link>https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</link>
-      <description><![CDATA[To overcome these limitations, we introduce StreamingT2V, an autoregressive approach for long video generation of 80, 240, 600, 1200 or more frames with smooth transitions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streamingt2v-consistent-dynamic-and</guid>
-    </item>
-    <item>
-      <title>LLM4CP: Adapting Large Language Models for Channel Prediction</title>
-      <link>https://paperswithcode.com/paper/llm4cp-adapting-large-language-models-for</link>
-      <description><![CDATA[Channel prediction is an effective approach for reducing the feedback or estimation overhead in massive multi-input multi-output (m-MIMO) systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm4cp-adapting-large-language-models-for</guid>
+      <title>FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs</title>
+      <link>https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</link>
+      <description><![CDATA[This report introduces FunAudioLLM, a model family designed to enhance natural voice interactions between humans and large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/funaudiollm-voice-understanding-and</guid>
     </item>
   </channel>
 </rss>
