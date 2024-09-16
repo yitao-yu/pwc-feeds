@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 09:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 21:08:32 +0000</lastBuildDate>
     <item>
       <title>LLaMA-Omni: Seamless Speech Interaction with Large Language Models</title>
       <link>https://paperswithcode.com/paper/llama-omni-seamless-speech-interaction-with</link>
       <description><![CDATA[We build our model based on the latest Llama-3. 1-8B-Instruct model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-omni-seamless-speech-interaction-with</guid>
+    </item>
+    <item>
+      <title>PuLID: Pure and Lightning ID Customization via Contrastive Alignment</title>
+      <link>https://paperswithcode.com/paper/pulid-pure-and-lightning-id-customization-via</link>
+      <description><![CDATA[We propose Pure and Lightning ID customization (PuLID), a novel tuning-free ID customization method for text-to-image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pulid-pure-and-lightning-id-customization-via</guid>
     </item>
     <item>
       <title>PaperQA: Retrieval-Augmented Generative Agent for Scientific Research</title>
@@ -21,70 +27,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/paperqa-retrieval-augmented-generative-agent</guid>
     </item>
     <item>
-      <title>Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming</title>
-      <link>https://paperswithcode.com/paper/mini-omni-language-models-can-hear-talk-while</link>
-      <description><![CDATA[We also introduce the VoiceAssistant-400K dataset to fine-tune models optimized for speech output.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mini-omni-language-models-can-hear-talk-while</guid>
-    </item>
-    <item>
-      <title>MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery</title>
-      <link>https://paperswithcode.com/paper/memorag-moving-towards-next-gen-rag-via</link>
-      <description><![CDATA[Retrieval-Augmented Generation (RAG) leverages retrieval tools to access external databases, thereby enhancing the generation quality of large language models (LLMs) through optimized context.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/memorag-moving-towards-next-gen-rag-via</guid>
-    </item>
-    <item>
-      <title>GeoCalib: Learning Single-image Calibration with Geometric Optimization</title>
-      <link>https://paperswithcode.com/paper/geocalib-learning-single-image-calibration</link>
-      <description><![CDATA[This single-image calibration can benefit various downstream applications like image editing and 3D mapping.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/geocalib-learning-single-image-calibration</guid>
-    </item>
-    <item>
-      <title>MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies</title>
-      <link>https://paperswithcode.com/paper/minicpm-unveiling-the-potential-of-small</link>
-      <description><![CDATA[For data scaling, we introduce a Warmup-Stable-Decay (WSD) learning rate scheduler (LRS), conducive to continuous training and domain adaptation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minicpm-unveiling-the-potential-of-small</guid>
-    </item>
-    <item>
-      <title>SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning</title>
-      <link>https://paperswithcode.com/paper/sciagents-automating-scientific-discovery</link>
-      <description><![CDATA[A key challenge in artificial intelligence is the creation of systems capable of autonomously advancing scientific understanding by exploring novel domains, identifying complex patterns, and uncovering previously unseen connections in vast scientific data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sciagents-automating-scientific-discovery</guid>
-    </item>
-    <item>
-      <title>Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers</title>
-      <link>https://paperswithcode.com/paper/can-llms-generate-novel-research-ideas-a</link>
-      <description><![CDATA[Recent advancements in large language models (LLMs) have sparked optimism about their potential to accelerate scientific discovery, with a growing number of works proposing research agents that autonomously generate and validate new ideas.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-llms-generate-novel-research-ideas-a</guid>
-    </item>
-    <item>
-      <title>LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA</title>
-      <link>https://paperswithcode.com/paper/longcite-enabling-llms-to-generate-fine</link>
-      <description><![CDATA[Though current long-context large language models (LLMs) have demonstrated impressive capacities in answering user questions based on extensive text, the lack of citations in their responses makes user verification difficult, leading to concerns about their trustworthiness due to their potential hallucinations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longcite-enabling-llms-to-generate-fine</guid>
-    </item>
-    <item>
-      <title>iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models</title>
-      <link>https://paperswithcode.com/paper/itext2kg-incremental-knowledge-graphs</link>
-      <description><![CDATA[Our method demonstrates superior performance compared to baseline methods across three scenarios: converting scientific papers to graphs, websites to graphs, and CVs to graphs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/itext2kg-incremental-knowledge-graphs</guid>
-    </item>
-    <item>
-      <title>Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers</title>
-      <link>https://paperswithcode.com/paper/mutual-reasoning-makes-smaller-llms-stronger</link>
-      <description><![CDATA[This paper introduces rStar, a self-play mutual reasoning approach that significantly improves reasoning capabilities of small language models (SLMs) without fine-tuning or superior models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mutual-reasoning-makes-smaller-llms-stronger</guid>
-    </item>
-    <item>
-      <title>Large Language Model-Based Agents for Software Engineering: A Survey</title>
-      <link>https://paperswithcode.com/paper/large-language-model-based-agents-for</link>
-      <description><![CDATA[The recent advance in Large Language Models (LLMs) has shaped a new paradigm of AI agents, i. e., LLM-based agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-model-based-agents-for</guid>
-    </item>
-    <item>
-      <title>Towards a Unified View of Preference Learning for Large Language Models: A Survey</title>
-      <link>https://paperswithcode.com/paper/towards-a-unified-view-of-preference-learning</link>
-      <description><![CDATA[Finally, based on our unified perspective, we explore the challenges and future research directions for aligning large language models with human preferences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-a-unified-view-of-preference-learning</guid>
+      <title>Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale</title>
+      <link>https://paperswithcode.com/paper/windows-agent-arena-evaluating-multi-modal-os</link>
+      <description><![CDATA[To demonstrate Windows Agent Arena's capabilities, we also introduce a new multi-modal agent, Navi.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/windows-agent-arena-evaluating-multi-modal-os</guid>
     </item>
     <item>
       <title>optillm</title>
@@ -93,10 +39,82 @@
       <guid isPermaLink="true">https://github.com/codelion/optillm</guid>
     </item>
     <item>
-      <title>Docling Technical Report</title>
-      <link>https://paperswithcode.com/paper/docling-technical-report</link>
-      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
+      <title>Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming</title>
+      <link>https://paperswithcode.com/paper/mini-omni-language-models-can-hear-talk-while</link>
+      <description><![CDATA[We also introduce the VoiceAssistant-400K dataset to fine-tune models optimized for speech output.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mini-omni-language-models-can-hear-talk-while</guid>
+    </item>
+    <item>
+      <title>Agent Workflow Memory</title>
+      <link>https://paperswithcode.com/paper/agent-workflow-memory</link>
+      <description><![CDATA[Despite the potential of language model-based agents to solve real-world tasks such as web navigation, current methods still struggle with long-horizon tasks with complex action trajectories.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-workflow-memory</guid>
+    </item>
+    <item>
+      <title>Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/hi3d-pursuing-high-resolution-image-to-3d</link>
+      <description><![CDATA[Despite having tremendous progress in image-to-3D generation, existing methods still struggle to produce multi-view consistent images with high-resolution textures in detail, especially in the paradigm of 2D diffusion that lacks 3D awareness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hi3d-pursuing-high-resolution-image-to-3d</guid>
+    </item>
+    <item>
+      <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
+      <link>https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</link>
+      <description><![CDATA[We hope that our study can facilitate the research community and LLM vendors in promoting safer and regulated LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</guid>
+    </item>
+    <item>
+      <title>Super Monotonic Alignment Search</title>
+      <link>https://paperswithcode.com/paper/super-monotonic-alignment-search</link>
+      <description><![CDATA[Monotonic alignment search (MAS), introduced by Glow-TTS, is one of the most popular algorithm in TTS to estimate unknown alignments between text and speech.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/super-monotonic-alignment-search</guid>
+    </item>
+    <item>
+      <title>FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally</title>
+      <link>https://paperswithcode.com/paper/flashsplat-2d-to-3d-gaussian-splatting</link>
+      <description><![CDATA[Extensive experiments demonstrate the efficiency and robustness of our method in segmenting various scenes, and its superior performance in downstream tasks such as object removal and inpainting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flashsplat-2d-to-3d-gaussian-splatting</guid>
+    </item>
+    <item>
+      <title>iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models</title>
+      <link>https://paperswithcode.com/paper/itext2kg-incremental-knowledge-graphs</link>
+      <description><![CDATA[Our method demonstrates superior performance compared to baseline methods across three scenarios: converting scientific papers to graphs, websites to graphs, and CVs to graphs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/itext2kg-incremental-knowledge-graphs</guid>
+    </item>
+    <item>
+      <title>NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices</title>
+      <link>https://paperswithcode.com/paper/neuflow-v2-high-efficiency-optical-flow</link>
+      <description><![CDATA[In this paper, we propose a highly efficient optical flow method that balances high accuracy with reduced computational demands.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuflow-v2-high-efficiency-optical-flow</guid>
+    </item>
+    <item>
+      <title>MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery</title>
+      <link>https://paperswithcode.com/paper/memorag-moving-towards-next-gen-rag-via</link>
+      <description><![CDATA[Retrieval-Augmented Generation (RAG) leverages retrieval tools to access external databases, thereby enhancing the generation quality of large language models (LLMs) through optimized context.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/memorag-moving-towards-next-gen-rag-via</guid>
+    </item>
+    <item>
+      <title>OneGen: Efficient One-Pass Unified Generation and Retrieval for LLMs</title>
+      <link>https://paperswithcode.com/paper/onegen-efficient-one-pass-unified-generation</link>
+      <description><![CDATA[This paper introduces a novel and efficient One-pass Generation and retrieval framework (OneGen), designed to improve LLMs' performance on tasks that require both generation and retrieval.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/onegen-efficient-one-pass-unified-generation</guid>
+    </item>
+    <item>
+      <title>AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</title>
+      <link>https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</link>
+      <description><![CDATA[We propose Activation-aware Weight Quantization (AWQ), a hardware-friendly approach for LLM low-bit weight-only quantization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/awq-activation-aware-weight-quantization-for</guid>
+    </item>
+    <item>
+      <title>Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos</title>
+      <link>https://paperswithcode.com/paper/dynamic-gaussian-marbles-for-novel-view</link>
+      <description><![CDATA[We evaluate on the Nvidia Dynamic Scenes dataset and the DyCheck iPhone dataset, and show that Gaussian Marbles significantly outperforms other Gaussian baselines in quality, and is on-par with non-Gaussian representations, all while maintaining the efficiency, compositionality, editability, and tracking benefits of Gaussians.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-gaussian-marbles-for-novel-view</guid>
+    </item>
+    <item>
+      <title>Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking</title>
+      <link>https://paperswithcode.com/paper/quiet-star-language-models-can-teach</link>
+      <description><![CDATA[Crucially, these improvements require no fine-tuning on these tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quiet-star-language-models-can-teach</guid>
     </item>
     <item>
       <title>RealisDance: Equip controllable character animation with realistic hands</title>
@@ -105,28 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/realisdance-equip-controllable-character</guid>
     </item>
     <item>
-      <title>RobustSAM: Segment Anything Robustly on Degraded Images</title>
-      <link>https://paperswithcode.com/paper/robustsam-segment-anything-robustly-on-1</link>
-      <description><![CDATA[Segment Anything Model (SAM) has emerged as a transformative approach in image segmentation, acclaimed for its robust zero-shot segmentation capabilities and flexible prompting system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robustsam-segment-anything-robustly-on-1</guid>
-    </item>
-    <item>
-      <title>KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods</title>
-      <link>https://paperswithcode.com/paper/kgrefiner-knowledge-graph-refinement-for</link>
-      <description><![CDATA[The Link Prediction is the task of predicting missing relations between entities of the knowledge graph.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kgrefiner-knowledge-graph-refinement-for</guid>
-    </item>
-    <item>
-      <title>FLUX that Plays Music</title>
-      <link>https://paperswithcode.com/paper/flux-that-plays-music</link>
-      <description><![CDATA[This paper explores a simple extension of diffusion-based rectified flow Transformers for text-to-music generation, termed as FluxMusic.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flux-that-plays-music</guid>
-    </item>
-    <item>
-      <title>One-Shot Diffusion Mimicker for Handwritten Text Generation</title>
-      <link>https://paperswithcode.com/paper/one-shot-diffusion-mimicker-for-handwritten</link>
-      <description><![CDATA[Extensive experiments demonstrate that our method can successfully generate handwriting scripts with just one sample reference in multiple languages, even outperforming previous methods using over ten samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-shot-diffusion-mimicker-for-handwritten</guid>
+      <title>gsplat: An Open-Source Library for Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/gsplat-an-open-source-library-for-gaussian</link>
+      <description><![CDATA[gsplat is an open-source library designed for training and developing Gaussian Splatting methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gsplat-an-open-source-library-for-gaussian</guid>
     </item>
   </channel>
 </rss>
