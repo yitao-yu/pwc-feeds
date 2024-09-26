@@ -7,79 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 09:16:33 +0000</lastBuildDate>
-    <item>
-      <title>Vision-Language Model Fine-Tuning via Simple Parameter-Efficient Modification</title>
-      <link>https://paperswithcode.com/paper/vision-language-model-fine-tuning-via-simple</link>
-      <description><![CDATA[Recent advances in fine-tuning Vision-Language Models (VLMs) have witnessed the success of prompt tuning and adapter tuning, while the classic model fine-tuning on inherent parameters seems to be overlooked.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-language-model-fine-tuning-via-simple</guid>
-    </item>
-    <item>
-      <title>Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors</title>
-      <link>https://paperswithcode.com/paper/degradation-guided-one-step-image-super</link>
-      <description><![CDATA[Diffusion-based image super-resolution (SR) methods have achieved remarkable success by leveraging large pre-trained text-to-image diffusion models as priors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/degradation-guided-one-step-image-super</guid>
-    </item>
-    <item>
-      <title>Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale</title>
-      <link>https://paperswithcode.com/paper/programming-every-example-lifting-pre</link>
-      <description><![CDATA[Large language model pre-training has traditionally relied on human experts to craft heuristics for improving the corpora quality, resulting in numerous rules developed to date.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/programming-every-example-lifting-pre</guid>
-    </item>
-    <item>
-      <title>Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts</title>
-      <link>https://paperswithcode.com/paper/pre-trained-language-models-return</link>
-      <description><![CDATA[In this work, we show the pre-trained language models return distinguishable generation probability and uncertainty distribution to unfaithfully hallucinated texts, regardless of their size and structure.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pre-trained-language-models-return</guid>
-    </item>
-    <item>
-      <title>CodeInsight: A Curated Dataset of Practical Coding Solutions from Stack Overflow</title>
-      <link>https://paperswithcode.com/paper/codeinsight-a-curated-dataset-of-practical</link>
-      <description><![CDATA[We introduce a novel dataset tailored for code generation, aimed at aiding developers in common tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codeinsight-a-curated-dataset-of-practical</guid>
-    </item>
-    <item>
-      <title>Enhancing Nighttime UAV Tracking with Light Distribution Suppression</title>
-      <link>https://paperswithcode.com/paper/enhancing-nighttime-uav-tracking-with-light</link>
-      <description><![CDATA[However, the state-of-the-art (SOTA) enhancers for nighttime UAV tracking always neglect the uneven light distribution in low-light images, inevitably leading to excessive enhancement in scenarios with complex illumination.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-nighttime-uav-tracking-with-light</guid>
-    </item>
-    <item>
-      <title>ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis</title>
-      <link>https://paperswithcode.com/paper/controlcity-a-multimodal-diffusion-model</link>
-      <description><![CDATA[This study confirms the effectiveness of our approach in generating urban building footprint data and capturing complex city characteristics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/controlcity-a-multimodal-diffusion-model</guid>
-    </item>
-    <item>
-      <title>E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL</title>
-      <link>https://paperswithcode.com/paper/e-sql-direct-schema-linking-via-question</link>
-      <description><![CDATA[In this work, we introduce E-SQL, a novel pipeline specifically designed to address these challenges through direct schema linking and candidate predicate augmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/e-sql-direct-schema-linking-via-question</guid>
-    </item>
-    <item>
-      <title>WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks</title>
-      <link>https://paperswithcode.com/paper/wastegan-data-augmentation-for-robotic-waste</link>
-      <description><![CDATA[To tackle this issue, we introduce a data augmentation method based on a novel GAN architecture called wasteGAN.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wastegan-data-augmentation-for-robotic-waste</guid>
-    </item>
-    <item>
-      <title>EMIT- Event-Based Masked Auto Encoding for Irregular Time Series</title>
-      <link>https://paperswithcode.com/paper/emit-event-based-masked-auto-encoding-for</link>
-      <description><![CDATA[Irregular time series, where data points are recorded at uneven intervals, are prevalent in healthcare settings, such as emergency wards where vital signs and laboratory results are captured at varying times.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/emit-event-based-masked-auto-encoding-for</guid>
-    </item>
-    <item>
-      <title>Training Language Models to Win Debates with Self-Play Improves Judge Accuracy</title>
-      <link>https://paperswithcode.com/paper/training-language-models-to-win-debates-with</link>
-      <description><![CDATA[We test the robustness of debate as a method of scalable oversight by training models to debate with data generated via self-play.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-language-models-to-win-debates-with</guid>
-    </item>
-    <item>
-      <title>EventHallusion: Diagnosing Event Hallucinations in Video LLMs</title>
-      <link>https://paperswithcode.com/paper/eventhallusion-diagnosing-event</link>
-      <description><![CDATA[On the other hand, we also propose a simple yet effective method, called Temporal Contrastive Decoding (TCD), to tackle the hallucination problems of VideoLLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/eventhallusion-diagnosing-event</guid>
-    </item>
+    <lastBuildDate>Thu, 26 Sep 2024 21:08:04 +0000</lastBuildDate>
     <item>
       <title>Progressive Representation Learning for Real-Time UAV Tracking</title>
       <link>https://paperswithcode.com/paper/progressive-representation-learning-for-real</link>
@@ -91,18 +19,6 @@
       <link>https://paperswithcode.com/paper/ptq4ris-post-training-quantization-for</link>
       <description><![CDATA[Specifically, we first conduct an in-depth analysis of the root causes of performance degradation in RIS model quantization and propose dual-region quantization (DRQ) and reorder-based outlier-retained quantization (RORQ) to address the quantization difficulties in visual and text encoders.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ptq4ris-post-training-quantization-for</guid>
-    </item>
-    <item>
-      <title>Statewide Visual Geolocalization in the Wild</title>
-      <link>https://paperswithcode.com/paper/statewide-visual-geolocalization-in-the-wild</link>
-      <description><![CDATA[This work presents a method that is able to predict the geolocation of a street-view photo taken in the wild within a state-sized search region by matching against a database of aerial reference imagery.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/statewide-visual-geolocalization-in-the-wild</guid>
-    </item>
-    <item>
-      <title>BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices</title>
-      <link>https://paperswithcode.com/paper/bitq-tailoring-block-floating-point-precision</link>
-      <description><![CDATA[Deep neural networks (DNNs) are powerful for cognitive tasks such as image classification, object detection, and scene segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bitq-tailoring-block-floating-point-precision</guid>
     </item>
     <item>
       <title>Multi-Robot Informative Path Planning for Efficient Target Mapping using Deep Reinforcement Learning</title>
@@ -117,10 +33,172 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/morphoseg-an-uncertainty-aware-deep-learning</guid>
     </item>
     <item>
+      <title>HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space</title>
+      <link>https://paperswithcode.com/paper/hvt-a-comprehensive-vision-framework-for</link>
+      <description><![CDATA[Data representation in non-Euclidean spaces has proven effective for capturing hierarchical and complex relationships in real-world datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hvt-a-comprehensive-vision-framework-for</guid>
+    </item>
+    <item>
+      <title>BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices</title>
+      <link>https://paperswithcode.com/paper/bitq-tailoring-block-floating-point-precision</link>
+      <description><![CDATA[Deep neural networks (DNNs) are powerful for cognitive tasks such as image classification, object detection, and scene segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bitq-tailoring-block-floating-point-precision</guid>
+    </item>
+    <item>
+      <title>Statewide Visual Geolocalization in the Wild</title>
+      <link>https://paperswithcode.com/paper/statewide-visual-geolocalization-in-the-wild</link>
+      <description><![CDATA[This work presents a method that is able to predict the geolocation of a street-view photo taken in the wild within a state-sized search region by matching against a database of aerial reference imagery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/statewide-visual-geolocalization-in-the-wild</guid>
+    </item>
+    <item>
+      <title>MaViLS, a Benchmark Dataset for Video-to-Slide Alignment, Assessing Baseline Accuracy with a Multimodal Alignment Algorithm Leveraging Speech, OCR, and Visual Features</title>
+      <link>https://paperswithcode.com/paper/mavils-a-benchmark-dataset-for-video-to-slide</link>
+      <description><![CDATA[This paper presents a benchmark dataset for aligning lecture videos with corresponding slides and introduces a novel multimodal algorithm leveraging features from speech, text, and images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mavils-a-benchmark-dataset-for-video-to-slide</guid>
+    </item>
+    <item>
+      <title>FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression</title>
+      <link>https://paperswithcode.com/paper/finezip-pushing-the-limits-of-large-language</link>
+      <description><![CDATA[We compare traditional text compression systems with neural network and LLM-based text compression methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/finezip-pushing-the-limits-of-large-language</guid>
+    </item>
+    <item>
+      <title>Spacewalker: Traversing Representation Spaces for Fast Interactive Exploration and Annotation of Unstructured Data</title>
+      <link>https://paperswithcode.com/paper/spacewalker-traversing-representation-spaces</link>
+      <description><![CDATA[Unstructured data in industries such as healthcare, finance, and manufacturing presents significant challenges for efficient analysis and decision making.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spacewalker-traversing-representation-spaces</guid>
+    </item>
+    <item>
+      <title>SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/sdcl-students-discrepancy-informed-correction</link>
+      <description><![CDATA[Semi-supervised medical image segmentation (SSMIS) has been demonstrated the potential to mitigate the issue of limited medical labeled data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sdcl-students-discrepancy-informed-correction</guid>
+    </item>
+    <item>
+      <title>Cross-lingual Speech Emotion Recognition: Humans vs. Self-Supervised Models</title>
+      <link>https://paperswithcode.com/paper/cross-lingual-speech-emotion-recognition</link>
+      <description><![CDATA[Utilizing Self-Supervised Learning (SSL) models for Speech Emotion Recognition (SER) has proven effective, yet limited research has explored cross-lingual scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-lingual-speech-emotion-recognition</guid>
+    </item>
+    <item>
+      <title>DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling</title>
+      <link>https://paperswithcode.com/paper/dalda-data-augmentation-leveraging-diffusion</link>
+      <description><![CDATA[In this paper, we present an effective data augmentation framework leveraging the Large Language Model (LLM) and Diffusion Model (DM) to tackle the challenges inherent in data-scarce scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dalda-data-augmentation-leveraging-diffusion</guid>
+    </item>
+    <item>
+      <title>INT-FlashAttention: Enabling Flash Attention for INT8 Quantization</title>
+      <link>https://paperswithcode.com/paper/int-flashattention-enabling-flash-attention</link>
+      <description><![CDATA[As the foundation of large language models (LLMs), self-attention module faces the challenge of quadratic time and memory complexity with respect to sequence length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/int-flashattention-enabling-flash-attention</guid>
+    </item>
+    <item>
+      <title>CodeInsight: A Curated Dataset of Practical Coding Solutions from Stack Overflow</title>
+      <link>https://paperswithcode.com/paper/codeinsight-a-curated-dataset-of-practical</link>
+      <description><![CDATA[We introduce a novel dataset tailored for code generation, aimed at aiding developers in common tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/codeinsight-a-curated-dataset-of-practical</guid>
+    </item>
+    <item>
+      <title>Enhancing Nighttime UAV Tracking with Light Distribution Suppression</title>
+      <link>https://paperswithcode.com/paper/enhancing-nighttime-uav-tracking-with-light</link>
+      <description><![CDATA[However, the state-of-the-art (SOTA) enhancers for nighttime UAV tracking always neglect the uneven light distribution in low-light images, inevitably leading to excessive enhancement in scenarios with complex illumination.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-nighttime-uav-tracking-with-light</guid>
+    </item>
+    <item>
+      <title>Towards General Text-guided Image Synthesis for Customized Multimodal Brain MRI Generation</title>
+      <link>https://paperswithcode.com/paper/towards-general-text-guided-image-synthesis</link>
+      <description><![CDATA[Here, we present TUMSyn, a Text-guided Universal MR image Synthesis generalist model, which can flexibly generate brain MR images with demanded imaging metadata from routinely acquired scans guided by text prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-general-text-guided-image-synthesis</guid>
+    </item>
+    <item>
+      <title>ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis</title>
+      <link>https://paperswithcode.com/paper/controlcity-a-multimodal-diffusion-model</link>
+      <description><![CDATA[This study confirms the effectiveness of our approach in generating urban building footprint data and capturing complex city characteristics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/controlcity-a-multimodal-diffusion-model</guid>
+    </item>
+    <item>
+      <title>E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL</title>
+      <link>https://paperswithcode.com/paper/e-sql-direct-schema-linking-via-question</link>
+      <description><![CDATA[In this work, we introduce E-SQL, a novel pipeline specifically designed to address these challenges through direct schema linking and candidate predicate augmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/e-sql-direct-schema-linking-via-question</guid>
+    </item>
+    <item>
+      <title>TSBP: Improving Object Detection in Histology Images via Test-time Self-guided Bounding-box Propagation</title>
+      <link>https://paperswithcode.com/paper/tsbp-improving-object-detection-in-histology</link>
+      <description><![CDATA[Because of this, using a preset global threshold (e. g., 0. 5) applied to all the bounding box candidates may lead to suboptimal solutions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tsbp-improving-object-detection-in-histology</guid>
+    </item>
+    <item>
+      <title>EventHallusion: Diagnosing Event Hallucinations in Video LLMs</title>
+      <link>https://paperswithcode.com/paper/eventhallusion-diagnosing-event</link>
+      <description><![CDATA[On the other hand, we also propose a simple yet effective method, called Temporal Contrastive Decoding (TCD), to tackle the hallucination problems of VideoLLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eventhallusion-diagnosing-event</guid>
+    </item>
+    <item>
+      <title>Training Language Models to Win Debates with Self-Play Improves Judge Accuracy</title>
+      <link>https://paperswithcode.com/paper/training-language-models-to-win-debates-with</link>
+      <description><![CDATA[We test the robustness of debate as a method of scalable oversight by training models to debate with data generated via self-play.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-language-models-to-win-debates-with</guid>
+    </item>
+    <item>
+      <title>Explicitly Modeling Pre-Cortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness</title>
+      <link>https://paperswithcode.com/paper/explicitly-modeling-pre-cortical-vision-with</link>
+      <description><![CDATA[While convolutional neural networks (CNNs) excel at clean image classification, they struggle to classify images corrupted with different common corruptions, limiting their real-world applicability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/explicitly-modeling-pre-cortical-vision-with</guid>
+    </item>
+    <item>
+      <title>Vision-Language Model Fine-Tuning via Simple Parameter-Efficient Modification</title>
+      <link>https://paperswithcode.com/paper/vision-language-model-fine-tuning-via-simple</link>
+      <description><![CDATA[Recent advances in fine-tuning Vision-Language Models (VLMs) have witnessed the success of prompt tuning and adapter tuning, while the classic model fine-tuning on inherent parameters seems to be overlooked.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-language-model-fine-tuning-via-simple</guid>
+    </item>
+    <item>
+      <title>Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale</title>
+      <link>https://paperswithcode.com/paper/programming-every-example-lifting-pre</link>
+      <description><![CDATA[Large language model pre-training has traditionally relied on human experts to craft heuristics for improving the corpora quality, resulting in numerous rules developed to date.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/programming-every-example-lifting-pre</guid>
+    </item>
+    <item>
+      <title>Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors</title>
+      <link>https://paperswithcode.com/paper/degradation-guided-one-step-image-super</link>
+      <description><![CDATA[Diffusion-based image super-resolution (SR) methods have achieved remarkable success by leveraging large pre-trained text-to-image diffusion models as priors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/degradation-guided-one-step-image-super</guid>
+    </item>
+    <item>
+      <title>DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data</title>
+      <link>https://paperswithcode.com/paper/drim-learning-disentangled-representations</link>
+      <description><![CDATA[Contrastive learning, widely used for deriving representations from paired data in multimodal tasks, assumes that different views contain the same task-relevant information and leverages only shared information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/drim-learning-disentangled-representations</guid>
+    </item>
+    <item>
+      <title>Pre-trained Language Models Return Distinguishable Probability Distributions to Unfaithfully Hallucinated Texts</title>
+      <link>https://paperswithcode.com/paper/pre-trained-language-models-return</link>
+      <description><![CDATA[In this work, we show the pre-trained language models return distinguishable generation probability and uncertainty distribution to unfaithfully hallucinated texts, regardless of their size and structure.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pre-trained-language-models-return</guid>
+    </item>
+    <item>
+      <title>Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models</title>
+      <link>https://paperswithcode.com/paper/prompt-sliders-for-fine-grained-control</link>
+      <description><![CDATA[Concept Sliders introduced a method for fine-grained image control and editing by learning concepts (attributes/objects).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-sliders-for-fine-grained-control</guid>
+    </item>
+    <item>
+      <title>Claim-Guided Textual Backdoor Attack for Practical Applications</title>
+      <link>https://paperswithcode.com/paper/claim-guided-textual-backdoor-attack-for</link>
+      <description><![CDATA[Recent advances in natural language processing and the increased use of large language models have exposed new security vulnerabilities, such as backdoor attacks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/claim-guided-textual-backdoor-attack-for</guid>
+    </item>
+    <item>
       <title>Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba</title>
       <link>https://paperswithcode.com/paper/classification-of-gleason-grading-in-prostate</link>
       <description><![CDATA[Vision Mamba emerges as the most effective model for Gleason grade classification in histopathology images, offering a balance between accuracy and computational efficiency.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/classification-of-gleason-grading-in-prostate</guid>
+    </item>
+    <item>
+      <title>Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2</title>
+      <link>https://paperswithcode.com/paper/towards-underwater-camouflaged-object</link>
+      <description><![CDATA[Over the past decade, significant progress has been made in visual object tracking, largely due to the availability of large-scale training datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-underwater-camouflaged-object</guid>
     </item>
     <item>
       <title>CaBRNet, an open-source library for developing and evaluating Case-Based Reasoning Models</title>
@@ -135,34 +213,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/semi-supervised-cognitive-state</guid>
     </item>
     <item>
-      <title>Spacewalker: Traversing Representation Spaces for Fast Interactive Exploration and Annotation of Unstructured Data</title>
-      <link>https://paperswithcode.com/paper/spacewalker-traversing-representation-spaces</link>
-      <description><![CDATA[Unstructured data in industries such as healthcare, finance, and manufacturing presents significant challenges for efficient analysis and decision making.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/spacewalker-traversing-representation-spaces</guid>
+      <title>General Detection-based Text Line Recognition</title>
+      <link>https://paperswithcode.com/paper/general-detection-based-text-line-recognition</link>
+      <description><![CDATA[We introduce a general detection-based approach to text line recognition, be it printed (OCR) or handwritten (HTR), with Latin, Chinese, or ciphered characters.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/general-detection-based-text-line-recognition</guid>
     </item>
     <item>
-      <title>DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling</title>
-      <link>https://paperswithcode.com/paper/dalda-data-augmentation-leveraging-diffusion</link>
-      <description><![CDATA[In this paper, we present an effective data augmentation framework leveraging the Large Language Model (LLM) and Diffusion Model (DM) to tackle the challenges inherent in data-scarce scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dalda-data-augmentation-leveraging-diffusion</guid>
-    </item>
-    <item>
-      <title>TSBP: Improving Object Detection in Histology Images via Test-time Self-guided Bounding-box Propagation</title>
-      <link>https://paperswithcode.com/paper/tsbp-improving-object-detection-in-histology</link>
-      <description><![CDATA[Because of this, using a preset global threshold (e. g., 0. 5) applied to all the bounding box candidates may lead to suboptimal solutions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tsbp-improving-object-detection-in-histology</guid>
-    </item>
-    <item>
-      <title>VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</link>
-      <description><![CDATA[Due to the redundancy in LLM weights, recent research has focused on pushing weight-only quantization to extremely low-bit (even down to 2 bits).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</guid>
-    </item>
-    <item>
-      <title>Cross-lingual Speech Emotion Recognition: Humans vs. Self-Supervised Models</title>
-      <link>https://paperswithcode.com/paper/cross-lingual-speech-emotion-recognition</link>
-      <description><![CDATA[Utilizing Self-Supervised Learning (SSL) models for Speech Emotion Recognition (SER) has proven effective, yet limited research has explored cross-lingual scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-lingual-speech-emotion-recognition</guid>
+      <title>WasteGAN: Data Augmentation for Robotic Waste Sorting through Generative Adversarial Networks</title>
+      <link>https://paperswithcode.com/paper/wastegan-data-augmentation-for-robotic-waste</link>
+      <description><![CDATA[To tackle this issue, we introduce a data augmentation method based on a novel GAN architecture called wasteGAN.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wastegan-data-augmentation-for-robotic-waste</guid>
     </item>
     <item>
       <title>Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model</title>
@@ -171,40 +231,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/generative-object-insertion-in-gaussian</guid>
     </item>
     <item>
-      <title>Claim-Guided Textual Backdoor Attack for Practical Applications</title>
-      <link>https://paperswithcode.com/paper/claim-guided-textual-backdoor-attack-for</link>
-      <description><![CDATA[Recent advances in natural language processing and the increased use of large language models have exposed new security vulnerabilities, such as backdoor attacks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/claim-guided-textual-backdoor-attack-for</guid>
-    </item>
-    <item>
-      <title>MaViLS, a Benchmark Dataset for Video-to-Slide Alignment, Assessing Baseline Accuracy with a Multimodal Alignment Algorithm Leveraging Speech, OCR, and Visual Features</title>
-      <link>https://paperswithcode.com/paper/mavils-a-benchmark-dataset-for-video-to-slide</link>
-      <description><![CDATA[This paper presents a benchmark dataset for aligning lecture videos with corresponding slides and introduces a novel multimodal algorithm leveraging features from speech, text, and images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mavils-a-benchmark-dataset-for-video-to-slide</guid>
-    </item>
-    <item>
       <title>Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness</title>
       <link>https://paperswithcode.com/paper/zero-shot-detection-of-llm-generated-text</link>
       <description><![CDATA[In this paper, we identify a new feature, token cohesiveness, that is useful for zero-shot detection, and we demonstrate that LLM-generated text tends to exhibit higher token cohesiveness than human-written text.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-detection-of-llm-generated-text</guid>
     </item>
     <item>
-      <title>Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/prompt-sliders-for-fine-grained-control</link>
-      <description><![CDATA[Concept Sliders introduced a method for fine-grained image control and editing by learning concepts (attributes/objects).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-sliders-for-fine-grained-control</guid>
-    </item>
-    <item>
-      <title>SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/sdcl-students-discrepancy-informed-correction</link>
-      <description><![CDATA[Semi-supervised medical image segmentation (SSMIS) has been demonstrated the potential to mitigate the issue of limited medical labeled data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sdcl-students-discrepancy-informed-correction</guid>
+      <title>EMIT- Event-Based Masked Auto Encoding for Irregular Time Series</title>
+      <link>https://paperswithcode.com/paper/emit-event-based-masked-auto-encoding-for</link>
+      <description><![CDATA[Irregular time series, where data points are recorded at uneven intervals, are prevalent in healthcare settings, such as emergency wards where vital signs and laboratory results are captured at varying times.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/emit-event-based-masked-auto-encoding-for</guid>
     </item>
     <item>
       <title>Attention Prompting on Image for Large Vision-Language Models</title>
       <link>https://paperswithcode.com/paper/attention-prompting-on-image-for-large-vision</link>
       <description><![CDATA[To fill this gap, in this work, we propose a new prompting technique named Attention Prompting on Image, which just simply overlays a text-query-guided attention heatmap on the original input image and effectively enhances LVLM on various tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/attention-prompting-on-image-for-large-vision</guid>
+    </item>
+    <item>
+      <title>VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</link>
+      <description><![CDATA[Due to the redundancy in LLM weights, recent research has focused on pushing weight-only quantization to extremely low-bit (even down to 2 bits).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</guid>
     </item>
     <item>
       <title>Demystifying Issues, Causes and Solutions in LLM Open-Source Projects</title>
@@ -219,28 +267,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tiny-robotics-dataset-and-benchmark-for</guid>
     </item>
     <item>
+      <title>Self-attention as an attractor network: transient memories without backpropagation</title>
+      <link>https://paperswithcode.com/paper/self-attention-as-an-attractor-network</link>
+      <description><![CDATA[Transformers are one of the most successful architectures of modern neural networks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-attention-as-an-attractor-network</guid>
+    </item>
+    <item>
       <title>MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents</title>
       <link>https://paperswithcode.com/paper/moss-enabling-code-driven-evolution-and</link>
       <description><![CDATA[MOSS ensures consistency and adaptability by using a mechanism that maintains the Python context across interactions, including isolation of local variables and preservation of runtime integrity.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/moss-enabling-code-driven-evolution-and</guid>
-    </item>
-    <item>
-      <title>Aided design of bridge aesthetics based on Stable Diffusion fine-tuning</title>
-      <link>https://paperswithcode.com/paper/aided-design-of-bridge-aesthetics-based-on</link>
-      <description><![CDATA[Stable Diffusion fine-tuning technique is tried to assist bridge-type innovation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aided-design-of-bridge-aesthetics-based-on</guid>
-    </item>
-    <item>
-      <title>A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding</title>
-      <link>https://paperswithcode.com/paper/a-zero-shot-open-vocabulary-pipeline-for</link>
-      <description><![CDATA[Dialogue State Tracking (DST) is crucial for understanding user needs and executing appro- priate system actions in task-oriented dialogues.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-zero-shot-open-vocabulary-pipeline-for</guid>
-    </item>
-    <item>
-      <title>HelloBench: Evaluating Long Text Generation Capabilities of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/hellobench-evaluating-long-text-generation</link>
-      <description><![CDATA[Therefore, we introduce the Hierarchical Long Text Generation Benchmark (HelloBench), a comprehensive, in-the-wild, and open-ended benchmark to evaluate LLMs' performance in generating long text.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hellobench-evaluating-long-text-generation</guid>
     </item>
     <item>
       <title>DataGpt-SQL-7B: An Open-Source Language Model for Text-to-SQL</title>
@@ -249,64 +285,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/datagpt-sql-7b-an-open-source-language-model</guid>
     </item>
     <item>
-      <title>LTNtorch: PyTorch Implementation of Logic Tensor Networks</title>
-      <link>https://paperswithcode.com/paper/ltntorch-pytorch-implementation-of-logic</link>
-      <description><![CDATA[This makes learning by logical reasoning possible as the parameters of the model are optimized by minimizing a loss function composed of a set of logical formulas expressing facts about the learning task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ltntorch-pytorch-implementation-of-logic</guid>
+      <title>Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers</title>
+      <link>https://paperswithcode.com/paper/deep-learning-real-time-phase-retrieval-of</link>
+      <description><![CDATA[Machine learning is attracting surging interest across nearly all scientific areas by enabling the analysis of large datasets and the extraction of scientific information from incomplete data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deep-learning-real-time-phase-retrieval-of</guid>
     </item>
     <item>
-      <title>Privacy Evaluation Benchmarks for NLP Models</title>
-      <link>https://paperswithcode.com/paper/privacy-evaluation-benchmarks-for-nlp-models</link>
-      <description><![CDATA[In this paper, we present a privacy attack and defense evaluation benchmark in the field of NLP, which includes the conventional/small models and large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/privacy-evaluation-benchmarks-for-nlp-models</guid>
+      <title>Benchmarking Robustness of Endoscopic Depth Estimation with Synthetically Corrupted Data</title>
+      <link>https://paperswithcode.com/paper/benchmarking-robustness-of-endoscopic-depth</link>
+      <description><![CDATA[To tackle this issue, our study presents a benchmark for assessing the robustness of endoscopic depth estimation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-robustness-of-endoscopic-depth</guid>
     </item>
     <item>
-      <title>Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach</title>
-      <link>https://paperswithcode.com/paper/stage-wise-reward-shaping-for-acrobatic</link>
-      <description><![CDATA[As the complexity of tasks addressed through reinforcement learning (RL) increases, the definition of reward functions also has become highly complicated.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stage-wise-reward-shaping-for-acrobatic</guid>
+      <title>Exploring Hint Generation Approaches in Open-Domain Question Answering</title>
+      <link>https://paperswithcode.com/paper/exploring-hint-generation-approaches-in-open</link>
+      <description><![CDATA[We demonstrate that hints enhance the accuracy of answers more than retrieved and generated contexts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-hint-generation-approaches-in-open</guid>
     </item>
     <item>
-      <title>Self-supervised Shape Completion via Involution and Implicit Correspondences</title>
-      <link>https://paperswithcode.com/paper/self-supervised-shape-completion-via</link>
-      <description><![CDATA[3D shape completion is traditionally solved using supervised training or by distribution learning on complete shape examples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-supervised-shape-completion-via</guid>
-    </item>
-    <item>
-      <title>EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges</title>
-      <link>https://paperswithcode.com/paper/enigma-enhanced-interactive-generative-model</link>
-      <description><![CDATA[Although language model (LM) agents are demonstrating growing potential in many domains, their success in cybersecurity has been limited due to simplistic design and the lack of fundamental features for this domain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enigma-enhanced-interactive-generative-model</guid>
-    </item>
-    <item>
-      <title>CHBench: A Chinese Dataset for Evaluating Health in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/chbench-a-chinese-dataset-for-evaluating</link>
-      <description><![CDATA[With the rapid development of large language models (LLMs), assessing their performance on health-related inquiries has become increasingly essential.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chbench-a-chinese-dataset-for-evaluating</guid>
-    </item>
-    <item>
-      <title>XTRUST: On the Multilingual Trustworthiness of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/xtrust-on-the-multilingual-trustworthiness-of</link>
-      <description><![CDATA[Large language models (LLMs) have demonstrated remarkable capabilities across a range of natural language processing (NLP) tasks, capturing the attention of both practitioners and the broader public.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/xtrust-on-the-multilingual-trustworthiness-of</guid>
-    </item>
-    <item>
-      <title>In-Context Ensemble Improves Video-Language Models for Low-Level Workflow Understanding from Human Demonstrations</title>
-      <link>https://paperswithcode.com/paper/in-context-ensemble-improves-video-language</link>
-      <description><![CDATA[We explore in-context learning with video-language models for SOP generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-ensemble-improves-video-language</guid>
-    </item>
-    <item>
-      <title>iGAiVA: Integrated Generative AI and Visual Analytics in a Machine Learning Workflow for Text Classification</title>
-      <link>https://paperswithcode.com/paper/igaiva-integrated-generative-ai-and-visual</link>
-      <description><![CDATA[In developing machine learning (ML) models for text classification, one common challenge is that the collected data is often not ideally distributed, especially when new classes are introduced in response to changes of data and tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/igaiva-integrated-generative-ai-and-visual</guid>
-    </item>
-    <item>
-      <title>CDChat: A Large Multimodal Model for Remote Sensing Change Description</title>
-      <link>https://paperswithcode.com/paper/cdchat-a-large-multimodal-model-for-remote</link>
-      <description><![CDATA[In order to achieve this, we introduce a change description instruction dataset that can be utilized to finetune an LMM and provide better change descriptions for RS images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cdchat-a-large-multimodal-model-for-remote</guid>
+      <title>Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/learning-multiple-probabilistic-decisions</link>
+      <description><![CDATA[In this paper, we explore the feasibility of deriving decisions from an autoregressive world model by addressing these challenges through the formulation of multiple probabilistic hypotheses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-multiple-probabilistic-decisions</guid>
     </item>
   </channel>
 </rss>
