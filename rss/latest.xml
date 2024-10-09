@@ -7,12 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Oct 2024 21:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 09:17:04 +0000</lastBuildDate>
     <item>
-      <title>Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality</title>
-      <link>https://paperswithcode.com/paper/beyond-fvd-enhanced-evaluation-metrics-for</link>
-      <description><![CDATA[The Fr\'echet Video Distance (FVD) is a widely adopted metric for evaluating video generation distribution quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-fvd-enhanced-evaluation-metrics-for</guid>
+      <title>CAR: Controllable Autoregressive Modeling for Visual Generation</title>
+      <link>https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</link>
+      <description><![CDATA[To the best of our knowledge, we are the first to propose a control framework for pre-trained autoregressive visual generation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</guid>
     </item>
     <item>
       <title>Improved detection of discarded fish species through BoxAL active learning</title>
@@ -21,16 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improved-detection-of-discarded-fish-species</guid>
     </item>
     <item>
-      <title>CAR: Controllable Autoregressive Modeling for Visual Generation</title>
-      <link>https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</link>
-      <description><![CDATA[To the best of our knowledge, we are the first to propose a control framework for pre-trained autoregressive visual generation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</guid>
-    </item>
-    <item>
-      <title>Regression Conformal Prediction under Bias</title>
-      <link>https://paperswithcode.com/paper/regression-conformal-prediction-under-bias</link>
-      <description><![CDATA[Specifically for absolute residual and quantile-based non-conformity scores, we prove: 1) the upper bound of symmetrically adjusted interval lengths increases by $2|b|$ where $b$ is a globally applied scalar value representing bias, 2) asymmetrically adjusted interval lengths are not affected by bias, and 3) conditions when asymmetrically adjusted interval lengths are guaranteed to be smaller than symmetric ones.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/regression-conformal-prediction-under-bias</guid>
+      <title>Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality</title>
+      <link>https://paperswithcode.com/paper/beyond-fvd-enhanced-evaluation-metrics-for</link>
+      <description><![CDATA[The Fr\'echet Video Distance (FVD) is a widely adopted metric for evaluating video generation distribution quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-fvd-enhanced-evaluation-metrics-for</guid>
     </item>
     <item>
       <title>Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality</title>
@@ -45,10 +39,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/select-a-large-scale-benchmark-of-data</guid>
     </item>
     <item>
-      <title>Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality</title>
-      <link>https://paperswithcode.com/paper/preserving-multi-modal-capabilities-of-pre</link>
-      <description><![CDATA[In this paper, we propose a new method to enhance compositional understanding in pre-trained vision and language models (VLMs) without sacrificing performance in zero-shot multi-modal tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/preserving-multi-modal-capabilities-of-pre</guid>
+      <title>PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs</title>
+      <link>https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</link>
+      <description><![CDATA[Specifically, PrefixQuant identifies high-frequency outlier tokens and prefixes them in the KV cache, preventing the generation of outlier tokens during inference and simplifying quantization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</guid>
+    </item>
+    <item>
+      <title>A Strategy for Label Alignment in Deep Neural Networks</title>
+      <link>https://paperswithcode.com/paper/a-strategy-for-label-alignment-in-deep-neural</link>
+      <description><![CDATA[One recent research demonstrated successful application of the label alignment property for unsupervised domain adaptation in a linear regression settings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-strategy-for-label-alignment-in-deep-neural</guid>
+    </item>
+    <item>
+      <title>FreSh: Frequency Shifting for Accelerated Neural Representation Learning</title>
+      <link>https://paperswithcode.com/paper/fresh-frequency-shifting-for-accelerated</link>
+      <description><![CDATA[Implicit Neural Representations (INRs) have recently gained attention as a powerful approach for continuously representing signals such as images, videos, and 3D shapes using multilayer perceptrons (MLPs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fresh-frequency-shifting-for-accelerated</guid>
+    </item>
+    <item>
+      <title>Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models</title>
+      <link>https://paperswithcode.com/paper/forgetting-curve-a-reliable-method-for</link>
+      <description><![CDATA[We provide an extensive survey for limitations in this work and propose a new method called forgetting curve to measure the memorization capability of long-context models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/forgetting-curve-a-reliable-method-for</guid>
+    </item>
+    <item>
+      <title>DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects</title>
+      <link>https://paperswithcode.com/paper/dreamsat-towards-a-general-3d-model-for-novel</link>
+      <description><![CDATA[In this work, we explore the generalization abilities of these reconstruction techniques, aiming to avoid the necessity of retraining for each new scene, by presenting a novel approach to 3D spacecraft reconstruction from single-view images, DreamSat, by fine-tuning the Zero123 XL, a state-of-the-art single-view reconstruction model, on a high-quality dataset of 190 high-quality spacecraft models and integrating it into the DreamGaussian framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamsat-towards-a-general-3d-model-for-novel</guid>
+    </item>
+    <item>
+      <title>PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion</title>
+      <link>https://paperswithcode.com/paper/prfusion-toward-effective-and-robust-multi</link>
+      <description><![CDATA[We propose two multi-modal place recognition models, namely PRFusion and PRFusion++.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prfusion-toward-effective-and-robust-multi</guid>
+    </item>
+    <item>
+      <title>MIBench: A Comprehensive Benchmark for Model Inversion Attack and Defense</title>
+      <link>https://paperswithcode.com/paper/mibench-a-comprehensive-benchmark-for-model</link>
+      <description><![CDATA[Model Inversion (MI) attacks aim at leveraging the output information of target models to reconstruct privacy-sensitive training data, raising widespread concerns on privacy threats of Deep Neural Networks (DNNs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mibench-a-comprehensive-benchmark-for-model</guid>
     </item>
     <item>
       <title>ProtoNAM: Prototypical Neural Additive Models for Interpretable Deep Tabular Learning</title>
@@ -63,52 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/seppo-semi-policy-preference-optimization-for</guid>
     </item>
     <item>
-      <title>TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models</title>
-      <link>https://paperswithcode.com/paper/tunevlseg-prompt-tuning-benchmark-for-vision</link>
-      <description><![CDATA[This work presents an open-source benchmarking framework, TuneVLSeg, to integrate various unimodal and multimodal prompt tuning techniques into VLSMs, making prompt tuning usable for downstream segmentation datasets with any number of classes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tunevlseg-prompt-tuning-benchmark-for-vision</guid>
-    </item>
-    <item>
-      <title>MIBench: A Comprehensive Benchmark for Model Inversion Attack and Defense</title>
-      <link>https://paperswithcode.com/paper/mibench-a-comprehensive-benchmark-for-model</link>
-      <description><![CDATA[Model Inversion (MI) attacks aim at leveraging the output information of target models to reconstruct privacy-sensitive training data, raising widespread concerns on privacy threats of Deep Neural Networks (DNNs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mibench-a-comprehensive-benchmark-for-model</guid>
-    </item>
-    <item>
-      <title>PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion</title>
-      <link>https://paperswithcode.com/paper/prfusion-toward-effective-and-robust-multi</link>
-      <description><![CDATA[We propose two multi-modal place recognition models, namely PRFusion and PRFusion++.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prfusion-toward-effective-and-robust-multi</guid>
-    </item>
-    <item>
-      <title>RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection</title>
-      <link>https://paperswithcode.com/paper/roweeder-unsupervised-weed-mapping-through</link>
-      <description><![CDATA[Precision agriculture relies heavily on effective weed management to ensure robust crop yields.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/roweeder-unsupervised-weed-mapping-through</guid>
-    </item>
-    <item>
-      <title>Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia</title>
-      <link>https://paperswithcode.com/paper/fine-tuning-clip-s-last-visual-projector-a</link>
-      <description><![CDATA[We consider the problem of adapting a contrastively pretrained vision-language model like CLIP (Radford et al., 2021) for few-shot classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-clip-s-last-visual-projector-a</guid>
-    </item>
-    <item>
-      <title>Forgetting Curve: A Reliable Method for Evaluating Memorization Capability for Long-context Models</title>
-      <link>https://paperswithcode.com/paper/forgetting-curve-a-reliable-method-for</link>
-      <description><![CDATA[We provide an extensive survey for limitations in this work and propose a new method called forgetting curve to measure the memorization capability of long-context models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/forgetting-curve-a-reliable-method-for</guid>
-    </item>
-    <item>
-      <title>PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs</title>
-      <link>https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</link>
-      <description><![CDATA[Specifically, PrefixQuant identifies high-frequency outlier tokens and prefixes them in the KV cache, preventing the generation of outlier tokens during inference and simplifying quantization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</guid>
-    </item>
-    <item>
-      <title>A Strategy for Label Alignment in Deep Neural Networks</title>
-      <link>https://paperswithcode.com/paper/a-strategy-for-label-alignment-in-deep-neural</link>
-      <description><![CDATA[One recent research demonstrated successful application of the label alignment property for unsupervised domain adaptation in a linear regression settings.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-strategy-for-label-alignment-in-deep-neural</guid>
+      <title>Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality</title>
+      <link>https://paperswithcode.com/paper/preserving-multi-modal-capabilities-of-pre</link>
+      <description><![CDATA[In this paper, we propose a new method to enhance compositional understanding in pre-trained vision and language models (VLMs) without sacrificing performance in zero-shot multi-modal tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/preserving-multi-modal-capabilities-of-pre</guid>
     </item>
     <item>
       <title>PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners</title>
@@ -117,10 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/predformer-transformers-are-effective-spatial</guid>
     </item>
     <item>
-      <title>FreSh: Frequency Shifting for Accelerated Neural Representation Learning</title>
-      <link>https://paperswithcode.com/paper/fresh-frequency-shifting-for-accelerated</link>
-      <description><![CDATA[Implicit Neural Representations (INRs) have recently gained attention as a powerful approach for continuously representing signals such as images, videos, and 3D shapes using multilayer perceptrons (MLPs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fresh-frequency-shifting-for-accelerated</guid>
+      <title>HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation</title>
+      <link>https://paperswithcode.com/paper/hyperinf-unleashing-the-hyperpower-of-the</link>
+      <description><![CDATA[The family of hyperpower methods are well-known for their rigorous convergence guarantees on matrix inverse approximation, while the matrix multiplication operation can involve intractable memory and computation costs on large-scale models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperinf-unleashing-the-hyperpower-of-the</guid>
     </item>
     <item>
       <title>Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration</title>
@@ -129,16 +117,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/learning-efficient-and-effective-trajectories</guid>
     </item>
     <item>
-      <title>HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation</title>
-      <link>https://paperswithcode.com/paper/hyperinf-unleashing-the-hyperpower-of-the</link>
-      <description><![CDATA[The family of hyperpower methods are well-known for their rigorous convergence guarantees on matrix inverse approximation, while the matrix multiplication operation can involve intractable memory and computation costs on large-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hyperinf-unleashing-the-hyperpower-of-the</guid>
+      <title>TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles</title>
+      <link>https://paperswithcode.com/paper/turtlebench-evaluating-top-language-models</link>
+      <description><![CDATA[This approach allows for the relatively dynamic generation of evaluation datasets, mitigating the risk of model cheating while aligning assessments more closely with genuine user needs for reasoning capabilities, thus enhancing the reliability of evaluations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/turtlebench-evaluating-top-language-models</guid>
     </item>
     <item>
-      <title>DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects</title>
-      <link>https://paperswithcode.com/paper/dreamsat-towards-a-general-3d-model-for-novel</link>
-      <description><![CDATA[In this work, we explore the generalization abilities of these reconstruction techniques, aiming to avoid the necessity of retraining for each new scene, by presenting a novel approach to 3D spacecraft reconstruction from single-view images, DreamSat, by fine-tuning the Zero123 XL, a state-of-the-art single-view reconstruction model, on a high-quality dataset of 190 high-quality spacecraft models and integrating it into the DreamGaussian framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dreamsat-towards-a-general-3d-model-for-novel</guid>
+      <title>Regression Conformal Prediction under Bias</title>
+      <link>https://paperswithcode.com/paper/regression-conformal-prediction-under-bias</link>
+      <description><![CDATA[Specifically for absolute residual and quantile-based non-conformity scores, we prove: 1) the upper bound of symmetrically adjusted interval lengths increases by $2|b|$ where $b$ is a globally applied scalar value representing bias, 2) asymmetrically adjusted interval lengths are not affected by bias, and 3) conditions when asymmetrically adjusted interval lengths are guaranteed to be smaller than symmetric ones.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/regression-conformal-prediction-under-bias</guid>
+    </item>
+    <item>
+      <title>Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia</title>
+      <link>https://paperswithcode.com/paper/fine-tuning-clip-s-last-visual-projector-a</link>
+      <description><![CDATA[We consider the problem of adapting a contrastively pretrained vision-language model like CLIP (Radford et al., 2021) for few-shot classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-tuning-clip-s-last-visual-projector-a</guid>
+    </item>
+    <item>
+      <title>RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection</title>
+      <link>https://paperswithcode.com/paper/roweeder-unsupervised-weed-mapping-through</link>
+      <description><![CDATA[Precision agriculture relies heavily on effective weed management to ensure robust crop yields.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/roweeder-unsupervised-weed-mapping-through</guid>
+    </item>
+    <item>
+      <title>TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models</title>
+      <link>https://paperswithcode.com/paper/tunevlseg-prompt-tuning-benchmark-for-vision</link>
+      <description><![CDATA[This work presents an open-source benchmarking framework, TuneVLSeg, to integrate various unimodal and multimodal prompt tuning techniques into VLSMs, making prompt tuning usable for downstream segmentation datasets with any number of classes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tunevlseg-prompt-tuning-benchmark-for-vision</guid>
+    </item>
+    <item>
+      <title>$\texttt{dattri}$: A Library for Efficient Data Attribution</title>
+      <link>https://paperswithcode.com/paper/texttt-dattri-a-library-for-efficient-data</link>
+      <description><![CDATA[Using the developed $\texttt{dattri}$ library, we are able to perform a comprehensive and fair benchmark analysis across a wide range of data attribution methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/texttt-dattri-a-library-for-efficient-data</guid>
+    </item>
+    <item>
+      <title>SONAR: A Synthetic AI-Audio Detection Framework~and Benchmark</title>
+      <link>https://paperswithcode.com/paper/sonar-a-synthetic-ai-audio-detection</link>
+      <description><![CDATA[In this paper, we introduce SONAR, a synthetic AI-Audio Detection Framework and Benchmark, aiming to provide a comprehensive evaluation for distinguishing cutting-edge AI-synthesized auditory content.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sonar-a-synthetic-ai-audio-detection</guid>
+    </item>
+    <item>
+      <title>Optimising for the Unknown: Domain Alignment for Cephalometric Landmark Detection</title>
+      <link>https://paperswithcode.com/paper/optimising-for-the-unknown-domain-alignment</link>
+      <description><![CDATA[Cephalometric Landmark Detection is the process of identifying key areas for cephalometry.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/optimising-for-the-unknown-domain-alignment</guid>
+    </item>
+    <item>
+      <title>Data Distribution Valuation</title>
+      <link>https://paperswithcode.com/paper/data-distribution-valuation</link>
+      <description><![CDATA[Data valuation is a class of techniques for quantitatively assessing the value of data for applications like pricing in data marketplaces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-distribution-valuation</guid>
+    </item>
+    <item>
+      <title>Leveraging Large Language Models for Suicide Detection on Social Media with Limited Labels</title>
+      <link>https://paperswithcode.com/paper/leveraging-large-language-models-for-suicide</link>
+      <description><![CDATA[Our analysis shows that the choice of LLMs affects the prompting performance, with larger models providing better accuracy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-large-language-models-for-suicide</guid>
+    </item>
+    <item>
+      <title>MVP-Bench: Can Large Vision--Language Models Conduct Multi-level Visual Perception Like Humans?</title>
+      <link>https://paperswithcode.com/paper/mvp-bench-can-large-vision-language-models</link>
+      <description><![CDATA[Furthermore, the performance gap between natural and manipulated images indicates that current LVLMs do not generalize in understanding the visual semantics of synthetic images as humans do.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mvp-bench-can-large-vision-language-models</guid>
     </item>
     <item>
       <title>CAPEEN: Image Captioning with Early Exits and Knowledge Distillation</title>
@@ -153,16 +195,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/multi-tiered-self-contrastive-learning-for</guid>
     </item>
     <item>
-      <title>MVP-Bench: Can Large Vision--Language Models Conduct Multi-level Visual Perception Like Humans?</title>
-      <link>https://paperswithcode.com/paper/mvp-bench-can-large-vision-language-models</link>
-      <description><![CDATA[Furthermore, the performance gap between natural and manipulated images indicates that current LVLMs do not generalize in understanding the visual semantics of synthetic images as humans do.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mvp-bench-can-large-vision-language-models</guid>
-    </item>
-    <item>
-      <title>Ordinal Preference Optimization: Aligning Human Preferences via NDCG</title>
-      <link>https://paperswithcode.com/paper/ordinal-preference-optimization-aligning</link>
-      <description><![CDATA[In this work, we propose a novel listwise approach named Ordinal Preference Optimization (OPO), which employs the Normalized Discounted Cumulative Gain (NDCG), a widely-used ranking metric, to better utilize relative proximity within ordinal multiple responses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ordinal-preference-optimization-aligning</guid>
+      <title>AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation</title>
+      <link>https://paperswithcode.com/paper/adaptdiff-cross-modality-domain-adaptation</link>
+      <description><![CDATA[Subsequently, we sample on the target domain with binary vessel masks from the source domain to get paired data, i. e., target domain synthetic images conditioned on the binary vessel map.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adaptdiff-cross-modality-domain-adaptation</guid>
     </item>
     <item>
       <title>Algorithmic Capabilities of Random Transformers</title>
@@ -177,22 +213,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/interpret-your-decision-logical-reasoning</guid>
     </item>
     <item>
-      <title>Leveraging Large Language Models for Suicide Detection on Social Media with Limited Labels</title>
-      <link>https://paperswithcode.com/paper/leveraging-large-language-models-for-suicide</link>
-      <description><![CDATA[Our analysis shows that the choice of LLMs affects the prompting performance, with larger models providing better accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-large-language-models-for-suicide</guid>
-    </item>
-    <item>
-      <title>Multimodal 3D Fusion and In-Situ Learning for Spatially Aware AI</title>
-      <link>https://paperswithcode.com/paper/multimodal-3d-fusion-and-in-situ-learning-for</link>
-      <description><![CDATA[Seamless integration of virtual and physical worlds in augmented reality benefits from the system semantically "understanding" the physical environment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-3d-fusion-and-in-situ-learning-for</guid>
-    </item>
-    <item>
-      <title>Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion</title>
-      <link>https://paperswithcode.com/paper/enhancing-3d-human-pose-estimation-amidst</link>
-      <description><![CDATA[In the field of 3D Human Pose Estimation from monocular videos, the presence of diverse occlusion types presents a formidable challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-3d-human-pose-estimation-amidst</guid>
+      <title>TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting</title>
+      <link>https://paperswithcode.com/paper/timebridge-non-stationarity-matters-for-long</link>
+      <description><![CDATA[Eliminating non-stationarity is essential for avoiding spurious regressions and capturing local dependencies in short-term modeling, while preserving it is crucial for revealing long-term cointegration across variates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/timebridge-non-stationarity-matters-for-long</guid>
     </item>
     <item>
       <title>MindScope: Exploring cognitive biases in large language models through Multi-Agent Systems</title>
@@ -201,52 +225,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mindscope-exploring-cognitive-biases-in-large</guid>
     </item>
     <item>
-      <title>Optimising for the Unknown: Domain Alignment for Cephalometric Landmark Detection</title>
-      <link>https://paperswithcode.com/paper/optimising-for-the-unknown-domain-alignment</link>
-      <description><![CDATA[Cephalometric Landmark Detection is the process of identifying key areas for cephalometry.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/optimising-for-the-unknown-domain-alignment</guid>
-    </item>
-    <item>
-      <title>TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/timebridge-non-stationarity-matters-for-long</link>
-      <description><![CDATA[Eliminating non-stationarity is essential for avoiding spurious regressions and capturing local dependencies in short-term modeling, while preserving it is crucial for revealing long-term cointegration across variates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/timebridge-non-stationarity-matters-for-long</guid>
-    </item>
-    <item>
-      <title>Data Distribution Valuation</title>
-      <link>https://paperswithcode.com/paper/data-distribution-valuation</link>
-      <description><![CDATA[Data valuation is a class of techniques for quantitatively assessing the value of data for applications like pricing in data marketplaces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-distribution-valuation</guid>
-    </item>
-    <item>
-      <title>AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation</title>
-      <link>https://paperswithcode.com/paper/adaptdiff-cross-modality-domain-adaptation</link>
-      <description><![CDATA[Subsequently, we sample on the target domain with binary vessel masks from the source domain to get paired data, i. e., target domain synthetic images conditioned on the binary vessel map.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adaptdiff-cross-modality-domain-adaptation</guid>
-    </item>
-    <item>
-      <title>$\texttt{dattri}$: A Library for Efficient Data Attribution</title>
-      <link>https://paperswithcode.com/paper/texttt-dattri-a-library-for-efficient-data</link>
-      <description><![CDATA[Using the developed $\texttt{dattri}$ library, we are able to perform a comprehensive and fair benchmark analysis across a wide range of data attribution methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/texttt-dattri-a-library-for-efficient-data</guid>
-    </item>
-    <item>
-      <title>SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference</title>
-      <link>https://paperswithcode.com/paper/sparsevlm-visual-token-sparsification-for</link>
-      <description><![CDATA[In vision-language models (VLMs), visual tokens usually consume a significant amount of computational overhead, despite their sparser information density compared to text tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sparsevlm-visual-token-sparsification-for</guid>
-    </item>
-    <item>
-      <title>DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs</title>
-      <link>https://paperswithcode.com/paper/dadee-unsupervised-domain-adaptation-in-early</link>
-      <description><![CDATA[Experiments on tasks such as sentiment analysis, entailment classification, and natural language inference demonstrate that DADEE consistently outperforms not only early exit methods but also various domain adaptation methods under domain shift scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dadee-unsupervised-domain-adaptation-in-early</guid>
-    </item>
-    <item>
-      <title>SONAR: A Synthetic AI-Audio Detection Framework~and Benchmark</title>
-      <link>https://paperswithcode.com/paper/sonar-a-synthetic-ai-audio-detection</link>
-      <description><![CDATA[In this paper, we introduce SONAR, a synthetic AI-Audio Detection Framework and Benchmark, aiming to provide a comprehensive evaluation for distinguishing cutting-edge AI-synthesized auditory content.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sonar-a-synthetic-ai-audio-detection</guid>
+      <title>BrainCodec: Neural fMRI codec for the decoding of cognitive brain states</title>
+      <link>https://paperswithcode.com/paper/braincodec-neural-fmri-codec-for-the-decoding</link>
+      <description><![CDATA[Recently, leveraging big data in deep learning has led to significant performance improvements, as confirmed in applications like mental state decoding using fMRI data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/braincodec-neural-fmri-codec-for-the-decoding</guid>
     </item>
     <item>
       <title>Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF</title>
@@ -255,10 +237,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/regressing-the-relative-future-efficient</guid>
     </item>
     <item>
-      <title>BrainCodec: Neural fMRI codec for the decoding of cognitive brain states</title>
-      <link>https://paperswithcode.com/paper/braincodec-neural-fmri-codec-for-the-decoding</link>
-      <description><![CDATA[Recently, leveraging big data in deep learning has led to significant performance improvements, as confirmed in applications like mental state decoding using fMRI data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/braincodec-neural-fmri-codec-for-the-decoding</guid>
+      <title>Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion</title>
+      <link>https://paperswithcode.com/paper/enhancing-3d-human-pose-estimation-amidst</link>
+      <description><![CDATA[In the field of 3D Human Pose Estimation from monocular videos, the presence of diverse occlusion types presents a formidable challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-3d-human-pose-estimation-amidst</guid>
+    </item>
+    <item>
+      <title>Multimodal 3D Fusion and In-Situ Learning for Spatially Aware AI</title>
+      <link>https://paperswithcode.com/paper/multimodal-3d-fusion-and-in-situ-learning-for</link>
+      <description><![CDATA[Seamless integration of virtual and physical worlds in augmented reality benefits from the system semantically "understanding" the physical environment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-3d-fusion-and-in-situ-learning-for</guid>
+    </item>
+    <item>
+      <title>Ordinal Preference Optimization: Aligning Human Preferences via NDCG</title>
+      <link>https://paperswithcode.com/paper/ordinal-preference-optimization-aligning</link>
+      <description><![CDATA[In this work, we propose a novel listwise approach named Ordinal Preference Optimization (OPO), which employs the Normalized Discounted Cumulative Gain (NDCG), a widely-used ranking metric, to better utilize relative proximity within ordinal multiple responses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ordinal-preference-optimization-aligning</guid>
+    </item>
+    <item>
+      <title>DAdEE: Unsupervised Domain Adaptation in Early Exit PLMs</title>
+      <link>https://paperswithcode.com/paper/dadee-unsupervised-domain-adaptation-in-early</link>
+      <description><![CDATA[Experiments on tasks such as sentiment analysis, entailment classification, and natural language inference demonstrate that DADEE consistently outperforms not only early exit methods but also various domain adaptation methods under domain shift scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dadee-unsupervised-domain-adaptation-in-early</guid>
+    </item>
+    <item>
+      <title>SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference</title>
+      <link>https://paperswithcode.com/paper/sparsevlm-visual-token-sparsification-for</link>
+      <description><![CDATA[In vision-language models (VLMs), visual tokens usually consume a significant amount of computational overhead, despite their sparser information density compared to text tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sparsevlm-visual-token-sparsification-for</guid>
     </item>
     <item>
       <title>IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis</title>
@@ -273,28 +279,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/neuron-level-sequential-editing-for-large</guid>
     </item>
     <item>
-      <title>Is Score Matching Suitable for Estimating Point Processes?</title>
-      <link>https://paperswithcode.com/paper/is-score-matching-suitable-for-estimating</link>
-      <description><![CDATA[Score matching estimators have gained widespread attention in recent years partly because they are free from calculating the integral of normalizing constant, thereby addressing the computational challenges in maximum likelihood estimation (MLE).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/is-score-matching-suitable-for-estimating</guid>
-    </item>
-    <item>
-      <title>CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints</title>
-      <link>https://paperswithcode.com/paper/cs4-measuring-the-creativity-of-large</link>
-      <description><![CDATA[Additionally, our experiments on OLMo suggest that Learning from Human Feedback (LHF) can help LLMs select better stories from their training data but has limited influence in boosting LLMs' ability to produce creative stories that are unseen in the training corpora.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cs4-measuring-the-creativity-of-large</guid>
-    </item>
-    <item>
-      <title>DB-SAM: Delving into High Quality Universal Medical Image Segmentation</title>
-      <link>https://paperswithcode.com/paper/db-sam-delving-into-high-quality-universal</link>
-      <description><![CDATA[On 21 3D medical image segmentation tasks, our proposed DB-SAM achieves an absolute gain of 8. 8%, compared to a recent medical SAM adapter in the literature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/db-sam-delving-into-high-quality-universal</guid>
-    </item>
-    <item>
-      <title>Cross Resolution Encoding-Decoding For Detection Transformers</title>
-      <link>https://paperswithcode.com/paper/cross-resolution-encoding-decoding-for</link>
-      <description><![CDATA[In this paper, we propose a Cross-Resolution Encoding-Decoding (CRED) mechanism that allows DETR to achieve the accuracy of high-resolution detection while having the speed of low-resolution detection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-resolution-encoding-decoding-for</guid>
+      <title>Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/distillation-free-one-step-diffusion-for-real</link>
+      <description><![CDATA[However, these methods incur substantial training costs and may constrain the performance of the student model by the teacher's limitations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distillation-free-one-step-diffusion-for-real</guid>
     </item>
     <item>
       <title>Improving Temporal Link Prediction via Temporal Walk Matrix Projection</title>
@@ -303,10 +291,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/improving-temporal-link-prediction-via</guid>
     </item>
     <item>
-      <title>TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions</title>
-      <link>https://paperswithcode.com/paper/tubench-benchmarking-large-vision-language</link>
-      <description><![CDATA[Large Vision-Language Models (LVLMs) have achieved remarkable progress on visual perception and linguistic interpretation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tubench-benchmarking-large-vision-language</guid>
+      <title>Cross Resolution Encoding-Decoding For Detection Transformers</title>
+      <link>https://paperswithcode.com/paper/cross-resolution-encoding-decoding-for</link>
+      <description><![CDATA[In this paper, we propose a Cross-Resolution Encoding-Decoding (CRED) mechanism that allows DETR to achieve the accuracy of high-resolution detection while having the speed of low-resolution detection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cross-resolution-encoding-decoding-for</guid>
+    </item>
+    <item>
+      <title>DB-SAM: Delving into High Quality Universal Medical Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/db-sam-delving-into-high-quality-universal</link>
+      <description><![CDATA[On 21 3D medical image segmentation tasks, our proposed DB-SAM achieves an absolute gain of 8. 8%, compared to a recent medical SAM adapter in the literature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/db-sam-delving-into-high-quality-universal</guid>
+    </item>
+    <item>
+      <title>Test-Time Adaptation for Keypoint-Based Spacecraft Pose Estimation Based on Predicted-View Synthesis</title>
+      <link>https://paperswithcode.com/paper/test-time-adaptation-for-keypoint-based</link>
+      <description><![CDATA[Due to the difficulty of replicating the real conditions during training, supervised algorithms for spacecraft pose estimation experience a drop in performance when trained on synthetic data and applied to real operational data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/test-time-adaptation-for-keypoint-based</guid>
     </item>
   </channel>
 </rss>
