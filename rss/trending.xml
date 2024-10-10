@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 21:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 09:16:46 +0000</lastBuildDate>
     <item>
       <title>Depth Pro: Sharp Monocular Metric Depth in Less Than a Second</title>
       <link>https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</guid>
     </item>
     <item>
+      <title>Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration</title>
+      <link>https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</link>
+      <description><![CDATA[Photo-realistic image restoration algorithms are typically evaluated by distortion measures (e. g., PSNR, SSIM) and by perceptual quality measures (e. g., FID, NIQE), where the desire is to attain the lowest possible distortion without compromising on perceptual quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</guid>
+    </item>
+    <item>
       <title>VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models</title>
       <link>https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</link>
       <description><![CDATA[Due to the redundancy in LLM weights, recent research has focused on pushing weight-only quantization to extremely low-bit (even down to 2 bits).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</guid>
-    </item>
-    <item>
-      <title>MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages</title>
-      <link>https://paperswithcode.com/paper/mosel-950000-hours-of-speech-data-for-open</link>
-      <description><![CDATA[The rise of foundation models (FMs), coupled with regulatory efforts addressing their risks and impacts, has sparked significant interest in open-source models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mosel-950000-hours-of-speech-data-for-open</guid>
     </item>
     <item>
       <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
@@ -39,58 +39,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-proprioceptive-visual-learning-with</guid>
     </item>
     <item>
-      <title>TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices</title>
-      <link>https://paperswithcode.com/paper/tpi-llm-serving-70b-scale-llms-efficiently-on</link>
-      <description><![CDATA[In this paper, we argue that tensor parallelism can be more effective than pipeline on low-resource devices, and present a compute- and memory-efficient tensor parallel inference system, named TPI-LLM, to serve 70B-scale models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tpi-llm-serving-70b-scale-llms-efficiently-on</guid>
-    </item>
-    <item>
-      <title>Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration</title>
-      <link>https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</link>
-      <description><![CDATA[Photo-realistic image restoration algorithms are typically evaluated by distortion measures (e. g., PSNR, SSIM) and by perceptual quality measures (e. g., FID, NIQE), where the desire is to attain the lowest possible distortion without compromising on perceptual quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</guid>
-    </item>
-    <item>
-      <title>SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</title>
-      <link>https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</link>
-      <description><![CDATA[Although quantization has proven to be an effective method for accelerating model inference, existing quantization methods primarily focus on optimizing the linear layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</guid>
-    </item>
-    <item>
-      <title>One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion</title>
-      <link>https://paperswithcode.com/paper/one-policy-to-run-them-all-an-end-to-end</link>
-      <description><![CDATA[Our experiments show that URMA can learn a locomotion policy on multiple embodiments that can be easily transferred to unseen robot platforms in simulation and the real world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-policy-to-run-them-all-an-end-to-end</guid>
-    </item>
-    <item>
-      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
-      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
-      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
-    </item>
-    <item>
-      <title>MiraGe: Editable 2D Images using Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/mirage-editable-2d-images-using-gaussian</link>
-      <description><![CDATA[Our approach improves the rendering quality and allows realistic image modifications, including human-inspired perception of photos in the 3D world.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mirage-editable-2d-images-using-gaussian</guid>
-    </item>
-    <item>
-      <title>VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment</title>
-      <link>https://paperswithcode.com/paper/vineppo-unlocking-rl-potential-for-llm</link>
-      <description><![CDATA[In this work, we systematically evaluate the efficacy of value networks and reveal their significant shortcomings in reasoning-heavy LLM tasks, showing that they barely outperform a random baseline when comparing alternative steps.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vineppo-unlocking-rl-potential-for-llm</guid>
-    </item>
-    <item>
-      <title>OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer</title>
-      <link>https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</link>
-      <description><![CDATA[Recent advancements in Large Language Models (LLMs) have expanded their capabilities to multimodal contexts, including comprehensive video understanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</guid>
-    </item>
-    <item>
-      <title>Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?</title>
-      <link>https://paperswithcode.com/paper/fira-can-we-achieve-full-rank-training-of</link>
-      <description><![CDATA[In this way, we can preserve the low-rank constraint in the optimizer while achieving full-rank training for better performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fira-can-we-achieve-full-rank-training-of</guid>
+      <title>LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs</title>
+      <link>https://paperswithcode.com/paper/longwriter-unleashing-10000-word-generation</link>
+      <description><![CDATA[By incorporating this dataset into model training, we successfully scale the output length of existing models to over 10, 000 words while maintaining output quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longwriter-unleashing-10000-word-generation</guid>
     </item>
     <item>
       <title>A Multi-Level Superoptimizer for Tensor Programs</title>
@@ -99,34 +51,82 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</guid>
     </item>
     <item>
-      <title>3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection</title>
-      <link>https://paperswithcode.com/paper/3dgs-det-empower-3d-gaussian-splatting-with</link>
-      <description><![CDATA[Neural Radiance Fields (NeRF) are widely used for novel-view synthesis and have been adapted for 3D Object Detection (3DOD), offering a promising approach to 3DOD through view-synthesis representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3dgs-det-empower-3d-gaussian-splatting-with</guid>
+      <title>SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</title>
+      <link>https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</link>
+      <description><![CDATA[Although quantization has proven to be an effective method for accelerating model inference, existing quantization methods primarily focus on optimizing the linear layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</guid>
     </item>
     <item>
-      <title>CAX: Cellular Automata Accelerated in JAX</title>
-      <link>https://paperswithcode.com/paper/cax-cellular-automata-accelerated-in-jax</link>
-      <description><![CDATA[Cellular automata have become a cornerstone for investigating emergence and self-organization across diverse scientific disciplines, spanning neuroscience, artificial life, and theoretical physics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cax-cellular-automata-accelerated-in-jax</guid>
+      <title>LLaMA-Omni: Seamless Speech Interaction with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llama-omni-seamless-speech-interaction-with</link>
+      <description><![CDATA[We build our model based on the latest Llama-3. 1-8B-Instruct model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-omni-seamless-speech-interaction-with</guid>
     </item>
     <item>
-      <title>Breaking reCAPTCHAv2</title>
-      <link>https://paperswithcode.com/paper/breaking-recaptchav2</link>
-      <description><![CDATA[Our work examines the efficacy of employing advanced machine learning methods to solve captchas from Google's reCAPTCHAv2 system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/breaking-recaptchav2</guid>
+      <title>Diffusion Models are Evolutionary Algorithms</title>
+      <link>https://paperswithcode.com/paper/diffusion-models-are-evolutionary-algorithms</link>
+      <description><![CDATA[In a convergence of machine learning and biology, we reveal that diffusion models are evolutionary algorithms.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-are-evolutionary-algorithms</guid>
     </item>
     <item>
-      <title>Dynamic Diffusion Transformer</title>
-      <link>https://paperswithcode.com/paper/dynamic-diffusion-transformer</link>
-      <description><![CDATA[In addition, we design a Spatial-wise Dynamic Token (SDT) strategy to avoid redundant computation at unnecessary spatial locations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-diffusion-transformer</guid>
+      <title>MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages</title>
+      <link>https://paperswithcode.com/paper/mosel-950000-hours-of-speech-data-for-open</link>
+      <description><![CDATA[The rise of foundation models (FMs), coupled with regulatory efforts addressing their risks and impacts, has sparked significant interest in open-source models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mosel-950000-hours-of-speech-data-for-open</guid>
     </item>
     <item>
       <title>AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation</title>
       <link>https://paperswithcode.com/paper/awt-transferring-vision-language-models-via</link>
       <description><![CDATA[Pre-trained vision-language models (VLMs) have shown impressive results in various visual classification tasks.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/awt-transferring-vision-language-models-via</guid>
+    </item>
+    <item>
+      <title>Text2SQL is Not Enough: Unifying AI and Databases with TAG</title>
+      <link>https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</link>
+      <description><![CDATA[Such systems would allow users to leverage the powerful reasoning and knowledge capabilities of language models (LMs) alongside the scalable computational power of data management systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</guid>
+    </item>
+    <item>
+      <title>Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation</title>
+      <link>https://paperswithcode.com/paper/resolving-multi-condition-confusion-for</link>
+      <description><![CDATA[Personalized text-to-image generation methods can generate customized images based on the reference images, which have garnered wide research interest.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/resolving-multi-condition-confusion-for</guid>
+    </item>
+    <item>
+      <title>PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs</title>
+      <link>https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</link>
+      <description><![CDATA[Specifically, PrefixQuant identifies high-frequency outlier tokens and prefixes them in the KV cache, preventing the generation of outlier tokens during inference and simplifying quantization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</guid>
+    </item>
+    <item>
+      <title>How to Train Long-Context Language Models (Effectively)</title>
+      <link>https://paperswithcode.com/paper/how-to-train-long-context-language-models</link>
+      <description><![CDATA[We study continued training and supervised fine-tuning (SFT) of a language model (LM) to make effective use of long-context information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-to-train-long-context-language-models</guid>
+    </item>
+    <item>
+      <title>FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry</title>
+      <link>https://paperswithcode.com/paper/fast-livo2-fast-direct-lidar-inertial-visual</link>
+      <description><![CDATA[The fusion of both visual and LiDAR measurements is based on a single unified voxel map where the LiDAR module constructs the geometric structure for registering new LiDAR scans and the visual module attaches image patches to the LiDAR points.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-livo2-fast-direct-lidar-inertial-visual</guid>
+    </item>
+    <item>
+      <title>CAR: Controllable Autoregressive Modeling for Visual Generation</title>
+      <link>https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</link>
+      <description><![CDATA[To the best of our knowledge, we are the first to propose a control framework for pre-trained autoregressive visual generation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</guid>
+    </item>
+    <item>
+      <title>Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models</title>
+      <link>https://paperswithcode.com/paper/unraveling-cross-modality-knowledge-conflict</link>
+      <description><![CDATA[Specifically, using LLaVA-34B, our proposed dynamic contrastive decoding improves an average accuracy of 2. 24%.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unraveling-cross-modality-knowledge-conflict</guid>
+    </item>
+    <item>
+      <title>Breaking reCAPTCHAv2</title>
+      <link>https://paperswithcode.com/paper/breaking-recaptchav2</link>
+      <description><![CDATA[Our work examines the efficacy of employing advanced machine learning methods to solve captchas from Google's reCAPTCHAv2 system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/breaking-recaptchav2</guid>
     </item>
   </channel>
 </rss>
