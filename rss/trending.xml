@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 09:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 21:12:04 +0000</lastBuildDate>
+    <item>
+      <title>Aria: An Open Multimodal Native Mixture-of-Experts Model</title>
+      <link>https://paperswithcode.com/paper/aria-an-open-multimodal-native-mixture-of</link>
+      <description><![CDATA[Information comes in diverse modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aria-an-open-multimodal-native-mixture-of</guid>
+    </item>
     <item>
       <title>Depth Pro: Sharp Monocular Metric Depth in Less Than a Second</title>
       <link>https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</link>
       <description><![CDATA[We present a foundation model for zero-shot metric monocular depth estimation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</guid>
+    </item>
+    <item>
+      <title>MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering</title>
+      <link>https://paperswithcode.com/paper/mle-bench-evaluating-machine-learning-agents</link>
+      <description><![CDATA[We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mle-bench-evaluating-machine-learning-agents</guid>
     </item>
     <item>
       <title>Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration</title>
@@ -21,22 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</guid>
     </item>
     <item>
-      <title>VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</link>
-      <description><![CDATA[Due to the redundancy in LLM weights, recent research has focused on pushing weight-only quantization to extremely low-bit (even down to 2 bits).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</guid>
-    </item>
-    <item>
-      <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
-      <link>https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</link>
-      <description><![CDATA[We hope that our study can facilitate the research community and LLM vendors in promoting safer and regulated LLMs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</guid>
-    </item>
-    <item>
-      <title>Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers</title>
-      <link>https://paperswithcode.com/paper/scaling-proprioceptive-visual-learning-with</link>
-      <description><![CDATA[Previous robot learning methods often collect data to train with one specific embodiment for one task, which is expensive and prone to overfitting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-proprioceptive-visual-learning-with</guid>
+      <title>Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate</title>
+      <link>https://paperswithcode.com/paper/deciphering-cross-modal-alignment-in-large</link>
+      <description><![CDATA[We present the Modality Integration Rate (MIR), an effective, robust, and generalized metric to indicate the multi-modal pre-training quality of Large Vision Language Models (LVLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deciphering-cross-modal-alignment-in-large</guid>
     </item>
     <item>
       <title>LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs</title>
@@ -45,16 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/longwriter-unleashing-10000-word-generation</guid>
     </item>
     <item>
-      <title>A Multi-Level Superoptimizer for Tensor Programs</title>
-      <link>https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</link>
-      <description><![CDATA[We introduce Mirage, the first multi-level superoptimizer for tensor programs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</guid>
+      <title>Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers</title>
+      <link>https://paperswithcode.com/paper/scaling-proprioceptive-visual-learning-with</link>
+      <description><![CDATA[Previous robot learning methods often collect data to train with one specific embodiment for one task, which is expensive and prone to overfitting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-proprioceptive-visual-learning-with</guid>
     </item>
     <item>
-      <title>SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</title>
-      <link>https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</link>
-      <description><![CDATA[Although quantization has proven to be an effective method for accelerating model inference, existing quantization methods primarily focus on optimizing the linear layer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</guid>
+      <title>"Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</title>
+      <link>https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</link>
+      <description><![CDATA[We hope that our study can facilitate the research community and LLM vendors in promoting safer and regulated LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/do-anything-now-characterizing-and-evaluating</guid>
     </item>
     <item>
       <title>LLaMA-Omni: Seamless Speech Interaction with Large Language Models</title>
@@ -63,22 +63,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llama-omni-seamless-speech-interaction-with</guid>
     </item>
     <item>
+      <title>VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</link>
+      <description><![CDATA[Due to the redundancy in LLM weights, recent research has focused on pushing weight-only quantization to extremely low-bit (even down to 2 bits).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vptq-extreme-low-bit-vector-post-training</guid>
+    </item>
+    <item>
+      <title>AgentKit: Structured LLM Reasoning with Dynamic Graphs</title>
+      <link>https://paperswithcode.com/paper/agentkit-flow-engineering-with-graphs-not</link>
+      <description><![CDATA[The chains of nodes can be designed to explicitly enforce a naturally structured "thought process".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentkit-flow-engineering-with-graphs-not</guid>
+    </item>
+    <item>
+      <title>IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation</title>
+      <link>https://paperswithcode.com/paper/itercomp-iterative-composition-aware-feedback</link>
+      <description><![CDATA[IterComp opens new research avenues in reward feedback learning for diffusion models and compositional generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/itercomp-iterative-composition-aware-feedback</guid>
+    </item>
+    <item>
+      <title>A Multi-Level Superoptimizer for Tensor Programs</title>
+      <link>https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</link>
+      <description><![CDATA[We introduce Mirage, the first multi-level superoptimizer for tensor programs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</guid>
+    </item>
+    <item>
+      <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</link>
+      <description><![CDATA[Retrieval-Augmented Generation (RAG) systems enhance large language models (LLMs) by integrating external knowledge sources, enabling more accurate and contextually relevant responses tailored to user needs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
+    </item>
+    <item>
+      <title>SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</title>
+      <link>https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</link>
+      <description><![CDATA[Although quantization has proven to be an effective method for accelerating model inference, existing quantization methods primarily focus on optimizing the linear layer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sageattention-accurate-8-bit-attention-for</guid>
+    </item>
+    <item>
+      <title>Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation</title>
+      <link>https://paperswithcode.com/paper/towards-world-simulator-crafting-physical</link>
+      <description><![CDATA[Alongside PhyGenBench, we propose a novel evaluation framework called PhyGenEval.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-world-simulator-crafting-physical</guid>
+    </item>
+    <item>
       <title>Diffusion Models are Evolutionary Algorithms</title>
       <link>https://paperswithcode.com/paper/diffusion-models-are-evolutionary-algorithms</link>
       <description><![CDATA[In a convergence of machine learning and biology, we reveal that diffusion models are evolutionary algorithms.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-are-evolutionary-algorithms</guid>
     </item>
     <item>
-      <title>MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages</title>
-      <link>https://paperswithcode.com/paper/mosel-950000-hours-of-speech-data-for-open</link>
-      <description><![CDATA[The rise of foundation models (FMs), coupled with regulatory efforts addressing their risks and impacts, has sparked significant interest in open-source models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mosel-950000-hours-of-speech-data-for-open</guid>
-    </item>
-    <item>
-      <title>AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation</title>
-      <link>https://paperswithcode.com/paper/awt-transferring-vision-language-models-via</link>
-      <description><![CDATA[Pre-trained vision-language models (VLMs) have shown impressive results in various visual classification tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/awt-transferring-vision-language-models-via</guid>
+      <title>Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale</title>
+      <link>https://paperswithcode.com/paper/windows-agent-arena-evaluating-multi-modal-os</link>
+      <description><![CDATA[To demonstrate Windows Agent Arena's capabilities, we also introduce a new multi-modal agent, Navi.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/windows-agent-arena-evaluating-multi-modal-os</guid>
     </item>
     <item>
       <title>Text2SQL is Not Enough: Unifying AI and Databases with TAG</title>
@@ -87,46 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text2sql-is-not-enough-unifying-ai-and</guid>
     </item>
     <item>
-      <title>Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation</title>
-      <link>https://paperswithcode.com/paper/resolving-multi-condition-confusion-for</link>
-      <description><![CDATA[Personalized text-to-image generation methods can generate customized images based on the reference images, which have garnered wide research interest.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/resolving-multi-condition-confusion-for</guid>
-    </item>
-    <item>
-      <title>PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs</title>
-      <link>https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</link>
-      <description><![CDATA[Specifically, PrefixQuant identifies high-frequency outlier tokens and prefixes them in the KV cache, preventing the generation of outlier tokens during inference and simplifying quantization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prefixquant-static-quantization-beats-dynamic</guid>
-    </item>
-    <item>
-      <title>How to Train Long-Context Language Models (Effectively)</title>
-      <link>https://paperswithcode.com/paper/how-to-train-long-context-language-models</link>
-      <description><![CDATA[We study continued training and supervised fine-tuning (SFT) of a language model (LM) to make effective use of long-context information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-to-train-long-context-language-models</guid>
-    </item>
-    <item>
-      <title>FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry</title>
-      <link>https://paperswithcode.com/paper/fast-livo2-fast-direct-lidar-inertial-visual</link>
-      <description><![CDATA[The fusion of both visual and LiDAR measurements is based on a single unified voxel map where the LiDAR module constructs the geometric structure for registering new LiDAR scans and the visual module attaches image patches to the LiDAR points.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-livo2-fast-direct-lidar-inertial-visual</guid>
-    </item>
-    <item>
-      <title>CAR: Controllable Autoregressive Modeling for Visual Generation</title>
-      <link>https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</link>
-      <description><![CDATA[To the best of our knowledge, we are the first to propose a control framework for pre-trained autoregressive visual generation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/car-controllable-autoregressive-modeling-for</guid>
-    </item>
-    <item>
-      <title>Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models</title>
-      <link>https://paperswithcode.com/paper/unraveling-cross-modality-knowledge-conflict</link>
-      <description><![CDATA[Specifically, using LLaVA-34B, our proposed dynamic contrastive decoding improves an average accuracy of 2. 24%.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unraveling-cross-modality-knowledge-conflict</guid>
-    </item>
-    <item>
-      <title>Breaking reCAPTCHAv2</title>
-      <link>https://paperswithcode.com/paper/breaking-recaptchav2</link>
-      <description><![CDATA[Our work examines the efficacy of employing advanced machine learning methods to solve captchas from Google's reCAPTCHAv2 system.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/breaking-recaptchav2</guid>
+      <title>CursorCore: Assist Programming through Aligning Anything</title>
+      <link>https://paperswithcode.com/paper/cursorcore-assist-programming-through</link>
+      <description><![CDATA[In this work, we propose a new conversational framework that comprehensively integrates these information sources, collect data to train our models and evaluate their performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cursorcore-assist-programming-through</guid>
     </item>
   </channel>
 </rss>
