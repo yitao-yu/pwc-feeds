@@ -7,30 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 09:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:09:00 +0000</lastBuildDate>
     <item>
       <title>F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching</title>
       <link>https://paperswithcode.com/paper/f5-tts-a-fairytaler-that-fakes-fluent-and</link>
       <description><![CDATA[This sampling strategy for flow step can be easily applied to existing flow matching based models without retraining.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/f5-tts-a-fairytaler-that-fakes-fluent-and</guid>
-    </item>
-    <item>
-      <title>Pyramidal Flow Matching for Efficient Video Generative Modeling</title>
-      <link>https://paperswithcode.com/paper/pyramidal-flow-matching-for-efficient-video</link>
-      <description><![CDATA[Video generation requires modeling a vast spatiotemporal space, which demands significant computational resources and data usage.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pyramidal-flow-matching-for-efficient-video</guid>
-    </item>
-    <item>
-      <title>Diffusion for World Modeling: Visual Details Matter in Atari</title>
-      <link>https://paperswithcode.com/paper/diffusion-for-world-modeling-visual-details</link>
-      <description><![CDATA[Motivated by this paradigm shift, we introduce DIAMOND (DIffusion As a Model Of eNvironment Dreams), a reinforcement learning agent trained in a diffusion world model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-for-world-modeling-visual-details</guid>
-    </item>
-    <item>
-      <title>Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think</title>
-      <link>https://paperswithcode.com/paper/representation-alignment-for-generation</link>
-      <description><![CDATA[Recent studies have shown that the denoising process in (generative) diffusion models can induce meaningful (discriminative) representations inside the model, though the quality of these representations still lags behind those learned through recent self-supervised learning methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/representation-alignment-for-generation</guid>
     </item>
     <item>
       <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
@@ -39,58 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
     </item>
     <item>
-      <title>Baichuan-Omni Technical Report</title>
-      <link>https://paperswithcode.com/paper/baichuan-omni-technical-report</link>
-      <description><![CDATA[The salient multimodal capabilities and interactive experience of GPT-4o highlight its critical role in practical applications, yet it lacks a high-performing open-source counterpart.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/baichuan-omni-technical-report</guid>
+      <title>Diffusion for World Modeling: Visual Details Matter in Atari</title>
+      <link>https://paperswithcode.com/paper/diffusion-for-world-modeling-visual-details</link>
+      <description><![CDATA[Motivated by this paradigm shift, we introduce DIAMOND (DIffusion As a Model Of eNvironment Dreams), a reinforcement learning agent trained in a diffusion world model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-for-world-modeling-visual-details</guid>
     </item>
     <item>
-      <title>Aria: An Open Multimodal Native Mixture-of-Experts Model</title>
-      <link>https://paperswithcode.com/paper/aria-an-open-multimodal-native-mixture-of</link>
-      <description><![CDATA[Information comes in diverse modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/aria-an-open-multimodal-native-mixture-of</guid>
+      <title>Pyramidal Flow Matching for Efficient Video Generative Modeling</title>
+      <link>https://paperswithcode.com/paper/pyramidal-flow-matching-for-efficient-video</link>
+      <description><![CDATA[Video generation requires modeling a vast spatiotemporal space, which demands significant computational resources and data usage.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pyramidal-flow-matching-for-efficient-video</guid>
     </item>
     <item>
-      <title>MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering</title>
-      <link>https://paperswithcode.com/paper/mle-bench-evaluating-machine-learning-agents</link>
-      <description><![CDATA[We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mle-bench-evaluating-machine-learning-agents</guid>
+      <title>DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads</title>
+      <link>https://paperswithcode.com/paper/duoattention-efficient-long-context-llm</link>
+      <description><![CDATA[Based on this insight, we introduce DuoAttention, a framework that only applies a full KV cache to retrieval heads while using a light-weight, constant-length KV cache for streaming heads, which reduces both LLM's decoding and pre-filling memory and latency without compromising its long-context abilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/duoattention-efficient-long-context-llm</guid>
     </item>
     <item>
-      <title>Depth Pro: Sharp Monocular Metric Depth in Less Than a Second</title>
-      <link>https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</link>
-      <description><![CDATA[We present a foundation model for zero-shot metric monocular depth estimation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</guid>
-    </item>
-    <item>
-      <title>Generalizable and Animatable Gaussian Head Avatar</title>
-      <link>https://paperswithcode.com/paper/generalizable-and-animatable-gaussian-head</link>
-      <description><![CDATA[In this paper, we propose Generalizable and Animatable Gaussian head Avatar (GAGAvatar) for one-shot animatable head avatar reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-and-animatable-gaussian-head</guid>
-    </item>
-    <item>
-      <title>LoLCATs: On Low-Rank Linearizing of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/lolcats-on-low-rank-linearizing-of-large</link>
-      <description><![CDATA[When compared with prior approaches under the same compute budgets, LoLCATs significantly improves linearizing quality, closing the gap between linearized and original Llama 3. 1 70B and 405B LLMs by 77. 8% and 78. 1% on 5-shot MMLU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lolcats-on-low-rank-linearizing-of-large</guid>
-    </item>
-    <item>
-      <title>Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis</title>
-      <link>https://paperswithcode.com/paper/meissonic-revitalizing-masked-generative</link>
-      <description><![CDATA[Diffusion models, such as Stable Diffusion, have made significant strides in visual generation, yet their paradigm remains fundamentally different from autoregressive language models, complicating the development of unified language-vision models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meissonic-revitalizing-masked-generative</guid>
-    </item>
-    <item>
-      <title>Making Images Real Again: A Comprehensive Survey on Deep Image Composition</title>
-      <link>https://paperswithcode.com/paper/making-images-real-again-a-comprehensive</link>
-      <description><![CDATA[We have also contributed the first image composition toolbox: libcom https://github. com/bcmi/libcom, which assembles 10+ image composition related functions (e. g., image blending, image harmonization, object placement, shadow generation, generative composition).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/making-images-real-again-a-comprehensive</guid>
-    </item>
-    <item>
-      <title>Agent S: An Open Agentic Framework that Uses Computers Like a Human</title>
-      <link>https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</link>
-      <description><![CDATA[We present Agent S, an open agentic framework that enables autonomous interaction with computers through a Graphical User Interface (GUI), aimed at transforming human-computer interaction by automating complex, multi-step tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</guid>
+      <title>Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think</title>
+      <link>https://paperswithcode.com/paper/representation-alignment-for-generation</link>
+      <description><![CDATA[Recent studies have shown that the denoising process in (generative) diffusion models can induce meaningful (discriminative) representations inside the model, though the quality of these representations still lags behind those learned through recent self-supervised learning methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/representation-alignment-for-generation</guid>
     </item>
     <item>
       <title>HART: Efficient Visual Generation with Hybrid Autoregressive Transformer</title>
@@ -99,34 +51,82 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hart-efficient-visual-generation-with-hybrid</guid>
     </item>
     <item>
+      <title>Baichuan-Omni Technical Report</title>
+      <link>https://paperswithcode.com/paper/baichuan-omni-technical-report</link>
+      <description><![CDATA[The salient multimodal capabilities and interactive experience of GPT-4o highlight its critical role in practical applications, yet it lacks a high-performing open-source counterpart.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/baichuan-omni-technical-report</guid>
+    </item>
+    <item>
+      <title>LoLCATs: On Low-Rank Linearizing of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/lolcats-on-low-rank-linearizing-of-large</link>
+      <description><![CDATA[When compared with prior approaches under the same compute budgets, LoLCATs significantly improves linearizing quality, closing the gap between linearized and original Llama 3. 1 70B and 405B LLMs by 77. 8% and 78. 1% on 5-shot MMLU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lolcats-on-low-rank-linearizing-of-large</guid>
+    </item>
+    <item>
+      <title>Generalizable and Animatable Gaussian Head Avatar</title>
+      <link>https://paperswithcode.com/paper/generalizable-and-animatable-gaussian-head</link>
+      <description><![CDATA[In this paper, we propose Generalizable and Animatable Gaussian head Avatar (GAGAvatar) for one-shot animatable head avatar reconstruction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-and-animatable-gaussian-head</guid>
+    </item>
+    <item>
       <title>Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies</title>
       <link>https://paperswithcode.com/paper/generalizable-humanoid-manipulation-with</link>
       <description><![CDATA[Humanoid robots capable of autonomous operation in diverse environments have long been a goal for roboticists.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/generalizable-humanoid-manipulation-with</guid>
     </item>
     <item>
-      <title>Fast Feedforward 3D Gaussian Splatting Compression</title>
-      <link>https://paperswithcode.com/paper/fast-feedforward-3d-gaussian-splatting</link>
-      <description><![CDATA[With 3D Gaussian Splatting (3DGS) advancing real-time and high-fidelity rendering for novel view synthesis, storage requirements pose challenges for their widespread adoption.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fast-feedforward-3d-gaussian-splatting</guid>
+      <title>Aria: An Open Multimodal Native Mixture-of-Experts Model</title>
+      <link>https://paperswithcode.com/paper/aria-an-open-multimodal-native-mixture-of</link>
+      <description><![CDATA[Information comes in diverse modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/aria-an-open-multimodal-native-mixture-of</guid>
     </item>
     <item>
-      <title>Libra: Building Decoupled Vision System on Large Language Models</title>
-      <link>https://paperswithcode.com/paper/libra-building-decoupled-vision-system-on</link>
-      <description><![CDATA[Specifically, we incorporate a routed visual expert with a cross-modal bridge module into a pretrained LLM to route the vision and language flows during attention computing to enable different attention patterns in inner-modal modeling and cross-modal interaction scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/libra-building-decoupled-vision-system-on</guid>
+      <title>SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers</title>
+      <link>https://paperswithcode.com/paper/segformer-simple-and-efficient-design-for</link>
+      <description><![CDATA[We present SegFormer, a simple, efficient yet powerful semantic segmentation framework which unifies Transformers with lightweight multilayer perception (MLP) decoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segformer-simple-and-efficient-design-for</guid>
     </item>
     <item>
-      <title>SceneCraft: Layout-Guided 3D Scene Generation</title>
-      <link>https://paperswithcode.com/paper/scenecraft-layout-guided-3d-scene-generation</link>
-      <description><![CDATA[The creation of complex 3D scenes tailored to user specifications has been a tedious and challenging task with traditional 3D modeling tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scenecraft-layout-guided-3d-scene-generation</guid>
+      <title>Depth Pro: Sharp Monocular Metric Depth in Less Than a Second</title>
+      <link>https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</link>
+      <description><![CDATA[We present a foundation model for zero-shot metric monocular depth estimation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/depth-pro-sharp-monocular-metric-depth-in</guid>
     </item>
     <item>
-      <title>Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration</title>
-      <link>https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</link>
-      <description><![CDATA[Photo-realistic image restoration algorithms are typically evaluated by distortion measures (e. g., PSNR, SSIM) and by perceptual quality measures (e. g., FID, NIQE), where the desire is to attain the lowest possible distortion without compromising on perceptual quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/posterior-mean-rectified-flow-towards-minimum</guid>
+      <title>Agent S: An Open Agentic Framework that Uses Computers Like a Human</title>
+      <link>https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</link>
+      <description><![CDATA[We present Agent S, an open agentic framework that enables autonomous interaction with computers through a Graphical User Interface (GUI), aimed at transforming human-computer interaction by automating complex, multi-step tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</guid>
+    </item>
+    <item>
+      <title>MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering</title>
+      <link>https://paperswithcode.com/paper/mle-bench-evaluating-machine-learning-agents</link>
+      <description><![CDATA[We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mle-bench-evaluating-machine-learning-agents</guid>
+    </item>
+    <item>
+      <title>CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation</title>
+      <link>https://paperswithcode.com/paper/ctrlora-an-extensible-and-efficient-framework</link>
+      <description><![CDATA[However, for every single condition type, ControlNet requires independent training on millions of data pairs with hundreds of GPU hours, which is quite expensive and makes it challenging for ordinary users to explore and develop new types of conditions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ctrlora-an-extensible-and-efficient-framework</guid>
+    </item>
+    <item>
+      <title>Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis</title>
+      <link>https://paperswithcode.com/paper/meissonic-revitalizing-masked-generative</link>
+      <description><![CDATA[Diffusion models, such as Stable Diffusion, have made significant strides in visual generation, yet their paradigm remains fundamentally different from autoregressive language models, complicating the development of unified language-vision models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meissonic-revitalizing-masked-generative</guid>
+    </item>
+    <item>
+      <title>MoH: Multi-Head Attention as Mixture-of-Head Attention</title>
+      <link>https://paperswithcode.com/paper/moh-multi-head-attention-as-mixture-of-head</link>
+      <description><![CDATA[We show that multi-head attention can be expressed in the summation form.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moh-multi-head-attention-as-mixture-of-head</guid>
+    </item>
+    <item>
+      <title>optillm</title>
+      <link>https://github.com/codelion/optillm</link>
+      <description><![CDATA[Optimizing inference proxy for LLMs]]></description>
+      <guid isPermaLink="true">https://github.com/codelion/optillm</guid>
     </item>
   </channel>
 </rss>
