@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 09:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:09:05 +0000</lastBuildDate>
     <item>
       <title>CLOUDSPAM: Contrastive Learning On Unlabeled Data for Segmentation and Pre-Training Using Aggregated Point Clouds and MoCo</title>
       <link>https://paperswithcode.com/paper/cloudspam-contrastive-learning-on-unlabeled</link>
@@ -15,10 +15,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cloudspam-contrastive-learning-on-unlabeled</guid>
     </item>
     <item>
-      <title>Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning</title>
-      <link>https://paperswithcode.com/paper/fictitious-synthetic-data-can-improve-llm</link>
-      <description><![CDATA[Recent studies have identified one aggravating factor of LLM hallucinations as the knowledge inconsistency between pre-training and fine-tuning, where unfamiliar fine-tuning data mislead the LLM to fabricate plausible but wrong outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fictitious-synthetic-data-can-improve-llm</guid>
+      <title>NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction</title>
+      <link>https://paperswithcode.com/paper/neuroclips-towards-high-fidelity-and-smooth</link>
+      <description><![CDATA[We contend that the key to addressing these challenges lies in accurately decoding both high-level semantics and low-level perception flows, as perceived by the brain in response to video stimuli.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neuroclips-towards-high-fidelity-and-smooth</guid>
+    </item>
+    <item>
+      <title>CLAP. I. Resolving miscalibration for deep learning-based galaxy photometric redshift estimation</title>
+      <link>https://paperswithcode.com/paper/clap-i-resolving-miscalibration-for-deep</link>
+      <description><![CDATA[It leverages supervised contrastive learning (SCL) and k-nearest neighbours (KNN) to construct and calibrate raw probability density estimates, and implements a refitting procedure to resume end-to-end discriminative models ready to produce final estimates for large-scale imaging data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/clap-i-resolving-miscalibration-for-deep</guid>
+    </item>
+    <item>
+      <title>BitPipe: Bidirectional Interleaved Pipeline Parallelism for Accelerating Large Models Training</title>
+      <link>https://paperswithcode.com/paper/bitpipe-bidirectional-interleaved-pipeline</link>
+      <description><![CDATA[Recently, many synchronous pipeline parallelism approaches have been proposed to improve training throughput.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bitpipe-bidirectional-interleaved-pipeline</guid>
     </item>
     <item>
       <title>Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation</title>
@@ -27,10 +39,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fusion-then-distillation-toward-cross-modal</guid>
     </item>
     <item>
+      <title>Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning</title>
+      <link>https://paperswithcode.com/paper/fictitious-synthetic-data-can-improve-llm</link>
+      <description><![CDATA[Recent studies have identified one aggravating factor of LLM hallucinations as the knowledge inconsistency between pre-training and fine-tuning, where unfamiliar fine-tuning data mislead the LLM to fabricate plausible but wrong outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fictitious-synthetic-data-can-improve-llm</guid>
+    </item>
+    <item>
       <title>Prompting Continual Person Search</title>
       <link>https://paperswithcode.com/paper/prompting-continual-person-search</link>
       <description><![CDATA[For this, we propose a Prompt-based Continual Person Search (PoPS) model in this paper.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/prompting-continual-person-search</guid>
+    </item>
+    <item>
+      <title>Two are better than one: Context window extension with multi-grained self-injection</title>
+      <link>https://paperswithcode.com/paper/two-are-better-than-one-context-window</link>
+      <description><![CDATA[The limited context window of contemporary large language models (LLMs) remains a huge barrier to their broader application across various domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/two-are-better-than-one-context-window</guid>
+    </item>
+    <item>
+      <title>A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation</title>
+      <link>https://paperswithcode.com/paper/a-survey-of-deep-graph-learning-under</link>
+      <description><![CDATA[Consequently, there has been a surge in research on graph machine learning under distribution shifts, aiming to train models to achieve satisfactory performance on out-of-distribution (OOD) test data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-deep-graph-learning-under</guid>
+    </item>
+    <item>
+      <title>Model merging with SVD to tie the Knots</title>
+      <link>https://paperswithcode.com/paper/model-merging-with-svd-to-tie-the-knots</link>
+      <description><![CDATA[We study this phenomenon and observe that the weights of LoRA finetuned models showcase a lower degree of alignment compared to their fully-finetuned counterparts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/model-merging-with-svd-to-tie-the-knots</guid>
+    </item>
+    <item>
+      <title>Expose Before You Defend: Unifying and Enhancing Backdoor Defenses via Exposed Models</title>
+      <link>https://paperswithcode.com/paper/expose-before-you-defend-unifying-and</link>
+      <description><![CDATA[Specifically, EBYD first exposes the backdoor functionality in the backdoored model through a model preprocessing step called backdoor exposure, and then applies detection and removal methods to the exposed model to identify and eliminate the backdoor features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/expose-before-you-defend-unifying-and</guid>
     </item>
     <item>
       <title>Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization</title>
@@ -51,52 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/toward-finding-strong-pareto-optimal-policies</guid>
     </item>
     <item>
-      <title>Two are better than one: Context window extension with multi-grained self-injection</title>
-      <link>https://paperswithcode.com/paper/two-are-better-than-one-context-window</link>
-      <description><![CDATA[The limited context window of contemporary large language models (LLMs) remains a huge barrier to their broader application across various domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/two-are-better-than-one-context-window</guid>
-    </item>
-    <item>
-      <title>CLAP. I. Resolving miscalibration for deep learning-based galaxy photometric redshift estimation</title>
-      <link>https://paperswithcode.com/paper/clap-i-resolving-miscalibration-for-deep</link>
-      <description><![CDATA[It leverages supervised contrastive learning (SCL) and k-nearest neighbours (KNN) to construct and calibrate raw probability density estimates, and implements a refitting procedure to resume end-to-end discriminative models ready to produce final estimates for large-scale imaging data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/clap-i-resolving-miscalibration-for-deep</guid>
-    </item>
-    <item>
-      <title>BitPipe: Bidirectional Interleaved Pipeline Parallelism for Accelerating Large Models Training</title>
-      <link>https://paperswithcode.com/paper/bitpipe-bidirectional-interleaved-pipeline</link>
-      <description><![CDATA[Recently, many synchronous pipeline parallelism approaches have been proposed to improve training throughput.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bitpipe-bidirectional-interleaved-pipeline</guid>
-    </item>
-    <item>
-      <title>NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction</title>
-      <link>https://paperswithcode.com/paper/neuroclips-towards-high-fidelity-and-smooth</link>
-      <description><![CDATA[We contend that the key to addressing these challenges lies in accurately decoding both high-level semantics and low-level perception flows, as perceived by the brain in response to video stimuli.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neuroclips-towards-high-fidelity-and-smooth</guid>
-    </item>
-    <item>
-      <title>A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation</title>
-      <link>https://paperswithcode.com/paper/a-survey-of-deep-graph-learning-under</link>
-      <description><![CDATA[Consequently, there has been a surge in research on graph machine learning under distribution shifts, aiming to train models to achieve satisfactory performance on out-of-distribution (OOD) test data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-deep-graph-learning-under</guid>
-    </item>
-    <item>
       <title>CoqPilot, a plugin for LLM-based generation of proofs</title>
       <link>https://paperswithcode.com/paper/coqpilot-a-plugin-for-llm-based-generation-of</link>
       <description><![CDATA[The plugin collects the parts of proofs marked with the admit tactic in a Coq file, i. e., proof holes, and combines LLMs along with non-machine-learning methods to generate proof candidates for the holes.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/coqpilot-a-plugin-for-llm-based-generation-of</guid>
-    </item>
-    <item>
-      <title>Expose Before You Defend: Unifying and Enhancing Backdoor Defenses via Exposed Models</title>
-      <link>https://paperswithcode.com/paper/expose-before-you-defend-unifying-and</link>
-      <description><![CDATA[Specifically, EBYD first exposes the backdoor functionality in the backdoored model through a model preprocessing step called backdoor exposure, and then applies detection and removal methods to the exposed model to identify and eliminate the backdoor features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/expose-before-you-defend-unifying-and</guid>
-    </item>
-    <item>
-      <title>Model merging with SVD to tie the Knots</title>
-      <link>https://paperswithcode.com/paper/model-merging-with-svd-to-tie-the-knots</link>
-      <description><![CDATA[We study this phenomenon and observe that the weights of LoRA finetuned models showcase a lower degree of alignment compared to their fully-finetuned counterparts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/model-merging-with-svd-to-tie-the-knots</guid>
     </item>
     <item>
       <title>LArctan-SKAN: Simple and Efficient Single-Parameterized Kolmogorov-Arnold Networks using Learnable Trigonometric Function</title>
@@ -129,16 +129,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/context-based-visual-language-place</guid>
     </item>
     <item>
-      <title>Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?</title>
-      <link>https://paperswithcode.com/paper/bongard-in-wonderland-visual-puzzles-that</link>
-      <description><![CDATA[Recently, newly developed Vision-Language Models (VLMs), such as OpenAI's GPT-4o, have emerged, seemingly demonstrating advanced reasoning capabilities across text and image modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bongard-in-wonderland-visual-puzzles-that</guid>
-    </item>
-    <item>
       <title>Semi-supervised Chinese Poem-to-Painting Generation via Cycle-consistent Adversarial Networks</title>
       <link>https://paperswithcode.com/paper/semi-supervised-chinese-poem-to-painting</link>
       <description><![CDATA[In this work, we propose a semi-supervised approach using cycle-consistent adversarial networks to leverage the limited paired data and large unpaired corpus of poems and paintings.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/semi-supervised-chinese-poem-to-painting</guid>
+    </item>
+    <item>
+      <title>Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?</title>
+      <link>https://paperswithcode.com/paper/bongard-in-wonderland-visual-puzzles-that</link>
+      <description><![CDATA[Recently, newly developed Vision-Language Models (VLMs), such as OpenAI's GPT-4o, have emerged, seemingly demonstrating advanced reasoning capabilities across text and image modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bongard-in-wonderland-visual-puzzles-that</guid>
     </item>
     <item>
       <title>FastPCI: Motion-Structure Guided Fast Point Cloud Frame Interpolation</title>
@@ -147,40 +147,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fastpci-motion-structure-guided-fast-point</guid>
     </item>
     <item>
-      <title>Demystifying Large Language Models for Medicine: A Primer</title>
-      <link>https://paperswithcode.com/paper/demystifying-large-language-models-for</link>
-      <description><![CDATA[We then review the strategies, such as prompt engineering and fine-tuning, to adapt standard LLMs to specialized medical tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-large-language-models-for</guid>
-    </item>
-    <item>
-      <title>Stable Consistency Tuning: Understanding and Improving Consistency Models</title>
-      <link>https://paperswithcode.com/paper/stable-consistency-tuning-understanding-and</link>
-      <description><![CDATA[Diffusion models achieve superior generation quality but suffer from slow generation speed due to the iterative nature of denoising.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stable-consistency-tuning-understanding-and</guid>
-    </item>
-    <item>
-      <title>Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience</title>
-      <link>https://paperswithcode.com/paper/smart-etl-and-llm-based-contents</link>
-      <description><![CDATA[Results: The Smart ETL process to import STTs to the observatory combines PDF-scraping techniques with LLMs for text content-based classification.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/smart-etl-and-llm-based-contents</guid>
-    </item>
-    <item>
-      <title>Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift</title>
-      <link>https://paperswithcode.com/paper/classifier-clustering-and-feature-alignment</link>
-      <description><![CDATA[Moreover, to address data heterogeneity, we study the feature alignment under distributed concept drift, and find two factors that are crucial for feature alignment: the conditional distribution $P(Y|X)$ and the degree of data heterogeneity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/classifier-clustering-and-feature-alignment</guid>
-    </item>
-    <item>
-      <title>Difficult for Whom? A Study of Japanese Lexical Complexity</title>
-      <link>https://paperswithcode.com/paper/difficult-for-whom-a-study-of-japanese</link>
-      <description><![CDATA[The tasks of lexical complexity prediction (LCP) and complex word identification (CWI) commonly presuppose that difficult to understand words are shared by the target population.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/difficult-for-whom-a-study-of-japanese</guid>
-    </item>
-    <item>
-      <title>RSA-Control: A Pragmatics-Grounded Lightweight Controllable Text Generation Framework</title>
-      <link>https://paperswithcode.com/paper/rsa-control-a-pragmatics-grounded-lightweight</link>
-      <description><![CDATA[Despite significant advancements in natural language generation, controlling language models to produce texts with desired attributes remains a formidable challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rsa-control-a-pragmatics-grounded-lightweight</guid>
+      <title>Large Language Models Reflect the Ideology of their Creators</title>
+      <link>https://paperswithcode.com/paper/large-language-models-reflect-the-ideology-of</link>
+      <description><![CDATA[By identifying and analyzing moral assessments reflected in the generated descriptions, we find consistent normative differences between how the same LLM responds in Chinese compared to English.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-reflect-the-ideology-of</guid>
     </item>
     <item>
       <title>Context is Key: A Benchmark for Forecasting with Essential Textual Information</title>
@@ -189,10 +159,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/context-is-key-a-benchmark-for-forecasting</guid>
     </item>
     <item>
-      <title>Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label</title>
-      <link>https://paperswithcode.com/paper/wavetable-synthesis-using-cvae-for-timbre</link>
-      <description><![CDATA[This research introduces a method of timbre control in wavetable synthesis that is intuitive and sensible and utilizes semantic labels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wavetable-synthesis-using-cvae-for-timbre</guid>
+      <title>Classifier Clustering and Feature Alignment for Federated Learning under Distributed Concept Drift</title>
+      <link>https://paperswithcode.com/paper/classifier-clustering-and-feature-alignment</link>
+      <description><![CDATA[Moreover, to address data heterogeneity, we study the feature alignment under distributed concept drift, and find two factors that are crucial for feature alignment: the conditional distribution $P(Y|X)$ and the degree of data heterogeneity.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/classifier-clustering-and-feature-alignment</guid>
+    </item>
+    <item>
+      <title>Multi-Class Abnormality Classification in Video Capsule Endoscopy Using Deep Learning</title>
+      <link>https://paperswithcode.com/paper/multi-class-abnormality-classification-in</link>
+      <description><![CDATA[This report outlines Team Seq2Cure's deep learning approach for the Capsule Vision 2024 Challenge, leveraging an ensemble of convolutional neural networks (CNNs) and transformer-based architectures for multi-class abnormality classification in video capsule endoscopy frames.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-class-abnormality-classification-in</guid>
+    </item>
+    <item>
+      <title>RSA-Control: A Pragmatics-Grounded Lightweight Controllable Text Generation Framework</title>
+      <link>https://paperswithcode.com/paper/rsa-control-a-pragmatics-grounded-lightweight</link>
+      <description><![CDATA[Despite significant advancements in natural language generation, controlling language models to produce texts with desired attributes remains a formidable challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rsa-control-a-pragmatics-grounded-lightweight</guid>
+    </item>
+    <item>
+      <title>Demystifying Large Language Models for Medicine: A Primer</title>
+      <link>https://paperswithcode.com/paper/demystifying-large-language-models-for</link>
+      <description><![CDATA[We then review the strategies, such as prompt engineering and fine-tuning, to adapt standard LLMs to specialized medical tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demystifying-large-language-models-for</guid>
+    </item>
+    <item>
+      <title>Difficult for Whom? A Study of Japanese Lexical Complexity</title>
+      <link>https://paperswithcode.com/paper/difficult-for-whom-a-study-of-japanese</link>
+      <description><![CDATA[The tasks of lexical complexity prediction (LCP) and complex word identification (CWI) commonly presuppose that difficult to understand words are shared by the target population.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/difficult-for-whom-a-study-of-japanese</guid>
+    </item>
+    <item>
+      <title>Smart ETL and LLM-based contents classification: the European Smart Tourism Tools Observatory experience</title>
+      <link>https://paperswithcode.com/paper/smart-etl-and-llm-based-contents</link>
+      <description><![CDATA[Results: The Smart ETL process to import STTs to the observatory combines PDF-scraping techniques with LLMs for text content-based classification.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/smart-etl-and-llm-based-contents</guid>
     </item>
     <item>
       <title>Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback</title>
@@ -207,10 +207,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-adapter-geometry-consistent-multi-view</guid>
     </item>
     <item>
-      <title>Probabilistic Language-Image Pre-Training</title>
-      <link>https://paperswithcode.com/paper/probabilistic-language-image-pre-training</link>
-      <description><![CDATA[Vision-language models (VLMs) embed aligned image-text pairs into a joint space but often rely on deterministic embeddings, assuming a one-to-one correspondence between images and texts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/probabilistic-language-image-pre-training</guid>
+      <title>Wavetable Synthesis Using CVAE for Timbre Control Based on Semantic Label</title>
+      <link>https://paperswithcode.com/paper/wavetable-synthesis-using-cvae-for-timbre</link>
+      <description><![CDATA[This research introduces a method of timbre control in wavetable synthesis that is intuitive and sensible and utilizes semantic labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wavetable-synthesis-using-cvae-for-timbre</guid>
     </item>
     <item>
       <title>SIKeD: Self-guided Iterative Knowledge Distillation for mathematical reasoning</title>
@@ -219,34 +219,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/siked-self-guided-iterative-knowledge</guid>
     </item>
     <item>
+      <title>Probabilistic Language-Image Pre-Training</title>
+      <link>https://paperswithcode.com/paper/probabilistic-language-image-pre-training</link>
+      <description><![CDATA[Vision-language models (VLMs) embed aligned image-text pairs into a joint space but often rely on deterministic embeddings, assuming a one-to-one correspondence between images and texts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/probabilistic-language-image-pre-training</guid>
+    </item>
+    <item>
       <title>Irregular Tensor Low-Rank Representation for Hyperspectral Image Representation</title>
       <link>https://paperswithcode.com/paper/irregular-tensor-low-rank-representation-for</link>
       <description><![CDATA[However, the spatial distribution of the HSI is always irregular, while the previous tensor low-rank representation methods can only be applied to the regular data cubes, which limits the performance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/irregular-tensor-low-rank-representation-for</guid>
-    </item>
-    <item>
-      <title>Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data</title>
-      <link>https://paperswithcode.com/paper/infinity-mm-scaling-multimodal-performance</link>
-      <description><![CDATA[Vision-Language Models (VLMs) have recently made significant progress, but the limited scale and quality of open-source instruction data hinder their performance compared to closed-source models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/infinity-mm-scaling-multimodal-performance</guid>
-    </item>
-    <item>
-      <title>Sentiment-Driven Community Detection in a Network of Perfume Preferences</title>
-      <link>https://paperswithcode.com/paper/sentiment-driven-community-detection-in-a</link>
-      <description><![CDATA[We constructed a bipartite network from user reviews on the Persian retail platform "Atrafshan," with nodes representing users and perfumes, and edges formed by positive comments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sentiment-driven-community-detection-in-a</guid>
-    </item>
-    <item>
-      <title>IMAN: An Adaptive Network for Robust NPC Mortality Prediction with Missing Modalities</title>
-      <link>https://paperswithcode.com/paper/iman-an-adaptive-network-for-robust-npc</link>
-      <description><![CDATA[Accurate prediction of mortality in nasopharyngeal carcinoma (NPC), a complex malignancy particularly challenging in advanced stages, is crucial for optimizing treatment strategies and improving patient outcomes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/iman-an-adaptive-network-for-robust-npc</guid>
-    </item>
-    <item>
-      <title>Tuning-free coreset Markov chain Monte Carlo</title>
-      <link>https://paperswithcode.com/paper/tuning-free-coreset-markov-chain-monte-carlo</link>
-      <description><![CDATA[A Bayesian coreset is a small, weighted subset of a data set that replaces the full data during inference to reduce computational cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tuning-free-coreset-markov-chain-monte-carlo</guid>
     </item>
     <item>
       <title>Enhancing pretraining efficiency for medical image segmentation via transferability metrics</title>
@@ -255,16 +237,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-pretraining-efficiency-for-medical</guid>
     </item>
     <item>
+      <title>Sentiment-Driven Community Detection in a Network of Perfume Preferences</title>
+      <link>https://paperswithcode.com/paper/sentiment-driven-community-detection-in-a</link>
+      <description><![CDATA[We constructed a bipartite network from user reviews on the Persian retail platform "Atrafshan," with nodes representing users and perfumes, and edges formed by positive comments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sentiment-driven-community-detection-in-a</guid>
+    </item>
+    <item>
+      <title>Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data</title>
+      <link>https://paperswithcode.com/paper/infinity-mm-scaling-multimodal-performance</link>
+      <description><![CDATA[Vision-Language Models (VLMs) have recently made significant progress, but the limited scale and quality of open-source instruction data hinder their performance compared to closed-source models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/infinity-mm-scaling-multimodal-performance</guid>
+    </item>
+    <item>
+      <title>IMAN: An Adaptive Network for Robust NPC Mortality Prediction with Missing Modalities</title>
+      <link>https://paperswithcode.com/paper/iman-an-adaptive-network-for-robust-npc</link>
+      <description><![CDATA[Accurate prediction of mortality in nasopharyngeal carcinoma (NPC), a complex malignancy particularly challenging in advanced stages, is crucial for optimizing treatment strategies and improving patient outcomes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/iman-an-adaptive-network-for-robust-npc</guid>
+    </item>
+    <item>
       <title>Highly efficient non-rigid registration in k-space with application to cardiac Magnetic Resonance Imaging</title>
       <link>https://paperswithcode.com/paper/highly-efficient-non-rigid-registration-in-k</link>
       <description><![CDATA[The accelerated scans in such applications result in imaging artifacts that compromise the motion estimation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/highly-efficient-non-rigid-registration-in-k</guid>
     </item>
     <item>
-      <title>DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction</title>
-      <link>https://paperswithcode.com/paper/dl-polycube-deep-learning-enhanced-polycube</link>
-      <description><![CDATA[In this paper, we present a novel algorithm that integrates deep learning with the polycube method (DL-Polycube) to generate high-quality hexahedral (hex) meshes, which are then used to construct volumetric splines for isogeometric analysis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dl-polycube-deep-learning-enhanced-polycube</guid>
+      <title>Tuning-free coreset Markov chain Monte Carlo</title>
+      <link>https://paperswithcode.com/paper/tuning-free-coreset-markov-chain-monte-carlo</link>
+      <description><![CDATA[A Bayesian coreset is a small, weighted subset of a data set that replaces the full data during inference to reduce computational cost.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tuning-free-coreset-markov-chain-monte-carlo</guid>
     </item>
     <item>
       <title>DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation</title>
@@ -279,34 +279,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unleashing-reasoning-capability-of-llms-via</guid>
     </item>
     <item>
-      <title>Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images</title>
-      <link>https://paperswithcode.com/paper/thermal-chameleon-task-adaptive-tone-mapping</link>
-      <description><![CDATA[Thermal Infrared (TIR) imaging provides robust perception for navigating in challenging outdoor environments but faces issues with poor texture and low image contrast due to its 14/16-bit format.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/thermal-chameleon-task-adaptive-tone-mapping</guid>
+      <title>DL-Polycube: Deep learning enhanced polycube method for high-quality hexahedral mesh generation and volumetric spline construction</title>
+      <link>https://paperswithcode.com/paper/dl-polycube-deep-learning-enhanced-polycube</link>
+      <description><![CDATA[In this paper, we present a novel algorithm that integrates deep learning with the polycube method (DL-Polycube) to generate high-quality hexahedral (hex) meshes, which are then used to construct volumetric splines for isogeometric analysis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dl-polycube-deep-learning-enhanced-polycube</guid>
     </item>
     <item>
-      <title>From Imitation to Introspection: Probing Self-Consciousness in Language Models</title>
-      <link>https://paperswithcode.com/paper/from-imitation-to-introspection-probing-self</link>
-      <description><![CDATA[Self-consciousness, the introspection of one's existence and thoughts, represents a high-level cognitive process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-imitation-to-introspection-probing-self</guid>
+      <title>PRISM: A Methodology for Auditing Biases in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/prism-a-methodology-for-auditing-biases-in</link>
+      <description><![CDATA[Auditing Large Language Models (LLMs) to discover their biases and preferences is an emerging challenge in creating Responsible Artificial Intelligence (AI).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prism-a-methodology-for-auditing-biases-in</guid>
     </item>
     <item>
-      <title>Large Language Models Reflect the Ideology of their Creators</title>
-      <link>https://paperswithcode.com/paper/large-language-models-reflect-the-ideology-of</link>
-      <description><![CDATA[By identifying and analyzing moral assessments reflected in the generated descriptions, we find consistent normative differences between how the same LLM responds in Chinese compared to English.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-reflect-the-ideology-of</guid>
+      <title>DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations</title>
+      <link>https://paperswithcode.com/paper/decore-decoding-by-contrasting-retrieval</link>
+      <description><![CDATA[Large Language Models (LLMs) often hallucinate, producing unfaithful or factually incorrect outputs by misrepresenting the provided context or incorrectly recalling internal knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decore-decoding-by-contrasting-retrieval</guid>
     </item>
     <item>
-      <title>Retrieval-Augmented Diffusion Models for Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/retrieval-augmented-diffusion-models-for-time</link>
-      <description><![CDATA[Meanwhile, this reference-guided mechanism also compensates for the deficiencies of existing time series diffusion models in terms of guidance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/retrieval-augmented-diffusion-models-for-time</guid>
+      <title>Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance</title>
+      <link>https://paperswithcode.com/paper/low-latency-video-anonymization-for-crowd</link>
+      <description><![CDATA[We evaluated the approaches on publicly available privacy and VAD data sets to examine the strengths and weaknesses of the different anonymization techniques and highlight the promising efficacy of our approach.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/low-latency-video-anonymization-for-crowd</guid>
     </item>
     <item>
-      <title>Conditional diffusions for neural posterior estimation</title>
-      <link>https://paperswithcode.com/paper/conditional-diffusions-for-neural-posterior</link>
-      <description><![CDATA[Conditional diffusions address many of the challenges faced by flow-based methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/conditional-diffusions-for-neural-posterior</guid>
+      <title>WAFFLE: Multi-Modal Model for Automated Front-End Development</title>
+      <link>https://paperswithcode.com/paper/waffle-multi-modal-model-for-automated-front</link>
+      <description><![CDATA[Web development involves turning UI designs into functional webpages, which can be difficult for both beginners and experienced developers due to the complexity of HTML's hierarchical structures and styles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/waffle-multi-modal-model-for-automated-front</guid>
     </item>
   </channel>
 </rss>
