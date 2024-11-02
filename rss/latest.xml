@@ -7,18 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Nov 2024 21:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 09:14:45 +0000</lastBuildDate>
+    <item>
+      <title>CaAdam: Improving Adam optimizer using connection aware methods</title>
+      <link>https://paperswithcode.com/paper/caadam-improving-adam-optimizer-using</link>
+      <description><![CDATA[We introduce a new method inspired by Adam that enhances convergence speed and achieves better loss function minima.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/caadam-improving-adam-optimizer-using</guid>
+    </item>
     <item>
       <title>CALE: Continuous Arcade Learning Environment</title>
       <link>https://paperswithcode.com/paper/cale-continuous-arcade-learning-environment</link>
       <description><![CDATA[We introduce the Continuous Arcade Learning Environment (CALE), an extension of the well-known Arcade Learning Environment (ALE) [Bellemare et al., 2013].]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cale-continuous-arcade-learning-environment</guid>
-    </item>
-    <item>
-      <title>Diffusion Twigs with Loop Guidance for Conditional Graph Generation</title>
-      <link>https://paperswithcode.com/paper/diffusion-twigs-with-loop-guidance-for</link>
-      <description><![CDATA[We introduce a novel score-based diffusion framework named Twigs that incorporates multiple co-evolving flows for enriching conditional generation tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-twigs-with-loop-guidance-for</guid>
     </item>
     <item>
       <title>No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images</title>
@@ -27,16 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/no-pose-no-problem-surprisingly-simple-3d</guid>
     </item>
     <item>
+      <title>Diffusion Twigs with Loop Guidance for Conditional Graph Generation</title>
+      <link>https://paperswithcode.com/paper/diffusion-twigs-with-loop-guidance-for</link>
+      <description><![CDATA[We introduce a novel score-based diffusion framework named Twigs that incorporates multiple co-evolving flows for enriching conditional generation tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-twigs-with-loop-guidance-for</guid>
+    </item>
+    <item>
       <title>Chasing Better Deep Image Priors between Over- and Under-parameterization</title>
       <link>https://paperswithcode.com/paper/chasing-better-deep-image-priors-between-over</link>
       <description><![CDATA[Besides, we also extend LIP to compressive sensing image reconstruction, where a pre-trained GAN generator is used as the prior (in contrast to untrained DIP or deep decoder), and confirm its validity in this setting too.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/chasing-better-deep-image-priors-between-over</guid>
     </item>
     <item>
-      <title>Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?</title>
-      <link>https://paperswithcode.com/paper/can-language-models-perform-robust-reasoning</link>
-      <description><![CDATA[Here, we propose the method of contrastive denoising with noisy chain-of-thought (CD-CoT).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-perform-robust-reasoning</guid>
+      <title>Neural Model Checking</title>
+      <link>https://paperswithcode.com/paper/neural-model-checking</link>
+      <description><![CDATA[Our new approach combines machine learning and symbolic reasoning by using neural networks as formal proof certificates for linear temporal logic.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-model-checking</guid>
     </item>
     <item>
       <title>ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images</title>
@@ -45,16 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/imov3d-learning-open-vocabulary-point-clouds</guid>
     </item>
     <item>
-      <title>In-Context LoRA for Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</link>
-      <description><![CDATA[While task-specific in terms of tuning data, our framework remains task-agnostic in architecture and pipeline, offering a powerful tool for the community and providing valuable insights for further research on product-level task-agnostic generation systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
-    </item>
-    <item>
-      <title>Neural Network Matrix Product Operator: A Multi-Dimensionally Integrable Machine Learning Potential</title>
-      <link>https://paperswithcode.com/paper/neural-network-matrix-product-operator-a</link>
-      <description><![CDATA[A neural network-based machine learning potential energy surface (PES) expressed in a matrix product operator (NN-MPO) is proposed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-network-matrix-product-operator-a</guid>
+      <title>A Visual Case Study of the Training Dynamics in Neural Networks</title>
+      <link>https://paperswithcode.com/paper/a-visual-case-study-of-the-training-dynamics</link>
+      <description><![CDATA[This paper introduces a visual sandbox designed to explore the training dynamics of a small-scale transformer model, with the embedding dimension constrained to $d=2$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-visual-case-study-of-the-training-dynamics</guid>
     </item>
     <item>
       <title>MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction</title>
@@ -63,16 +63,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ms-glance-non-semantic-context-vectors-and</guid>
     </item>
     <item>
-      <title>End-to-End Ontology Learning with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/end-to-end-ontology-learning-with-large</link>
-      <description><![CDATA[Ontologies are useful for automatic machine processing of domain knowledge as they represent it in a structured format.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-ontology-learning-with-large</guid>
+      <title>MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption</title>
+      <link>https://paperswithcode.com/paper/mv-cc-mask-enhanced-video-model-for-remote</link>
+      <description><![CDATA[In this paper, we introduce a novel video model-based paradigm without design of the fusion module and propose a Mask-enhanced Video model for Change Caption (MV-CC).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mv-cc-mask-enhanced-video-model-for-remote</guid>
     </item>
     <item>
-      <title>A Visual Case Study of the Training Dynamics in Neural Networks</title>
-      <link>https://paperswithcode.com/paper/a-visual-case-study-of-the-training-dynamics</link>
-      <description><![CDATA[This paper introduces a visual sandbox designed to explore the training dynamics of a small-scale transformer model, with the embedding dimension constrained to $d=2$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-visual-case-study-of-the-training-dynamics</guid>
+      <title>Transformers to Predict the Applicability of Symbolic Integration Routines</title>
+      <link>https://paperswithcode.com/paper/transformers-to-predict-the-applicability-of</link>
+      <description><![CDATA[Symbolic integration is a fundamental problem in mathematics: we consider how machine learning may be used to optimise this task in a Computer Algebra System (CAS).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/transformers-to-predict-the-applicability-of</guid>
+    </item>
+    <item>
+      <title>In-Context LoRA for Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</link>
+      <description><![CDATA[While task-specific in terms of tuning data, our framework remains task-agnostic in architecture and pipeline, offering a powerful tool for the community and providing valuable insights for further research on product-level task-agnostic generation systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
+    </item>
+    <item>
+      <title>Identifying Spatio-Temporal Drivers of Extreme Events</title>
+      <link>https://paperswithcode.com/paper/identifying-spatio-temporal-drivers-of</link>
+      <description><![CDATA[The spatio-temporal relations of impacts of extreme events and their drivers in climate data are not fully understood and there is a need of machine learning approaches to identify such spatio-temporal relations from data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/identifying-spatio-temporal-drivers-of</guid>
+    </item>
+    <item>
+      <title>RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/ra-pbrl-provably-efficient-risk-aware</link>
+      <description><![CDATA[To address this, we explore and prove the applicability of two risk-aware objectives to PbRL: nested and static quantile risk objectives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ra-pbrl-provably-efficient-risk-aware</guid>
     </item>
     <item>
       <title>EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching</title>
@@ -81,58 +99,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/edt-an-efficient-diffusion-transformer</guid>
     </item>
     <item>
-      <title>Reasons and Solutions for the Decline in Model Performance after Editing</title>
-      <link>https://paperswithcode.com/paper/reasons-and-solutions-for-the-decline-in</link>
-      <description><![CDATA[In order to investigate the reasons for the performance decline of the edited model and optimize the editing method, this work explores the underlying reasons from both data and model perspectives.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reasons-and-solutions-for-the-decline-in</guid>
+      <title>Disentangling Interpretable Factors with Supervised Independent Subspace Principal Component Analysis</title>
+      <link>https://paperswithcode.com/paper/disentangling-interpretable-factors-with</link>
+      <description><![CDATA[The success of machine learning models relies heavily on effectively representing high-dimensional data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-interpretable-factors-with</guid>
     </item>
     <item>
-      <title>DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion</title>
-      <link>https://paperswithcode.com/paper/diffpano-scalable-and-consistent-text-to</link>
-      <description><![CDATA[Then, we propose a novel text-driven panoramic generation framework, termed DiffPano, to achieve scalable, consistent, and diverse panoramic scene generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffpano-scalable-and-consistent-text-to</guid>
+      <title>Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?</title>
+      <link>https://paperswithcode.com/paper/can-language-models-perform-robust-reasoning</link>
+      <description><![CDATA[Here, we propose the method of contrastive denoising with noisy chain-of-thought (CD-CoT).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-language-models-perform-robust-reasoning</guid>
     </item>
     <item>
-      <title>GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages</title>
-      <link>https://paperswithcode.com/paper/glotcc-an-open-broad-coverage-commoncrawl</link>
-      <description><![CDATA[The need for large text corpora has increased with the advent of pretrained language models and, in particular, the discovery of scaling laws for these models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/glotcc-an-open-broad-coverage-commoncrawl</guid>
+      <title>Beyond Content Relevance: Evaluating Instruction Following in Retrieval Models</title>
+      <link>https://paperswithcode.com/paper/beyond-content-relevance-evaluating</link>
+      <description><![CDATA[Instruction-following capabilities in large language models (LLMs) have significantly progressed, enabling more complex user interactions through detailed prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-content-relevance-evaluating</guid>
     </item>
     <item>
-      <title>Dynamical similarity analysis uniquely captures how computations develop in RNNs</title>
-      <link>https://paperswithcode.com/paper/dynamical-similarity-analysis-uniquely</link>
-      <description><![CDATA[Overall, we develop test cases that showcase how DSA's enhanced ability to detect dynamical motifs makes it highly effective for identifying ongoing computations in RNNs and revealing how networks learn tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamical-similarity-analysis-uniquely</guid>
+      <title>Approaches to human activity recognition via passive radar</title>
+      <link>https://paperswithcode.com/paper/approaches-to-human-activity-recognition-via</link>
+      <description><![CDATA[The thesis explores novel methods for Human Activity Recognition (HAR) using passive radar with a focus on non-intrusive Wi-Fi Channel State Information (CSI) data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/approaches-to-human-activity-recognition-via</guid>
     </item>
     <item>
-      <title>Quantum Deep Equilibrium Models</title>
-      <link>https://paperswithcode.com/paper/quantum-deep-equilibrium-models</link>
-      <description><![CDATA[In this work, we present Quantum Deep Equilibrium Models (QDEQs): a training paradigm that learns parameters of a quantum machine learning model given by a PQC using DEQs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-deep-equilibrium-models</guid>
+      <title>End-to-End Ontology Learning with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/end-to-end-ontology-learning-with-large</link>
+      <description><![CDATA[Ontologies are useful for automatic machine processing of domain knowledge as they represent it in a structured format.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/end-to-end-ontology-learning-with-large</guid>
     </item>
     <item>
-      <title>Enhancing Chess Reinforcement Learning with Graph Representation</title>
-      <link>https://paperswithcode.com/paper/enhancing-chess-reinforcement-learning-with</link>
-      <description><![CDATA[Our experiments, performed on smaller networks than the initial AlphaZero paper, show that this new architecture outperforms previous architectures with a similar number of parameters, being able to increase playing strength an order of magnitude faster.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-chess-reinforcement-learning-with</guid>
+      <title>Neural Network Matrix Product Operator: A Multi-Dimensionally Integrable Machine Learning Potential</title>
+      <link>https://paperswithcode.com/paper/neural-network-matrix-product-operator-a</link>
+      <description><![CDATA[A neural network-based machine learning potential energy surface (PES) expressed in a matrix product operator (NN-MPO) is proposed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-network-matrix-product-operator-a</guid>
     </item>
     <item>
-      <title>Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting</title>
-      <link>https://paperswithcode.com/paper/ada-mshyper-adaptive-multi-scale-hypergraph</link>
-      <description><![CDATA[To this end, we propose Adaptive Multi-Scale Hypergraph Transformer (Ada-MSHyper) for time series forecasting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ada-mshyper-adaptive-multi-scale-hypergraph</guid>
+      <title>Scalable Kernel Inverse Optimization</title>
+      <link>https://paperswithcode.com/paper/scalable-kernel-inverse-optimization</link>
+      <description><![CDATA[To address scalability issues commonly associated with kernel methods, we propose the Sequential Selection Optimization (SSO) algorithm to efficiently train the proposed Kernel Inverse Optimization (KIO) model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-kernel-inverse-optimization</guid>
     </item>
     <item>
-      <title>Graph Learning for Numeric Planning</title>
-      <link>https://paperswithcode.com/paper/graph-learning-for-numeric-planning</link>
-      <description><![CDATA[Graph learning is naturally well suited for use in symbolic, object-centric planning due to its ability to exploit relational structures exhibited in planning domains and to take as input planning instances with arbitrary numbers of objects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/graph-learning-for-numeric-planning</guid>
-    </item>
-    <item>
-      <title>Wide Two-Layer Networks can Learn from Adversarial Perturbations</title>
-      <link>https://paperswithcode.com/paper/wide-two-layer-networks-can-learn-from</link>
-      <description><![CDATA[This hypothesis is supported by the success of perturbation learning, where classifiers trained solely on adversarial examples and the corresponding incorrect labels generalize well to correctly labeled test data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wide-two-layer-networks-can-learn-from</guid>
+      <title>Nearest Neighbor Normalization Improves Multimodal Retrieval</title>
+      <link>https://paperswithcode.com/paper/nearest-neighbor-normalization-improves</link>
+      <description><![CDATA[Multimodal models leverage large-scale pre-training to achieve strong but still imperfect performance on tasks such as image captioning, visual question answering, and cross-modal retrieval.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/nearest-neighbor-normalization-improves</guid>
     </item>
     <item>
       <title>Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers</title>
@@ -141,16 +153,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/reinforcement-learning-gradients-as-vitamin</guid>
     </item>
     <item>
-      <title>Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs</title>
-      <link>https://paperswithcode.com/paper/plan-on-graph-self-correcting-adaptive</link>
-      <description><![CDATA[To address these limitations, we propose a novel self-correcting adaptive planning paradigm for KG-augmented LLM named Plan-on-Graph (PoG), which first decomposes the question into several sub-objectives and then repeats the process of adaptively exploring reasoning paths, updating memory, and reflecting on the need to self-correct erroneous reasoning paths until arriving at the answer.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/plan-on-graph-self-correcting-adaptive</guid>
-    </item>
-    <item>
       <title>EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection</title>
       <link>https://paperswithcode.com/paper/ez-hoi-vlm-adaptation-via-guided-prompt</link>
       <description><![CDATA[However, fine-tuning on task-specific datasets often leads to overfitting to seen classes and suboptimal performance on unseen classes, due to the absence of unseen class labels.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/ez-hoi-vlm-adaptation-via-guided-prompt</guid>
+    </item>
+    <item>
+      <title>Identifiability Guarantees for Causal Disentanglement from Purely Observational Data</title>
+      <link>https://paperswithcode.com/paper/identifiability-guarantees-for-causal-1</link>
+      <description><![CDATA[Causal disentanglement aims to learn about latent causal factors behind data, holding the promise to augment existing representation learning methods in terms of interpretability and extrapolation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/identifiability-guarantees-for-causal-1</guid>
     </item>
     <item>
       <title>Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing</title>
@@ -159,10 +171,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/leveraging-large-language-models-for-code</guid>
     </item>
     <item>
+      <title>Dense Associative Memory Through the Lens of Random Features</title>
+      <link>https://paperswithcode.com/paper/dense-associative-memory-through-the-lens-of</link>
+      <description><![CDATA[Dense Associative Memories are high storage capacity variants of the Hopfield networks that are capable of storing a large number of memory patterns in the weights of the network of a given size.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dense-associative-memory-through-the-lens-of</guid>
+    </item>
+    <item>
       <title>Instruction-Tuning Llama-3-8B Excels in City-Scale Mobility Prediction</title>
       <link>https://paperswithcode.com/paper/instruction-tuning-llama-3-8b-excels-in-city</link>
       <description><![CDATA[Human mobility prediction plays a critical role in applications such as disaster response, urban planning, and epidemic forecasting.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/instruction-tuning-llama-3-8b-excels-in-city</guid>
+    </item>
+    <item>
+      <title>Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs</title>
+      <link>https://paperswithcode.com/paper/plan-on-graph-self-correcting-adaptive</link>
+      <description><![CDATA[To address these limitations, we propose a novel self-correcting adaptive planning paradigm for KG-augmented LLM named Plan-on-Graph (PoG), which first decomposes the question into several sub-objectives and then repeats the process of adaptively exploring reasoning paths, updating memory, and reflecting on the need to self-correct erroneous reasoning paths until arriving at the answer.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/plan-on-graph-self-correcting-adaptive</guid>
     </item>
     <item>
       <title>Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use</title>
@@ -183,16 +207,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/counterfactual-mri-data-augmentation-using</guid>
     </item>
     <item>
-      <title>Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</title>
-      <link>https://paperswithcode.com/paper/enhancing-motion-in-text-to-video-generation</link>
-      <description><![CDATA[This issue stems from the internal biases in text encoding, which overlooks motions, and inadequate conditioning mechanisms in T2V generation models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-motion-in-text-to-video-generation</guid>
-    </item>
-    <item>
-      <title>DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios</title>
-      <link>https://paperswithcode.com/paper/detectrl-benchmarking-llm-generated-text</link>
-      <description><![CDATA[More importantly, we analyzed the potential impact of writing styles, model types, attack methods, the text lengths, and real-world human writing factors on different types of detectors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detectrl-benchmarking-llm-generated-text</guid>
+      <title>Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding</title>
+      <link>https://paperswithcode.com/paper/phrase-decoupling-cross-modal-hierarchical</link>
+      <description><![CDATA[In addition, a corresponding target object position progressive correction strategy is defined based on the hierarchical matching mechanism to achieve accurate positioning for the target object described in the text.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/phrase-decoupling-cross-modal-hierarchical</guid>
     </item>
     <item>
       <title>What is Wrong with Perplexity for Long-context Language Modeling?</title>
@@ -201,10 +219,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/what-is-wrong-with-perplexity-for-long</guid>
     </item>
     <item>
+      <title>Parameter choices in HaarPSI for IQA with medical images</title>
+      <link>https://paperswithcode.com/paper/parameter-choices-in-haarpsi-for-iqa-with</link>
+      <description><![CDATA[We observe that they are more sensitive to the parameter choices than the employed natural images, and on the other hand both medical data sets lead to similar parameter values when optimized.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parameter-choices-in-haarpsi-for-iqa-with</guid>
+    </item>
+    <item>
+      <title>Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</title>
+      <link>https://paperswithcode.com/paper/enhancing-motion-in-text-to-video-generation</link>
+      <description><![CDATA[This issue stems from the internal biases in text encoding, which overlooks motions, and inadequate conditioning mechanisms in T2V generation models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-motion-in-text-to-video-generation</guid>
+    </item>
+    <item>
       <title>On Positional Bias of Faithfulness for Long-form Summarization</title>
       <link>https://paperswithcode.com/paper/on-positional-bias-of-faithfulness-for-long</link>
       <description><![CDATA[Large Language Models (LLMs) often exhibit positional bias in long-context settings, under-attending to information in the middle of inputs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/on-positional-bias-of-faithfulness-for-long</guid>
+    </item>
+    <item>
+      <title>Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment</title>
+      <link>https://paperswithcode.com/paper/rethinking-inverse-reinforcement-learning</link>
+      <description><![CDATA[Many imitation learning (IL) algorithms use inverse reinforcement learning (IRL) to infer a reward function that aligns with the demonstration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-inverse-reinforcement-learning</guid>
+    </item>
+    <item>
+      <title>Bayesian-guided Label Mapping for Visual Reprogramming</title>
+      <link>https://paperswithcode.com/paper/bayesian-guided-label-mapping-for-visual</link>
+      <description><![CDATA[When adapting the output interface, label mapping methods transform the pretrained labels to downstream labels by establishing a gradient-free one-to-one correspondence between the two sets of labels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bayesian-guided-label-mapping-for-visual</guid>
     </item>
     <item>
       <title>TabM: Advancing Tabular Deep Learning with Parameter-Efficient Ensembling</title>
@@ -213,10 +255,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tabm-advancing-tabular-deep-learning-with</guid>
     </item>
     <item>
-      <title>Bayesian-guided Label Mapping for Visual Reprogramming</title>
-      <link>https://paperswithcode.com/paper/bayesian-guided-label-mapping-for-visual</link>
-      <description><![CDATA[When adapting the output interface, label mapping methods transform the pretrained labels to downstream labels by establishing a gradient-free one-to-one correspondence between the two sets of labels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bayesian-guided-label-mapping-for-visual</guid>
+      <title>DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios</title>
+      <link>https://paperswithcode.com/paper/detectrl-benchmarking-llm-generated-text</link>
+      <description><![CDATA[More importantly, we analyzed the potential impact of writing styles, model types, attack methods, the text lengths, and real-world human writing factors on different types of detectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detectrl-benchmarking-llm-generated-text</guid>
     </item>
     <item>
       <title>BitStack: Fine-Grained Size Control for Compressed Large Language Models in Variable Memory Environments</title>
@@ -231,82 +273,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/text-difuse-an-interactive-multi-modal-image</guid>
     </item>
     <item>
+      <title>Failure Modes of LLMs for Causal Reasoning on Narratives</title>
+      <link>https://paperswithcode.com/paper/failure-modes-of-llms-for-causal-reasoning-on</link>
+      <description><![CDATA[We find that even state-of-the-art language models rely on unreliable shortcuts, both in terms of the narrative presentation and their parametric knowledge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/failure-modes-of-llms-for-causal-reasoning-on</guid>
+    </item>
+    <item>
       <title>Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing</title>
       <link>https://paperswithcode.com/paper/towards-generative-ray-path-sampling-for</link>
       <description><![CDATA[Radio propagation modeling is essential in telecommunication research, as radio channels result from complex interactions with environmental objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-generative-ray-path-sampling-for</guid>
     </item>
     <item>
-      <title>Less is More: Pre-Training Cross-Lingual Small-Scale Language Models with Cognitively-Plausible Curriculum Learning Strategies</title>
-      <link>https://paperswithcode.com/paper/less-is-more-pre-training-cross-lingual-small</link>
-      <description><![CDATA[Curriculum Learning has been a popular strategy to improve the cognitive plausibility of Small-Scale Language Models (SSLMs) in the BabyLM Challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/less-is-more-pre-training-cross-lingual-small</guid>
+      <title>Quantum Deep Equilibrium Models</title>
+      <link>https://paperswithcode.com/paper/quantum-deep-equilibrium-models</link>
+      <description><![CDATA[In this work, we present Quantum Deep Equilibrium Models (QDEQs): a training paradigm that learns parameters of a quantum machine learning model given by a PQC using DEQs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-deep-equilibrium-models</guid>
     </item>
     <item>
-      <title>Scalable Sampling for High Utility Patterns</title>
-      <link>https://paperswithcode.com/paper/scalable-sampling-for-high-utility-patterns</link>
-      <description><![CDATA[However, it becomes challenging when trying to identify representative patterns in quantitative databases, especially with large datasets, as enumeration-based strategies struggle due to the vast search space involved.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-sampling-for-high-utility-patterns</guid>
+      <title>GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages</title>
+      <link>https://paperswithcode.com/paper/glotcc-an-open-broad-coverage-commoncrawl</link>
+      <description><![CDATA[The need for large text corpora has increased with the advent of pretrained language models and, in particular, the discovery of scaling laws for these models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/glotcc-an-open-broad-coverage-commoncrawl</guid>
     </item>
     <item>
-      <title>Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning</title>
-      <link>https://paperswithcode.com/paper/comparative-analysis-of-demonstration</link>
-      <description><![CDATA[In-context learning can help Large Language Models (LLMs) to adapt new tasks without additional training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/comparative-analysis-of-demonstration</guid>
+      <title>DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis</title>
+      <link>https://paperswithcode.com/paper/diffbatt-a-diffusion-model-for-battery</link>
+      <description><![CDATA[To address this challenge, we introduce a novel general-purpose model for battery degradation prediction and synthesis, DiffBatt.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffbatt-a-diffusion-model-for-battery</guid>
     </item>
     <item>
-      <title>Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models</title>
-      <link>https://paperswithcode.com/paper/unified-triplet-level-hallucination</link>
-      <description><![CDATA[The core idea of our framework is to conduct hallucination evaluation on (object, relation, object) triplets extracted from LVLMs' responses, and thus, could be easily generalized to different vision-language tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unified-triplet-level-hallucination</guid>
-    </item>
-    <item>
-      <title>Tangent Space Causal Inference: Leveraging Vector Fields for Causal Discovery in Dynamical Systems</title>
-      <link>https://paperswithcode.com/paper/tangent-space-causal-inference-leveraging</link>
-      <description><![CDATA[Causal discovery with time series data remains a challenging yet increasingly important task across many scientific domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tangent-space-causal-inference-leveraging</guid>
-    </item>
-    <item>
-      <title>Simulation-Free Training of Neural ODEs on Paired Data</title>
-      <link>https://paperswithcode.com/paper/simulation-free-training-of-neural-odes-on</link>
-      <description><![CDATA[In this work, we investigate a method for simulation-free training of Neural Ordinary Differential Equations (NODEs) for learning deterministic mappings between paired data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/simulation-free-training-of-neural-odes-on</guid>
-    </item>
-    <item>
-      <title>BAMITA: Bayesian Multiple Imputation for Tensor Arrays</title>
-      <link>https://paperswithcode.com/paper/bamita-bayesian-multiple-imputation-for</link>
-      <description><![CDATA[For two microbiome applications, it is shown to accurately capture uncertainty in the full microbiome profile at missing timepoints and used to infer trends in species diversity for the population.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bamita-bayesian-multiple-imputation-for</guid>
-    </item>
-    <item>
-      <title>Unfolding Target Detection with State Space Model</title>
-      <link>https://paperswithcode.com/paper/unfolding-target-detection-with-state-space</link>
-      <description><![CDATA[We implement a lightweight model of only 260K parameters and conduct real-world experiments for human target detection using FMCW radars.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unfolding-target-detection-with-state-space</guid>
-    </item>
-    <item>
-      <title>TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models</title>
-      <link>https://paperswithcode.com/paper/tomato-assessing-visual-temporal-reasoning</link>
-      <description><![CDATA[Our study of existing benchmarks shows that this capability of MFMs is likely overestimated as many questions can be solved by using a single, few, or out-of-order frames.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tomato-assessing-visual-temporal-reasoning</guid>
-    </item>
-    <item>
-      <title>FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images</title>
-      <link>https://paperswithcode.com/paper/fuseanypart-diffusion-driven-facial-parts</link>
-      <description><![CDATA[Facial parts swapping aims to selectively transfer regions of interest from the source image onto the target image while maintaining the rest of the target image unchanged.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fuseanypart-diffusion-driven-facial-parts</guid>
-    </item>
-    <item>
-      <title>Contrastive Learning and Adversarial Disentanglement for Privacy-Preserving Task-Oriented Semantic Communications</title>
-      <link>https://paperswithcode.com/paper/contrastive-learning-and-adversarial</link>
-      <description><![CDATA[Task-oriented semantic communication systems have emerged as a promising approach to achieving efficient and intelligent data transmission, where only information relevant to a specific task is communicated.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/contrastive-learning-and-adversarial</guid>
-    </item>
-    <item>
-      <title>Very fast Bayesian Additive Regression Trees on GPU</title>
-      <link>https://paperswithcode.com/paper/very-fast-bayesian-additive-regression-trees</link>
-      <description><![CDATA[Bayesian Additive Regression Trees (BART) is a nonparametric Bayesian regression technique based on an ensemble of decision trees.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/very-fast-bayesian-additive-regression-trees</guid>
+      <title>Reasons and Solutions for the Decline in Model Performance after Editing</title>
+      <link>https://paperswithcode.com/paper/reasons-and-solutions-for-the-decline-in</link>
+      <description><![CDATA[In order to investigate the reasons for the performance decline of the edited model and optimize the editing method, this work explores the underlying reasons from both data and model perspectives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reasons-and-solutions-for-the-decline-in</guid>
     </item>
   </channel>
 </rss>
