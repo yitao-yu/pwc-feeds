@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 09:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 21:08:29 +0000</lastBuildDate>
     <item>
       <title>Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent</title>
       <link>https://paperswithcode.com/paper/hunyuan-large-an-open-source-moe-model-with</link>
@@ -21,10 +21,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
     </item>
     <item>
+      <title>TableGPT2: A Large Multimodal Model with Tabular Data Integration</title>
+      <link>https://paperswithcode.com/paper/tablegpt2-a-large-multimodal-model-with</link>
+      <description><![CDATA[In response, we introduce TableGPT2, a model rigorously pre-trained and fine-tuned with over 593. 8K tables and 2. 36M high-quality query-table-output tuples, a scale of table-related data unprecedented in prior research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tablegpt2-a-large-multimodal-model-with</guid>
+    </item>
+    <item>
       <title>Training-free Regional Prompting for Diffusion Transformers</title>
       <link>https://paperswithcode.com/paper/training-free-regional-prompting-for</link>
       <description><![CDATA[Diffusion models have demonstrated excellent capabilities in text-to-image generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-regional-prompting-for</guid>
+    </item>
+    <item>
+      <title>ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate</title>
+      <link>https://paperswithcode.com/paper/adopt-modified-adam-can-converge-with-any-b-2</link>
+      <description><![CDATA[Adam is one of the most popular optimization algorithms in deep learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adopt-modified-adam-can-converge-with-any-b-2</guid>
+    </item>
+    <item>
+      <title>HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems</title>
+      <link>https://paperswithcode.com/paper/htmlrag-html-is-better-than-plain-text-for</link>
+      <description><![CDATA[To alleviate this problem, we propose HtmlRAG, which uses HTML instead of plain text as the format of retrieved knowledge in RAG.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/htmlrag-html-is-better-than-plain-text-for</guid>
+    </item>
+    <item>
+      <title>PromptFix: You Prompt and We Fix the Photo</title>
+      <link>https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</link>
+      <description><![CDATA[To address these limitations, we propose PromptFix, a comprehensive framework that enables diffusion models to follow human instructions to perform a wide variety of image-processing tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</guid>
     </item>
     <item>
       <title>In-Context LoRA for Diffusion Transformers</title>
@@ -33,28 +57,64 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
     </item>
     <item>
-      <title>GameGen-X: Interactive Open-world Game Video Generation</title>
-      <link>https://paperswithcode.com/paper/gamegen-x-interactive-open-world-game-video</link>
-      <description><![CDATA[To realize this vision, we first collected and built an Open-World Video Game Dataset from scratch.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gamegen-x-interactive-open-world-game-video</guid>
-    </item>
-    <item>
-      <title>LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning</title>
-      <link>https://paperswithcode.com/paper/llama-berry-pairwise-optimization-for-o1-like</link>
-      <description><![CDATA[This paper presents an advanced mathematical problem-solving framework, LLaMA-Berry, for enhancing the mathematical reasoning ability of Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-berry-pairwise-optimization-for-o1-like</guid>
-    </item>
-    <item>
       <title>OmniGen: Unified Image Generation</title>
       <link>https://paperswithcode.com/paper/omnigen-unified-image-generation</link>
       <description><![CDATA[In this work, we introduce OmniGen, a new diffusion model for unified image generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/omnigen-unified-image-generation</guid>
     </item>
     <item>
-      <title>PromptFix: You Prompt and We Fix the Photo</title>
-      <link>https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</link>
-      <description><![CDATA[To address these limitations, we propose PromptFix, a comprehensive framework that enables diffusion models to follow human instructions to perform a wide variety of image-processing tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</guid>
+      <title>PiML Toolbox for Interpretable Machine Learning Model Development and Diagnostics</title>
+      <link>https://paperswithcode.com/paper/piml-toolbox-for-interpretable-machine</link>
+      <description><![CDATA[PiML (read $\pi$-ML, /`pai`em`el/) is an integrated and open-access Python toolbox for interpretable machine learning model development and model diagnostics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/piml-toolbox-for-interpretable-machine</guid>
+    </item>
+    <item>
+      <title>MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views</title>
+      <link>https://paperswithcode.com/paper/mvsplat360-feed-forward-360-scene-synthesis</link>
+      <description><![CDATA[To evaluate MVSplat360's performance, we introduce a new benchmark using the challenging DL3DV-10K dataset, where MVSplat360 achieves superior visual quality compared to state-of-the-art methods on wide-sweeping or even 360{\deg} NVS tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mvsplat360-feed-forward-360-scene-synthesis</guid>
+    </item>
+    <item>
+      <title>WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/webrl-training-llm-web-agents-via-self</link>
+      <description><![CDATA[Specifically, WebRL incorporates 1) a self-evolving curriculum that generates new tasks from unsuccessful attempts, 2) a robust outcome-supervised reward model (ORM), and 3) adaptive reinforcement learning strategies to ensure consistent improvements.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/webrl-training-llm-web-agents-via-self</guid>
+    </item>
+    <item>
+      <title>Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant</title>
+      <link>https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime</link>
+      <description><![CDATA[Large Language Models (LLMs) have revolutionized natural language processing, but their application to speech-based tasks remains challenging due to the complexities of integrating audio and text modalities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime</guid>
+    </item>
+    <item>
+      <title>GameGen-X: Interactive Open-world Game Video Generation</title>
+      <link>https://paperswithcode.com/paper/gamegen-x-interactive-open-world-game-video</link>
+      <description><![CDATA[To realize this vision, we first collected and built an Open-World Video Game Dataset from scratch.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gamegen-x-interactive-open-world-game-video</guid>
+    </item>
+    <item>
+      <title>Classification Done Right for Vision-Language Pre-Training</title>
+      <link>https://paperswithcode.com/paper/classification-done-right-for-vision-language</link>
+      <description><![CDATA[Due to the absence of the text encoding as contrastive target, SuperClass does not require a text encoder and does not need to maintain a large batch size as CLIP does.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/classification-done-right-for-vision-language</guid>
+    </item>
+    <item>
+      <title>A Distributed Data-Parallel PyTorch Implementation of the Distributed Shampoo Optimizer for Training Neural Networks At-Scale</title>
+      <link>https://paperswithcode.com/paper/a-distributed-data-parallel-pytorch</link>
+      <description><![CDATA[It constructs a block-diagonal preconditioner where each block consists of a coarse Kronecker product approximation to full-matrix AdaGrad for each parameter of the neural network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-distributed-data-parallel-pytorch</guid>
+    </item>
+    <item>
+      <title>Addressing Representation Collapse in Vector Quantized Models with One Linear Layer</title>
+      <link>https://paperswithcode.com/paper/addressing-representation-collapse-in-vector</link>
+      <description><![CDATA[However, VQ models are often hindered by the problem of representation collapse in the latent space, which leads to low codebook utilization and limits the scalability of the codebook for large-scale training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/addressing-representation-collapse-in-vector</guid>
+    </item>
+    <item>
+      <title>AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents</title>
+      <link>https://paperswithcode.com/paper/androidlab-training-and-systematic</link>
+      <description><![CDATA[It supports both large language models (LLMs) and multimodal models (LMMs) in the same action space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/androidlab-training-and-systematic</guid>
     </item>
     <item>
       <title>DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation</title>
@@ -67,66 +127,6 @@
       <link>https://paperswithcode.com/paper/no-pose-no-problem-surprisingly-simple-3d</link>
       <description><![CDATA[We utilize the reconstructed 3D Gaussians for novel view synthesis and pose estimation tasks and propose a two-stage coarse-to-fine pipeline for accurate pose estimation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/no-pose-no-problem-surprisingly-simple-3d</guid>
-    </item>
-    <item>
-      <title>Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant</title>
-      <link>https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime</link>
-      <description><![CDATA[Large Language Models (LLMs) have revolutionized natural language processing, but their application to speech-based tasks remains challenging due to the complexities of integrating audio and text modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime</guid>
-    </item>
-    <item>
-      <title>PiML Toolbox for Interpretable Machine Learning Model Development and Diagnostics</title>
-      <link>https://paperswithcode.com/paper/piml-toolbox-for-interpretable-machine</link>
-      <description><![CDATA[PiML (read $\pi$-ML, /`pai`em`el/) is an integrated and open-access Python toolbox for interpretable machine learning model development and model diagnostics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/piml-toolbox-for-interpretable-machine</guid>
-    </item>
-    <item>
-      <title>Classification Done Right for Vision-Language Pre-Training</title>
-      <link>https://paperswithcode.com/paper/classification-done-right-for-vision-language</link>
-      <description><![CDATA[Due to the absence of the text encoding as contrastive target, SuperClass does not require a text encoder and does not need to maintain a large batch size as CLIP does.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/classification-done-right-for-vision-language</guid>
-    </item>
-    <item>
-      <title>D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement</title>
-      <link>https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</link>
-      <description><![CDATA[When pretrained on Objects365, D-FINE-L / X attains 57. 1% / 59. 3% AP, surpassing all existing real-time detectors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</guid>
-    </item>
-    <item>
-      <title>Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks</title>
-      <link>https://paperswithcode.com/paper/leopard-a-vision-language-model-for-text-rich</link>
-      <description><![CDATA[Tasks involving multiple text-rich images are especially challenging, as they require not only understanding the content of individual images but reasoning about inter-relationships and logical flows across multiple visual inputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/leopard-a-vision-language-model-for-text-rich</guid>
-    </item>
-    <item>
-      <title>Moonshine: Speech Recognition for Live Transcription and Voice Commands</title>
-      <link>https://paperswithcode.com/paper/moonshine-speech-recognition-for-live</link>
-      <description><![CDATA[This paper introduces Moonshine, a family of speech recognition models optimized for live transcription and voice command processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moonshine-speech-recognition-for-live</guid>
-    </item>
-    <item>
-      <title>Adaptive Length Image Tokenization via Recurrent Allocation</title>
-      <link>https://paperswithcode.com/paper/adaptive-length-image-tokenization-via</link>
-      <description><![CDATA[Our encoder-decoder architecture recursively processes 2D image tokens, distilling them into 1D latent tokens over multiple iterations of recurrent rollouts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adaptive-length-image-tokenization-via</guid>
-    </item>
-    <item>
-      <title>Data Formulator 2: Iteratively Creating Rich Visualizations with AI</title>
-      <link>https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</link>
-      <description><![CDATA[To create rich visualizations, data analysts often need to iterate back and forth among data processing and chart specification to achieve their goals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</guid>
-    </item>
-    <item>
-      <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
-      <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
-      <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
-    </item>
-    <item>
-      <title>Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities</title>
-      <link>https://paperswithcode.com/paper/mini-omni2-towards-open-source-gpt-4o-model</link>
-      <description><![CDATA[It can understand visual, auditory, and textual modalities, directly output audio, and support flexible duplex interaction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mini-omni2-towards-open-source-gpt-4o-model</guid>
     </item>
   </channel>
 </rss>
