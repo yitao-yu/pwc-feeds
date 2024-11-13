@@ -7,90 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 21:08:30 +0000</lastBuildDate>
-    <item>
-      <title>Docling Technical Report</title>
-      <link>https://paperswithcode.com/paper/docling-technical-report</link>
-      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
-    </item>
-    <item>
-      <title>Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent</title>
-      <link>https://paperswithcode.com/paper/hunyuan-large-an-open-source-moe-model-with</link>
-      <description><![CDATA[In this paper, we introduce Hunyuan-Large, which is currently the largest open-source Transformer-based mixture of experts model, with a total of 389 billion parameters and 52 billion activation parameters, capable of handling up to 256K tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuan-large-an-open-source-moe-model-with</guid>
-    </item>
-    <item>
-      <title>ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate</title>
-      <link>https://paperswithcode.com/paper/adopt-modified-adam-can-converge-with-any-b-2</link>
-      <description><![CDATA[Adam is one of the most popular optimization algorithms in deep learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/adopt-modified-adam-can-converge-with-any-b-2</guid>
-    </item>
-    <item>
-      <title>TableGPT2: A Large Multimodal Model with Tabular Data Integration</title>
-      <link>https://paperswithcode.com/paper/tablegpt2-a-large-multimodal-model-with</link>
-      <description><![CDATA[In response, we introduce TableGPT2, a model rigorously pre-trained and fine-tuned with over 593. 8K tables and 2. 36M high-quality query-table-output tuples, a scale of table-related data unprecedented in prior research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tablegpt2-a-large-multimodal-model-with</guid>
-    </item>
+    <lastBuildDate>Wed, 13 Nov 2024 09:15:53 +0000</lastBuildDate>
     <item>
       <title>OmniGen: Unified Image Generation</title>
       <link>https://paperswithcode.com/paper/omnigen-unified-image-generation</link>
       <description><![CDATA[In this work, we introduce OmniGen, a new diffusion model for unified image generation.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/omnigen-unified-image-generation</guid>
-    </item>
-    <item>
-      <title>HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems</title>
-      <link>https://paperswithcode.com/paper/htmlrag-html-is-better-than-plain-text-for</link>
-      <description><![CDATA[To alleviate this problem, we propose HtmlRAG, which uses HTML instead of plain text as the format of retrieved knowledge in RAG.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/htmlrag-html-is-better-than-plain-text-for</guid>
-    </item>
-    <item>
-      <title>MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views</title>
-      <link>https://paperswithcode.com/paper/mvsplat360-feed-forward-360-scene-synthesis</link>
-      <description><![CDATA[To evaluate MVSplat360's performance, we introduce a new benchmark using the challenging DL3DV-10K dataset, where MVSplat360 achieves superior visual quality compared to state-of-the-art methods on wide-sweeping or even 360{\deg} NVS tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mvsplat360-feed-forward-360-scene-synthesis</guid>
-    </item>
-    <item>
-      <title>Geometric Transformer with Interatomic Positional Encoding</title>
-      <link>https://paperswithcode.com/paper/geometric-transformer-with-interatomic</link>
-      <description><![CDATA[The widespread adoption of Transformer architectures in various data modalities has opened new avenues for the applications in molecular modeling.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/geometric-transformer-with-interatomic</guid>
-    </item>
-    <item>
-      <title>A Distributed Data-Parallel PyTorch Implementation of the Distributed Shampoo Optimizer for Training Neural Networks At-Scale</title>
-      <link>https://paperswithcode.com/paper/a-distributed-data-parallel-pytorch</link>
-      <description><![CDATA[It constructs a block-diagonal preconditioner where each block consists of a coarse Kronecker product approximation to full-matrix AdaGrad for each parameter of the neural network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-distributed-data-parallel-pytorch</guid>
-    </item>
-    <item>
-      <title>WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/webrl-training-llm-web-agents-via-self</link>
-      <description><![CDATA[Specifically, WebRL incorporates 1) a self-evolving curriculum that generates new tasks from unsuccessful attempts, 2) a robust outcome-supervised reward model (ORM), and 3) adaptive reinforcement learning strategies to ensure consistent improvements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/webrl-training-llm-web-agents-via-self</guid>
-    </item>
-    <item>
-      <title>Taming Rectified Flow for Inversion and Editing</title>
-      <link>https://paperswithcode.com/paper/taming-rectified-flow-for-inversion-and</link>
-      <description><![CDATA[Rectified-flow-based diffusion transformers, such as FLUX and OpenSora, have demonstrated exceptional performance in the field of image and video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/taming-rectified-flow-for-inversion-and</guid>
-    </item>
-    <item>
-      <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
-      <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
-      <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
-    </item>
-    <item>
-      <title>Classification Done Right for Vision-Language Pre-Training</title>
-      <link>https://paperswithcode.com/paper/classification-done-right-for-vision-language</link>
-      <description><![CDATA[Due to the absence of the text encoding as contrastive target, SuperClass does not require a text encoder and does not need to maintain a large batch size as CLIP does.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/classification-done-right-for-vision-language</guid>
-    </item>
-    <item>
-      <title>AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents</title>
-      <link>https://paperswithcode.com/paper/androidlab-training-and-systematic</link>
-      <description><![CDATA[It supports both large language models (LLMs) and multimodal models (LMMs) in the same action space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/androidlab-training-and-systematic</guid>
     </item>
     <item>
       <title>SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models</title>
@@ -99,10 +21,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/svdqunat-absorbing-outliers-by-low-rank</guid>
     </item>
     <item>
-      <title>Addressing Representation Collapse in Vector Quantized Models with One Linear Layer</title>
-      <link>https://paperswithcode.com/paper/addressing-representation-collapse-in-vector</link>
-      <description><![CDATA[However, VQ models are often hindered by the problem of representation collapse in the latent space, which leads to low codebook utilization and limits the scalability of the codebook for large-scale training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/addressing-representation-collapse-in-vector</guid>
+      <title>Docling Technical Report</title>
+      <link>https://paperswithcode.com/paper/docling-technical-report</link>
+      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
+    </item>
+    <item>
+      <title>ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate</title>
+      <link>https://paperswithcode.com/paper/adopt-modified-adam-can-converge-with-any-b-2</link>
+      <description><![CDATA[Adam is one of the most popular optimization algorithms in deep learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adopt-modified-adam-can-converge-with-any-b-2</guid>
+    </item>
+    <item>
+      <title>Taming Rectified Flow for Inversion and Editing</title>
+      <link>https://paperswithcode.com/paper/taming-rectified-flow-for-inversion-and</link>
+      <description><![CDATA[Rectified-flow-based diffusion transformers, such as FLUX and OpenSora, have demonstrated exceptional performance in the field of image and video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/taming-rectified-flow-for-inversion-and</guid>
+    </item>
+    <item>
+      <title>Qwen2.5-Coder Technical Report</title>
+      <link>https://paperswithcode.com/paper/qwen2-5-coder-technical-report</link>
+      <description><![CDATA[In this report, we introduce the Qwen2. 5-Coder series, a significant upgrade from its predecessor, CodeQwen1. 5.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen2-5-coder-technical-report</guid>
+    </item>
+    <item>
+      <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
+      <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
+      <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
+    </item>
+    <item>
+      <title>MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views</title>
+      <link>https://paperswithcode.com/paper/mvsplat360-feed-forward-360-scene-synthesis</link>
+      <description><![CDATA[To evaluate MVSplat360's performance, we introduce a new benchmark using the challenging DL3DV-10K dataset, where MVSplat360 achieves superior visual quality compared to state-of-the-art methods on wide-sweeping or even 360{\deg} NVS tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mvsplat360-feed-forward-360-scene-synthesis</guid>
+    </item>
+    <item>
+      <title>CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer</title>
+      <link>https://paperswithcode.com/paper/cogvideox-text-to-video-diffusion-models-with</link>
+      <description><![CDATA[We present CogVideoX, a large-scale text-to-video generation model based on diffusion transformer, which can generate 10-second continuous videos aligned with text prompt, with a frame rate of 16 fps and resolution of 768 * 1360 pixels.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cogvideox-text-to-video-diffusion-models-with</guid>
+    </item>
+    <item>
+      <title>FinanceBench: A New Benchmark for Financial Question Answering</title>
+      <link>https://paperswithcode.com/paper/financebench-a-new-benchmark-for-financial</link>
+      <description><![CDATA[We test 16 state of the art model configurations (including GPT-4-Turbo, Llama2 and Claude2, with vector stores and long context prompts) on a sample of 150 cases from FinanceBench, and manually review their answers (n=2, 400).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/financebench-a-new-benchmark-for-financial</guid>
     </item>
     <item>
       <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
@@ -111,22 +75,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
     </item>
     <item>
-      <title>GameGen-X: Interactive Open-world Game Video Generation</title>
-      <link>https://paperswithcode.com/paper/gamegen-x-interactive-open-world-game-video</link>
-      <description><![CDATA[To realize this vision, we first collected and built an Open-World Video Game Dataset from scratch.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gamegen-x-interactive-open-world-game-video</guid>
+      <title>In-Context LoRA for Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</link>
+      <description><![CDATA[While task-specific in terms of tuning data, our framework remains task-agnostic in architecture and pipeline, offering a powerful tool for the community and providing valuable insights for further research on product-level task-agnostic generation systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
     </item>
     <item>
-      <title>Domain-Controlled Prompt Learning</title>
-      <link>https://paperswithcode.com/paper/domain-controlled-prompt-learning</link>
-      <description><![CDATA[Existing prompt learning methods often lack domain-awareness or domain-transfer mechanisms, leading to suboptimal performance due to the misinterpretation of specific images in natural image patterns.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/domain-controlled-prompt-learning</guid>
+      <title>TableGPT2: A Large Multimodal Model with Tabular Data Integration</title>
+      <link>https://paperswithcode.com/paper/tablegpt2-a-large-multimodal-model-with</link>
+      <description><![CDATA[In response, we introduce TableGPT2, a model rigorously pre-trained and fine-tuned with over 593. 8K tables and 2. 36M high-quality query-table-output tuples, a scale of table-related data unprecedented in prior research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tablegpt2-a-large-multimodal-model-with</guid>
+    </item>
+    <item>
+      <title>Extended Agriculture-Vision: An Extension of a Large Aerial Image Dataset for Agricultural Pattern Analysis</title>
+      <link>https://paperswithcode.com/paper/extended-agriculture-vision-an-extension-of-a</link>
+      <description><![CDATA[First, we generate and release an improved version of the Agriculture-Vision dataset (Chiu et al., 2020b) to include raw, full-field imagery for greater experimental flexibility.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/extended-agriculture-vision-an-extension-of-a</guid>
+    </item>
+    <item>
+      <title>QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving</title>
+      <link>https://paperswithcode.com/paper/qserve-w4a8kv4-quantization-and-system-co</link>
+      <description><![CDATA[The key insight driving QServe is that the efficiency of LLM serving on GPUs is critically influenced by operations on low-throughput CUDA cores.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/qserve-w4a8kv4-quantization-and-system-co</guid>
+    </item>
+    <item>
+      <title>TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters</title>
+      <link>https://paperswithcode.com/paper/tokenformer-rethinking-transformer-scaling</link>
+      <description><![CDATA[By treating model parameters as tokens, we replace all the linear projections in Transformers with our token-parameter attention layer, where input tokens act as queries and model parameters as keys and values.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tokenformer-rethinking-transformer-scaling</guid>
+    </item>
+    <item>
+      <title>LLM$\times$MapReduce: Simplified Long-Sequence Processing using Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llm-times-mapreduce-simplified-long-sequence</link>
+      <description><![CDATA[The proposed LLM$\times$MapReduce framework splits the entire document into several chunks for LLMs to read and then aggregates the intermediate answers to produce the final output.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm-times-mapreduce-simplified-long-sequence</guid>
     </item>
     <item>
       <title>OpenHands: An Open Platform for AI Software Developers as Generalist Agents</title>
       <link>https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software</link>
       <description><![CDATA[OpenDevin), a platform for the development of powerful and flexible AI agents that interact with the world in similar ways to those of a human developer: by writing code, interacting with a command line, and browsing the web.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software</guid>
+    </item>
+    <item>
+      <title>Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent</title>
+      <link>https://paperswithcode.com/paper/hunyuan-large-an-open-source-moe-model-with</link>
+      <description><![CDATA[In this paper, we introduce Hunyuan-Large, which is currently the largest open-source Transformer-based mixture of experts model, with a total of 389 billion parameters and 52 billion activation parameters, capable of handling up to 256K tokens.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuan-large-an-open-source-moe-model-with</guid>
+    </item>
+    <item>
+      <title>Training-free Regional Prompting for Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/training-free-regional-prompting-for</link>
+      <description><![CDATA[Diffusion models have demonstrated excellent capabilities in text-to-image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-free-regional-prompting-for</guid>
     </item>
   </channel>
 </rss>
