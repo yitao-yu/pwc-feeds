@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Nov 2024 09:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 21:08:07 +0000</lastBuildDate>
     <item>
       <title>Qwen2.5-Coder Technical Report</title>
       <link>https://paperswithcode.com/paper/qwen2-5-coder-technical-report</link>
@@ -21,28 +21,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/watermark-anything-with-localized-messages</guid>
     </item>
     <item>
-      <title>Docling Technical Report</title>
-      <link>https://paperswithcode.com/paper/docling-technical-report</link>
-      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
-    </item>
-    <item>
       <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
       <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
       <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
     </item>
     <item>
-      <title>In-Context LoRA for Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</link>
-      <description><![CDATA[While task-specific in terms of tuning data, our framework remains task-agnostic in architecture and pipeline, offering a powerful tool for the community and providing valuable insights for further research on product-level task-agnostic generation systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
+      <title>Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement</title>
+      <link>https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</link>
+      <description><![CDATA[To handle these limitations, we decouple the multi-region generation into two sub-tasks, the construction of individual region (Regional Hard Binding) that ensures the regional prompt is properly executed, and the overall detail refinement (Regional Soft Refinement) over regions that dismiss the visual boundaries and enhance adjacent interactions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</guid>
     </item>
     <item>
-      <title>Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement</title>
-      <link>https://paperswithcode.com/paper/lingma-swe-gpt-an-open-development-process</link>
-      <description><![CDATA[The results demonstrate that Lingma SWE-GPT 72B successfully resolves 30. 20% of the GitHub issues, marking a significant improvement in automatic issue resolution (22. 76% relative improvement compared to Llama 3. 1 405B), approaching the performance of closed-source models (31. 80\% issues of GPT-4o resolved).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lingma-swe-gpt-an-open-development-process</guid>
+      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
+      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
+      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
+    </item>
+    <item>
+      <title>Docling Technical Report</title>
+      <link>https://paperswithcode.com/paper/docling-technical-report</link>
+      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
     </item>
     <item>
       <title>LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation</title>
@@ -51,40 +51,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llm2clip-powerful-language-model-unlock</guid>
     </item>
     <item>
-      <title>OmniGen: Unified Image Generation</title>
-      <link>https://paperswithcode.com/paper/omnigen-unified-image-generation</link>
-      <description><![CDATA[In this work, we introduce OmniGen, a new diffusion model for unified image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omnigen-unified-image-generation</guid>
-    </item>
-    <item>
       <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
       <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
       <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
     </item>
     <item>
-      <title>Autoregressive Models in Vision: A Survey</title>
-      <link>https://paperswithcode.com/paper/autoregressive-models-in-vision-a-survey</link>
-      <description><![CDATA[Autoregressive modeling has been a huge success in the field of natural language processing (NLP).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autoregressive-models-in-vision-a-survey</guid>
-    </item>
-    <item>
-      <title>Scaling Mesh Generation via Compressive Tokenization</title>
-      <link>https://paperswithcode.com/paper/scaling-mesh-generation-via-compressive</link>
-      <description><![CDATA[We propose a compressive yet effective mesh representation, Blocked and Patchified Tokenization (BPT), facilitating the generation of meshes exceeding 8k faces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-mesh-generation-via-compressive</guid>
-    </item>
-    <item>
-      <title>TransformerRanker: A Tool for Efficiently Finding the Best-Suited Language Models for Downstream Classification Tasks</title>
-      <link>https://paperswithcode.com/paper/transformerranker-a-tool-for-efficiently</link>
-      <description><![CDATA[Classification tasks in NLP are typically addressed by selecting a pre-trained language model (PLM) from a model hub, and fine-tuning it for the task at hand.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transformerranker-a-tool-for-efficiently</guid>
-    </item>
-    <item>
-      <title>SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/svdqunat-absorbing-outliers-by-low-rank</link>
-      <description><![CDATA[To address this, we co-design an inference engine Nunchaku that fuses the kernels of the low-rank branch into those of the low-bit branch to cut off redundant memory access.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/svdqunat-absorbing-outliers-by-low-rank</guid>
+      <title>In-Context LoRA for Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</link>
+      <description><![CDATA[While task-specific in terms of tuning data, our framework remains task-agnostic in architecture and pipeline, offering a powerful tool for the community and providing valuable insights for further research on product-level task-agnostic generation systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
     </item>
     <item>
       <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
@@ -93,22 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
     </item>
     <item>
-      <title>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</link>
-      <description><![CDATA[To our knowledge, this is the first successful application of point transformers directly on 3DGS sets, surpassing the limitations of previous multi-scene training methods, which could handle only a restricted number of input views during inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</guid>
-    </item>
-    <item>
-      <title>EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture</title>
-      <link>https://paperswithcode.com/paper/easyanimate-a-high-performance-long-video</link>
-      <description><![CDATA[The motion module can be adapted to various DiT baseline methods to generate video with different styles.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easyanimate-a-high-performance-long-video</guid>
-    </item>
-    <item>
-      <title>optillm</title>
-      <link>https://github.com/codelion/optillm</link>
-      <description><![CDATA[Optimizing inference proxy for LLMs]]></description>
-      <guid isPermaLink="true">https://github.com/codelion/optillm</guid>
+      <title>OmniGen: Unified Image Generation</title>
+      <link>https://paperswithcode.com/paper/omnigen-unified-image-generation</link>
+      <description><![CDATA[In this work, we introduce OmniGen, a new diffusion model for unified image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnigen-unified-image-generation</guid>
     </item>
     <item>
       <title>TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters</title>
@@ -123,10 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/stylesinger-2-zero-shot-singing-voice</guid>
     </item>
     <item>
-      <title>MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation</title>
-      <link>https://paperswithcode.com/paper/mba-slam-motion-blur-aware-dense-visual-slam</link>
-      <description><![CDATA[In our experiments, we demonstrate that MBA-SLAM surpasses previous state-of-the-art methods in both camera localization and map reconstruction, showcasing superior performance across a range of datasets, including synthetic and real datasets featuring sharp images as well as those affected by motion blur, highlighting the versatility and robustness of our approach.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mba-slam-motion-blur-aware-dense-visual-slam</guid>
+      <title>The Surprising Effectiveness of Test-Time Training for Abstract Reasoning</title>
+      <link>https://paperswithcode.com/paper/the-surprising-effectiveness-of-test-time</link>
+      <description><![CDATA[TTT significantly improves performance on ARC tasks, achieving up to 6x improvement in accuracy compared to base fine-tuned models; applying TTT to an 8B-parameter language model, we achieve 53% accuracy on the ARC's public validation set, improving the state-of-the-art by nearly 25% for public and purely neural approaches.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-surprising-effectiveness-of-test-time</guid>
+    </item>
+    <item>
+      <title>Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement</title>
+      <link>https://paperswithcode.com/paper/lingma-swe-gpt-an-open-development-process</link>
+      <description><![CDATA[The results demonstrate that Lingma SWE-GPT 72B successfully resolves 30. 20% of the GitHub issues, marking a significant improvement in automatic issue resolution (22. 76% relative improvement compared to Llama 3. 1 405B), approaching the performance of closed-source models (31. 80\% issues of GPT-4o resolved).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lingma-swe-gpt-an-open-development-process</guid>
+    </item>
+    <item>
+      <title>ZIM: Zero-Shot Image Matting for Anything</title>
+      <link>https://paperswithcode.com/paper/zim-zero-shot-image-matting-for-anything</link>
+      <description><![CDATA[To address this limitation, we propose a novel zero-shot image matting model, called ZIM, with two key contributions: First, we develop a label converter that transforms segmentation labels into detailed matte labels, constructing the new SA1B-Matte dataset without costly manual annotations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zim-zero-shot-image-matting-for-anything</guid>
+    </item>
+    <item>
+      <title>JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation</title>
+      <link>https://paperswithcode.com/paper/janusflow-harmonizing-autoregression-and</link>
+      <description><![CDATA[To further improve the performance of our unified model, we adopt two key strategies: (i) decoupling the understanding and generation encoders, and (ii) aligning their representations during unified training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/janusflow-harmonizing-autoregression-and</guid>
+    </item>
+    <item>
+      <title>Face Anonymization Made Simple</title>
+      <link>https://paperswithcode.com/paper/face-anonymization-made-simple</link>
+      <description><![CDATA[Current face anonymization techniques often depend on identity loss calculated by face recognition models, which can be inaccurate and unreliable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/face-anonymization-made-simple</guid>
+    </item>
+    <item>
+      <title>PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling</title>
+      <link>https://paperswithcode.com/paper/pyramidkv-dynamic-kv-cache-compression-based</link>
+      <description><![CDATA[Our experimental evaluations, utilizing the LongBench benchmark, show that PyramidKV matches the performance of models with a full KV cache while retaining only 12% of the KV cache, thus significantly reducing memory usage.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pyramidkv-dynamic-kv-cache-compression-based</guid>
+    </item>
+    <item>
+      <title>Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings</title>
+      <link>https://paperswithcode.com/paper/wavelet-latent-diffusion-wala-billion</link>
+      <description><![CDATA[We attribute this limitation to the inefficiency of current representations, which lack the compactness required to model the generative models effectively.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wavelet-latent-diffusion-wala-billion</guid>
     </item>
   </channel>
 </rss>
