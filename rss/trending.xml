@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 09:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:09:22 +0000</lastBuildDate>
     <item>
       <title>Qwen2.5-Coder Technical Report</title>
       <link>https://paperswithcode.com/paper/qwen2-5-coder-technical-report</link>
       <description><![CDATA[In this report, we introduce the Qwen2. 5-Coder series, a significant upgrade from its predecessor, CodeQwen1. 5.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/qwen2-5-coder-technical-report</guid>
+    </item>
+    <item>
+      <title>garak: A Framework for Security Probing Large Language Models</title>
+      <link>https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large</link>
+      <description><![CDATA[As Large Language Models (LLMs) are deployed and integrated into thousands of applications, the need for scalable evaluation of how models respond to adversarial attacks grows rapidly.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large</guid>
     </item>
     <item>
       <title>Watermark Anything with Localized Messages</title>
@@ -21,28 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/watermark-anything-with-localized-messages</guid>
     </item>
     <item>
-      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
-      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
-      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
-    </item>
-    <item>
       <title>Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement</title>
       <link>https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</link>
       <description><![CDATA[Regional prompting, or compositional generation, which enables fine-grained spatial control, has gained increasing attention for its practicality in real-world applications.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</guid>
     </item>
     <item>
-      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
-      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
-      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
-    </item>
-    <item>
-      <title>Docling Technical Report</title>
-      <link>https://paperswithcode.com/paper/docling-technical-report</link>
-      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
+      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
+      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
+      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
     </item>
     <item>
       <title>LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation</title>
@@ -51,10 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/llm2clip-powerful-language-model-unlock</guid>
     </item>
     <item>
-      <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
-      <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
-      <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
+      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
+      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
+      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
+    </item>
+    <item>
+      <title>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</title>
+      <link>https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</link>
+      <description><![CDATA[The recently released model, Claude 3. 5 Computer Use, stands out as the first frontier AI model to offer computer use in public beta as a graphical user interface (GUI) agent.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</guid>
+    </item>
+    <item>
+      <title>Docling Technical Report</title>
+      <link>https://paperswithcode.com/paper/docling-technical-report</link>
+      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
     </item>
     <item>
       <title>In-Context LoRA for Diffusion Transformers</title>
@@ -63,22 +69,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
     </item>
     <item>
+      <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
+      <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
+      <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
+    </item>
+    <item>
       <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
       <link>https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</link>
       <description><![CDATA[Retrieval-Augmented Generation (RAG) systems enhance large language models (LLMs) by integrating external knowledge sources, enabling more accurate and contextually relevant responses tailored to user needs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
     </item>
     <item>
-      <title>OmniGen: Unified Image Generation</title>
-      <link>https://paperswithcode.com/paper/omnigen-unified-image-generation</link>
-      <description><![CDATA[In this work, we introduce OmniGen, a new diffusion model for unified image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omnigen-unified-image-generation</guid>
+      <title>D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement</title>
+      <link>https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</link>
+      <description><![CDATA[When pretrained on Objects365, D-FINE-L / X attains 57. 1% / 59. 3% AP, surpassing all existing real-time detectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</guid>
     </item>
     <item>
-      <title>TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters</title>
-      <link>https://paperswithcode.com/paper/tokenformer-rethinking-transformer-scaling</link>
-      <description><![CDATA[By treating model parameters as tokens, we replace all the linear projections in Transformers with our token-parameter attention layer, where input tokens act as queries and model parameters as keys and values.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tokenformer-rethinking-transformer-scaling</guid>
+      <title>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</link>
+      <description><![CDATA[To our knowledge, this is the first successful application of point transformers directly on 3DGS sets, surpassing the limitations of previous multi-scene training methods, which could handle only a restricted number of input views during inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</guid>
     </item>
     <item>
       <title>TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control</title>
@@ -87,28 +99,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/stylesinger-2-zero-shot-singing-voice</guid>
     </item>
     <item>
-      <title>The Surprising Effectiveness of Test-Time Training for Abstract Reasoning</title>
-      <link>https://paperswithcode.com/paper/the-surprising-effectiveness-of-test-time</link>
-      <description><![CDATA[TTT significantly improves performance on ARC tasks, achieving up to 6x improvement in accuracy compared to base fine-tuned models; applying TTT to an 8B-parameter language model, we achieve 53% accuracy on the ARC's public validation set, improving the state-of-the-art by nearly 25% for public and purely neural approaches.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-surprising-effectiveness-of-test-time</guid>
+      <title>OmniGen: Unified Image Generation</title>
+      <link>https://paperswithcode.com/paper/omnigen-unified-image-generation</link>
+      <description><![CDATA[In this work, we introduce OmniGen, a new diffusion model for unified image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omnigen-unified-image-generation</guid>
     </item>
     <item>
-      <title>Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement</title>
-      <link>https://paperswithcode.com/paper/lingma-swe-gpt-an-open-development-process</link>
-      <description><![CDATA[The results demonstrate that Lingma SWE-GPT 72B successfully resolves 30. 20% of the GitHub issues, marking a significant improvement in automatic issue resolution (22. 76% relative improvement compared to Llama 3. 1 405B), approaching the performance of closed-source models (31. 80\% issues of GPT-4o resolved).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lingma-swe-gpt-an-open-development-process</guid>
-    </item>
-    <item>
-      <title>ZIM: Zero-Shot Image Matting for Anything</title>
-      <link>https://paperswithcode.com/paper/zim-zero-shot-image-matting-for-anything</link>
-      <description><![CDATA[To address this limitation, we propose a novel zero-shot image matting model, called ZIM, with two key contributions: First, we develop a label converter that transforms segmentation labels into detailed matte labels, constructing the new SA1B-Matte dataset without costly manual annotations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zim-zero-shot-image-matting-for-anything</guid>
-    </item>
-    <item>
-      <title>JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation</title>
-      <link>https://paperswithcode.com/paper/janusflow-harmonizing-autoregression-and</link>
-      <description><![CDATA[To further improve the performance of our unified model, we adopt two key strategies: (i) decoupling the understanding and generation encoders, and (ii) aligning their representations during unified training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/janusflow-harmonizing-autoregression-and</guid>
+      <title>WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia</title>
+      <link>https://paperswithcode.com/paper/wikichat-a-few-shot-llm-based-chatbot</link>
+      <description><![CDATA[WikiChat generates a response from an LLM, retains only the grounded facts, and combines them with additional information it retrieves from the corpus to form factual and engaging responses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wikichat-a-few-shot-llm-based-chatbot</guid>
     </item>
     <item>
       <title>Face Anonymization Made Simple</title>
@@ -123,10 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pyramidkv-dynamic-kv-cache-compression-based</guid>
     </item>
     <item>
-      <title>Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings</title>
-      <link>https://paperswithcode.com/paper/wavelet-latent-diffusion-wala-billion</link>
-      <description><![CDATA[We attribute this limitation to the inefficiency of current representations, which lack the compactness required to model the generative models effectively.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wavelet-latent-diffusion-wala-billion</guid>
+      <title>Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro</title>
+      <link>https://paperswithcode.com/paper/composable-effects-for-flexible-and</link>
+      <description><![CDATA[NumPyro is a lightweight library that provides an alternate NumPy backend to the Pyro probabilistic programming language with the same modeling interface, language primitives and effect handling abstractions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/composable-effects-for-flexible-and</guid>
     </item>
   </channel>
 </rss>
