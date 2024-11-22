@@ -7,12 +7,30 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 09:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:09:15 +0000</lastBuildDate>
+    <item>
+      <title>SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory</title>
+      <link>https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</link>
+      <description><![CDATA[The Segment Anything Model 2 (SAM 2) has demonstrated strong performance in object segmentation tasks but faces challenges in visual object tracking, particularly when managing crowded scenes with fast-moving or self-occluding objects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</guid>
+    </item>
     <item>
       <title>garak: A Framework for Security Probing Large Language Models</title>
       <link>https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large</link>
       <description><![CDATA[As Large Language Models (LLMs) are deployed and integrated into thousands of applications, the need for scalable evaluation of how models respond to adversarial attacks grows rapidly.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large</guid>
+    </item>
+    <item>
+      <title>When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training</title>
+      <link>https://paperswithcode.com/paper/when-precision-meets-position-bfloat16-breaks</link>
+      <description><![CDATA[To address this, we develop AnchorAttention, a plug-and-play attention method that alleviates numerical issues caused by BFloat16, improves long-context capabilities, and speeds up training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/when-precision-meets-position-bfloat16-breaks</guid>
+    </item>
+    <item>
+      <title>JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation</title>
+      <link>https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</link>
+      <description><![CDATA[Specifically, in the first stage, we introduce a decoupled facial representation framework that separates dynamic facial expressions from static 3D facial representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</guid>
     </item>
     <item>
       <title>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</title>
@@ -27,40 +45,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
     </item>
     <item>
+      <title>REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using Extremely Compressed Motion Latents</title>
+      <link>https://paperswithcode.com/paper/reducio-generating-1024-times-1024-video</link>
+      <description><![CDATA[Commercial video generation models have exhibited realistic, high-fidelity results but are still restricted to limited access.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reducio-generating-1024-times-1024-video</guid>
+    </item>
+    <item>
       <title>Qwen2.5-Coder Technical Report</title>
       <link>https://paperswithcode.com/paper/qwen2-5-coder-technical-report</link>
       <description><![CDATA[In this report, we introduce the Qwen2. 5-Coder series, a significant upgrade from its predecessor, CodeQwen1. 5.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/qwen2-5-coder-technical-report</guid>
-    </item>
-    <item>
-      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
-      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
-      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
-    </item>
-    <item>
-      <title>Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement</title>
-      <link>https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</link>
-      <description><![CDATA[Regional prompting, or compositional generation, which enables fine-grained spatial control, has gained increasing attention for its practicality in real-world applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</guid>
-    </item>
-    <item>
-      <title>JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation</title>
-      <link>https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</link>
-      <description><![CDATA[Specifically, in the first stage, we introduce a decoupled facial representation framework that separates dynamic facial expressions from static 3D facial representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</guid>
-    </item>
-    <item>
-      <title>D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement</title>
-      <link>https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</link>
-      <description><![CDATA[When pretrained on Objects365, D-FINE-L / X attains 57. 1% / 59. 3% AP, surpassing all existing real-time detectors.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</guid>
-    </item>
-    <item>
-      <title>StableV2V: Stablizing Shape Consistency in Video-to-Video Editing</title>
-      <link>https://paperswithcode.com/paper/stablev2v-stablizing-shape-consistency-in</link>
-      <description><![CDATA[Recent advancements of generative AI have significantly promoted content creation and editing, where prevailing studies further extend this exciting progress to video editing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/stablev2v-stablizing-shape-consistency-in</guid>
     </item>
     <item>
       <title>TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation</title>
@@ -69,52 +63,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/transvip-speech-to-speech-translation-system</guid>
     </item>
     <item>
-      <title>M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation</title>
-      <link>https://paperswithcode.com/paper/m-var-decoupled-scale-wise-autoregressive</link>
-      <description><![CDATA[In this paper, we show that this scale-wise autoregressive framework can be effectively decoupled into \textit{intra-scale modeling}, which captures local spatial dependencies within each scale, and \textit{inter-scale modeling}, which models cross-scale relationships progressively from coarse-to-fine scales.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/m-var-decoupled-scale-wise-autoregressive</guid>
+      <title>D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement</title>
+      <link>https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</link>
+      <description><![CDATA[When pretrained on Objects365, D-FINE-L / X attains 57. 1% / 59. 3% AP, surpassing all existing real-time detectors.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/d-fine-redefine-regression-task-in-detrs-as</guid>
     </item>
     <item>
-      <title>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</link>
-      <description><![CDATA[To our knowledge, this is the first successful application of point transformers directly on 3DGS sets, surpassing the limitations of previous multi-scene training methods, which could handle only a restricted number of input views during inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</guid>
+      <title>Learning to Fly in Seconds</title>
+      <link>https://paperswithcode.com/paper/learning-to-fly-in-seconds</link>
+      <description><![CDATA[Our framework enables Simulation-to-Reality (Sim2Real) transfer for direct RPM control after only 18 seconds of training on a consumer-grade laptop as well as its deployment on microcontrollers to control a multirotor under real-time guarantees.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-fly-in-seconds</guid>
     </item>
     <item>
-      <title>Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation</title>
-      <link>https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</link>
-      <description><![CDATA[To the best of our knowledge, Hallo2, proposed in this paper, is the first method to achieve 4K resolution and generate hour-long, audio-driven portrait image animations enhanced with textual prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo2-long-duration-and-high-resolution</guid>
+      <title>Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement</title>
+      <link>https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</link>
+      <description><![CDATA[Regional prompting, or compositional generation, which enables fine-grained spatial control, has gained increasing attention for its practicality in real-world applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/region-aware-text-to-image-generation-via</guid>
     </item>
     <item>
-      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
-      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
-      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
-    </item>
-    <item>
-      <title>LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation</title>
-      <link>https://paperswithcode.com/paper/llm2clip-powerful-language-model-unlock</link>
-      <description><![CDATA[In this paper, we propose LLM2CLIP, a novel approach that embraces the power of LLMs to unlock CLIP's potential.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm2clip-powerful-language-model-unlock</guid>
-    </item>
-    <item>
-      <title>PromptFix: You Prompt and We Fix the Photo</title>
-      <link>https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</link>
-      <description><![CDATA[To address these limitations, we propose PromptFix, a comprehensive framework that enables diffusion models to follow human instructions to perform a wide variety of image-processing tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</guid>
-    </item>
-    <item>
-      <title>Docling Technical Report</title>
-      <link>https://paperswithcode.com/paper/docling-technical-report</link>
-      <description><![CDATA[This technical report introduces Docling, an easy to use, self-contained, MIT-licensed open-source package for PDF document conversion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/docling-technical-report</guid>
-    </item>
-    <item>
-      <title>WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia</title>
-      <link>https://paperswithcode.com/paper/wikichat-a-few-shot-llm-based-chatbot</link>
-      <description><![CDATA[WikiChat generates a response from an LLM, retains only the grounded facts, and combines them with additional information it retrieves from the corpus to form factual and engaging responses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wikichat-a-few-shot-llm-based-chatbot</guid>
+      <title>StableV2V: Stablizing Shape Consistency in Video-to-Video Editing</title>
+      <link>https://paperswithcode.com/paper/stablev2v-stablizing-shape-consistency-in</link>
+      <description><![CDATA[Recent advancements of generative AI have significantly promoted content creation and editing, where prevailing studies further extend this exciting progress to video editing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stablev2v-stablizing-shape-consistency-in</guid>
     </item>
     <item>
       <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
@@ -123,10 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
     </item>
     <item>
-      <title>Awaker2.5-VL: Stably Scaling MLLMs with Parameter-Efficient Mixture of Experts</title>
-      <link>https://paperswithcode.com/paper/awaker2-5-vl-stably-scaling-mllms-with</link>
-      <description><![CDATA[As the research of Multimodal Large Language Models (MLLMs) becomes popular, an advancing MLLM model is typically required to handle various textual and visual tasks (e. g., VQA, Detection, OCR, and ChartQA) simultaneously for real-world applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/awaker2-5-vl-stably-scaling-mllms-with</guid>
+      <title>LLM2CLIP: Powerful Language Model Unlocks Richer Visual Representation</title>
+      <link>https://paperswithcode.com/paper/llm2clip-powerful-language-model-unlock</link>
+      <description><![CDATA[In this paper, we propose LLM2CLIP, a novel approach that embraces the power of LLMs to unlock CLIP's potential.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm2clip-powerful-language-model-unlock</guid>
+    </item>
+    <item>
+      <title>WhisperNER: Unified Open Named Entity and Speech Recognition</title>
+      <link>https://paperswithcode.com/paper/whisperner-unified-open-named-entity-and</link>
+      <description><![CDATA[In this paper, we introduce WhisperNER, a novel model that allows joint speech transcription and entity recognition.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/whisperner-unified-open-named-entity-and</guid>
+    </item>
+    <item>
+      <title>PromptFix: You Prompt and We Fix the Photo</title>
+      <link>https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</link>
+      <description><![CDATA[To address these limitations, we propose PromptFix, a comprehensive framework that enables diffusion models to follow human instructions to perform a wide variety of image-processing tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/promptfix-you-prompt-and-we-fix-the-photo</guid>
+    </item>
+    <item>
+      <title>SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration</title>
+      <link>https://paperswithcode.com/paper/sageattention2-technical-report-accurate-4</link>
+      <description><![CDATA[Second, we propose a method to smooth $Q$ and $V$, enhancing the accuracy of attention with INT4 $QK$ and FP8 $PV$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sageattention2-technical-report-accurate-4</guid>
+    </item>
+    <item>
+      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
+      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
+      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
+    </item>
+    <item>
+      <title>SplatFormer: Point Transformer for Robust 3D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</link>
+      <description><![CDATA[To our knowledge, this is the first successful application of point transformers directly on 3DGS sets, surpassing the limitations of previous multi-scene training methods, which could handle only a restricted number of input views during inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/splatformer-point-transformer-for-robust-3d</guid>
     </item>
   </channel>
 </rss>
