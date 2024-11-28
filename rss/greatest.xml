@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 21:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 09:17:33 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
@@ -129,28 +129,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</guid>
     </item>
     <item>
-      <title>Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
-      <link>https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</link>
-      <description><![CDATA[In this work, we develop and release Llama 2, a collection of pretrained and fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70 billion parameters.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat</guid>
-    </item>
-    <item>
-      <title>GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints</title>
-      <link>https://paperswithcode.com/paper/gqa-training-generalized-multi-query</link>
-      <description><![CDATA[Multi-query attention (MQA), which only uses a single key-value head, drastically speeds up decoder inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gqa-training-generalized-multi-query</guid>
-    </item>
-    <item>
-      <title>Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training</title>
-      <link>https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</link>
-      <description><![CDATA[Given the massive cost of language model pre-training, a non-trivial improvement of the optimization algorithm would lead to a material reduction on the time and cost of training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sophia-a-scalable-stochastic-second-order</guid>
-    </item>
-    <item>
-      <title>GPT-NeoX-20B: An Open-Source Autoregressive Language Model</title>
-      <link>https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</link>
-      <description><![CDATA[We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language model trained on the Pile, whose weights will be made freely and openly available to the public through a permissive license.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gpt-neox-20b-an-open-source-autoregressive-1</guid>
+      <title>annotated_deep_learning_paper_implementations</title>
+      <link>https://github.com/labmlai/annotated_deep_learning_paper_implementations</link>
+      <description><![CDATA[ 60+ Implementations/tutorials of deep learning papers with side-by-side notes ; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...),  reinforcement learning (ppo, dqn), capsnet, distillation, ... ]]></description>
+      <guid isPermaLink="true">https://github.com/labmlai/annotated_deep_learning_paper_implementations</guid>
     </item>
   </channel>
 </rss>

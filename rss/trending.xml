@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 21:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 09:17:32 +0000</lastBuildDate>
     <item>
       <title>SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory</title>
       <link>https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</link>
       <description><![CDATA[The Segment Anything Model 2 (SAM 2) has demonstrated strong performance in object segmentation tasks but faces challenges in visual object tracking, particularly when managing crowded scenes with fast-moving or self-occluding objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</guid>
+    </item>
+    <item>
+      <title>OminiControl: Minimal and Universal Control for Diffusion Transformer</title>
+      <link>https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</link>
+      <description><![CDATA[In this paper, we introduce OminiControl, a highly versatile and parameter-efficient framework that integrates image conditions into pre-trained Diffusion Transformer (DiT) models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</guid>
     </item>
     <item>
       <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
@@ -21,46 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
     </item>
     <item>
-      <title>JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation</title>
-      <link>https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</link>
-      <description><![CDATA[Specifically, in the first stage, we introduce a decoupled facial representation framework that separates dynamic facial expressions from static 3D facial representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</guid>
+      <title>One Diffusion to Generate Them All</title>
+      <link>https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</link>
+      <description><![CDATA[Experimental results demonstrate competitive performance across tasks in both generation and prediction such as text-to-image, multiview generation, ID preservation, depth estimation and camera pose estimation despite relatively small training dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</guid>
     </item>
     <item>
-      <title>DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding</title>
-      <link>https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</link>
-      <description><![CDATA[DINO-X employs the same Transformer-based encoder-decoder architecture as Grounding DINO 1. 5 to pursue an object-level representation for open-world object understanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</guid>
-    </item>
-    <item>
-      <title>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</title>
-      <link>https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</link>
-      <description><![CDATA[The recently released model, Claude 3. 5 Computer Use, stands out as the first frontier AI model to offer computer use in public beta as a graphical user interface (GUI) agent.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</guid>
-    </item>
-    <item>
-      <title>Learning to Fly in Seconds</title>
-      <link>https://paperswithcode.com/paper/learning-to-fly-in-seconds</link>
-      <description><![CDATA[Our framework enables Simulation-to-Reality (Sim2Real) transfer for direct RPM control after only 18 seconds of training on a consumer-grade laptop as well as its deployment on microcontrollers to control a multirotor under real-time guarantees.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-fly-in-seconds</guid>
-    </item>
-    <item>
-      <title>Multimodal Autoregressive Pre-training of Large Vision Encoders</title>
-      <link>https://paperswithcode.com/paper/multimodal-autoregressive-pre-training-of</link>
-      <description><![CDATA[We introduce a novel method for pre-training of large-scale vision encoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-autoregressive-pre-training-of</guid>
-    </item>
-    <item>
-      <title>When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training</title>
-      <link>https://paperswithcode.com/paper/when-precision-meets-position-bfloat16-breaks</link>
-      <description><![CDATA[To address this, we develop AnchorAttention, a plug-and-play attention method that alleviates numerical issues caused by BFloat16, improves long-context capabilities, and speeds up training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/when-precision-meets-position-bfloat16-breaks</guid>
-    </item>
-    <item>
-      <title>Tora: Trajectory-oriented Diffusion Transformer for Video Generation</title>
-      <link>https://paperswithcode.com/paper/tora-trajectory-oriented-diffusion</link>
-      <description><![CDATA[The TE encodes arbitrary trajectories into hierarchical spacetime motion patches with a 3D video compression network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-trajectory-oriented-diffusion</guid>
+      <title>Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions</title>
+      <link>https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</link>
+      <description><![CDATA[Currently OpenAI o1 sparks a surge of interest in the study of large reasoning models (LRM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</guid>
     </item>
     <item>
       <title>Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback</title>
@@ -69,22 +45,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</guid>
     </item>
     <item>
+      <title>DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding</title>
+      <link>https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</link>
+      <description><![CDATA[DINO-X employs the same Transformer-based encoder-decoder architecture as Grounding DINO 1. 5 to pursue an object-level representation for open-world object understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</guid>
+    </item>
+    <item>
+      <title>DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</link>
+      <description><![CDATA[However, the numerous denoising steps in the robotic diffusion policy and the more dynamic, open-world nature of traffic scenes pose substantial challenges for generating diverse driving actions at a real-time speed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</guid>
+    </item>
+    <item>
+      <title>Cautious Optimizers: Improving Training with One Line of Code</title>
+      <link>https://paperswithcode.com/paper/cautious-optimizers-improving-training-with</link>
+      <description><![CDATA[In this work, we propose a \textbf{single-line modification in Pytorch} to any momentum-based optimizer, which we rename Cautious Optimizer, e. g. C-AdamW and C-Lion.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cautious-optimizers-improving-training-with</guid>
+    </item>
+    <item>
+      <title>Tora: Trajectory-oriented Diffusion Transformer for Video Generation</title>
+      <link>https://paperswithcode.com/paper/tora-trajectory-oriented-diffusion</link>
+      <description><![CDATA[The TE encodes arbitrary trajectories into hierarchical spacetime motion patches with a 3D video compression network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-trajectory-oriented-diffusion</guid>
+    </item>
+    <item>
+      <title>Multimodal Autoregressive Pre-training of Large Vision Encoders</title>
+      <link>https://paperswithcode.com/paper/multimodal-autoregressive-pre-training-of</link>
+      <description><![CDATA[We introduce a novel method for pre-training of large-scale vision encoders.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-autoregressive-pre-training-of</guid>
+    </item>
+    <item>
       <title>OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs</title>
       <link>https://paperswithcode.com/paper/openscholar-synthesizing-scientific</link>
       <description><![CDATA[Scientific progress depends on researchers' ability to synthesize the growing body of literature.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/openscholar-synthesizing-scientific</guid>
     </item>
     <item>
-      <title>In-Context LoRA for Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</link>
-      <description><![CDATA[While task-specific in terms of tuning data, our framework remains task-agnostic in architecture and pipeline, offering a powerful tool for the community and providing valuable insights for further research on product-level task-agnostic generation systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/in-context-lora-for-diffusion-transformers</guid>
-    </item>
-    <item>
-      <title>Multi-Programming Language Sandbox for LLMs</title>
-      <link>https://paperswithcode.com/paper/multi-programming-language-sandbox-for-llms</link>
-      <description><![CDATA[We introduce MPLSandbox, an out-of-the-box multi-programming language sandbox designed to provide unified and comprehensive feedback from compiler and analysis tools for Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-programming-language-sandbox-for-llms</guid>
+      <title>Learning to Fly in Seconds</title>
+      <link>https://paperswithcode.com/paper/learning-to-fly-in-seconds</link>
+      <description><![CDATA[Our framework enables Simulation-to-Reality (Sim2Real) transfer for direct RPM control after only 18 seconds of training on a consumer-grade laptop as well as its deployment on microcontrollers to control a multirotor under real-time guarantees.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-fly-in-seconds</guid>
     </item>
     <item>
       <title>FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations</title>
@@ -93,22 +93,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/flipsketch-flipping-static-drawings-to-text</guid>
     </item>
     <item>
-      <title>CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions</title>
-      <link>https://paperswithcode.com/paper/crisperwhisper-accurate-timestamps-on</link>
-      <description><![CDATA[We demonstrate that carefully adjusting the tokenizer of the Whisper speech recognition model significantly improves the precision of word-level timestamps when applying dynamic time warping to the decoder's cross-attention scores.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/crisperwhisper-accurate-timestamps-on</guid>
+      <title>3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes</title>
+      <link>https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</link>
+      <description><![CDATA[Our results highlight the potential of 3D Convex Splatting to become the new standard for high-quality scene reconstruction and novel view synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</guid>
     </item>
     <item>
-      <title>WhisperNER: Unified Open Named Entity and Speech Recognition</title>
-      <link>https://paperswithcode.com/paper/whisperner-unified-open-named-entity-and</link>
-      <description><![CDATA[In this paper, we introduce WhisperNER, a novel model that allows joint speech transcription and entity recognition.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/whisperner-unified-open-named-entity-and</guid>
+      <title>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</title>
+      <link>https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</link>
+      <description><![CDATA[The recently released model, Claude 3. 5 Computer Use, stands out as the first frontier AI model to offer computer use in public beta as a graphical user interface (GUI) agent.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</guid>
     </item>
     <item>
-      <title>REDUCIO! Generating 1024$\times$1024 Video within 16 Seconds using Extremely Compressed Motion Latents</title>
-      <link>https://paperswithcode.com/paper/reducio-generating-1024-times-1024-video</link>
-      <description><![CDATA[Commercial video generation models have exhibited realistic, high-fidelity results but are still restricted to limited access.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reducio-generating-1024-times-1024-video</guid>
+      <title>JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation</title>
+      <link>https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</link>
+      <description><![CDATA[Specifically, in the first stage, we introduce a decoupled facial representation framework that separates dynamic facial expressions from static 3D facial representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</guid>
     </item>
     <item>
       <title>Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline</title>
@@ -117,16 +117,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/interactive-medical-image-segmentation-a</guid>
     </item>
     <item>
-      <title>Qwen2.5-Coder Technical Report</title>
-      <link>https://paperswithcode.com/paper/qwen2-5-coder-technical-report</link>
-      <description><![CDATA[In this report, we introduce the Qwen2. 5-Coder series, a significant upgrade from its predecessor, CodeQwen1. 5.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/qwen2-5-coder-technical-report</guid>
+      <title>MARS: Unleashing the Power of Variance Reduction for Training Large Models</title>
+      <link>https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</link>
+      <description><![CDATA[Despite the development of numerous variance reduction algorithms in the past decade aimed at accelerating stochastic optimization in both convex and nonconvex settings, variance reduction has not found widespread success in training deep neural networks or large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</guid>
     </item>
     <item>
-      <title>LightRAG: Simple and Fast Retrieval-Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</link>
-      <description><![CDATA[Retrieval-Augmented Generation (RAG) systems enhance large language models (LLMs) by integrating external knowledge sources, enabling more accurate and contextually relevant responses tailored to user needs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lightrag-simple-and-fast-retrieval-augmented</guid>
+      <title>Multi-Programming Language Sandbox for LLMs</title>
+      <link>https://paperswithcode.com/paper/multi-programming-language-sandbox-for-llms</link>
+      <description><![CDATA[We introduce MPLSandbox, an out-of-the-box multi-programming language sandbox designed to provide unified and comprehensive feedback from compiler and analysis tools for Large Language Models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-programming-language-sandbox-for-llms</guid>
     </item>
   </channel>
 </rss>
