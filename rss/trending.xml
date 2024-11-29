@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 09:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 21:08:43 +0000</lastBuildDate>
     <item>
       <title>SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory</title>
       <link>https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</link>
       <description><![CDATA[The Segment Anything Model 2 (SAM 2) has demonstrated strong performance in object segmentation tasks but faces challenges in visual object tracking, particularly when managing crowded scenes with fast-moving or self-occluding objects.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</guid>
+    </item>
+    <item>
+      <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
+      <link>https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</link>
+      <description><![CDATA[Recent work on human animation usually involves audio, pose, or movement maps conditions, thereby achieves vivid animation quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
+    </item>
+    <item>
+      <title>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</title>
+      <link>https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</link>
+      <description><![CDATA[In this work, we develop a vision-language-action model in digital world, namely ShowUI, which features the following innovations: (i) UI-Guided Visual Token Selection to reduce computational costs by formulating screenshots as an UI connected graph, adaptively identifying their redundant relationship and serve as the criteria for token selection during self-attention blocks; (ii) Interleaved Vision-Language-Action Streaming that flexibly unifies diverse needs within GUI tasks, enabling effective management of visual-action history in navigation or pairing multi-turn query-action sequences per screenshot to enhance training efficiency; (iii) Small-scale High-quality GUI Instruction-following Datasets by careful data curation and employing a resampling strategy to address significant data type imbalances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</guid>
     </item>
     <item>
       <title>OminiControl: Minimal and Universal Control for Diffusion Transformer</title>
@@ -21,10 +33,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</guid>
     </item>
     <item>
-      <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
-      <link>https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</link>
-      <description><![CDATA[Recent work on human animation usually involves audio, pose, or movement maps conditions, thereby achieves vivid animation quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
+      <title>Star Attention: Efficient LLM Inference over Long Sequences</title>
+      <link>https://paperswithcode.com/paper/star-attention-efficient-llm-inference-over</link>
+      <description><![CDATA[Inference with Transformer-based Large Language Models (LLMs) on long sequences is both costly and slow due to the quadratic complexity of the self-attention mechanism.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/star-attention-efficient-llm-inference-over</guid>
+    </item>
+    <item>
+      <title>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</title>
+      <link>https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</link>
+      <description><![CDATA[Compared to the baseline method, Mooncake can achieve up to a 525% increase in throughput in certain simulated scenarios while adhering to SLOs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</guid>
+    </item>
+    <item>
+      <title>Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback</title>
+      <link>https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</link>
+      <description><![CDATA[High-quality preference data leads to improvements of up to 8% in instruction following and truthfulness.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</guid>
     </item>
     <item>
       <title>One Diffusion to Generate Them All</title>
@@ -39,10 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</guid>
     </item>
     <item>
-      <title>Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback</title>
-      <link>https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</link>
-      <description><![CDATA[High-quality preference data leads to improvements of up to 8% in instruction following and truthfulness.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</guid>
+      <title>StableAnimator: High-Quality Identity-Preserving Human Image Animation</title>
+      <link>https://paperswithcode.com/paper/stableanimator-high-quality-identity</link>
+      <description><![CDATA[During inference, we propose a novel Hamilton-Jacobi-Bellman (HJB) equation-based optimization to further enhance the face quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stableanimator-high-quality-identity</guid>
     </item>
     <item>
       <title>DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding</title>
@@ -51,40 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</guid>
     </item>
     <item>
-      <title>DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</link>
-      <description><![CDATA[However, the numerous denoising steps in the robotic diffusion policy and the more dynamic, open-world nature of traffic scenes pose substantial challenges for generating diverse driving actions at a real-time speed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</guid>
-    </item>
-    <item>
       <title>Cautious Optimizers: Improving Training with One Line of Code</title>
       <link>https://paperswithcode.com/paper/cautious-optimizers-improving-training-with</link>
       <description><![CDATA[In this work, we propose a \textbf{single-line modification in Pytorch} to any momentum-based optimizer, which we rename Cautious Optimizer, e. g. C-AdamW and C-Lion.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/cautious-optimizers-improving-training-with</guid>
     </item>
     <item>
-      <title>Tora: Trajectory-oriented Diffusion Transformer for Video Generation</title>
-      <link>https://paperswithcode.com/paper/tora-trajectory-oriented-diffusion</link>
-      <description><![CDATA[The TE encodes arbitrary trajectories into hierarchical spacetime motion patches with a 3D video compression network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tora-trajectory-oriented-diffusion</guid>
+      <title>ChatRex: Taming Multimodal LLM for Joint Perception and Understanding</title>
+      <link>https://paperswithcode.com/paper/chatrex-taming-multimodal-llm-for-joint</link>
+      <description><![CDATA[From the data perspective, we build a fully automated data engine and construct the Rexverse-2M dataset which possesses multiple granularities to support the joint training of perception and understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chatrex-taming-multimodal-llm-for-joint</guid>
     </item>
     <item>
-      <title>Multimodal Autoregressive Pre-training of Large Vision Encoders</title>
-      <link>https://paperswithcode.com/paper/multimodal-autoregressive-pre-training-of</link>
-      <description><![CDATA[We introduce a novel method for pre-training of large-scale vision encoders.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-autoregressive-pre-training-of</guid>
-    </item>
-    <item>
-      <title>OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs</title>
-      <link>https://paperswithcode.com/paper/openscholar-synthesizing-scientific</link>
-      <description><![CDATA[Scientific progress depends on researchers' ability to synthesize the growing body of literature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openscholar-synthesizing-scientific</guid>
-    </item>
-    <item>
-      <title>Learning to Fly in Seconds</title>
-      <link>https://paperswithcode.com/paper/learning-to-fly-in-seconds</link>
-      <description><![CDATA[Our framework enables Simulation-to-Reality (Sim2Real) transfer for direct RPM control after only 18 seconds of training on a consumer-grade laptop as well as its deployment on microcontrollers to control a multirotor under real-time guarantees.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-to-fly-in-seconds</guid>
+      <title>DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/droid-splat-combining-end-to-end-slam-with-3d</link>
+      <description><![CDATA[Recent progress in scene synthesis makes standalone SLAM systems purely based on optimizing hyperprimitives with a Rendering objective possible \cite{monogs}.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/droid-splat-combining-end-to-end-slam-with-3d</guid>
     </item>
     <item>
       <title>FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations</title>
@@ -93,40 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/flipsketch-flipping-static-drawings-to-text</guid>
     </item>
     <item>
+      <title>WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model</title>
+      <link>https://paperswithcode.com/paper/wf-vae-enhancing-video-vae-by-wavelet-driven</link>
+      <description><![CDATA[However, as the resolution and duration of generated videos increase, the encoding cost of Video VAEs becomes a limiting bottleneck in training LVDMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/wf-vae-enhancing-video-vae-by-wavelet-driven</guid>
+    </item>
+    <item>
+      <title>DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</link>
+      <description><![CDATA[However, the numerous denoising steps in the robotic diffusion policy and the more dynamic, open-world nature of traffic scenes pose substantial challenges for generating diverse driving actions at a real-time speed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</guid>
+    </item>
+    <item>
       <title>3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes</title>
       <link>https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</link>
       <description><![CDATA[Our results highlight the potential of 3D Convex Splatting to become the new standard for high-quality scene reconstruction and novel view synthesis.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</guid>
     </item>
     <item>
-      <title>The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use</title>
-      <link>https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</link>
-      <description><![CDATA[The recently released model, Claude 3. 5 Computer Use, stands out as the first frontier AI model to offer computer use in public beta as a graphical user interface (GUI) agent.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-dawn-of-gui-agent-a-preliminary-case</guid>
+      <title>OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs</title>
+      <link>https://paperswithcode.com/paper/openscholar-synthesizing-scientific</link>
+      <description><![CDATA[Scientific progress depends on researchers' ability to synthesize the growing body of literature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openscholar-synthesizing-scientific</guid>
     </item>
     <item>
-      <title>JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation</title>
-      <link>https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</link>
-      <description><![CDATA[Specifically, in the first stage, we introduce a decoupled facial representation framework that separates dynamic facial expressions from static 3D facial representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/joyvasa-portrait-and-animal-image-animation</guid>
-    </item>
-    <item>
-      <title>Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline</title>
-      <link>https://paperswithcode.com/paper/interactive-medical-image-segmentation-a</link>
-      <description><![CDATA[To facilitate research on foundational models in medical computer vision, we release the IMed-361M and model at https://github. com/uni-medical/IMIS-Bench.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/interactive-medical-image-segmentation-a</guid>
-    </item>
-    <item>
-      <title>MARS: Unleashing the Power of Variance Reduction for Training Large Models</title>
-      <link>https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</link>
-      <description><![CDATA[Despite the development of numerous variance reduction algorithms in the past decade aimed at accelerating stochastic optimization in both convex and nonconvex settings, variance reduction has not found widespread success in training deep neural networks or large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</guid>
-    </item>
-    <item>
-      <title>Multi-Programming Language Sandbox for LLMs</title>
-      <link>https://paperswithcode.com/paper/multi-programming-language-sandbox-for-llms</link>
-      <description><![CDATA[We introduce MPLSandbox, an out-of-the-box multi-programming language sandbox designed to provide unified and comprehensive feedback from compiler and analysis tools for Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multi-programming-language-sandbox-for-llms</guid>
+      <title>Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient</title>
+      <link>https://paperswithcode.com/paper/collaborative-decoding-makes-visual-auto</link>
+      <description><![CDATA[The large model serves as the 'drafter', specializing in generating low-frequency content at smaller scales, while the smaller model serves as the 'refiner', solely focusing on predicting high-frequency details at larger scales.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/collaborative-decoding-makes-visual-auto</guid>
     </item>
   </channel>
 </rss>
