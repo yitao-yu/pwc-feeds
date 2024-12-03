@@ -7,7 +7,13 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Dec 2024 09:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 21:09:29 +0000</lastBuildDate>
+    <item>
+      <title>DeMo: Decoupled Momentum Optimization</title>
+      <link>https://paperswithcode.com/paper/demo-decoupled-momentum-optimization</link>
+      <description><![CDATA[Training large neural networks typically requires sharing gradients between accelerators through specialized high-speed interconnects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/demo-decoupled-momentum-optimization</guid>
+    </item>
     <item>
       <title>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</title>
       <link>https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</link>
@@ -15,16 +21,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</guid>
     </item>
     <item>
-      <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
-      <link>https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</link>
-      <description><![CDATA[Recent work on human animation usually involves audio, pose, or movement maps conditions, thereby achieves vivid animation quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
+      <title>MossFormer: Pushing the Performance Limit of Monaural Speech Separation using Gated Single-Head Transformer with Convolution-Augmented Joint Self-Attentions</title>
+      <link>https://paperswithcode.com/paper/mossformer-pushing-the-performance-limit-of</link>
+      <description><![CDATA[To effectively solve the indirect elemental interactions across chunks in the dual-path architecture, MossFormer employs a joint local and global self-attention architecture that simultaneously performs a full-computation self-attention on local chunks and a linearised low-cost self-attention over the full sequence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mossformer-pushing-the-performance-limit-of</guid>
+    </item>
+    <item>
+      <title>Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/auto-rag-autonomous-retrieval-augmented</link>
+      <description><![CDATA[Iterative retrieval refers to the process in which the model continuously queries the retriever during generation to enhance the relevance of the retrieved knowledge, thereby improving the performance of Retrieval-Augmented Generation (RAG).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/auto-rag-autonomous-retrieval-augmented</guid>
+    </item>
+    <item>
+      <title>Identity-Preserving Text-to-Video Generation by Frequency Decomposition</title>
+      <link>https://paperswithcode.com/paper/identity-preserving-text-to-video-generation</link>
+      <description><![CDATA[We propose a hierarchical training strategy to leverage frequency information for identity preservation, transforming a vanilla pre-trained video generation model into an IPT2V model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/identity-preserving-text-to-video-generation</guid>
     </item>
     <item>
       <title>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</title>
       <link>https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</link>
       <description><![CDATA[In this work, we develop a vision-language-action model in digital world, namely ShowUI, which features the following innovations: (i) UI-Guided Visual Token Selection to reduce computational costs by formulating screenshots as an UI connected graph, adaptively identifying their redundant relationship and serve as the criteria for token selection during self-attention blocks; (ii) Interleaved Vision-Language-Action Streaming that flexibly unifies diverse needs within GUI tasks, enabling effective management of visual-action history in navigation or pairing multi-turn query-action sequences per screenshot to enhance training efficiency; (iii) Small-scale High-quality GUI Instruction-following Datasets by careful data curation and employing a resampling strategy to address significant data type imbalances.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</guid>
+    </item>
+    <item>
+      <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
+      <link>https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</link>
+      <description><![CDATA[Recent work on human animation usually involves audio, pose, or movement maps conditions, thereby achieves vivid animation quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
     </item>
     <item>
       <title>Star Attention: Efficient LLM Inference over Long Sequences</title>
@@ -39,10 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</guid>
     </item>
     <item>
-      <title>One Diffusion to Generate Them All</title>
-      <link>https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</link>
-      <description><![CDATA[Experimental results demonstrate competitive performance across tasks in both generation and prediction such as text-to-image, multiview generation, ID preservation, depth estimation and camera pose estimation despite relatively small training dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</guid>
+      <title>SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting</title>
+      <link>https://paperswithcode.com/paper/switchlight-co-design-of-physics-driven</link>
+      <description><![CDATA[We introduce a co-designed approach for human portrait relighting that combines a physics-guided architecture with a pre-training framework.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/switchlight-co-design-of-physics-driven</guid>
+    </item>
+    <item>
+      <title>Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance</title>
+      <link>https://paperswithcode.com/paper/proactive-agent-shifting-llm-agents-from</link>
+      <description><![CDATA[The labeled data is used to train a reward model that simulates human judgment and serves as an automatic evaluator of the proactiveness of LLM agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/proactive-agent-shifting-llm-agents-from</guid>
     </item>
     <item>
       <title>SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory</title>
@@ -51,10 +81,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</guid>
     </item>
     <item>
-      <title>Identity-Preserving Text-to-Video Generation by Frequency Decomposition</title>
-      <link>https://paperswithcode.com/paper/identity-preserving-text-to-video-generation</link>
-      <description><![CDATA[We propose a hierarchical training strategy to leverage frequency information for identity preservation, transforming a vanilla pre-trained video generation model into an IPT2V model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/identity-preserving-text-to-video-generation</guid>
+      <title>Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions</title>
+      <link>https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</link>
+      <description><![CDATA[Currently OpenAI o1 sparks a surge of interest in the study of large reasoning models (LRM).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</guid>
+    </item>
+    <item>
+      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
+      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
+      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
     </item>
     <item>
       <title>StableAnimator: High-Quality Identity-Preserving Human Image Animation</title>
@@ -63,22 +99,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/stableanimator-high-quality-identity</guid>
     </item>
     <item>
-      <title>Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions</title>
-      <link>https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</link>
-      <description><![CDATA[Currently OpenAI o1 sparks a surge of interest in the study of large reasoning models (LRM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</guid>
-    </item>
-    <item>
-      <title>DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding</title>
-      <link>https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</link>
-      <description><![CDATA[DINO-X employs the same Transformer-based encoder-decoder architecture as Grounding DINO 1. 5 to pursue an object-level representation for open-world object understanding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dino-x-a-unified-vision-model-for-open-world</guid>
-    </item>
-    <item>
-      <title>3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes</title>
-      <link>https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</link>
-      <description><![CDATA[Our results highlight the potential of 3D Convex Splatting to become the new standard for high-quality scene reconstruction and novel view synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</guid>
+      <title>DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving</title>
+      <link>https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</link>
+      <description><![CDATA[However, the numerous denoising steps in the robotic diffusion policy and the more dynamic, open-world nature of traffic scenes pose substantial challenges for generating diverse driving actions at a real-time speed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</guid>
     </item>
     <item>
       <title>DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting</title>
@@ -87,46 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/droid-splat-combining-end-to-end-slam-with-3d</guid>
     </item>
     <item>
-      <title>SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting</title>
-      <link>https://paperswithcode.com/paper/switchlight-co-design-of-physics-driven</link>
-      <description><![CDATA[We introduce a co-designed approach for human portrait relighting that combines a physics-guided architecture with a pre-training framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/switchlight-co-design-of-physics-driven</guid>
+      <title>MureObjectStitch: Multi-reference Image Composition</title>
+      <link>https://paperswithcode.com/paper/mureobjectstitch-multi-reference-image</link>
+      <description><![CDATA[Generative image composition aims to regenerate the given foreground object in the background image to produce a realistic composite image.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mureobjectstitch-multi-reference-image</guid>
     </item>
     <item>
-      <title>Cautious Optimizers: Improving Training with One Line of Code</title>
-      <link>https://paperswithcode.com/paper/cautious-optimizers-improving-training-with</link>
-      <description><![CDATA[In this work, we propose a \textbf{single-line modification in Pytorch} to any momentum-based optimizer, which we rename Cautious Optimizer, e. g. C-AdamW and C-Lion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cautious-optimizers-improving-training-with</guid>
+      <title>3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes</title>
+      <link>https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</link>
+      <description><![CDATA[Our results highlight the potential of 3D Convex Splatting to become the new standard for high-quality scene reconstruction and novel view synthesis.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</guid>
     </item>
     <item>
-      <title>FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations</title>
-      <link>https://paperswithcode.com/paper/flipsketch-flipping-static-drawings-to-text</link>
-      <description><![CDATA[Sketch animations offer a powerful medium for visual storytelling, from simple flip-book doodles to professional studio productions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flipsketch-flipping-static-drawings-to-text</guid>
-    </item>
-    <item>
-      <title>MossFormer: Pushing the Performance Limit of Monaural Speech Separation using Gated Single-Head Transformer with Convolution-Augmented Joint Self-Attentions</title>
-      <link>https://paperswithcode.com/paper/mossformer-pushing-the-performance-limit-of</link>
-      <description><![CDATA[To effectively solve the indirect elemental interactions across chunks in the dual-path architecture, MossFormer employs a joint local and global self-attention architecture that simultaneously performs a full-computation self-attention on local chunks and a linearised low-cost self-attention over the full sequence.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mossformer-pushing-the-performance-limit-of</guid>
-    </item>
-    <item>
-      <title>MARS: Unleashing the Power of Variance Reduction for Training Large Models</title>
-      <link>https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</link>
-      <description><![CDATA[Despite the development of numerous variance reduction algorithms in the past decade aimed at accelerating stochastic optimization in both convex and nonconvex settings, variance reduction has not found widespread success in training deep neural networks or large language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</guid>
-    </item>
-    <item>
-      <title>Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback</title>
-      <link>https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</link>
-      <description><![CDATA[High-quality preference data leads to improvements of up to 8% in instruction following and truthfulness.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unpacking-dpo-and-ppo-disentangling-best</guid>
-    </item>
-    <item>
-      <title>Streaming Deep Reinforcement Learning Finally Works</title>
-      <link>https://paperswithcode.com/paper/streaming-deep-reinforcement-learning-finally</link>
-      <description><![CDATA[This paper introduces the stream-x algorithms, the first class of deep RL algorithms to overcome stream barrier for both prediction and control and match sample efficiency of batch RL.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/streaming-deep-reinforcement-learning-finally</guid>
+      <title>One Diffusion to Generate Them All</title>
+      <link>https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</link>
+      <description><![CDATA[Experimental results demonstrate competitive performance across tasks in both generation and prediction such as text-to-image, multiview generation, ID preservation, depth estimation and camera pose estimation despite relatively small training dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</guid>
     </item>
   </channel>
 </rss>
