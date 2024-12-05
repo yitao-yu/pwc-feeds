@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 09:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 21:09:35 +0000</lastBuildDate>
     <item>
       <title>DeMo: Decoupled Momentum Optimization</title>
       <link>https://paperswithcode.com/paper/demo-decoupled-momentum-optimization</link>
@@ -15,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/demo-decoupled-momentum-optimization</guid>
     </item>
     <item>
-      <title>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</title>
-      <link>https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</link>
-      <description><![CDATA[Compared to the baseline method, Mooncake can achieve up to a 525% increase in throughput in certain simulated scenarios while adhering to SLOs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</guid>
+      <title>Scaling Transformers for Low-Bitrate High-Quality Speech Coding</title>
+      <link>https://paperswithcode.com/paper/scaling-transformers-for-low-bitrate-high</link>
+      <description><![CDATA[The tokenization of speech with neural audio codec models is a vital part of modern AI pipelines for the generation or understanding of speech, alone or in a multimodal context.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-transformers-for-low-bitrate-high</guid>
     </item>
     <item>
       <title>MossFormer: Pushing the Performance Limit of Monaural Speech Separation using Gated Single-Head Transformer with Convolution-Augmented Joint Self-Attentions</title>
@@ -27,40 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/mossformer-pushing-the-performance-limit-of</guid>
     </item>
     <item>
-      <title>Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/auto-rag-autonomous-retrieval-augmented</link>
-      <description><![CDATA[Iterative retrieval refers to the process in which the model continuously queries the retriever during generation to enhance the relevance of the retrieved knowledge, thereby improving the performance of Retrieval-Augmented Generation (RAG).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/auto-rag-autonomous-retrieval-augmented</guid>
+      <title>Open-Sora Plan: Open-Source Large Video Generation Model</title>
+      <link>https://paperswithcode.com/paper/open-sora-plan-open-source-large-video</link>
+      <description><![CDATA[We introduce Open-Sora Plan, an open-source project that aims to contribute a large generation model for generating desired high-resolution videos with long durations based on various user inputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-sora-plan-open-source-large-video</guid>
     </item>
     <item>
-      <title>Identity-Preserving Text-to-Video Generation by Frequency Decomposition</title>
-      <link>https://paperswithcode.com/paper/identity-preserving-text-to-video-generation</link>
-      <description><![CDATA[We propose a hierarchical training strategy to leverage frequency information for identity preservation, transforming a vanilla pre-trained video generation model into an IPT2V model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/identity-preserving-text-to-video-generation</guid>
-    </item>
-    <item>
-      <title>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</title>
-      <link>https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</link>
-      <description><![CDATA[In this work, we develop a vision-language-action model in digital world, namely ShowUI, which features the following innovations: (i) UI-Guided Visual Token Selection to reduce computational costs by formulating screenshots as an UI connected graph, adaptively identifying their redundant relationship and serve as the criteria for token selection during self-attention blocks; (ii) Interleaved Vision-Language-Action Streaming that flexibly unifies diverse needs within GUI tasks, enabling effective management of visual-action history in navigation or pairing multi-turn query-action sequences per screenshot to enhance training efficiency; (iii) Small-scale High-quality GUI Instruction-following Datasets by careful data curation and employing a resampling strategy to address significant data type imbalances.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</guid>
-    </item>
-    <item>
-      <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
-      <link>https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</link>
-      <description><![CDATA[Recent work on human animation usually involves audio, pose, or movement maps conditions, thereby achieves vivid animation quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
-    </item>
-    <item>
-      <title>Star Attention: Efficient LLM Inference over Long Sequences</title>
-      <link>https://paperswithcode.com/paper/star-attention-efficient-llm-inference-over</link>
-      <description><![CDATA[Inference with Transformer-based Large Language Models (LLMs) on long sequences is both costly and slow due to the quadratic complexity of the self-attention mechanism.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/star-attention-efficient-llm-inference-over</guid>
-    </item>
-    <item>
-      <title>OminiControl: Minimal and Universal Control for Diffusion Transformer</title>
-      <link>https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</link>
-      <description><![CDATA[In this paper, we introduce OminiControl, a highly versatile and parameter-efficient framework that integrates image conditions into pre-trained Diffusion Transformer (DiT) models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</guid>
+      <title>Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction</title>
+      <link>https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</link>
+      <description><![CDATA[We present Visual AutoRegressive modeling (VAR), a new generation paradigm that redefines the autoregressive learning on images as coarse-to-fine "next-scale prediction" or "next-resolution prediction", diverging from the standard raster-scan "next-token prediction".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-autoregressive-modeling-scalable-image</guid>
     </item>
     <item>
       <title>SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting</title>
@@ -69,28 +45,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/switchlight-co-design-of-physics-driven</guid>
     </item>
     <item>
+      <title>Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models</title>
+      <link>https://paperswithcode.com/paper/auto-rag-autonomous-retrieval-augmented</link>
+      <description><![CDATA[Iterative retrieval refers to the process in which the model continuously queries the retriever during generation to enhance the relevance of the retrieved knowledge, thereby improving the performance of Retrieval-Augmented Generation (RAG).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/auto-rag-autonomous-retrieval-augmented</guid>
+    </item>
+    <item>
+      <title>Multimodal Whole Slide Foundation Model for Pathology</title>
+      <link>https://paperswithcode.com/paper/multimodal-whole-slide-foundation-model-for</link>
+      <description><![CDATA[The field of computational pathology has been transformed with recent advances in foundation models that encode histopathology region-of-interests (ROIs) into versatile and transferable feature representations via self-supervised learning (SSL).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-whole-slide-foundation-model-for</guid>
+    </item>
+    <item>
+      <title>ShowUI: One Vision-Language-Action Model for GUI Visual Agent</title>
+      <link>https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</link>
+      <description><![CDATA[In this work, we develop a vision-language-action model in digital world, namely ShowUI, which features the following innovations: (i) UI-Guided Visual Token Selection to reduce computational costs by formulating screenshots as an UI connected graph, adaptively identifying their redundant relationship and serve as the criteria for token selection during self-attention blocks; (ii) Interleaved Vision-Language-Action Streaming that flexibly unifies diverse needs within GUI tasks, enabling effective management of visual-action history in navigation or pairing multi-turn query-action sequences per screenshot to enhance training efficiency; (iii) Small-scale High-quality GUI Instruction-following Datasets by careful data curation and employing a resampling strategy to address significant data type imbalances.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/showui-one-vision-language-action-model-for</guid>
+    </item>
+    <item>
+      <title>Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving</title>
+      <link>https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</link>
+      <description><![CDATA[Compared to the baseline method, Mooncake can achieve up to a 525% increase in throughput in certain simulated scenarios while adhering to SLOs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mooncake-a-kvcache-centric-disaggregated</guid>
+    </item>
+    <item>
+      <title>TextSSR: Diffusion-based Data Synthesis for Scene Text Recognition</title>
+      <link>https://paperswithcode.com/paper/textssr-diffusion-based-data-synthesis-for</link>
+      <description><![CDATA[Experiments show that models trained on added TextSSR-F data exhibit better accuracy compared to models trained on 4 million existing synthetic data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/textssr-diffusion-based-data-synthesis-for</guid>
+    </item>
+    <item>
       <title>Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance</title>
       <link>https://paperswithcode.com/paper/proactive-agent-shifting-llm-agents-from</link>
       <description><![CDATA[The labeled data is used to train a reward model that simulates human judgment and serves as an automatic evaluator of the proactiveness of LLM agents.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/proactive-agent-shifting-llm-agents-from</guid>
     </item>
     <item>
-      <title>SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory</title>
-      <link>https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</link>
-      <description><![CDATA[The Segment Anything Model 2 (SAM 2) has demonstrated strong performance in object segmentation tasks but faces challenges in visual object tracking, particularly when managing crowded scenes with fast-moving or self-occluding objects.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</guid>
+      <title>EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation</title>
+      <link>https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</link>
+      <description><![CDATA[Recent work on human animation usually involves audio, pose, or movement maps conditions, thereby achieves vivid animation quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/echomimicv2-towards-striking-simplified-and</guid>
     </item>
     <item>
-      <title>Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions</title>
-      <link>https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</link>
-      <description><![CDATA[Currently OpenAI o1 sparks a surge of interest in the study of large reasoning models (LRM).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/marco-o1-towards-open-reasoning-models-for</guid>
+      <title>SVTRv2: CTC Beats Encoder-Decoder Models in Scene Text Recognition</title>
+      <link>https://paperswithcode.com/paper/svtrv2-ctc-beats-encoder-decoder-models-in</link>
+      <description><![CDATA[In this paper, we propose SVTRv2, a CTC model that beats leading EDTRs in both accuracy and inference speed.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/svtrv2-ctc-beats-encoder-decoder-models-in</guid>
     </item>
     <item>
-      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
-      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
-      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
+      <title>OminiControl: Minimal and Universal Control for Diffusion Transformer</title>
+      <link>https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</link>
+      <description><![CDATA[In this paper, we introduce OminiControl, a highly versatile and parameter-efficient framework that integrates image conditions into pre-trained Diffusion Transformer (DiT) models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ominicontrol-minimal-and-universal-control</guid>
     </item>
     <item>
       <title>StableAnimator: High-Quality Identity-Preserving Human Image Animation</title>
@@ -99,34 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/stableanimator-high-quality-identity</guid>
     </item>
     <item>
-      <title>DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</link>
-      <description><![CDATA[However, the numerous denoising steps in the robotic diffusion policy and the more dynamic, open-world nature of traffic scenes pose substantial challenges for generating diverse driving actions at a real-time speed.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusiondrive-truncated-diffusion-model-for</guid>
+      <title>MinerU: An Open-Source Solution for Precise Document Content Extraction</title>
+      <link>https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</link>
+      <description><![CDATA[Document content analysis has been a crucial research area in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mineru-an-open-source-solution-for-precise</guid>
     </item>
     <item>
-      <title>DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/droid-splat-combining-end-to-end-slam-with-3d</link>
-      <description><![CDATA[Recent progress in scene synthesis makes standalone SLAM systems purely based on optimizing hyperprimitives with a Rendering objective possible.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/droid-splat-combining-end-to-end-slam-with-3d</guid>
+      <title>MARS: Unleashing the Power of Variance Reduction for Training Large Models</title>
+      <link>https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</link>
+      <description><![CDATA[Despite the development of numerous variance reduction algorithms in the past decade aimed at accelerating stochastic optimization in both convex and nonconvex settings, variance reduction has not found widespread success in training deep neural networks or large language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mars-unleashing-the-power-of-variance</guid>
     </item>
     <item>
-      <title>MureObjectStitch: Multi-reference Image Composition</title>
-      <link>https://paperswithcode.com/paper/mureobjectstitch-multi-reference-image</link>
-      <description><![CDATA[Generative image composition aims to regenerate the given foreground object in the background image to produce a realistic composite image.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mureobjectstitch-multi-reference-image</guid>
+      <title>GraphCast: Learning skillful medium-range global weather forecasting</title>
+      <link>https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</link>
+      <description><![CDATA[Global medium-range weather forecasting is critical to decision-making across many social and economic domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/graphcast-learning-skillful-medium-range</guid>
     </item>
     <item>
-      <title>3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes</title>
-      <link>https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</link>
-      <description><![CDATA[Our results highlight the potential of 3D Convex Splatting to become the new standard for high-quality scene reconstruction and novel view synthesis.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-convex-splatting-radiance-field-rendering</guid>
-    </item>
-    <item>
-      <title>One Diffusion to Generate Them All</title>
-      <link>https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</link>
-      <description><![CDATA[Experimental results demonstrate competitive performance across tasks in both generation and prediction such as text-to-image, multiview generation, ID preservation, depth estimation and camera pose estimation despite relatively small training dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-diffusion-to-generate-them-all</guid>
+      <title>SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory</title>
+      <link>https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</link>
+      <description><![CDATA[The Segment Anything Model 2 (SAM 2) has demonstrated strong performance in object segmentation tasks but faces challenges in visual object tracking, particularly when managing crowded scenes with fast-moving or self-occluding objects.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/samurai-adapting-segment-anything-model-for-1</guid>
     </item>
   </channel>
 </rss>
