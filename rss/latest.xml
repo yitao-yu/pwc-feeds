@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 21:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 09:14:26 +0000</lastBuildDate>
     <item>
       <title>Exploring GLU Expansion Ratios: A Study of Structured Pruning in LLaMA-3.2 Models</title>
       <link>https://paperswithcode.com/paper/exploring-glu-expansion-ratios-a-study-of</link>
       <description><![CDATA[Large language models with GLU architectures are typically designed with significant expansion ratios in their MLP layers, where output dimensions are several times larger than input dimensions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-glu-expansion-ratios-a-study-of</guid>
+    </item>
+    <item>
+      <title>Token-Budget-Aware LLM Reasoning</title>
+      <link>https://paperswithcode.com/paper/token-budget-aware-llm-reasoning</link>
+      <description><![CDATA[Reasoning is critical for large language models (LLMs) to excel in a wide range of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/token-budget-aware-llm-reasoning</guid>
+    </item>
+    <item>
+      <title>Contrastive Representation for Interactive Recommendation</title>
+      <link>https://paperswithcode.com/paper/contrastive-representation-for-interactive</link>
+      <description><![CDATA[To tackle this problem, we propose Contrastive Representation for Interactive Recommendation (CRIR).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/contrastive-representation-for-interactive</guid>
     </item>
     <item>
       <title>Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning</title>
@@ -21,16 +33,196 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/adapter-merging-with-centroid-prototype</guid>
     </item>
     <item>
+      <title>ReducedLUT: Table Decomposition with "Don't Care" Conditions</title>
+      <link>https://paperswithcode.com/paper/reducedlut-table-decomposition-with-don-t</link>
+      <description><![CDATA[We then demonstrate a particular application to machine learning; by replacing unobserved patterns within the training data of neural network models with don't cares, we enable greater compression with minimal model accuracy degradation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reducedlut-table-decomposition-with-don-t</guid>
+    </item>
+    <item>
+      <title>Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search</title>
+      <link>https://paperswithcode.com/paper/mulberry-empowering-mllm-with-o1-like</link>
+      <description><![CDATA[Using CoMCTS, we construct Mulberry-260k, a multimodal dataset with a tree of rich, explicit and well-defined reasoning nodes for each question.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mulberry-empowering-mllm-with-o1-like</guid>
+    </item>
+    <item>
+      <title>Segment-Based Attention Masking for GPTs</title>
+      <link>https://paperswithcode.com/paper/segment-based-attention-masking-for-gpts</link>
+      <description><![CDATA[Each of these is treated as a unit for the purpose of masking, such that the first tokens in each block can access the subsequent tokens in a non-causal manner.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-based-attention-masking-for-gpts</guid>
+    </item>
+    <item>
+      <title>SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos</title>
+      <link>https://paperswithcode.com/paper/sdm-car-a-dataset-for-small-and-dim-moving</link>
+      <description><![CDATA[Vehicle detection and tracking in satellite video is essential in remote sensing (RS) applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sdm-car-a-dataset-for-small-and-dim-moving</guid>
+    </item>
+    <item>
+      <title>Distilling Fine-grained Sentiment Understanding from Large Language Models</title>
+      <link>https://paperswithcode.com/paper/distilling-fine-grained-sentiment</link>
+      <description><![CDATA[Therefore, this paper investigates the distillation of fine-grained sentiment understanding from LLMs into small language models (SLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distilling-fine-grained-sentiment</guid>
+    </item>
+    <item>
+      <title>Prompt Tuning for Item Cold-start Recommendation</title>
+      <link>https://paperswithcode.com/paper/prompt-tuning-for-item-cold-start</link>
+      <description><![CDATA[However, existing methods typically rely on content-based properties or text descriptions for prompting, which we argue may be suboptimal for cold-start recommendations due to 1) semantic gaps with recommender tasks, 2) model bias caused by warm-up items contribute most of the positive feedback to the model, which is the core of the cold-start problem that hinders the recommender quality on cold-start items.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-tuning-for-item-cold-start</guid>
+    </item>
+    <item>
+      <title>Generating event descriptions under syntactic and semantic constraints</title>
+      <link>https://paperswithcode.com/paper/generating-event-descriptions-under-syntactic</link>
+      <description><![CDATA[With the goal of supporting scalable lexical semantic annotation, analysis, and theorizing, we conduct a comprehensive evaluation of different methods for generating event descriptions under both syntactic constraints -- e. g. desired clause structure -- and semantic constraints -- e. g. desired verb sense.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-event-descriptions-under-syntactic</guid>
+    </item>
+    <item>
+      <title>Point-DeepONet: A Deep Operator Network Integrating PointNet for Nonlinear Analysis of Non-Parametric 3D Geometries and Load Conditions</title>
+      <link>https://paperswithcode.com/paper/point-deeponet-a-deep-operator-network</link>
+      <description><![CDATA[Nonlinear structural analyses in engineering often require extensive finite element simulations, limiting their applicability in design optimization, uncertainty quantification, and real-time control.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-deeponet-a-deep-operator-network</guid>
+    </item>
+    <item>
+      <title>NoiseHGNN: Synthesized Similarity Graph-Based Neural Network For Noised Heterogeneous Graph Representation Learning</title>
+      <link>https://paperswithcode.com/paper/noisehgnn-synthesized-similarity-graph-based</link>
+      <description><![CDATA[For homogeneous graphs, the latest works use original node features to synthesize a similarity graph that can correct the structure of the noised graph.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/noisehgnn-synthesized-similarity-graph-based</guid>
+    </item>
+    <item>
+      <title>Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</title>
+      <link>https://paperswithcode.com/paper/quo-vadis-anomaly-detection-llms-and-vlms-in</link>
+      <description><![CDATA[Video anomaly detection (VAD) has witnessed significant advancements through the integration of large language models (LLMs) and vision-language models (VLMs), addressing critical challenges such as interpretability, temporal reasoning, and generalization in dynamic, open-world scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quo-vadis-anomaly-detection-llms-and-vlms-in</guid>
+    </item>
+    <item>
+      <title>Data-Driven Self-Supervised Graph Representation Learning</title>
+      <link>https://paperswithcode.com/paper/data-driven-self-supervised-graph</link>
+      <description><![CDATA[Our approach is general that it can be applied to homogeneous and heterogeneous graphs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-driven-self-supervised-graph</guid>
+    </item>
+    <item>
+      <title>MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning</title>
+      <link>https://paperswithcode.com/paper/mixmas-a-framework-for-sampling-based-mixer</link>
+      <description><![CDATA[Choosing a suitable deep learning architecture for multimodal data fusion is a challenging task, as it requires the effective integration and processing of diverse data types, each with distinct structures and characteristics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mixmas-a-framework-for-sampling-based-mixer</guid>
+    </item>
+    <item>
+      <title>Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/dynamic-optimization-of-portfolio-allocation</link>
+      <description><![CDATA[Artificial intelligence is fundamentally transforming financial investment decision-making paradigms, with deep reinforcement learning (DRL) demonstrating significant application potential in domains such as robo-advisory services.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-optimization-of-portfolio-allocation</guid>
+    </item>
+    <item>
+      <title>ClassifyViStA:WCE Classification with Visual understanding through Segmentation and Attention</title>
+      <link>https://paperswithcode.com/paper/classifyvista-wce-classification-with-visual</link>
+      <description><![CDATA[Gastrointestinal (GI) bleeding is a serious medical condition that presents significant diagnostic challenges, particularly in settings with limited access to healthcare resources.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/classifyvista-wce-classification-with-visual</guid>
+    </item>
+    <item>
+      <title>Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data</title>
+      <link>https://paperswithcode.com/paper/unlocking-the-hidden-treasures-enhancing</link>
+      <description><![CDATA[Implementing the PNN paradigm is, however, technically challenging because: (1) it is difficult to classify unlabeled data into neutral or negative in the absence of supervised signals; (2) there does not exist any loss function that can handle set-level triple-wise ranking relationships.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unlocking-the-hidden-treasures-enhancing</guid>
+    </item>
+    <item>
+      <title>Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner</title>
+      <link>https://paperswithcode.com/paper/generating-traffic-scenarios-via-in-context</link>
+      <description><![CDATA[First, we represent traffic scenarios as scripts, which are then used by the simulator to generate traffic scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-traffic-scenarios-via-in-context</guid>
+    </item>
+    <item>
+      <title>BIG-MoE: Bypass Isolated Gating MoE for Generalized Multimodal Face Anti-Spoofing</title>
+      <link>https://paperswithcode.com/paper/big-moe-bypass-isolated-gating-moe-for</link>
+      <description><![CDATA[In the domain of facial recognition security, multimodal Face Anti-Spoofing (FAS) is essential for countering presentation attacks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/big-moe-bypass-isolated-gating-moe-for</guid>
+    </item>
+    <item>
+      <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/property-enhanced-instruction-tuning-for</link>
+      <description><![CDATA[In the first step, we use textual descriptions, SMILES, and biochemical properties as multimodal inputs to pre-train a model called PEIT-GEN, by aligning multi-modal representations to synthesize instruction data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/property-enhanced-instruction-tuning-for</guid>
+    </item>
+    <item>
+      <title>LININ: Logic Integrated Neural Inference Network for Explanatory Visual Question Answering</title>
+      <link>https://paperswithcode.com/paper/linin-logic-integrated-neural-inference</link>
+      <description><![CDATA[Finally, we design a multimodal explanation transformer to construct cross-modal relationships and generate rational explanations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/linin-logic-integrated-neural-inference</guid>
+    </item>
+    <item>
+      <title>Underwater Image Restoration via Polymorphic Large Kernel CNNs</title>
+      <link>https://paperswithcode.com/paper/underwater-image-restoration-via-polymorphic</link>
+      <description><![CDATA[This work provides new insights into the potential of CNN-based approaches for challenging image restoration tasks in underwater environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/underwater-image-restoration-via-polymorphic</guid>
+    </item>
+    <item>
+      <title>Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing</title>
+      <link>https://paperswithcode.com/paper/parallel-neural-computing-for-scene</link>
+      <description><![CDATA[Traditional sequential network approaches may struggle to meet the real-time knowledge and decision-making demands of an autonomous agent covering large displacements in a short time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parallel-neural-computing-for-scene</guid>
+    </item>
+    <item>
+      <title>Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation</title>
+      <link>https://paperswithcode.com/paper/semi-supervised-credit-card-fraud-detection-1</link>
+      <description><![CDATA[Then we pass messages among the nodes through a Gated Temporal Attention Network (GTAN) to learn the transaction representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/semi-supervised-credit-card-fraud-detection-1</guid>
+    </item>
+    <item>
+      <title>The Key of Understanding Vision Tasks: Explanatory Instructions</title>
+      <link>https://paperswithcode.com/paper/the-key-of-understanding-vision-tasks</link>
+      <description><![CDATA[In this paper, we explore the idea that CV adopts discrete and terminological task definitions (\eg, ``image segmentation''), which may be a key barrier to zero-shot task generalization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-key-of-understanding-vision-tasks</guid>
+    </item>
+    <item>
       <title>The Thousand Brains Project: A New Paradigm for Sensorimotor Intelligence</title>
       <link>https://paperswithcode.com/paper/the-thousand-brains-project-a-new-paradigm</link>
       <description><![CDATA[Each learning module operates as a semi-independent unit that can model entire objects, represents information through spatially structured reference frames, and both estimates and is able to effect movement in the world.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-thousand-brains-project-a-new-paradigm</guid>
     </item>
     <item>
-      <title>ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots</title>
-      <link>https://paperswithcode.com/paper/chai-tea-a-benchmark-for-evaluating</link>
-      <description><![CDATA[We present ChaI-TeA: CHat InTEraction Autocomplete; An autcomplete evaluation framework for LLM-based chatbot interactions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/chai-tea-a-benchmark-for-evaluating</guid>
+      <title>VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis</title>
+      <link>https://paperswithcode.com/paper/visiongru-a-linear-complexity-rnn-model-for</link>
+      <description><![CDATA[While CNNs excel at extracting multi-scale features and ViTs effectively capture global dependencies, both suffer from high computational costs, particularly when processing high-resolution images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visiongru-a-linear-complexity-rnn-model-for</guid>
+    </item>
+    <item>
+      <title>MinsStudio: A Streamlined Package for Minecraft AI Agent Development</title>
+      <link>https://paperswithcode.com/paper/minsstudio-a-streamlined-package-for</link>
+      <description><![CDATA[Minecraft has emerged as a valuable testbed for embodied intelligence and sequential decision-making research, yet the development and validation of novel agents remains hindered by significant engineering challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minsstudio-a-streamlined-package-for</guid>
+    </item>
+    <item>
+      <title>Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems</title>
+      <link>https://paperswithcode.com/paper/decentralized-intelligence-in-gamefi-embodied</link>
+      <description><![CDATA[In the rapidly evolving landscape of GameFi, a fusion of gaming and decentralized finance (DeFi), there exists a critical need to enhance player engagement and economic interaction within gaming ecosystems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/decentralized-intelligence-in-gamefi-embodied</guid>
+    </item>
+    <item>
+      <title>MotifGPL: Motif-Enhanced Graph Prototype Learning for Deciphering Urban Social Segregation</title>
+      <link>https://paperswithcode.com/paper/motifgpl-motif-enhanced-graph-prototype</link>
+      <description><![CDATA[To address this gap, we propose a framework named Motif-Enhanced Graph Prototype Learning (MotifGPL), which consists of three key modules: prototype-based graph structure extraction, motif distribution discovery, and urban graph structure reconstruction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/motifgpl-motif-enhanced-graph-prototype</guid>
+    </item>
+    <item>
+      <title>How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation</title>
+      <link>https://paperswithcode.com/paper/how-well-do-llms-generate-code-for-different</link>
+      <description><![CDATA[However, existing code generation benchmarks primarily focus on general-purpose scenarios, leaving the code generation performance of LLMs for specific application domains largely unknown.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/how-well-do-llms-generate-code-for-different</guid>
+    </item>
+    <item>
+      <title>Mitigating Label Noise using Prompt-Based Hyperbolic Meta-Learning in Open-Set Domain Generalization</title>
+      <link>https://paperswithcode.com/paper/mitigating-label-noise-using-prompt-based</link>
+      <description><![CDATA[Open-Set Domain Generalization (OSDG) is a challenging task requiring models to accurately predict familiar categories while minimizing confidence for unknown categories to effectively reject them in unseen domains.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mitigating-label-noise-using-prompt-based</guid>
+    </item>
+    <item>
+      <title>Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English</title>
+      <link>https://paperswithcode.com/paper/multilingual-mathematical-reasoning-advancing</link>
+      <description><![CDATA[Adopting a bilingual approach that combines English and Hindi samples achieves results comparable to individual language models, demonstrating the capability to learn mathematical reasoning in both languages.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multilingual-mathematical-reasoning-advancing</guid>
+    </item>
+    <item>
+      <title>LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating</title>
+      <link>https://paperswithcode.com/paper/longdocurl-a-comprehensive-multimodal-long</link>
+      <description><![CDATA[Large vision language models (LVLMs) have improved the document understanding capabilities remarkably, enabling the handling of complex document elements, longer contexts, and a wider range of tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/longdocurl-a-comprehensive-multimodal-long</guid>
     </item>
     <item>
       <title>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</title>
@@ -45,10 +237,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ervd-an-efficient-and-robust-vit-based</guid>
     </item>
     <item>
-      <title>DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation</title>
-      <link>https://paperswithcode.com/paper/ditctrl-exploring-attention-control-in-multi</link>
-      <description><![CDATA[Based on our careful design, the video generated by DiTCtrl achieves smooth transitions and consistent object motion given multiple sequential prompts without additional training.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ditctrl-exploring-attention-control-in-multi</guid>
+      <title>GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network</title>
+      <link>https://paperswithcode.com/paper/gims-image-matching-system-based-on-adaptive</link>
+      <description><![CDATA[Feature-based image matching has extensive applications in computer vision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gims-image-matching-system-based-on-adaptive</guid>
     </item>
     <item>
       <title>HNCI: High-Dimensional Network Causal Inference</title>
@@ -57,22 +249,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hnci-high-dimensional-network-causal</guid>
     </item>
     <item>
-      <title>GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network</title>
-      <link>https://paperswithcode.com/paper/gims-image-matching-system-based-on-adaptive</link>
-      <description><![CDATA[Feature-based image matching has extensive applications in computer vision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gims-image-matching-system-based-on-adaptive</guid>
+      <title>ChaI-TeA: A Benchmark for Evaluating Autocompletion of Interactions with LLM-based Chatbots</title>
+      <link>https://paperswithcode.com/paper/chai-tea-a-benchmark-for-evaluating</link>
+      <description><![CDATA[We present ChaI-TeA: CHat InTEraction Autocomplete; An autcomplete evaluation framework for LLM-based chatbot interactions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/chai-tea-a-benchmark-for-evaluating</guid>
     </item>
     <item>
-      <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/property-enhanced-instruction-tuning-for</link>
-      <description><![CDATA[In the first step, we use textual descriptions, SMILES, and biochemical properties as multimodal inputs to pre-train a model called PEIT-GEN, by aligning multi-modal representations to synthesize instruction data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/property-enhanced-instruction-tuning-for</guid>
-    </item>
-    <item>
-      <title>BIG-MoE: Bypass Isolated Gating MoE for Generalized Multimodal Face Anti-Spoofing</title>
-      <link>https://paperswithcode.com/paper/big-moe-bypass-isolated-gating-moe-for</link>
-      <description><![CDATA[In the domain of facial recognition security, multimodal Face Anti-Spoofing (FAS) is essential for countering presentation attacks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/big-moe-bypass-isolated-gating-moe-for</guid>
+      <title>DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation</title>
+      <link>https://paperswithcode.com/paper/ditctrl-exploring-attention-control-in-multi</link>
+      <description><![CDATA[Based on our careful design, the video generated by DiTCtrl achieves smooth transitions and consistent object motion given multiple sequential prompts without additional training.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ditctrl-exploring-attention-control-in-multi</guid>
     </item>
     <item>
       <title>Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors</title>
@@ -81,196 +267,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/unveiling-the-threat-of-fraud-gangs-to-graph</guid>
     </item>
     <item>
-      <title>Point-DeepONet: A Deep Operator Network Integrating PointNet for Nonlinear Analysis of Non-Parametric 3D Geometries and Load Conditions</title>
-      <link>https://paperswithcode.com/paper/point-deeponet-a-deep-operator-network</link>
-      <description><![CDATA[Nonlinear structural analyses in engineering often require extensive finite element simulations, limiting their applicability in design optimization, uncertainty quantification, and real-time control.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-deeponet-a-deep-operator-network</guid>
-    </item>
-    <item>
-      <title>Contrastive Representation for Interactive Recommendation</title>
-      <link>https://paperswithcode.com/paper/contrastive-representation-for-interactive</link>
-      <description><![CDATA[To tackle this problem, we propose Contrastive Representation for Interactive Recommendation (CRIR).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/contrastive-representation-for-interactive</guid>
-    </item>
-    <item>
-      <title>Generating event descriptions under syntactic and semantic constraints</title>
-      <link>https://paperswithcode.com/paper/generating-event-descriptions-under-syntactic</link>
-      <description><![CDATA[With the goal of supporting scalable lexical semantic annotation, analysis, and theorizing, we conduct a comprehensive evaluation of different methods for generating event descriptions under both syntactic constraints -- e. g. desired clause structure -- and semantic constraints -- e. g. desired verb sense.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-event-descriptions-under-syntactic</guid>
-    </item>
-    <item>
       <title>Expand VSR Benchmark for VLLM to Expertize in Spatial Rules</title>
       <link>https://paperswithcode.com/paper/expand-vsr-benchmark-for-vllm-to-expertize-in</link>
       <description><![CDATA[We found current VLLMs to exhibit a contradiction of over-sensitivity to language instructions and under-sensitivity to visual positional information.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/expand-vsr-benchmark-for-vllm-to-expertize-in</guid>
-    </item>
-    <item>
-      <title>The Key of Understanding Vision Tasks: Explanatory Instructions</title>
-      <link>https://paperswithcode.com/paper/the-key-of-understanding-vision-tasks</link>
-      <description><![CDATA[In this paper, we explore the idea that CV adopts discrete and terminological task definitions (\eg, ``image segmentation''), which may be a key barrier to zero-shot task generalization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-key-of-understanding-vision-tasks</guid>
-    </item>
-    <item>
-      <title>MotifGPL: Motif-Enhanced Graph Prototype Learning for Deciphering Urban Social Segregation</title>
-      <link>https://paperswithcode.com/paper/motifgpl-motif-enhanced-graph-prototype</link>
-      <description><![CDATA[To address this gap, we propose a framework named Motif-Enhanced Graph Prototype Learning (MotifGPL), which consists of three key modules: prototype-based graph structure extraction, motif distribution discovery, and urban graph structure reconstruction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/motifgpl-motif-enhanced-graph-prototype</guid>
-    </item>
-    <item>
-      <title>Prompt Tuning for Item Cold-start Recommendation</title>
-      <link>https://paperswithcode.com/paper/prompt-tuning-for-item-cold-start</link>
-      <description><![CDATA[However, existing methods typically rely on content-based properties or text descriptions for prompting, which we argue may be suboptimal for cold-start recommendations due to 1) semantic gaps with recommender tasks, 2) model bias caused by warm-up items contribute most of the positive feedback to the model, which is the core of the cold-start problem that hinders the recommender quality on cold-start items.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prompt-tuning-for-item-cold-start</guid>
-    </item>
-    <item>
-      <title>Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems</title>
-      <link>https://paperswithcode.com/paper/decentralized-intelligence-in-gamefi-embodied</link>
-      <description><![CDATA[In the rapidly evolving landscape of GameFi, a fusion of gaming and decentralized finance (DeFi), there exists a critical need to enhance player engagement and economic interaction within gaming ecosystems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/decentralized-intelligence-in-gamefi-embodied</guid>
-    </item>
-    <item>
-      <title>MinsStudio: A Streamlined Package for Minecraft AI Agent Development</title>
-      <link>https://paperswithcode.com/paper/minsstudio-a-streamlined-package-for</link>
-      <description><![CDATA[Minecraft has emerged as a valuable testbed for embodied intelligence and sequential decision-making research, yet the development and validation of novel agents remains hindered by significant engineering challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/minsstudio-a-streamlined-package-for</guid>
-    </item>
-    <item>
-      <title>VisionGRU: A Linear-Complexity RNN Model for Efficient Image Analysis</title>
-      <link>https://paperswithcode.com/paper/visiongru-a-linear-complexity-rnn-model-for</link>
-      <description><![CDATA[While CNNs excel at extracting multi-scale features and ViTs effectively capture global dependencies, both suffer from high computational costs, particularly when processing high-resolution images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visiongru-a-linear-complexity-rnn-model-for</guid>
-    </item>
-    <item>
-      <title>Token-Budget-Aware LLM Reasoning</title>
-      <link>https://paperswithcode.com/paper/token-budget-aware-llm-reasoning</link>
-      <description><![CDATA[Reasoning is critical for large language models (LLMs) to excel in a wide range of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/token-budget-aware-llm-reasoning</guid>
-    </item>
-    <item>
-      <title>MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning</title>
-      <link>https://paperswithcode.com/paper/mixmas-a-framework-for-sampling-based-mixer</link>
-      <description><![CDATA[Choosing a suitable deep learning architecture for multimodal data fusion is a challenging task, as it requires the effective integration and processing of diverse data types, each with distinct structures and characteristics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mixmas-a-framework-for-sampling-based-mixer</guid>
-    </item>
-    <item>
-      <title>Underwater Image Restoration via Polymorphic Large Kernel CNNs</title>
-      <link>https://paperswithcode.com/paper/underwater-image-restoration-via-polymorphic</link>
-      <description><![CDATA[This work provides new insights into the potential of CNN-based approaches for challenging image restoration tasks in underwater environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/underwater-image-restoration-via-polymorphic</guid>
-    </item>
-    <item>
-      <title>Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation</title>
-      <link>https://paperswithcode.com/paper/semi-supervised-credit-card-fraud-detection-1</link>
-      <description><![CDATA[Then we pass messages among the nodes through a Gated Temporal Attention Network (GTAN) to learn the transaction representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/semi-supervised-credit-card-fraud-detection-1</guid>
-    </item>
-    <item>
-      <title>Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing</title>
-      <link>https://paperswithcode.com/paper/parallel-neural-computing-for-scene</link>
-      <description><![CDATA[Traditional sequential network approaches may struggle to meet the real-time knowledge and decision-making demands of an autonomous agent covering large displacements in a short time.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parallel-neural-computing-for-scene</guid>
-    </item>
-    <item>
-      <title>Mitigating Label Noise using Prompt-Based Hyperbolic Meta-Learning in Open-Set Domain Generalization</title>
-      <link>https://paperswithcode.com/paper/mitigating-label-noise-using-prompt-based</link>
-      <description><![CDATA[Open-Set Domain Generalization (OSDG) is a challenging task requiring models to accurately predict familiar categories while minimizing confidence for unknown categories to effectively reject them in unseen domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mitigating-label-noise-using-prompt-based</guid>
-    </item>
-    <item>
-      <title>ReducedLUT: Table Decomposition with "Don't Care" Conditions</title>
-      <link>https://paperswithcode.com/paper/reducedlut-table-decomposition-with-don-t</link>
-      <description><![CDATA[We then demonstrate a particular application to machine learning; by replacing unobserved patterns within the training data of neural network models with don't cares, we enable greater compression with minimal model accuracy degradation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reducedlut-table-decomposition-with-don-t</guid>
-    </item>
-    <item>
-      <title>NoiseHGNN: Synthesized Similarity Graph-Based Neural Network For Noised Heterogeneous Graph Representation Learning</title>
-      <link>https://paperswithcode.com/paper/noisehgnn-synthesized-similarity-graph-based</link>
-      <description><![CDATA[For homogeneous graphs, the latest works use original node features to synthesize a similarity graph that can correct the structure of the noised graph.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/noisehgnn-synthesized-similarity-graph-based</guid>
-    </item>
-    <item>
-      <title>Data-Driven Self-Supervised Graph Representation Learning</title>
-      <link>https://paperswithcode.com/paper/data-driven-self-supervised-graph</link>
-      <description><![CDATA[Our approach is general that it can be applied to homogeneous and heterogeneous graphs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-driven-self-supervised-graph</guid>
-    </item>
-    <item>
-      <title>LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating</title>
-      <link>https://paperswithcode.com/paper/longdocurl-a-comprehensive-multimodal-long</link>
-      <description><![CDATA[Large vision language models (LVLMs) have improved the document understanding capabilities remarkably, enabling the handling of complex document elements, longer contexts, and a wider range of tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/longdocurl-a-comprehensive-multimodal-long</guid>
-    </item>
-    <item>
-      <title>3DGraphLLM: Combining Semantic Graphs and Large Language Models for 3D Scene Understanding</title>
-      <link>https://paperswithcode.com/paper/3dgraphllm-combining-semantic-graphs-and</link>
-      <description><![CDATA[In this work, we propose a method 3DGraphLLM for constructing a learnable representation of a 3D scene graph.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3dgraphllm-combining-semantic-graphs-and</guid>
-    </item>
-    <item>
-      <title>Multilingual Mathematical Reasoning: Advancing Open-Source LLMs in Hindi and English</title>
-      <link>https://paperswithcode.com/paper/multilingual-mathematical-reasoning-advancing</link>
-      <description><![CDATA[Adopting a bilingual approach that combines English and Hindi samples achieves results comparable to individual language models, demonstrating the capability to learn mathematical reasoning in both languages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multilingual-mathematical-reasoning-advancing</guid>
-    </item>
-    <item>
-      <title>How Well Do LLMs Generate Code for Different Application Domains? Benchmark and Evaluation</title>
-      <link>https://paperswithcode.com/paper/how-well-do-llms-generate-code-for-different</link>
-      <description><![CDATA[However, existing code generation benchmarks primarily focus on general-purpose scenarios, leaving the code generation performance of LLMs for specific application domains largely unknown.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/how-well-do-llms-generate-code-for-different</guid>
-    </item>
-    <item>
-      <title>ClassifyViStA:WCE Classification with Visual understanding through Segmentation and Attention</title>
-      <link>https://paperswithcode.com/paper/classifyvista-wce-classification-with-visual</link>
-      <description><![CDATA[Gastrointestinal (GI) bleeding is a serious medical condition that presents significant diagnostic challenges, particularly in settings with limited access to healthcare resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/classifyvista-wce-classification-with-visual</guid>
-    </item>
-    <item>
-      <title>Segment-Based Attention Masking for GPTs</title>
-      <link>https://paperswithcode.com/paper/segment-based-attention-masking-for-gpts</link>
-      <description><![CDATA[Each of these is treated as a unit for the purpose of masking, such that the first tokens in each block can access the subsequent tokens in a non-causal manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/segment-based-attention-masking-for-gpts</guid>
-    </item>
-    <item>
-      <title>Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner</title>
-      <link>https://paperswithcode.com/paper/generating-traffic-scenarios-via-in-context</link>
-      <description><![CDATA[First, we represent traffic scenarios as scripts, which are then used by the simulator to generate traffic scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-traffic-scenarios-via-in-context</guid>
-    </item>
-    <item>
-      <title>Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data</title>
-      <link>https://paperswithcode.com/paper/unlocking-the-hidden-treasures-enhancing</link>
-      <description><![CDATA[Implementing the PNN paradigm is, however, technically challenging because: (1) it is difficult to classify unlabeled data into neutral or negative in the absence of supervised signals; (2) there does not exist any loss function that can handle set-level triple-wise ranking relationships.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unlocking-the-hidden-treasures-enhancing</guid>
-    </item>
-    <item>
-      <title>Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search</title>
-      <link>https://paperswithcode.com/paper/mulberry-empowering-mllm-with-o1-like</link>
-      <description><![CDATA[Using CoMCTS, we construct Mulberry-260k, a multimodal dataset with a tree of rich, explicit and well-defined reasoning nodes for each question.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mulberry-empowering-mllm-with-o1-like</guid>
-    </item>
-    <item>
-      <title>SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos</title>
-      <link>https://paperswithcode.com/paper/sdm-car-a-dataset-for-small-and-dim-moving</link>
-      <description><![CDATA[Vehicle detection and tracking in satellite video is essential in remote sensing (RS) applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/sdm-car-a-dataset-for-small-and-dim-moving</guid>
-    </item>
-    <item>
-      <title>Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/dynamic-optimization-of-portfolio-allocation</link>
-      <description><![CDATA[Artificial intelligence is fundamentally transforming financial investment decision-making paradigms, with deep reinforcement learning (DRL) demonstrating significant application potential in domains such as robo-advisory services.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dynamic-optimization-of-portfolio-allocation</guid>
-    </item>
-    <item>
-      <title>Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight</title>
-      <link>https://paperswithcode.com/paper/quo-vadis-anomaly-detection-llms-and-vlms-in</link>
-      <description><![CDATA[Video anomaly detection (VAD) has witnessed significant advancements through the integration of large language models (LLMs) and vision-language models (VLMs), addressing critical challenges such as interpretability, temporal reasoning, and generalization in dynamic, open-world scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quo-vadis-anomaly-detection-llms-and-vlms-in</guid>
-    </item>
-    <item>
-      <title>Long-Form Speech Generation with Spoken Language Models</title>
-      <link>https://paperswithcode.com/paper/long-form-speech-generation-with-spoken</link>
-      <description><![CDATA[We consider the generative modeling of speech over multiple minutes, a requirement for long-form multimedia generation and audio-native voice assistants.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/long-form-speech-generation-with-spoken</guid>
     </item>
     <item>
       <title>Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models</title>
@@ -279,10 +279,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/video-panda-parameter-efficient-alignment-for</guid>
     </item>
     <item>
-      <title>Beyond the Known: Enhancing Open Set Domain Adaptation with Unknown Exploration</title>
-      <link>https://paperswithcode.com/paper/beyond-the-known-enhancing-open-set-domain</link>
-      <description><![CDATA[In this work, we introduce a new approach to improve OSDA techniques by extracting a set of high-confidence unknown instances and using it as a hard constraint to tighten the classification boundaries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-the-known-enhancing-open-set-domain</guid>
+      <title>Robustness-aware Automatic Prompt Optimization</title>
+      <link>https://paperswithcode.com/paper/robustness-aware-automatic-prompt</link>
+      <description><![CDATA[The performance of Large Language Models (LLMs) is based on the quality of the prompts and the semantic and structural integrity information of the input data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robustness-aware-automatic-prompt</guid>
     </item>
     <item>
       <title>Towards Modality Generalization: A Benchmark and Prospective Analysis</title>
