@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jan 2025 09:14:22 +0000</lastBuildDate>
-    <item>
-      <title>KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model</title>
-      <link>https://paperswithcode.com/paper/kalm-embedding-superior-training-data-brings</link>
-      <description><![CDATA[As retrieval-augmented generation prevails in large language models, embedding models are becoming increasingly crucial.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kalm-embedding-superior-training-data-brings</guid>
-    </item>
+    <lastBuildDate>Sat, 04 Jan 2025 21:07:40 +0000</lastBuildDate>
     <item>
       <title>Conditional Consistency Guided Image Translation and Enhancement</title>
       <link>https://paperswithcode.com/paper/conditional-consistency-guided-image</link>
@@ -21,10 +15,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/conditional-consistency-guided-image</guid>
     </item>
     <item>
+      <title>KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model</title>
+      <link>https://paperswithcode.com/paper/kalm-embedding-superior-training-data-brings</link>
+      <description><![CDATA[As retrieval-augmented generation prevails in large language models, embedding models are becoming increasingly crucial.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kalm-embedding-superior-training-data-brings</guid>
+    </item>
+    <item>
       <title>Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/reconstruction-vs-generation-taming</link>
-      <description><![CDATA[Latent diffusion models (LDMs) with Transformer architectures excel at generating high-fidelity images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reconstruction-vs-generation-taming</guid>
+      <link>https://paperswithcode.com/paper/reconstruction-vs-generation-taming-1</link>
+      <description><![CDATA[The integrated system achieves state-of-the-art (SOTA) performance on ImageNet 256x256 generation with an FID score of 1. 35 while demonstrating remarkable training efficiency by reaching an FID score of 2. 11 in just 64 epochs--representing an over 21 times convergence speedup compared to the original DiT.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reconstruction-vs-generation-taming-1</guid>
+    </item>
+    <item>
+      <title>Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction</title>
+      <link>https://paperswithcode.com/paper/bridging-simplicity-and-sophistication-using-1</link>
+      <description><![CDATA[A performance comparison with state-of-the-art linear architectures (such as NLinear, DLinear, and RLinear) and transformer-based time series predictor (Autoformer) shows that the GLinear, despite being parametrically efficient, significantly outperforms the existing architectures in most cases of multivariate TSF.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bridging-simplicity-and-sophistication-using-1</guid>
     </item>
     <item>
       <title>Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers</title>
@@ -45,12 +51,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/cached-adaptive-token-merging-dynamic-token</guid>
     </item>
     <item>
-      <title>Intent-based Radio Scheduler for RAN Slicing: Learning to deal with different network scenarios</title>
-      <link>https://paperswithcode.com/paper/intent-based-radio-scheduler-for-ran-slicing</link>
-      <description><![CDATA[The radio access network slicing enables the creation of different logical networks by isolating and using dedicated resources for each group of applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/intent-based-radio-scheduler-for-ran-slicing</guid>
-    </item>
-    <item>
       <title>MapEval: A Map-Based Evaluation of Geo-Spatial Reasoning in Foundation Models</title>
       <link>https://paperswithcode.com/paper/mapeval-a-map-based-evaluation-of-geo-spatial</link>
       <description><![CDATA[To bridge this gap, we introduce MapEval, a benchmark designed to assess diverse and complex map-based user queries with geo-spatial reasoning.]]></description>
@@ -63,52 +63,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/superposition-in-transformers-a-novel-way-of</guid>
     </item>
     <item>
-      <title>LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency</title>
-      <link>https://paperswithcode.com/paper/lease-offline-preference-based-reinforcement</link>
-      <description><![CDATA[Considering the pretrained reward model may generate incorrect labels for unlabeled data, we design an uncertainty-aware mechanism to ensure the performance of reward model, where only high confidence and low variance data are selected.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lease-offline-preference-based-reinforcement</guid>
-    </item>
-    <item>
-      <title>Distributed Mixture-of-Agents for Edge Inference with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/distributed-mixture-of-agents-for-edge</link>
-      <description><![CDATA[Further, we demonstrate through experiments, leveraging open-source LLMs for the implementation of distributed MoA, that certain MoA configurations produce higher-quality responses compared to others, as evaluated on AlpacaEval 2. 0 benchmark.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/distributed-mixture-of-agents-for-edge</guid>
-    </item>
-    <item>
-      <title>A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications</title>
-      <link>https://paperswithcode.com/paper/a-standardized-framework-for-sensor-placement</link>
-      <description><![CDATA[The proliferation of wearable sensors and monitoring technologies has created an urgent need for standardized sensor placement protocols.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-standardized-framework-for-sensor-placement</guid>
-    </item>
-    <item>
-      <title>Attributing Culture-Conditioned Generations to Pretraining Corpora</title>
-      <link>https://paperswithcode.com/paper/attributing-culture-conditioned-generations</link>
-      <description><![CDATA[Using MEMOed on culture-conditioned generations about food and clothing for 110 cultures, we find that high-frequency cultures in pretraining data yield more generations with memorized symbols, while some low-frequency cultures produce none.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attributing-culture-conditioned-generations</guid>
-    </item>
-    <item>
-      <title>Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense</title>
-      <link>https://paperswithcode.com/paper/toward-intelligent-and-secure-cloud-large</link>
-      <description><![CDATA[The rapid evolution of cloud computing technologies and the increasing number of cloud applications have provided a large number of benefits in daily lives.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/toward-intelligent-and-secure-cloud-large</guid>
-    </item>
-    <item>
-      <title>Quantum Diffusion Model for Quark and Gluon Jet Generation</title>
-      <link>https://paperswithcode.com/paper/quantum-diffusion-model-for-quark-and-gluon</link>
-      <description><![CDATA[Diffusion models have demonstrated remarkable success in image generation, but they are computationally intensive and time-consuming to train.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-diffusion-model-for-quark-and-gluon</guid>
-    </item>
-    <item>
-      <title>ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning</title>
-      <link>https://paperswithcode.com/paper/reflow6d-refraction-guided-transparent-object</link>
-      <description><![CDATA[To solve this, we present ReFlow6D, a novel method for transparent object 6D pose estimation that harnesses the refractive-intermediate representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/reflow6d-refraction-guided-transparent-object</guid>
-    </item>
-    <item>
       <title>Mind the truncation gap: challenges of learning on dynamic graphs with recurrent architectures</title>
       <link>https://paperswithcode.com/paper/mind-the-truncation-gap-challenges-of</link>
       <description><![CDATA[In this work, we demonstrate that this truncation can limit the learning of dependencies beyond a single hop, resulting in reduced performance.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mind-the-truncation-gap-challenges-of</guid>
+    </item>
+    <item>
+      <title>Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning</title>
+      <link>https://paperswithcode.com/paper/frequency-masked-embedding-inference-a-non</link>
+      <description><![CDATA[To fundamentally overcome the limitations of contrastive learning, this paper introduces Frequency-masked Embedding Inference (FEI), a novel non-contrastive method that completely eliminates the need for positive and negative samples.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/frequency-masked-embedding-inference-a-non</guid>
+    </item>
+    <item>
+      <title>YOLO-UniOW: Efficient Universal Open-World Object Detection</title>
+      <link>https://paperswithcode.com/paper/yolo-uniow-efficient-universal-open-world</link>
+      <description><![CDATA[In this work, we introduce Universal Open-World Object Detection (Uni-OWD), a new paradigm that unifies open-vocabulary and open-world object detection tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-uniow-efficient-universal-open-world</guid>
     </item>
     <item>
       <title>Generalizing in Net-Zero Microgrids: A Study with Federated PPO and TRPO</title>
@@ -123,100 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/towards-identity-aware-cross-modal-retrieval</guid>
     </item>
     <item>
-      <title>Hierarchical Banzhaf Interaction for General Video-Language Representation Learning</title>
-      <link>https://paperswithcode.com/paper/hierarchical-banzhaf-interaction-for-general</link>
-      <description><![CDATA[As an important subfield, video-language representation learning focuses on learning representations using global semantic interactions between pre-defined video-text pairs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchical-banzhaf-interaction-for-general</guid>
-    </item>
-    <item>
-      <title>A Tale of Two Imperatives: Privacy and Explainability</title>
-      <link>https://paperswithcode.com/paper/a-tale-of-two-imperatives-privacy-and</link>
-      <description><![CDATA[Deep learning's preponderance across scientific domains has reshaped high-stakes decision-making, making it essential to follow rigorous operational frameworks that include both Right-to-Privacy (RTP) and Right-to-Explanation (RTE).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-tale-of-two-imperatives-privacy-and</guid>
-    </item>
-    <item>
-      <title>TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization</title>
-      <link>https://paperswithcode.com/paper/tangoflux-super-fast-and-faithful-text-to</link>
-      <description><![CDATA[We introduce TangoFlux, an efficient Text-to-Audio (TTA) generative model with 515M parameters, capable of generating up to 30 seconds of 44. 1kHz audio in just 3. 7 seconds on a single A40 GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tangoflux-super-fast-and-faithful-text-to</guid>
-    </item>
-    <item>
-      <title>GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search</title>
-      <link>https://paperswithcode.com/paper/gasliteing-the-retrieval-exploring</link>
-      <description><![CDATA[Particularly, adversaries using GASLITE require minimal effort to manipulate search results$\unicode{x2013}$by injecting a negligible amount of adversarial passages ($\leq$0. 0001% of the corpus), they could make them visible in the top-10 results for 61-100% of unseen concept-specific queries against most evaluated models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gasliteing-the-retrieval-exploring</guid>
-    </item>
-    <item>
-      <title>Plancraft: an evaluation dataset for planning with LLM agents</title>
-      <link>https://paperswithcode.com/paper/plancraft-an-evaluation-dataset-for-planning</link>
-      <description><![CDATA[We present Plancraft, a multi-modal evaluation dataset for LLM agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/plancraft-an-evaluation-dataset-for-planning</guid>
-    </item>
-    <item>
-      <title>Varformer: Adapting VAR's Generative Prior for Image Restoration</title>
-      <link>https://paperswithcode.com/paper/varformer-adapting-var-s-generative-prior-for</link>
-      <description><![CDATA[Generative models trained on extensive high-quality datasets effectively capture the structural and statistical properties of clean images, rendering them powerful priors for transforming degraded features into clean ones in image restoration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/varformer-adapting-var-s-generative-prior-for</guid>
-    </item>
-    <item>
-      <title>Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner</title>
-      <link>https://paperswithcode.com/paper/enhancing-table-recognition-with-vision-llms</link>
-      <description><![CDATA[Pre-trained foundation models have recently significantly progressed in structured table understanding and reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-table-recognition-with-vision-llms</guid>
-    </item>
-    <item>
-      <title>Causal Hangover Effects</title>
-      <link>https://paperswithcode.com/paper/causal-hangover-effects</link>
-      <description><![CDATA[We are interested to see if teams exhibit a decline in performance the day following a game in a city with active nightlife; we call this a "hangover effect".]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/causal-hangover-effects</guid>
-    </item>
-    <item>
-      <title>Edicho: Consistent Image Editing in the Wild</title>
-      <link>https://paperswithcode.com/paper/edicho-consistent-image-editing-in-the-wild</link>
-      <description><![CDATA[As a verified need, consistent editing across in-the-wild images remains a technical challenge arising from various unmanageable factors, like object poses, lighting conditions, and photography environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/edicho-consistent-image-editing-in-the-wild</guid>
-    </item>
-    <item>
-      <title>Robust Matrix Completion for Discrete Rating-Scale Data</title>
-      <link>https://paperswithcode.com/paper/robust-matrix-completion-for-discrete-rating</link>
-      <description><![CDATA[In addition, we investigate the performance of the proposed method and its competitors with discrete rating-scale (rather than continuous) data as well as under various missing data mechanisms and types of corrupted observations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-matrix-completion-for-discrete-rating</guid>
-    </item>
-    <item>
-      <title>Training Software Engineering Agents and Verifiers with SWE-Gym</title>
-      <link>https://paperswithcode.com/paper/training-software-engineering-agents-and</link>
-      <description><![CDATA[When combined with our fine-tuned SWE agents, we achieve 32. 0% and 26. 0% on SWE-Bench Verified and Lite, respectively, reflecting a new state-of-the-art for open-weight SWE agents.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/training-software-engineering-agents-and</guid>
-    </item>
-    <item>
-      <title>TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation</title>
-      <link>https://paperswithcode.com/paper/tigdistill-bev-multi-view-bev-3d-object</link>
-      <description><![CDATA[Researchers have consistently aimed to leverage LiDAR's precise spatial information to enhance camera-based detectors through methods like depth supervision and bird-eye-view (BEV) feature distillation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tigdistill-bev-multi-view-bev-3d-object</guid>
-    </item>
-    <item>
-      <title>Are Vision-Language Models Truly Understanding Multi-vision Sensor?</title>
-      <link>https://paperswithcode.com/paper/are-vision-language-models-truly</link>
-      <description><![CDATA[Moreover, we introduce Diverse Negative Attributes (DNA) optimization to enable VLMs to perform deep reasoning on multi-vision sensor tasks, helping to bridge the core information gap between images and sensor data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/are-vision-language-models-truly</guid>
-    </item>
-    <item>
       <title>Sample Correlation for Fingerprinting Deep Face Recognition</title>
       <link>https://paperswithcode.com/paper/sample-correlation-for-fingerprinting-deep</link>
       <description><![CDATA[Face recognition has witnessed remarkable advancements in recent years, thanks to the development of deep learning techniques. However, an off-the-shelf face recognition model as a commercial service could be stolen by model stealing attacks, posing great threats to the rights of the model owner. Model fingerprinting, as a model stealing detection method, aims to verify whether a suspect model is stolen from the victim model, gaining more and more attention nowadays. Previous methods always utilize transferable adversarial examples as the model fingerprint, but this method is known to be sensitive to adversarial defense and transfer learning techniques. To address this issue, we consider the pairwise relationship between samples instead and propose a novel yet simple model stealing detection method based on SAmple Correlation (SAC). Specifically, we present SAC-JC that selects JPEG compressed samples as model inputs and calculates the correlation matrix among their model outputs. Extensive results validate that SAC successfully defends against various model stealing attacks in deep face recognition, encompassing face verification and face emotion recognition, exhibiting the highest performance in terms of AUC, p-value and F1 score. Furthermore, we extend our evaluation of SAC-JC to object recognition datasets including Tiny-ImageNet and CIFAR10, which also demonstrates the superior performance of SAC-JC to previous methods. The code will be available at \url{https://github. com/guanjiyang/SAC_JC}.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/sample-correlation-for-fingerprinting-deep</guid>
-    </item>
-    <item>
-      <title>HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation</title>
-      <link>https://paperswithcode.com/paper/humaneval-pro-and-mbpp-pro-evaluating-large</link>
-      <description><![CDATA[First, we propose a general recipe for generating more challenging versions of existing benchmarks, resulting in three new benchmarks: HumanEval Pro, MBPP Pro, and BigCodeBench-Lite Pro, specifically designed to assess LLMs on self-invoking code generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/humaneval-pro-and-mbpp-pro-evaluating-large</guid>
-    </item>
-    <item>
-      <title>A novel deep learning approach for facial emotion recognition: application to detecting emotional responses in elderly individuals with Alzheimer’s disease</title>
-      <link>https://paperswithcode.com/paper/a-novel-deep-learning-approach-for-facial</link>
-      <description><![CDATA[Facial expressions are a critical form of nonverbal communication, conveying a wide range of emotions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-novel-deep-learning-approach-for-facial</guid>
     </item>
     <item>
       <title>HisynSeg: Weakly-Supervised Histopathological Image Segmentation via Image-Mixing Synthesis and Consistency Regularization</title>
@@ -225,10 +105,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hisynseg-weakly-supervised-histopathological</guid>
     </item>
     <item>
-      <title>Length-Aware DETR for Robust Moment Retrieval</title>
-      <link>https://paperswithcode.com/paper/length-aware-detr-for-robust-moment-retrieval</link>
-      <description><![CDATA[Video Moment Retrieval (MR) aims to localize moments within a video based on a given natural language query.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/length-aware-detr-for-robust-moment-retrieval</guid>
+      <title>Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration</title>
+      <link>https://paperswithcode.com/paper/visual-style-prompt-learning-using-diffusion</link>
+      <description><![CDATA[Blind face restoration aims to recover high-quality facial images from various unidentified sources of degradation, posing significant challenges due to the minimal information retrievable from the degraded images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-style-prompt-learning-using-diffusion</guid>
     </item>
     <item>
       <title>On Parallel External-Memory Bidirectional Search</title>
@@ -237,34 +117,88 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/on-parallel-external-memory-bidirectional</guid>
     </item>
     <item>
-      <title>Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration</title>
-      <link>https://paperswithcode.com/paper/visual-style-prompt-learning-using-diffusion</link>
-      <description><![CDATA[Blind face restoration aims to recover high-quality facial images from various unidentified sources of degradation, posing significant challenges due to the minimal information retrievable from the degraded images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-style-prompt-learning-using-diffusion</guid>
+      <title>Length-Aware DETR for Robust Moment Retrieval</title>
+      <link>https://paperswithcode.com/paper/length-aware-detr-for-robust-moment-retrieval</link>
+      <description><![CDATA[Video Moment Retrieval (MR) aims to localize moments within a video based on a given natural language query.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/length-aware-detr-for-robust-moment-retrieval</guid>
     </item>
     <item>
-      <title>YOLO-UniOW: Efficient Universal Open-World Object Detection</title>
-      <link>https://paperswithcode.com/paper/yolo-uniow-efficient-universal-open-world</link>
-      <description><![CDATA[In this work, we introduce Universal Open-World Object Detection (Uni-OWD), a new paradigm that unifies open-vocabulary and open-world object detection tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yolo-uniow-efficient-universal-open-world</guid>
+      <title>A novel deep learning approach for facial emotion recognition: application to detecting emotional responses in elderly individuals with Alzheimer’s disease</title>
+      <link>https://paperswithcode.com/paper/a-novel-deep-learning-approach-for-facial</link>
+      <description><![CDATA[Facial expressions are a critical form of nonverbal communication, conveying a wide range of emotions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-novel-deep-learning-approach-for-facial</guid>
     </item>
     <item>
-      <title>Facilitating large language model Russian adaptation with Learned Embedding Propagation</title>
-      <link>https://paperswithcode.com/paper/facilitating-large-language-model-russian</link>
-      <description><![CDATA[Rapid advancements of large language model (LLM) technologies led to the introduction of powerful open-source instruction-tuned LLMs that have the same text generation quality as the state-of-the-art counterparts such as GPT-4.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/facilitating-large-language-model-russian</guid>
+      <title>HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation</title>
+      <link>https://paperswithcode.com/paper/humaneval-pro-and-mbpp-pro-evaluating-large</link>
+      <description><![CDATA[First, we propose a general recipe for generating more challenging versions of existing benchmarks, resulting in three new benchmarks: HumanEval Pro, MBPP Pro, and BigCodeBench-Lite Pro, specifically designed to assess LLMs on self-invoking code generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/humaneval-pro-and-mbpp-pro-evaluating-large</guid>
     </item>
     <item>
-      <title>Action-Agnostic Point-Level Supervision for Temporal Action Detection</title>
-      <link>https://paperswithcode.com/paper/action-agnostic-point-level-supervision-for</link>
-      <description><![CDATA[In the proposed scheme, a small portion of video frames is sampled in an unsupervised manner and presented to human annotators, who then label the frames with action categories.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/action-agnostic-point-level-supervision-for</guid>
+      <title>TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization</title>
+      <link>https://paperswithcode.com/paper/tangoflux-super-fast-and-faithful-text-to</link>
+      <description><![CDATA[We introduce TangoFlux, an efficient Text-to-Audio (TTA) generative model with 515M parameters, capable of generating up to 30 seconds of 44. 1kHz audio in just 3. 7 seconds on a single A40 GPU.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tangoflux-super-fast-and-faithful-text-to</guid>
     </item>
     <item>
-      <title>Frequency-Masked Embedding Inference: A Non-Contrastive Approach for Time Series Representation Learning</title>
-      <link>https://paperswithcode.com/paper/frequency-masked-embedding-inference-a-non</link>
-      <description><![CDATA[To fundamentally overcome the limitations of contrastive learning, this paper introduces Frequency-masked Embedding Inference (FEI), a novel non-contrastive method that completely eliminates the need for positive and negative samples.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/frequency-masked-embedding-inference-a-non</guid>
+      <title>Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense</title>
+      <link>https://paperswithcode.com/paper/toward-intelligent-and-secure-cloud-large</link>
+      <description><![CDATA[The rapid evolution of cloud computing technologies and the increasing number of cloud applications have provided a large number of benefits in daily lives.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/toward-intelligent-and-secure-cloud-large</guid>
+    </item>
+    <item>
+      <title>ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning</title>
+      <link>https://paperswithcode.com/paper/reflow6d-refraction-guided-transparent-object</link>
+      <description><![CDATA[To solve this, we present ReFlow6D, a novel method for transparent object 6D pose estimation that harnesses the refractive-intermediate representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reflow6d-refraction-guided-transparent-object</guid>
+    </item>
+    <item>
+      <title>GASLITEing the Retrieval: Exploring Vulnerabilities in Dense Embedding-based Search</title>
+      <link>https://paperswithcode.com/paper/gasliteing-the-retrieval-exploring</link>
+      <description><![CDATA[Particularly, adversaries using GASLITE require minimal effort to manipulate search results$\unicode{x2013}$by injecting a negligible amount of adversarial passages ($\leq$0. 0001% of the corpus), they could make them visible in the top-10 results for 61-100% of unseen concept-specific queries against most evaluated models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gasliteing-the-retrieval-exploring</guid>
+    </item>
+    <item>
+      <title>Quantum Diffusion Model for Quark and Gluon Jet Generation</title>
+      <link>https://paperswithcode.com/paper/quantum-diffusion-model-for-quark-and-gluon</link>
+      <description><![CDATA[Diffusion models have demonstrated remarkable success in image generation, but they are computationally intensive and time-consuming to train.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-diffusion-model-for-quark-and-gluon</guid>
+    </item>
+    <item>
+      <title>Causal Hangover Effects</title>
+      <link>https://paperswithcode.com/paper/causal-hangover-effects</link>
+      <description><![CDATA[We are interested to see if teams exhibit a decline in performance the day following a game in a city with active nightlife; we call this a "hangover effect".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/causal-hangover-effects</guid>
+    </item>
+    <item>
+      <title>LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency</title>
+      <link>https://paperswithcode.com/paper/lease-offline-preference-based-reinforcement</link>
+      <description><![CDATA[Considering the pretrained reward model may generate incorrect labels for unlabeled data, we design an uncertainty-aware mechanism to ensure the performance of reward model, where only high confidence and low variance data are selected.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lease-offline-preference-based-reinforcement</guid>
+    </item>
+    <item>
+      <title>Attributing Culture-Conditioned Generations to Pretraining Corpora</title>
+      <link>https://paperswithcode.com/paper/attributing-culture-conditioned-generations</link>
+      <description><![CDATA[Using MEMOed on culture-conditioned generations about food and clothing for 110 cultures, we find that high-frequency cultures in pretraining data yield more generations with memorized symbols, while some low-frequency cultures produce none.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attributing-culture-conditioned-generations</guid>
+    </item>
+    <item>
+      <title>A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications</title>
+      <link>https://paperswithcode.com/paper/a-standardized-framework-for-sensor-placement</link>
+      <description><![CDATA[The proliferation of wearable sensors and monitoring technologies has created an urgent need for standardized sensor placement protocols.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-standardized-framework-for-sensor-placement</guid>
+    </item>
+    <item>
+      <title>Distributed Mixture-of-Agents for Edge Inference with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/distributed-mixture-of-agents-for-edge</link>
+      <description><![CDATA[Further, we demonstrate through experiments, leveraging open-source LLMs for the implementation of distributed MoA, that certain MoA configurations produce higher-quality responses compared to others, as evaluated on AlpacaEval 2. 0 benchmark.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/distributed-mixture-of-agents-for-edge</guid>
+    </item>
+    <item>
+      <title>Edicho: Consistent Image Editing in the Wild</title>
+      <link>https://paperswithcode.com/paper/edicho-consistent-image-editing-in-the-wild</link>
+      <description><![CDATA[As a verified need, consistent editing across in-the-wild images remains a technical challenge arising from various unmanageable factors, like object poses, lighting conditions, and photography environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/edicho-consistent-image-editing-in-the-wild</guid>
     </item>
     <item>
       <title>M$^3$oralBench: A MultiModal Moral Benchmark for LVLMs</title>
@@ -273,22 +207,70 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/m-3-oralbench-a-multimodal-moral-benchmark</guid>
     </item>
     <item>
+      <title>Are Vision-Language Models Truly Understanding Multi-vision Sensor?</title>
+      <link>https://paperswithcode.com/paper/are-vision-language-models-truly</link>
+      <description><![CDATA[Moreover, we introduce Diverse Negative Attributes (DNA) optimization to enable VLMs to perform deep reasoning on multi-vision sensor tasks, helping to bridge the core information gap between images and sensor data.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/are-vision-language-models-truly</guid>
+    </item>
+    <item>
+      <title>TiGDistill-BEV: Multi-view BEV 3D Object Detection via Target Inner-Geometry Learning Distillation</title>
+      <link>https://paperswithcode.com/paper/tigdistill-bev-multi-view-bev-3d-object</link>
+      <description><![CDATA[Researchers have consistently aimed to leverage LiDAR's precise spatial information to enhance camera-based detectors through methods like depth supervision and bird-eye-view (BEV) feature distillation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tigdistill-bev-multi-view-bev-3d-object</guid>
+    </item>
+    <item>
       <title>MapQaTor: A System for Efficient Annotation of Map Query Datasets</title>
       <link>https://paperswithcode.com/paper/mapqator-a-system-for-efficient-annotation-of</link>
       <description><![CDATA[Mapping and navigation services like Google Maps, Apple Maps, Openstreet Maps, are essential for accessing various location-based data, yet they often struggle to handle natural language geospatial queries.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/mapqator-a-system-for-efficient-annotation-of</guid>
     </item>
     <item>
-      <title>SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation</title>
-      <link>https://paperswithcode.com/paper/softpatch-fully-unsupervised-anomaly</link>
-      <description><![CDATA[Furthermore, the performance of SoftPatch and SoftPatch+ is comparable to that of the noise-free methods in conventional unsupervised AD setting.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/softpatch-fully-unsupervised-anomaly</guid>
+      <title>Facilitating large language model Russian adaptation with Learned Embedding Propagation</title>
+      <link>https://paperswithcode.com/paper/facilitating-large-language-model-russian</link>
+      <description><![CDATA[Rapid advancements of large language model (LLM) technologies led to the introduction of powerful open-source instruction-tuned LLMs that have the same text generation quality as the state-of-the-art counterparts such as GPT-4.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/facilitating-large-language-model-russian</guid>
     </item>
     <item>
-      <title>Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</title>
-      <link>https://paperswithcode.com/paper/disentangling-preference-representation-and</link>
-      <description><![CDATA[Aligning Large Language Models (LLMs) with general human preferences has been proved crucial in improving the interaction quality between LLMs and human.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-preference-representation-and</guid>
+      <title>Training Software Engineering Agents and Verifiers with SWE-Gym</title>
+      <link>https://paperswithcode.com/paper/training-software-engineering-agents-and</link>
+      <description><![CDATA[When combined with our fine-tuned SWE agents, we achieve 32. 0% and 26. 0% on SWE-Bench Verified and Lite, respectively, reflecting a new state-of-the-art for open-weight SWE agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-software-engineering-agents-and</guid>
+    </item>
+    <item>
+      <title>Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner</title>
+      <link>https://paperswithcode.com/paper/enhancing-table-recognition-with-vision-llms</link>
+      <description><![CDATA[Pre-trained foundation models have recently significantly progressed in structured table understanding and reasoning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-table-recognition-with-vision-llms</guid>
+    </item>
+    <item>
+      <title>A Tale of Two Imperatives: Privacy and Explainability</title>
+      <link>https://paperswithcode.com/paper/a-tale-of-two-imperatives-privacy-and</link>
+      <description><![CDATA[Deep learning's preponderance across scientific domains has reshaped high-stakes decision-making, making it essential to follow rigorous operational frameworks that include both Right-to-Privacy (RTP) and Right-to-Explanation (RTE).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-tale-of-two-imperatives-privacy-and</guid>
+    </item>
+    <item>
+      <title>Hierarchical Banzhaf Interaction for General Video-Language Representation Learning</title>
+      <link>https://paperswithcode.com/paper/hierarchical-banzhaf-interaction-for-general</link>
+      <description><![CDATA[As an important subfield, video-language representation learning focuses on learning representations using global semantic interactions between pre-defined video-text pairs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hierarchical-banzhaf-interaction-for-general</guid>
+    </item>
+    <item>
+      <title>Plancraft: an evaluation dataset for planning with LLM agents</title>
+      <link>https://paperswithcode.com/paper/plancraft-an-evaluation-dataset-for-planning</link>
+      <description><![CDATA[We present Plancraft, a multi-modal evaluation dataset for LLM agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/plancraft-an-evaluation-dataset-for-planning</guid>
+    </item>
+    <item>
+      <title>Action-Agnostic Point-Level Supervision for Temporal Action Detection</title>
+      <link>https://paperswithcode.com/paper/action-agnostic-point-level-supervision-for</link>
+      <description><![CDATA[In the proposed scheme, a small portion of video frames is sampled in an unsupervised manner and presented to human annotators, who then label the frames with action categories.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/action-agnostic-point-level-supervision-for</guid>
+    </item>
+    <item>
+      <title>Varformer: Adapting VAR's Generative Prior for Image Restoration</title>
+      <link>https://paperswithcode.com/paper/varformer-adapting-var-s-generative-prior-for</link>
+      <description><![CDATA[Generative models trained on extensive high-quality datasets effectively capture the structural and statistical properties of clean images, rendering them powerful priors for transforming degraded features into clean ones in image restoration.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/varformer-adapting-var-s-generative-prior-for</guid>
     </item>
     <item>
       <title>AverageLinear: Enhance Long-Term Time series forcasting with simple averaging</title>
@@ -297,16 +279,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/averagelinear-enhance-long-term-time-series</guid>
     </item>
     <item>
-      <title>Efficient Parallel Genetic Algorithm for Perturbed Substructure Optimization in Complex Network</title>
-      <link>https://paperswithcode.com/paper/efficient-parallel-genetic-algorithm-for</link>
-      <description><![CDATA[Meanwhile, GAPA includes an extensible library that optimizes and accelerates 10 PSSO algorithms, covering 4 crucial tasks for graph mining.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-parallel-genetic-algorithm-for</guid>
+      <title>VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control</title>
+      <link>https://paperswithcode.com/paper/vmix-improving-text-to-image-diffusion-model</link>
+      <description><![CDATA[While diffusion models show extraordinary talents in text-to-image generation, they may still fail to generate highly aesthetic images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vmix-improving-text-to-image-diffusion-model</guid>
     </item>
     <item>
-      <title>Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability</title>
-      <link>https://paperswithcode.com/paper/two-heads-are-better-than-one-averaging-along</link>
-      <description><![CDATA[We compare the proposed method with existing fine-tuning schemes by integrating them with state-of-the-art targeted attacks in various attacking scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/two-heads-are-better-than-one-averaging-along</guid>
+      <title>SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection</title>
+      <link>https://paperswithcode.com/paper/sm3det-a-unified-model-for-multi-modal-remote</link>
+      <description><![CDATA[To address these, we establish a benchmark dataset and propose a unified model, SM3Det (Single Model for Multi-Modal datasets and Multi-Task object Detection).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/sm3det-a-unified-model-for-multi-modal-remote</guid>
+    </item>
+    <item>
+      <title>Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment</title>
+      <link>https://paperswithcode.com/paper/disentangling-preference-representation-and</link>
+      <description><![CDATA[Aligning Large Language Models (LLMs) with general human preferences has been proved crucial in improving the interaction quality between LLMs and human.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/disentangling-preference-representation-and</guid>
+    </item>
+    <item>
+      <title>Attention-Driven Metapath Encoding in Heterogeneous Graphs</title>
+      <link>https://paperswithcode.com/paper/attention-driven-metapath-encoding-in</link>
+      <description><![CDATA[One of the emerging techniques in node classification in heterogeneous graphs is to restrict message aggregation to pre-defined, semantically meaningful structures called metapaths.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attention-driven-metapath-encoding-in</guid>
+    </item>
+    <item>
+      <title>SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation</title>
+      <link>https://paperswithcode.com/paper/softpatch-fully-unsupervised-anomaly</link>
+      <description><![CDATA[Furthermore, the performance of SoftPatch and SoftPatch+ is comparable to that of the noise-free methods in conventional unsupervised AD setting.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/softpatch-fully-unsupervised-anomaly</guid>
     </item>
   </channel>
 </rss>
