@@ -7,78 +7,42 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jan 2025 09:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 21:08:36 +0000</lastBuildDate>
     <item>
-      <title>Cosmos World Foundation Model Platform for Physical AI</title>
-      <link>https://paperswithcode.com/paper/cosmos-world-foundation-model-platform-for</link>
-      <description><![CDATA[We position a world foundation model as a general-purpose world model that can be fine-tuned into customized world models for downstream applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cosmos-world-foundation-model-platform-for</guid>
+      <title>FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors</title>
+      <link>https://paperswithcode.com/paper/framepainter-endowing-interactive-image</link>
+      <description><![CDATA[We highlight the effectiveness and efficiency of FramePainter across various of editing signals: it domainantly outperforms previous state-of-the-art methods with far less training data, achieving highly seamless and coherent editing of images, \eg, automatically adjust the reflection of the cup.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/framepainter-endowing-interactive-image</guid>
     </item>
     <item>
-      <title>TransPixar: Advancing Text-to-Video Generation with Transparency</title>
-      <link>https://paperswithcode.com/paper/transpixar-advancing-text-to-video-generation</link>
-      <description><![CDATA[Text-to-video generative models have made significant strides, enabling diverse applications in entertainment, advertising, and education.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/transpixar-advancing-text-to-video-generation</guid>
+      <title>Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget</title>
+      <link>https://paperswithcode.com/paper/stretching-each-dollar-diffusion-training</link>
+      <description><![CDATA[As scaling laws in generative AI push performance, they also simultaneously concentrate the development of these models among actors with large computational resources.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stretching-each-dollar-diffusion-training</guid>
     </item>
     <item>
-      <title>LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync</title>
-      <link>https://paperswithcode.com/paper/latentsync-audio-conditioned-latent-diffusion</link>
-      <description><![CDATA[Since we did not change the overall training framework of SyncNet, our experience can also be applied to other lip sync and audio-driven portrait animation methods that utilize SyncNet.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latentsync-audio-conditioned-latent-diffusion</guid>
+      <title>Tensor Product Attention Is All You Need</title>
+      <link>https://paperswithcode.com/paper/tensor-product-attention-is-all-you-need</link>
+      <description><![CDATA[Scaling language models to handle longer input sequences typically necessitates large key-value (KV) caches, resulting in substantial memory overhead during inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tensor-product-attention-is-all-you-need</guid>
     </item>
     <item>
-      <title>TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second</title>
-      <link>https://paperswithcode.com/paper/meta-learning-a-real-time-tabular-automl</link>
-      <description><![CDATA[We present TabPFN, a trained Transformer that can do supervised classification for small tabular datasets in less than a second, needs no hyperparameter tuning and is competitive with state-of-the-art classification methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-learning-a-real-time-tabular-automl</guid>
+      <title>MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/minirag-towards-extremely-simple-retrieval</link>
+      <description><![CDATA[The growing demand for efficient and lightweight Retrieval-Augmented Generation (RAG) systems has highlighted significant challenges when deploying Small Language Models (SLMs) in existing RAG frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/minirag-towards-extremely-simple-retrieval</guid>
     </item>
     <item>
-      <title>Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks</title>
-      <link>https://paperswithcode.com/paper/don-t-do-rag-when-cache-augmented-generation</link>
-      <description><![CDATA[With the advent of large language models (LLMs) featuring significantly extended context windows, this paper proposes an alternative paradigm, cache-augmented generation (CAG) that bypasses real-time retrieval.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/don-t-do-rag-when-cache-augmented-generation</guid>
+      <title>UnCommon Objects in 3D</title>
+      <link>https://paperswithcode.com/paper/uncommon-objects-in-3d</link>
+      <description><![CDATA[We introduce Uncommon Objects in 3D (uCO3D), a new object-centric dataset for 3D deep learning and 3D generative AI.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/uncommon-objects-in-3d</guid>
     </item>
     <item>
-      <title>Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control</title>
-      <link>https://paperswithcode.com/paper/diffusion-as-shader-3d-aware-video-diffusion</link>
-      <description><![CDATA[Diffusion models have demonstrated impressive performance in generating high-quality videos from text prompts or images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-as-shader-3d-aware-video-diffusion</guid>
-    </item>
-    <item>
-      <title>VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction</title>
-      <link>https://paperswithcode.com/paper/vita-1-5-towards-gpt-4o-level-real-time</link>
-      <description><![CDATA[Recent Multimodal Large Language Models (MLLMs) have typically focused on integrating visual and textual modalities, with less emphasis placed on the role of speech in enhancing interaction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vita-1-5-towards-gpt-4o-level-real-time</guid>
-    </item>
-    <item>
-      <title>LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token</title>
-      <link>https://paperswithcode.com/paper/llava-mini-efficient-image-and-video-large</link>
-      <description><![CDATA[To achieve a high compression ratio of vision tokens while preserving visual information, we first analyze how LMMs understand vision tokens and find that most vision tokens only play a crucial role in the early layers of LLM backbone, where they mainly fuse visual information into text tokens.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llava-mini-efficient-image-and-video-large</guid>
-    </item>
-    <item>
-      <title>KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/2409-13731</link>
-      <description><![CDATA[The recently developed retrieval-augmented generation (RAG) technology has enabled the efficient construction of domain-specific applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/2409-13731</guid>
-    </item>
-    <item>
-      <title>NVILA: Efficient Frontier Visual Language Models</title>
-      <link>https://paperswithcode.com/paper/nvila-efficient-frontier-visual-language</link>
-      <description><![CDATA[This paper introduces NVILA, a family of open VLMs designed to optimize both efficiency and accuracy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/nvila-efficient-frontier-visual-language</guid>
-    </item>
-    <item>
-      <title>Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks</title>
-      <link>https://paperswithcode.com/paper/hallo3-highly-dynamic-and-realistic-portrait</link>
-      <description><![CDATA[Existing methodologies for animating portrait images face significant challenges, particularly in handling non-frontal perspectives, rendering dynamic objects around the portrait, and generating immersive, realistic backgrounds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo3-highly-dynamic-and-realistic-portrait</guid>
-    </item>
-    <item>
-      <title>DeepSeek-V3 Technical Report</title>
-      <link>https://paperswithcode.com/paper/deepseek-v3-technical-report</link>
-      <description><![CDATA[We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-v3-technical-report</guid>
+      <title>The GAN is dead; long live the GAN! A Modern GAN Baseline</title>
+      <link>https://paperswithcode.com/paper/the-gan-is-dead-long-live-the-gan-a-modern</link>
+      <description><![CDATA[There is a widely-spread claim that GANs are difficult to train, and GAN architectures in the literature are littered with empirical tricks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-gan-is-dead-long-live-the-gan-a-modern</guid>
     </item>
     <item>
       <title>SVFR: A Unified Framework for Generalized Video Face Restoration</title>
@@ -87,34 +51,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/svfr-a-unified-framework-for-generalized</guid>
     </item>
     <item>
-      <title>OpenHands: An Open Platform for AI Software Developers as Generalist Agents</title>
-      <link>https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software</link>
-      <description><![CDATA[OpenDevin), a platform for the development of powerful and flexible AI agents that interact with the world in similar ways to those of a human developer: by writing code, interacting with a command line, and browsing the web.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/opendevin-an-open-platform-for-ai-software</guid>
+      <title>Agentless: Demystifying LLM-based Software Engineering Agents</title>
+      <link>https://paperswithcode.com/paper/agentless-demystifying-llm-based-software</link>
+      <description><![CDATA[However, the complexity of these agent-based approaches, together with the limited abilities of current LLMs, raises the following question: Do we really have to employ complex autonomous software agents?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agentless-demystifying-llm-based-software</guid>
     </item>
     <item>
-      <title>Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/magic-mirror-id-preserved-video-generation-in</link>
-      <description><![CDATA[We present Magic Mirror, a framework for generating identity-preserved videos with cinematic-level quality and dynamic motion.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magic-mirror-id-preserved-video-generation-in</guid>
+      <title>LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs</title>
+      <link>https://paperswithcode.com/paper/llamav-o1-rethinking-step-by-step-visual</link>
+      <description><![CDATA[The benchmark presents a diverse set of challenges with eight different categories ranging from complex visual perception to scientific reasoning with over 4k reasoning steps in total, enabling robust evaluation of LLMs' abilities to perform accurate and interpretable visual reasoning across multiple steps.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llamav-o1-rethinking-step-by-step-visual</guid>
     </item>
     <item>
-      <title>Story-Adapter: A Training-free Iterative Framework for Long Story Visualization</title>
-      <link>https://paperswithcode.com/paper/story-adapter-a-training-free-iterative</link>
-      <description><![CDATA[Specifically, we propose an iterative paradigm to refine each generated image, leveraging both the text prompt and all generated images from the previous iteration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/story-adapter-a-training-free-iterative</guid>
-    </item>
-    <item>
-      <title>Large Concept Models: Language Modeling in a Sentence Representation Space</title>
-      <link>https://paperswithcode.com/paper/large-concept-models-language-modeling-in-a</link>
-      <description><![CDATA[In this paper, we present an attempt at an architecture which operates on an explicit higher-level semantic representation, which we name a concept.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-concept-models-language-modeling-in-a</guid>
-    </item>
-    <item>
-      <title>TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization</title>
-      <link>https://paperswithcode.com/paper/tangoflux-super-fast-and-faithful-text-to</link>
-      <description><![CDATA[We introduce TangoFlux, an efficient Text-to-Audio (TTA) generative model with 515M parameters, capable of generating up to 30 seconds of 44. 1kHz audio in just 3. 7 seconds on a single A40 GPU.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/tangoflux-super-fast-and-faithful-text-to</guid>
+      <title>KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/2409-13731</link>
+      <description><![CDATA[The recently developed retrieval-augmented generation (RAG) technology has enabled the efficient construction of domain-specific applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/2409-13731</guid>
     </item>
     <item>
       <title>Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos</title>
@@ -123,10 +75,58 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sa2va-marrying-sam2-with-llava-for-dense</guid>
     </item>
     <item>
+      <title>Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks</title>
+      <link>https://paperswithcode.com/paper/hallo3-highly-dynamic-and-realistic-portrait</link>
+      <description><![CDATA[Existing methodologies for animating portrait images face significant challenges, particularly in handling non-frontal perspectives, rendering dynamic objects around the portrait, and generating immersive, realistic backgrounds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hallo3-highly-dynamic-and-realistic-portrait</guid>
+    </item>
+    <item>
+      <title>Search-o1: Agentic Search-Enhanced Large Reasoning Models</title>
+      <link>https://paperswithcode.com/paper/search-o1-agentic-search-enhanced-large</link>
+      <description><![CDATA[To address this limitation, we introduce \textbf{Search-o1}, a framework that enhances LRMs with an agentic retrieval-augmented generation (RAG) mechanism and a Reason-in-Documents module for refining retrieved documents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/search-o1-agentic-search-enhanced-large</guid>
+    </item>
+    <item>
       <title>PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides</title>
       <link>https://paperswithcode.com/paper/pptagent-generating-and-evaluating</link>
       <description><![CDATA[Automatically generating presentations from documents is a challenging task that requires balancing content quality, visual design, and structural coherence.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/pptagent-generating-and-evaluating</guid>
+    </item>
+    <item>
+      <title>LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync</title>
+      <link>https://paperswithcode.com/paper/latentsync-audio-conditioned-latent-diffusion</link>
+      <description><![CDATA[Since we did not change the overall training framework of SyncNet, our experience can also be applied to other lip sync and audio-driven portrait animation methods that utilize SyncNet.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latentsync-audio-conditioned-latent-diffusion</guid>
+    </item>
+    <item>
+      <title>3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh</title>
+      <link>https://paperswithcode.com/paper/3dgs-to-pc-convert-a-3d-gaussian-splatting</link>
+      <description><![CDATA[The result is a point cloud that closely represents the shape encoded into the 3D Gaussian scene.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3dgs-to-pc-convert-a-3d-gaussian-splatting</guid>
+    </item>
+    <item>
+      <title>OASIS: Open Agent Social Interaction Simulations with One Million Agents</title>
+      <link>https://paperswithcode.com/paper/oasis-open-agents-social-interaction</link>
+      <description><![CDATA[There has been a growing interest in enhancing rule-based agent-based models (ABMs) for social media platforms (i. e., X, Reddit) with more realistic large language model (LLM) agents, thereby allowing for a more nuanced study of complex systems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/oasis-open-agents-social-interaction</guid>
+    </item>
+    <item>
+      <title>TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second</title>
+      <link>https://paperswithcode.com/paper/meta-learning-a-real-time-tabular-automl</link>
+      <description><![CDATA[We present TabPFN, a trained Transformer that can do supervised classification for small tabular datasets in less than a second, needs no hyperparameter tuning and is competitive with state-of-the-art classification methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/meta-learning-a-real-time-tabular-automl</guid>
+    </item>
+    <item>
+      <title>Lifelong Learning of Large Language Model based Agents: A Roadmap</title>
+      <link>https://paperswithcode.com/paper/lifelong-learning-of-large-language-model</link>
+      <description><![CDATA[This survey is the first to systematically summarize the potential techniques for incorporating lifelong learning into LLM-based agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lifelong-learning-of-large-language-model</guid>
+    </item>
+    <item>
+      <title>Cosmos World Foundation Model Platform for Physical AI</title>
+      <link>https://paperswithcode.com/paper/cosmos-world-foundation-model-platform-for</link>
+      <description><![CDATA[We position a world foundation model as a general-purpose world model that can be fine-tuned into customized world models for downstream applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cosmos-world-foundation-model-platform-for</guid>
     </item>
   </channel>
 </rss>
