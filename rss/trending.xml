@@ -7,12 +7,30 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 21:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 09:16:15 +0000</lastBuildDate>
     <item>
       <title>s1: Simple test-time scaling</title>
       <link>https://paperswithcode.com/paper/s1-simple-test-time-scaling</link>
       <description><![CDATA[After supervised finetuning the Qwen2. 5-32B-Instruct language model on s1K and equipping it with budget forcing, our model s1-32B exceeds o1-preview on competition math questions by up to 27% (MATH and AIME24).]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/s1-simple-test-time-scaling</guid>
+    </item>
+    <item>
+      <title>Data Formulator 2: Iteratively Creating Rich Visualizations with AI</title>
+      <link>https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</link>
+      <description><![CDATA[To create rich visualizations, data analysts often need to iterate back and forth among data processing and chart specification to achieve their goals.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</guid>
+    </item>
+    <item>
+      <title>LLM4Decompile: Decompiling Binary Code with Large Language Models</title>
+      <link>https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with</link>
+      <description><![CDATA[Decompilation aims to convert binary code to high-level source code, but traditional tools like Ghidra often produce results that are difficult to read and execute.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with</guid>
+    </item>
+    <item>
+      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
+      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
+      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
     </item>
     <item>
       <title>DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding</title>
@@ -27,16 +45,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/flaming-hot-initiation-with-regular-execution</guid>
     </item>
     <item>
+      <title>rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking</title>
+      <link>https://paperswithcode.com/paper/rstar-math-small-llms-can-master-math</link>
+      <description><![CDATA[We present rStar-Math to demonstrate that small language models (SLMs) can rival or even surpass the math reasoning capability of OpenAI o1, without distillation from superior models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rstar-math-small-llms-can-master-math</guid>
+    </item>
+    <item>
       <title>Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback</title>
       <link>https://paperswithcode.com/paper/align-anything-training-all-modality-models</link>
       <description><![CDATA[In this work, we make the first attempt to fine-tune all-modality models (i. e. input and output with any modality, also named any-to-any models) using human preference data across all modalities (including text, image, audio, and video), ensuring its behavior aligns with human intentions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/align-anything-training-all-modality-models</guid>
     </item>
     <item>
-      <title>ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills</title>
-      <link>https://paperswithcode.com/paper/asap-aligning-simulation-and-real-world</link>
-      <description><![CDATA[In the second stage, we deploy the policies in the real world and collect real-world data to train a delta (residual) action model that compensates for the dynamics mismatch.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/asap-aligning-simulation-and-real-world</guid>
+      <title>FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition Models from Encoder-Decoder to LLM Integration</title>
+      <link>https://paperswithcode.com/paper/fireredasr-open-source-industrial-grade</link>
+      <description><![CDATA[We present FireRedASR, a family of large-scale automatic speech recognition (ASR) models for Mandarin, designed to meet diverse requirements in superior performance and optimal efficiency across various applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fireredasr-open-source-industrial-grade</guid>
     </item>
     <item>
       <title>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</title>
@@ -45,76 +69,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-r1-incentivizing-reasoning</guid>
     </item>
     <item>
-      <title>DeepSeek-V3 Technical Report</title>
-      <link>https://paperswithcode.com/paper/deepseek-v3-technical-report</link>
-      <description><![CDATA[We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-v3-technical-report</guid>
+      <title>PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks</title>
+      <link>https://paperswithcode.com/paper/partnr-a-benchmark-for-planning-and-reasoning</link>
+      <description><![CDATA[We present a benchmark for Planning And Reasoning Tasks in humaN-Robot collaboration (PARTNR) designed to study human-robot coordination in household activities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/partnr-a-benchmark-for-planning-and-reasoning</guid>
     </item>
     <item>
-      <title>Data Formulator 2: Iteratively Creating Rich Visualizations with AI</title>
-      <link>https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</link>
-      <description><![CDATA[To create rich visualizations, data analysts often need to iterate back and forth among data processing and chart specification to achieve their goals.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</guid>
-    </item>
-    <item>
-      <title>RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/2408-02545</link>
-      <description><![CDATA[We introduce RAG Foundry, an open-source framework for augmenting large language models for RAG use cases.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/2408-02545</guid>
-    </item>
-    <item>
-      <title>DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence</title>
-      <link>https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</link>
-      <description><![CDATA[The rapid development of large language models has revolutionized code intelligence in software development.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-coder-when-the-large-language-model</guid>
-    </item>
-    <item>
-      <title>One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt</title>
-      <link>https://paperswithcode.com/paper/one-prompt-one-story-free-lunch-consistent</link>
-      <description><![CDATA[Drawing inspiration from the inherent context consistency, we propose a novel training-free method for consistent text-to-image (T2I) generation, termed "One-Prompt-One-Story" (1Prompt1Story).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-prompt-one-story-free-lunch-consistent</guid>
-    </item>
-    <item>
-      <title>Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models</title>
-      <link>https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</link>
-      <description><![CDATA[We study how to apply large language models to write grounded and organized long-form articles from scratch, with comparable breadth and depth to Wikipedia pages.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/assisting-in-writing-wikipedia-like-articles</guid>
-    </item>
-    <item>
-      <title>SGLang: Efficient Execution of Structured Language Model Programs</title>
-      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
-      <description><![CDATA[SGLang consists of a frontend language and a runtime.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
-    </item>
-    <item>
-      <title>Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling</title>
-      <link>https://paperswithcode.com/paper/janus-pro-unified-multimodal-understanding</link>
-      <description><![CDATA[In this work, we introduce Janus-Pro, an advanced version of the previous work Janus.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/janus-pro-unified-multimodal-understanding</guid>
-    </item>
-    <item>
-      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
-      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
-      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
-    </item>
-    <item>
-      <title>DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence</title>
-      <link>https://paperswithcode.com/paper/deepseek-coder-v2-breaking-the-barrier-of</link>
-      <description><![CDATA[Through this continued pre-training, DeepSeek-Coder-V2 substantially enhances the coding and mathematical reasoning capabilities of DeepSeek-V2, while maintaining comparable performance in general language tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-coder-v2-breaking-the-barrier-of</guid>
-    </item>
-    <item>
-      <title>UI-TARS: Pioneering Automated GUI Interaction with Native Agents</title>
-      <link>https://paperswithcode.com/paper/ui-tars-pioneering-automated-gui-interaction</link>
-      <description><![CDATA[This paper introduces UI-TARS, a native GUI agent model that solely perceives the screenshots as input and performs human-like interactions (e. g., keyboard and mouse operations).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ui-tars-pioneering-automated-gui-interaction</guid>
-    </item>
-    <item>
-      <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>
-      <link>https://paperswithcode.com/paper/one-diffusion-step-to-real-world-super</link>
-      <description><![CDATA[We use the state-of-the-art diffusion model FLUX. 1-dev as both the teacher model and the base model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/one-diffusion-step-to-real-world-super</guid>
+      <title>Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step</title>
+      <link>https://paperswithcode.com/paper/can-we-generate-images-with-cot-let-s-verify</link>
+      <description><![CDATA[We hope our study provides unique insights and paves a new path for integrating CoT reasoning with autoregressive image generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/can-we-generate-images-with-cot-let-s-verify</guid>
     </item>
     <item>
       <title>IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems</title>
@@ -123,10 +87,46 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/intellagent-a-multi-agent-framework-for</guid>
     </item>
     <item>
-      <title>DeepSeek LLM: Scaling Open-Source Language Models with Longtermism</title>
-      <link>https://paperswithcode.com/paper/deepseek-llm-scaling-open-source-language</link>
-      <description><![CDATA[The rapid development of open-source large language models (LLMs) has been truly remarkable.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-llm-scaling-open-source-language</guid>
+      <title>DeepSeek-V3 Technical Report</title>
+      <link>https://paperswithcode.com/paper/deepseek-v3-technical-report</link>
+      <description><![CDATA[We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-v3-technical-report</guid>
+    </item>
+    <item>
+      <title>ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills</title>
+      <link>https://paperswithcode.com/paper/asap-aligning-simulation-and-real-world</link>
+      <description><![CDATA[In the second stage, we deploy the policies in the real world and collect real-world data to train a delta (residual) action model that compensates for the dynamics mismatch.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/asap-aligning-simulation-and-real-world</guid>
+    </item>
+    <item>
+      <title>SGLang: Efficient Execution of Structured Language Model Programs</title>
+      <link>https://paperswithcode.com/paper/efficiently-programming-large-language-models</link>
+      <description><![CDATA[SGLang consists of a frontend language and a runtime.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficiently-programming-large-language-models</guid>
+    </item>
+    <item>
+      <title>Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search</title>
+      <link>https://paperswithcode.com/paper/mulberry-empowering-mllm-with-o1-like</link>
+      <description><![CDATA[Using CoMCTS, we construct Mulberry-260k, a multimodal dataset with a tree of rich, explicit and well-defined reasoning nodes for each question.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mulberry-empowering-mllm-with-o1-like</guid>
+    </item>
+    <item>
+      <title>Bilateral Reference for High-Resolution Dichotomous Image Segmentation</title>
+      <link>https://paperswithcode.com/paper/bilateral-reference-for-high-resolution</link>
+      <description><![CDATA[It comprises two essential components: the localization module (LM) and the reconstruction module (RM) with our proposed bilateral reference (BiRef).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bilateral-reference-for-high-resolution</guid>
+    </item>
+    <item>
+      <title>REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models</title>
+      <link>https://paperswithcode.com/paper/reinforce-a-simple-and-efficient-approach-for</link>
+      <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) has emerged as a critical approach for aligning large language models with human preferences, witnessing rapid algorithmic evolution through methods such as Proximal Policy Optimization (PPO), Direct Preference Optimization (DPO), REINFORCE Leave One-Out (RLOO), ReMax, and Group Relative Policy Optimization (GRPO).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/reinforce-a-simple-and-efficient-approach-for</guid>
+    </item>
+    <item>
+      <title>Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO</title>
+      <link>https://paperswithcode.com/paper/implementation-matters-in-deep-policy</link>
+      <description><![CDATA[We study the roots of algorithmic progress in deep policy gradient algorithms through a case study on two popular algorithms: Proximal Policy Optimization (PPO) and Trust Region Policy Optimization (TRPO).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/implementation-matters-in-deep-policy</guid>
     </item>
   </channel>
 </rss>
