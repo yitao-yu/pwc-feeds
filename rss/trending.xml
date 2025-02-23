@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 21:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 09:14:52 +0000</lastBuildDate>
     <item>
       <title>Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction</title>
       <link>https://paperswithcode.com/paper/step-audio-unified-understanding-and</link>
       <description><![CDATA[Based on our new StepEval-Audio-360 evaluation benchmark, Step-Audio achieves state-of-the-art performance in human evaluations, especially in terms of instruction following.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/step-audio-unified-understanding-and</guid>
+    </item>
+    <item>
+      <title>Craw4LLM: Efficient Web Crawling for LLM Pretraining</title>
+      <link>https://paperswithcode.com/paper/craw4llm-efficient-web-crawling-for-llm</link>
+      <description><![CDATA[Web crawl is a main source of large language models' (LLMs) pretraining data, but the majority of crawled web pages are discarded in pretraining due to low data quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/craw4llm-efficient-web-crawling-for-llm</guid>
     </item>
     <item>
       <title>SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?</title>
@@ -21,16 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/swe-lancer-can-frontier-llms-earn-1-million</guid>
     </item>
     <item>
+      <title>Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model</title>
+      <link>https://paperswithcode.com/paper/step-video-t2v-technical-report-the-practice</link>
+      <description><![CDATA[We present Step-Video-T2V, a state-of-the-art text-to-video pre-trained model with 30B parameters and the ability to generate videos up to 204 frames in length.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/step-video-t2v-technical-report-the-practice</guid>
+    </item>
+    <item>
       <title>OmniParser for Pure Vision Based GUI Agent</title>
       <link>https://paperswithcode.com/paper/omniparser-for-pure-vision-based-gui-agent</link>
       <description><![CDATA[The recent success of large vision language models shows great potential in driving the agent system operating on user interfaces.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/omniparser-for-pure-vision-based-gui-agent</guid>
     </item>
     <item>
-      <title>Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model</title>
-      <link>https://paperswithcode.com/paper/step-video-t2v-technical-report-the-practice</link>
-      <description><![CDATA[We present Step-Video-T2V, a state-of-the-art text-to-video pre-trained model with 30B parameters and the ability to generate videos up to 204 frames in length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/step-video-t2v-technical-report-the-practice</guid>
+      <title>MoBA: Mixture of Block Attention for Long-Context LLMs</title>
+      <link>https://paperswithcode.com/paper/moba-mixture-of-block-attention-for-long</link>
+      <description><![CDATA[Scaling the effective context length is essential for advancing large language models (LLMs) toward artificial general intelligence (AGI).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/moba-mixture-of-block-attention-for-long</guid>
     </item>
     <item>
       <title>PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation</title>
@@ -39,10 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/pike-rag-specialized-knowledge-and-rationale</guid>
     </item>
     <item>
-      <title>CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction</title>
-      <link>https://paperswithcode.com/paper/codei-o-condensing-reasoning-patterns-via</link>
-      <description><![CDATA[Reasoning is a fundamental capability of Large Language Models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/codei-o-condensing-reasoning-patterns-via</guid>
+      <title>OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia</title>
+      <link>https://paperswithcode.com/paper/osum-advancing-open-speech-understanding</link>
+      <description><![CDATA[Large Language Models (LLMs) have made significant progress in various downstream tasks, inspiring the development of Speech Understanding Language Models (SULMs) to enable comprehensive speech-based interactions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/osum-advancing-open-speech-understanding</guid>
     </item>
     <item>
       <title>Data Formulator 2: Iteratively Creating Rich Visualizations with AI</title>
@@ -51,16 +63,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/data-formulator-2-iteratively-creating-rich</guid>
     </item>
     <item>
-      <title>OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia</title>
-      <link>https://paperswithcode.com/paper/osum-advancing-open-speech-understanding</link>
-      <description><![CDATA[Large Language Models (LLMs) have made significant progress in various downstream tasks, inspiring the development of Speech Understanding Language Models (SULMs) to enable comprehensive speech-based interactions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/osum-advancing-open-speech-understanding</guid>
-    </item>
-    <item>
-      <title>Magic 1-For-1: Generating One Minute Video Clips within One Minute</title>
-      <link>https://paperswithcode.com/paper/magic-1-for-1-generating-one-minute-video</link>
-      <description><![CDATA[The key idea is simple: factorize the text-to-video generation task into two separate easier tasks for diffusion step distillation, namely text-to-image generation and image-to-video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magic-1-for-1-generating-one-minute-video</guid>
+      <title>Magma: A Foundation Model for Multimodal AI Agents</title>
+      <link>https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</link>
+      <description><![CDATA[We present Magma, a foundation model that serves multimodal AI agentic tasks in both the digital and physical worlds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</guid>
     </item>
     <item>
       <title>Zep: A Temporal Knowledge Graph Architecture for Agent Memory</title>
@@ -69,10 +75,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</guid>
     </item>
     <item>
-      <title>Light-A-Video: Training-free Video Relighting via Progressive Light Fusion</title>
-      <link>https://paperswithcode.com/paper/light-a-video-training-free-video-relighting</link>
-      <description><![CDATA[Second, leveraging the physical principle of light transport independence, we apply linear blending between the source video's appearance and the relighted appearance, using a Progressive Light Fusion (PLF) strategy to ensure smooth temporal transitions in illumination.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/light-a-video-training-free-video-relighting</guid>
+      <title>S*: Test Time Scaling for Code Generation</title>
+      <link>https://paperswithcode.com/paper/s-test-time-scaling-for-code-generation</link>
+      <description><![CDATA[Increasing test-time compute for LLMs shows promise across domains but remains underexplored in code generation, despite extensive study in math.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/s-test-time-scaling-for-code-generation</guid>
+    </item>
+    <item>
+      <title>Magic 1-For-1: Generating One Minute Video Clips within One Minute</title>
+      <link>https://paperswithcode.com/paper/magic-1-for-1-generating-one-minute-video</link>
+      <description><![CDATA[The key idea is simple: factorize the text-to-video generation task into two separate easier tasks for diffusion step distillation, namely text-to-image generation and image-to-video generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magic-1-for-1-generating-one-minute-video</guid>
     </item>
     <item>
       <title>HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation</title>
@@ -87,28 +99,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/flaming-hot-initiation-with-regular-execution</guid>
     </item>
     <item>
-      <title>KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG</title>
-      <link>https://paperswithcode.com/paper/ket-rag-a-cost-efficient-multi-granular</link>
-      <description><![CDATA[To ensure a good result accuracy while reducing the indexing cost, we propose KET-RAG, a multi-granular indexing framework.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ket-rag-a-cost-efficient-multi-granular</guid>
+      <title>OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer</title>
+      <link>https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</link>
+      <description><![CDATA[Recent advancements in Large Language Models (LLMs) have expanded their capabilities to multimodal contexts, including comprehensive video understanding.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/omagent-a-multi-modal-agent-framework-for</guid>
     </item>
     <item>
-      <title>Diffusion Models without Classifier-free Guidance</title>
-      <link>https://paperswithcode.com/paper/diffusion-models-without-classifier-free-1</link>
-      <description><![CDATA[This paper presents Model-guidance (MG), a novel objective for training diffusion model that addresses and removes of the commonly used Classifier-free guidance (CFG).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/diffusion-models-without-classifier-free-1</guid>
+      <title>SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation</title>
+      <link>https://paperswithcode.com/paper/songgen-a-single-stage-auto-regressive</link>
+      <description><![CDATA[To foster community engagement and future research, we will release our model weights, training code, annotated data, and preprocessing pipeline.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/songgen-a-single-stage-auto-regressive</guid>
     </item>
     <item>
-      <title>Cut Your Losses in Large-Vocabulary Language Models</title>
-      <link>https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</link>
-      <description><![CDATA[We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cut-your-losses-in-large-vocabulary-language</guid>
-    </item>
-    <item>
-      <title>Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback</title>
-      <link>https://paperswithcode.com/paper/align-anything-training-all-modality-models</link>
-      <description><![CDATA[In this work, we make the first attempt to fine-tune all-modality models (i. e. input and output with any modality, also named any-to-any models) using human preference data across all modalities (including text, image, audio, and video), ensuring its behavior aligns with human intentions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/align-anything-training-all-modality-models</guid>
+      <title>CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction</title>
+      <link>https://paperswithcode.com/paper/codei-o-condensing-reasoning-patterns-via</link>
+      <description><![CDATA[Reasoning is a fundamental capability of Large Language Models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/codei-o-condensing-reasoning-patterns-via</guid>
     </item>
     <item>
       <title>Colossal-Auto: Unified Automation of Parallelization and Activation Checkpoint for Large-scale Models</title>
@@ -117,16 +123,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/map-memory-aware-automated-intra-op-parallel</guid>
     </item>
     <item>
-      <title>Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment</title>
-      <link>https://paperswithcode.com/paper/ola-pushing-the-frontiers-of-omni-modal</link>
-      <description><![CDATA[Our training pipeline begins with the most distinct modalities: image and text, then gradually expands the skill sets of the model using speech data that connects language and audio knowledge, and video data that connects all modalities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ola-pushing-the-frontiers-of-omni-modal</guid>
-    </item>
-    <item>
-      <title>FinRL-DeepSeek: LLM-Infused Risk-Sensitive Reinforcement Learning for Trading Agents</title>
-      <link>https://paperswithcode.com/paper/finrl-deepseek-llm-infused-risk-sensitive</link>
-      <description><![CDATA[This paper presents a novel risk-sensitive trading agent combining reinforcement learning and large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/finrl-deepseek-llm-infused-risk-sensitive</guid>
+      <title>Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback</title>
+      <link>https://paperswithcode.com/paper/align-anything-training-all-modality-models</link>
+      <description><![CDATA[In this work, we make the first attempt to fine-tune all-modality models (i. e. input and output with any modality, also named any-to-any models) using human preference data across all modalities (including text, image, audio, and video), ensuring its behavior aligns with human intentions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/align-anything-training-all-modality-models</guid>
     </item>
   </channel>
 </rss>
