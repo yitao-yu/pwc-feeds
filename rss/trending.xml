@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 21:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 09:16:58 +0000</lastBuildDate>
     <item>
       <title>Fractal Generative Models</title>
       <link>https://paperswithcode.com/paper/fractal-generative-models</link>
@@ -15,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/fractal-generative-models</guid>
     </item>
     <item>
-      <title>Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction</title>
-      <link>https://paperswithcode.com/paper/step-audio-unified-understanding-and</link>
-      <description><![CDATA[Based on our new StepEval-Audio-360 evaluation benchmark, Step-Audio achieves state-of-the-art performance in human evaluations, especially in terms of instruction following.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/step-audio-unified-understanding-and</guid>
+      <title>From System 1 to System 2: A Survey of Reasoning Large Language Models</title>
+      <link>https://paperswithcode.com/paper/from-system-1-to-system-2-a-survey-of</link>
+      <description><![CDATA[Achieving human-level intelligence requires refining the transition from the fast, intuitive System 1 to the slower, more deliberate System 2 reasoning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/from-system-1-to-system-2-a-survey-of</guid>
     </item>
     <item>
       <title>Slamming: Training a Speech Language Model on One GPU in a Day</title>
@@ -33,10 +33,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/r1-onevision-an-open-source-multimodal-large</guid>
     </item>
     <item>
+      <title>Magma: A Foundation Model for Multimodal AI Agents</title>
+      <link>https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</link>
+      <description><![CDATA[We present Magma, a foundation model that serves multimodal AI agentic tasks in both the digital and physical worlds.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</guid>
+    </item>
+    <item>
+      <title>Step-Audio: Unified Understanding and Generation in Intelligent Speech Interaction</title>
+      <link>https://paperswithcode.com/paper/step-audio-unified-understanding-and</link>
+      <description><![CDATA[Based on our new StepEval-Audio-360 evaluation benchmark, Step-Audio achieves state-of-the-art performance in human evaluations, especially in terms of instruction following.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/step-audio-unified-understanding-and</guid>
+    </item>
+    <item>
       <title>Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model</title>
       <link>https://paperswithcode.com/paper/step-video-t2v-technical-report-the-practice</link>
       <description><![CDATA[We present Step-Video-T2V, a state-of-the-art text-to-video pre-trained model with 30B parameters and the ability to generate videos up to 204 frames in length.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/step-video-t2v-technical-report-the-practice</guid>
+    </item>
+    <item>
+      <title>HybridFlow: A Flexible and Efficient RLHF Framework</title>
+      <link>https://paperswithcode.com/paper/hybridflow-a-flexible-and-efficient-rlhf</link>
+      <description><![CDATA[Traditional RL can be modeled as a dataflow, where each node represents computation of a neural network (NN) and each edge denotes data dependencies between the NNs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hybridflow-a-flexible-and-efficient-rlhf</guid>
     </item>
     <item>
       <title>DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks</title>
@@ -45,10 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/diception-a-generalist-diffusion-model-for</guid>
     </item>
     <item>
-      <title>Magma: A Foundation Model for Multimodal AI Agents</title>
-      <link>https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</link>
-      <description><![CDATA[We present Magma, a foundation model that serves multimodal AI agentic tasks in both the digital and physical worlds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</guid>
+      <title>Training AI to be Loyal</title>
+      <link>https://paperswithcode.com/paper/training-ai-to-be-loyal</link>
+      <description><![CDATA[The key scientific question then is: how can we build models that are openly accessible (open source) and yet are owned and governed by the community.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/training-ai-to-be-loyal</guid>
+    </item>
+    <item>
+      <title>Audio-FLAN: A Preliminary Release</title>
+      <link>https://paperswithcode.com/paper/audio-flan-a-preliminary-release</link>
+      <description><![CDATA[Audio-FLAN lays the foundation for unified audio-language models that can seamlessly handle both understanding (e. g., transcription, comprehension) and generation (e. g., speech, music, sound) tasks across a wide range of audio domains in a zero-shot manner.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-flan-a-preliminary-release</guid>
     </item>
     <item>
       <title>OmniParser for Pure Vision Based GUI Agent</title>
@@ -57,16 +81,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/omniparser-for-pure-vision-based-gui-agent</guid>
     </item>
     <item>
-      <title>MoBA: Mixture of Block Attention for Long-Context LLMs</title>
-      <link>https://paperswithcode.com/paper/moba-mixture-of-block-attention-for-long</link>
-      <description><![CDATA[Scaling the effective context length is essential for advancing large language models (LLMs) toward artificial general intelligence (AGI).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/moba-mixture-of-block-attention-for-long</guid>
+      <title>Hawk: Learning to Understand Open-World Video Anomalies</title>
+      <link>https://paperswithcode.com/paper/hawk-learning-to-understand-open-world-video</link>
+      <description><![CDATA[Video Anomaly Detection (VAD) systems can autonomously monitor and identify disturbances, reducing the need for manual labor and associated costs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hawk-learning-to-understand-open-world-video</guid>
     </item>
     <item>
-      <title>Craw4LLM: Efficient Web Crawling for LLM Pretraining</title>
-      <link>https://paperswithcode.com/paper/craw4llm-efficient-web-crawling-for-llm</link>
-      <description><![CDATA[Web crawl is a main source of large language models' (LLMs) pretraining data, but the majority of crawled web pages are discarded in pretraining due to low data quality.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/craw4llm-efficient-web-crawling-for-llm</guid>
+      <title>DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding</title>
+      <link>https://paperswithcode.com/paper/deepseek-vl2-mixture-of-experts-vision</link>
+      <description><![CDATA[We present DeepSeek-VL2, an advanced series of large Mixture-of-Experts (MoE) Vision-Language Models that significantly improves upon its predecessor, DeepSeek-VL, through two key major upgrades.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-vl2-mixture-of-experts-vision</guid>
+    </item>
+    <item>
+      <title>Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs</title>
+      <link>https://paperswithcode.com/paper/emergent-misalignment-narrow-finetuning-can</link>
+      <description><![CDATA[In our experiment, a model is finetuned to output insecure code without disclosing this to the user.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/emergent-misalignment-narrow-finetuning-can</guid>
+    </item>
+    <item>
+      <title>PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/pike-rag-specialized-knowledge-and-rationale</link>
+      <description><![CDATA[Despite notable advancements in Retrieval-Augmented Generation (RAG) systems that expand large language model (LLM) capabilities through external retrieval, these systems often struggle to meet the complex and diverse needs of real-world industrial applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pike-rag-specialized-knowledge-and-rationale</guid>
+    </item>
+    <item>
+      <title>KV-Edit: Training-Free Image Editing for Precise Background Preservation</title>
+      <link>https://paperswithcode.com/paper/kv-edit-training-free-image-editing-for</link>
+      <description><![CDATA[Here, we propose KV-Edit, a training-free approach that uses KV cache in DiTs to maintain background consistency, where background tokens are preserved rather than regenerated, eliminating the need for complex mechanisms or expensive training, ultimately generating new content that seamlessly integrates with the background within user-provided regions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/kv-edit-training-free-image-editing-for</guid>
+    </item>
+    <item>
+      <title>Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction</title>
+      <link>https://paperswithcode.com/paper/baichuan-audio-a-unified-framework-for-end-to</link>
+      <description><![CDATA[To mitigate the loss of intelligence during pre-training and preserve the original capabilities of the LLM, we propose a two-stage pre-training strategy that maintains language understanding while enhancing audio modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/baichuan-audio-a-unified-framework-for-end-to</guid>
     </item>
     <item>
       <title>PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data</title>
@@ -79,54 +127,6 @@
       <link>https://paperswithcode.com/paper/flaming-hot-initiation-with-regular-execution</link>
       <description><![CDATA[Since the release of ChatGPT, large language models (LLMs) have demonstrated remarkable capabilities across various domains.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/flaming-hot-initiation-with-regular-execution</guid>
-    </item>
-    <item>
-      <title>VaViM and VaVAM: Autonomous Driving through Video Generative Modeling</title>
-      <link>https://paperswithcode.com/paper/vavim-and-vavam-autonomous-driving-through</link>
-      <description><![CDATA[We explore the potential of large-scale generative video models for autonomous driving, introducing an open-source auto-regressive video model (VaViM) and its companion video-action model (VaVAM) to investigate how video pre-training transfers to real-world driving.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vavim-and-vavam-autonomous-driving-through</guid>
-    </item>
-    <item>
-      <title>PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation</title>
-      <link>https://paperswithcode.com/paper/pike-rag-specialized-knowledge-and-rationale</link>
-      <description><![CDATA[Despite notable advancements in Retrieval-Augmented Generation (RAG) systems that expand large language model (LLM) capabilities through external retrieval, these systems often struggle to meet the complex and diverse needs of real-world industrial applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pike-rag-specialized-knowledge-and-rationale</guid>
-    </item>
-    <item>
-      <title>HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation</title>
-      <link>https://paperswithcode.com/paper/healthgpt-a-medical-large-vision-language</link>
-      <description><![CDATA[To effectively learn the HealthGPT, we devise a comprehensive medical domain-specific comprehension and generation dataset called VL-Health.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/healthgpt-a-medical-large-vision-language</guid>
-    </item>
-    <item>
-      <title>Towards Economical Inference: Enabling DeepSeek's Multi-Head Latent Attention in Any Transformer-based LLMs</title>
-      <link>https://paperswithcode.com/paper/towards-economical-inference-enabling</link>
-      <description><![CDATA[For example, the KV cache size of Llama2-7B is reduced by 92. 19%, with only a 0. 5% drop in LongBench performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-economical-inference-enabling</guid>
-    </item>
-    <item>
-      <title>SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation</title>
-      <link>https://paperswithcode.com/paper/songgen-a-single-stage-auto-regressive</link>
-      <description><![CDATA[To foster community engagement and future research, we will release our model weights, training code, annotated data, and preprocessing pipeline.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/songgen-a-single-stage-auto-regressive</guid>
-    </item>
-    <item>
-      <title>DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding</title>
-      <link>https://paperswithcode.com/paper/deepseek-vl2-mixture-of-experts-vision</link>
-      <description><![CDATA[We present DeepSeek-VL2, an advanced series of large Mixture-of-Experts (MoE) Vision-Language Models that significantly improves upon its predecessor, DeepSeek-VL, through two key major upgrades.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepseek-vl2-mixture-of-experts-vision</guid>
-    </item>
-    <item>
-      <title>Optimizing Model Selection for Compound AI Systems</title>
-      <link>https://paperswithcode.com/paper/optimizing-model-selection-for-compound-ai</link>
-      <description><![CDATA[We propose LLMSelector, an efficient framework for model selection in compound systems, which leverages two key empirical insights: (i) end-to-end performance is often monotonic in how well each module performs, with all other modules held fixed, and (ii) per-module performance can be estimated accurately by an LLM.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/optimizing-model-selection-for-compound-ai</guid>
-    </item>
-    <item>
-      <title>Hawk: Learning to Understand Open-World Video Anomalies</title>
-      <link>https://paperswithcode.com/paper/hawk-learning-to-understand-open-world-video</link>
-      <description><![CDATA[Video Anomaly Detection (VAD) systems can autonomously monitor and identify disturbances, reducing the need for manual labor and associated costs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hawk-learning-to-understand-open-world-video</guid>
     </item>
   </channel>
 </rss>
