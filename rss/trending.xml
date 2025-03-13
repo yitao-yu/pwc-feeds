@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 21:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 09:17:16 +0000</lastBuildDate>
     <item>
       <title>Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens</title>
       <link>https://paperswithcode.com/paper/2503-01710</link>
       <description><![CDATA[Recent advancements in large language models (LLMs) have driven significant progress in zero-shot text-to-speech (TTS) synthesis.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/2503-01710</guid>
+    </item>
+    <item>
+      <title>YOLOE: Real-Time Seeing Anything</title>
+      <link>https://paperswithcode.com/paper/yoloe-real-time-seeing-anything</link>
+      <description><![CDATA[Object detection and segmentation are widely employed in computer vision applications, yet conventional models like YOLO series, while efficient and accurate, are limited by predefined categories, hindering adaptability in open scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yoloe-real-time-seeing-anything</guid>
     </item>
     <item>
       <title>Scaling Synthetic Data Creation with 1,000,000,000 Personas</title>
@@ -21,16 +27,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</guid>
     </item>
     <item>
+      <title>VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control</title>
+      <link>https://paperswithcode.com/paper/videopainter-any-length-video-inpainting-and</link>
+      <description><![CDATA[Video inpainting, which aims to restore corrupted video content, has experienced substantial progress.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videopainter-any-length-video-inpainting-and</guid>
+    </item>
+    <item>
+      <title>Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts</title>
+      <link>https://paperswithcode.com/paper/comet-fine-grained-computation-communication</link>
+      <description><![CDATA[The inter-device communication of a MoE layer can occupy 47% time of the entire model execution with popular models and frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/comet-fine-grained-computation-communication</guid>
+    </item>
+    <item>
       <title>GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control</title>
       <link>https://paperswithcode.com/paper/gen3c-3d-informed-world-consistent-video</link>
       <description><![CDATA[Our results demonstrate more precise camera control than prior work, as well as state-of-the-art results in sparse-view novel view synthesis, even in challenging settings such as driving scenes and monocular dynamic video.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gen3c-3d-informed-world-consistent-video</guid>
-    </item>
-    <item>
-      <title>Zero-shot Voice Conversion with Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/zero-shot-voice-conversion-with-diffusion</link>
-      <description><![CDATA[Zero-shot voice conversion aims to transform a source speech utterance to match the timbre of a reference speech from an unseen speaker.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zero-shot-voice-conversion-with-diffusion</guid>
     </item>
     <item>
       <title>Visual-RFT: Visual Reinforcement Fine-Tuning</title>
@@ -39,28 +51,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/visual-rft-visual-reinforcement-fine-tuning</guid>
     </item>
     <item>
+      <title>AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems</title>
+      <link>https://paperswithcode.com/paper/agibot-world-colosseo-a-large-scale</link>
+      <description><![CDATA[Introducing AgiBot World, a large-scale platform comprising over 1 million trajectories across 217 tasks in five deployment scenarios, we achieve an order-of-magnitude increase in data scale compared to existing datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agibot-world-colosseo-a-large-scale</guid>
+    </item>
+    <item>
+      <title>FoundationStereo: Zero-Shot Stereo Matching</title>
+      <link>https://paperswithcode.com/paper/foundationstereo-zero-shot-stereo-matching</link>
+      <description><![CDATA[However, achieving strong zero-shot generalization - a hallmark of foundation models in other computer vision tasks - remains challenging for stereo matching.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/foundationstereo-zero-shot-stereo-matching</guid>
+    </item>
+    <item>
+      <title>Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement</title>
+      <link>https://paperswithcode.com/paper/seg-zero-reasoning-chain-guided-segmentation</link>
+      <description><![CDATA[Traditional methods for reasoning segmentation rely on supervised fine-tuning with categorical labels and simple descriptions, limiting its out-of-domain generalization and lacking explicit reasoning processes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/seg-zero-reasoning-chain-guided-segmentation</guid>
+    </item>
+    <item>
       <title>olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models</title>
       <link>https://paperswithcode.com/paper/olmocr-unlocking-trillions-of-tokens-in-pdfs</link>
       <description><![CDATA[PDF documents have the potential to provide trillions of novel, high-quality tokens for training language models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/olmocr-unlocking-trillions-of-tokens-in-pdfs</guid>
     </item>
     <item>
-      <title>Residual Kolmogorov-Arnold Network for Enhanced Deep Learning</title>
-      <link>https://paperswithcode.com/paper/residual-kolmogorov-arnold-network-for</link>
-      <description><![CDATA[Despite the strong performance in many computer vision tasks, Convolutional Neural Networks (CNNs) can sometimes struggle to efficiently capture long-range, complex non-linear dependencies in deeper layers of the network.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/residual-kolmogorov-arnold-network-for</guid>
+      <title>Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference</title>
+      <link>https://paperswithcode.com/paper/lanpaint-training-free-diffusion-inpainting</link>
+      <description><![CDATA[Diffusion models generate high-quality images but often lack efficient and universally applicable inpainting capabilities, particularly in community-trained models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lanpaint-training-free-diffusion-inpainting</guid>
     </item>
     <item>
-      <title>DeepRetrieval: Powerful Query Generation for Information Retrieval with Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/deepretrieval-powerful-query-generation-for</link>
-      <description><![CDATA[Information retrieval systems are crucial for enabling effective access to large document collections.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deepretrieval-powerful-query-generation-for</guid>
-    </item>
-    <item>
-      <title>Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation</title>
-      <link>https://paperswithcode.com/paper/kiss3dgen-repurposing-image-diffusion-models</link>
-      <description><![CDATA[The normal maps are then used to reconstruct a 3D mesh, and the multi-view images provide texture mapping, resulting in a complete 3D model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kiss3dgen-repurposing-image-diffusion-models</guid>
+      <title>Executable Code Actions Elicit Better LLM Agents</title>
+      <link>https://paperswithcode.com/paper/executable-code-actions-elicit-better-llm</link>
+      <description><![CDATA[LLM agents are typically prompted to produce actions by generating JSON or text in a pre-defined format, which is usually limited by constrained action space (e. g., the scope of pre-defined tools) and restricted flexibility (e. g., inability to compose multiple tools).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/executable-code-actions-elicit-better-llm</guid>
     </item>
     <item>
       <title>A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models</title>
@@ -69,64 +93,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/a-survey-of-graph-retrieval-augmented</guid>
     </item>
     <item>
-      <title>MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents</title>
-      <link>https://paperswithcode.com/paper/multiagentbench-evaluating-the-collaboration</link>
-      <description><![CDATA[Large Language Models (LLMs) have shown remarkable capabilities as autonomous agents, yet existing benchmarks either focus on single-agent tasks or are confined to narrow domains, failing to capture the dynamics of multi-agent coordination and competition.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multiagentbench-evaluating-the-collaboration</guid>
-    </item>
-    <item>
-      <title>CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents</title>
-      <link>https://paperswithcode.com/paper/crab-cross-environment-agent-benchmark-for</link>
-      <description><![CDATA[Leveraging Crab, we developed a cross-platform Crab Benchmark-v0 comprising 120 tasks in computer desktop and mobile phone environments.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/crab-cross-environment-agent-benchmark-for</guid>
-    </item>
-    <item>
-      <title>Self-rewarding correction for mathematical reasoning</title>
-      <link>https://paperswithcode.com/paper/self-rewarding-correction-for-mathematical</link>
-      <description><![CDATA[We study self-rewarding reasoning large language models (LLMs), which can simultaneously generate step-by-step reasoning and evaluate the correctness of their outputs during the inference time-without external feedback.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-correction-for-mathematical</guid>
-    </item>
-    <item>
       <title>Chain of Draft: Thinking Faster by Writing Less</title>
       <link>https://paperswithcode.com/paper/chain-of-draft-thinking-faster-by-writing</link>
       <description><![CDATA[Large Language Models (LLMs) have demonstrated remarkable performance in solving complex reasoning tasks through mechanisms like Chain-of-Thought (CoT) prompting, which emphasizes verbose, step-by-step reasoning.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/chain-of-draft-thinking-faster-by-writing</guid>
     </item>
     <item>
-      <title>OASIS: Open Agent Social Interaction Simulations with One Million Agents</title>
-      <link>https://paperswithcode.com/paper/oasis-open-agents-social-interaction</link>
-      <description><![CDATA[There has been a growing interest in enhancing rule-based agent-based models (ABMs) for social media platforms (i. e., X, Reddit) with more realistic large language model (LLM) agents, thereby allowing for a more nuanced study of complex systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/oasis-open-agents-social-interaction</guid>
+      <title>Interpreting and Improving Diffusion Models from an Optimization Perspective</title>
+      <link>https://paperswithcode.com/paper/interpreting-and-improving-diffusion-models</link>
+      <description><![CDATA[Denoising is intuitively related to projection.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/interpreting-and-improving-diffusion-models</guid>
     </item>
     <item>
-      <title>Proximal Policy Optimization Algorithms</title>
-      <link>https://paperswithcode.com/paper/proximal-policy-optimization-algorithms</link>
-      <description><![CDATA[We propose a new family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a "surrogate" objective function using stochastic gradient ascent.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/proximal-policy-optimization-algorithms</guid>
+      <title>HybridFlow: A Flexible and Efficient RLHF Framework</title>
+      <link>https://paperswithcode.com/paper/hybridflow-a-flexible-and-efficient-rlhf</link>
+      <description><![CDATA[Traditional RL can be modeled as a dataflow, where each node represents computation of a neural network (NN) and each edge denotes data dependencies between the NNs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hybridflow-a-flexible-and-efficient-rlhf</guid>
     </item>
     <item>
-      <title>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</title>
-      <link>https://paperswithcode.com/paper/switch-transformers-scaling-to-trillion</link>
-      <description><![CDATA[We design models based off T5-Base and T5-Large to obtain up to 7x increases in pre-training speed with the same computational resources.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/switch-transformers-scaling-to-trillion</guid>
+      <title>Residual Kolmogorov-Arnold Network for Enhanced Deep Learning</title>
+      <link>https://paperswithcode.com/paper/residual-kolmogorov-arnold-network-for</link>
+      <description><![CDATA[Despite the strong performance in many computer vision tasks, Convolutional Neural Networks (CNNs) can sometimes struggle to efficiently capture long-range, complex non-linear dependencies in deeper layers of the network.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/residual-kolmogorov-arnold-network-for</guid>
     </item>
     <item>
-      <title>HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation</title>
-      <link>https://paperswithcode.com/paper/healthgpt-a-medical-large-vision-language</link>
-      <description><![CDATA[To effectively learn the HealthGPT, we devise a comprehensive medical domain-specific comprehension and generation dataset called VL-Health.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/healthgpt-a-medical-large-vision-language</guid>
+      <title>Learning Efficient Online 3D Bin Packing on Packing Configuration Trees</title>
+      <link>https://paperswithcode.com/paper/learning-efficient-online-3d-bin-packing-on</link>
+      <description><![CDATA[PCT is a full-fledged description of the state and action space of bin packing which can support packing policy learning based on deep reinforcement learning (DRL).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-efficient-online-3d-bin-packing-on</guid>
     </item>
     <item>
-      <title>Magma: A Foundation Model for Multimodal AI Agents</title>
-      <link>https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</link>
-      <description><![CDATA[We present Magma, a foundation model that serves multimodal AI agentic tasks in both the digital and physical worlds.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magma-a-foundation-model-for-multimodal-ai</guid>
-    </item>
-    <item>
-      <title>UnCommon Objects in 3D</title>
-      <link>https://paperswithcode.com/paper/uncommon-objects-in-3d</link>
-      <description><![CDATA[We introduce Uncommon Objects in 3D (uCO3D), a new object-centric dataset for 3D deep learning and 3D generative AI.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uncommon-objects-in-3d</guid>
+      <title>Self-rewarding correction for mathematical reasoning</title>
+      <link>https://paperswithcode.com/paper/self-rewarding-correction-for-mathematical</link>
+      <description><![CDATA[We study self-rewarding reasoning large language models (LLMs), which can simultaneously generate step-by-step reasoning and evaluate the correctness of their outputs during the inference time-without external feedback.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-correction-for-mathematical</guid>
     </item>
   </channel>
 </rss>
