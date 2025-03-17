@@ -7,13 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 21:08:18 +0000</lastBuildDate>
-    <item>
-      <title>YOLOE: Real-Time Seeing Anything</title>
-      <link>https://paperswithcode.com/paper/yoloe-real-time-seeing-anything</link>
-      <description><![CDATA[Object detection and segmentation are widely employed in computer vision applications, yet conventional models like YOLO series, while efficient and accurate, are limited by predefined categories, hindering adaptability in open scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/yoloe-real-time-seeing-anything</guid>
-    </item>
+    <lastBuildDate>Mon, 17 Mar 2025 09:18:40 +0000</lastBuildDate>
     <item>
       <title>Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens</title>
       <link>https://paperswithcode.com/paper/2503-01710</link>
@@ -21,10 +15,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/2503-01710</guid>
     </item>
     <item>
-      <title>Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts</title>
-      <link>https://paperswithcode.com/paper/comet-fine-grained-computation-communication</link>
-      <description><![CDATA[The inter-device communication of a MoE layer can occupy 47% time of the entire model execution with popular models and frameworks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/comet-fine-grained-computation-communication</guid>
+      <title>YOLOE: Real-Time Seeing Anything</title>
+      <link>https://paperswithcode.com/paper/yoloe-real-time-seeing-anything</link>
+      <description><![CDATA[Object detection and segmentation are widely employed in computer vision applications, yet conventional models like YOLO series, while efficient and accurate, are limited by predefined categories, hindering adaptability in open scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/yoloe-real-time-seeing-anything</guid>
+    </item>
+    <item>
+      <title>Neural Fields with Thermal Activations for Arbitrary-Scale Super-Resolution</title>
+      <link>https://paperswithcode.com/paper/neural-fields-with-thermal-activations-for</link>
+      <description><![CDATA[We present a novel way to design neural fields such that points can be queried with an adaptive Gaussian PSF, so as to guarantee correct anti-aliasing at any desired output resolution.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/neural-fields-with-thermal-activations-for</guid>
+    </item>
+    <item>
+      <title>Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models</title>
+      <link>https://paperswithcode.com/paper/block-diffusion-interpolating-between</link>
+      <description><![CDATA[Diffusion language models offer unique benefits over autoregressive models due to their potential for parallelized generation and controllability, yet they lag in likelihood modeling and are limited to fixed-length generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/block-diffusion-interpolating-between</guid>
+    </item>
+    <item>
+      <title>Agent S: An Open Agentic Framework that Uses Computers Like a Human</title>
+      <link>https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</link>
+      <description><![CDATA[We present Agent S, an open agentic framework that enables autonomous interaction with computers through a Graphical User Interface (GUI), aimed at transforming human-computer interaction by automating complex, multi-step tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</guid>
     </item>
     <item>
       <title>LBM: Latent Bridge Matching for Fast Image-to-Image Translation</title>
@@ -39,10 +51,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/foundationstereo-zero-shot-stereo-matching</guid>
     </item>
     <item>
-      <title>VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control</title>
-      <link>https://paperswithcode.com/paper/videopainter-any-length-video-inpainting-and</link>
-      <description><![CDATA[Video inpainting, which aims to restore corrupted video content, has experienced substantial progress.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videopainter-any-length-video-inpainting-and</guid>
+      <title>Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k</title>
+      <link>https://paperswithcode.com/paper/open-sora-2-0-training-a-commercial-level</link>
+      <description><![CDATA[With this model, we demonstrate that the cost of training a top-performing video generation model is highly controllable.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/open-sora-2-0-training-a-commercial-level</guid>
     </item>
     <item>
       <title>Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models</title>
@@ -51,70 +63,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vision-r1-incentivizing-reasoning-capability</guid>
     </item>
     <item>
-      <title>Scaling Synthetic Data Creation with 1,000,000,000 Personas</title>
-      <link>https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</link>
-      <description><![CDATA[We propose a novel persona-driven data synthesis methodology that leverages various perspectives within a large language model (LLM) to create diverse synthetic data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/scaling-synthetic-data-creation-with</guid>
+      <title>Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA</title>
+      <link>https://paperswithcode.com/paper/slim-attention-cut-your-context-memory-in</link>
+      <description><![CDATA[For encoder-decoder transformers, the context memory size can be reduced even further: For the Whisper models for example, slim attention reduces the context memory by 8x, which can speed up token generation by 5x for batch size 64 for example.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/slim-attention-cut-your-context-memory-in</guid>
     </item>
     <item>
-      <title>Learning Efficient Online 3D Bin Packing on Packing Configuration Trees</title>
-      <link>https://paperswithcode.com/paper/learning-efficient-online-3d-bin-packing-on</link>
-      <description><![CDATA[PCT is a full-fledged description of the state and action space of bin packing which can support packing policy learning based on deep reinforcement learning (DRL).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-efficient-online-3d-bin-packing-on</guid>
-    </item>
-    <item>
-      <title>LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL</title>
-      <link>https://paperswithcode.com/paper/lmm-r1-empowering-3b-lmms-with-strong</link>
-      <description><![CDATA[Enhancing reasoning in Large Multimodal Models (LMMs) faces unique challenges from the complex interplay between visual perception and logical reasoning, particularly in compact 3B-parameter architectures where architectural constraints limit reasoning capacity and modality alignment.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lmm-r1-empowering-3b-lmms-with-strong</guid>
-    </item>
-    <item>
-      <title>Agent S: An Open Agentic Framework that Uses Computers Like a Human</title>
-      <link>https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</link>
-      <description><![CDATA[We present Agent S, an open agentic framework that enables autonomous interaction with computers through a Graphical User Interface (GUI), aimed at transforming human-computer interaction by automating complex, multi-step tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-s-an-open-agentic-framework-that-uses</guid>
-    </item>
-    <item>
-      <title>Visual-RFT: Visual Reinforcement Fine-Tuning</title>
-      <link>https://paperswithcode.com/paper/visual-rft-visual-reinforcement-fine-tuning</link>
-      <description><![CDATA[Reinforcement Fine-Tuning (RFT) in Large Reasoning Models like OpenAI o1 learns from feedback on its answers, which is especially useful in applications when fine-tuning data is scarce.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-rft-visual-reinforcement-fine-tuning</guid>
-    </item>
-    <item>
-      <title>Executable Code Actions Elicit Better LLM Agents</title>
-      <link>https://paperswithcode.com/paper/executable-code-actions-elicit-better-llm</link>
-      <description><![CDATA[LLM agents are typically prompted to produce actions by generating JSON or text in a pre-defined format, which is usually limited by constrained action space (e. g., the scope of pre-defined tools) and restricted flexibility (e. g., inability to compose multiple tools).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/executable-code-actions-elicit-better-llm</guid>
-    </item>
-    <item>
-      <title>GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control</title>
-      <link>https://paperswithcode.com/paper/gen3c-3d-informed-world-consistent-video</link>
-      <description><![CDATA[Our results demonstrate more precise camera control than prior work, as well as state-of-the-art results in sparse-view novel view synthesis, even in challenging settings such as driving scenes and monocular dynamic video.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/gen3c-3d-informed-world-consistent-video</guid>
-    </item>
-    <item>
-      <title>Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement</title>
-      <link>https://paperswithcode.com/paper/seg-zero-reasoning-chain-guided-segmentation</link>
-      <description><![CDATA[Traditional methods for reasoning segmentation rely on supervised fine-tuning with categorical labels and simple descriptions, limiting its out-of-domain generalization and lacking explicit reasoning processes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seg-zero-reasoning-chain-guided-segmentation</guid>
-    </item>
-    <item>
-      <title>Interpreting and Improving Diffusion Models from an Optimization Perspective</title>
-      <link>https://paperswithcode.com/paper/interpreting-and-improving-diffusion-models</link>
-      <description><![CDATA[Denoising is intuitively related to projection.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/interpreting-and-improving-diffusion-models</guid>
-    </item>
-    <item>
-      <title>AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning</title>
-      <link>https://paperswithcode.com/paper/alphadrive-unleashing-the-power-of-vlms-in</link>
-      <description><![CDATA[Some studies integrate vision-language models (VLMs) into autonomous driving, but they typically rely on pre-trained models with simple supervised fine-tuning (SFT) on driving data, without further exploration of training strategies or optimizations specifically tailored for planning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/alphadrive-unleashing-the-power-of-vlms-in</guid>
-    </item>
-    <item>
-      <title>LLM4AD: A Platform for Algorithm Design with Large Language Model</title>
-      <link>https://paperswithcode.com/paper/llm4ad-a-platform-for-algorithm-design-with</link>
-      <description><![CDATA[We introduce LLM4AD, a unified Python platform for algorithm design (AD) with large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/llm4ad-a-platform-for-algorithm-design-with</guid>
+      <title>Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts</title>
+      <link>https://paperswithcode.com/paper/comet-fine-grained-computation-communication</link>
+      <description><![CDATA[The inter-device communication of a MoE layer can occupy 47% time of the entire model execution with popular models and frameworks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/comet-fine-grained-computation-communication</guid>
     </item>
     <item>
       <title>Self-rewarding correction for mathematical reasoning</title>
@@ -123,10 +81,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/self-rewarding-correction-for-mathematical</guid>
     </item>
     <item>
-      <title>Lanpaint: Training-Free Diffusion Inpainting with Exact and Fast Conditional Inference</title>
-      <link>https://paperswithcode.com/paper/lanpaint-training-free-diffusion-inpainting</link>
-      <description><![CDATA[Diffusion models generate high-quality images but often lack efficient and universally applicable inpainting capabilities, particularly in community-trained models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lanpaint-training-free-diffusion-inpainting</guid>
+      <title>Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/search-r1-training-llms-to-reason-and</link>
+      <description><![CDATA[Efficiently acquiring external knowledge and up-to-date information is essential for effective reasoning and text generation in large language models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/search-r1-training-llms-to-reason-and</guid>
+    </item>
+    <item>
+      <title>Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/attentive-reasoning-queries-a-systematic</link>
+      <description><![CDATA[We present Attentive Reasoning Queries (ARQs), a novel structured reasoning approach that significantly improves instruction-following in Large Language Models through domain-specialized reasoning blueprints.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/attentive-reasoning-queries-a-systematic</guid>
+    </item>
+    <item>
+      <title>LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL</title>
+      <link>https://paperswithcode.com/paper/lmm-r1-empowering-3b-lmms-with-strong</link>
+      <description><![CDATA[Enhancing reasoning in Large Multimodal Models (LMMs) faces unique challenges from the complex interplay between visual perception and logical reasoning, particularly in compact 3B-parameter architectures where architectural constraints limit reasoning capacity and modality alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lmm-r1-empowering-3b-lmms-with-strong</guid>
+    </item>
+    <item>
+      <title>ELIZA Reanimated: The world's first chatbot restored on the world's first time sharing system</title>
+      <link>https://paperswithcode.com/paper/eliza-reanimated-the-world-s-first-chatbot</link>
+      <description><![CDATA[The entire stack is open source, so that any user of a unix-like OS can run the world's first chatbot on the world's first time-sharing system.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/eliza-reanimated-the-world-s-first-chatbot</guid>
+    </item>
+    <item>
+      <title>HealthGPT: A Medical Large Vision-Language Model for Unifying Comprehension and Generation via Heterogeneous Knowledge Adaptation</title>
+      <link>https://paperswithcode.com/paper/healthgpt-a-medical-large-vision-language</link>
+      <description><![CDATA[To effectively learn the HealthGPT, we devise a comprehensive medical domain-specific comprehension and generation dataset called VL-Health.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/healthgpt-a-medical-large-vision-language</guid>
+    </item>
+    <item>
+      <title>2 OLMo 2 Furious</title>
+      <link>https://paperswithcode.com/paper/2-olmo-2-furious</link>
+      <description><![CDATA[Our modified model architecture and training recipe achieve both better training stability and improved per-token efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/2-olmo-2-furious</guid>
+    </item>
+    <item>
+      <title>GENERator: A Long-Context Generative Genomic Foundation Model</title>
+      <link>https://paperswithcode.com/paper/generator-a-long-context-generative-genomic</link>
+      <description><![CDATA[Recent developments in genomic language models have underscored the potential of LLMs in deciphering DNA sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/generator-a-long-context-generative-genomic</guid>
+    </item>
+    <item>
+      <title>VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control</title>
+      <link>https://paperswithcode.com/paper/videopainter-any-length-video-inpainting-and</link>
+      <description><![CDATA[Video inpainting, which aims to restore corrupted video content, has experienced substantial progress.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videopainter-any-length-video-inpainting-and</guid>
     </item>
   </channel>
 </rss>
