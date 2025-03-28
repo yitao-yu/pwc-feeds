@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 09:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 21:09:08 +0000</lastBuildDate>
     <item>
       <title>tensorflow</title>
       <link>https://github.com/tensorflow/tensorflow</link>
@@ -15,16 +15,16 @@
       <guid isPermaLink="true">https://github.com/tensorflow/tensorflow</guid>
     </item>
     <item>
-      <title>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</title>
-      <link>https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</link>
-      <description><![CDATA[In this work, we take the first step to exploit the pre-trained (unfine-tuned) weights to mitigate backdoors in fine-tuned language models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</guid>
-    </item>
-    <item>
       <title>transformers</title>
       <link>https://github.com/huggingface/transformers</link>
       <description><![CDATA[ Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.]]></description>
       <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
+    </item>
+    <item>
+      <title>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</title>
+      <link>https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</link>
+      <description><![CDATA[In this work, we take the first step to exploit the pre-trained (unfine-tuned) weights to mitigate backdoors in fine-tuned language models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fine-mixing-mitigating-backdoors-in-fine</guid>
     </item>
     <item>
       <title>DeepSeek-V3 Technical Report</title>
@@ -57,6 +57,12 @@
       <guid isPermaLink="true">https://github.com/tensorflow/models</guid>
     </item>
     <item>
+      <title>Highly Optimized Kernels and Fine-Grained Codebooks for LLM Inference on Arm CPUs</title>
+      <link>https://paperswithcode.com/paper/highly-optimized-kernels-and-fine-grained</link>
+      <description><![CDATA[Large language models (LLMs) have transformed the way we think about language understanding and generation, enthralling both researchers and developers.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/highly-optimized-kernels-and-fine-grained</guid>
+    </item>
+    <item>
       <title>Training language models to follow instructions with human feedback</title>
       <link>https://paperswithcode.com/paper/training-language-models-to-follow</link>
       <description><![CDATA[In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.]]></description>
@@ -67,12 +73,6 @@
       <link>https://paperswithcode.com/paper/language-models-are-few-shot-learners</link>
       <description><![CDATA[By contrast, humans can generally perform a new language task from only a few examples or from simple instructions - something which current NLP systems still largely struggle to do.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/language-models-are-few-shot-learners</guid>
-    </item>
-    <item>
-      <title>Highly Optimized Kernels and Fine-Grained Codebooks for LLM Inference on Arm CPUs</title>
-      <link>https://paperswithcode.com/paper/highly-optimized-kernels-and-fine-grained</link>
-      <description><![CDATA[Large language models (LLMs) have transformed the way we think about language understanding and generation, enthralling both researchers and developers.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/highly-optimized-kernels-and-fine-grained</guid>
     </item>
     <item>
       <title>GPT4All: An Ecosystem of Open Source Compressed Language Models</title>
@@ -123,6 +123,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/regnet-self-regulated-network-for-image</guid>
     </item>
     <item>
+      <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
+      <link>https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</link>
+      <description><![CDATA[In this work we introduce a new optimisation method called SAGA in the spirit of SAG, SDCA, MISO and SVRG, a set of recently proposed incremental gradient algorithms with fast linear convergence rates.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</guid>
+    </item>
+    <item>
       <title>Improving the Cluster Structure Extracted from OPTICS Plots</title>
       <link>https://paperswithcode.com/paper/improving-the-cluster-structure-extracted</link>
       <description><![CDATA[Density-based clustering is closely associated with the two algorithms DBSCAN and OPTICS.]]></description>
@@ -133,12 +139,6 @@
       <link>https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</link>
       <description><![CDATA[Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python</guid>
-    </item>
-    <item>
-      <title>SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives</title>
-      <link>https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</link>
-      <description><![CDATA[In this work we introduce a new optimisation method called SAGA in the spirit of SAG, SDCA, MISO and SVRG, a set of recently proposed incremental gradient algorithms with fast linear convergence rates.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/saga-a-fast-incremental-gradient-method-with</guid>
     </item>
   </channel>
 </rss>
