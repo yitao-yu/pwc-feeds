@@ -7,12 +7,42 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Apr 2025 09:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 21:09:48 +0000</lastBuildDate>
     <item>
       <title>MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs</title>
       <link>https://paperswithcode.com/paper/medreason-eliciting-factual-medical-reasoning</link>
       <description><![CDATA[Our pipeline generates detailed reasoning for various medical questions from 7 medical datasets, resulting in a dataset of 32, 682 question-answer pairs, each with detailed, step-by-step explanations.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/medreason-eliciting-factual-medical-reasoning</guid>
+    </item>
+    <item>
+      <title>Quantum Random Lunch Generator (QRLG)</title>
+      <link>https://paperswithcode.com/paper/quantum-random-lunch-generator-qrlg</link>
+      <description><![CDATA[Lunch is important and choosing where to have lunch is difficult.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-random-lunch-generator-qrlg</guid>
+    </item>
+    <item>
+      <title>Effect-driven interpretation: Functors for natural language composition</title>
+      <link>https://paperswithcode.com/paper/effect-driven-interpretation-functors-for</link>
+      <description><![CDATA[Computer programs are often factored into pure components -- simple, total functions from inputs to outputs -- and components that may have side effects -- errors, changes to memory, parallel threads, abortion of the current loop, etc.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/effect-driven-interpretation-functors-for</guid>
+    </item>
+    <item>
+      <title>Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems</title>
+      <link>https://paperswithcode.com/paper/whispering-under-the-eaves-protecting-user</link>
+      <description><![CDATA[To address this limitation and protect live users' speech against ASR systems, we propose a novel framework, AudioShield.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/whispering-under-the-eaves-protecting-user</guid>
+    </item>
+    <item>
+      <title>Flow Matching on Lie Groups</title>
+      <link>https://paperswithcode.com/paper/flow-matching-on-lie-groups</link>
+      <description><![CDATA[We take an alternative point of view: we generalise to FM on Lie groups by instead substituting exponential curves for line segments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/flow-matching-on-lie-groups</guid>
+    </item>
+    <item>
+      <title>CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification</title>
+      <link>https://paperswithcode.com/paper/cellvta-enhancing-vision-foundation-models</link>
+      <description><![CDATA[To address this problem, we propose CellVTA (Cell Vision Transformer with Adapter), a novel method that improves the performance of vision foundation models for cell instance segmentation by incorporating a CNN-based adapter module.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/cellvta-enhancing-vision-foundation-models</guid>
     </item>
     <item>
       <title>FSSUWNet: Mitigating the Fragility of Pre-trained Models with Feature Enhancement for Few-Shot Semantic Segmentation in Underwater Images</title>
@@ -27,10 +57,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/training-frozen-feature-pyramid-dinov2-for</guid>
     </item>
     <item>
-      <title>CellVTA: Enhancing Vision Foundation Models for Accurate Cell Segmentation and Classification</title>
-      <link>https://paperswithcode.com/paper/cellvta-enhancing-vision-foundation-models</link>
-      <description><![CDATA[To address this problem, we propose CellVTA (Cell Vision Transformer with Adapter), a novel method that improves the performance of vision foundation models for cell instance segmentation by incorporating a CNN-based adapter module.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/cellvta-enhancing-vision-foundation-models</guid>
+      <title>Votranh V8: A Living AI Beyond Code</title>
+      <link>https://paperswithcode.com/paper/votranh-v8-a-living-ai-beyond-code</link>
+      <description><![CDATA[Votranh V8 is a living AI built in 18 days, blending Mixtral 8x22B, DeepSpeed, and a 64-qubit quantum entropy engine.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/votranh-v8-a-living-ai-beyond-code</guid>
     </item>
     <item>
       <title>GLiNER-biomed: A Suite of Efficient Models for Open Biomedical Named Entity Recognition</title>
@@ -39,166 +69,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/gliner-biomed-a-suite-of-efficient-models-for</guid>
     </item>
     <item>
-      <title>Votranh V8: A Living AI Beyond Code</title>
-      <link>https://paperswithcode.com/paper/votranh-v8-a-living-ai-beyond-code</link>
-      <description><![CDATA[Votranh V8 is a living AI built in 18 days, blending Mixtral 8x22B, DeepSpeed, and a 64-qubit quantum entropy engine.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/votranh-v8-a-living-ai-beyond-code</guid>
-    </item>
-    <item>
-      <title>Quantum Random Lunch Generator (QRLG)</title>
-      <link>https://paperswithcode.com/paper/quantum-random-lunch-generator-qrlg</link>
-      <description><![CDATA[Lunch is important and choosing where to have lunch is difficult.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-random-lunch-generator-qrlg</guid>
-    </item>
-    <item>
-      <title>An extrapolated and provably convergent algorithm for nonlinear matrix decomposition with the ReLU function</title>
-      <link>https://paperswithcode.com/paper/an-extrapolated-and-provably-convergent</link>
-      <description><![CDATA[Nonlinear matrix decomposition (NMD) with the ReLU function, denoted ReLU-NMD, is the following problem: given a sparse, nonnegative matrix $X$ and a factorization rank $r$, identify a rank-$r$ matrix $\Theta$ such that $X\approx \max(0,\Theta)$.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-extrapolated-and-provably-convergent</guid>
-    </item>
-    <item>
-      <title>On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices</title>
-      <link>https://paperswithcode.com/paper/on-device-sora-enabling-training-free</link>
-      <description><![CDATA[These results show that On-device Sora enables efficient and high-quality video generation on resource-constrained mobile devices.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-device-sora-enabling-training-free</guid>
-    </item>
-    <item>
-      <title>SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency</title>
-      <link>https://paperswithcode.com/paper/salt-a-flexible-semi-automatic-labeling-tool</link>
-      <description><![CDATA[We propose a flexible Semi-Automatic Labeling Tool (SALT) for general LiDAR point clouds with cross-scene adaptability and 4D consistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/salt-a-flexible-semi-automatic-labeling-tool</guid>
-    </item>
-    <item>
-      <title>Easi3R: Estimating Disentangled Motion from DUSt3R Without Training</title>
-      <link>https://paperswithcode.com/paper/easi3r-estimating-disentangled-motion-from</link>
-      <description><![CDATA[Recent advances in DUSt3R have enabled robust estimation of dense point clouds and camera parameters of static scenes, leveraging Transformer network architectures and direct supervision on large-scale 3D datasets.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/easi3r-estimating-disentangled-motion-from</guid>
-    </item>
-    <item>
-      <title>InstructRestore: Region-Customized Image Restoration with Human Instructions</title>
-      <link>https://paperswithcode.com/paper/instructrestore-region-customized-image</link>
-      <description><![CDATA[To achieve this, we first develop a data generation engine to produce training triplets, each consisting of a high-quality image, the target region description, and the corresponding region mask.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/instructrestore-region-customized-image</guid>
-    </item>
-    <item>
-      <title>Intrinsically-Motivated Humans and Agents in Open-World Exploration</title>
-      <link>https://paperswithcode.com/paper/intrinsically-motivated-humans-and-agents-in</link>
-      <description><![CDATA[What drives exploration?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/intrinsically-motivated-humans-and-agents-in</guid>
-    </item>
-    <item>
-      <title>FineCausal: A Causal-Based Framework for Interpretable Fine-Grained Action Quality Assessment</title>
-      <link>https://paperswithcode.com/paper/finecausal-a-causal-based-framework-for</link>
-      <description><![CDATA[Action quality assessment (AQA) is critical for evaluating athletic performance, informing training strategies, and ensuring safety in competitive sports.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/finecausal-a-causal-based-framework-for</guid>
-    </item>
-    <item>
-      <title>Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1</title>
-      <link>https://paperswithcode.com/paper/exploring-the-effect-of-reinforcement</link>
-      <description><![CDATA[Multimodal Large Language Models (MLLMs) inherit this reasoning potential but remain underexplored in tasks requiring both perception and logical reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-the-effect-of-reinforcement</guid>
-    </item>
-    <item>
-      <title>Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks</title>
-      <link>https://paperswithcode.com/paper/force-free-molecular-dynamics-through</link>
-      <description><![CDATA[Molecular dynamics (MD) simulations play a crucial role in scientific research.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/force-free-molecular-dynamics-through</guid>
-    </item>
-    <item>
-      <title>The more the merrier: logical and multistage processors in credit scoring</title>
-      <link>https://paperswithcode.com/paper/the-more-the-merrier-logical-and-multistage</link>
-      <description><![CDATA[On the one hand, it addresses the existent gap concerning the application of established methods in the literature to the case of multiple sensitive variables through the use of a new technique called logical processors (LP).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/the-more-the-merrier-logical-and-multistage</guid>
-    </item>
-    <item>
-      <title>Ride-Sourcing Vehicle Rebalancing with Service Accessibility Guarantees via Constrained Mean-Field Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/ride-sourcing-vehicle-rebalancing-with</link>
-      <description><![CDATA[The rapid expansion of ride-sourcing services such as Uber, Lyft, and Didi Chuxing has fundamentally reshaped urban transportation by offering flexible, on-demand mobility via mobile applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ride-sourcing-vehicle-rebalancing-with</guid>
-    </item>
-    <item>
-      <title>Foundation Models For Seismic Data Processing: An Extensive Review</title>
-      <link>https://paperswithcode.com/paper/foundation-models-for-seismic-data-processing</link>
-      <description><![CDATA[Seismic processing plays a crucial role in transforming raw data into high-quality subsurface images, pivotal for various geoscience applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/foundation-models-for-seismic-data-processing</guid>
-    </item>
-    <item>
-      <title>Lorentzian Graph Isomorphic Network</title>
-      <link>https://paperswithcode.com/paper/lorentzian-graph-isomorphic-network</link>
-      <description><![CDATA[We introduce the Lorentzian Graph Isomorphic Network (LGIN), a novel graph neural network (GNN) designed to operate in hyperbolic spaces, leveraging the Lorentzian model to enhance graph representation learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lorentzian-graph-isomorphic-network</guid>
-    </item>
-    <item>
-      <title>GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models</title>
-      <link>https://paperswithcode.com/paper/genswarm-scalable-multi-robot-code-policy</link>
-      <description><![CDATA[The development of control policies for multi-robot systems traditionally follows a complex and labor-intensive process, often lacking the flexibility to adapt to dynamic tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/genswarm-scalable-multi-robot-code-policy</guid>
-    </item>
-    <item>
-      <title>MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation</title>
-      <link>https://paperswithcode.com/paper/mgd-sam2-multi-view-guided-detail-enhanced</link>
-      <description><![CDATA[Despite their strong generalization capabilities, SAMs encounter challenges in fine-grained detail segmentation for high-resolution class-independent segmentation (HRCS), due to the limitations in the direct processing of high-resolution inputs and low-resolution mask predictions, and the reliance on accurate manual prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mgd-sam2-multi-view-guided-detail-enhanced</guid>
-    </item>
-    <item>
-      <title>Learned Image Compression and Restoration for Digital Pathology</title>
-      <link>https://paperswithcode.com/paper/learned-image-compression-and-restoration-for</link>
-      <description><![CDATA[Our framework employs a lifting-scheme transform in the analysis stage to decompose images into low- and high-frequency components, enabling more structured latent representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learned-image-compression-and-restoration-for</guid>
-    </item>
-    <item>
-      <title>Short-video Propagation Influence Rating: A New Real-world Dataset and A New Large Graph Model</title>
-      <link>https://paperswithcode.com/paper/short-video-propagation-influence-rating-a</link>
-      <description><![CDATA[First, we propose a new Cross-platform Short-Video (XS-Video) dataset, which aims to provide a large-scale and real-world short-video propagation network across various platforms to facilitate the research on short-video propagation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/short-video-propagation-influence-rating-a</guid>
-    </item>
-    <item>
-      <title>Exploring Temporal Dynamics in Event-based Eye Tracker</title>
-      <link>https://paperswithcode.com/paper/exploring-temporal-dynamics-in-event-based</link>
-      <description><![CDATA[Eye-tracking is a vital technology for human-computer interaction, especially in wearable devices such as AR, VR, and XR.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-temporal-dynamics-in-event-based</guid>
-    </item>
-    <item>
-      <title>AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models</title>
-      <link>https://paperswithcode.com/paper/ai-assisted-colonoscopy-polyp-detection-and</link>
-      <description><![CDATA[A concept that is particularly advantageous in the medical imaging domain, where large annotated datasets for traditional training are scarce.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ai-assisted-colonoscopy-polyp-detection-and</guid>
-    </item>
-    <item>
-      <title>Detecting Localized Density Anomalies in Multivariate Data via Coin-Flip Statistics</title>
-      <link>https://paperswithcode.com/paper/detecting-localized-density-anomalies-in</link>
-      <description><![CDATA[Detecting localized density differences in multivariate data is a crucial task in computational science.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-localized-density-anomalies-in</guid>
-    </item>
-    <item>
-      <title>PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization</title>
-      <link>https://paperswithcode.com/paper/pixelcam-pixel-class-activation-mapping-for</link>
-      <description><![CDATA[They also face the well-known issue of asynchronous convergence between classification and localization tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelcam-pixel-class-activation-mapping-for</guid>
-    </item>
-    <item>
-      <title>SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection</title>
-      <link>https://paperswithcode.com/paper/su-yolo-spiking-neural-network-for-efficient</link>
-      <description><![CDATA[Underwater object detection is critical for oceanic research and industrial safety inspections.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/su-yolo-spiking-neural-network-for-efficient</guid>
-    </item>
-    <item>
-      <title>From Colors to Classes: Emergence of Concepts in Vision Transformers</title>
-      <link>https://paperswithcode.com/paper/from-colors-to-classes-emergence-of-concepts</link>
-      <description><![CDATA[As the complexity of encoded concepts increases, the number of concepts represented in each layer also rises, reflecting a more diverse and specific set of features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/from-colors-to-classes-emergence-of-concepts</guid>
-    </item>
-    <item>
-      <title>Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge</title>
-      <link>https://paperswithcode.com/paper/point-tracking-in-surgery-the-2024-surgical</link>
-      <description><![CDATA[Understanding tissue motion in surgery is crucial to enable applications in downstream tasks such as segmentation, 3D reconstruction, virtual tissue landmarking, autonomous probe-based scanning, and subtask autonomy.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/point-tracking-in-surgery-the-2024-surgical</guid>
-    </item>
-    <item>
-      <title>On the Reproducibility of Learned Sparse Retrieval Adaptations for Long Documents</title>
-      <link>https://paperswithcode.com/paper/on-the-reproducibility-of-learned-sparse</link>
-      <description><![CDATA[Document retrieval is one of the most challenging tasks in Information Retrieval.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-reproducibility-of-learned-sparse</guid>
+      <title>AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization</title>
+      <link>https://paperswithcode.com/paper/adamms-model-merging-for-heterogeneous</link>
+      <description><![CDATA[Specifically, we first design mapping function between models to apply model merging on MLLMs with different architecture.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/adamms-model-merging-for-heterogeneous</guid>
     </item>
     <item>
       <title>Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds</title>
@@ -207,46 +81,190 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/introducing-the-short-time-fourier-kolmogorov</guid>
     </item>
     <item>
-      <title>Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving</title>
-      <link>https://paperswithcode.com/paper/rethinking-key-value-cache-compression</link>
-      <description><![CDATA[It primarily decreases the memory consumption of \texttt{KV} \texttt{cache} to reduce the computation cost.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rethinking-key-value-cache-compression</guid>
+      <title>Detecting Localized Density Anomalies in Multivariate Data via Coin-Flip Statistics</title>
+      <link>https://paperswithcode.com/paper/detecting-localized-density-anomalies-in</link>
+      <description><![CDATA[Detecting localized density differences in multivariate data is a crucial task in computational science.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-localized-density-anomalies-in</guid>
     </item>
     <item>
-      <title>Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models</title>
-      <link>https://paperswithcode.com/paper/harnessing-the-reasoning-economy-a-survey-of</link>
-      <description><![CDATA[Recent advancements in Large Language Models (LLMs) have significantly enhanced their ability to perform complex reasoning tasks, transitioning from fast and intuitive thinking (System 1) to slow and deep reasoning (System 2).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/harnessing-the-reasoning-economy-a-survey-of</guid>
+      <title>From Colors to Classes: Emergence of Concepts in Vision Transformers</title>
+      <link>https://paperswithcode.com/paper/from-colors-to-classes-emergence-of-concepts</link>
+      <description><![CDATA[As the complexity of encoded concepts increases, the number of concepts represented in each layer also rises, reflecting a more diverse and specific set of features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/from-colors-to-classes-emergence-of-concepts</guid>
     </item>
     <item>
-      <title>Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality</title>
-      <link>https://paperswithcode.com/paper/evaluating-and-designing-sparse-autoencoders</link>
-      <description><![CDATA[Correspondingly, we introduce Approximate Feature Activation (AFA), which approximates the magnitude of the ground-truth sparse feature vector, and propose a new evaluation metric derived from AFA to assess the alignment between inputs and activations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-and-designing-sparse-autoencoders</guid>
+      <title>SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency</title>
+      <link>https://paperswithcode.com/paper/salt-a-flexible-semi-automatic-labeling-tool</link>
+      <description><![CDATA[We propose a flexible Semi-Automatic Labeling Tool (SALT) for general LiDAR point clouds with cross-scene adaptability and 4D consistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/salt-a-flexible-semi-automatic-labeling-tool</guid>
     </item>
     <item>
-      <title>UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving</title>
-      <link>https://paperswithcode.com/paper/uniocc-a-unified-benchmark-for-occupancy</link>
-      <description><![CDATA[We introduce UniOcc, a comprehensive, unified benchmark for occupancy forecasting (i. e., predicting future occupancies based on historical information) and current-frame occupancy prediction from camera images.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/uniocc-a-unified-benchmark-for-occupancy</guid>
+      <title>Foundation Models For Seismic Data Processing: An Extensive Review</title>
+      <link>https://paperswithcode.com/paper/foundation-models-for-seismic-data-processing</link>
+      <description><![CDATA[Seismic processing plays a crucial role in transforming raw data into high-quality subsurface images, pivotal for various geoscience applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/foundation-models-for-seismic-data-processing</guid>
     </item>
     <item>
-      <title>Shape Expressions with Inheritance</title>
-      <link>https://paperswithcode.com/paper/shape-expressions-with-inheritance</link>
-      <description><![CDATA[The semantics is an extension of the semantics of ShEx 2. 1.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/shape-expressions-with-inheritance</guid>
+      <title>On the Reproducibility of Learned Sparse Retrieval Adaptations for Long Documents</title>
+      <link>https://paperswithcode.com/paper/on-the-reproducibility-of-learned-sparse</link>
+      <description><![CDATA[Document retrieval is one of the most challenging tasks in Information Retrieval.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-the-reproducibility-of-learned-sparse</guid>
     </item>
     <item>
-      <title>KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language</title>
-      <link>https://paperswithcode.com/paper/koffvqa-an-objectively-evaluated-free-form</link>
-      <description><![CDATA[In addition to evaluating a large number of existing VLMs on our benchmark, we also experimentally verify that our method of using pre-existing grading criteria for evaluation is much more reliable than existing methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/koffvqa-an-objectively-evaluated-free-form</guid>
+      <title>Combining Query Performance Predictors: A Reproducibility Study</title>
+      <link>https://paperswithcode.com/paper/combining-query-performance-predictors-a</link>
+      <description><![CDATA[As early as 2009, Hauff et al. [28] explored whether different QPP methods may be combined to improve prediction quality.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/combining-query-performance-predictors-a</guid>
     </item>
     <item>
-      <title>MKA: Leveraging Cross-Lingual Consensus for Model Abstention</title>
-      <link>https://paperswithcode.com/paper/mka-leveraging-cross-lingual-consensus-for</link>
-      <description><![CDATA[We develop a multilingual pipeline to calibrate the model's confidence and let it abstain when uncertain.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mka-leveraging-cross-lingual-consensus-for</guid>
+      <title>Short-video Propagation Influence Rating: A New Real-world Dataset and A New Large Graph Model</title>
+      <link>https://paperswithcode.com/paper/short-video-propagation-influence-rating-a</link>
+      <description><![CDATA[First, we propose a new Cross-platform Short-Video (XS-Video) dataset, which aims to provide a large-scale and real-world short-video propagation network across various platforms to facilitate the research on short-video propagation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/short-video-propagation-influence-rating-a</guid>
+    </item>
+    <item>
+      <title>ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos</title>
+      <link>https://paperswithcode.com/paper/zeromimic-distilling-robotic-manipulation</link>
+      <description><![CDATA[Many recent advances in robotic manipulation have come through imitation learning, yet these rely largely on mimicking a particularly hard-to-acquire form of demonstrations: those collected on the same robot in the same room with the same objects as the trained policy must handle at test time.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zeromimic-distilling-robotic-manipulation</guid>
+    </item>
+    <item>
+      <title>Exploring Temporal Dynamics in Event-based Eye Tracker</title>
+      <link>https://paperswithcode.com/paper/exploring-temporal-dynamics-in-event-based</link>
+      <description><![CDATA[Eye-tracking is a vital technology for human-computer interaction, especially in wearable devices such as AR, VR, and XR.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/exploring-temporal-dynamics-in-event-based</guid>
+    </item>
+    <item>
+      <title>Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach</title>
+      <link>https://paperswithcode.com/paper/enhancing-image-resolution-of-solar</link>
+      <description><![CDATA[By training a Latent Diffusion Model (LDM) with residuals on downscaled HMI data and fine-tuning it with paired MDI/HMI data, we can enhance the resolution of MDI observations from 2"/pixel to 0. 5"/pixel.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhancing-image-resolution-of-solar</guid>
+    </item>
+    <item>
+      <title>Solving the Best Subset Selection Problem via Suboptimal Algorithms</title>
+      <link>https://paperswithcode.com/paper/solving-the-best-subset-selection-problem-via</link>
+      <description><![CDATA[Best subset selection in linear regression is well known to be nonconvex and computationally challenging to solve, as the number of possible subsets grows rapidly with increasing dimensionality of the problem.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/solving-the-best-subset-selection-problem-via</guid>
+    </item>
+    <item>
+      <title>Tree-Guided $L_1$-Convex Clustering</title>
+      <link>https://paperswithcode.com/paper/tree-guided-l-1-convex-clustering</link>
+      <description><![CDATA[Convex clustering is a modern clustering framework that guarantees globally optimal solutions and performs comparably to other advanced clustering methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/tree-guided-l-1-convex-clustering</guid>
+    </item>
+    <item>
+      <title>Controlled Latent Diffusion Models for 3D Porous Media Reconstruction</title>
+      <link>https://paperswithcode.com/paper/controlled-latent-diffusion-models-for-3d</link>
+      <description><![CDATA[Three-dimensional digital reconstruction of porous media presents a fundamental challenge in geoscience, requiring simultaneous resolution of fine-scale pore structures while capturing representative elementary volumes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/controlled-latent-diffusion-models-for-3d</guid>
+    </item>
+    <item>
+      <title>A Low-complexity Structured Neural Network to Realize States of Dynamical Systems</title>
+      <link>https://paperswithcode.com/paper/a-low-complexity-structured-neural-network-to</link>
+      <description><![CDATA[Thus, we utilize the StNN based on the Hankel operator to solve dynamical systems as an alternative to existing data-driven techniques.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-low-complexity-structured-neural-network-to</guid>
+    </item>
+    <item>
+      <title>The more the merrier: logical and multistage processors in credit scoring</title>
+      <link>https://paperswithcode.com/paper/the-more-the-merrier-logical-and-multistage</link>
+      <description><![CDATA[On the one hand, it addresses the existent gap concerning the application of established methods in the literature to the case of multiple sensitive variables through the use of a new technique called logical processors (LP).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-more-the-merrier-logical-and-multistage</guid>
+    </item>
+    <item>
+      <title>Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge</title>
+      <link>https://paperswithcode.com/paper/point-tracking-in-surgery-the-2024-surgical</link>
+      <description><![CDATA[Understanding tissue motion in surgery is crucial to enable applications in downstream tasks such as segmentation, 3D reconstruction, virtual tissue landmarking, autonomous probe-based scanning, and subtask autonomy.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/point-tracking-in-surgery-the-2024-surgical</guid>
+    </item>
+    <item>
+      <title>PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization</title>
+      <link>https://paperswithcode.com/paper/pixelcam-pixel-class-activation-mapping-for</link>
+      <description><![CDATA[They also face the well-known issue of asynchronous convergence between classification and localization tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelcam-pixel-class-activation-mapping-for</guid>
+    </item>
+    <item>
+      <title>Scalable Geometric Learning with Correlation-Based Functional Brain Networks</title>
+      <link>https://paperswithcode.com/paper/scalable-geometric-learning-with-correlation</link>
+      <description><![CDATA[The correlation matrix is a central representation of functional brain networks in neuroimaging.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/scalable-geometric-learning-with-correlation</guid>
+    </item>
+    <item>
+      <title>GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs</title>
+      <link>https://paperswithcode.com/paper/gnn-based-candidate-node-predictor-for</link>
+      <description><![CDATA[In an age where information spreads rapidly across social media, effectively identifying influential nodes in dynamic networks is critical.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gnn-based-candidate-node-predictor-for</guid>
+    </item>
+    <item>
+      <title>AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models</title>
+      <link>https://paperswithcode.com/paper/ai-assisted-colonoscopy-polyp-detection-and</link>
+      <description><![CDATA[A concept that is particularly advantageous in the medical imaging domain, where large annotated datasets for traditional training are scarce.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ai-assisted-colonoscopy-polyp-detection-and</guid>
+    </item>
+    <item>
+      <title>SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection</title>
+      <link>https://paperswithcode.com/paper/su-yolo-spiking-neural-network-for-efficient</link>
+      <description><![CDATA[Underwater object detection is critical for oceanic research and industrial safety inspections.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/su-yolo-spiking-neural-network-for-efficient</guid>
+    </item>
+    <item>
+      <title>THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models</title>
+      <link>https://paperswithcode.com/paper/themis-towards-practical-intellectual</link>
+      <description><![CDATA[On-device deep learning (DL) has rapidly gained adoption in mobile apps, offering the benefits of offline model inference and user privacy preservation over cloud-based approaches.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/themis-towards-practical-intellectual</guid>
+    </item>
+    <item>
+      <title>Intrinsically-Motivated Humans and Agents in Open-World Exploration</title>
+      <link>https://paperswithcode.com/paper/intrinsically-motivated-humans-and-agents-in</link>
+      <description><![CDATA[What drives exploration?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/intrinsically-motivated-humans-and-agents-in</guid>
+    </item>
+    <item>
+      <title>Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space</title>
+      <link>https://paperswithcode.com/paper/effective-cloud-removal-for-remote-sensing</link>
+      <description><![CDATA[To overcome this drawback, we develop a new CR model EMRDM based on mean-reverting diffusion models (MRDMs) to establish a direct diffusion process between cloudy and cloudless images.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/effective-cloud-removal-for-remote-sensing</guid>
+    </item>
+    <item>
+      <title>InstructRestore: Region-Customized Image Restoration with Human Instructions</title>
+      <link>https://paperswithcode.com/paper/instructrestore-region-customized-image</link>
+      <description><![CDATA[To achieve this, we first develop a data generation engine to produce training triplets, each consisting of a high-quality image, the target region description, and the corresponding region mask.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/instructrestore-region-customized-image</guid>
+    </item>
+    <item>
+      <title>FineCausal: A Causal-Based Framework for Interpretable Fine-Grained Action Quality Assessment</title>
+      <link>https://paperswithcode.com/paper/finecausal-a-causal-based-framework-for</link>
+      <description><![CDATA[Action quality assessment (AQA) is critical for evaluating athletic performance, informing training strategies, and ensuring safety in competitive sports.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/finecausal-a-causal-based-framework-for</guid>
+    </item>
+    <item>
+      <title>Lorentzian Graph Isomorphic Network</title>
+      <link>https://paperswithcode.com/paper/lorentzian-graph-isomorphic-network</link>
+      <description><![CDATA[We introduce the Lorentzian Graph Isomorphic Network (LGIN), a novel graph neural network (GNN) designed to operate in hyperbolic spaces, leveraging the Lorentzian model to enhance graph representation learning.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lorentzian-graph-isomorphic-network</guid>
+    </item>
+    <item>
+      <title>On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices</title>
+      <link>https://paperswithcode.com/paper/on-device-sora-enabling-training-free</link>
+      <description><![CDATA[These results show that On-device Sora enables efficient and high-quality video generation on resource-constrained mobile devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/on-device-sora-enabling-training-free</guid>
+    </item>
+    <item>
+      <title>Easi3R: Estimating Disentangled Motion from DUSt3R Without Training</title>
+      <link>https://paperswithcode.com/paper/easi3r-estimating-disentangled-motion-from</link>
+      <description><![CDATA[Recent advances in DUSt3R have enabled robust estimation of dense point clouds and camera parameters of static scenes, leveraging Transformer network architectures and direct supervision on large-scale 3D datasets.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/easi3r-estimating-disentangled-motion-from</guid>
+    </item>
+    <item>
+      <title>MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation</title>
+      <link>https://paperswithcode.com/paper/mgd-sam2-multi-view-guided-detail-enhanced</link>
+      <description><![CDATA[Despite their strong generalization capabilities, SAMs encounter challenges in fine-grained detail segmentation for high-resolution class-independent segmentation (HRCS), due to the limitations in the direct processing of high-resolution inputs and low-resolution mask predictions, and the reliance on accurate manual prompts.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mgd-sam2-multi-view-guided-detail-enhanced</guid>
+    </item>
+    <item>
+      <title>MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing</title>
+      <link>https://paperswithcode.com/paper/mb-ores-a-multi-branch-object-reasoner-for</link>
+      <description><![CDATA[We propose a unified framework that integrates object detection (OD) and visual grounding (VG) for remote sensing (RS) imagery.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mb-ores-a-multi-branch-object-reasoner-for</guid>
     </item>
     <item>
       <title>AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World</title>
@@ -255,16 +273,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/autoeval-autonomous-evaluation-of-generalist</guid>
     </item>
     <item>
-      <title>Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement</title>
-      <link>https://paperswithcode.com/paper/better-wit-than-wealth-dynamic-parametric</link>
-      <description><![CDATA[Retrieval-augmented generation (RAG) enhances large language models (LLMs) by retrieving relevant documents from external sources and incorporating them into the context.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/better-wit-than-wealth-dynamic-parametric</guid>
+      <title>Beyond a Single Mode: GAN Ensembles for Diverse Medical Data Generation</title>
+      <link>https://paperswithcode.com/paper/beyond-a-single-mode-gan-ensembles-for</link>
+      <description><![CDATA[The advancement of generative AI, particularly in medical imaging, confronts the trilemma of ensuring high fidelity, diversity, and efficiency in synthetic data generation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/beyond-a-single-mode-gan-ensembles-for</guid>
     </item>
     <item>
-      <title>Evaluating machine learning models for predicting pesticides toxicity to honey bees</title>
-      <link>https://paperswithcode.com/paper/evaluating-machine-learning-models-for-1</link>
-      <description><![CDATA[Small molecules play a critical role in the biomedical, environmental, and agrochemical domains, each with distinct physicochemical requirements and success criteria.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/evaluating-machine-learning-models-for-1</guid>
+      <title>Ride-Sourcing Vehicle Rebalancing with Service Accessibility Guarantees via Constrained Mean-Field Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/ride-sourcing-vehicle-rebalancing-with</link>
+      <description><![CDATA[The rapid expansion of ride-sourcing services such as Uber, Lyft, and Didi Chuxing has fundamentally reshaped urban transportation by offering flexible, on-demand mobility via mobile applications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ride-sourcing-vehicle-rebalancing-with</guid>
+    </item>
+    <item>
+      <title>Force-Free Molecular Dynamics Through Autoregressive Equivariant Networks</title>
+      <link>https://paperswithcode.com/paper/force-free-molecular-dynamics-through</link>
+      <description><![CDATA[Molecular dynamics (MD) simulations play a crucial role in scientific research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/force-free-molecular-dynamics-through</guid>
+    </item>
+    <item>
+      <title>An extrapolated and provably convergent algorithm for nonlinear matrix decomposition with the ReLU function</title>
+      <link>https://paperswithcode.com/paper/an-extrapolated-and-provably-convergent</link>
+      <description><![CDATA[Nonlinear matrix decomposition (NMD) with the ReLU function, denoted ReLU-NMD, is the following problem: given a sparse, nonnegative matrix $X$ and a factorization rank $r$, identify a rank-$r$ matrix $\Theta$ such that $X\approx \max(0,\Theta)$.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-extrapolated-and-provably-convergent</guid>
     </item>
     <item>
       <title>Expanding-and-Shrinking Binary Neural Networks</title>
@@ -273,40 +303,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/expanding-and-shrinking-binary-neural</guid>
     </item>
     <item>
-      <title>Large Language Models Are Better Logical Fallacy Reasoners with Counterargument, Explanation, and Goal-Aware Prompt Formulation</title>
-      <link>https://paperswithcode.com/paper/large-language-models-are-better-logical</link>
-      <description><![CDATA[The advancement of Large Language Models (LLMs) has greatly improved our ability to process complex language.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/large-language-models-are-better-logical</guid>
-    </item>
-    <item>
-      <title>KernelDNA: Dynamic Kernel Sharing via Decoupled Naive Adapters</title>
-      <link>https://paperswithcode.com/paper/kerneldna-dynamic-kernel-sharing-via</link>
-      <description><![CDATA[Dynamic convolution enhances model capacity by adaptively combining multiple kernels, yet faces critical trade-offs: prior works either (1) incur significant parameter overhead by scaling kernel numbers linearly, (2) compromise inference speed through complex kernel interactions, or (3) struggle to jointly optimize dynamic attention and static kernels.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kerneldna-dynamic-kernel-sharing-via</guid>
-    </item>
-    <item>
-      <title>ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025</title>
-      <link>https://paperswithcode.com/paper/referdino-plus-2nd-solution-for-4th-pvuw</link>
-      <description><![CDATA[This task has attracted increasing attention in the field of computer vision due to its promising applications in video editing and human-agent interaction.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/referdino-plus-2nd-solution-for-4th-pvuw</guid>
-    </item>
-    <item>
-      <title>Efficient Dynamic Attention 3D Convolution for Hyperspectral Image Classification</title>
-      <link>https://paperswithcode.com/paper/efficient-dynamic-attention-3d-convolution</link>
-      <description><![CDATA[To enhance feature extraction efficiency while skipping redundant information, this paper proposes a dynamic attention convolution design based on an improved 3D-DenseNet model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-dynamic-attention-3d-convolution</guid>
-    </item>
-    <item>
-      <title>Handling Delay in Real-Time Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/handling-delay-in-real-time-reinforcement</link>
-      <description><![CDATA[Reducing the number of layers can decrease this delay, but at the cost of the network's expressivity.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/handling-delay-in-real-time-reinforcement</guid>
-    </item>
-    <item>
-      <title>Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model</title>
-      <link>https://paperswithcode.com/paper/boosting-omnidirectional-stereo-matching-with</link>
-      <description><![CDATA[Omnidirectional depth perception is essential for mobile robotics applications that require scene understanding across a full 360{\deg} field of view.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/boosting-omnidirectional-stereo-matching-with</guid>
+      <title>Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/rec-r1-bridging-generative-large-language</link>
+      <description><![CDATA[We propose Rec-R1, a general reinforcement learning framework that bridges large language models (LLMs) with recommendation systems through closed-loop optimization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rec-r1-bridging-generative-large-language</guid>
     </item>
   </channel>
 </rss>
