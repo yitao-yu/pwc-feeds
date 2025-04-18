@@ -7,12 +7,24 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 21:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 09:17:18 +0000</lastBuildDate>
     <item>
       <title>Less-to-More Generalization: Unlocking More Controllability by In-Context Generation</title>
       <link>https://paperswithcode.com/paper/less-to-more-generalization-unlocking-more</link>
       <description><![CDATA[In this study, we propose a highly-consistent data synthesis pipeline to tackle this challenge.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/less-to-more-generalization-unlocking-more</guid>
+    </item>
+    <item>
+      <title>REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers</title>
+      <link>https://paperswithcode.com/paper/repa-e-unlocking-vae-for-end-to-end-tuning</link>
+      <description><![CDATA[We show that while diffusion loss is ineffective, end-to-end training can be unlocked through the representation-alignment (REPA) loss -- allowing both VAE and diffusion model to be jointly tuned during the training process.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/repa-e-unlocking-vae-for-end-to-end-tuning</guid>
+    </item>
+    <item>
+      <title>Liquid: Language Models are Scalable Multi-modal Generators</title>
+      <link>https://paperswithcode.com/paper/liquid-language-models-are-scalable-multi</link>
+      <description><![CDATA[We present Liquid, an auto-regressive generation paradigm that seamlessly integrates visual comprehension and generation by tokenizing images into discrete codes and learning these code embeddings alongside text tokens within a shared feature space for both vision and language.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/liquid-language-models-are-scalable-multi</guid>
     </item>
     <item>
       <title>Kimi-VL Technical Report</title>
@@ -21,58 +33,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/kimi-vl-technical-report</guid>
     </item>
     <item>
-      <title>TorchFX: A modern approach to Audio DSP with PyTorch and GPU acceleration</title>
-      <link>https://paperswithcode.com/paper/torchfx-a-modern-approach-to-audio-dsp-with</link>
-      <description><![CDATA[In response, we introduce TorchFX: a GPU-accelerated Python library for DSP, specifically engineered to facilitate sophisticated audio signal processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/torchfx-a-modern-approach-to-audio-dsp-with</guid>
-    </item>
-    <item>
-      <title>REPA-E: Unlocking VAE for End-to-End Tuning of Latent Diffusion Transformers</title>
-      <link>https://paperswithcode.com/paper/repa-e-unlocking-vae-for-end-to-end-tuning-of</link>
-      <description><![CDATA[We show that while diffusion loss is ineffective, end-to-end training can be unlocked through the representation-alignment (REPA) loss -- allowing both VAE and diffusion model to be jointly tuned during the training process.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/repa-e-unlocking-vae-for-end-to-end-tuning-of</guid>
-    </item>
-    <item>
-      <title>SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models</title>
-      <link>https://paperswithcode.com/paper/svdqunat-absorbing-outliers-by-low-rank</link>
-      <description><![CDATA[To address this, we co-design an inference engine Nunchaku that fuses the kernels of the low-rank branch into those of the low-bit branch to cut off redundant memory access.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/svdqunat-absorbing-outliers-by-low-rank</guid>
-    </item>
-    <item>
-      <title>VGGT: Visual Geometry Grounded Transformer</title>
-      <link>https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</link>
-      <description><![CDATA[We present VGGT, a feed-forward neural network that directly infers all key 3D attributes of a scene, including camera parameters, point maps, depth maps, and 3D point tracks, from one, a few, or hundreds of its views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</guid>
-    </item>
-    <item>
-      <title>PixelFlow: Pixel-Space Generative Models with Flow</title>
-      <link>https://paperswithcode.com/paper/pixelflow-pixel-space-generative-models-with</link>
-      <description><![CDATA[We present PixelFlow, a family of image generation models that operate directly in the raw pixel space, in contrast to the predominant latent-space models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelflow-pixel-space-generative-models-with</guid>
-    </item>
-    <item>
-      <title>DDT: Decoupled Diffusion Transformer</title>
-      <link>https://paperswithcode.com/paper/ddt-decoupled-diffusion-transformer-1</link>
-      <description><![CDATA[For ImageNet $256\times256$, Our DDT-XL/2 achieves a new state-of-the-art performance of {1. 31 FID}~(nearly $4\times$ faster training convergence compared to previous diffusion transformers).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ddt-decoupled-diffusion-transformer-1</guid>
-    </item>
-    <item>
-      <title>Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents</title>
-      <link>https://paperswithcode.com/paper/agent-s2-a-compositional-generalist</link>
-      <description><![CDATA[Computer use agents automate digital tasks by directly interacting with graphical user interfaces (GUIs) on computers and mobile devices, offering significant potential to enhance human productivity by completing an open-ended space of user queries.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/agent-s2-a-compositional-generalist</guid>
-    </item>
-    <item>
-      <title>Zep: A Temporal Knowledge Graph Architecture for Agent Memory</title>
-      <link>https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</link>
-      <description><![CDATA[We introduce Zep, a novel memory layer service for AI agents that outperforms the current state-of-the-art system, MemGPT, in the Deep Memory Retrieval (DMR) benchmark.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</guid>
-    </item>
-    <item>
-      <title>Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems</title>
-      <link>https://paperswithcode.com/paper/advances-and-challenges-in-foundation-agents</link>
-      <description><![CDATA[The advent of large language models (LLMs) has catalyzed a transformative shift in artificial intelligence, paving the way for advanced intelligent agents capable of sophisticated reasoning, robust perception, and versatile action across diverse domains.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/advances-and-challenges-in-foundation-agents</guid>
+      <title>Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion</title>
+      <link>https://paperswithcode.com/paper/advanced-video-inpainting-using-optical-flow</link>
+      <description><![CDATA[Specifically, FloED employs a dual-branch architecture, where a flow branch first restores corrupted flow and a multi-scale flow adapter provides motion guidance to the main inpainting branch.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/advanced-video-inpainting-using-optical-flow</guid>
     </item>
     <item>
       <title>NdLinear Is All You Need for Representation Learning</title>
@@ -81,34 +45,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ndlinear-is-all-you-need-for-representation</guid>
     </item>
     <item>
+      <title>The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search</title>
+      <link>https://paperswithcode.com/paper/the-ai-scientist-v2-workshop-level-automated</link>
+      <description><![CDATA[AI is increasingly playing a pivotal role in transforming how scientific discoveries are made.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/the-ai-scientist-v2-workshop-level-automated</guid>
+    </item>
+    <item>
+      <title>OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation</title>
+      <link>https://paperswithcode.com/paper/octgpt-octree-based-multiscale-autoregressive</link>
+      <description><![CDATA[In this paper, we introduce OctGPT, a novel multiscale autoregressive model for 3D shape generation that dramatically improves the efficiency and performance of prior 3D autoregressive approaches, while rivaling or surpassing state-of-the-art diffusion models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/octgpt-octree-based-multiscale-autoregressive</guid>
+    </item>
+    <item>
+      <title>VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets</title>
+      <link>https://paperswithcode.com/paper/vslam-lab-a-comprehensive-framework-for</link>
+      <description><![CDATA[Visual Simultaneous Localization and Mapping (VSLAM) research faces significant challenges due to fragmented toolchains, complex system configurations, and inconsistent evaluation methodologies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vslam-lab-a-comprehensive-framework-for</guid>
+    </item>
+    <item>
+      <title>Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning</title>
+      <link>https://paperswithcode.com/paper/genius-a-generalizable-and-purely</link>
+      <description><![CDATA[This motivates us to enhance LLM reasoning without the need for external supervision.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/genius-a-generalizable-and-purely</guid>
+    </item>
+    <item>
+      <title>TorchFX: A modern approach to Audio DSP with PyTorch and GPU acceleration</title>
+      <link>https://paperswithcode.com/paper/torchfx-a-modern-approach-to-audio-dsp-with</link>
+      <description><![CDATA[In response, we introduce TorchFX: a GPU-accelerated Python library for DSP, specifically engineered to facilitate sophisticated audio signal processing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/torchfx-a-modern-approach-to-audio-dsp-with</guid>
+    </item>
+    <item>
       <title>IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System</title>
       <link>https://paperswithcode.com/paper/indextts-an-industrial-level-controllable-and</link>
       <description><![CDATA[Recently, large language model (LLM) based text-to-speech (TTS) systems have gradually become the mainstream in the industry due to their high naturalness and powerful zero-shot voice cloning capabilities. Here, we introduce the IndexTTS system, which is mainly based on the XTTS and Tortoise model.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/indextts-an-industrial-level-controllable-and</guid>
     </item>
     <item>
-      <title>Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation</title>
-      <link>https://paperswithcode.com/paper/audio-visual-controlled-video-diffusion-with</link>
-      <description><![CDATA[To this end, we introduce \textbf{ACTalker}, an end-to-end video diffusion framework that supports both multi-signals control and single-signal control for talking head video generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/audio-visual-controlled-video-diffusion-with</guid>
+      <title>Zep: A Temporal Knowledge Graph Architecture for Agent Memory</title>
+      <link>https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</link>
+      <description><![CDATA[We introduce Zep, a novel memory layer service for AI agents that outperforms the current state-of-the-art system, MemGPT, in the Deep Memory Retrieval (DMR) benchmark.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</guid>
     </item>
     <item>
-      <title>Pushing the Limits of Large Language Model Quantization via the Linearity Theorem</title>
-      <link>https://paperswithcode.com/paper/pushing-the-limits-of-large-language-model</link>
-      <description><![CDATA[Quantizing large language models has become a standard way to reduce their memory and computational costs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pushing-the-limits-of-large-language-model</guid>
-    </item>
-    <item>
-      <title>Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion</title>
-      <link>https://paperswithcode.com/paper/advanced-video-inpainting-using-optical-flow</link>
-      <description><![CDATA[Specifically, FloED employs a dual-branch architecture, where a flow branch first restores corrupted flow and a multi-scale flow adapter provides motion guidance to the main inpainting branch.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/advanced-video-inpainting-using-optical-flow</guid>
-    </item>
-    <item>
-      <title>LocAgent: Graph-Guided LLM Agents for Code Localization</title>
-      <link>https://paperswithcode.com/paper/locagent-graph-guided-llm-agents-for-code</link>
-      <description><![CDATA[By parsing codebases into directed heterogeneous graphs, LocAgent creates a lightweight representation that captures code structures (files, classes, functions) and their dependencies (imports, invocations, inheritance), enabling LLM agents to effectively search and locate relevant entities through powerful multi-hop reasoning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/locagent-graph-guided-llm-agents-for-code</guid>
+      <title>PixelFlow: Pixel-Space Generative Models with Flow</title>
+      <link>https://paperswithcode.com/paper/pixelflow-pixel-space-generative-models-with</link>
+      <description><![CDATA[We present PixelFlow, a family of image generation models that operate directly in the raw pixel space, in contrast to the predominant latent-space models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelflow-pixel-space-generative-models-with</guid>
     </item>
     <item>
       <title>LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds</title>
@@ -117,16 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/lhm-large-animatable-human-reconstruction</guid>
     </item>
     <item>
-      <title>Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/search-r1-training-llms-to-reason-and</link>
-      <description><![CDATA[Efficiently acquiring external knowledge and up-to-date information is essential for effective reasoning and text generation in large language models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/search-r1-training-llms-to-reason-and</guid>
+      <title>MonSter: Marry Monodepth to Stereo Unleashes Power</title>
+      <link>https://paperswithcode.com/paper/monster-marry-monodepth-to-stereo-unleashes</link>
+      <description><![CDATA[The refined monodepth is in turn guides stereo effectively at ill-posed regions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/monster-marry-monodepth-to-stereo-unleashes</guid>
     </item>
     <item>
-      <title>ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy</title>
-      <link>https://paperswithcode.com/paper/conrft-a-reinforced-fine-tuning-method-for</link>
-      <description><![CDATA[This work highlights the potential of integrating reinforcement learning to enhance the performance of VLA models for real-world robotic applications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/conrft-a-reinforced-fine-tuning-method-for</guid>
+      <title>3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting</title>
+      <link>https://paperswithcode.com/paper/3dgut-enabling-distorted-cameras-and</link>
+      <description><![CDATA[3D Gaussian Splatting (3DGS) enables efficient reconstruction and high-fidelity real-time rendering of complex scenes on consumer hardware.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3dgut-enabling-distorted-cameras-and</guid>
+    </item>
+    <item>
+      <title>InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity</title>
+      <link>https://paperswithcode.com/paper/infiniteyou-flexible-photo-recrafting-while</link>
+      <description><![CDATA[Achieving flexible and high-fidelity identity-preserved image generation remains formidable, particularly with advanced Diffusion Transformers (DiTs) like FLUX.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/infiniteyou-flexible-photo-recrafting-while</guid>
+    </item>
+    <item>
+      <title>Affordable AI Assistants with Knowledge Graph of Thoughts</title>
+      <link>https://paperswithcode.com/paper/affordable-ai-assistants-with-knowledge-graph</link>
+      <description><![CDATA[Such structured representation of task-relevant knowledge enables low-cost models to solve complex tasks effectively.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/affordable-ai-assistants-with-knowledge-graph</guid>
+    </item>
+    <item>
+      <title>VGGT: Visual Geometry Grounded Transformer</title>
+      <link>https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</link>
+      <description><![CDATA[We present VGGT, a feed-forward neural network that directly infers all key 3D attributes of a scene, including camera parameters, point maps, depth maps, and 3D point tracks, from one, a few, or hundreds of its views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</guid>
     </item>
   </channel>
 </rss>
