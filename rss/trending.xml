@@ -7,12 +7,18 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 21:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 09:15:12 +0000</lastBuildDate>
     <item>
-      <title>Less-to-More Generalization: Unlocking More Controllability by In-Context Generation</title>
-      <link>https://paperswithcode.com/paper/less-to-more-generalization-unlocking-more</link>
-      <description><![CDATA[In this study, we propose a highly-consistent data synthesis pipeline to tackle this challenge.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/less-to-more-generalization-unlocking-more</guid>
+      <title>UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer</title>
+      <link>https://paperswithcode.com/paper/unianimate-dit-human-image-animation-with</link>
+      <description><![CDATA[Furthermore, we adopt a simple concatenation operation to integrate the reference appearance into the model and incorporate the pose information of the reference image for enhanced pose alignment.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unianimate-dit-human-image-animation-with</guid>
+    </item>
+    <item>
+      <title>PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters</title>
+      <link>https://paperswithcode.com/paper/prima-cpp-speeding-up-70b-scale-llm-inference</link>
+      <description><![CDATA[Emergency of DeepSeek R1 and QwQ 32B have broken through performance barriers for running frontier large language models (LLMs) on home devices.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prima-cpp-speeding-up-70b-scale-llm-inference</guid>
     </item>
     <item>
       <title>REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers</title>
@@ -27,22 +33,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/liquid-language-models-are-scalable-multi</guid>
     </item>
     <item>
-      <title>Kimi-VL Technical Report</title>
-      <link>https://paperswithcode.com/paper/kimi-vl-technical-report</link>
-      <description><![CDATA[We present Kimi-VL, an efficient open-source Mixture-of-Experts (MoE) vision-language model (VLM) that offers advanced multimodal reasoning, long-context understanding, and strong agent capabilities - all while activating only 2. 8B parameters in its language decoder (Kimi-VL-A3B).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kimi-vl-technical-report</guid>
-    </item>
-    <item>
       <title>Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion</title>
       <link>https://paperswithcode.com/paper/advanced-video-inpainting-using-optical-flow</link>
       <description><![CDATA[Specifically, FloED employs a dual-branch architecture, where a flow branch first restores corrupted flow and a multi-scale flow adapter provides motion guidance to the main inpainting branch.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/advanced-video-inpainting-using-optical-flow</guid>
     </item>
     <item>
-      <title>NdLinear Is All You Need for Representation Learning</title>
-      <link>https://paperswithcode.com/paper/ndlinear-is-all-you-need-for-representation</link>
-      <description><![CDATA[We propose NdLinear as a drop-in replacement for standard linear layers -- marking an important step toward next-generation neural architectures.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ndlinear-is-all-you-need-for-representation</guid>
+      <title>Bitnet.cpp: Efficient Edge Inference for Ternary LLMs</title>
+      <link>https://paperswithcode.com/paper/bitnet-cpp-efficient-edge-inference-for</link>
+      <description><![CDATA[The advent of 1-bit large language models (LLMs), led by BitNet b1. 58, has spurred interest in ternary LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bitnet-cpp-efficient-edge-inference-for</guid>
     </item>
     <item>
       <title>The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search</title>
@@ -51,28 +51,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-ai-scientist-v2-workshop-level-automated</guid>
     </item>
     <item>
-      <title>OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation</title>
-      <link>https://paperswithcode.com/paper/octgpt-octree-based-multiscale-autoregressive</link>
-      <description><![CDATA[In this paper, we introduce OctGPT, a novel multiscale autoregressive model for 3D shape generation that dramatically improves the efficiency and performance of prior 3D autoregressive approaches, while rivaling or surpassing state-of-the-art diffusion models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/octgpt-octree-based-multiscale-autoregressive</guid>
+      <title>UniK3D: Universal Camera Monocular 3D Estimation</title>
+      <link>https://paperswithcode.com/paper/unik3d-universal-camera-monocular-3d</link>
+      <description><![CDATA[Monocular 3D estimation is crucial for visual perception.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unik3d-universal-camera-monocular-3d</guid>
     </item>
     <item>
-      <title>VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets</title>
-      <link>https://paperswithcode.com/paper/vslam-lab-a-comprehensive-framework-for</link>
-      <description><![CDATA[Visual Simultaneous Localization and Mapping (VSLAM) research faces significant challenges due to fragmented toolchains, complex system configurations, and inconsistent evaluation methodologies.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vslam-lab-a-comprehensive-framework-for</guid>
+      <title>UI-TARS: Pioneering Automated GUI Interaction with Native Agents</title>
+      <link>https://paperswithcode.com/paper/ui-tars-pioneering-automated-gui-interaction</link>
+      <description><![CDATA[This paper introduces UI-TARS, a native GUI agent model that solely perceives the screenshots as input and performs human-like interactions (e. g., keyboard and mouse operations).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ui-tars-pioneering-automated-gui-interaction</guid>
     </item>
     <item>
-      <title>Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning</title>
-      <link>https://paperswithcode.com/paper/genius-a-generalizable-and-purely</link>
-      <description><![CDATA[This motivates us to enhance LLM reasoning without the need for external supervision.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/genius-a-generalizable-and-purely</guid>
+      <title>BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence</title>
+      <link>https://paperswithcode.com/paper/bip3d-bridging-2d-images-and-3d-perception</link>
+      <description><![CDATA[In embodied intelligence systems, a key component is 3D perception algorithm, which enables agents to understand their surrounding environments.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/bip3d-bridging-2d-images-and-3d-perception</guid>
     </item>
     <item>
-      <title>TorchFX: A modern approach to Audio DSP with PyTorch and GPU acceleration</title>
-      <link>https://paperswithcode.com/paper/torchfx-a-modern-approach-to-audio-dsp-with</link>
-      <description><![CDATA[In response, we introduce TorchFX: a GPU-accelerated Python library for DSP, specifically engineered to facilitate sophisticated audio signal processing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/torchfx-a-modern-approach-to-audio-dsp-with</guid>
+      <title>NdLinear Is All You Need for Representation Learning</title>
+      <link>https://paperswithcode.com/paper/ndlinear-is-all-you-need-for-representation</link>
+      <description><![CDATA[We propose NdLinear as a drop-in replacement for standard linear layers -- marking an important step toward next-generation neural architectures.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ndlinear-is-all-you-need-for-representation</guid>
+    </item>
+    <item>
+      <title>Less-to-More Generalization: Unlocking More Controllability by In-Context Generation</title>
+      <link>https://paperswithcode.com/paper/less-to-more-generalization-unlocking-more</link>
+      <description><![CDATA[In this study, we propose a highly-consistent data synthesis pipeline to tackle this challenge.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/less-to-more-generalization-unlocking-more</guid>
+    </item>
+    <item>
+      <title>LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Locomotion</title>
+      <link>https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</link>
+      <description><![CDATA[Imitation Learning (IL) holds great promise for enabling agile locomotion in embodied agents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/locomujoco-a-comprehensive-imitation-learning</guid>
     </item>
     <item>
       <title>IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System</title>
@@ -81,22 +93,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/indextts-an-industrial-level-controllable-and</guid>
     </item>
     <item>
-      <title>Zep: A Temporal Knowledge Graph Architecture for Agent Memory</title>
-      <link>https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</link>
-      <description><![CDATA[We introduce Zep, a novel memory layer service for AI agents that outperforms the current state-of-the-art system, MemGPT, in the Deep Memory Retrieval (DMR) benchmark.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zep-a-temporal-knowledge-graph-architecture</guid>
-    </item>
-    <item>
-      <title>PixelFlow: Pixel-Space Generative Models with Flow</title>
-      <link>https://paperswithcode.com/paper/pixelflow-pixel-space-generative-models-with</link>
-      <description><![CDATA[We present PixelFlow, a family of image generation models that operate directly in the raw pixel space, in contrast to the predominant latent-space models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelflow-pixel-space-generative-models-with</guid>
-    </item>
-    <item>
-      <title>LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds</title>
-      <link>https://paperswithcode.com/paper/lhm-large-animatable-human-reconstruction</link>
-      <description><![CDATA[Animatable 3D human reconstruction from a single image is a challenging problem due to the ambiguity in decoupling geometry, appearance, and deformation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lhm-large-animatable-human-reconstruction</guid>
+      <title>Affordable AI Assistants with Knowledge Graph of Thoughts</title>
+      <link>https://paperswithcode.com/paper/affordable-ai-assistants-with-knowledge-graph</link>
+      <description><![CDATA[Such structured representation of task-relevant knowledge enables low-cost models to solve complex tasks effectively.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/affordable-ai-assistants-with-knowledge-graph</guid>
     </item>
     <item>
       <title>MonSter: Marry Monodepth to Stereo Unleashes Power</title>
@@ -105,28 +105,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/monster-marry-monodepth-to-stereo-unleashes</guid>
     </item>
     <item>
-      <title>3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting</title>
-      <link>https://paperswithcode.com/paper/3dgut-enabling-distorted-cameras-and</link>
-      <description><![CDATA[3D Gaussian Splatting (3DGS) enables efficient reconstruction and high-fidelity real-time rendering of complex scenes on consumer hardware.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3dgut-enabling-distorted-cameras-and</guid>
+      <title>VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets</title>
+      <link>https://paperswithcode.com/paper/vslam-lab-a-comprehensive-framework-for</link>
+      <description><![CDATA[Visual Simultaneous Localization and Mapping (VSLAM) research faces significant challenges due to fragmented toolchains, complex system configurations, and inconsistent evaluation methodologies.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vslam-lab-a-comprehensive-framework-for</guid>
     </item>
     <item>
-      <title>InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity</title>
-      <link>https://paperswithcode.com/paper/infiniteyou-flexible-photo-recrafting-while</link>
-      <description><![CDATA[Achieving flexible and high-fidelity identity-preserved image generation remains formidable, particularly with advanced Diffusion Transformers (DiTs) like FLUX.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/infiniteyou-flexible-photo-recrafting-while</guid>
+      <title>OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation</title>
+      <link>https://paperswithcode.com/paper/octgpt-octree-based-multiscale-autoregressive</link>
+      <description><![CDATA[In this paper, we introduce OctGPT, a novel multiscale autoregressive model for 3D shape generation that dramatically improves the efficiency and performance of prior 3D autoregressive approaches, while rivaling or surpassing state-of-the-art diffusion models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/octgpt-octree-based-multiscale-autoregressive</guid>
     </item>
     <item>
-      <title>Affordable AI Assistants with Knowledge Graph of Thoughts</title>
-      <link>https://paperswithcode.com/paper/affordable-ai-assistants-with-knowledge-graph</link>
-      <description><![CDATA[Such structured representation of task-relevant knowledge enables low-cost models to solve complex tasks effectively.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/affordable-ai-assistants-with-knowledge-graph</guid>
+      <title>DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning</title>
+      <link>https://paperswithcode.com/paper/deepmath-103k-a-large-scale-challenging</link>
+      <description><![CDATA[The capacity for complex mathematical reasoning is a key benchmark for artificial intelligence.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deepmath-103k-a-large-scale-challenging</guid>
     </item>
     <item>
-      <title>VGGT: Visual Geometry Grounded Transformer</title>
-      <link>https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</link>
-      <description><![CDATA[We present VGGT, a feed-forward neural network that directly infers all key 3D attributes of a scene, including camera parameters, point maps, depth maps, and 3D point tracks, from one, a few, or hundreds of its views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</guid>
+      <title>A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce</title>
+      <link>https://paperswithcode.com/paper/a-minimalist-approach-to-llm-reasoning-from</link>
+      <description><![CDATA[In this work, we revisit GRPO from a reinforce-like algorithm perspective and analyze its core components.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-minimalist-approach-to-llm-reasoning-from</guid>
     </item>
   </channel>
 </rss>
