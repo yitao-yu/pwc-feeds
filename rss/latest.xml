@@ -7,24 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 09:18:23 +0000</lastBuildDate>
-    <item>
-      <title>Vision Graph Prompting via Semantic Low-Rank Decomposition</title>
-      <link>https://paperswithcode.com/paper/vision-graph-prompting-via-semantic-low-rank</link>
-      <description><![CDATA[Vision GNN (ViG) demonstrates superior performance by representing images as graph structures, providing a more natural way to capture irregular semantic patterns beyond traditional grid or sequence-based representations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-graph-prompting-via-semantic-low-rank</guid>
-    </item>
+    <lastBuildDate>Thu, 08 May 2025 21:10:15 +0000</lastBuildDate>
     <item>
       <title>GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model</title>
       <link>https://paperswithcode.com/paper/gaprompt-geometry-aware-point-cloud-prompt</link>
       <description><![CDATA[First, we introduce a Point Prompt that serves as an auxiliary input alongside the original point cloud, explicitly guiding the model to capture fine-grained geometric details.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/gaprompt-geometry-aware-point-cloud-prompt</guid>
-    </item>
-    <item>
-      <title>Learning based convex approximation for constrained parametric optimization</title>
-      <link>https://paperswithcode.com/paper/learning-based-convex-approximation-for</link>
-      <description><![CDATA[We propose an input convex neural network (ICNN)-based self-supervised learning framework to solve continuous constrained optimization problems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-based-convex-approximation-for</guid>
     </item>
     <item>
       <title>WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing</title>
@@ -33,10 +21,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/wdmamba-when-wavelet-degradation-prior-meets</guid>
     </item>
     <item>
-      <title>TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement</title>
-      <link>https://paperswithcode.com/paper/ts-diff-two-stage-diffusion-model-for-low</link>
-      <description><![CDATA[During the aligning stage, CFIs are averaged to create a target-specific CFI$^T$, which is fine-tuned using a small amount of real RAW data to adapt to the noise characteristics of specific cameras.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ts-diff-two-stage-diffusion-model-for-low</guid>
+      <title>Learning based convex approximation for constrained parametric optimization</title>
+      <link>https://paperswithcode.com/paper/learning-based-convex-approximation-for</link>
+      <description><![CDATA[We propose an input convex neural network (ICNN)-based self-supervised learning framework to solve continuous constrained optimization problems.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/learning-based-convex-approximation-for</guid>
+    </item>
+    <item>
+      <title>Vision Graph Prompting via Semantic Low-Rank Decomposition</title>
+      <link>https://paperswithcode.com/paper/vision-graph-prompting-via-semantic-low-rank</link>
+      <description><![CDATA[Vision GNN (ViG) demonstrates superior performance by representing images as graph structures, providing a more natural way to capture irregular semantic patterns beyond traditional grid or sequence-based representations.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vision-graph-prompting-via-semantic-low-rank</guid>
     </item>
     <item>
       <title>HDiffTG: A Lightweight Hybrid Diffusion-Transformer-GCN Architecture for 3D Human Pose Estimation</title>
@@ -45,28 +39,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hdifftg-a-lightweight-hybrid-diffusion</guid>
     </item>
     <item>
+      <title>TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement</title>
+      <link>https://paperswithcode.com/paper/ts-diff-two-stage-diffusion-model-for-low</link>
+      <description><![CDATA[During the aligning stage, CFIs are averaged to create a target-specific CFI$^T$, which is fine-tuned using a small amount of real RAW data to adapt to the noise characteristics of specific cameras.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ts-diff-two-stage-diffusion-model-for-low</guid>
+    </item>
+    <item>
+      <title>VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning</title>
+      <link>https://paperswithcode.com/paper/videopath-llava-pathology-diagnostic</link>
+      <description><![CDATA[We present VideoPath-LLaVA, the first large multimodal model (LMM) in computational pathology that integrates three distinct image scenarios, single patch images, automatically keyframe-extracted clips, and manually segmented video pathology images, to mimic the natural diagnostic process of pathologists.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/videopath-llava-pathology-diagnostic</guid>
+    </item>
+    <item>
       <title>Non-stationary Diffusion For Probabilistic Time Series Forecasting</title>
       <link>https://paperswithcode.com/paper/non-stationary-diffusion-for-probabilistic</link>
       <description><![CDATA[A diffusion-based probabilistic forecasting framework, termed Non-stationary Diffusion (NsDiff), is designed based on LSNM that is capable of modeling the changing pattern of uncertainty.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/non-stationary-diffusion-for-probabilistic</guid>
     </item>
     <item>
-      <title>DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once</title>
-      <link>https://paperswithcode.com/paper/dfvo-learning-darkness-free-visible-and</link>
-      <description><![CDATA[Visible and infrared image fusion is one of the most crucial tasks in the field of image fusion, aiming to generate fused images with clear structural information and high-quality texture features for high-level vision tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/dfvo-learning-darkness-free-visible-and</guid>
-    </item>
-    <item>
-      <title>Active Sampling for MRI-based Sequential Decision Making</title>
-      <link>https://paperswithcode.com/paper/active-sampling-for-mri-based-sequential</link>
-      <description><![CDATA[Our approach paves the way for the future of MRI as a comprehensive and affordable PoC device.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/active-sampling-for-mri-based-sequential</guid>
-    </item>
-    <item>
-      <title>Consensus-Aware AV Behavior: Trade-offs Between Safety, Interaction, and Performance in Mixed Urban Traffic</title>
-      <link>https://paperswithcode.com/paper/consensus-aware-av-behavior-trade-offs</link>
-      <description><![CDATA[Transportation systems have long been shaped by complexity and heterogeneity, driven by the interdependency of agent actions and traffic outcomes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/consensus-aware-av-behavior-trade-offs</guid>
+      <title>LHT: Statistically-Driven Oblique Decision Trees for Interpretable Classification</title>
+      <link>https://paperswithcode.com/paper/lht-statistically-driven-oblique-decision</link>
+      <description><![CDATA[The explicit feature weighting at each split provides inherent interpretability.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/lht-statistically-driven-oblique-decision</guid>
     </item>
     <item>
       <title>Benchmarking LLMs' Swarm intelligence</title>
@@ -75,10 +69,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-llms-swarm-intelligence</guid>
     </item>
     <item>
-      <title>Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization</title>
-      <link>https://paperswithcode.com/paper/latent-manifold-reconstruction-and</link>
-      <description><![CDATA[Manifold learning aims to discover and represent low-dimensional structures underlying high-dimensional data while preserving critical topological and geometric properties.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-manifold-reconstruction-and</guid>
+      <title>Consensus-Aware AV Behavior: Trade-offs Between Safety, Interaction, and Performance in Mixed Urban Traffic</title>
+      <link>https://paperswithcode.com/paper/consensus-aware-av-behavior-trade-offs</link>
+      <description><![CDATA[Transportation systems have long been shaped by complexity and heterogeneity, driven by the interdependency of agent actions and traffic outcomes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/consensus-aware-av-behavior-trade-offs</guid>
+    </item>
+    <item>
+      <title>DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once</title>
+      <link>https://paperswithcode.com/paper/dfvo-learning-darkness-free-visible-and</link>
+      <description><![CDATA[Visible and infrared image fusion is one of the most crucial tasks in the field of image fusion, aiming to generate fused images with clear structural information and high-quality texture features for high-level vision tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dfvo-learning-darkness-free-visible-and</guid>
+    </item>
+    <item>
+      <title>Enhanced SCanNet with CBAM and Dice Loss for Semantic Change Detection</title>
+      <link>https://paperswithcode.com/paper/enhanced-scannet-with-cbam-and-dice-loss-for</link>
+      <description><![CDATA[These findings highlight the effectiveness of attention mechanisms and Dice loss in improving feature representation and addressing class imbalance in semantic change detection tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/enhanced-scannet-with-cbam-and-dice-loss-for</guid>
+    </item>
+    <item>
+      <title>Registration of 3D Point Sets Using Exponential-based Similarity Matrix</title>
+      <link>https://paperswithcode.com/paper/registration-of-3d-point-sets-using-1</link>
+      <description><![CDATA[However, state-of-the-art registration techniques often struggle when large rotational differences exist between point sets or when the data is significantly corrupted by sensor noise.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/registration-of-3d-point-sets-using-1</guid>
+    </item>
+    <item>
+      <title>Active Sampling for MRI-based Sequential Decision Making</title>
+      <link>https://paperswithcode.com/paper/active-sampling-for-mri-based-sequential</link>
+      <description><![CDATA[Our approach paves the way for the future of MRI as a comprehensive and affordable PoC device.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/active-sampling-for-mri-based-sequential</guid>
     </item>
     <item>
       <title>ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$-Divergence</title>
@@ -93,64 +111,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/advancing-and-benchmarking-personalized-tool</guid>
     </item>
     <item>
+      <title>Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization</title>
+      <link>https://paperswithcode.com/paper/latent-manifold-reconstruction-and</link>
+      <description><![CDATA[Manifold learning aims to discover and represent low-dimensional structures underlying high-dimensional data while preserving critical topological and geometric properties.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/latent-manifold-reconstruction-and</guid>
+    </item>
+    <item>
       <title>S3D: Sketch-Driven 3D Model Generation</title>
       <link>https://paperswithcode.com/paper/s3d-sketch-driven-3d-model-generation</link>
       <description><![CDATA[This streamlined framework demonstrates the effectiveness of S3D in generating high-quality 3D models from sketch inputs.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/s3d-sketch-driven-3d-model-generation</guid>
     </item>
     <item>
-      <title>VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning</title>
-      <link>https://paperswithcode.com/paper/videopath-llava-pathology-diagnostic</link>
-      <description><![CDATA[We present VideoPath-LLaVA, the first large multimodal model (LMM) in computational pathology that integrates three distinct image scenarios, single patch images, automatically keyframe-extracted clips, and manually segmented video pathology images, to mimic the natural diagnostic process of pathologists.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/videopath-llava-pathology-diagnostic</guid>
+      <title>Path and Bone-Contour Regularized Unpaired MRI-to-CT Translation</title>
+      <link>https://paperswithcode.com/paper/path-and-bone-contour-regularized-unpaired</link>
+      <description><![CDATA[To enhance the accuracy of translated bone structures, we introduce a trainable neural network to generate bone contours from MRI and implement mechanisms to directly and indirectly encourage the model to focus on bone contours and their adjacent regions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/path-and-bone-contour-regularized-unpaired</guid>
     </item>
     <item>
-      <title>Registration of 3D Point Sets Using Exponential-based Similarity Matrix</title>
-      <link>https://paperswithcode.com/paper/registration-of-3d-point-sets-using-1</link>
-      <description><![CDATA[However, state-of-the-art registration techniques often struggle when large rotational differences exist between point sets or when the data is significantly corrupted by sensor noise.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/registration-of-3d-point-sets-using-1</guid>
-    </item>
-    <item>
-      <title>LHT: Statistically-Driven Oblique Decision Trees for Interpretable Classification</title>
-      <link>https://paperswithcode.com/paper/lht-statistically-driven-oblique-decision</link>
-      <description><![CDATA[The explicit feature weighting at each split provides inherent interpretability.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/lht-statistically-driven-oblique-decision</guid>
-    </item>
-    <item>
-      <title>Prototype-Based Information Compensation Network for Multi-Source Remote Sensing Data Classification</title>
-      <link>https://paperswithcode.com/paper/prototype-based-information-compensation</link>
-      <description><![CDATA[Afterward, we design a prototype-based information compensation module to model the global multi-source complementary information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/prototype-based-information-compensation</guid>
-    </item>
-    <item>
-      <title>Rational Retrieval Acts: Leveraging Pragmatic Reasoning to Improve Sparse Retrieval</title>
-      <link>https://paperswithcode.com/paper/rational-retrieval-acts-leveraging-pragmatic</link>
-      <description><![CDATA[Current sparse neural information retrieval (IR) methods, and to a lesser extent more traditional models such as BM25, do not take into account the document collection and the complex interplay between different term weights when representing a single document.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rational-retrieval-acts-leveraging-pragmatic</guid>
-    </item>
-    <item>
-      <title>An Active Inference Model of Covert and Overt Visual Attention</title>
-      <link>https://paperswithcode.com/paper/an-active-inference-model-of-covert-and-overt</link>
-      <description><![CDATA[The ability to selectively attend to relevant stimuli while filtering out distractions is essential for agents that process complex, high-dimensional sensory input.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/an-active-inference-model-of-covert-and-overt</guid>
-    </item>
-    <item>
-      <title>Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation</title>
-      <link>https://paperswithcode.com/paper/novel-extraction-of-discriminative-fine</link>
-      <description><![CDATA[AttUKAN achieves F1 scores of 82. 50%, 81. 14%, 81. 34%, 80. 21% and 80. 09%, along with MIoU scores of 70. 24%, 68. 64%, 68. 59%, 67. 21% and 66. 94% in the above datasets, which are the highest compared to 11 networks for retinal vessel segmentation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/novel-extraction-of-discriminative-fine</guid>
-    </item>
-    <item>
-      <title>Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents</title>
-      <link>https://paperswithcode.com/paper/frog-soup-zero-shot-in-context-and-sample</link>
-      <description><![CDATA[One of the primary aspirations in reinforcement learning research is developing general-purpose agents capable of rapidly adapting to and mastering novel tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/frog-soup-zero-shot-in-context-and-sample</guid>
-    </item>
-    <item>
-      <title>Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration</title>
-      <link>https://paperswithcode.com/paper/matching-distance-and-geometric-distribution</link>
-      <description><![CDATA[This paper concentrates on pose graph construction and motion synchronization within multiview registration.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/matching-distance-and-geometric-distribution</guid>
+      <title>Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models</title>
+      <link>https://paperswithcode.com/paper/long-short-chain-of-thought-mixture</link>
+      <description><![CDATA[Recent advances in large language models have demonstrated that Supervised Fine-Tuning (SFT) with Chain-of-Thought (CoT) reasoning data distilled from large reasoning models (e. g., DeepSeek R1) can effectively transfer reasoning capabilities to non-reasoning models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/long-short-chain-of-thought-mixture</guid>
     </item>
     <item>
       <title>VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model</title>
@@ -159,10 +141,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</guid>
     </item>
     <item>
-      <title>Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map</title>
-      <link>https://paperswithcode.com/paper/bounding-box-guided-diffusion-for</link>
-      <description><![CDATA[Synthetic dataset generation in Computer Vision, particularly for industrial applications, is still underexplored.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/bounding-box-guided-diffusion-for</guid>
+      <title>Robust Fairness Vision-Language Learning for Medical Image Analysis</title>
+      <link>https://paperswithcode.com/paper/robust-fairness-vision-language-learning-for</link>
+      <description><![CDATA[The advent of Vision-Language Models (VLMs) in medical image analysis has the potential to help process multimodal inputs and increase performance over traditional inference methods.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-fairness-vision-language-learning-for</guid>
     </item>
     <item>
       <title>The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete</title>
@@ -171,70 +153,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/the-power-of-stories-narrative-priming-shapes</guid>
     </item>
     <item>
-      <title>Geospatial Mechanistic Interpretability of Large Language Models</title>
-      <link>https://paperswithcode.com/paper/geospatial-mechanistic-interpretability-of</link>
-      <description><![CDATA[In our experiments, we use spatial autocorrelation to show how features obtained for placenames display spatial patterns related to their geographic location and can thus be interpreted geospatially, providing insights into how these models process geographical information.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/geospatial-mechanistic-interpretability-of</guid>
+      <title>Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents</title>
+      <link>https://paperswithcode.com/paper/frog-soup-zero-shot-in-context-and-sample</link>
+      <description><![CDATA[One of the primary aspirations in reinforcement learning research is developing general-purpose agents capable of rapidly adapting to and mastering novel tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/frog-soup-zero-shot-in-context-and-sample</guid>
     </item>
     <item>
-      <title>Quantum Feature Space of a Qubit Coupled to an Arbitrary Bath</title>
-      <link>https://paperswithcode.com/paper/quantum-feature-space-of-a-qubit-coupled-to</link>
-      <description><![CDATA[We refer to the resulting parameter space as the \textit{quantum feature space} of the qubit dynamics resulting from the coupled bath.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-feature-space-of-a-qubit-coupled-to</guid>
+      <title>Novel Extraction of Discriminative Fine-Grained Feature to Improve Retinal Vessel Segmentation</title>
+      <link>https://paperswithcode.com/paper/novel-extraction-of-discriminative-fine</link>
+      <description><![CDATA[AttUKAN achieves F1 scores of 82. 50%, 81. 14%, 81. 34%, 80. 21% and 80. 09%, along with MIoU scores of 70. 24%, 68. 64%, 68. 59%, 67. 21% and 66. 94% in the above datasets, which are the highest compared to 11 networks for retinal vessel segmentation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/novel-extraction-of-discriminative-fine</guid>
     </item>
     <item>
-      <title>Absolute Zero: Reinforced Self-play Reasoning with Zero Data</title>
-      <link>https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</link>
-      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) has shown promise in enhancing the reasoning capabilities of large language models by learning directly from outcome-based rewards.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</guid>
+      <title>DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes</title>
+      <link>https://paperswithcode.com/paper/dygenc-encoding-a-sequence-of-textual-scene</link>
+      <description><![CDATA[The analysis of events in dynamic environments poses a fundamental challenge in the development of intelligent agents and robots capable of interacting with humans.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dygenc-encoding-a-sequence-of-textual-scene</guid>
     </item>
     <item>
-      <title>Solar Flare Forecast: A Comparative Analysis of Machine Learning Algorithms for Solar Flare Class Prediction</title>
-      <link>https://paperswithcode.com/paper/solar-flare-forecast-a-comparative-analysis</link>
-      <description><![CDATA[By integrating this newly acquired knowledge into future research, more accurate space weather forecasting systems can be developed, along with a deeper understanding of solar physics.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/solar-flare-forecast-a-comparative-analysis</guid>
+      <title>Prototype-Based Information Compensation Network for Multi-Source Remote Sensing Data Classification</title>
+      <link>https://paperswithcode.com/paper/prototype-based-information-compensation</link>
+      <description><![CDATA[Afterward, we design a prototype-based information compensation module to model the global multi-source complementary information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/prototype-based-information-compensation</guid>
     </item>
     <item>
-      <title>Blending 3D Geometry and Machine Learning for Multi-View Stereopsis</title>
-      <link>https://paperswithcode.com/paper/blending-3d-geometry-and-machine-learning-for</link>
-      <description><![CDATA[To our knowledge, GC MVSNet plus plus is the first method to enforce multi-view, multi-scale supervised geometric consistency during learning.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/blending-3d-geometry-and-machine-learning-for</guid>
+      <title>An Active Inference Model of Covert and Overt Visual Attention</title>
+      <link>https://paperswithcode.com/paper/an-active-inference-model-of-covert-and-overt</link>
+      <description><![CDATA[The ability to selectively attend to relevant stimuli while filtering out distractions is essential for agents that process complex, high-dimensional sensory input.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/an-active-inference-model-of-covert-and-overt</guid>
     </item>
     <item>
-      <title>Robust Fairness Vision-Language Learning for Medical Image Analysis</title>
-      <link>https://paperswithcode.com/paper/robust-fairness-vision-language-learning-for</link>
-      <description><![CDATA[The advent of Vision-Language Models (VLMs) in medical image analysis has the potential to help process multimodal inputs and increase performance over traditional inference methods.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/robust-fairness-vision-language-learning-for</guid>
-    </item>
-    <item>
-      <title>UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion</title>
-      <link>https://paperswithcode.com/paper/upmad-net-a-brain-tumor-segmentation-network</link>
-      <description><![CDATA[By incorporating the prior knowledge and employing the uncertainty estimation method, the robustness and performance were improved.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/upmad-net-a-brain-tumor-segmentation-network</guid>
-    </item>
-    <item>
-      <title>OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents</title>
-      <link>https://paperswithcode.com/paper/osuniverse-benchmark-for-multimodal-gui</link>
-      <description><![CDATA[In this paper, we introduce OSUniverse: a benchmark of complex, multimodal desktop-oriented tasks for advanced GUI-navigation AI agents that focuses on ease of use, extensibility, comprehensive coverage of test cases, and automated validation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/osuniverse-benchmark-for-multimodal-gui</guid>
-    </item>
-    <item>
-      <title>A Fusion-Guided Inception Network for Hyperspectral Image Super-Resolution</title>
-      <link>https://paperswithcode.com/paper/a-fusion-guided-inception-network-for</link>
-      <description><![CDATA[The fusion of low-spatial-resolution hyperspectral images (HSIs) with high-spatial-resolution conventional images (e. g., panchromatic or RGB) has played a significant role in recent advancements in HSI super-resolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/a-fusion-guided-inception-network-for</guid>
-    </item>
-    <item>
-      <title>LiftFeat: 3D Geometry-Aware Local Feature Matching</title>
-      <link>https://paperswithcode.com/paper/liftfeat-3d-geometry-aware-local-feature</link>
-      <description><![CDATA[We then design a 3D geometry-aware feature lifting module to fuse surface normal feature with raw 2D descriptor feature.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/liftfeat-3d-geometry-aware-local-feature</guid>
-    </item>
-    <item>
-      <title>Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking</title>
-      <link>https://paperswithcode.com/paper/modality-guided-dynamic-graph-fusion-and</link>
-      <description><![CDATA[GDSTrack dynamically fuses the modalities of neighboring frames, treats them as distractor noise, and leverages the denoising capability of a generative model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/modality-guided-dynamic-graph-fusion-and</guid>
+      <title>Automatic Calibration for Membership Inference Attack on Large Language Models</title>
+      <link>https://paperswithcode.com/paper/automatic-calibration-for-membership</link>
+      <description><![CDATA[Membership Inference Attacks (MIAs) have recently been employed to determine whether a specific text was part of the pre-training data of Large Language Models (LLMs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-calibration-for-membership</guid>
     </item>
     <item>
       <title>Weighted Random Dot Product Graphs</title>
@@ -243,28 +195,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/weighted-random-dot-product-graphs</guid>
     </item>
     <item>
-      <title>Seeing the Abstract: Translating the Abstract Language for Vision Language Models</title>
-      <link>https://paperswithcode.com/paper/seeing-the-abstract-translating-the-abstract</link>
-      <description><![CDATA[By analyzing recent large-scale multimodal fashion datasets, we find that abstract terms have a dominant presence, rivaling the concrete ones, providing novel information, and being useful in the retrieval task.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/seeing-the-abstract-translating-the-abstract</guid>
-    </item>
-    <item>
       <title>Unraveling the Rainbow: can value-based methods schedule?</title>
       <link>https://paperswithcode.com/paper/unraveling-the-rainbow-can-value-based</link>
       <description><![CDATA[In this work, we conduct a comprehensive empirical evaluation of value-based algorithms, including the deep q-network and several of its advanced extensions, within the context of two complex combinatorial problems: the job-shop and the flexible job-shop scheduling problems, two fundamental challenges with multiple industrial applications.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/unraveling-the-rainbow-can-value-based</guid>
     </item>
     <item>
-      <title>Panoramic Out-of-Distribution Segmentation</title>
-      <link>https://paperswithcode.com/paper/panoramic-out-of-distribution-segmentation</link>
-      <description><![CDATA[To address these issues, we introduce a new task, Panoramic Out-of-distribution Segmentation (PanOoS), achieving OoS for panoramas.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/panoramic-out-of-distribution-segmentation</guid>
+      <title>Partial Label Clustering</title>
+      <link>https://paperswithcode.com/paper/partial-label-clustering</link>
+      <description><![CDATA[Partial label learning (PLL) is a significant weakly supervised learning framework, where each training example corresponds to a set of candidate labels and only one label is the ground-truth label.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/partial-label-clustering</guid>
     </item>
     <item>
-      <title>Fixed-Length Dense Fingerprint Representation</title>
-      <link>https://paperswithcode.com/paper/fixed-length-dense-fingerprint-representation</link>
-      <description><![CDATA[In this work, we propose a fixed-length dense descriptor of fingerprints, and introduce FLARE-a fingerprint matching framework that integrates the Fixed-Length dense descriptor with pose-based Alignment and Robust Enhancement.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fixed-length-dense-fingerprint-representation</guid>
+      <title>OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents</title>
+      <link>https://paperswithcode.com/paper/osuniverse-benchmark-for-multimodal-gui</link>
+      <description><![CDATA[In this paper, we introduce OSUniverse: a benchmark of complex, multimodal desktop-oriented tasks for advanced GUI-navigation AI agents that focuses on ease of use, extensibility, comprehensive coverage of test cases, and automated validation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/osuniverse-benchmark-for-multimodal-gui</guid>
     </item>
     <item>
       <title>SD-VSum: A Method and Dataset for Script-Driven Video Summarization</title>
@@ -279,12 +225,6 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/avoid-recommending-out-of-domain-items</guid>
     </item>
     <item>
-      <title>Partial Label Clustering</title>
-      <link>https://paperswithcode.com/paper/partial-label-clustering</link>
-      <description><![CDATA[Partial label learning (PLL) is a significant weakly supervised learning framework, where each training example corresponds to a set of candidate labels and only one label is the ground-truth label.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/partial-label-clustering</guid>
-    </item>
-    <item>
       <title>Mamba-Diffusion Model with Learnable Wavelet for Controllable Symbolic Music Generation</title>
       <link>https://paperswithcode.com/paper/mamba-diffusion-model-with-learnable-wavelet</link>
       <description><![CDATA[The recent surge in the popularity of diffusion models for image synthesis has attracted new attention to their potential for generation tasks in other domains.]]></description>
@@ -297,16 +237,76 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/weighted-average-gradients-for-feature</guid>
     </item>
     <item>
+      <title>DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation</title>
+      <link>https://paperswithcode.com/paper/ddatr-dynamic-difference-aware-temporal</link>
+      <description><![CDATA[Longitudinal Radiology Report Generation (LRRG) extends RRG by incorporating the ability to compare current and prior exams, facilitating the tracking of temporal changes in clinical findings.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ddatr-dynamic-difference-aware-temporal</guid>
+    </item>
+    <item>
+      <title>Towards Efficient Benchmarking of Foundation Models in Remote Sensing: A Capabilities Encoding Approach</title>
+      <link>https://paperswithcode.com/paper/towards-efficient-benchmarking-of-foundation</link>
+      <description><![CDATA[The utility of this novel approach is twofold: we demonstrate its potential to simplify the selection of a foundation model for a given new task, and we employ it to offer a fresh perspective on the existing literature, suggesting avenues for future research.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-efficient-benchmarking-of-foundation</guid>
+    </item>
+    <item>
+      <title>Synthline: A Product Line Approach for Synthetic Requirements Engineering Data Generation using Large Language Models</title>
+      <link>https://paperswithcode.com/paper/synthline-a-product-line-approach-for</link>
+      <description><![CDATA[Through an empirical evaluation conducted in the context of using ML for the identification of requirements specification defects, we investigated both the diversity of the generated data and its utility for training downstream models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/synthline-a-product-line-approach-for</guid>
+    </item>
+    <item>
       <title>Plug-and-Play AMC: Context Is King in Training-Free, Open-Set Modulation with LLMs</title>
       <link>https://paperswithcode.com/paper/plug-and-play-amc-context-is-king-in-training</link>
       <description><![CDATA[Moreover, our approach paves the way for robust foundation models in wireless communications across varying channel conditions, significantly reducing the expense associated with developing channel-specific models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/plug-and-play-amc-context-is-king-in-training</guid>
     </item>
     <item>
-      <title>Automatic Calibration for Membership Inference Attack on Large Language Models</title>
-      <link>https://paperswithcode.com/paper/automatic-calibration-for-membership</link>
-      <description><![CDATA[Membership Inference Attacks (MIAs) have recently been employed to determine whether a specific text was part of the pre-training data of Large Language Models (LLMs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/automatic-calibration-for-membership</guid>
+      <title>Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense</title>
+      <link>https://paperswithcode.com/paper/framework-gnn-aid-graph-neural-network</link>
+      <description><![CDATA[Researchers can use the framework to explore advanced topics on the relationship between interpretability and robustness, test defense strategies, and combine methods to protect against different types of attacks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/framework-gnn-aid-graph-neural-network</guid>
+    </item>
+    <item>
+      <title>MedArabiQ: Benchmarking Large Language Models on Arabic Medical Tasks</title>
+      <link>https://paperswithcode.com/paper/medarabiq-benchmarking-large-language-models</link>
+      <description><![CDATA[However, their efficacy in the Arabic medical domain remains unexplored due to the lack of high-quality domain-specific datasets and benchmarks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/medarabiq-benchmarking-large-language-models</guid>
+    </item>
+    <item>
+      <title>Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis</title>
+      <link>https://paperswithcode.com/paper/detecting-quishing-attacks-with-machine</link>
+      <description><![CDATA[The rise of QR code based phishing ("Quishing") poses a growing cybersecurity threat, as attackers increasingly exploit QR codes to bypass traditional phishing defenses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/detecting-quishing-attacks-with-machine</guid>
+    </item>
+    <item>
+      <title>UPMAD-Net: A Brain Tumor Segmentation Network with Uncertainty Guidance and Adaptive Multimodal Feature Fusion</title>
+      <link>https://paperswithcode.com/paper/upmad-net-a-brain-tumor-segmentation-network</link>
+      <description><![CDATA[By incorporating the prior knowledge and employing the uncertainty estimation method, the robustness and performance were improved.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/upmad-net-a-brain-tumor-segmentation-network</guid>
+    </item>
+    <item>
+      <title>Geospatial Mechanistic Interpretability of Large Language Models</title>
+      <link>https://paperswithcode.com/paper/geospatial-mechanistic-interpretability-of</link>
+      <description><![CDATA[In our experiments, we use spatial autocorrelation to show how features obtained for placenames display spatial patterns related to their geographic location and can thus be interpreted geospatially, providing insights into how these models process geographical information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/geospatial-mechanistic-interpretability-of</guid>
+    </item>
+    <item>
+      <title>LiftFeat: 3D Geometry-Aware Local Feature Matching</title>
+      <link>https://paperswithcode.com/paper/liftfeat-3d-geometry-aware-local-feature</link>
+      <description><![CDATA[We then design a 3D geometry-aware feature lifting module to fuse surface normal feature with raw 2D descriptor feature.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/liftfeat-3d-geometry-aware-local-feature</guid>
+    </item>
+    <item>
+      <title>Quantum Feature Space of a Qubit Coupled to an Arbitrary Bath</title>
+      <link>https://paperswithcode.com/paper/quantum-feature-space-of-a-qubit-coupled-to</link>
+      <description><![CDATA[We refer to the resulting parameter space as the \textit{quantum feature space} of the qubit dynamics resulting from the coupled bath.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/quantum-feature-space-of-a-qubit-coupled-to</guid>
+    </item>
+    <item>
+      <title>Solar Flare Forecast: A Comparative Analysis of Machine Learning Algorithms for Solar Flare Class Prediction</title>
+      <link>https://paperswithcode.com/paper/solar-flare-forecast-a-comparative-analysis</link>
+      <description><![CDATA[By integrating this newly acquired knowledge into future research, more accurate space weather forecasting systems can be developed, along with a deeper understanding of solar physics.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/solar-flare-forecast-a-comparative-analysis</guid>
     </item>
   </channel>
 </rss>
