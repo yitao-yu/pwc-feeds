@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 21:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 09:18:23 +0000</lastBuildDate>
     <item>
       <title>FastVLM: Efficient Vision Encoding for Vision Language Models</title>
       <link>https://paperswithcode.com/paper/fastvlm-efficient-vision-encoding-for-vision</link>
@@ -21,10 +21,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/continuous-thought-machines</guid>
     </item>
     <item>
-      <title>Absolute Zero: Reinforced Self-play Reasoning with Zero Data</title>
-      <link>https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</link>
-      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) has shown promise in enhancing the reasoning capabilities of large language models by learning directly from outcome-based rewards.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</guid>
+      <title>BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset</title>
+      <link>https://paperswithcode.com/paper/blip3-o-a-family-of-fully-open-unified</link>
+      <description><![CDATA[Building on our innovative model design, training recipe, and datasets, we develop BLIP3-o, a suite of state-of-the-art unified multimodal models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/blip3-o-a-family-of-fully-open-unified</guid>
     </item>
     <item>
       <title>Generating Physically Stable and Buildable LEGO Designs from Text</title>
@@ -39,10 +39,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/flow-grpo-training-flow-matching-models-via</guid>
     </item>
     <item>
-      <title>LTX-Video: Realtime Video Latent Diffusion</title>
-      <link>https://paperswithcode.com/paper/ltx-video-realtime-video-latent-diffusion</link>
-      <description><![CDATA[To address this, our VAE decoder is tasked with both latent-to-pixel conversion and the final denoising step, producing the clean result directly in pixel space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ltx-video-realtime-video-latent-diffusion</guid>
+      <title>Absolute Zero: Reinforced Self-play Reasoning with Zero Data</title>
+      <link>https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</link>
+      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) has shown promise in enhancing the reasoning capabilities of large language models by learning directly from outcome-based rewards.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</guid>
+    </item>
+    <item>
+      <title>HealthBench: Evaluating Large Language Models Towards Improved Human Health</title>
+      <link>https://paperswithcode.com/paper/healthbench-evaluating-large-language-models</link>
+      <description><![CDATA[We present HealthBench, an open-source benchmark measuring the performance and safety of large language models in healthcare.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/healthbench-evaluating-large-language-models</guid>
     </item>
     <item>
       <title>Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models</title>
@@ -57,16 +63,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/univla-learning-to-act-anywhere-with-task</guid>
     </item>
     <item>
-      <title>OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation</title>
-      <link>https://paperswithcode.com/paper/openhelix-a-short-survey-empirical-analysis</link>
-      <description><![CDATA[Dual-system VLA (Vision-Language-Action) architectures have become a hot topic in embodied intelligence research, but there is a lack of sufficient open-source work for further performance analysis and optimization.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openhelix-a-short-survey-empirical-analysis</guid>
+      <title>VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model</title>
+      <link>https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</link>
+      <description><![CDATA[Specifically, we introduce a lightweight Multiple Cross-modal Token Prediction (MCTP) module that efficiently generates multiple audio tokens within a single model forward pass, which not only accelerates the inference but also significantly reduces the latency for generating the first audio in streaming scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</guid>
     </item>
     <item>
-      <title>Unified Continuous Generative Models</title>
-      <link>https://paperswithcode.com/paper/unified-continuous-generative-models</link>
-      <description><![CDATA[We introduce a unified framework for training, sampling, and analyzing these models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unified-continuous-generative-models</guid>
+      <title>LTX-Video: Realtime Video Latent Diffusion</title>
+      <link>https://paperswithcode.com/paper/ltx-video-realtime-video-latent-diffusion</link>
+      <description><![CDATA[To address this, our VAE decoder is tasked with both latent-to-pixel conversion and the final denoising step, producing the clean result directly in pixel space.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ltx-video-realtime-video-latent-diffusion</guid>
+    </item>
+    <item>
+      <title>OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/openthinkimg-learning-to-think-with-images</link>
+      <description><![CDATA[We hope OpenThinkIMG can serve as a foundational framework for advancing dynamic, tool-augmented visual reasoning, helping the community develop AI agents that can genuinely "think with images".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openthinkimg-learning-to-think-with-images</guid>
     </item>
     <item>
       <title>Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning</title>
@@ -75,16 +87,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/paper2code-automating-code-generation-from</guid>
     </item>
     <item>
-      <title>3D Scene Generation: A Survey</title>
-      <link>https://paperswithcode.com/paper/3d-scene-generation-a-survey</link>
-      <description><![CDATA[Recent advances in deep generative models (e. g., GANs, diffusion models) and 3D representations (e. g., NeRF, 3D Gaussians) have enabled the learning of real-world scene distributions, improving fidelity, diversity, and view consistency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-scene-generation-a-survey</guid>
-    </item>
-    <item>
       <title>Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing</title>
       <link>https://paperswithcode.com/paper/nexus-gen-a-unified-model-for-image</link>
       <description><![CDATA[To bridge this gap, we present Nexus-Gen, a unified model that synergizes the language reasoning capabilities of LLMs with the image synthesis power of diffusion models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/nexus-gen-a-unified-model-for-image</guid>
+    </item>
+    <item>
+      <title>Unified Continuous Generative Models</title>
+      <link>https://paperswithcode.com/paper/unified-continuous-generative-models</link>
+      <description><![CDATA[We introduce a unified framework for training, sampling, and analyzing these models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/unified-continuous-generative-models</guid>
+    </item>
+    <item>
+      <title>3D Scene Generation: A Survey</title>
+      <link>https://paperswithcode.com/paper/3d-scene-generation-a-survey</link>
+      <description><![CDATA[Recent advances in deep generative models (e. g., GANs, diffusion models) and 3D representations (e. g., NeRF, 3D Gaussians) have enabled the learning of real-world scene distributions, improving fidelity, diversity, and view consistency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/3d-scene-generation-a-survey</guid>
     </item>
     <item>
       <title>WebThinker: Empowering Large Reasoning Models with Deep Research Capability</title>
@@ -93,40 +111,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/webthinker-empowering-large-reasoning-models</guid>
     </item>
     <item>
-      <title>Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities</title>
-      <link>https://paperswithcode.com/paper/unified-multimodal-understanding-and</link>
-      <description><![CDATA[Despite their respective successes, these two domains have evolved independently, leading to distinct architectural paradigms: While autoregressive-based architectures have dominated multimodal understanding, diffusion-based models have become the cornerstone of image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/unified-multimodal-understanding-and</guid>
-    </item>
-    <item>
       <title>Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents</title>
       <link>https://paperswithcode.com/paper/agent-s2-a-compositional-generalist</link>
       <description><![CDATA[Computer use agents automate digital tasks by directly interacting with graphical user interfaces (GUIs) on computers and mobile devices, offering significant potential to enhance human productivity by completing an open-ended space of user queries.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/agent-s2-a-compositional-generalist</guid>
     </item>
     <item>
-      <title>VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model</title>
-      <link>https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</link>
-      <description><![CDATA[Specifically, we introduce a lightweight Multiple Cross-modal Token Prediction (MCTP) module that efficiently generates multiple audio tokens within a single model forward pass, which not only accelerates the inference but also significantly reduces the latency for generating the first audio in streaming scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</guid>
+      <title>Human-like Episodic Memory for Infinite Context LLMs</title>
+      <link>https://paperswithcode.com/paper/human-like-episodic-memory-for-infinite</link>
+      <description><![CDATA[Large language models (LLMs) have shown remarkable capabilities, but still struggle with processing extensive contexts, limiting their ability to maintain coherence and accuracy over long sequences.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/human-like-episodic-memory-for-infinite</guid>
     </item>
     <item>
-      <title>Deformable Beta Splatting</title>
-      <link>https://paperswithcode.com/paper/deformable-beta-splatting</link>
-      <description><![CDATA[Experimental results demonstrate that DBS achieves state-of-the-art visual quality while utilizing only 45% of the parameters and rendering 1. 5x faster than 3DGS-MCMC, highlighting the superior performance of DBS for real-time radiance field rendering.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/deformable-beta-splatting</guid>
-    </item>
-    <item>
-      <title>ZClip: Adaptive Spike Mitigation for LLM Pre-Training</title>
-      <link>https://paperswithcode.com/paper/zclip-adaptive-spike-mitigation-for-llm-pre</link>
-      <description><![CDATA[Training large language models (LLMs) presents numerous challenges, including gradient instability and loss spikes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/zclip-adaptive-spike-mitigation-for-llm-pre</guid>
-    </item>
-    <item>
-      <title>Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play</title>
-      <link>https://paperswithcode.com/paper/voila-voice-language-foundation-models-for</link>
-      <description><![CDATA[A voice AI agent that blends seamlessly into daily life would interact with humans in an autonomous, real-time, and emotionally expressive manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/voila-voice-language-foundation-models-for</guid>
+      <title>OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation</title>
+      <link>https://paperswithcode.com/paper/openhelix-a-short-survey-empirical-analysis</link>
+      <description><![CDATA[Dual-system VLA (Vision-Language-Action) architectures have become a hot topic in embodied intelligence research, but there is a lack of sufficient open-source work for further performance analysis and optimization.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openhelix-a-short-survey-empirical-analysis</guid>
     </item>
   </channel>
 </rss>
