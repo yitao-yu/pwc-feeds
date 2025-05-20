@@ -7,114 +7,12 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 09:19:13 +0000</lastBuildDate>
-    <item>
-      <title>FastVLM: Efficient Vision Encoding for Vision Language Models</title>
-      <link>https://paperswithcode.com/paper/fastvlm-efficient-vision-encoding-for-vision</link>
-      <description><![CDATA[At different operational resolutions, the vision encoder of a VLM can be optimized along two axes: reducing encoding latency and minimizing the number of visual tokens passed to the LLM, thereby lowering overall latency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvlm-efficient-vision-encoding-for-vision</guid>
-    </item>
+    <lastBuildDate>Tue, 20 May 2025 21:10:06 +0000</lastBuildDate>
     <item>
       <title>BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset</title>
       <link>https://paperswithcode.com/paper/blip3-o-a-family-of-fully-open-unified</link>
       <description><![CDATA[Building on our innovative model design, training recipe, and datasets, we develop BLIP3-o, a suite of state-of-the-art unified multimodal models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/blip3-o-a-family-of-fully-open-unified</guid>
-    </item>
-    <item>
-      <title>MASS: Multi-Agent Simulation Scaling for Portfolio Construction</title>
-      <link>https://paperswithcode.com/paper/mass-multi-agent-simulation-scaling-for</link>
-      <description><![CDATA[LLM-based multi-agent has gained significant attention for their potential in simulation and enhancing performance.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mass-multi-agent-simulation-scaling-for</guid>
-    </item>
-    <item>
-      <title>Absolute Zero: Reinforced Self-play Reasoning with Zero Data</title>
-      <link>https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</link>
-      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) has shown promise in enhancing the reasoning capabilities of large language models by learning directly from outcome-based rewards.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</guid>
-    </item>
-    <item>
-      <title>HealthBench: Evaluating Large Language Models Towards Improved Human Health</title>
-      <link>https://paperswithcode.com/paper/healthbench-evaluating-large-language-models</link>
-      <description><![CDATA[We present HealthBench, an open-source benchmark measuring the performance and safety of large language models in healthcare.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/healthbench-evaluating-large-language-models</guid>
-    </item>
-    <item>
-      <title>Continuous Thought Machines</title>
-      <link>https://paperswithcode.com/paper/continuous-thought-machines</link>
-      <description><![CDATA[The CTM has two core innovations: (1) neuron-level temporal processing, where each neuron uses unique weight parameters to process a history of incoming signals; and (2) neural synchronization employed as a latent representation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/continuous-thought-machines</guid>
-    </item>
-    <item>
-      <title>Spherical Channels for Modeling Atomic Interactions</title>
-      <link>https://paperswithcode.com/paper/spherical-channels-for-modeling-atomic</link>
-      <description><![CDATA[We propose the Spherical Channel Network (SCN) to model atomic energies and forces.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/spherical-channels-for-modeling-atomic</guid>
-    </item>
-    <item>
-      <title>Parallel Scaling Law for Language Models</title>
-      <link>https://paperswithcode.com/paper/parallel-scaling-law-for-language-models</link>
-      <description><![CDATA[We apply $P$ diverse and learnable transformations to the input, execute forward passes of the model in parallel, and dynamically aggregate the $P$ outputs.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/parallel-scaling-law-for-language-models</guid>
-    </item>
-    <item>
-      <title>VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model</title>
-      <link>https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</link>
-      <description><![CDATA[Specifically, we introduce a lightweight Multiple Cross-modal Token Prediction (MCTP) module that efficiently generates multiple audio tokens within a single model forward pass, which not only accelerates the inference but also significantly reduces the latency for generating the first audio in streaming scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vita-audio-fast-interleaved-cross-modal-token</guid>
-    </item>
-    <item>
-      <title>Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory</title>
-      <link>https://paperswithcode.com/paper/mem0-building-production-ready-ai-agents-with</link>
-      <description><![CDATA[Large Language Models (LLMs) have demonstrated remarkable prowess in generating contextually coherent responses, yet their fixed context windows pose fundamental challenges for maintaining consistency over prolonged multi-session dialogues.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/mem0-building-production-ready-ai-agents-with</guid>
-    </item>
-    <item>
-      <title>Human-like Episodic Memory for Infinite Context LLMs</title>
-      <link>https://paperswithcode.com/paper/human-like-episodic-memory-for-infinite</link>
-      <description><![CDATA[Large language models (LLMs) have shown remarkable capabilities, but still struggle with processing extensive contexts, limiting their ability to maintain coherence and accuracy over long sequences.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/human-like-episodic-memory-for-infinite</guid>
-    </item>
-    <item>
-      <title>OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning</title>
-      <link>https://paperswithcode.com/paper/openthinkimg-learning-to-think-with-images</link>
-      <description><![CDATA[We hope OpenThinkIMG can serve as a foundational framework for advancing dynamic, tool-augmented visual reasoning, helping the community develop AI agents that can genuinely "think with images".]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/openthinkimg-learning-to-think-with-images</guid>
-    </item>
-    <item>
-      <title>Fully Open Source Moxin-7B Technical Report</title>
-      <link>https://paperswithcode.com/paper/fully-open-source-moxin-7b-technical-report</link>
-      <description><![CDATA[Recently, Large Language Models (LLMs) have undergone a significant transformation, marked by a rapid rise in both their popularity and capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/fully-open-source-moxin-7b-technical-report</guid>
-    </item>
-    <item>
-      <title>Flow-GRPO: Training Flow Matching Models via Online RL</title>
-      <link>https://paperswithcode.com/paper/flow-grpo-training-flow-matching-models-via</link>
-      <description><![CDATA[We propose Flow-GRPO, the first method integrating online reinforcement learning (RL) into flow matching models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/flow-grpo-training-flow-matching-models-via</guid>
-    </item>
-    <item>
-      <title>UniVLA: Learning to Act Anywhere with Task-centric Latent Actions</title>
-      <link>https://paperswithcode.com/paper/univla-learning-to-act-anywhere-with-task</link>
-      <description><![CDATA[Learned from internet-scale videos, the generalist policy can be deployed to various robots through efficient latent action decoding.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/univla-learning-to-act-anywhere-with-task</guid>
-    </item>
-    <item>
-      <title>Generating Physically Stable and Buildable LEGO Designs from Text</title>
-      <link>https://paperswithcode.com/paper/generating-physically-stable-and-buildable</link>
-      <description><![CDATA[Our experiments show that LegoGPT produces stable, diverse, and aesthetically pleasing LEGO designs that align closely with the input text prompts.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/generating-physically-stable-and-buildable</guid>
-    </item>
-    <item>
-      <title>Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning</title>
-      <link>https://paperswithcode.com/paper/paper2code-automating-code-generation-from</link>
-      <description><![CDATA[Despite the rapid growth of machine learning research, corresponding code implementations are often unavailable, making it slow and labor-intensive for researchers to reproduce results and build upon prior work.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paper2code-automating-code-generation-from</guid>
-    </item>
-    <item>
-      <title>Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models</title>
-      <link>https://paperswithcode.com/paper/attentive-reasoning-queries-a-systematic</link>
-      <description><![CDATA[We present Attentive Reasoning Queries (ARQs), a novel structured reasoning approach that significantly improves instruction-following in Large Language Models through domain-specialized reasoning blueprints.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/attentive-reasoning-queries-a-systematic</guid>
     </item>
     <item>
       <title>Aligning Anime Video Generation with Human Feedback</title>
@@ -123,10 +21,112 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/aligning-anime-video-generation-with-human</guid>
     </item>
     <item>
-      <title>LTX-Video: Realtime Video Latent Diffusion</title>
-      <link>https://paperswithcode.com/paper/ltx-video-realtime-video-latent-diffusion</link>
-      <description><![CDATA[To address this, our VAE decoder is tasked with both latent-to-pixel conversion and the final denoising step, producing the clean result directly in pixel space.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ltx-video-realtime-video-latent-diffusion</guid>
+      <title>AlphaEvolve: A Learning Framework to Discover Novel Alphas in Quantitative Investment</title>
+      <link>https://paperswithcode.com/paper/alphaevolve-a-learning-framework-to-discover</link>
+      <description><![CDATA[In this paper, we introduce a new class of alphas to model scalar, vector, and matrix features which possess the strengths of these two existing classes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alphaevolve-a-learning-framework-to-discover</guid>
+    </item>
+    <item>
+      <title>Parallel Scaling Law for Language Models</title>
+      <link>https://paperswithcode.com/paper/parallel-scaling-law-for-language-models</link>
+      <description><![CDATA[We apply $P$ diverse and learnable transformations to the input, execute forward passes of the model in parallel, and dynamically aggregate the $P$ outputs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/parallel-scaling-law-for-language-models</guid>
+    </item>
+    <item>
+      <title>Fully Open Source Moxin-7B Technical Report</title>
+      <link>https://paperswithcode.com/paper/fully-open-source-moxin-7b-technical-report</link>
+      <description><![CDATA[Recently, Large Language Models (LLMs) have undergone a significant transformation, marked by a rapid rise in both their popularity and capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fully-open-source-moxin-7b-technical-report</guid>
+    </item>
+    <item>
+      <title>FastVLM: Efficient Vision Encoding for Vision Language Models</title>
+      <link>https://paperswithcode.com/paper/fastvlm-efficient-vision-encoding-for-vision</link>
+      <description><![CDATA[At different operational resolutions, the vision encoder of a VLM can be optimized along two axes: reducing encoding latency and minimizing the number of visual tokens passed to the LLM, thereby lowering overall latency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/fastvlm-efficient-vision-encoding-for-vision</guid>
+    </item>
+    <item>
+      <title>Thinkless: LLM Learns When to Think</title>
+      <link>https://paperswithcode.com/paper/thinkless-llm-learns-when-to-think</link>
+      <description><![CDATA[Reasoning Language Models, capable of extended chain-of-thought reasoning, have demonstrated remarkable performance on tasks requiring complex logical inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/thinkless-llm-learns-when-to-think</guid>
+    </item>
+    <item>
+      <title>OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning</title>
+      <link>https://paperswithcode.com/paper/openthinkimg-learning-to-think-with-images</link>
+      <description><![CDATA[We hope OpenThinkIMG can serve as a foundational framework for advancing dynamic, tool-augmented visual reasoning, helping the community develop AI agents that can genuinely "think with images".]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/openthinkimg-learning-to-think-with-images</guid>
+    </item>
+    <item>
+      <title>MASS: Multi-Agent Simulation Scaling for Portfolio Construction</title>
+      <link>https://paperswithcode.com/paper/mass-multi-agent-simulation-scaling-for</link>
+      <description><![CDATA[LLM-based multi-agent has gained significant attention for their potential in simulation and enhancing performance.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mass-multi-agent-simulation-scaling-for</guid>
+    </item>
+    <item>
+      <title>WorldPM: Scaling Human Preference Modeling</title>
+      <link>https://paperswithcode.com/paper/worldpm-scaling-human-preference-modeling</link>
+      <description><![CDATA[Motivated by scaling laws in language modeling that demonstrate how test loss scales as a power law with model and dataset sizes, we find that similar laws exist in preference modeling.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/worldpm-scaling-human-preference-modeling</guid>
+    </item>
+    <item>
+      <title>SOAP: Style-Omniscient Animatable Portraits</title>
+      <link>https://paperswithcode.com/paper/soap-style-omniscient-animatable-portraits</link>
+      <description><![CDATA[Creating animatable 3D avatars from a single image remains challenging due to style limitations (realistic, cartoon, anime) and difficulties in handling accessories or hairstyles.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/soap-style-omniscient-animatable-portraits</guid>
+    </item>
+    <item>
+      <title>Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning</title>
+      <link>https://paperswithcode.com/paper/paper2code-automating-code-generation-from</link>
+      <description><![CDATA[Despite the rapid growth of machine learning research, corresponding code implementations are often unavailable, making it slow and labor-intensive for researchers to reproduce results and build upon prior work.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paper2code-automating-code-generation-from</guid>
+    </item>
+    <item>
+      <title>Continuous Thought Machines</title>
+      <link>https://paperswithcode.com/paper/continuous-thought-machines</link>
+      <description><![CDATA[The CTM has two core innovations: (1) neuron-level temporal processing, where each neuron uses unique weight parameters to process a history of incoming signals; and (2) neural synchronization employed as a latent representation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/continuous-thought-machines</guid>
+    </item>
+    <item>
+      <title>HealthBench: Evaluating Large Language Models Towards Improved Human Health</title>
+      <link>https://paperswithcode.com/paper/healthbench-evaluating-large-language-models</link>
+      <description><![CDATA[We present HealthBench, an open-source benchmark measuring the performance and safety of large language models in healthcare.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/healthbench-evaluating-large-language-models</guid>
+    </item>
+    <item>
+      <title>AlphaNet: Scaling Up Local-frame-based Atomistic Interatomic Potential</title>
+      <link>https://paperswithcode.com/paper/alphanet-scaling-up-local-frame-based</link>
+      <description><![CDATA[Molecular dynamics simulations demand an unprecedented combination of accuracy and scalability to tackle grand challenges in catalysis and materials design.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/alphanet-scaling-up-local-frame-based</guid>
+    </item>
+    <item>
+      <title>Spherical Channels for Modeling Atomic Interactions</title>
+      <link>https://paperswithcode.com/paper/spherical-channels-for-modeling-atomic</link>
+      <description><![CDATA[We propose the Spherical Channel Network (SCN) to model atomic energies and forces.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spherical-channels-for-modeling-atomic</guid>
+    </item>
+    <item>
+      <title>Absolute Zero: Reinforced Self-play Reasoning with Zero Data</title>
+      <link>https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</link>
+      <description><![CDATA[Reinforcement learning with verifiable rewards (RLVR) has shown promise in enhancing the reasoning capabilities of large language models by learning directly from outcome-based rewards.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/absolute-zero-reinforced-self-play-reasoning</guid>
+    </item>
+    <item>
+      <title>SkyReels-V2: Infinite-length Film Generative Model</title>
+      <link>https://paperswithcode.com/paper/skyreels-v2-infinite-length-film-generative</link>
+      <description><![CDATA[Recent advances in video generation have been driven by diffusion models and autoregressive frameworks, yet critical challenges persist in harmonizing prompt adherence, visual quality, motion dynamics, and duration: compromises in motion dynamics to enhance temporal visual quality, constrained video duration (5-10 seconds) to prioritize resolution, and inadequate shot-aware generation stemming from general-purpose MLLMs' inability to interpret cinematic grammar, such as shot composition, actor expressions, and camera motions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skyreels-v2-infinite-length-film-generative</guid>
+    </item>
+    <item>
+      <title>MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation</title>
+      <link>https://paperswithcode.com/paper/mtvcrafter-4d-motion-tokenization-for-open</link>
+      <description><![CDATA[To tackle this problem, we propose MTVCrafter (Motion Tokenization Video Crafter), the first framework that directly models raw 3D motion sequences (i. e., 4D motion) for human image animation.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/mtvcrafter-4d-motion-tokenization-for-open</guid>
+    </item>
+    <item>
+      <title>Finetune-RAG: Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation</title>
+      <link>https://paperswithcode.com/paper/finetune-rag-fine-tuning-language-models-to</link>
+      <description><![CDATA[Retrieval-Augmented Generation (RAG) has emerged as a powerful framework to improve factuality in large language models (LLMs) by grounding their outputs in retrieved documents.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/finetune-rag-fine-tuning-language-models-to</guid>
     </item>
   </channel>
 </rss>
