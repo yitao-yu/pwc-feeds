@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 09:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 21:09:36 +0000</lastBuildDate>
     <item>
       <title>TradingAgents: Multi-Agents LLM Financial Trading Framework</title>
       <link>https://paperswithcode.com/paper/tradingagents-multi-agents-llm-financial</link>
@@ -15,10 +15,10 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tradingagents-multi-agents-llm-financial</guid>
     </item>
     <item>
-      <title>self-prompting analogical reasoning for uav object detection</title>
-      <link>https://paperswithcode.com/paper/self-prompting-analogical-reasoning-for-uav</link>
-      <description><![CDATA[While for analogical reasoningmodule, graph nodes consist of category-level prompt nodes and pixel-level image feature nodes. Analogical inference is based on graph convolution.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/self-prompting-analogical-reasoning-for-uav</guid>
+      <title>MUSt3R: Multi-view Network for Stereo 3D Reconstruction</title>
+      <link>https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</link>
+      <description><![CDATA[DUSt3R introduced a novel paradigm in geometric computer vision by proposing a model that can provide dense and unconstrained Stereo 3D Reconstruction of arbitrary image collections with no prior information about camera calibration nor viewpoint poses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</guid>
     </item>
     <item>
       <title>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</title>
@@ -27,52 +27,16 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/let-them-talk-audio-driven-multi-person</guid>
     </item>
     <item>
-      <title>Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention</title>
-      <link>https://paperswithcode.com/paper/direct3d-s2-gigascale-3d-generation-made-easy</link>
-      <description><![CDATA[Generating high-resolution 3D shapes using volumetric representations such as Signed Distance Functions (SDFs) presents substantial computational and memory challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct3d-s2-gigascale-3d-generation-made-easy</guid>
+      <title>Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs</title>
+      <link>https://paperswithcode.com/paper/towards-causalgpt-a-multi-agent-approach-for</link>
+      <description><![CDATA[Drawing inspiration from the orchestration of diverse specialized agents collaborating to tackle intricate tasks, we propose a framework named Causal-Consistency Chain-of-Thought (CaCo-CoT) that harnesses multi-agent collaboration to bolster the faithfulness and causality of foundation models, involving a set of reasoners and evaluators.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-causalgpt-a-multi-agent-approach-for</guid>
     </item>
     <item>
-      <title>SkyReels-V2: Infinite-length Film Generative Model</title>
-      <link>https://paperswithcode.com/paper/skyreels-v2-infinite-length-film-generative</link>
-      <description><![CDATA[Recent advances in video generation have been driven by diffusion models and autoregressive frameworks, yet critical challenges persist in harmonizing prompt adherence, visual quality, motion dynamics, and duration: compromises in motion dynamics to enhance temporal visual quality, constrained video duration (5-10 seconds) to prioritize resolution, and inadequate shot-aware generation stemming from general-purpose MLLMs' inability to interpret cinematic grammar, such as shot composition, actor expressions, and camera motions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/skyreels-v2-infinite-length-film-generative</guid>
-    </item>
-    <item>
-      <title>R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration</title>
-      <link>https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</link>
-      <description><![CDATA[To address this, we propose Redundancy-aware KV Cache Compression for Reasoning models (R-KV), a novel method specifically targeting redundant tokens in reasoning models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</guid>
-    </item>
-    <item>
-      <title>KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction</title>
-      <link>https://paperswithcode.com/paper/kvzip-query-agnostic-kv-cache-compression</link>
-      <description><![CDATA[Transformer-based large language models (LLMs) cache context as key-value (KV) pairs during inference.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/kvzip-query-agnostic-kv-cache-compression</guid>
-    </item>
-    <item>
-      <title>Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents</title>
-      <link>https://paperswithcode.com/paper/darwin-godel-machine-open-ended-evolution-of</link>
-      <description><![CDATA[The G\"odel machine proposed a theoretical alternative: a self-improving AI that repeatedly modifies itself in a provably beneficial manner.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/darwin-godel-machine-open-ended-evolution-of</guid>
-    </item>
-    <item>
-      <title>AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning</title>
-      <link>https://paperswithcode.com/paper/areal-a-large-scale-asynchronous</link>
-      <description><![CDATA[Most existing large-scale RL systems for LLMs are synchronous, alternating generation and training in a batch setting where rollouts in each training batch are generated by the same model.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/areal-a-large-scale-asynchronous</guid>
-    </item>
-    <item>
-      <title>Wings: Learning Multimodal LLMs without Text-only Forgetting</title>
-      <link>https://paperswithcode.com/paper/wings-learning-multimodal-llms-without-text</link>
-      <description><![CDATA[Initially, image and text inputs are aligned with visual learners operating alongside the main attention, balancing focus on visual elements.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/wings-learning-multimodal-llms-without-text</guid>
-    </item>
-    <item>
-      <title>Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers</title>
-      <link>https://paperswithcode.com/paper/paper2poster-towards-multimodal-poster</link>
-      <description><![CDATA[To address this challenge, we introduce the first benchmark and metric suite for poster generation, which pairs recent conference papers with author-designed posters and evaluates outputs on (i)Visual Quality-semantic alignment with human posters, (ii)Textual Coherence-language fluency, (iii)Holistic Assessment-six fine-grained aesthetic and informational criteria scored by a VLM-as-judge, and notably (iv)PaperQuiz-the poster's ability to convey core paper content as measured by VLMs answering generated quizzes.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/paper2poster-towards-multimodal-poster</guid>
+      <title>MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments</title>
+      <link>https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</link>
+      <description><![CDATA[To overcome this limitation, we introduce the Multimodal Embodied Interactive Agent (MEIA), capable of translating high-level tasks expressed in natural language into a sequence of executable actions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</guid>
     </item>
     <item>
       <title>HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters</title>
@@ -81,34 +45,52 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</guid>
     </item>
     <item>
-      <title>QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos</title>
-      <link>https://paperswithcode.com/paper/queen-quantized-efficient-encoding-of-dynamic</link>
-      <description><![CDATA[Online free-viewpoint video (FVV) streaming is a challenging problem, which is relatively under-explored.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/queen-quantized-efficient-encoding-of-dynamic</guid>
+      <title>GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control</title>
+      <link>https://paperswithcode.com/paper/gen3c-3d-informed-world-consistent-video</link>
+      <description><![CDATA[Our results demonstrate more precise camera control than prior work, as well as state-of-the-art results in sparse-view novel view synthesis, even in challenging settings such as driving scenes and monocular dynamic video.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/gen3c-3d-informed-world-consistent-video</guid>
     </item>
     <item>
-      <title>RWKV-7 "Goose" with Expressive Dynamic State Evolution</title>
-      <link>https://paperswithcode.com/paper/rwkv-7-goose-with-expressive-dynamic-state</link>
-      <description><![CDATA[We present RWKV-7 "Goose", a new sequence modeling architecture with constant memory usage and constant inference time per token.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rwkv-7-goose-with-expressive-dynamic-state</guid>
+      <title>SkyReels-V2: Infinite-length Film Generative Model</title>
+      <link>https://paperswithcode.com/paper/skyreels-v2-infinite-length-film-generative</link>
+      <description><![CDATA[Recent advances in video generation have been driven by diffusion models and autoregressive frameworks, yet critical challenges persist in harmonizing prompt adherence, visual quality, motion dynamics, and duration: compromises in motion dynamics to enhance temporal visual quality, constrained video duration (5-10 seconds) to prioritize resolution, and inadequate shot-aware generation stemming from general-purpose MLLMs' inability to interpret cinematic grammar, such as shot composition, actor expressions, and camera motions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/skyreels-v2-infinite-length-film-generative</guid>
     </item>
     <item>
-      <title>Representing Long Volumetric Video with Temporal Gaussian Hierarchy</title>
-      <link>https://paperswithcode.com/paper/representing-long-volumetric-video-with</link>
-      <description><![CDATA[In addition, the tree-like structure of the Gaussian hierarchy allows us to efficiently represent the scene at a particular moment with a subset of Gaussian primitives, leading to nearly constant GPU memory usage during the training or rendering regardless of the video length.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/representing-long-volumetric-video-with</guid>
+      <title>Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention</title>
+      <link>https://paperswithcode.com/paper/direct3d-s2-gigascale-3d-generation-made-easy</link>
+      <description><![CDATA[Generating high-resolution 3D shapes using volumetric representations such as Signed Distance Functions (SDFs) presents substantial computational and memory challenges.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/direct3d-s2-gigascale-3d-generation-made-easy</guid>
     </item>
     <item>
-      <title>OmniAudio: Generating Spatial Audio from 360-Degree Video</title>
-      <link>https://paperswithcode.com/paper/omniaudio-generating-spatial-audio-from-360</link>
-      <description><![CDATA[To generate spatial audio from 360-degree video, we propose a novel framework OmniAudio, which leverages self-supervised pre-training using both spatial audio data (in FOA format) and large-scale non-spatial data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omniaudio-generating-spatial-audio-from-360</guid>
+      <title>R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration</title>
+      <link>https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</link>
+      <description><![CDATA[To address this, we propose Redundancy-aware KV Cache Compression for Reasoning models (R-KV), a novel method specifically targeting redundant tokens in reasoning models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</guid>
     </item>
     <item>
-      <title>Advanced long-term earth system forecasting by learning the small-scale nature</title>
-      <link>https://paperswithcode.com/paper/advanced-long-term-earth-system-forecasting</link>
-      <description><![CDATA[Reliable long-term forecast of Earth system dynamics is heavily hampered by instabilities in current AI models during extended autoregressive simulations.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/advanced-long-term-earth-system-forecasting</guid>
+      <title>MASKSEARCH: A Universal Pre-Training Framework to Enhance Agentic Search Capability</title>
+      <link>https://paperswithcode.com/paper/masksearch-a-universal-pre-training-framework</link>
+      <description><![CDATA[In the pre-training stage, we introduce the Retrieval Augmented Mask Prediction (RAMP) task, where the model learns to leverage search tools to fill masked spans on a large number of pre-training data, thus acquiring universal retrieval and reasoning capabilities for LLMs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/masksearch-a-universal-pre-training-framework</guid>
+    </item>
+    <item>
+      <title>MagCache: Fast Video Generation with Magnitude-Aware Cache</title>
+      <link>https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</link>
+      <description><![CDATA[Existing acceleration techniques for video diffusion models often rely on uniform heuristics or time-embedding variants to skip timesteps and reuse cached features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</guid>
+    </item>
+    <item>
+      <title>Spiking Graph Convolutional Networks</title>
+      <link>https://paperswithcode.com/paper/spiking-graph-convolutional-networks-1</link>
+      <description><![CDATA[Graph Convolutional Networks (GCNs) achieve an impressive performance due to the remarkable representation ability in learning the graph information.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/spiking-graph-convolutional-networks-1</guid>
+    </item>
+    <item>
+      <title>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</title>
+      <link>https://paperswithcode.com/paper/surveyforge-on-the-outline-heuristics-memory</link>
+      <description><![CDATA[Survey paper plays a crucial role in scientific research, especially given the rapid growth of research publications.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/surveyforge-on-the-outline-heuristics-memory</guid>
     </item>
     <item>
       <title>SEW: Self-Evolving Agentic Workflows for Automated Code Generation</title>
@@ -117,16 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/sew-self-evolving-agentic-workflows-for</guid>
     </item>
     <item>
-      <title>VACE: All-in-One Video Creation and Editing</title>
-      <link>https://paperswithcode.com/paper/vace-all-in-one-video-creation-and-editing</link>
-      <description><![CDATA[Further pursuing the unification of generation and editing tasks has yielded significant progress in the domain of image content creation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vace-all-in-one-video-creation-and-editing</guid>
+      <title>RWKV-7 "Goose" with Expressive Dynamic State Evolution</title>
+      <link>https://paperswithcode.com/paper/rwkv-7-goose-with-expressive-dynamic-state</link>
+      <description><![CDATA[We present RWKV-7 "Goose", a new sequence modeling architecture with constant memory usage and constant inference time per token.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/rwkv-7-goose-with-expressive-dynamic-state</guid>
     </item>
     <item>
-      <title>Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems</title>
-      <link>https://paperswithcode.com/paper/which-agent-causes-task-failures-and-when-on</link>
-      <description><![CDATA[In this paper, we propose and formulate a new research area: automated failure attribution for LLM multi-agent systems.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/which-agent-causes-task-failures-and-when-on</guid>
+      <title>Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting</title>
+      <link>https://paperswithcode.com/paper/dolphin-document-image-parsing-via</link>
+      <description><![CDATA[Document image parsing is challenging due to its complexly intertwined elements such as text paragraphs, figures, formulas, and tables.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/dolphin-document-image-parsing-via</guid>
+    </item>
+    <item>
+      <title>DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products</title>
+      <link>https://paperswithcode.com/paper/deltaproduct-increasing-the-expressivity-of</link>
+      <description><![CDATA[Linear Recurrent Neural Networks (linear RNNs) have emerged as competitive alternatives to Transformers for sequence modeling, offering efficient training and linear-time inference.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/deltaproduct-increasing-the-expressivity-of</guid>
+    </item>
+    <item>
+      <title>Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers</title>
+      <link>https://paperswithcode.com/paper/paper2poster-towards-multimodal-poster</link>
+      <description><![CDATA[To address this challenge, we introduce the first benchmark and metric suite for poster generation, which pairs recent conference papers with author-designed posters and evaluates outputs on (i)Visual Quality-semantic alignment with human posters, (ii)Textual Coherence-language fluency, (iii)Holistic Assessment-six fine-grained aesthetic and informational criteria scored by a VLM-as-judge, and notably (iv)PaperQuiz-the poster's ability to convey core paper content as measured by VLMs answering generated quizzes.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/paper2poster-towards-multimodal-poster</guid>
+    </item>
+    <item>
+      <title>QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos</title>
+      <link>https://paperswithcode.com/paper/queen-quantized-efficient-encoding-of-dynamic</link>
+      <description><![CDATA[Online free-viewpoint video (FVV) streaming is a challenging problem, which is relatively under-explored.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/queen-quantized-efficient-encoding-of-dynamic</guid>
     </item>
   </channel>
 </rss>
