@@ -7,7 +7,7 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 09:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 21:09:58 +0000</lastBuildDate>
     <item>
       <title>Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting</title>
       <link>https://paperswithcode.com/paper/dolphin-document-image-parsing-via</link>
@@ -27,6 +27,12 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/v-jepa-2-self-supervised-video-models-enable</guid>
     </item>
     <item>
+      <title>Efficient Part-level 3D Object Generation via Dual Volume Packing</title>
+      <link>https://paperswithcode.com/paper/efficient-part-level-3d-object-generation-via</link>
+      <description><![CDATA[Recent progress in 3D object generation has greatly improved both the quality and efficiency.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-part-level-3d-object-generation-via</guid>
+    </item>
+    <item>
       <title>Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs</title>
       <link>https://paperswithcode.com/paper/towards-causalgpt-a-multi-agent-approach-for</link>
       <description><![CDATA[Drawing inspiration from the orchestration of diverse specialized agents collaborating to tackle intricate tasks, we propose a framework named Causal-Consistency Chain-of-Thought (CaCo-CoT) that harnesses multi-agent collaboration to bolster the faithfulness and causality of foundation models, involving a set of reasoners and evaluators.]]></description>
@@ -37,12 +43,6 @@
       <link>https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</link>
       <description><![CDATA[To overcome this limitation, we introduce the Multimodal Embodied Interactive Agent (MEIA), capable of translating high-level tasks expressed in natural language into a sequence of executable actions.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</guid>
-    </item>
-    <item>
-      <title>MUSt3R: Multi-view Network for Stereo 3D Reconstruction</title>
-      <link>https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</link>
-      <description><![CDATA[DUSt3R introduced a novel paradigm in geometric computer vision by proposing a model that can provide dense and unconstrained Stereo 3D Reconstruction of arbitrary image collections with no prior information about camera calibration nor viewpoint poses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</guid>
     </item>
     <item>
       <title>VGGT: Visual Geometry Grounded Transformer</title>
@@ -57,46 +57,40 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/ming-omni-a-unified-multimodal-model-for</guid>
     </item>
     <item>
-      <title>MagCache: Fast Video Generation with Magnitude-Aware Cache</title>
-      <link>https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</link>
-      <description><![CDATA[Existing acceleration techniques for video diffusion models often rely on uniform heuristics or time-embedding variants to skip timesteps and reuse cached features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</guid>
-    </item>
-    <item>
       <title>R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration</title>
       <link>https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</link>
       <description><![CDATA[To address this, we propose Redundancy-aware KV Cache Compression for Reasoning models (R-KV), a novel method specifically targeting redundant tokens in reasoning models.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</guid>
     </item>
     <item>
-      <title>Efficient Speech Enhancement via Embeddings from Pre-trained Generative Audioencoders</title>
-      <link>https://paperswithcode.com/paper/efficient-speech-enhancement-via-embeddings</link>
-      <description><![CDATA[Recent research has delved into speech enhancement (SE) approaches that leverage audio embeddings from pre-trained models, diverging from time-frequency masking or signal prediction techniques.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-speech-enhancement-via-embeddings</guid>
+      <title>OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems</title>
+      <link>https://paperswithcode.com/paper/opt-bench-evaluating-llm-agent-on-large-scale</link>
+      <description><![CDATA[Large Language Models (LLMs) have shown remarkable capabilities in solving diverse tasks.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/opt-bench-evaluating-llm-agent-on-large-scale</guid>
     </item>
     <item>
-      <title>HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters</title>
-      <link>https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</link>
-      <description><![CDATA[This ensures the dynamic motion and strong character consistency; (ii) An Audio Emotion Module (AEM) is introduced to extract and transfer the emotional cues from an emotion reference image to the target generated video, enabling fine-grained and accurate emotion style control; (iii) A Face-Aware Audio Adapter (FAA) is proposed to isolate the audio-driven character with latent-level face mask, enabling independent audio injection via cross-attention for multi-character scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</guid>
+      <title>MUSt3R: Multi-view Network for Stereo 3D Reconstruction</title>
+      <link>https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</link>
+      <description><![CDATA[DUSt3R introduced a novel paradigm in geometric computer vision by proposing a model that can provide dense and unconstrained Stereo 3D Reconstruction of arbitrary image collections with no prior information about camera calibration nor viewpoint poses.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</guid>
     </item>
     <item>
-      <title>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</title>
-      <link>https://paperswithcode.com/paper/surveyforge-on-the-outline-heuristics-memory</link>
-      <description><![CDATA[Survey paper plays a crucial role in scientific research, especially given the rapid growth of research publications.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/surveyforge-on-the-outline-heuristics-memory</guid>
+      <title>Practical Efficiency of Muon for Pretraining</title>
+      <link>https://paperswithcode.com/paper/practical-efficiency-of-muon-for-pretraining</link>
+      <description><![CDATA[We demonstrate that Muon, the simplest instantiation of a second-order optimizer, explicitly expands the Pareto frontier over AdamW on the compute-time tradeoff.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/practical-efficiency-of-muon-for-pretraining</guid>
     </item>
     <item>
-      <title>Efficient Part-level 3D Object Generation via Dual Volume Packing</title>
-      <link>https://paperswithcode.com/paper/efficient-part-level-3d-object-generation-via</link>
-      <description><![CDATA[Recent progress in 3D object generation has greatly improved both the quality and efficiency.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-part-level-3d-object-generation-via</guid>
+      <title>ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering</title>
+      <link>https://paperswithcode.com/paper/ale-bench-a-benchmark-for-long-horizon</link>
+      <description><![CDATA[How well do AI systems perform in algorithm engineering for hard optimization problems in domains such as package-delivery routing, crew scheduling, factory production planning, and power-grid balancing?]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/ale-bench-a-benchmark-for-long-horizon</guid>
     </item>
     <item>
-      <title>PixelsDB: Serverless and NL-Aided Data Analytics with Flexible Service Levels and Prices</title>
-      <link>https://paperswithcode.com/paper/pixelsdb-serverless-and-natural-language</link>
-      <description><![CDATA[The queries are then executed by a serverless query engine that offers varying prices for different performance service levels (SLAs).]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelsdb-serverless-and-natural-language</guid>
+      <title>MAGREF: Masked Guidance for Any-Reference Video Generation</title>
+      <link>https://paperswithcode.com/paper/magref-masked-guidance-for-any-reference</link>
+      <description><![CDATA[Video generation has made substantial strides with the emergence of deep generative models, especially diffusion-based approaches.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magref-masked-guidance-for-any-reference</guid>
     </item>
     <item>
       <title>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</title>
@@ -105,28 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/let-them-talk-audio-driven-multi-person</guid>
     </item>
     <item>
-      <title>Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention</title>
-      <link>https://paperswithcode.com/paper/direct3d-s2-gigascale-3d-generation-made-easy</link>
-      <description><![CDATA[Generating high-resolution 3D shapes using volumetric representations such as Signed Distance Functions (SDFs) presents substantial computational and memory challenges.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/direct3d-s2-gigascale-3d-generation-made-easy</guid>
+      <title>HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters</title>
+      <link>https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</link>
+      <description><![CDATA[This ensures the dynamic motion and strong character consistency; (ii) An Audio Emotion Module (AEM) is introduced to extract and transfer the emotional cues from an emotion reference image to the target generated video, enabling fine-grained and accurate emotion style control; (iii) A Face-Aware Audio Adapter (FAA) is proposed to isolate the audio-driven character with latent-level face mask, enabling independent audio injection via cross-attention for multi-character scenarios.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</guid>
     </item>
     <item>
-      <title>OmniAudio: Generating Spatial Audio from 360-Degree Video</title>
-      <link>https://paperswithcode.com/paper/omniaudio-generating-spatial-audio-from-360</link>
-      <description><![CDATA[To generate spatial audio from 360-degree video, we propose a novel framework OmniAudio, which leverages self-supervised pre-training using both spatial audio data (in FOA format) and large-scale non-spatial data.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/omniaudio-generating-spatial-audio-from-360</guid>
+      <title>MagCache: Fast Video Generation with Magnitude-Aware Cache</title>
+      <link>https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</link>
+      <description><![CDATA[Existing acceleration techniques for video diffusion models often rely on uniform heuristics or time-embedding variants to skip timesteps and reuse cached features.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</guid>
     </item>
     <item>
-      <title>RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Detection and Identification</title>
-      <link>https://paperswithcode.com/paper/rfuav-a-benchmark-dataset-for-unmanned-aerial</link>
-      <description><![CDATA[In addition to the dataset, RFUAV provides a baseline preprocessing method and model evaluation tools.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/rfuav-a-benchmark-dataset-for-unmanned-aerial</guid>
+      <title>Logits-Based Finetuning</title>
+      <link>https://paperswithcode.com/paper/logits-based-finetuning</link>
+      <description><![CDATA[We deeply explore the main contributors of OOD detection and find that reconstruction-based pretext tasks have the potential to provide a generally applicable and efficacious prior, which benefits the model in learning intrinsic data distributions of the ID dataset.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/logits-based-finetuning</guid>
     </item>
     <item>
-      <title>MAGREF: Masked Guidance for Any-Reference Video Generation</title>
-      <link>https://paperswithcode.com/paper/magref-masked-guidance-for-any-reference</link>
-      <description><![CDATA[Video generation has made substantial strides with the emergence of deep generative models, especially diffusion-based approaches.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magref-masked-guidance-for-any-reference</guid>
+      <title>AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning</title>
+      <link>https://paperswithcode.com/paper/autovla-a-vision-language-action-model-for</link>
+      <description><![CDATA[Recent advancements in Vision-Language-Action (VLA) models have shown promise for end-to-end autonomous driving by leveraging world knowledge and reasoning capabilities.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autovla-a-vision-language-action-model-for</guid>
+    </item>
+    <item>
+      <title>Benchmarking Laparoscopic Surgical Image Restoration and Beyond</title>
+      <link>https://paperswithcode.com/paper/benchmarking-laparoscopic-surgical-image</link>
+      <description><![CDATA[To systematically investigate and address various forms of surgical scene degradation, we introduce a real-world open-source surgical image restoration dataset covering laparoscopic environments, called SurgClean, which involves multi-type image restoration tasks, e. g., desmoking, defogging, and desplashing.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-laparoscopic-surgical-image</guid>
     </item>
   </channel>
 </rss>
