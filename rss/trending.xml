@@ -7,12 +7,36 @@
     <atom:link href="https://github.com/yitao-yu/pwc-feeds" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 09:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 21:09:35 +0000</lastBuildDate>
     <item>
       <title>Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting</title>
       <link>https://paperswithcode.com/paper/dolphin-document-image-parsing-via</link>
       <description><![CDATA[Document image parsing is challenging due to its complexly intertwined elements such as text paragraphs, figures, formulas, and tables.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/dolphin-document-image-parsing-via</guid>
+    </item>
+    <item>
+      <title>Mirage: A Multi-Level Superoptimizer for Tensor Programs</title>
+      <link>https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</link>
+      <description><![CDATA[We introduce Mirage, the first multi-level superoptimizer for tensor programs.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/a-multi-level-superoptimizer-for-tensor</guid>
+    </item>
+    <item>
+      <title>LeVo: High-Quality Song Generation with Multi-Preference Alignment</title>
+      <link>https://paperswithcode.com/paper/levo-high-quality-song-generation-with-multi</link>
+      <description><![CDATA[To further enhance musicality and instruction following, we introduce a multi-preference alignment method based on Direct Preference Optimization (DPO).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/levo-high-quality-song-generation-with-multi</guid>
+    </item>
+    <item>
+      <title>Do Large Language Models Need a Content Delivery Network?</title>
+      <link>https://paperswithcode.com/paper/do-large-language-models-need-a-content</link>
+      <description><![CDATA[As the use of large language models (LLMs) expands rapidly, so does the range of knowledge needed to supplement various LLM queries.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/do-large-language-models-need-a-content</guid>
+    </item>
+    <item>
+      <title>PixelsDB: Serverless and NL-Aided Data Analytics with Flexible Service Levels and Prices</title>
+      <link>https://paperswithcode.com/paper/pixelsdb-serverless-and-natural-language</link>
+      <description><![CDATA[The queries are then executed by a serverless query engine that offers varying prices for different performance service levels (SLAs).]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/pixelsdb-serverless-and-natural-language</guid>
     </item>
     <item>
       <title>TradingAgents: Multi-Agents LLM Financial Trading Framework</title>
@@ -21,10 +45,28 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/tradingagents-multi-agents-llm-financial</guid>
     </item>
     <item>
+      <title>MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments</title>
+      <link>https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</link>
+      <description><![CDATA[To overcome this limitation, we introduce the Multimodal Embodied Interactive Agent (MEIA), capable of translating high-level tasks expressed in natural language into a sequence of executable actions.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</guid>
+    </item>
+    <item>
+      <title>Visual Causal Scene Refinement for Video Question Answering</title>
+      <link>https://paperswithcode.com/paper/visual-causal-scene-refinement-for-video</link>
+      <description><![CDATA[Our VCSR involves two essential modules: i) the Question-Guided Refiner (QGR) module, which refines consecutive video frames guided by the question semantics to obtain more representative segment features for causal front-door intervention; ii) the Causal Scene Separator (CSS) module, which discovers a collection of visual causal and non-causal scenes based on the visual-linguistic causal relevance and estimates the causal effect of the scene-separating intervention in a contrastive learning manner.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/visual-causal-scene-refinement-for-video</guid>
+    </item>
+    <item>
       <title>V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning</title>
       <link>https://paperswithcode.com/paper/v-jepa-2-self-supervised-video-models-enable</link>
       <description><![CDATA[Finally, we show how self-supervised learning can be applied to robotic planning tasks by post-training a latent action-conditioned world model, V-JEPA 2-AC, using less than 62 hours of unlabeled robot videos from the Droid dataset.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/v-jepa-2-self-supervised-video-models-enable</guid>
+    </item>
+    <item>
+      <title>Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model</title>
+      <link>https://paperswithcode.com/paper/stream-omni-simultaneous-multimodal</link>
+      <description><![CDATA[The emergence of GPT-4o-like large multimodal models (LMMs) has raised the exploration of integrating text, vision, and speech modalities to support more flexible multimodal interaction.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/stream-omni-simultaneous-multimodal</guid>
     </item>
     <item>
       <title>Efficient Part-level 3D Object Generation via Dual Volume Packing</title>
@@ -33,58 +75,22 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/efficient-part-level-3d-object-generation-via</guid>
     </item>
     <item>
-      <title>Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs</title>
-      <link>https://paperswithcode.com/paper/towards-causalgpt-a-multi-agent-approach-for</link>
-      <description><![CDATA[Drawing inspiration from the orchestration of diverse specialized agents collaborating to tackle intricate tasks, we propose a framework named Causal-Consistency Chain-of-Thought (CaCo-CoT) that harnesses multi-agent collaboration to bolster the faithfulness and causality of foundation models, involving a set of reasoners and evaluators.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/towards-causalgpt-a-multi-agent-approach-for</guid>
+      <title>AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents</title>
+      <link>https://paperswithcode.com/paper/autoagent-a-fully-automated-and-zero-code</link>
+      <description><![CDATA[To address this challenge, we introduce AutoAgent-a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/autoagent-a-fully-automated-and-zero-code</guid>
     </item>
     <item>
-      <title>MEIA: Multimodal Embodied Perception and Interaction in Unknown Environments</title>
-      <link>https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</link>
-      <description><![CDATA[To overcome this limitation, we introduce the Multimodal Embodied Interactive Agent (MEIA), capable of translating high-level tasks expressed in natural language into a sequence of executable actions.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/multimodal-embodied-interactive-agent-for</guid>
+      <title>EdgeTAM: On-Device Track Anything Model</title>
+      <link>https://paperswithcode.com/paper/edgetam-on-device-track-anything-model</link>
+      <description><![CDATA[Given that video segmentation is a dense prediction task, we find preserving the spatial structure of the memories is essential so that the queries are split into global-level and patch-level groups.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/edgetam-on-device-track-anything-model</guid>
     </item>
     <item>
-      <title>VGGT: Visual Geometry Grounded Transformer</title>
-      <link>https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</link>
-      <description><![CDATA[We present VGGT, a feed-forward neural network that directly infers all key 3D attributes of a scene, including camera parameters, point maps, depth maps, and 3D point tracks, from one, a few, or hundreds of its views.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</guid>
-    </item>
-    <item>
-      <title>Ming-Omni: A Unified Multimodal Model for Perception and Generation</title>
-      <link>https://paperswithcode.com/paper/ming-omni-a-unified-multimodal-model-for</link>
-      <description><![CDATA[We propose Ming-Omni, a unified multimodal model capable of processing images, text, audio, and video, while demonstrating strong proficiency in both speech and image generation.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ming-omni-a-unified-multimodal-model-for</guid>
-    </item>
-    <item>
-      <title>R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration</title>
-      <link>https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</link>
-      <description><![CDATA[To address this, we propose Redundancy-aware KV Cache Compression for Reasoning models (R-KV), a novel method specifically targeting redundant tokens in reasoning models.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</guid>
-    </item>
-    <item>
-      <title>OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems</title>
-      <link>https://paperswithcode.com/paper/opt-bench-evaluating-llm-agent-on-large-scale</link>
-      <description><![CDATA[Large Language Models (LLMs) have shown remarkable capabilities in solving diverse tasks.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/opt-bench-evaluating-llm-agent-on-large-scale</guid>
-    </item>
-    <item>
-      <title>MUSt3R: Multi-view Network for Stereo 3D Reconstruction</title>
-      <link>https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</link>
-      <description><![CDATA[DUSt3R introduced a novel paradigm in geometric computer vision by proposing a model that can provide dense and unconstrained Stereo 3D Reconstruction of arbitrary image collections with no prior information about camera calibration nor viewpoint poses.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/must3r-multi-view-network-for-stereo-3d</guid>
-    </item>
-    <item>
-      <title>Practical Efficiency of Muon for Pretraining</title>
-      <link>https://paperswithcode.com/paper/practical-efficiency-of-muon-for-pretraining</link>
-      <description><![CDATA[We demonstrate that Muon, the simplest instantiation of a second-order optimizer, explicitly expands the Pareto frontier over AdamW on the compute-time tradeoff.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/practical-efficiency-of-muon-for-pretraining</guid>
-    </item>
-    <item>
-      <title>ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering</title>
-      <link>https://paperswithcode.com/paper/ale-bench-a-benchmark-for-long-horizon</link>
-      <description><![CDATA[How well do AI systems perform in algorithm engineering for hard optimization problems in domains such as package-delivery routing, crew scheduling, factory production planning, and power-grid balancing?]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/ale-bench-a-benchmark-for-long-horizon</guid>
+      <title>SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models</title>
+      <link>https://paperswithcode.com/paper/soundmind-rl-incentivized-logic-reasoning-for</link>
+      <description><![CDATA[While large language models have shown reasoning capabilities, their application to the audio modality, particularly in large audio-language models (ALMs), remains significantly underdeveloped.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/soundmind-rl-incentivized-logic-reasoning-for</guid>
     </item>
     <item>
       <title>MAGREF: Masked Guidance for Any-Reference Video Generation</title>
@@ -93,40 +99,34 @@
       <guid isPermaLink="true">https://paperswithcode.com/paper/magref-masked-guidance-for-any-reference</guid>
     </item>
     <item>
+      <title>VGGT: Visual Geometry Grounded Transformer</title>
+      <link>https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</link>
+      <description><![CDATA[We present VGGT, a feed-forward neural network that directly infers all key 3D attributes of a scene, including camera parameters, point maps, depth maps, and 3D point tracks, from one, a few, or hundreds of its views.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vggt-visual-geometry-grounded-transformer</guid>
+    </item>
+    <item>
+      <title>VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use</title>
+      <link>https://paperswithcode.com/paper/vtool-r1-vlms-learn-to-think-with-images-via</link>
+      <description><![CDATA[Reinforcement Learning Finetuning (RFT) has significantly advanced the reasoning capabilities of large language models (LLMs) by enabling long chains of thought, self-correction, and effective tool use.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/vtool-r1-vlms-learn-to-think-with-images-via</guid>
+    </item>
+    <item>
+      <title>R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration</title>
+      <link>https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</link>
+      <description><![CDATA[To address this, we propose Redundancy-aware KV Cache Compression for Reasoning models (R-KV), a novel method specifically targeting redundant tokens in reasoning models.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/r-kv-redundancy-aware-kv-cache-compression</guid>
+    </item>
+    <item>
       <title>Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation</title>
       <link>https://paperswithcode.com/paper/let-them-talk-audio-driven-multi-person</link>
       <description><![CDATA[Audio-driven human animation methods, such as talking head and talking body generation, have made remarkable progress in generating synchronized facial movements and appealing visual quality videos.]]></description>
       <guid isPermaLink="true">https://paperswithcode.com/paper/let-them-talk-audio-driven-multi-person</guid>
     </item>
     <item>
-      <title>HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters</title>
-      <link>https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</link>
-      <description><![CDATA[This ensures the dynamic motion and strong character consistency; (ii) An Audio Emotion Module (AEM) is introduced to extract and transfer the emotional cues from an emotion reference image to the target generated video, enabling fine-grained and accurate emotion style control; (iii) A Face-Aware Audio Adapter (FAA) is proposed to isolate the audio-driven character with latent-level face mask, enabling independent audio injection via cross-attention for multi-character scenarios.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/hunyuanvideo-avatar-high-fidelity-audio</guid>
-    </item>
-    <item>
-      <title>MagCache: Fast Video Generation with Magnitude-Aware Cache</title>
-      <link>https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</link>
-      <description><![CDATA[Existing acceleration techniques for video diffusion models often rely on uniform heuristics or time-embedding variants to skip timesteps and reuse cached features.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/magcache-fast-video-generation-with-magnitude</guid>
-    </item>
-    <item>
-      <title>Logits-Based Finetuning</title>
-      <link>https://paperswithcode.com/paper/logits-based-finetuning</link>
-      <description><![CDATA[We deeply explore the main contributors of OOD detection and find that reconstruction-based pretext tasks have the potential to provide a generally applicable and efficacious prior, which benefits the model in learning intrinsic data distributions of the ID dataset.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/logits-based-finetuning</guid>
-    </item>
-    <item>
-      <title>AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning</title>
-      <link>https://paperswithcode.com/paper/autovla-a-vision-language-action-model-for</link>
-      <description><![CDATA[Recent advancements in Vision-Language-Action (VLA) models have shown promise for end-to-end autonomous driving by leveraging world knowledge and reasoning capabilities.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/autovla-a-vision-language-action-model-for</guid>
-    </item>
-    <item>
-      <title>Benchmarking Laparoscopic Surgical Image Restoration and Beyond</title>
-      <link>https://paperswithcode.com/paper/benchmarking-laparoscopic-surgical-image</link>
-      <description><![CDATA[To systematically investigate and address various forms of surgical scene degradation, we introduce a real-world open-source surgical image restoration dataset covering laparoscopic environments, called SurgClean, which involves multi-type image restoration tasks, e. g., desmoking, defogging, and desplashing.]]></description>
-      <guid isPermaLink="true">https://paperswithcode.com/paper/benchmarking-laparoscopic-surgical-image</guid>
+      <title>IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System</title>
+      <link>https://paperswithcode.com/paper/indextts-an-industrial-level-controllable-and</link>
+      <description><![CDATA[Recently, large language model (LLM) based text-to-speech (TTS) systems have gradually become the mainstream in the industry due to their high naturalness and powerful zero-shot voice cloning capabilities. Here, we introduce the IndexTTS system, which is mainly based on the XTTS and Tortoise model.]]></description>
+      <guid isPermaLink="true">https://paperswithcode.com/paper/indextts-an-industrial-level-controllable-and</guid>
     </item>
   </channel>
 </rss>
